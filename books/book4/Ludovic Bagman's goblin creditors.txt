@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=goblin
+|image=
+|name=Goblin creditors
+|hideb=1
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Goblin]]s<ref name="GOF37"/>
+|gender=Males (most likely)
+|height=
+|hair=
+|eyes=Black
+|skin=
+|hidef=1
+|family=
+|hidea=
+|job=Creditors<ref name="GOF37"/>
+|loyalty=
+}}
+These '''creditors''' were a group of [[goblin]]s that had lent [[Ludovic Bagman|Ludo Bagman]] a large amount of [[Wizarding currency|gold]].<ref name="GOF37"/>
+
+==History==
+When it came to repaying his debt, Bagman gave the goblins [[Leprechaun gold]], which would disappear after a few hours. As such, the goblins were furious, and tracked him down during the 422nd [[Quidditch World Cup]] in [[1994]], and stripped him of everything he had on him, most of which came from his recent gambling winnings.<ref name="GOF9">{{GOF|B|9}}</ref><ref name="GOF37"/>
+
+Eventually, the group of creditors calculated that even with all the money they got from Bagman, it was still not enough to pay off the debt completely, and they tracked him down again in [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] for further payment. However, as Bagman lost all his money gambling, he could not pay them. As such, the goblins kept a close watch on Bagman so he could not escape them.<ref name="GOF37"/>
+
+When [[Harry Potter]]'s name came out of the [[Goblet of Fire]] and becoming the fourth champion of the [[Triwizard Tournament]], Bagman made a double-or-nothing bet against the goblins: the Head of the [[Department of Magical Games and Sports]] gambled for Harry's victory in the tournament.<ref name="GOF37"/>
+
+Eventually, Harry did win the tournament in the third task, but was also tied with [[Cedric Diggory]] for both of them touching the [[Triwizard Cup]] at the same time, and since both their scores were equal, it was a double victory. The goblin creditors took this into account, saying that Harry did not win, but instead tied with Diggory, which went against Bagman's bet for Harry's sole victory. Therefore, Bagman lost and his debt greatly increased.<ref name="GOF37"/>
+
+However, right after this loss, Bagman immediately fled.<ref name="GOF37">{{GOF|B|37}}</ref> It is unknown if the goblins ever caught Bagman, but due to this cheat, the general goblin population has their already strained trust towards wizards even more damaged, which influenced their decision of not willing to participate in the [[Second Wizarding War]].<ref name="OOTP5">{{OOTP|B|5}}</ref>
+
+==Personality and Traits==
+The group of goblins were typical for their race: they held debts and repayment to the highest order, and tracked down Bagman and took everything he had for the money they loaned him. However, they did like to gamble, and were willing to bet with Bagman for his marker, in the hopes of winning more money. Just like Bagman, they could turn very nasty in gambling, using clever loopholes to prevent Bagman from winning, saying that since the results were not specifically what the man wagered, he did not win. They also lost their trust in [[human]]s when he fled from this final loss.<ref name="GOF37"/>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Gobelins créanciers de Ludo Verpey]]
+[[Category:Bankers]]
+[[Category:Black-eyed individuals]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]

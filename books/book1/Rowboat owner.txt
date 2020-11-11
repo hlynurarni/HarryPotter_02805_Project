@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Quote|A toothless old man came ambling up to them, pointing, with a rather wicked grin, at an old rowing boat bobbing in the iron-grey water below them.|The Dursleys meet the rowboat owner|Harry Potter and the Philosopher's Stone}}{{Individual infobox
+|theme = muggle
+|image = [[File:Rowboat owner.JPG]]
+|name = Rowboat owner
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PS3"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS3"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS3"/>
+|gender = Male<ref name="PS3"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''rowboat owner''' was a toothless old [[Non-magic people|Muggle]]. In [[1991]], he lent his [[Toothless old man's rowboat|rowboat]] to [[Vernon Dursley]], so that the [[Dursley family|Dursleys]] and [[Harry Potter]] could get to the [[Hut-on-the-Rock|hut placed on a rock off the sea coast]], and subsequently spend the night there.<ref name="PS3">{{PS|B|3}}</ref> They needed to do so, because Vernon and [[Petunia Dursley]] wanted to escape the grasp of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. But they were unsuccessful, as [[Rubeus Hagrid]] appeared and personally delivered Harry's letter.<ref name="PS4">{{PS|B|4}}</ref> It is uncertain whether he returned for the [[Dursley family|Dursleys]], or they returned to the mainland on some other transportation.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}} {{Comment|Concept Artwork only}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Propriétaire de la barque]]
+[[ru:Владелец лодки]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

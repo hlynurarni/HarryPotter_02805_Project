@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Alexei Levski.png]]
+|name = Alexei Levski
+|born = before [[1977]], [[Bulgaria]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Bulgaria]]n
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Green
+|skin = White
+|family = [[Bogomil Levski]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Bulgarian National Quidditch team]] (formerly)
+|house = 
+|loyalty = *[[Levski family]]
+*[[Bulgarian National Quidditch team]]
+}}
+'''Alexei Levski''' was a [[Bulgaria]]n [[wizardkind|wizard]] who played as the [[Chaser]] for the [[Bulgarian National Quidditch team]] during the [[1994]] [[Quidditch World Cup]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Levski's [[Chocolate Frog Card]] could be won by beating [[Sally Birchgrove]] at a [[Quidditch]] challenge.<ref>{{HBP|G}} {{c|NDS edition}}</ref>
+
+==Etymology==
+Levski is a Bulgarian nickname-turned-surname of the freedom fighter Vasil Ivanov Kunchev, meaning "leonine" in reference to his athletic qualities and bravery. It is not used as a surname for other individuals.
+
+==Behind the scenes==
+*In the [[Harry Potter (book series)|books]], this character is known only by his surname. His first name is given as "Alexei" on a [[Chocolate Frog Card|Famous Wizard Card]] in the [[Harry Potter and the Half-Blood Prince (video game)|video game version]] of {{HBP}}.
+*Alternatively, a spoof article by Sports Illustrated about the [[Quidditch World Cup]] gives his first name as Jakob.
+*One of Bulgaria's most popular football teams is named after Vasil Levski, which creates additional allusions of Quidditch being the football counterpart of the wizarding community.
+*"Levski" was the nickname of Vasil Ivanov Kunchev - a Bulgarian revolutionary renowned as the national hero of Bulgaria. Dubbed the ''Apostle of Freedom'', Levski ideologised and strategised a revolutionary movement toliberate Bulgaria from Ottoman rule. He was sentenced to death and hanged in 1873.
+*Levski is not a typical surname in Bulgaria.
+
+==Appearances==
+*{{GOF}} {{c|Possible appearance}}
+*{{GOF|F}} {{c|Possible appearance}}
+*{{QWC}}
+*{{HBP|G}} {{c|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Levski, Alexei}}
+[[de:Lewski]]
+[[es:Alexei Levski]]
+[[fr:Alexei Levski]]
+[[pl:Alexei Lewski]]
+[[ru:Алексей Левски]]
+[[Category:20th century births]]
+[[Category:Bulgarian individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Green-eyed individuals]]
+[[Category:Levski family]]
+[[Category:Males]]
+[[Category:Wizards]]

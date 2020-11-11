@@ -1,0 +1,103 @@
+{{Spoiler|WU|HM}}
+{{Creature infobox
+|image = [[File:Gnome - Hogwarts Mystery.png]]
+|name = Gnome
+|skin = Brown or lime
+|eyes = 
+|hair = 
+|feathers = 
+|related = 
+|native = *[[Europe]]<ref name="FBR"/>
+*[[North America]]<ref name="FBR"/>
+|alias = *Garden gnome<ref name="FBR"/>
+*''Gernumbli gardensi''<ref name="DH8"/>
+*''Gernumblies'' (plural)<ref name="DH8"/>
+|height = 1 ft. (max.)
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = *Potato-like heads
+*Sharp biting teeth<ref name="CS3"/>
+*Harmless nature
+*Tend to infest gardens<ref name="FBR"/><ref name="CS3"/>
+*Feast on vegetation and worms
+|affiliation = 
+|class = [[Beast]]<br/>[[XX]]<ref name="FBR"/>
+|status = Extant
+}}
+{{Quote|The gnome is a common garden pest found throughout northern Europe and North America.|Description|Fantastic Beasts and Where to Find Them}}
+A '''gnome''', or '''garden gnome''', is a small [[magic]]al [[beast]] commonly known to infest the gardens of [[Wizardkind|wizarding]] households. The correct taxonomic name for gnomes is, purportedly, ''Gernumbli gardensi'', or sometimes referred to as ''Gernumblies''. They are found throughout northern [[Europe]] and [[North America]].<ref name="FBR"/>
+
+==Nature==
+Gnomes can reach a size of approximately one foot, making them smaller than [[Erkling]]s. They are usually brown in colour and have disproportionately large heads, making them look like potatoes with legs. Although not dangerous creatures, they possess razor sharp teeth and tend to bite.<ref name="FBR">{{FB|R}}</ref>
+
+Their feet are hard and bony, and they do not look anything like the [[garden gnome]]s of Muggles (which, according to [[Ronald Weasley]], look like little [[Father Christmas]]es with fishing rods).<ref name="CS3"/>
+
+===Ecology===
+[[File:DeGnomingPMB2TheBurrow.jpg|246x246px|thumb|left|The Gnome infestation living in the Weasley garden]]
+Gnomes live in burrows underground, known as gnomeholes,<ref name="CS3">{{COS|B|3}}</ref> where they dig up and eat the roots of plants<ref name="JKRint">[http://www2.scholastic.com/browse/article.jsp?id=10198 Interview With J. K. Rowling - Scholastic.com]</ref>, creating little heaps of earth around gardens a lot like moles (and as such causing considerable damage to them). Gnomes prefer to live in wizarding gardens, and may run out and attempt to trip the unwary traveller.<ref name="POAG">{{POA|G}}</ref>
+
+Gnomes also seem to like worms<ref name="HBP16">{{HBP|B|16}}</ref> and [[Bertie Bott's Every-Flavour Beans]]. The natural predator of the Gnome is the [[Jarvey]], a magical beast resembling an overgrown ferret.
+
+[[Crookshanks]] was fond of chasing gnomes around the garden of [[The Burrow]], and the gnomes seemed just as fond of being chased. According to [[Muriel]] they are quick breeders.<ref name="DH8">{{DH|B|8}}</ref>
+
+==Gnomes in the wizarding world==
+[[File:Gnome Book of Spells.png|150px|thumb|The Gnome]]
+According to [[Xenophilius Lovegood]], having an infestation of these creatures in one's garden is a sort of blessing. When his daughter Luna was bitten by a gnome, he exclaimed that [[gnome saliva]] had many unusual and beneficial properties, such as the ability to suddenly increase one's creativity (in particular, he said it might make one have the urge to sing opera, or give speeches in [[Mermish]]).<ref name="DH8"/>
+
+[[Luna Lovegood]] then told Harry that her father had done a lot of research of Gernumbli [[magic]], so at least in the Lovegood's view of things (which always had to be taken with a grain of salt) gnomes may possess unique[[magic| magical]] abilities, distinct from [[Wizardkind|wizarding]] magic.<ref name="DH8"/>
+
+===Interaction with humans===
+{{Quote|The gnome can be expelled from the garden by swinging it in circles until dizzy and then dropping it over the garden wall. Alternatively a Jarvey may be used, though many wizards nowadays find this method of gnome-control too brutal.|Instructions on how to de-gnome a garden|Fantastic Beasts and Where to Find Them}}
+[[File:Gnome_Christmas_tree_concept_art_1.jpg|222x222px|thumb|A gnome on top of the Weasleys' [[Christmas]] tree]]
+
+Because of the havoc they wreak upon gardens and the fact that they are somewhat of a giveaway of wizarding homes,<ref name="JKRint" /> gnomes are deemed pests by the [[Wizarding world|wizarding community]]. 'Gnome-control' typically consists of taking hold of the gnomes, swinging them around until they are dizzy, and then throwing them beyond the yard's perimeter fence or wall. Gnomes have the ability to speak, or at least make noises, squealing "''Gerroff me!''" when caught,<ref name="CS3"/> and can be taught swear words.<ref name="DH8">{{DH|B|8}}</ref> They are also able to scream when thrown away and mumble angrily when they walk away. However they often laugh when a [[de-gnoming]] is not done properly.
+
+Interestingly, the species has such a low level of intelligence that when a de-gnoming is being carried out they will hurry out of their burrows to see what's causing the commotion, which only renders them easier to catch. Alternatively, one can use a [[Jarvey]] to de-gnome a garden, but this method is considered much too violent and thus is seldom used.<ref name="FBR"/>
+
+The [[Weasley family|Weasleys]] had to regularly de-gnome the garden by throwing them over the hedge. However, the gnomes always sneaked back in since [[Arthur Weasley]] was soft on them and thought they were funny.<ref name="CS3"/> This may suggest that they have a bit of intelligence, or a clever sub-species of the gnomes exist.
+
+==Behind the scenes==
+*The {{wplink|gnome}} was originally created by [[Phillipus von Hohenheim|Paracelsus]] in his alchemical works as a diminutive earth elemental. The creature was later picked up by other writers.
+*It is possible gnomes possess some degree of magical resistance, which would explain why de-gnoming is achieved through physical means (be it throwing them out or a Jarvey) rather than with some sort of spells.
+
+==Appearances==
+{{Imagecat|Images of Gnomes}}
+[[File:LEGO_Gnome.png|86px|thumb|A Gnome in {{LEGO|Y1}}]]
+*{{PS|G}}
+*{{COS}} {{1st}}
+*{{COS|F}} {{C|Mentioned only in Disc 2}}
+*{{COS|G}}
+*{{POA|G}} {{FWC}}
+*{{GOF}}
+*{{HBP}}
+*{{DH}}
+*{{DH|F1}} {{Mention}}
+*{{DH|G1}} {{Mention}}
+*{{FB|R}} 
+*{{LEGO|Y1}} 
+*{{LEGO|Y2}}
+*{{TCG}}
+*{{PM}}
+*{{WBS}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+{{Creatures by classification}}
+[[de:Gnom]]
+[[es:Gnomo]]
+[[fr:Gnome]]
+[[pl:Gnom]]
+[[ru:Гном садовый]]
+[[pt-br:Gnomo]]
+[[Category:Beast Chocolate Frog Cards]]
+[[Category:Confoundables]]
+[[Category:Creatures from Europe]]
+[[Category:Creatures from North America]]
+[[Category:Folio Bruti entries]]
+[[Category:Gnomes]]
+[[Category:Muggle-known creatures]]

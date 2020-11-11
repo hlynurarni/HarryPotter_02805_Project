@@ -1,0 +1,78 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:King's Cross Station guard.png|250px]]
+|name = King's Cross station guard
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Guard at [[King's Cross Station]] (c. [[1991]]-at least [[2017]])
+|house = 
+|loyalty = [[King's Cross Station]]
+}}
+This unnamed '''Station Guard''' was employed at [[King's Cross Station]], [[London]], during at least the [[1990s]] through the [[2010s]].
+
+==Biography==
+===1991===
+{{Dialogue a-b|Harry Potter|Excuse me sir. Can you tell me where I might find Platform 9¾?|Station guard|9¾? Think you're being funny do you?|Harry, searching for Platform 9¾|Harry Potter and the Philosopher's Stone (film)}}
+
+[[Harry Potter]] first met the station guard in [[1991]], while trying to find his way to [[King's Cross Station#Platform 9¾|Platform 9¾]]. When Harry mentioned the name of the platform, the guard thought Harry was mocking him, because, not being a wizard, he did not know it existed.<ref>{{PS|F}}</ref>
+
+[[File:Station guard 1.jpg|170px|thumb|right|The station guard in 1991]]
+
+===1992===
+{{Dialogue a-b|Station guard|What d'you two think you're doing?|Harry Potter|Sorry. Lost... lost control of the trolley|The guard's reaction to [[Harry Potter|Harry]] and [[Ronald Weasley|Ron]]'s collision with a wall|Harry Potter and the Chamber of Secrets (film)}}
+
+In [[1992]], Harry and [[Ronald Weasley|Ron Weasley]] tried entering Platform 9¾, but were prevented from doing so as the entrance had been magically blocked by the [[House-elf]] [[Dobby]]. The station guard saw the two boys running into the wall and asked them what they were doing. Harry got away, telling him that the two lost control of their trolleys.<ref>{{COS|F}}</ref>
+[[File:Statios.jpg|170px|thumb|In 2017]]
+
+===2017===
+In [[2017]], this individual was still employed at [[King's Cross Station|King's Cross]].
+
+==Behind the scenes==
+*The station guard was portrayed by [[Harry Taylor]] in ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]'', ''[[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]'' and {{DH|F2}}.
+*He originally appeared in the Epilogue scene at King's Cross station, but he was cut from the second shoot of the scene.
+*The guard is also a playable character in the consoles versions of the LEGO video games.
+*In {{LEGO|Y2}}, despite being a [[Non-magic people|Muggle]] he appears in [[Platform Nine and Three-Quarters]] and in the [[Hogsmeade station]].
+
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{COS}} {{Comment|Possible appearance}}
+*{{COS|F}}
+*{{DH|F2}} {{Comment|Cut from final edit}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Character-stub}}
+[[fr:Chef de gare]]
+[[ru:Работник вокзала Кингс Кросс]]
+[[pl:Strażnik King's Cross]]
+[[Category:British individuals]]
+[[Category:King's Cross Station]]
+[[Category:Males]]
+
+[[Category:Security guards]]
+[[Category:Unidentified Muggles‎]]

@@ -1,0 +1,82 @@
+{{Individual infobox
+|theme = giant
+|image = 
+|name = Golgomath
+|born = Before [[1995]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Gurg]]
+|signature = 
+|species = [[Giant]]
+|gender = Male
+|height = c. 25 feet
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Gurg]] of the [[giant colony]]
+|house = 
+|loyalty = *[[Giant colony]]
+*[[Tom Riddle|Lord Voldemort]]
+**[[Death Eaters]]
+}}
+{{Dialogue a-b-a|Rubeus Hagrid|That night a fight broke out, we saw it from the mouth of our cave, lookin' down on the valley. Went on fer hours, yeh wouldn' believe the noise. An' when the sun came up the snow was scarlet an' his head was lyin' at the bottom o' the lake.|Hermione Granger|Whose head?|Karkus's. There was a new Gurg, Golgomath. Well, we hadn' bargained on a new Gurg two days after we'd made friendly contact with the firs' one, an' we had a funny feelin' Golgomath wouldn' be so keen ter listen to us, but we had ter try.|Hagrid discusses the new Gurg|Harry Potter and the Order of the Phoenix}}
+'''Golgomath''' was a [[giant]] with the [[giant colony]] in Northern [[Europe]] and an ally to [[Tom Riddle|Lord Voldemort]] and the [[Death Eaters]].
+
+==Biography==
+Very little of Golgomath's history is recorded. He beheaded the [[Gurg]] of the colony, [[Karkus]], and assumed leadership of the giants. He also took [[Goblin-made battle helmet|Karkus' helmet]], which was a gift from the envoys of [[Albus Dumbledore]].<ref name="OOTP20">{{OOTP|B|20}}</ref>
+
+When [[Rubeus Hagrid]] and [[Olympe Maxime]] decided to continue with their negotiations where they left off with Karkus, with a roll of dragon skin, Golgomath ordered two giants to lift Hagrid up, which resulted in Madame Maxime attacking them with magic, an act that brought their negotiations to an end.<ref name="OOTP20"/>
+
+Golgomath also favoured the [[Death Eaters]] when they came to the colony to persuade the giants to rejoin [[Tom Riddle|Lord Voldemort]]'s forces. Golgomath and the Death Eaters' envoy, [[Walden Macnair]], got along very well, as they both loved to kill. Macnair and another Death Eater had been consorting with Golgomath for some time, visiting and offering gifts. Golgomath told Macnair about Hagrid and Madame Maxime being there, and eventually allied the giants with Lord Voldemort, and ordered his underlings to raid the caves of the valley for giants who didn't agree with Golgomath's leadership.<ref name="OOTP20"/>
+
+It is unclear whether or not Golgomath was among the giants that fought at the [[Battle of Hogwarts]], but given his status as Gurg, it is highly probable that he was. His ultimate fate following Voldemort's defeat is also unknown: he may have either returned to his position as Gurg, been challenged and defeated by another giant, or else been killed during or after the war for allying with the Death Eaters.
+
+==Physical appearance==
+He was one of the biggest giants among his colony, being about twenty-five feet tall, with matching black teeth and a necklace of bones, some of which looked like human bones.<ref name="OOTP20"/>
+
+==Personality and traits==
+Like many of [[Giant|his kind]], Golgomath was a savage and ferocious-mannered Giant. He was also a powerful warrior and had a desire to slaughter others. He did also get along with [[Death Eaters]], especially the equally murderous [[Walden Macnair]]. It was due to his friendship with Macnair that he rejected Hagrid and Maxime's attempt to negotiate, going as far as to attack them without so much as hearing them out.<ref name="OOTP20"/>
+
+==Etymology==
+Golgomath's name is derived from the number "[[Wikipedia:Googol|googol]]." Its numerical value is a single digit 1 with one hundred zeros afterwards, or 10<sup>100</sup>. Obviously, this is a huge number, which is fitting for one of the largest of the giants. An alternative would be Golgotha or Calvary, the hill outside Jerusalem on which Christ was reputedly crucified. The name means "(place of the) skull", ''gulgulta'' in Aramaic with the Hebew cognate being ''gulgoleth''. The Ancient Greek ''manthano'', from which math is derived, means "learn" or "be taught", so together the bearer would have "learn(t) in the place of the skull (death)", which would seem, to sum up this tiny, enclosed valley.
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Karkus]]
+|position=[[Gurg]] of Giants in the North
+|years=[[1995]]
+|successor=Incumbent
+}}
+{{End box}}
+
+{{Death Eaters}}
+
+{{Giants}}
+
+[[de:Golgomath]]
+[[es:Golgomath]]
+[[fr:Golgomath]]
+[[pl:Golgomat]]
+[[ru:Голгомаф]]
+[[pt-br:Golgomate]]
+[[Category:Death Eater allies]]
+[[Category:Giants]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Royalty]]

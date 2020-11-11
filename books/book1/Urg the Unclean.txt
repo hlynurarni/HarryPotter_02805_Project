@@ -1,0 +1,60 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = goblin
+|image = [[File:Urg the Unclean.jpg|250px]]
+|name = Urg the Unclean
+|born = c. [[18th century]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = 
+|skin = Tan
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Rebel leader
+|house = 
+|loyalty = [[Goblin]]kind
+}}
+{{Quote|Rebel leader in the 18th century goblin rebellion.|[[Chocolate Frog Card]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+'''Urg the Unclean '''(fl. [[18th century]]) was a [[goblin]] rebel who became notorious for having led the [[18th century]] [[Goblin Rebellions]].<ref name="PAvg">{{POA|G}}</ref>
+
+At some point in his life he was publicly dunked in a village pond by a group of young [[Wizardkind|wizards]].<ref name="WOMBAT">Third [[Wizards' Ordinary Magic and Basic Aptitude Test]] from {{JKRS}}.</ref> This event precipitated one of the bloody rebellions in which Urg himself was the dissident leader.<ref>This piece of information comes from the third [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] featured in {{JKRS}}. Question 2 (''Part One - Magical History'') is "Which of the following did NOT provoke one of the bloody goblin rebellions of the 17th and 18th centuries? Choose ONE.", and one of the possible answers is "''The public ducking in the village pond, by a gang of young wizards, of goblin activist Urg the Unclean''". As one of the other answers is known for certain to be false ("''The imprisonment of the notoriously violent Hodrod the Horny-Handed, who had attempted to kill three wizards ''" — the ''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' reveal that [[Hodrod the Horny-Handed]] was indeed imprisoned for attempting to kill three wizards, but this happened in [[1999]], during the [[Chipping Clodbury riot]]), then all of the other answers must be true, including the one about Urg the Unclean.</ref> For his role in the [[Goblin Rebellions]], he was featured on one [[Chocolate Frog Card]].<ref name="PAvg"/>
+
+When [[Ronald Weasley|Ron Weasley]] sat his [[fourth year]] [[History of Magic]] final, he forgot some of the names of the goblin rebels, and thus invented a few as cover, stating that this was easy because "they're all called stuff like [[Bodrod the Bearded]] and Urg the Unclean."<ref>{{GOF}}</ref>
+
+==Appearances==
+*{{POA|G}} {{FWC}}
+*{{GOF}} {{Mention}}
+*{{JKRS}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+
+[[de:Urg der Unsaubere]]
+[[es:Urg el Sucio]]
+[[ru:Гырг Грязный]]
+[[pl:Urg Obrzydliwy]]
+[[fr:Eûrk le Crasseux]]
+[[it:Urg l'Impuro]]
+[[fi:Urg Epäpuhdas]]
+[[nl:Org de Onreine]]
+[[zh:邋遢鬼拉拉]]
+
+[[Category:Famous Goblins Chocolate Frog Cards]]
+[[Category:Goblin rebels]]
+[[Category:Males]]

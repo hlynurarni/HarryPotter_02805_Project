@@ -1,0 +1,78 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = ArseniusJigger.JPG
+|name = Arsenius Jigger
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="HPLE">{{HPLE|PA}}</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Dark
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author<ref name="PS5"/>
+*[[Potioneer]]<ref name="PS5"/>
+*[[Professor]] of [[Defence Against the Dark Arts]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] School of Witchcraft and Wizardry<ref name="HPLE"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HPLE"/>
+}}
+'''Professor'''<ref name="HPLE"/> '''Arsenius Jigger''' was a [[Wizardkind|wizard]] and an author specialising in [[Potions (class)|Potions]] and [[Defence Against the Dark Arts]].
+
+==Biography==
+In his lifetime, he wrote several books in the fields of [[Potion]]s and [[Defence Against the Dark Arts]], having written: ''[[Magical Drafts and Potions]]'',<ref name="PS5">{{PS|B|5}}</ref> ''[[Potion Opuscule]]'',<ref name="hppts">{{HPPS}}, p. 504 {{see image|File:PotionOpuscule.jpg}}</ref> and ''[[The Essential Defence Against the Dark Arts]].''<ref name="POAF">{{POA|F}}</ref>
+
+Arsenius Jigger also contributed to ''[[Transfiguration Today]]'' in the [[1920s]] such as the article ''[[Lycanthropy]] v. [[Werewolf]]ry''.<ref name="FBF">{{FB|F}} {{see image|File:TransfigurationToday.png}}</ref> He was also, at an unknown point, a professor of [[Defence Against the Dark Arts]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="HPLE"/> A shop in [[Diagon Alley]], [[London]]  bears the name [[Slug & Jiggers Apothecary|Slug and Jiggers]], and may have been founded or owned by him.
+
+==Magical abilities and skills==
+*'''[[Defence Against the Dark Arts]]''': Jigger was an expert in defensive [[magic]], having written the well-regarded DADA textbook ''[[The Essential Defence Against the Dark Arts]]'', and was even the [[Professor]] of this subject at [[Hogwarts School of Witchcraft and Wizardry]] at an unknown point, showing his highly proficient knowledge in defending oneself against the [[Dark Arts]].<ref name="HPLE"/>
+*'''[[Potion]]s''': Jigger was highly accomplished in the [[magic]]al art and [[science]] of potion-making, having written two Potions books in his lifetime, ''[[Magical Drafts and Potions]]''<ref name="PS5"/> and ''[[Potion Opuscule]]'',<ref name="hppts"/> the former of which was used as Hogwarts textbook in the [[Potions (class)|subject]].<ref name="PS5"/>
+*'''[[Transfiguration]]''': Jigger was also knowledgeable of this notably very advanced, difficult and scientific branch of [[magic]], having contributed to the Transfiguration academic journal ''[[Transfiguration Today]]'', with an article regarding [[Werewolf|Werewolves]] and [[Lycanthropy]], showing he was well informed of the nature of [[Human Transfiguration]], a particularly hard form of transfiguration.<ref name="FBF"/>
+
+==Etymology==
+*Arsenius may be derived from the word "arsenious" meaning "containing arsenic", a very poisonous metallic element. Arsenius may also be be a reference to the famous physicist and chemist {{Wplink|Svante Arrhenius}}, most widely known for formulating the first modern definition of acids and bases in molecular terms.
+*A jigger can refer to a liquid measurement that is used often for liquor, or a measuring cup specifically for measuring that amount of liquid. In the [[United States of America]], a jigger usually holds 1.5 fluid ounces (44 ml).<ref>{{Wikilink|Jigger (bartending)}}</ref> In modern bartending, a jigger is 50 ml.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{POA|F}} {{C|Name appears on book cover and carved into wood panel}}
+*{{HPPS}} {{Mention}}
+*{{HPLE}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{FB|F}} {{Mention|newspaper}}
+*{{HM}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]'' {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Jigger, Arsenius}}
+{{Defence Against the Dark Arts}}
+{{Potions}}
+{{staff}}
+[[de:Arsenius Bunsen]]
+[[es:Arsenius Jigger]]
+[[fr:Arsenius Beaulitron]]
+[[pl:Arsenius Jigger]]
+[[pt-br:Arsênio Jigger]]
+[[ru:Жиг Мышьякофф]]
+[[zh:阿森尼·吉格]]
+[[Category:Authors]]
+[[Category:British or Irish individuals]]
+[[Category:Defence Against the Dark Arts Professors at Hogwarts]]
+[[Category:Males]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

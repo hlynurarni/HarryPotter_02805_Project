@@ -1,0 +1,41 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=house-elf
+|image=
+|name=Winky's grandmother
+|hideb=1
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[House-elf]]<ref name="GOF21"/>
+|gender=Female<ref name="GOF21"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Winky's mother|Daughter]]<ref name="GOF21"/>
+*[[Winky]] (granddaughter)<ref name="GOF21"/>
+|hidea=
+|job=Servant of the [[Crouch family]]<ref name="GOF21"/>
+|house=
+|loyalty=[[Crouch family]]<ref name="GOF21"/>
+}}
+{{Quote|I is looking after the [[Crouch family|Crouches]] all my life, and my [[Winky's mother|mother]] is doing it before me, and my grandmother is doing it before her... oh what is they saying if they knew Winky was freed? Oh the shame, the shame!|Winky|Harry Potter and the Goblet of Fire}}
+'''Winky's grandmother''' was a [[house-elf]] that faithfully served the [[Crouch family]] her entire life. After [[Winky]] was dismissed by her master, [[Bartemius Crouch Senior|Barty Crouch Snr]], in [[August]] [[1994]], Winky despaired at what her grandmother would say if she knew.<ref name="GOF21">{{GOF|B|21}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Babcia Mrużki]]
+[[fr:Grand-mère de Winky]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:House-elves]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

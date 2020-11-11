@@ -1,0 +1,58 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Pettigrew
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POA19"/>
+|gender = Female<ref name="POA19"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Peter Pettigrew]] (son) †<ref name="POA19"/>
+*[[Enid Pettigrew]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Pettigrew family]]<ref name="POA19"/>
+*[[Order of Merlin]]<ref name="POA19"/>
+}}
+'''Mrs Pettigrew''' (fl. [[1981]]) was a [[Wizardkind|witch]] and the mother of [[Peter Pettigrew]]. Following her son's alleged death at the hands of [[Sirius Black]] in [[1981]], she was given the [[Order of Merlin]] that was awarded to him posthumously. It is known that the largest piece of [[Peter Pettigrew]] she received was his index finger.<ref name="POA19"/>
+
+==Relationships==
+===Peter Pettigrew===
+Little is known about the relationship between mother and son. The only thing Mrs Pettigrew received after her son faked his [[death]] the first time was his index finger. She also received his [[Order of Merlin]], First Class, for standing up to [[Sirius Black]] (who was actually framed).<ref name="POA19">{{POA|B|19}}</ref> It's unknown if she lived long enough to find the truth when it was exposed.
+
+==Behind the scenes==
+*It is possible that this character is [[Enid Pettigrew]], although this is unconfirmed.
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+[[de:Mrs Pettigrew]]
+[[fr:Mère de Peter Pettigrow]] 
+[[ru:Миссис Петтигрю]]
+[[pl:Matka Petera Pettigrew]]
+[[Category:British individuals|Pettigrew]]
+[[Category:Females|Pettigrew]]
+[[Category:Order of Merlin recipients]]
+[[Category:Parents]]
+[[Category:Pettigrew family]]
+[[Category:Unnamed family members‎|Pettigrew's mother]]
+[[Category:Wizards|Pettigrew's mother]]

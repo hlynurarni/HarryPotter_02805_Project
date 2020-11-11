@@ -1,0 +1,81 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Cuthbert Mockridge
+|born = Before [[1976]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="GOF7"/>
+|alias = 
+|title = Head of the [[Goblin Liaison Office]]<ref name="GOF7"/>
+|signature = 
+|species = [[Human]]<ref name="GOF7"/>
+|gender = Male<ref name="GOF7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head of the [[Goblin Liaison Office]]<ref name="GOF7"/> (before [[22 August]], [[1994]] - before summer [[1996]])
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="GOF7"/>
+**[[Goblin Liaison Office]]<ref name="GOF7"/>
+}}
+'''Cuthbert Mockridge''' was a [[Great Britain|British]] [[Wizardkind|wizard]], who was a member of the [[Goblin Liaison Office]], heading the office during the mid-[[1990s]]. He attended the finals of the [[1994]] [[Quidditch World Cup]], and was among the [[British Ministry of Magic|Ministry]] employees to pass by the [[Weasley family]]'s tent.<ref name="GOF7">{{GOF|B|7}}</ref> He had retired or otherwise left the position by the summer of [[1996]], as [[Dirk Cresswell]] was Head by then.
+
+==Etymology==
+The name "Cuthbert" is derived from the Old English (Anglo-Saxon) elements cuæ "famous" and beorht "bright".
+==Behind the scenes==
+===Translations===
+*Czech: ''Cuthbert Jakopec'' (Cuthbert "Like-An-Oven")
+*Danish: ''Cuthbert Goblinus'' (possibly a play on the word [[Goblin]])
+*Dutch: ''Horus Windgoud'' (''Horus'' is an ancient Egyptian deity of the sky, ''Wind'' has the same meaning in English and might reflect Horus as sky god, ''goud'' "gold")
+*French: ''Cubert Faussecreth''
+*German: ''Knutbert Mockridge''
+*Hebrew: ''קאת'ברט מוקרידג' ''
+*Norwegian: ''Herbert Hildering''
+*Ukrainian: ''Катберт Мокридж {{c|Katbert Mokrydzh}}''
+The following languages are the same as the original:
+{|
+|
+*Croatian
+|
+*Faroese
+|
+*Italian
+|}
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=Head of the [[Goblin Liaison Office]]
+|years=before [[22 August]], [[1994]] - before summer [[1996]]
+|successor=[[Dirk Cresswell]]
+}}
+{{End box}}
+
+{{Ministry Level 4 employees}}
+[[de:Knuthbert Mockridge]]
+[[es:Cuthbert Mockridge]]
+[[fr:Cubert Faussecreth]]
+[[pl:Cuthbert Mockridge]]
+[[zh:卡思伯特·莫克里奇]]
+{{DEFAULTSORT:Mockridge, Cuthbert}}
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals]]
+[[Category:Goblin Liaison Office personnel]]
+[[Category:Males]]
+[[Category:Wizards]]

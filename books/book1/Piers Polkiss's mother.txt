@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mrs Polkiss
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Piers Polkiss]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Mrs Polkiss''' was the mother of [[Piers Polkiss]].<ref name="PS2"/>
+
+==Biography==
+She brought her son to [[4 Privet Drive]] for a birthday outing with [[Dudley Dursley]] in [[1991]].<ref name="PS2">{{PS|B|2}}</ref> In [[1995]], Dudley told his mother, [[Petunia Dursley|Petunia]], that he was going out for [[tea]] at the Polkisses', when in fact he was planning to cause trouble with his [[Dudley Dursley's gang|gang of friends]].<ref name="OOTP1">{{OOTP|B|1}}</ref>
+
+As [[Vernon Dursley]]'s initial reaction to the aftermath of Dudley's Dementor attack was that Mrs Polkiss had served something foreign for tea,<ref name="OOTP2">{{OOTP|B|2}}</ref> it is a possibility that Mrs Polkiss has a fondness for international dishes. However, it is more likely that this comment was merely an example of Vernon's ignorance, and completely unrelated to anything that Vernon may have known about Mrs Polkiss.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Madre de Piers Polkiss]]
+[[fr:Mère de Piers Polkiss]]
+[[pl:Pani Polkiss]]
+[[ru:Миссис Полкисс]]
+[[Category:British individuals|Polkiss, Mrs]]
+[[Category:Females|Polkiss, Mrs]]
+[[Category:Muggles|Polkiss, Mrs]]
+[[Category:Parents]]
+[[Category:Polkiss family]]
+[[Category:Unnamed family members]]

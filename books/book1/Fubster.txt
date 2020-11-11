@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Fubster
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = Colonel
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Colonel in the [[wikipedia:British Armed Forces|British Armed Forces]] (retired)
+|house = 
+|loyalty = |
+}}
+'''Colonel Fubster''' was a [[Non-magic people|Muggle]] man who was a neighbour of [[Marjorie Dursley]].<ref>[http://www.accio-quote.org/articles/2000/1000-livechat-barnesnoble.html Barnes and Noble & Yahoo! chat with J.K. Rowling]</ref> After his retirement from the [[Wikipedia:British Armed Forces|British Armed Forces]], he apparently spent a lot of time with her, and was willing to do her favours.<ref name="poa2">{{POA|B|2}}</ref> He watched over [[Marjorie Dursley's unknown eleven bulldogs|her dogs]] when she went to visit her [[Vernon Dursley|brother]] and his [[Dursley family|family]] in the summer of [[1993]] (excepting [[Ripper]], who [[Marjorie Dursley|Marge]] took along on the trip, as she said he couldn't stand to be parted from her).<ref name="poa2" />
+
+The [[1992|year before]], he drowned one of Marge's pups at her request, as she considered it a "weak," "underbred", "ratty little thing."<ref name="poa2" /> Marge also claimed to have accidentally shattered a wine glass on a visit to the Colonel's house the day before she left to visit her brother. 
+
+Marge was secretly in love with him, but he never married her due to their conflicts in personality. This in turn fueled much of Marge's unpleasant demeanour, taking it out on [[Harry Potter]].<ref name="pottermore">{{PM}} - Chapter 2 - "Aunt Marge's Big Mistake" - Aunt Marge</ref>
+
+==Appearances==
+*{{POA}} {{Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Oberst Stumper]]
+[[es:Fubster]]
+[[fr:Colonel Courtepatt]]
+[[pl:Pułkownik Fubster]]
+[[ru:Фабстер]]
+
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Military personnel]]
+[[Category:Muggles]]

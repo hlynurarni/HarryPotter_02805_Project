@@ -1,0 +1,80 @@
+{{Individual infobox
+|theme = death-eater
+|image = [[File:Gibbon.jpg|250px]]
+|name = Gibbon
+|born = 
+|died = [[30 June]], [[1997]]<ref name="HBP29"/><br />[[Astronomy Tower]], [[Hogwarts Castle]], [[Scotland]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP29"/>
+|gender = Male<ref name="HBP29"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html 30 July, 2007 Web Chat</ref>
+|job = 
+|house = 
+|loyalty = *[[Tom Riddle|Lord Voldemort]]<ref name="HBP29"/>
+*[[Death Eaters]]<ref name="HBP29"/>
+}}
+{{Dialogue a-b-a|Remus Lupin|A fight broke out, ''the Death Eaters'' scattered and we gave chase. One of them, Gibbon, broke away and headed up the tower stairs —|Harry Potter|To set off the Mark?|He must have done, yes, they must have arranged that before they left the Room of Requirement. But I don't think Gibbon liked the idea of waiting up there alone for Dumbledore, because he came running back downstairs to rejoin the fight and was hit by a [[Killing Curse]] that just missed me.|[[Remus Lupin]] and [[Harry Potter]] shortly after the [[Battle of the Astronomy Tower]]|Harry Potter and the Half-Blood Prince}}
+
+'''Gibbon''' (d. [[30 June]], [[1997]]) was a [[Dark wizard]] and one of [[Tom Riddle|Lord Voldemort]]'s loyal [[Death Eaters]]. He fought in the [[Second Wizarding War]], including the [[Battle of the Astronomy Tower]] in 1997. During the Battle of the Astronomy Tower, Gibbon [[Morsmordre|set]] the [[Dark Mark]] above the [[Astronomy Tower]]. He was accidentally killed by fellow Death Eater [[Thorfinn Rowle]], when he was hit by a stray [[Killing Curse]].<ref name="HBP29"/>
+
+==Biography==
+{{Quote|We were in trouble, we were losing. Gibbon was down, but the rest of the Death Eaters seemed ready to fight to the death. Neville had been hurt, Bill had been savaged by Greyback… It was all dark… curses flying everywhere…|[[Nymphadora Tonks]] conveys details of the battle to [[Harry Potter]]|Harry Potter and the Half-Blood Prince}}
+Gibbon was an active [[Death Eaters|Death Eater]] during the [[Second Wizarding War]]. It is unknown if he also took part in the [[First Wizarding War]] or whether or not he was sent to [[Azkaban]] following [[Tom Riddle|Lord Voldemort]]'s original downfall.
+
+[[File:Gibbon 2.jpg|123px|thumb|rightt|Gibbon during the Battle of the Astronomy Tower]]
+
+On [[30 June]] [[1997]], Gibbon fought in the Battle of the Astronomy Tower, along with fellow Death Eaters [[Alecto Carrow|Alecto]] and [[Amycus Carrow]], [[Corban Yaxley]], [[Thorfinn Rowle]], [[Draco Malfoy]], [[Severus Snape]], and [[Fenrir Greyback]]. Gibbon was the Death Eater who set the Dark Mark above the Astronomy Tower. It is supposed that he did not like the idea of staying at the tower and waiting for [[Albus Dumbledore]] alone, so he ran downstairs. He died shortly afterwards, when a stray [[Killing Curse]] cast by [[Thorfinn Rowle]] that missed [[Remus Lupin]] struck Gibbon instead.<ref name="HBP29">{{HBP|B|29}}</ref> It is unknown what happened to his body after the battle.
+
+==Personality and traits==
+Almost nothing is known about Gibbon's exact personality, except the fact that he feared Albus Dumbledore and that he did not want to stay at the Astronomy Tower and wait for him alone.<ref name="HBP29"/>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': Being a Death Eater, Gibbon would have been proficient in dark magic, including the casting of [[Dark charm]]s and likely the [[Unforgivable Curses]]. Gibbon was capable of [[Morsmordre|creating]] the [[Dark Mark]] above Hogwarts, during a battle, something that only a skilled and experienced dark wizard could create, according to [[Arthur Weasley]].
+*'''[[Duelling]]''': As a Death Eater, he was a competent and experienced duellist, as he fought against the Order of the Phoenix and escaping in order to go to the [[Astronomy Tower]], meaning he had some skill in [[martial magic]].<ref name="HBP29"/>
+
+==Etymology==
+A "gibbon" is a type of primate. Gibbon is also a 15th century diminuative form of Gilbert. [http://www.surnamedb.com/Surname/Gibbons] [http://www.babynamespedia.com/meaning/Gibbon] [http://gibbinshatleykelpie.blogspot.ca/2009/03/gibbons-surname.html] [http://www.etymonline.com/index.php?term=gibbon]. See [[Gilbert Wimple]] and [[Eleanor Sarah Gibbs]] for further details.
+
+==Behind the scenes==
+*During the [[Battle of the Astronomy Tower]] he was recognised by [[Remus Lupin]], suggesting that the two have encountered each other in the past, or at least that he was a known Death Eater to the Order prior to the battle.
+*In {{HBP|FA}}, the Battle of the Astronomy Tower did not take place, meaning Gibbon was not killed by a stray Killing Curse.
+
+==Appearances==
+*{{HBP}} {{1st}}
+*{{HBP|F}} {{Comment|Possible appearance, unidentified}}
+*{{HBP|G}} {{Comment|Most likely}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+
+[[de:Gibbon]]
+[[es:Gibbon]]
+[[fr:Gibbon (Mangemort)]]
+[[ru:Гиббон]]
+[[pl:Gibbon]]
+[[pt-br:Gibbon]]
+[[Category:1997 deaths]]
+[[Category:Accidental deaths]]
+[[Category:Battle of the Astronomy Tower participants]]
+[[Category:Death Eaters]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Killed by Thorfinn Rowle]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Second Wizarding War casualties]]

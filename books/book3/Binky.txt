@@ -1,0 +1,46 @@
+{{Pet individual infobox
+|image = [[File:Binky.png|200px]]
+|name = Binky
+|born = Early [[1990s]]<ref name="age">Given that Lavender described it as "a baby."</ref> {{c|possibly}}
+|died = [[15 October]], [[1993]]<ref name="PM">{{WW|sybill-trelawney}}</ref>
+|alias = 
+|title = 
+|species = [[Rabbit]]<ref name="POA8"/>
+|gender = Male<ref name="POA8"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Lavender Brown]] (owner)<ref name="POA8"/>
+}}
+{{Quote|Thank you, my dear. Incidentally, that thing you are dreading -- it will happen on Friday the sixteenth of October.|Sybill Trelawney's prediction to Lavender Brown|Harry Potter and the Prisoner of Azkaban}}
+
+'''Binky''' (d. [[15 October]], [[1993]])<ref name="PM"/> was the pet [[rabbit]] of [[Lavender Brown]], and by extension of the [[Brown family]]. He [[Death|died]] on the [[15 October]], [[1993]] at a fairly young age.<ref name="POA8">{{POA|B|8}}</ref>
+
+==Biography==
+{{Dialogue a-b|Parvati Patil|She got a letter from home this morning. It's her rabbit, Binky. He's been killed by a fox.|Hermione Granger|Oh, I'm sorry, Lavender.|Hermione comforting Lavender over the deceased Binky|Harry Potter and the Prisoner of Azkaban}}
+Binky eventually became the pet of [[Lavender Brown]].<ref name="POA8"/>
+
+On [[16 October]], [[1993]], Lavender received the news that Binky had been killed by a [[fox]], which greatly upset Lavender though she was convinced that her [[Divination (class)|Divination]] [[professor]] [[Sybill Trelawney]] had predicted this event accurately. However, [[Hermione Granger]] was quick to point out the flaws in the logic that this was the event Trelawney had predicted, since the rabbit was young and healthy, giving Lavender no cause for fear, and the death itself did not occur on the 16th, only the report thereof.<ref name="POA8">{{POA|B|8}}</ref>
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{PM}} {{1st}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Binky]]
+[[es:Binky]]
+[[fr:Binky]]
+[[it:Binky]]
+[[pl:Albinek]]
+[[ru:Бинки]]
+[[Category:1990s births]]
+[[Category:1993 deaths]]
+[[Category:Deaths by creature]]
+[[Category:Lavender Brown’s possessions]]
+[[Category:Males]]
+[[Category:Pets]]
+[[Category:Rabbits]]

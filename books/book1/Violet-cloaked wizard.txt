@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name= Violet-cloaked wizard
+|hideb=b
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=yes
+|family=
+|hidem=yes
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=yes
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|Don't be sorry, my dear sir, for nothing could upset me today! Rejoice, for [[Tom Riddle|You-Know-Who]] has gone at last! Even [[Non-magic people|Muggle]]s like [[Vernon Dursley|yourself]] should be celebrating [[1 November|this happy, happy day]]!|The violet-cloaked wizard to Vernon Dursley|Harry Potter and the Philosopher's Stone}}
+
+This '''violet-cloaked wizard''' was an old man [[Vernon Dursley]] ran into in [[November]] [[1981]]. Upon being knocked over by the latter, he stood back up and, told Vernon no apology was necessary as nothing could upset him that day and walked off, but not before giving Dursley a hug around the middle. He, among many other wizards, was in gleeful spirits that day as [[Tom Riddle|Lord Voldemort]] had been nearly vanquished (although everyone believed he was completely gone) thanks to the baby [[Harry Potter]].<ref name="PS1">{{PS|B|1}}</ref>
+
+==Behind the scenes==
+*Given the similarity in their descriptions, it is possible that this individual is [[Filius Flitwick]]. Even though this scene takes place during the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] school year, [[Albus Dumbledore|two other]] [[Minerva McGonagall|Hogwarts professors]] and [[Rubeus Hagrid|one other staff member]] were known to be outside the school that day as well.
+*It is also possible that this man is [[Dedalus Diggle]], who is described in some similar ways as well.
+
+==Appearances==
+*{{PS}}
+
+==Notes and references==
+{{Reflist}}[[pl:Czarodziej w fioletowej pelerynie]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,224 @@
+{{Spoiler|PAS|WU|HM}}
+{{FA}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = RolandaHooch.jpg
+|name = 
+|born = pre [[1918]]<ref name="GreatWar">In {{PS|G}} - GBA version, Hooch says her broomstick was singed during the Great War. It should also be noted that, according to {{POA|B|13}}, she learnt to fly on a [[Silver Arrow]] broomstick, which production started sometime after the [[Moontrimmer]] (itself first created in [[1901]]) — cf. {{QTA|B|9}}.</ref>
+|died = 
+|blood = 
+|marital = Single<ref>"''You know what? Madam Hooch really did not have any kind of romantic backstory.''" --[[J. K. Rowling]], [[J.K. Rowling PotterCast Interview|PotterCast 131]] (transcript available [http://www.the-leaky-cauldron.org/2007/12/23/transcript-of-part-1-of-pottercast-s-jk-rowling-interview here])</ref>
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Madam]]<ref name="PS7">{{PS|B|7}}</ref>
+|signature = 
+|species = [[Human]]<ref name="PS9">{{PS|B|9}}</ref>
+|gender = Female<ref name="PS7"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="PS9"/>
+|eyes = Yellow<ref name="PS9"/>
+|skin = White<ref name="PSf15">{{PS|F}} - Chapter 15 (''New Seeker'')</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = [[Rolanda Hooch's wand|Unknown length, wood and core]]<ref name="PSf15"/>
+|patronus = Non-corporeal<ref name="LEGOY1">{{LEGO|Y1}}</ref><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = *[[Flying Instructor]]<ref name="PS7"/> at [[Hogwarts School of Witchcraft and Wizardry]] (before [[1975]]<ref>{{HM|4|4}}</ref> - ?)
+*[[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Quidditch referee]]<ref name="PS11">{{PS|B|11}}</ref> (before [[1985]] - ?)
+*[[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Quidditch]] coach<ref name="PS7"/> (before [[1985]] - ?)
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS7"/>
+}}
+{{Quote|None of you is to move while I take this boy to the hospital wing! You leave those brooms where they are or you'll be out of Hogwarts before you can say 'Quidditch.'|Hooch's strict attitude with her students|Harry Potter and the Philosopher's Stone}}
+
+'''Madam Rolanda Hooch''' (b. before [[1918]])<ref name="GreatWar"/> was a [[Wizardkind|witch]] who worked as the [[Flying (class)|Flying]] [[Flying Instructor|instructor]], [[Quidditch]] [[Quidditch referee|referee]], and coach at [[Hogwarts School of Witchcraft and Wizardry]]. She learnt to fly on [[Rolanda Hooch's Silver Arrow broomstick|her own Silver Arrow broomstick]] sometime before or during the [[First World War|Great War]] and returned to Hogwarts for a job. While on staff at Hogwarts, Hooch worked under [[Headmaster]]s [[Albus Dumbledore]], [[Dolores Umbridge]], and [[Minerva McGonagall]].
+
+Madam Hooch taught [[Harry Potter]] and his classmates how to ride a [[broomstick]] in [[1991]], in addition to acting as the referee the [[Gryffindor Quidditch team|Gryffindor]] versus [[Slytherin Quidditch team|Slytherin]] match that same year. One of her games was cancelled just after starting, due to the [[Petrification]] of [[Hermione Granger]] and [[Penelope Clearwater]] in [[1993]]. During the next school year, Hooch (along with [[Filius Flitwick|Professor Flitwick]]) was in charge of examining a [[Firebolt]] sent to [[Harry Potter]] in case it was jinxed, hexed or cursed.
+
+Hooch survived the Second Wizarding War and returned to her post as Flying Instructor and Quidditch referee. She taught Harry Potter's second son (Albus Potter) how to ride a broomstick.<ref>{{CC|B|1|4}}</ref>
+
+==Biography==
+===Early life===
+{{Quote|A spell! I haven't been this annoyed since my broom was singed by overzealous anti-aircraft during the Great War!|Madam Hooch relaying some information on her past|Harry Potter and the Philosopher's Stone (video game)}}
+Rolanda Hooch was born prior to [[1918]]<ref name="GreatWar"/> She learnt to fly on a [[Silver Arrow]] [[broomstick]] at some point.<ref name="PA13">{{POA|B|13}}</ref> One night, during the [[First World War|Great War]] ([[1914]]-[[1918]]), [[Rolanda Hooch's Silver Arrow broomstick|her broom]] was singed by a [[Non-magic people|Muggle]] anti-aircraft device, which she found personally insulting.<ref name="PSgba">{{PS|G}} - GBA version</ref> She declared that the only thing she found more humiliating than that incident was when [[Harry Potter|a student]] [[jinx]]ed her many decades later, in [[1991]].<ref name="PSgba"/>
+
+[[File:Quidditchpitch.jpg|250px|thumb|left|The Hogwarts Quidditch pitch where Hooch was selected to referee]] 
+
+Sometime before her tenure at Hogwarts, Rolanda was selected by the [[Department of Magical Games and Sports]] as the Hogwarts Quidditch referee. After being selected she underwent a series of complicated and rigorous tests, both written and practical.<ref name="QTA6">{{QTA|R|6}}</ref> She more then likely passed the tests as she eventually joined Hogwarts as the flying instructor for first year students. 
+
+===Career at Hogwarts===
+====Earlier years====
+{{Quote|Flying is not unlike walking. It's just much more difficult, and far more dangerous.|Madam Hooch teaching a [[Flying (class)|Flying Class]]|Harry Potter: Hogwarts Mystery}}
+Rolanda's duties at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] included [[Flying Instructor|First Year Flight Instructor]],<ref name="PS9"/> [[Quidditch]] [[Quidditch referee|referee]]<ref name="PS11"/> and coach in charge of all broom-related activities.<ref name="PS7"/> She was now referred to as "Madam Hooch",<ref name="PS7"/> and was respected by her students because of her liking for fair-play and clean games. She was given [[Rolanda Hooch's office|an office]] located somewhere in [[Hogwarts Castle|the Castle]], in which the crate which held the [[Golden Snitch]], [[Quaffle]] and [[Bludger]]s was kept safe under lock-and-key.<ref name="CS10">{{COS|B|10}}</ref> Her lessons teaching the [[first year]]s how to fly were held in the [[Training Grounds]]<ref name="HBPg">{{HBP|G}}</ref> at the back of the castle, near the [[Quidditch pitch|Quidditch stadium]] and [[Hogwarts greenhouses|Herbology Greenhouses]].<ref name="HBPg" /> year [[Gryffindor]]s and [[Slytherin]]s in the Training Grounds on Thursday, [[12 September]], during the second week of term.<ref name="PS9" /> She had twenty of the school broomsticks lined up ready on the grass before she arrived, despite the fact that the school brooms vibrated if the rider flew too high and always flew slightly to the left.<ref name="PS9" /> She probably had a personal acquaintance with a student named Amanda, whom Hooch greeted personally.<ref name="PSf15" /> To begin the class, Hooch ordered the students to stand on the left side of their brooms with their right hand over it. They were told to say, "up!" to summon the brooms to their hands and were then to hover slightly in the air. Unfortunately, a [[Gryffindor]] named [[Neville Longbottom]] kicked off too early and lost control, resulting in an accident and breaking his wrist. After examining the wound, Madam Hooch took Neville to the infirmary and warned that anyone caught flying without supervision would be expelled "faster than you can say Quidditch."<ref name="PS9"/>
+
+Despite this, when [[Draco Malfoy]] threw Neville's dropped [[Remembrall]] high in the air [[Harry Potter]] used his broom to retrieve it, showing great natural skill. Fortunately for Potter, due to  [[Minerva McGonagall |Professor McGonagall's]] intervention, he was spared expulsion and was offered a position as [[seeker]] on the [[Gryffindor Quidditch team]].<ref name="PS9"/>
+
+[[File:Madam-hooch.jpg|250px|thumb|Madam Hooch announcing the victory of [[Gryffindor Quidditch team]]]]
+{{Quote|Now, I want a nice fair game, all of you... Mount your brooms, please.|Madam Hooch starting the first game of the season|Harry Potter and the Philosopher's Stone}}
+Not long after [[Hallowe'en]], the first match of the [[Quidditch]] season took place: Gryffindor versus [[Slytherin Quidditch team|Slytherin]]. Madam Hooch was to referee the game and told both teams to play fairly, though she was obviously speaking more to the Slytherin team.<ref name="PS11" /> She released the [[Bludger]]s first, then the [[Golden Snitch]], and the game began when she threw the [[Quaffle]] into the air.<ref name="PSf19">{{PS|F}} - Chapter 19 (''Quidditch'')</ref> During that game, many fouls were committed by the Slytherins, and she awarded several penalties to the Gryffindors, who won when the new [[Seeker]], [[Harry Potter]], caught the Golden Snitch.<ref name="PS11" /> Hooch, riding her broom, blew the whistle and announced the Gryffindors' victory to the Hogwarts crowd.<ref name="PSf20">{{PS|F}} - Chapter 20 (''Interference Overcome'')</ref>
+
+Later on in the year, Madam Hooch was relieved of the responsibility of refereeing the Gryffindor versus [[Hufflepuff Quidditch team|Hufflepuff]] match, as [[Severus Snape|Professor Snape]] insisted on refereeing the game<ref name="PS13">{{PS|B|13}}</ref> to make sure Harry Potter's [[Nimbus 2000]] was not [[Broom jinx|jinxed]] again.<ref name="PS17">{{PS|B|17}}</ref>
+
+====1992–1993 school year====
+{{Quote|Madam Hooch, the Quidditch teacher, asked Flint and Wood to shake hands, which they did, giving each other threatening stares and gripping rather harder than was necessary.|Description|Harry Potter and the Chamber of Secrets}}
+
+[[File:Lucius_m.png|250px|thumb|left|Lockhart's book signing that Hooch attended]]
+
+In August, [[1992]], Hooch went to [[Diagon Alley]], and rushed to [[Flourish and Blotts]] to see [[Gilderoy Lockhart]], who had been hired by Dumbledore to teach [[Defence Against the Dark Arts]] that year. She was presumably a fan of him and of his written works.<ref name="LEGOY1"/>
+
+The next school year, Madam Hooch refereed the [[Gryffindor Quidditch team|Gryffindor]] versus [[Slytherin Quidditch team|Slytherin]] Quidditch match, during which [[Harry Potter]], the Gryffindor [[Seeker]], was attacked by a [[jinx]]ed Bludger. The mystery was how the Bludger was jinxed, since it had been kept safe and locked in Madam Hooch's office. She was forced to stop the game momentarily for the Gryffindors once they deliberated over the rogue [[Bludger]], but they ultimately decided to continue playing, as otherwise they would have had to forfeit the match.<ref name="CS10" />
+
+The Gryffindor versus [[Hufflepuff Quidditch team|Hufflepuff]] match followed later on in the year, but was cancelled by [[Minerva McGonagall|Professor McGonagall]] shortly after Madam Hooch had released the balls and began the game. The reason for the cancellation was that [[Hermione Granger]] and [[Penelope Clearwater]] had been found [[petrification|petrified]] near the library.<ref name="CS14">{{COS|B|14}}</ref>
+
+[[File:Harry-potter-a-l-ecole-d-ii25-g1.jpg|250x250px|thumb|Madam Hooch seated next to Snape at the Leaving Feast]]
+
+Near the end of the year, Madam Hooch and the rest of the staff were called to the staffroom by Professor McGonagall, who had become temporary Headmistress of Hogwarts in [[Albus Dumbledore|Professor Dumbledore]]'s absence. McGonagall told the professors that a student had been kidnapped by Salazar Slytherin's monster and taken into the [[Chamber of Secrets]]. After revealing this, Madam Hooch became too weak at the knees to stand, collapsed into a chair and asked who had been taken, when she was told that it was [[Ginevra Weasley]], whom Hooch had been giving [[Flying (class)|Flying Lessons]].<ref name="CS16">{{COS|B|16}}</ref> However, she was saved by the end of the year by Harry Potter and [[Ronald Weasley|Ron Weasley]] and then the school returned to its normal routines.<ref name="CS18">{{COS|B|18}}</ref> She attended the Feast held at the end of the year.<ref name="CSf36">{{COS|F}} - Chapter 36 (''Welcome Back'')</ref>
+
+====1993–1994 school year====
+{{Quote|It will need to be checked for jinxes. Of course, I'm no expert, but I daresay Madam Hooch and Professor Flitwick will strip it down... It shouldn't take more than a few weeks. You will have it back if we are sure it is jinx-free.|[[Minerva McGonagall|McGonagall]] shortly before handing Harry's Firebolt over to  Hooch and Flitwick|Harry Potter and the Prisoner of Azkaban}}
+
+[[File:Dementors in mass.png|250px|thumb|left|Hooch referring a Quidditch match as mass of Dementors interrupt the game]]
+
+Not long after the beginning of the 1993–1994 school year, Madam Hooch refereed the [[Gryffindor Quidditch team|Gryffindor]] versus [[Hufflepuff Quidditch team|Hufflepuff]] Quidditch match, which took place in severe weather conditions and poor visibility. But during that match, [[Dementor]]s, who were supposed to be guarding the school, interfered and made Harry Potter fall off of his broomstick, enabling the Hufflepuff Seeker, [[Cedric Diggory]], to catch the Golden Snitch.<ref name="PA9">{{POA|B|9}}</ref>
+
+After the attack on the [[Fat Lady]] by Sirius Black, Professor McGonagall asked Madam Hooch to oversee his Quidditch practices on the pitch for his safety, which she did for McGonagall.<ref name="PA8">{{POA|B|8}}</ref>
+
+Furthermore, Harry mysteriously received a [[Firebolt]] broomstick for Christmas, which McGonagall thought could have come from [[Sirius Black]]. In order to ensure that the broom was safe to ride, McGonagall handed it over to Madam Hooch and [[Filius Flitwick|Professor Flitwick]], the Charms Master, who would "strip it down" to look for curses, hexes, or jinxes.<ref name="PA11">{{POA|B|11}}</ref> A few weeks later, once Hooch and Flitwick had ensured the broom's safety, the Firebolt was returned to Harry Potter to use in his Quidditch practices and games.<ref name="PA12">{{POA|B|12}}</ref>
+
+[[File:B3C13M1 hooch.png|250px|thumb|Hooch falls asleep while overseeing a Gryffindor Quidditch practice]]
+
+She was quite taken with the broom and rhapsodised over it for some time before [[Oliver Wood]], the Gryffindor Quidditch Captain and [[Keeper]], reminded her that they were there to practise and not listen to her talking about her old Silver Arrow. Though she was supposed to keep an eye on Harry, she then proceeded to fall asleep in the stands while the [[Gryffindor Quidditch team]] practised.<ref name="PA13" />
+
+The game between the Gryffindor and [[Ravenclaw Quidditch team|Ravenclaw]] was refereed by Madam Hooch. The game was concluded when [[Harry Potter]] caught the Golden Snitch, awarding one-hundred and fifty points to his already-winning Gryffindor team.
+
+The final match, for the [[Inter-House Quidditch Cup|Quidditch Cup]], was between Gryffindor and [[Slytherin]], and Madam Hooch was tasked with overseeing the match as a referee. The final was a violent game, and Madam Hooch commented several times that she has never seen such flagrant fouls committed. Indeed, she was rendered almost apoplectic with fury at the level of cheating demonstrated by the Slytherin team, awarding a grand total of five penalties to the Gryffindors as the match grew progressively dirtier. The match concluded with Harry Potter's capturing of the [[Golden Snitch]], earning the Gryffindor Quidditch team the Quidditch Cup for the first time in roughly seven years.<ref name="PA15">{{POA|B|15}}</ref>
+
+====1994–1995 school year====
+{{Quote|It is also my painful duty to inform you that the Inter-House Quidditch Cup will not take place this year. This is due to an event that will be starting in October, and continuing throughout the school year, taking up much of the teachers' time and energy — but I am sure you will all enjoy it immensely... The Triwizard Tournament will be taking place at Hogwarts this year.|[[Albus Dumbledore|Professor Dumbledore]] announcing the cancellation of the Quidditch Cup|Harry Potter and the Goblet of Fire}}
+[[File:Amanda2.png|251x251px|thumb|left|Hooch teaching first years how to mount a broomstick]]
+The following academic terms were to be dedicated to the revival of the [[Triwizard Tournament]], meaning that the 1994-1995 [[Inter-House Quidditch Cup|Quidditch Cup]] was not to take place.<ref name="GF12">{{GOF|B|12}}</ref> This was also due to the fact that the Hogwarts Quidditch Stadium was to play host to the enchanted Hedge Maze of the Third Task.<ref name="GF28">{{GOF|B|28}}</ref> Because of this, it is assumed that Madam Hooch's only duties that year was to give [[Flying (class)|flying lessons]] to the first year students, though she may have helped prepare the tasks with the other teachers.
+
+====1995–1996 school year====
+{{Quote| ''Impedimenta''! What do you think you're doing? I’ve never seen behaviour like it — back up to the castle, both of you, and straight to your Head of House's office! Go! ''Now''!|Madam Hooch, enraged at [[Harry Potter]] and George Weasley's attack on Draco Malfoy|Harry Potter and the Order of the Phoenix}}
+
+[[File:Hooch Quidditch.jpg|250px|thumb|Hooch overseeing a Quidditch match between Gryffindor and Slytherin]]
+
+Madam Hooch's timetable for [[Quidditch]] matches was disrupted by [[Dolores Umbridge]], the [[Hogwarts High Inquisitor]], during the 1995–1996 school year, since Umbridge kept giving detentions to students who played the sport.
+
+Regardless, Hooch did referee the match between the [[Gryffindor Quidditch team]] and the [[Slytherin Quidditch team]], during which much foul play and dirty moves were used. Near the end of the match, [[Vincent Crabbe]], a Slytherin Beater, hit a Bludger at Harry Potter after he caught sight of the [[Golden Snitch]], knocking him to the ground. Being a Quidditch foul, Madam Hooch immediately scolded Crabbe, and, once finished, turned around to see Harry Potter and [[George Weasley]] attacking [[Draco Malfoy]]. After using an [[Impediment Jinx]] to knock Harry to the ground, she sent the two of them to Minerva McGonagall's office, where they were banned from their Quidditch team by Dolores Umbridge.<ref name="OP19">{{OOTP|B|19}}</ref> This ban would eventually be lifted after Umbridge was removed from Hogwarts.<ref name="HBP6">{{HBP|B|6}}</ref>
+
+It is possible that Madam Hooch had her [[Flying (class)|flying lessons]] inspected by Dolores Umbridge that year, and pleased her, as she was not sacked.
+
+====1996–1997 school year====
+{{Quote|Harry stepped up to Madam Hooch, the referee, who was standing ready to release the balls from the crate.|Hooch referring for a Quidditch match|Harry Potter and the Half-Blood Prince}}
+In the 1996-1997 school year, Madam Hooch refereed the match between the [[Gryffindor Quidditch team|Gryffindor]] and [[Slytherin Quidditch team]]s, and was ready to release the Snitch, [[Bludger]]s and Quaffle before the players were on the pitch. Shortly after starting the game, Slytherin [[Seeker]] [[Harper]] deliberately collided with Harry, in the hopes of steering him in the wrong direction. As this was a foul ([[Blurting]]), the Gryffindor crowd screamed at Hooch to award a penalty to their team, but her back was turned and she did not see the foul. The game concluded with [[Harry Potter]]'s capture of the [[Golden Snitch]].<ref name="HBP14">{{HBP|B|14}}</ref>
+[[File:Funeral of Albus Dumbledore.png|250x250px|thumb|left|[[Albus Dumbledore]]'s funeral]]
+Near the end of the year, the castle was invaded by [[Death Eaters]], who fought the teachers and students of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], as well as the [[Auror]]s stationed there.<ref name="HBP28">{{HBP|B|28}}</ref> It is unknown whether Madam Hooch took part in the battle. After the battle's conclusion, Albus Dumbledore was found dead<ref name="HBP28" /> in the Middle Courtyard, and everyone around raised their wand as a sign of respect to him.<ref name="HBPf">{{HBP|F}} - Chapter 28</ref> It can be assumed that Hooch attended Dumbledore's funeral being a long term colleage of him.
+
+====1997–1998 school year====
+{{Quote|Every eye, living and dead, was fixed on Professor McGonagall, who was speaking from the raised platform at the top of the Hall ''[and]'' behind her stood the remaining teachers... |Opening stage of the final battle|Harry Potter and the Deathly Hallows}}
+[[File:Voldemort vanquished.png|250x250px|thumb|Harry Potter's final defeat of Lord Voldemort and the end of the [[Second Wizarding War]]]]
+During the 1997–1998 school year, [[Severus Snape]] became the Headmaster and [[Alecto Carrow|Alecto]] and [[Amycus Carrow]] became the Deputy Headmasters. In May of that year, Snape and the Carrows were attacked<ref name="DH30">{{DH|B|30}}</ref> and the [[Battle of Hogwarts]] took place,<ref name="DH31">{{DH|B|31}}</ref> in which Madam Hooch was probably more than likely to participate in, being a teacher at Hogwarts. She was also most likely there when Harry Potter defeated and killed Voldemort for good, ending the Second Wizarding War. The Hogwarts Quidditch Pitch was burned to the ground in the early stages of the battle, however.
+
+===Later life===
+Madam Hooch survived the war and continued to serve as the [[Flying Instructor]] and [[Quidditch referee]] at [[Hogwarts School of Witchcraft and Wizardry]]. During the [[Calamity]], she would help members of the [[Statute of Secrecy Task Force]] improve their ability to target elusive foes by having them cast spells while she dodges on her broom.
+
+Madam Hooch was still teaching as of 2020,<ref name="act2scene12">{{CC|B|2|12}}</ref> at the age of at least one-hundred and two. In September [[2017]] she taught [[Albus Potter]] and was not impressed with him, as he struggled to make his broom rise.<ref name="act1scene4">{{CC|B|1|4}}</ref>
+
+==Physical description==
+{{Quote|Their teacher, Madam Hooch, arrived. She had short, grey hair and yellow eyes like a hawk.|A description of Madam Hooch in [[1991]]|Harry Potter and the Philosopher's Stone}}In her old age, during the 1990s, Madam Hooch had spiky grey hair which was cut short and had piercing, yellow, hawk-like eyes,<ref name="PS9" /> usually hidden behind goggles.<ref name="PSf19" /> She usually wore a white button-down collared shirt and black necktie with the Hogwarts crest, under a cloak,<ref name="PSf15" /> but wore more formal black robes with a hat while sitting in the [[Great Hall]].<ref name="PSf12">{{PS|F}} - Chapter 12 (''Sorting Hat'')</ref>
+
+==Personality and traits==
+{{Quote|Well, what are you waiting for? Everyone stand by a broomstick. Come on, hurry up.|Madam Hooch being impatient with a class of [[first year]]s|Harry Potter and the Philosopher's Stone}}
+Madam Hooch was known and respected by her students because of her belief in good sportsmanship, fairness, and clean games of [[Quidditch]].<ref name="PS11" /> She sometimes seemed impatient whilst teaching her students flying, as while teaching a group of [[first year]]s, during the [[1991-1992 school year]] she was continually telling them to "hurry up" and asking "well, what're you waiting for?".<ref name="PS9" />
+
+Regardless she was still kind and caring, as evident when [[Neville Longbottom]] broke his wrist after injuring himself during a [[Flying (class)|Flying Class]], she tended to him after his accident and took him immediately to the [[Hospital Wing]].<ref name="PS9" /> Another example was when she learnt that [[Ginevra Weasley]] had been taken into the [[Chamber of Secrets]]. After learning this she had sunk (weak-kneed) into a chair in the [[staffroom]].<ref name="CS16" /> Hooch was also very strict and was unafraid to use an [[Impediment Jinx]] on [[Harry Potter]] and [[George Weasley]] after the two attacked [[Draco Malfoy]].<ref name="OP19" />
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Madam Hooch had considerable skill and talent in [[broomstick]] flight. She learnt how to fly on a [[Silver Arrow]],<ref name="PA13" /> and flew over the [[Hogwarts Quidditch pitch|Quidditch stadium]] at the end of the [[Gryffindor]] versus [[Slytherin]] match in [[1991]], announcing the Gryffindors' victory.<ref name="PSf20" /> Her accomplishment and talent in flying allowed to teach [[Flying (class)|Flying class]] to Hogwarts students as the school's [[Flying Instructor]], which she did highly competently and professionally, teaching students how to safely and successfully fly broomsticks.<ref name="PS9"/>
+*'''[[Broomology]]''': Hooch was also known to be highly adept in the lore of brooms. This was evident when [[Minerva McGonagall]] handed over a [[Harry Potter's Firebolt|Firebolt]] to her and [[Filius Flitwick]] so that they could test it for [[jinx]]es, [[hex]]es and [[curse]]s; Flitwick using his charms mastery, and Hooch using her knowledge.<ref name="PA11" /> Also, while examining Harry's [[Firebolt]] before his first flight on it, she commented how the Nimbus series develop a drag after a few years of flying.<ref name="PA13" /> This implied that she possessed very considerable knowledge of [[broomstick]]s.
+{{Quote|Impedimenta!|Madam Hooch casting a powerful [[Impediment Jinx]]|Harry Potter and the Order of the Phoenix}}
+*'''[[Defence Against the Dark Arts]]''': Madam Hooch was able to cast an exceptionally powerful [[Impediment Jinx]]<ref name="OP19" /> and was also able to examine a broom for [[curse]]s and other [[Dark charm|unfriendly spells]].<ref name="PA11" /> If she did participate in the [[Battle of Hogwarts]], she was presumably a skilled [[Duelling|duellist]] as well.  
+*'''[[Charm]]s''': Rolanda was capable of producing a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOY1"/><ref name="LEGOY2"/> an incredibly advanced piece of [[magic]] and a mark of superior magical ability, given the immense difficulty of casting the charm.
+
+==Etymology==
+Rolanda is a feminine form of Roland, a name of Germanic origin that means "fame-land", "fame of the land", "old and wise", or "judicious, wise". Roland was a paladin of Charlemagne and a principal figure in the Matter of France. The "Roland" was a Franco-German missile system, and the WWI aircraft manufacturer Luft-Fahrzeug-Gesellschaft was known for their various "Roland" designs.
+
+Hooch is a Germanic word that means "high" or "tall."
+
+==Behind the scenes==
+[[File:DSC3410.JPG|202px|thumb|Zoë Wanamaker as Madam Hooch]]
+[[File:Madam Hooch WU.PNG|thumb|Madam Hooch as she appears in {{WU}}]]
+*Madam Hooch was played by [[Zoë Wanamaker]] in the [[Harry Potter and the Philosopher's Stone|film adaptation]] of {{PS}}. Madam Hooch did not reappear in any of the following [[Harry Potter (film series)|films]], as Wanamaker had only signed up for one film.
+*Like [[Quirinus Quirrell|Professor Quirrell]], Madam Hooch's first name was never mentioned in the books. {{TCG}} lists it as Rolanda.
+*Prior to the release of the first film, IMDB listed her first name as Xiomara.
+*In an episode of the Britcom series ''{{wplink|My Family}}'', in which Wanamaker plays Susan, one of her sons pulls a trading card from a box of cereal and exclaims ''"Hey look, Madam Hooch!"'' Also, in a later episode during Hallowe'en when Susan is dressed as a witch and is trying to encourage her husband to join in, he tells her she ''"can take your [[Nimbus 2000]] and stick it where the sun doesn't shine.''"
+*On an episode of ''{{wplink|The Paul O'Grady Show}}'' Zoë Wanamaker said she was disappointed that she was never asked to return to the Harry Potter [[Harry Potter (film series)|saga]] and would not mind doing so for [[Harry Potter and the Deathly Hallows (film)|the last two films]].
+*[[Zoë Wanamaker]] was one of three [[United States of America|American]] actors who appeared in the [[Harry Potter and the Philosopher's Stone|film adaptation]] of {{PS}}, the others being [[Eleanor Columbus]], who played [[Susan Bones]], and [[Verne Troyer]], who played [[Griphook]]. It should be noted that though she was born in the States, she is in fact British.
+*On the [[Harry Potter and the Philosopher's Stone (video game)|first game of the series]] (GBA version), when Harry casts a [[spell]] that hits Hooch, she says that she's never been insulted that way since an anti-aircraft singed her broom during the [[First World War|Great War]] ([[1914]]-[[1918]]). This indicates that Hooch was born before [[1918]], possibly in the [[1900s]], seeing as she was already capable of broom flight. The fact that she owned a [[Silver Arrow]] supports this, seen as the broom was manufactured very early in the [[20th century|twentieth century]].[[File:Screenshot 759.png|71x71px|thumb]]
+*In the PC version of the [[Harry Potter and the Order of the Phoenix (video game)|video game adaptation]] of {{OOTP}}, Madam Hooch is never seen, although she is mentioned by one of the students in the [[Clock Tower]].
+*To create Madam Hooch's yellow hawk-like eyes, special contact lenses were used.
+*Madam Hooch is the only Hogwarts teacher (excluding members of staff who do not teach, such as Madam Pomfrey and Madam Pince) to be referred to as 'Madam' rather than 'Professor'. The exact reasons for this are unknown, although it is possible that it is because she only teaches the first-years, and the majority of her job involves Quidditch matches as opposed to actual teaching.
+
+==Appearances==
+{{Imagecat|Images of Rolanda Hooch}}
+[[File:LEGOHooch.jpg|249x249px|thumb|Hooch as a LEGO minifigure (2018 edition)]]
+[[File:Legomadamhooch.png|thumb|Madam Hooch in {{LEGO|Y1}}]]
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|G}} {{C|not in the PC version}}
+*{{POA}}
+*{{POA|F}} {{C|Mentioned in Tour of Portrait Gallery on Disc 2 Special Features}}<ref>During the Tour of the Portrait Gallery at the end of ''The Quest of Sir Cadogan'', we come across a portrait of a witch on a broomstick and the narrator asks her if she has been practising with Madam Hooch.</ref>
+*{{OOTP}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}}
+*{{CC}}
+*{{CC|P}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{QWC}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{TCG}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{HM}}
+*{{WU}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+{{Staff}}
+{{DEFAULTSORT:Hooch, Rolanda}}
+[[ca:Rolanda Hooch]]
+[[de:Rolanda Hooch]]
+[[de2:Rolanda Hooch]]
+[[es:Rolanda Hooch]]
+[[fr:Renée Bibine]]
+[[he:רולנדה הוץ']]
+[[it:Rolanda Hooch]]
+[[ja:ロランダ・フーチ]]
+[[nl:Madame Hooch]]
+[[no:Rolanda Hopp]]
+[[pl:Rolanda Hooch]]
+[[pt-br:Rolanda Hooch]]
+[[ru:Роланда Трюк]]
+[[sv:Rolanda Hooch]]
+[[uk:Роланда Гуч]]
+[[Category:British or Irish individuals]]
+[[Category:Centenarians]]
+[[Category:Females]]
+[[Category:Foundables]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Hogwarts employees]]
+[[Category:Professors]]
+[[Category:Quidditch coaches]]
+[[Category:Quidditch referees]]
+[[Category:Wizards]]
+[[Category:Yellow-eyed individuals]]

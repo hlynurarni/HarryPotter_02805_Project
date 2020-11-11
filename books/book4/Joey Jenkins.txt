@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Joey Jenkins
+|born = In or before 1977<ref>Harry sees him in [[Flying with the Cannons]] in 1995. He had to be at least 18 - to have finished Hogwarts and be on the team - to be in the book. 1995 minus 18 is 1977. Thus, 1977 is the latest date he could have been born in.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Chudley Cannons]]
+|house = 
+|loyalty = *[[Chudley Cannons]]
+*[[Jenkins family]]
+}}
+'''Joey Jenkins''' was a [[wizardkind|wizard]] who played as the [[Beater]] for the [[Chudley Cannons]] [[Quidditch]] [[Quidditch team|team]]. He hit a [[Bludger]] at a [[Ballycastle Bats]] [[Chaser]] in a picture [[Harry Potter|Harry]] was looking at in the book [[Flying with the Cannons]] during his fourth year.<ref>{{GOF|B|22}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Jenkins; Joey}}
+
+[[de:Joey Jenkins]]
+[[es:Joey Jenkins]]
+[[fr:Joey Jenkins]]
+[[pl:Joey Jenkins]]
+[[zh:乔艾·詹肯斯]]
+[[Category:Beaters]]
+[[Category:British individuals]]
+[[Category:Jenkins family]]
+[[Category:Males]]
+[[Category:Wizards]]

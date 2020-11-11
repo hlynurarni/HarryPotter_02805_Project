@@ -1,0 +1,53 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Inigo Imago
+|hideb=hide
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]] ([[Seer]])<ref name="OOTP12"/>
+|gender=Male<ref name="OOTP12"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=*Author<ref name="OOTP12"/>
+*[[Seer]]<ref name="OOTP12"/>
+|house=
+|loyalty=
+}}'''Inigo Imago''' was a [[Wizardkind|wizard]], and a [[Seer]]. He wrote ''[[The Dream Oracle]]'', a book on the subject of [[Divination]], concerned at least in part with the specific area of [[dream interpretation]].<ref name="OOTP12">{{OOTP|B|12}}</ref>
+
+==Etymology==
+The name "Inigo" is the English form of Iñigo. It became well-known in Britain due to the 17th-century English architect Inigo Jones. He was named after his father, a Catholic who was named for Saint Ignatius of Loyola.
+
+"Imago" is the technical term for a mature insect.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Imago, Inigo}}
+[[de:Inigo Imago]]
+[[es:Inigo Imago]]
+[[fr:Inigo Imago]]
+[[pl:Inig Imago]]
+[[ru:Иниго Имаго]]
+[[pt-br:Inigo Imago]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Seers]]
+[[Category:Wizards]]

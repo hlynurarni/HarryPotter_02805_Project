@@ -1,0 +1,63 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=hogwarts-staff
+|name=Hogwarts house-elves
+|image=Hogwarts House-Elves.png
+|hidep=
+|species=[[House-elf|House elves]]
+|gender=Males, Females
+|eyes=
+|hair=
+|hideb=1
+|born=
+|died=
+|hidef=1
+|family=
+|blood=
+|title=
+|alias=
+|hidem=h
+|wand=
+|boggart=
+|patronus=
+|animagus=
+|hidea=
+|job= Cooking in the [[Hogwarts kitchens]] and cleaning the house [[common room]]s 
+|affiliation=[[Hogwarts School of Witchcraft and Wizardry]]
+|height = Varies
+|skin = Varies
+}}
+{{dialogue a-b-a|Ron Weasley|Hang on a moment! We've forgotten someone! The house-elves, they'll all be down in the kitchen, won't they?|Harry Potter|You mean we ought to get them fighting?|No, I mean we should tell them to get out. We don’t want anymore Dobbies, do we? We can’t order them to die for us–|The House elves during the [[Battle of Hogwarts]]|Harry Potter and the Deathly Hallows}}
+
+A veritable legion of '''[[House-elf|house-elves]]''' are enlisted by [[Hogwarts School of Witchcraft and Wizardry]]. They work in the [[Hogwarts kitchens|kitchens]], preparing feasts for the entire school. They also move trunks and baggage to and from rooms, clean dormitories, and presumably other areas of the [[Hogwarts Castle|castle]] as well. They wear [[toga]]s made of tea-towels bearing the Hogwarts crest. When asked nicely, they will accommodate vegetarian students.<ref>[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm 2000 Interview with JK Rowling]</ref>
+
+==History==
+===Helga Hufflepuff===
+[[Helga Hufflepuff]] brought the House-elves to work in the [[Hogwarts kitchens]] as a way of ensuring they could work and not be abused.<ref name=PC>[[J.K. Rowling PotterCast Interview]] - ''"Yeah, it's a complicated issue. I would say that [[Helga Hufflepuff|Hufflepuff]] gave — Hufflepuff did what was the most moral thing to do at that time, and we are talking about over a thousand years ago. So that would be to give them good conditions of work."''</ref>
+
+===1994===
+{{Quote|At least a hundred little elves were standing around the kitchen, bowing and curtseying as [[Dobby]] led [[Harry Potter|Harry]] past them.|The [[house-elf|house-elves]] in [[1994]]|Harry Potter and the Deathly Hallows}}In [[1994]], [[Dobby]], a house-elf, was hired by [[Albus Dumbledore]] to work in the kitchens for a [[Galleon]] a week. Another house-elf named [[Winky]], took up work at Hogwarts as well, but during her time there she had turned into a heavy drinker. They soon became titled as Hogwarts house-elves although the other House Elves were disconcerted by them.
+[[File:Hogwarts-tea-towel-lrg.png|250px|thumb|Tea towel, commonly used as clothing]]
+In the same year, [[Hermione Granger]] set up the organistation [[Society for the Promotion of Elfish Welfare|S.P.E.W.]], she started coming to the kitchens in order to presude them to be set free. This did not earn her any popularity, as most believe that house-elves enjoy their work; indeed, even the house-elves did not like her campaigning. She started knitting hats and socks, which she left lying around [[Gryffindor Tower]], hoping to free some unsuspecting elf who picked them up while cleaning the common room, so as to grant them freedom. The house-elves did not appreciate this gesture; on the contrary, they took it for insult and refused to clean the [[Gryffindor Common Room]], with the exception of [[Dobby]].<ref name="GoF">{{GOF}}</ref> They became angry with Hermione Granger as she made these attempts to free them.
+
+===1998===
+{{quote|Fight, fight for my master, the defender of the house-elves! Fight for brave Regulus! Fight!|[[Kreacher]] leading the house-elves during the [[Battle of Hogwarts]] |Harry Potter and the Deathly Hallows}}They participated in the [[Battle of Hogwarts]] in [[1998]] in an unusually bold move for their kind, although this may have been a manifestation of their extreme loyalty to their "masters". They fought with knives and cleavers, hacking at the shins of Death Eaters.<ref name="DH">{{DH}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{OOTP}}
+*{{HBP}}
+*{{DH}}
+*{{WBP}}
+*{{PM}}
+*{{HM}}
+
+==Notes and references==
+{{Reflist}}[[es:Elfos domésticos de Hogwarts]]
+[[fr:Elfes de maison de Poudlard]][[pt-br:Elfos domésticos de Hogwarts]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Females]]
+[[Category:House-elves]]
+[[Category:Males]]
+[[Category:Order of the Phoenix allies]]
+[[Category:Unidentified Hogwarts employees]]

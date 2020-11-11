@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Herbert Chorley
+|born = Before [[1979]] (most likely)
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBP1"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP1"/>
+|alias = 
+|title = [[Junior minister]]<ref name="HBP1"/>
+|signature = 
+|species = [[Human]]<ref name="HBP1"/>
+|gender = Male<ref name="HBP1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|boggart = 
+|job = [[Junior minister]] in the [[Great Britain|British]] Government<ref name="HBP1"/>
+|house = 
+|loyalty = [[Great Britain|British]] Government<ref name="HBP1"/>
+}}'''Herbert Chorley''' was a [[Non-magic people|Muggle]] [[Junior minister]] in [[1996]]. He was placed under a botched [[Imperius Curse]], leaving him acting like a [[duck]]. [[British Ministry of Magic|Ministry of Magic]] officials placed him in [[St Mungo's Hospital for Magical Maladies and Injuries]] for treatment. It was stated that he nearly strangled three of the [[healer]]s, and therefore had to be removed from [[Muggle world|Muggle society]] for a while.<ref name="HBP1">{{HBP|B|1}}</ref> It is unknown if he ever recovered.
+
+==Etymology==
+The name "Herbert" is derived from the Germanic elements hari "army" and beraht "bright". The Normans introduced this name to England, where it replaced an Old English cognate Herebeorht.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+{{DEFAULTSORT:Chorley, Herbert}}
+[[de:Herbert Chorley]]
+[[ru:Герберт Чорли]]
+[[es:Herbert Chorley]]
+[[fr:Herbert Chorley]]
+[[pl:Herbert Chorley]]
+[[Category:British individuals]]
+[[Category:Imperius Curse victims|Chorley]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Politicians|Chorley]]
+[[Category:St Mungo's patients]]

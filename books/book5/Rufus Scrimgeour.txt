@@ -1,0 +1,201 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Rufus Scrimgeour.jpg|250px]]
+|name = Rufus Scrimgeour
+|born = Pre [[1968]]<ref>According to J.K. Rowling, Harry became the ''youngest'' Head of the Auror Office in 2007 at the age of 27. Scrimgeour, who 'was the Head of the Auror Office before becoming Minister for Magic cannot, therefore, be ''younger'' than twenty eight at the time he becomes Minister.</ref>
+|died = [[1 August]], [[1997]]<ref name="DH8">{{DH|B|8}}</ref> <br/>[[England]], [[Great Britain]]
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP1"/>
+|alias = 
+|title = [[Minister for Magic|Minister]]<ref name="HBP1">{{HBP|B|1}}</ref>
+|signature = 
+|species = [[Human]]<ref name="HBP1"/>
+|gender = Male<ref name="HBP1"/>
+|height = 
+|weight = 
+|hair = Tawny<ref name="HBP1"/>
+|eyes = Yellowish<ref name="HBP1"/>
+|skin = 
+|family = [[Brutus Scrimgeour]]<ref name="QTA">{{QTA|R}} - (Praise for ''Quidditch Through the Ages'')</ref> {{c|possibly}}
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Rufus Scrimgeour's wand|Unknown length, wood and core]]<ref name="HBP1"/><ref name="DH7">{{DH|B|7}}</ref>
+|patronus = Non-corporeal<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = *Head of [[Auror Office]]<ref name="HBP3">{{HBP|B|3}}</ref>
+*[[Minister for Magic]]<ref name="HBP1"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HBP1"/>
+**[[Auror Office]]<ref name="OP7">{{OOTP|B|7}}</ref>
+}}
+{{Quote|The Prime Minister's first, foolish thought was that Rufus Scrimgeour looked rather like an old lion. There were streaks of grey in his mane of tawny hair and his bushy eyebrows, he had keen yellowish eyes behind a pair of wire-rimmed spectacles and a certain rangy, loping grace even though he walked with a slight limp. There was an immediate impression of shrewdness and toughness; the Prime Minister thought he understood why the wizarding community preferred Scrimgeour to Fudge as a leader in these dangerous times.|Scrimgeour's outward disposition|Harry Potter and the Half-Blood Prince}}
+
+'''Minister Rufus Scrimgeour''' (d. [[1 August]], [[1997]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] who was a powerful ranking official in the [[Ministry of Magic]]. He originally joined the Ministry of Magic as an [[Auror]], where he became a hardened veteran, spending most of his life fighting [[Dark Wizard]]s. Eventually he rose to become Head of the [[Auror Office]]. During the [[Second Wizarding War]], Scrimgeour was appointed in 1996 to succeed [[Cornelius Fudge]] as [[Minister for Magic]], being the third ex-Auror to hold the post.<ref name="ministers">{{WW|ministers-for-magic}}</ref> While he appeared to provide a much tougher and resolute stance against [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]], he made the same mistake of creating the appearance of safety and security, while in truth Scrimgeour's efforts were waning in progress in the war.
+
+This policy of giving the appearance of false safety would ultimately cost Scrimgeour his life, as it left the Ministry open to infiltration by the [[Death Eaters]], who used several high-ranking Ministry officials, all of whom had been [[Imperius Curse|subverted to their control]], to launch a successful coup and bring the Ministry under Voldemort's control. Voldemort, wanting the location of [[Harry Potter]], captured and brutally tortured Scrimgeour, though when Scrimgeour refused to talk, Voldemort murdered him.
+
+==Biography==
+===Early life===
+{{Dialogue|Horace Slughorn|Now, you, Cormac. I happen to know you see a lot of your Uncle Tiberius, because he has a rather splendid picture of the two of you hunting Nogtails in, I think, Norfolk?|Cormac McLaggen|Oh, yeah, that was fun, that was. We went with Bertie Higgs and Rufus Scrimgeour; this was before he became Minister, obviously —|Horace Slughorn hosting a small [[Slug Club]] luncheon|Harry Potter and the Half-Blood Prince}}
+
+Scrimgeour was born (possibly in [[Scotland]]<ref name="scotland">Scrimgeour is a [http://www.scrimgeourclan.org.uk/ Scottish surname.]</ref> or [[Wales]]<ref>Bill Nighy plays Rufus Scrimgeour in Harry Potter and the Deathly Hallows Part 1 with a Welsh accent. </ref>) into the wizarding [[Scrimgeour family]] on a date no later than [[1968]]. It was highly likely Scrimgeour attended [[Hogwarts School of Witchcraft and Wizardry]] during his youth, where he would have received his [[magic]]al education. Scrimgeour joined the [[British Ministry of Magic|Ministry of Magic]], and completed a stringent series of character and aptitude tests to join the [[Auror Office]].<ref name="Auror">{{OOTP|B|3}}</ref> At some point before he became Minister, Scrimgeour joined [[Bertie Higgs]], [[Tiberius]], and [[Cormac McLaggen]] to hunt recreationally for [[Nogtail]]s in [[Norfolk]].<ref name="HBP7">{{HBP|B|7}}</ref>
+
+===Head of the Auror Office {{C|1990s-1996}}===
+{{Dialogue a-b|Remus Lupin|What were you saying about Scrimgeour?|Nymphadora Tonks|Oh… yeah… well, we need to be a bit more careful, he's been asking Kingsley and me funny questions...|[[Remus Lupin|Remus]] and Tonks discussing Scrimgeour|Harry Potter and the Order of the Phoenix}}
+
+Eventually, after serving as an [[Auror]] for some time and having fought [[Dark Wizard]]s for most of his working life, Scrimgeour rose to the post of Head of the [[Auror Office]], which he occupied at least in the early-to-mid-1990s.<ref name="OP7" /> In this capacity, Scrimgeour worked alongside [[John Dawlish]], [[Proudfoot]], [[Savage]], [[Nymphadora Tonks]], [[Kingsley Shacklebolt]], and [[Gawain Robards]].
+
+When he was the Head of the [[Auror Office]], he often questioned Tonks and Shacklebolt about [[Sirius Black]], as they were in charge of the investigation of his whereabouts after his [[Azkaban escapes#1993|escape]] from [[Azkaban]].<ref name="OP7" />
+
+===As Minister for Magic {{C|1996-1998}}===
+
+{{Quote|These are dark times, there is no denying. Our world has, perhaps, faced no greater threat than it does today. But I say this to our citizenry: we, ever your servants, will continue to defend your liberty and repel the forces that seek to take it from you! Your Ministry… remains… strong!|Scrimgeour makes a speech on the situation of the wizarding world|Harry Potter and the Deathly Hallows: Part 1}}
+
+[[File:Scrimgeour?.jpg|250px|thumb|left|Scrimgeour gives a speech on "dark times", while [[Minister for Magic]] before his death two days after]]
+
+With Voldemort finally into the open and declaring [[Second Wizarding War|open war]] on Britain's [[Wizarding world|wizarding]] and [[Non-magic people|Muggle]] communities, it forced the wizarding community to unite and call for Cornelius Fudge's resignation. In the fortnight following the [[Battle of the Department of Mysteries]] and the Ministry's acknowledgement of [[Tom Riddle|Lord Voldemort's]] return in June of 1996,<ref name="HBP1" /> [[Minister for Magic|Minister]] [[Cornelius Fudge]] was, as ''[[The Quibbler]]'' went on to report, "''chased from his office''."<ref name="JKR">{{JKRS}} - ''[[Rumours!]]''</ref> Fudge left office in disgrace and was replaced by the ostensibly more proactive Scrimgeour.<ref name="HBP1" /> [[Gawain Robards]] replaced Scrimgeour as Head of the [[Auror Office]].<ref name="HBP16">{{HBP|B|16}}</ref> Soon after, Scrimgeour made a speech to the the [[British Ministry of Magic|Ministry]] and the Daily Prophet about "dark times", and trying to better protect Britain from dark wizards than the previous year,<ref name="DHF1">{{DH|F1}}</ref> as the Ministry under Fudge had denied any evidence of Voldemort's return and branded [[Albus Dumbledore]] and [[Harry Potter]] liars for saying the opposite.<ref name="OP7"/>
+
+When Fudge resigned in summer of 1996, Fudge and Scrimgeour visited the [[British Prime Minister in 1996|Muggle Prime Minister]] in his [[Prime Minister's office|office]] via the [[Floo Network]], in which Fudge introducted Scrimgeour as his predecessor. Scrimgeour informed the Muggle Prime Minister of various strange happenings in the country, such as the Junior Minister [[Herbert Chorley]] being bewitched with the [[Imperius Curse]], who was subsequently hospitalised at [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungos]]. He expressed the belief to the Prime Minister his security needed to be increased by the Ministry of Magic, in order to prevent similar events occurring, and the Prime Minister was also not too happy with two wizards entering his office so abruptly. He and Fudge bid the Prime Minister farewell and promised to keep him updated about ongoing wizarding affairs.<ref name="HBP1"/>
+
+Scrimgeour, though seemingly more capable than Fudge, decided to prioritise appearances over truth in his battle against Voldemort. Apparently, Scrimgeour distrusted Albus Dumbledore in a similar way to Fudge before him, as he assigned [[Auror]] [[John Dawlish]] to follow Dumbledore during his frequent departures from Hogwarts, ultimately resulting in the Auror being jinxed by Dumbledore.<ref name="HBP17">{{HBP|B|17}}</ref> He ordered the arrest of [[Stanley Shunpike|Stan Shunpike]], a conductor on the [[Knight Bus]], to give the impression that the Ministry was actively seeking and arresting [[Death Eaters]], even though it was apparent to Harry that Shunpike was innocent and merely foolish.<ref name="HBP11">{{HBP|B|11}}</ref>
+
+He also quarrelled with Albus Dumbledore over the use of Harry Potter, the alleged "Chosen One", as a mascot for the Ministry to "boost morale".<ref name="HBP17" />
+
+====Visit at the Burrow====
+[[File:Scrimgeour heading to the Burrow.JPG|250x250px|thumb|Scrimgeour visiting the Burrow in order to speak with Harry Potter]]
+
+On Christmas Day 1996, which Harry spent at [[The Burrow]] in [[Devon]], Scrimgeour came to visit him, accompanied by [[Percy Weasley]], whom he used as a pretext. Scrimgeour took Harry for a walk around the garden, during which he tried to get answers out of Harry about what Dumbledore was doing, and suggested that the Ministry would be grateful if Harry was to visibly align himself with them. Harry, revolted by the Ministry's hypocrisy, refused further assistance, saying that the new Ministry was as bad in its own way as the old one.<ref name="HBP16" />
+
+====The death of Albus Dumbledore====
+[[File:Funeral of Albus Dumbledore.png|250px|thumb|left|The funeral of Albus Dumbledore]]
+
+After Dumbledore's death atop the [[Astronomy Tower]], in the summer of 1997, Scrimgeour and a delegation of Ministry officials came for a short stay at [[Hogwarts Castle]], so that they could attend [[Funeral of Albus Dumbledore|Dumbledore's funeral]]. Scrimgeour was seated in the front row, with [[Minerva McGonagall]], looking "grave and dignified". After the service, Scrimgeour once more tried to convince Harry Potter to openly support the Ministry's endeavours, and Harry once again refused.<ref name="HBP30">{{HBP|B|30}}</ref>
+
+Scrimgeour spoke to Harry once more at the Burrow on 31 July, a month after Dumbledore's death, to release the contents of the late wizard's will to Harry, [[Ronald Weasley]], and [[Hermione Granger]], interrupting [[Harry Potter's seventeenth birthday party|Harry's birthday party]].<ref name="DH7" />
+
+[[File:DH1 HQ still Scrimgeour Trio.jpg|235x235px|thumb|Scrimgeour gives the trio [[The Last Will and Testament of Albus Percival Wulfric Brian Dumbledore|Albus Dumbledore's bequests]]]]
+
+Scrimgeour appeared to have aged considerably as a result of working to retain control of the wizarding community, which was in a state of open warfare. He had delayed releasing Dumbledore's personal bequests for thirty-one days, under the [[Decree for Justifiable Confiscation]], in order to inspect the items. Scrimgeour bombarded the trio with questions, attempting to discern Dumbledore's intentions, and was highly suspicious of the gifts he had left them: the [[Deluminator]] for Ron, a [[Golden Snitch]] for Harry, and an original copy of {{TBB}} for Hermione. Scrimgeour refused to give Harry Dumbledore's final bequest, [[Godric Gryffindor's Sword]], believing it to be a historical artefact and public property, which Dumbledore therefore had no right to dispose of as he saw fit.<ref name="DH7" />
+
+When Harry criticised Scrimgeour for wasting his time scrutinising Dumbledore's things, and for covering up the recent escape of dozens of Death Eaters from [[Azkaban]], the two came close to a [[Duelling|duel]], in spite of Scrimgeour's claim that he in fact sought to work together, in order to fight Voldemort. The arrival of [[Arthur Weasley|Arthur]] and [[Molly Weasley]] forced Scrimgeour to regain composure and then depart.<ref name="DH7" /> Scrimgeour correctly guessed that there might be something hidden inside the Golden Snitch, although he never found out what, as Dumbledore had ensured that the Snitch would only open "at the close".
+
+====Assassination====
+{{Quote|The Ministry has fallen. Scrimgeour is dead. They are coming.|[[Kingsley Shacklebolt]]'s Patronus reported Scrimgeour's death and the Death Eater coup|Harry Potter and the Deathly Hallows}}
+
+[[File:Thicknesse_regime.png|235x235px|thumb|left|An Imperiused Pius Thicknesse, alongside [[Dolores Umbridge]], [[Albert Runcorn]], and [[Corban Yaxley]], introduces the [[Fall of the Ministry of Magic|new regime]] to the Ministry of Magic employees after Scrimgeour's demise]]
+The following day, [[1 August]], [[1997]], the [[Death Eaters]] staged a successful coup on the [[British Ministry of Magic|Ministry]], as they now had agents loyal to them surrounding the Minister, and as such were able to make a successful attempt on his life.<ref name="DH8" /> [[Pius Thicknesse]], the Head of the [[Department of Magical Law Enforcement]], and several other high-ranking Ministry officials had all been placed under the [[Imperius Curse]].<ref name="DH1">{{DH|B|1}}</ref>
+
+Scrimgeour was captured and brutally tortured by Voldemort for information on [[Harry Potter]]'s whereabouts. Scrimgeour, having "''put up quite a fight''" in his final moments, refused to talk despite knowing where Harry was. The official line to Scrimgeour's murder was that he resigned. In his place Thicknesse was appointed as a puppet Minister.<ref name="DH11">{{DH|B|11}}</ref>
+
+Harry, Ron, and Hermione came to respect Scrimgeour after learning of his sacrifice. It is assumed that after Lord Voldemort's defeat Scrimgeour's assassination was exposed, but the subject is unclear.<ref name="DH11" />
+
+===[[Calamity]] (2019)===
+In [[2019]], Scrimgeour appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free him, allowing Scrimgeour to return to his original time.<ref name="WU">{{WU}}</ref>
+
+==Physical appearance==
+[[File:F 56015.jpg|220x220px|thumb|Rufus Scrimgeour]]
+Scrimgeour was a man with a certain rangy loping grace; he walked with a slight limp, and looked rather like an old lion with grey streaks in his mane of tawny hair and bushy eyebrows. He had keen yellowish eyes and wore wire-rimmed spectacles.<ref name="HBP1" /> He sometimes used [[Rufus Scrimgeour's walking stick|a walking stick]].<ref name="HBP30" /> With time, the stresses of the failing conflict reached him, and when last seen he appeared badly-shaven, scraggy, and grim.<ref name="DH8" />
+
+==Personality and traits==
+{{Dialogue a-b|Scrimgeour|Remembered you're not at school, have you? Remembered that I am not Dumbledore, who forgave your insolence and insubordination? You may wear that scar like a crown, Potter, but it is not up to a seventeen-year-old boy to tell me how to do my job! It's time you learned some respect!|Harry Potter|It's time you earned it.|An intense row regarding respect and responsibility |Harry Potter and the Deathly Hallows}}
+
+Scrimgeour was, according to Dumbledore, a "man of action", having fought against [[Dark Wizard]]s throughout his career as an [[Auror]] and climbed ambitiously through the Ministry.<ref name="HBP4">{{HBP|B|4}}</ref> He gave an impression of shrewd toughness and was more decisive and forceful than his predecessor, [[Cornelius Fudge]].<ref name="HBP1" /> Scrimgeour did not underestimate Voldemort as much as Fudge did,<ref name="HBP4" /> which he demonstrated by taking more action for the Wizarding World to fight Voldemort and the Death Eaters, and cared a great deal about the Ministry's reputation.
+
+However, despite appearing more proactive, Scrimgeour possessed a more hypocritical, deceitful and shameless side as he prioritised appearances over truth and cared more for the Ministry's reputation than the safety of the wizarding community, just as his predecessor had done. As a result, he did not allow the reporting of devastating events which had occurred such as the death of renowned Auror [[Alastor Moody]] and the [[Azkaban escapes|1997 mass breakout of Azkaban]], due to believing it would cause panic and ruin the Ministry's reputation, and to keep an appearance of false security and safety. At the expense of true justice, he even allowed the the arrest of innocent people — such as [[Stanley Shunpike]] — to give the impression that the Ministry was making progress in the war, similar to what [[Bartemius Crouch Senior]] had done.<ref name="HBP16" /> This was most likely fueled by a belief that maintaining peace and giving false appearances of progress were important for the Ministry to regain trust from the wizarding community after they unanimously condemned Fudge's tenure as Minister, when in reality it only further endangered the wizarding community by keeping them more oblivious and unprepared of Voldemort's actions and intentions. Scrimgeour also appeared ignorant of corruption within the Ministry, as he was oblivious of [[Dolores Umbridge]]'s tyrannical crimes during her temporary rule over Hogwarts,<ref name="HBP16"/> and the fact that [[Pius Thicknesse]] and other Ministry employees were put under the [[Imperius Curse]] to serve Voldemort.<ref name="DH1">{{DH|B|1}}</ref> Along with his tendency to keep an appearance of false security, this would ultimately prove to be Scrimgeour's undoing.
+[[File:Scrimgeour speech.JPG|255x255px|thumb|Unlike his predecessor, Scrimgeour sought to take action against Voldemort]]
+Under his shamelessness and hypocrisy, he was also willing to gain the trust of those who the Ministry had previously attempted to discredit in order to keep a false pretence of peace. He tried unsuccessfully at various times to convince Harry Potter to work for the Ministry as a "mascot" to improve morale: once during the Christmas holidays,<ref name="HBP16" /> and another time after Dumbledore's funeral.<ref name="HBP30" /> Like Snape, he thought of Harry as arrogant and conceited, and disliked him for it<ref name="DH7" /> while Harry disliked his hypocrisy and false pretences, claiming Scrimgeour's tenure as Minister was just as bad as Fudge's tenure was. When Dumbledore disagreed with his intended use of Harry as a mascot and refused to reveal his plans against Voldemort to him, Scrimgeour deeply distrusted Dumbledore to the point that he attempted to spy on him and control the matter of Dumbledore's will after his death rather than prioritising the fight against Voldemort.<ref name="DH7"/> Despite his flaws, Scrimgeour in the end proved his bravery and strength of character when he refused, under torture, to tell Voldemort of Harry's whereabouts.<ref name="DH8" />
+
+==Magical abilities and skills==
+*'''[[Auror]] skills''': An accomplished [[Wizardkind|wizard]], Rufus Scrimgeour was more than proficient in at least [[Potions (class)|Potions]], [[Defence Against the Dark Arts]], [[Transfiguration (class)|Transfiguration]], [[Herbology]], and [[Charms (class)|Charms]], as all these subjects at Hogwarts are required at both [[Nastily Exhausting Wizarding Test|N.E.W.T.]] and [[Ordinary Wizarding Level|O.W.L.]] level, at either "[[Exceeds Expectations]]" or "[[Outstanding]]" level.<ref name="OOTP29">{{OOTP|B|29}}</ref> Given his status as Head Auror, his skill presumably surpassed most of the highly trained [[Dark Wizard]] capturers working under him, having fought many Dark Wizard and Witches during his career as an [[Auror]], which displayed his considerable [[duelling]] and [[martial magic]] abilities, the most essential ability to everyone working in his profession.<ref name="HBP4" /><ref name="Auror"/> Scrimgeour was also noted to have put up a valiant fight against [[Tom Riddle|Lord Voldemort]],<ref name="DH11" /> though it is unknown if this meant his duelling prowess or [[Spell resistance|resilience]] to [[Cruciatus Curse|torture]], although it was likely a combination of both.
+*'''[[Nonverbal spell|Nonverbal magic]]''': Scrimgeour was capable of casting [[spell]]s without speaking their [[incantation]]s aloud, a highly difficult and advanced [[magic]]al feat. He non-verbally [[Locking Spell|locked]] the door of the Muggle Prime Minister's office as well as closing its curtains in 1996,<ref name="HBP1"/> which is an impressive use of magic.
+*'''[[Apparition]]''': Like most accomplished adult wizards, Scrimgeour was capable of apparating at will.<ref name="HBP29">{{HBP|B|29}}</ref>
+*'''[[Charm]]s''': Scrimgeour was capable of producing a non-corporeal [[Patronus Charm]],<ref name="LEGOY2"/> a mark of superior [[magic]]al ability and talent, given the immense difficulty of performing the charm. Furthermore, he would have needed both an [[Ordinary Wizarding Level|O.W.L.]] and [[Nastily Exhausting Wizarding Test|N.E.W.T.]] in the [[Charms (class)|subject]],<ref name="OOTP29"/> showing his accomplishment in this field. He was also capable of using the [[Locking Spell]] to lock the door to the Muggle Prime Minister's office as well as closing the office's curtains both non-verbally, which is further testament to his magical skills.<ref name="HBP1"/>
+*'''Leadership skills''': Scrimgeour obviously had the necessary skills of leadership as the wizarding community together called for Scrimgeour to become [[Minister for Magic]] to take control over the [[Second Wizarding War]].<ref name="HBP1"/><ref name="HBP4"/> A tried and tested veteran, his skill and competence was both such that he was eventually called upon to head up the Auror Office and command his colleagues, and spearheaded their efforts to round up Dark witches and wizards.<ref name="HBP4"/> While presumably a very capable leader of combatants, however, he made for a poor politician, and spent his short-lived career as head of state trying to improve public opinion, and put more effort into getting the cooperation of [[Albus Dumbledore]] and [[Harry Potter]] in appeasing the masses than he did focusing on the upcoming war,<ref name="HBP16"/> which would prove to be a mistake that cost him his life.<ref name="DH8"/>
+
+==Possessions==
+[[File:RufusScrimgeourWandNN8242.jpg|thumb|Scrimgeour's wand]]
+*'''[[Rufus Scrimgeour's wand|Wand]]''': Scrimgeour owned a [[wand]], which was of an unknown length, [[Wand wood|wood]] and [[Wand core|core]] material. Like most wizards in [[Great Britain]], he likely purchased his [[wand]] from [[Ollivanders]] in [[Diagon Alley]]. He would have wielded his wand throughout his career in the [[British Ministry of Magic]] and as Head of the [[Auror Office]].<ref name="HBP1"/>
+*'''[[Rufus Scrimgeour's walking stick|Walking stick]]''': Scrimgeour owned and used a walking stick, which helped ease his limp when he took longer walks or journeys.<ref name="HBP16"/><ref name="HBP30"/>
+
+==Media==
+<gallery width="200" position="center" spacing="small" captionalign="center" hideaddbutton="true">
+
+File:Harry Potter and the Deathly Hallows ( The Will of Albus Dumbledore )|The Last Will and Testament of Albus Dumbledore
+</gallery>
+
+==Etymology==
+''[[Wikipedia:Rufus|Rufus]]'' is a Latin name meaning "red". It was a Roman cognomen as well as the nickname of [[Wikipedia:William II of England|King William II of England]], who had the reputation for being an effective soldier but a ruthless and unpopular ruler. ''Scrimgeour'' is a Scottish surname that is believed to probably mean "skirmish", from the French ''escrimeur'', meaning "swordsman". His name therefore loosely translates to "Red Skirmish" or "Red Swordsman".<ref>[http://www.hp-lexicon.org/wizards/scrimgeour.html HPL: Rufus Scrimgeour]</ref>
+
+==Behind the scenes==
+[[File:ScrimgeourLEGO.png|160px|thumb|Rufus Scrimgeour in {{LEGO|Y2}}]][[File:Rufus_Scrimgeour_WU.png|thumb|Rufus Scrimgeour as seen on {{WU}}]]
+*[[Bill Nighy]] portrayed Scrimgeour in {{DH|F1}}.<ref>[http://www.the-leaky-cauldron.org/2009/6/30/bill-nighy-as-rufus-scrimgeour-for-harry-potter-and-the-deathly-hallows "Bill Nighy as Rufus Scrimgeour for Harry Potter and the Deathly Hallows"] at [http://www.the-leaky-cauldron.org/ The Leaky Cauldron]</ref>
+*Nighy was originally cast for {{HBP|FA}};<ref>[http://web.archive.org/web/20071211095109/http://www.wizarduniverse.com/movies/harrypotter5/005128193.cfm "Up close: David Yates"]</ref> however, Scrimgeour was cut from that film.
+*Although it is likely Scrimgeour was raised in Scotland, Nighy played the character with a Welsh accent.
+*In the film, Scrimgeour does not sport a mane-like beard, and he doesn't seem to be as tough and ruthless as he is in the book.
+*Due to his being cut in Half-Blood Prince, Scrimgeour's relationship with Dumbledore is not mentioned in the film, and Harry's relationship with him is far from antagonistic.
+*[[Luna Lovegood]] once mentioned to Harry Potter that Scrimgeour was a [[vampire]], a story her father was supposed to publish in the magazine ''[[The Quibbler]]''. The authenticity of this claim is quite questionable, as ''The Quibbler'' has a reputation for publishing unlikely and outrageous stories. Interestingly, Bill Nighy also played Viktor, a vampire in the ''Underworld ''series.
+*It is possible that he is related to [[Brutus Scrimgeour]], the author of the book ''[[The Beaters' Bible]]'', and a reviewer of the book {{QTA}}.
+*Scrimgeour shares the same given name as his [[Cornelius Fudge|predecessor's]] [[Rufus Fudge|nephew]].
+*Although stated in the book Scrimgeour sports glasses, in the film he does not — even though Nighy himself does.
+*In the film adaptations, Scrimgeour's negative personality aspects never come to light in the way and to the extent they do in the book.
+*Scrimgeour's anti-Death Eater propaganda, particularly the Ministry's attitude towards [[Stanley Shunpike|Stan Shunpike]], is similar to [[Wikipedia:Joseph McCarthy|Senator Joseph McCarthy]]'s anti-communist ideas during the [[Wikipedia:Second Red Scare|Second Red Scare]] in the 1950s.
+*In the books, Scrimgeour protects Harry's whereabouts when the Ministry has fallen. This shows his protection of Harry, even though he has argued with him many times in the books.
+
+==Appearances==
+{{Imagecat|Images of Rufus Scrimgeour}}
+*{{OOTP}} {{1st Mention}}
+*{{HBP}} {{1st}}
+*{{HBP|F}} {{Comment|Cut from final version; mentioned as "Minister for Magic"}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}} {{comment|NintendoDS version}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{LEGO|Y2}}
+*{{HPV|CH}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Theseus Scamander]]
+|position=Head of the [[Auror]] [[Auror Office|Office]]
+|years=?—[[2 July]], [[1996]]
+|successor=[[Gawain Robards]]
+}}
+{{Succession box
+|predecessor=[[Cornelius Fudge]]
+|position=[[Minister for Magic]]
+|years=[[2 July]], [[1996]]—[[1 August]], [[1997]]
+|successor=[[Pius Thicknesse]]
+}}
+{{End box}}
+
+{{Ministry Level 2 employees}}
+{{Minister for Magic}}
+{{DEFAULTSORT:Scrimgeour, Rufus}}
+
+[[de:Rufus Scrimgeour]]
+[[es:Rufus Scrimgeour]]
+[[fr:Rufus Scrimgeour]]
+[[it:Rufus Scrimgeour]]
+[[fi:Rufus Rymistyir]]
+[[nl:Rufus Schobbejak]]
+[[pl:Rufus Scrimgeour]]
+[[pt-br:Rufo Scrimgeour]]
+[[ru:Руфус Скримджер]]
+[[Category:1997 deaths]]
+[[Category:Aurors]]
+[[Category:British Ministers for Magic]]
+[[Category:Heads of the Auror Office]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Scrimgeour family|Rufus]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Wizards]]
+[[Category:Yellow-eyed individuals]]

@@ -1,0 +1,83 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Smarmy.jpg|250px]]
+|name = Gregory the Smarmy
+|born = [[12th century]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Bald (Brown eyebrows)
+|eyes = Green
+|skin = Pale
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potioneer]]
+|house = 
+|loyalty = 
+}}
+{{Quote|This is Gregory the Smarmy, you know. A fine wizard, but I hear tell he was a bit, well, smarmy.|[[Nicholas de Mimsy-Porpington]]<ref>''[https://tcrf.net/Harry_Potter_and_the_Sorcerer%27s_Stone_(Windows,_Mac_OS_Classic,_Mac_OS_X)/Unused_Dialogue#Nearly_Headless_Nick  Unused Dialouge - The Cutting Room Floor]''</ref>|}}
+'''Gregory the Smarmy''' (fl. [[1189]]) was a [[Middle Ages|medieval]] [[Great Britain|British]] [[Wizardkind|wizard]] and [[Potioneer]], who invented [[Gregory's Unctuous Unction]], a [[potion]] that makes the drinker believe whomever gave the potion is his or her best friend.
+
+==Biography==
+After inventing Gregory's Unctuous Unction, Gregory allegedly used the potion to worm his way into [[Richard I|King Richard's]] confidence, earning him a fortune.<ref name="COSg">{{COS|G}}</ref> He appears on a [[Chocolate Frog Card]].
+
+A secret passage out of [[Hogwarts School of Witchcraft and Wizardry]], found by [[Fred and George Weasley]] on their first week of school, is located behind a statue of Gregory the Smarmy. Early in the [[1991-1992 school year]], [[Lee Jordan]] discovered a secret passage that Fred and George suspected was probably this one.<ref>{{PS|B|9}} "“Anyway, we’ve got to go, Lee Jordan reckons he’s found a new secret passageway out of the school.” “Bet it’s that one behind the statue of Gregory the Smarmy that we found in our first week. See you.”"</ref>
+
+A statue of Gregory the Smarmy is located on the [[First-floor corridor|first floor corridor]].<ref name="POAG">{{POA|G}}</ref>
+
+A corridor on the fifth floor of the east wing was referred as "Gregory the Smarmy’s corridor". Whether this is because it held a statue of him, or some other reason, was unclear.<ref>{{OOTP|B|29}} - “You’ll see, little bro,” said Fred, as he and George got up again. “At least, you will if you trot along to Gregory the Smarmy’s corridor round about five o’clock tomorrow.” [...] "But he had made up his mind — hitching his bag more securely onto his shoulder he set off at a run, weaving in and out of students now hurrying in the opposite direction, off to see what all the fuss was about in the east wing..."</ref> In early [[1996]], Fred and George set off a [[Portable Swamp]] there to serve as a distraction so [[Harry Potter]] could use [[Dolores Umbridge]]'s fireplace to communicate with his godfather, [[Sirius Black]].<ref>{{OOTP|B|29}} - "“So!” said Umbridge triumphantly, whom Harry realised was standing just a few stairs in front of him, once more looking down upon her prey. “So . . . you think it amusing to turn a school corridor into a swamp, do you?” “Pretty amusing, yeah,” said Fred, looking back up at her without the slightest sign of fear."</ref><ref>{{OOTP|B|30}} - "Fred and George had made sure that nobody was likely to forget them very soon. For one thing, they had not left instructions on how to remove the swamp that now filled the corridor on the fifth floor of the east wing."</ref>
+
+==Magical abilities and skills==
+*'''[[Potion]]s''': Gregory the Smarmy was a highly accomplished and successful [[Potioneer]], having created [[Gregory's Unctuous Unction]] in his lifetime, a potion which fools the drinker into thinking the giver of the potion is their best friend. For this impressive achievement, he was included on a [[Chocolate Frog Card]], showing his great talent and proficiency in the [[magic]]al art and [[science]] of potion-making.
+
+==Behind the scenes==
+*Gregory knew [[Erling the Great]].<ref name="HM2">{{HM|2|Duelling Deathday Party}}</ref>
+
+==Etymology==
+*The name ''[[Wikipedia:Gregory|Gregory]]'' is derived from the Latin ''Gregorius'', meaning "watchful, alert".
+*''Smarmy'' means "excessively or unctuously flattering, ingratiating, servile"<ref>[http://dictionary.reference.com/browse/smarmy Dictionary.com definition: Smarmy]</ref>.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{PS|G}} {{FWC}} {{Statue}}
+*{{COS|G}} {{FWC}} {{Statue}}
+*{{POA|G}} {{Statue}}
+*{{OOTP}} {{Mention}}
+*{{HBP|G}} {{Statue}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{Chocolate Frog Cards}}
+
+[[de:Gregor der Kriecher]]
+[[es:Gregory el Adulador]]
+[[fr:Gregory le Hautain]]
+[[fi:Gregory Lipevä]]
+[[pl:Grzegorz Przymilny]]
+[[pt-br:Gregório, o Bajulador]]
+[[ru:Григорий Льстивый]]
+[[sv:Gregory Inställsam]]
+[[Category:British individuals]]
+[[Category:Courtiers]]
+[[Category:Historical figures]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Potioneers]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Statues]]
+[[Category:Wizards]]

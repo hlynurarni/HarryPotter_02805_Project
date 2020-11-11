@@ -1,0 +1,51 @@
+{{WizardsUniteSpoiler}}
+{{Object infobox
+|name=Omnioculars
+|image=Omnioculars-lrg.png
+|manufacturer=
+|owners=*[[Harry Potter]]
+*[[Ronald Weasley|Ron Weasley]]
+*[[Hermione Granger]]
+|usage=Slow down and replay action, or obtain a play-by-play breakdown, in [[Quidditch]] matches
+}}
+{{Quote|You can replay action ... slow everything down ... and they flash up a play-by-play breakdown if you need it. Bargain - ten Galleons each.|[[Saleswizard]] to [[Harry Potter|Harry]], [[Ronald Weasley|Ron]] and [[Hermione Granger|Hermione]] at the [[1994 Quidditch World Cup|Quidditch World Cup]]|Harry Potter and the Goblet of Fire}}
+
+'''Omnioculars''' are the [[wizardkind|wizarding]] equivalent of [[Non-magic people|Muggle]] [[binoculars]], but with the additional features of being able to [[magic]]ally slow down and replay action.
+
+==Description==
+Used extensively for viewing [[Quidditch]] matches, they provide the user with a play-by-play breakdown if desired, showing the names of the manoeuvres performed by players caught within their perspective through the Omnioculars. Omnioculars are made from brass and are covered in knobs and dials.<ref name="gof7">{{GOF|B|7}}</ref>
+==History==
+[[File:OmniocularsWU.png|thumb|Omnioculars]]
+In the [[21st century]], members of the [[Statute of Secrecy Task Force]] also used them to review their latest battles in order to understand and address weaknesses in their defences.<ref>{{WU}} ([https://youtu.be/Mc5_6YJXVvQ?t=487 see video])</ref>
+
+==Known owners==
+On [[25 August]], [[1994]], [[Harry Potter]] purchased three sets of Omnioculars at ten [[Galleon]]s each for himself, [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] at the [[1994 Quidditch World Cup]]. Ron had wanted a pair but couldn't afford them. Harry then joked after he bought them Ron wasn't getting a [[Christmas]] present for about ten years.<ref name="gof7"/> Ron thought he paid Harry with gold soon after, but it turned out to be [[Leprechaun gold]] and disappeared. At the Quidditch World Cup, Ron made [[Unidentified nose-picking wizard|an old Wizard]] pick his nose repeatedly using his Omnioculars.<ref name="GOF8">{{GOF|B|8}}</ref>
+
+==Etymology==
+"Omnioculars" is derived from the prefix "omni-" meaning all, and "ocular," meaning vision, indicating its ability to let the user see "everything" with its zooming and replaying abilities. It is also a pun on "[[binoculars]]," indicating their similarities.
+
+==Behind the scenes==
+*A prop that lights up is available at {{WWHP}}.
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{GOF|G}} {{C|GBA version only}}
+*{{QWC}} {{Mention}}
+*{{WWHP}}
+*{{PM}}
+*{{FBC}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}[[de:Omniglas]]
+[[fr:Multiplettes]]
+[[pl:Omnikulary]]
+[[ru:Омнинокль]]
+[[zh:全景望远镜]]
+[[Category:Brass objects]]
+[[Category:Foundables]]
+[[Category:Harry Potter's possessions]]
+[[Category:Hermione Granger's possessions]]
+[[Category:Magical objects]]
+[[Category:Ronald Weasley's possessions]]

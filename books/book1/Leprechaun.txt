@@ -1,0 +1,64 @@
+{{WizardsUniteSpoiler}}
+{{Creature infobox
+|image = [[File:Leprechaun.png|thumb]]
+|name = Leprechaun
+|skin = Green
+|eyes = 
+|hair = 
+|feathers = 
+|related = 
+|native = [[Ireland]]
+|alias = Clauricorn
+|height = Six inches
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = *Mischievous nature
+*Herbivorous
+|affiliation = [[Irish National Quidditch team]]
+|class = [[Beast]]<br/>[[XXX]]
+|status = Extant
+}}
+The '''Leprechaun''', sometimes known as the '''Clauricorn''', is a mischievous [[magic]]al [[beast]], although it is not malicious. They have a reputation as pranksters, but have never inflicted lasting damage on a [[Human]]. Native only to [[Ireland]], they are fully sentient and capable of speech but have never requested the [[British Ministry of Magic]] to reclassify them as [[Being]]s.<ref name="FBR">{{FB|R}}</ref>
+
+==Physical appearance==
+Green in colour, the Leprechaun reaches a height of around six inches, and normally wear clothing made out of leaves. Leprechauns main diet consists of vegetation, primarily leaves.<ref name="FBR">{{FB|R}}</ref>
+
+Although they are humanoid-like creatures, it is unlikely that they are related to [[human]]s or any other human-related [[being]]s, such as [[goblin]]s.<ref name="FBR">{{FB|R}}</ref>
+
+==Habitat and traits==
+Leprechauns live in forests and wooded areas, and they enjoy attracting [[Non-magic people|Muggle]] attention to themselves. This tendency has led to them being heavily integrated into Muggle children's stories and legends. Leprechauns have the ability to create a gold-like substance that disappears, much to their amusement, after a few hours. Much of this [[Leprechaun gold]] is created in the form of [[Wizarding currency|Galleon]] coins.<ref name="FBR">{{FB|R}}</ref>
+
+==History==
+[[File:Tumblr myf8190Ecq1skz9hco1 250.gif|thumb|A Dancing Leprechaun mascot for the [[Irish National Quidditch team]]]]
+[[Ludovic Bagman|Ludo Bagman]] paid [[Fred and George Weasley]] in [[Leprechaun gold]]-galleons when he lost a bet concerning the Ireland and Bulgaria Quidditch teams during the [[1994 Quidditch World Cup]]. [[Ronald Weasley|Ron]] paid [[Harry Potter|Harry]] in it as well to cover the cost of the [[Omnioculars]] that Harry got for him to view the match. Ron was very upset when he found out the gold disappeared, and that he hadn't really paid back Harry at all, but Harry didn't mind.<ref name="GOF8">{{GOF|B|8}}</ref>
+
+==Behind the scenes==
+*The {{wplink|leprechaun}} is a [[fairy]]-like [[magic]]al [[creature]] from [[Ireland|Irish]] mythology. They are generally depicted as tiny old men with red hair and beards, clad in green, who make shoes, hide coins in pots of gold hidden at the ends of rainbows, and cause mischief. "Clauricorn" is presumably derived from {{wplink|clurichaun}}, an evil variety of leprechaun associated with drunkards.
+*[[Warwick Davis]], the actor who portrayed Professor [[Filius Flitwick]] and [[Griphook]] the [[goblin]], has also starred as an evil leprechaun in the ''Leprechaun'' comedy horror film series.
+
+==Appearances==
+{{Imagecat|Images of Leprechauns}}
+*{{GOF}} {{1st}}
+*{{GOF|F}} {{C|Seen as magical display effect}}
+*{{DH}} {{Mention}}
+*{{FB|R}}
+*{{QTA|R}} {{Mention}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Creatures by classification}}
+
+[[de:Leprechan]]
+[[es:Leprechaun]]
+[[fr:Farfadet]]
+[[ru:Лепрекон]]
+[[pl:Leprokonus]][[pt-br:Duende Irlandês]]
+[[Category:1994 Quidditch World Cup]]
+[[Category:Beasts]]
+[[Category:Creatures from Ireland]]
+[[Category:Foundables]]
+[[Category:Mascots]]
+[[Category:Muggle-known creatures]]
+[[Category:XXX Creatures]]

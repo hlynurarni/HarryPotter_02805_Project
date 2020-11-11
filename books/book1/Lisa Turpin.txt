@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Lisa Turpin
+|born = Between [[1 September]] [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Brown<ref>{{PM}} - [http://www.pottermore.com/en/book1/chapter7/moment2 Book 1, Chapter 7, Moment 2]</ref>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="PS7">{{PS|B|7}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+{{Quote|'Turpin, Lisa' became a Ravenclaw...|Lisa Turpin being sorted into her house|Harry Potter and the Philosopher's Stone}}
+'''Lisa Turpin''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was [[Sorting ceremony|sorted]] into [[Ravenclaw]] house.<ref name="PS7">{{PS|B|7}}</ref>
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{HPM}} {{Comment|Surname seen on list}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Turpin, Lisa}}
+
+[[de:Lisa Turpin]]
+[[es:Lisa Turpin]]
+[[fr:Lisa Turpin]]
+[[it:Lisa Turpin]]
+[[ru:Лайза Турпин]]
+[[pl:Lisa Turpin]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Ravenclaws Sorted in 1991]]
+[[Category:Wizards]]

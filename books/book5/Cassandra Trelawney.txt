@@ -1,0 +1,67 @@
+{{Youmay|Sybill Trelawney's ancestor|[[Cassandra Vablatsky|another seer with a similar name]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Cassandra Trelawney
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP15"/>
+|alias = 
+|title = [[Seer]]<ref name="OOTP15"/>
+|signature = 
+|species = [[Human]] ([[Seer]])<ref name="OOTP15"/>
+|gender = Female<ref name="OOTP15"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Sybill Trelawney's father|Mr Trelawney]] (great-grandson)<ref name="OOTP15"/>
+*[[Sybill Trelawney]] (great-great-granddaughter)<ref name="OOTP15"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seer]]<ref name="OOTP15"/>
+|house = 
+|loyalty = [[Trelawney family]]<ref name="OOTP15"/>
+}}
+'''Cassandra Trelawney''' was a famous, celebrated [[Wizardkind|witch]] and [[Seer]]. She was the great-great-grandmother to [[Hogwarts School of Witchcraft and Wizardry]] [[Divination (class)|Divination]] [[Professor]] [[Sybill Trelawney]]. She possessed the [[Inner Eye]], which was passed on into generations later.<ref name="OOTP15">{{OOTP|B|15}}</ref>
+
+==Magical abilities and skills==
+'''[[Divination]]''': It is known that she was a "genuine [[Seer]]" and that "Cassandra's gift has been much diluted over ensuing generations, although Cassandra's descendant, Sybill, had inherited more than she knew,"<ref name="WW">{{WW|sybill-trelawney}}</ref> implying that Cassandra was a very powerful Seer. She was referred to as "Legendary" on more than one occasion. Indeed, when Dumbledore was preparing to scrap the Hogwarts Divination programme, Sybill Trelawney's heritage (being descended from Cassandra) was enough to get her a job interview for the post.<ref name="OOTP37">{{OOTP|B|37}}</ref>
+
+==Behind the scenes==
+*"Trelawney" may have been Cassandra's married name, since her great-great-granddaughter shares this surname. It is, however, possible that Cassandra was a single mother or simply did not take her husband's name.
+**This being true, Cassandra Trewlaney may have been [[Cassandra Vablatsky]] before she married.
+
+==Etymology==
+''Cassandra'' is generally taken to mean "she who entangles men". This meaning came from the Greek culture and was translated to mean various other things as well; such as "oracle".
+
+In Greek mythology, Cassandra was a princess of Troy. Her beauty caused Apollo to grant her the gift of prophecy. However, when she did not return his love, Apollo placed a curse on her so that no one would ever believe her predictions.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Divination}}
+
+{{DEFAULTSORT:Trelawney, Cassandra}}
+
+[[de:Cassandra Trelawney]]
+[[es:Cassandra Trelawney]]
+[[fr:Cassandra Trelawney]]
+[[ru:Кассандра Трелони]]
+[[pl:Kasandra Trelawney]]
+[[pt-br:Cassandra Trelawney]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Historical figures|Trelawney]]
+[[Category:Seers]]
+[[Category:Trelawney family]]
+[[Category:Wizards]]

@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Andrew Kirke
+|born = [[31 August]] [[1983]] or earlier<ref>He must have at least been in his second year in 1995, as first years aren't usually allowed on the Quidditch teams.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *Kirke family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]]
+}}
+'''Andrew Kirke''' was a [[Wizardkind|wizard]] and [[Gryffindor]] student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].
+
+==Biography==
+Andrew became a [[Beater]] on the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]], along with [[Jack Sloper]], in [[1995]]. They took over the positions after [[Fred and George Weasley]], who were given a lifelong ban from [[Quidditch]] by [[Dolores Umbridge]] (their bans were lifted right after Umbridge was removed from Hogwarts). [[Angelina Johnson]], the team Captain, was unimpressed by Andrew and Jack's performances during try-outs, but considered them to be better than the others who had tried out. [[Ronald Weasley|Ron Weasley]] considered them to be dreadful players, even worse than he was.<ref name="OOTP19">{{OOTP|B|19}}</ref>
+
+During [[Gryffindor]]'s quick defeat to [[Hufflepuff]], Andrew had a pitiful performance; when [[Zacharias Smith]] flew in his direction carrying the Quaffle, Andrew shrieked and fell off his broomstick. [[Ginevra Weasley|Ginny Weasley]] caught the [[Golden Snitch]] twenty-two minutes into the match, causing Gryffindor to lose by only ten points.<ref name="OOTP26">{{OOTP|B|26}}</ref> Later, after the match with Ravenclaw, he and his teammates victoriously carried Ron.<ref name="OOTP30">{{OOTP|B|30}}</ref>
+
+==Behind the scenes==
+*Andrew Kirke's name is possibly derived from ''The Chronicles of Narnia'' book ''The Magician's Nephew,'' which features a main character named Digory Kirke with a maternal uncle named Andrew Ketterley.
+**This is the same namesake of fellow [[Portrait of a Quidditch player|Quidditch player]] [[Cedric Diggory]].
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Kirke, Andrew}}
+
+[[de2:Andrew Kirke]]
+[[de:Andrew Kirke]]
+[[es:Andrew Kirke]]
+[[fr:Andrew Kirke]]
+[[nl:André Kolk]]
+[[no:Andor Krikkbukk]]
+[[pl:Andrew Kirke]]
+[[ru:Эндрю Керк]]
+[[sv:Andrew Kirke]]
+[[zh:安德鲁·柯克]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Wizards]]

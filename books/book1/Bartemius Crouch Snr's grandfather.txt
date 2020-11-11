@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Bartemius Crouch Snr's grandfather
+|born = 
+|died = Before [[1995]]<ref name="DOD">{{GOF|B|36}} - Dumbledore refers to [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] as "''the last remaining member of a pure-blood family as old as any''". meaning that all other members of the family were dead by 1995.</ref>
+|blood = [[Pure-blood]]<ref name="Blood">{{GOF|B|36}} - '''[[Albus Dumbledore]]''': Your dementor has just destroyed the last remaining member of a pure-blood family as old as any - and see what that man chose to make of his life!</ref>
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bartemius Crouch Senior|Bartemius Crouch Snr]] (grandson) †
+*[[Bartemius Crouch Junior|Bartemius Crouch Jnr]] (great-grandson) †
+*[[Caspar Crouch]] (possibly) †
+*[[Charis Black]] (possibly) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Crouch family]]
+}}
+{{Quote|I remember my grandfather had an Axminster that could seat twelve - but that was before carpets were banned, of course.|[[Bartemius Crouch Senior|Bartemius Crouch Snr]]|Harry Potter and the Goblet of Fire}}
+A '''grandfather''' of [[Bartemius Crouch Senior|Bartemius Crouch Snr]] owned an [[Axminster]] capable of seating twelve people prior to the ban on the use of [[flying carpet]]s in [[Great Britain]] and [[Ireland]].<ref name="Mention">{{GOF|B|7}} - '''Barty Crouch Snr''': I remember my grandfather had an Axminster that could seat twelve - but that was before carpets were banned, of course.</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Crouch, Bartemius Snr's grandfather}}
+
+[[pt-br:Avô de Bartolomeu Crouch Snr]]
+[[ru:Мистер Крауч]]
+[[pl:Dziadek Bartemiusza Croucha Seniora]]
+[[Category:British individuals]]
+[[Category:Crouch family]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

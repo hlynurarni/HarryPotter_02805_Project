@@ -1,0 +1,31 @@
+{{Individual infobox
+|image =
+|name = Martin Miggs
+|blood = [[Non-magic people|Muggle]]
+|nationality =
+|alias = The Mad Muggle
+|species = [[Human]]
+|gender = Male
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidea = hide
+|skin = White}}
+
+'''Martin Miggs''' is a fictional character from the comic book ''[[The Adventures of Martin Miggs, the Mad Muggle]]''. He is described as a [[insanity|mad]] [[Non-magic people|Muggle]]. [[Ronald Weasley|Ron Weasley]] seemed to be a fan of this character.<ref name="CS3">{{COS|B|3}}</ref>
+
+==Appearances==
+*{{PS|G}} {{Mention}}
+*{{COS}} {{1st}}
+*{{POA|F}}
+*{{OOTP|F}}
+*{{HBP}}
+*''[[Harry Potter and the Deathly Hallows: Part 1|Harry Potter and the Deathly Hallows Part 1]]''
+
+==Notes and references==
+{{Reflist}}
+[[pl:Martin Miggs]]
+[[Category:Fictional characters|Miggs, Martin]]
+[[Category:Males]]
+[[Category:Muggles]]

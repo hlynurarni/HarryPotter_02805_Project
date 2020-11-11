@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:48129-25820.gif|250px]]
+|name = Aged witch
+|nationality = [[Great Britain|British]]
+|species = [[Human]]
+|gender = Female
+|loyalty = [[Knockturn Alley]]
+|theme = wizard
+|hideb = 
+|hidep = 
+|hidef = Hide
+|hidem = Hide
+|hidea = Hide
+}}
+{{Quote|An aged witch stood in front of him, holding a tray of what looked horribly like whole human fingernails. She leered at him, showing mossy teeth.|Description|Harry Potter and the Chamber of Secrets}}
+
+This '''[[Wizardkind|witch]]''' was in [[Knockturn Alley]] on [[10 August]],<ref name="day">As that day was "a week" after Harry arrived at [[The Burrow]], which in turn was "three days" after Harry's birthday, 31 July. There are seven days in a week, plus the other three days, equals ten days and as 31 July is the last day in that month all ten days would have been in August.</ref> [[1992]] when [[Harry Potter]] accidentally arrived there via [[Floo Powder|floo powder]].<ref name="CoS4"/>
+
+==Biography==
+In the afternoon of [[10 August]], [[1992]], this witch was in [[Knockturn Alley]], carrying a tray of what appeared to be whole [[human]] fingernails; it is possible she planned to sell them.
+
+She witnessed [[Harry Potter]] wandering [[Knockturn Alley]], staring anxiously around and clutching his broken [[glasses]] tightly to his face. Seeing his distress, she asked him if he was lost, only frightening him by her leer.
+
+[[Rubeus Hagrid]] soon arrived, having planned to buy some [[Flesh-Eating Slug Repellent]], although his plans were forgotten when he saw Harry with the witch. His arrival, combined with his [[Half-giant|prodigious size]], scared her and caused her to drop most of the fingernails, at which point she cursed.
+
+When Hagrid grabbed Harry and dragged him away, he accidentally knocked the tray out of the witch's hands; her terrified shrieks echoed against the cold stone walls, following the pair out of the alley.
+
+==Physical appearance==
+The [[Wizardkind|witch]] had pitch-black hair, the tips of which were a light grey; her hair was dirty and fell down to her shoulders. Her wrinkled skin was pale, although when bathed in shadow it appeared quite tan. Her narrow eyes were a dark green colour, almost appearing blue or green in certain lights.<ref name="COSF">{{COS|F}}</ref> She was rather elderly by [[August]] of [[1992]], and had mossy teeth.<ref name="CoS4">{{COS|B|4}}</ref>
+
+==Behind the scenes==
+*[[Jenny Tarren]] portrayed this witch in {{COS|FA}}<ref name="imdb">{{IMDb name|1120820|Jenny Tarren}}</ref>
+*In the Game Boy Advance version of the [[Harry Potter and the Chamber of Secrets (video game)|''Harry Potter and the Chamber of Secrets'' video game]], this woman is referred to as a [[hag]] rather than a witch.
+
+*In the PS1 versions of the first two instalments, she is guarding the gate which serves as Knockturn Alley's entrance next to Gringotts. If Harry gets too close, she loudly warns him to go no further. She is handling her fingernail collection in both of these appearances. What might be a Knockturn Alley cat can be heard growling if the player approaches the gate but it could also be her.
+
+==Appearances==
+*{{PS|G}} {{Comment|PS1 version only}}
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}} {{Comment|PS1 version only}}
+
+==Notes and references==
+{{Reflist}}[[es:Bruja en el Callejón Knockturn]]
+[[fr:Sorcière âgée de l'Allée des Embrumes]]
+[[ru:Ведьма из Лютного переулка]]
+[[Category:British individuals|Witch in Knockturn Alley]]
+[[Category:Females|Knockturn Alley]]
+[[Category:Unidentified individuals|Witch in Knockturn Alley]]
+[[Category:Wizards|Witch in Knockturn Alley]]

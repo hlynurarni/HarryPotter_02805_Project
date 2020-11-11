@@ -1,0 +1,78 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Perkins
+|born = Before [[1975]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COS3"/>
+|alias = 
+|title = [[Warlock]]<ref name="COS3"/>
+|signature = 
+|species = [[Human]]<ref name="COS3"/>
+|gender = Male<ref name="COS3"/>
+|height = 
+|weight = 
+|hair = Fluffy white<ref name="OTP7"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee in the [[Misuse of Muggle Artefacts Office]]<ref name="COS3"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="COS3"/>
+**[[Misuse of Muggle Artefacts Office]]<ref name="COS3"/>
+}}
+{{Dialogue a-b-a|Perkins|Oh, Arthur! Thank goodness, I didn’t know what to do for the best, whether to wait here for you or not. I've just sent an owl to your home but you've obviously missed it - an urgent message came ten minutes ago!|Arthur|I know about the regurgitating toilet.|No, no, it's not the toilet, it's the Potter boy's hearing - they've changed the time and venue - it starts at eight o'clock now and it's down in the old Courtroom Ten!|Perkins and [[Arthur Weasley]]|Harry Potter and the Order of the Phoenix}}
+
+'''Perkins''' (fl. [[1975]] - [[1998]]) was a [[Great Britain|British]] [[warlock]] who worked in the [[Misuse of Muggle Artefacts Office]] at the [[British Ministry of Magic|Ministry of Magic]], as a subordinate of [[Arthur Weasley]], who was head of the office.<ref name="OTP7"/>
+
+==Biography==
+During the [[Quidditch World Cup]] in [[1994]], Perkins lent his supervisor, [[Arthur Weasley]], a [[Perkins's tent|tent]] so he and his [[Weasley family|family]] could camp out after the match. Perkins allowed the Weasleys to keep the tent after his [[lumbago]] got worse and he no longer had any interest in camping.<ref name="GOF7">{{GOF|B|7}}</ref> His tent would later be used by [[Harry Potter]], [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] during their [[Albus Dumbledore and Harry Potter's Horcrux Hunt|search]] for [[Tom Riddle|Lord Voldemort's]] [[Horcrux]]es.<ref name="DH14">{{DH|B|14}}</ref>
+
+Perkins met [[Harry Potter]] in [[1995]] when the boy was summoned before the [[Wizengamot]] to answer a charge of using magic in front of a [[Non-magic people|Muggle]].<ref name="OTP7">{{OOTP|B|7}}</ref> In [[1997]], he attended the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]].<ref name="DH8">{{DH|B|8}}</ref>
+
+==Physical appearance==
+He was described as being an elderly [[Wizardkind|wizard]] who had fluffy white hair.<ref name="OTP7"/>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': As part of his career duties as an employee for the [[Misuse of Muggle Artefacts Office]], Perkins often had to use the [[Memory Charm]] to erase the [[Memory|memories]] of unsuspecting [[Non-magic people|Muggles]] who had witnessed [[magic]].<ref name="COS3">{{COS|B|3}}</ref>
+
+==Possessions==
+*'''[[Perkins's tent|Tent]]''': Perkins owned a tent which was [[charm]]ed to be [[Extension Charm|magically enlarged]]. Perkins lent his tent to [[Arthur Weasley]] to use for the [[1994 Quidditch World Cup]].<ref name="GOF7"/>
+
+==Etymology==
+''Perkins'' is an [[England|English]] surname meaning "son of little Peter".<ref>From [http://surnames.behindthename.com/names/usage/english/3 Behind the Name (website)].</ref>
+
+==Behind the scenes==
+*[[Cuthbert Binns|Professor Binns]] once erroneously called [[Harry Potter]] "Perkins".
+*In {{OOTP|FA}} it is [[Kingsley Shacklebolt]] instead of Perkins who tells Arthur Weasley that the time and venue of Harry Potter's hearing had been changed. 
+*In the German version of the fourth book, Perkins was incorrectly refered to as Mrs Perkins.
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{GOF}} {{Mention}}
+*{{OOTP}} {{1st}}
+*{{OOTP|F}} {{C|Cut from final edit}}<ref>[http://atrossbooks.com/wp-content/uploads/2011/03/Harry-Potter-and-the-Order-of-the-Phoenix-2nd-draft.pdf ''Harry Potter and the Order of the Phoenix'' - Second Draft]</ref>
+*{{DH}}
+*{{DH|F1}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+[[de:Mr Perkins]]
+[[es:Perkins]]
+[[fr:Perkins]]
+[[it:Perkins]]
+[[pl:Perkins]]
+[[pt-br:Perkins]]
+[[ru:Перкинс]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Misuse of Muggle Artefacts Office personnel]]
+[[Category:Warlocks]]
+[[Category:Wizards]]

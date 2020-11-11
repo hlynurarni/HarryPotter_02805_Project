@@ -1,0 +1,21 @@
+{{Conjecture}}
+{{Dialogue a-b-c|Gargoyle #1|You should be in class, Sonny Jim.|Harry|This is urgent.|Gargoyle #2|Ooooh, ''urgent'', is it? Well, that's put ''us'' in our place, hasn't it?|[[Harry Potter]] tries to get into the [[staffroom]].|Harry Potter and the Order of the Phoenix}}
+[[File:Staffroom Gargoyles.png|thumb|The Gargoyles situated outside the staffroom]]
+These two '''[[gargoyle]]s''' stood in the [[Staffroom passage|staffroom corridor]], protecting the [[staffroom]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="OOTP17"/>
+
+==History==
+In [[1995]], [[Harry Potter]] tried to get into the staffroom to see [[Wilhelmina Grubbly-Plank|Professor Grubbly-Plank]] after his [[owl]] [[Hedwig]] was injured. They were less than sympathetic to his pleading.<ref name="OOTP17">{{OOTP|B|17}}</ref>
+
+During the [[Battle of Hogwarts]] in [[1998]], both gargoyles were smashed apart by a stray [[jinx]] that had sailed through a broken window. As [[Harry Potter|Harry]] rushed past them, one of the broken gargoyle's heads remarked ''"Oh, don't mind me... I'll just lie here and crumble..."''<ref name="DH31">{{DH|B|31}}</ref>
+
+==Appearances==
+*{{PS|G}} {{1st}}
+*{{COS|G}}
+*{{OOTP}}
+*{{DH}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts first floor}}
+[[pl:Gargulce pilnujące drzwi do pokoju nauczycielskiego]]
+[[Category:Gargoyles]]

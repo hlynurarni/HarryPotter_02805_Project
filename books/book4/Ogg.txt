@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Ogg
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Keeper of Keys and Grounds|Gamekeeper]]<ref name="GOF31"/>
+|signature = 
+|species = [[Human]]<ref name="GOF31"/>
+|gender = Male<ref name="GOF31"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper of Keys and Grounds|Gamekeeper]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (c. [[1960s]])<ref name="GOF31"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF31"/>
+}}
+'''Ogg''' was the [[Keeper of Keys and Grounds|gamekeeper]] at [[Hogwarts School of Witchcraft and Wizardry]] during [[Arthur Weasley]] and [[Molly Weasley|Molly Prewett]]'s time at the school.<ref name="GOF31"/>
+
+==History==
+After [[Rubeus Hagrid]] was expelled in [[1943]], [[Albus Dumbledore]] convinced [[Armando Dippet]] to keep Hagrid and train him as gamekeeper.<ref name="COS17">{{COS|B|17}}</ref> Hagrid presumably served as Ogg's assistant before Ogg left the position and Hagrid was promoted.
+
+In [[1995]], Molly became intrigued by the [[Whomping Willow]] when she visited Harry Potter during the [[Triwizard Tournament#The Third Task|third task]], and she reminisced at length about Ogg.<ref name="GOF31">{{GOF|B|31}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Keeper of Keys and Grounds|Gamekeeper]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1943]] or earlier - [[1961]] or later
+|successor=[[Rubeus Hagrid]]
+}}
+{{End box}}
+{{Staff}}
+[[de:Mr Ogg]]
+[[de2:Ogg]]
+[[fr:Ogg]]
+[[ru:Огг]]
+[[fi:Ogg]]
+[[pl:Ogg]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Gamekeepers]]
+[[Category:Males]]
+[[Category:Wizards]]

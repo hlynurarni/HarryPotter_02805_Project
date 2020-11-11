@@ -1,0 +1,69 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = portrait
+|image = LibatiusBorage.png
+|name = Libatius Borage
+|born = Pre [[1909]],<ref name="age">In [[1926]], [[The New York Ghost]] ran an article on the reprinting of ''[[Have Yourself a Fiesta in a Bottle!]]'' so he was likely of age already by this time.</ref> [[South America]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown<ref name="HM"/>
+|eyes = Dark<ref name="HM"/>
+|skin = Tanned<ref name="HM"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author
+*[[Potioneer]]
+|house = 
+|loyalty = [[Castelobruxo]]<ref name="PM"/>
+}}
+'''Libatius Borage''' was a [[South America]]n [[wizardkind|wizard]], widely considered "''one of the world's most famous [[potioneer]]s''".<ref name="PM">{{WW|castelobruxo}}</ref>
+
+==Biography==
+In his youth, he attended the [[wizarding school]] of [[Castelobruxo]], in [[Brazil]].<ref name="PM"/>
+
+Among his many published works are ''[[Advanced Potion-Making]]'', ''[[Asiatic Anti-Venoms]]'' and ''[[Have Yourself a Fiesta in a Bottle!]]''<ref name="PM"/> — the first and second of which are used at [[Hogwarts School of Witchcraft and Wizardry]], as a textbook for [[Nastily Exhausting Wizarding Test|N.E.W.T.]]-level classes,<ref name="HBP9">{{HBP|B|9}}</ref> and as a reference text for [[Ordinary Wizarding Level|O.W.L.]]-level classes,<ref name="OP16">{{OOTP|B|16}}</ref> respectively.
+
+Despite Borage's accomplishments, [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Potions Master]] [[Severus Snape]] seemed to be more adept at [[Potions (class)|potion-making]] than even him, adding many footnotes to his own copy edition of Borage's book, significantly improving it.<ref name="HBP9"/>
+
+During [[1980s]], Borage's portrait hung at the [[Hippogriff Clubhouse]].<ref name="HM">{{HM}}</ref>
+
+==Etymology==
+Libatius Borage's name probably derived from libation, a ritual offering of drink to the gods, and Borage, an edible herb believed to bestow excitement and courage in the hearts of those who consumed it.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{HBP|F}} {{C|Name appears on [[Severus Snape's copy of Advanced Potion-Making|book]]}}
+*{{FB|F}} {{C|Mentioned on a newspaper}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{DEFAULTSORT:Borage, Libatius}}
+[[es:Libatius Borage]]
+[[fr:Libatius Borage]]
+[[ru:Либациус Бораго]]
+[[pl:Libacjusz Borage]]
+[[Category:Authors]]
+[[Category:Castelobruxo students]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Potioneers]]
+[[Category:South American individuals]]
+[[Category:Wizards]]

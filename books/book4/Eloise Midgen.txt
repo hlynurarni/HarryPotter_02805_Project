@@ -1,0 +1,83 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:EloiseMidgenHeadShot.jpg|250px]]
+|name = Eloise Midgen
+|born = [[31 August]] [[1983]] or earlier<ref>Eloise is already at Hogwarts in {{POA}}, as proven by her appearance in the film adaption, and to be there she would've had to be born at least eleven years prior.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light (bad case of acne)
+|family = [[Eloise Midgen's father|Mr Midgen]] (father)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="house">{{GOF|F}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Gryffindor]]
+*[[Midgen family]]
+}}
+{{Dialogue a-b-a|Ron Weasley|I'd rather go alone than with — with Eloise Midgen, say.|Hermione Granger|Her acne's loads better lately — and she's really nice!|Her nose is off-centre.|Discussion of Eloise's looks and personality|Harry Potter and the Goblet of Fire}}
+
+'''Eloise Midgen''' (also spelled "Midgeon") was a [[Wizardkind|witch]] and [[Gryffindor]]<ref name="house" /> student at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1990s]]. She was known for having a really terrible case of acne.
+
+==Biography==
+===Hogwarts years===
+In [[1994]] because she had bad acne, Eloise tried using a [[curse]] to get rid of her pimples, but ended up needing to have her nose reattached by [[Poppy Pomfrey|Madam Poppy Pomfrey]].<ref name="GOF13">{{GOF|B|13}}</ref> The incident left her nose permanently off-centre, but her acne did start to clear, at least for a while.<ref name="GOF22">{{GOF|B|22}}</ref>
+
+[[Hermione Granger]] assured [[Ronald Weasley|Ron Weasley]] that Eloise was a very nice person when he baulked at the idea of taking her to the [[Yule Ball]]. Ron only wanted a good-looking girl, regardless of whether she was nice and refused to consider going with her.<ref name="GOF22" />
+
+The [[1995|following year]], Hermione warned that anyone who snitched after signing up for [[Dumbledore's Army]] would be struck with a [[Dumbledore's Army parchment jinx|jinx]] that would make Eloise's acne seem like "''a couple of cute freckles''".<ref name="OOTP17">{{OOTP|B|17}}</ref>
+
+Eloise was withdrawn from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] by her [[Eloise Midgen's father|father]], in early [[September]], [[1996]], as the public's fear about the threat posed by [[Tom Riddle|Lord Voldemort]]'s return mounted.<ref name="HBP11">{{HBP|B|11}}</ref>
+
+==Physical description==
+Eloise Midgen was known for having a really terrible case of acne. In [[1994]] as a result of trying to use a [[curse]] to get rid of her pimples, she ended up needing to have her nose reattached, leaving her nose permanently off-centre, but her acne did start to clear, at least for a while.<ref name="GOF13"/>
+
+==Personality and traits==
+Eloise was very uncomfortable and self-conscious about her acne problems, which was only made worse because students kept joking about it.<ref name="GOF13"/> She was very kind and pleasant, according to [[Hermione Granger]],<ref name="GOF22"/> which can be considered a fair judgement of her personality.
+
+==Behind the scenes==
+*Eloise Midgen appeared briefly in {{GOF|FA}}. In the scene, [[Minerva McGonagall|Professor McGonagall]] teaches the [[Gryffindor]]s to dance for the [[Yule Ball]]. She tells them, ''"Inside every girl, a secret swan slumbers, longing to burst forth and take flight."'' At this, [[Ronald Weasley|Ron Weasley]] looks across the room, sees Eloise shifting about uncomfortably, and quips to [[Seamus Finnigan]], ''"Something's about to burst out of Eloise Midgen, but I don't think it's a swan."''
+*She is played by [[Samantha Clinch]] in {{POA|F}}.
+*Eloise's [[Hogwarts Houses|House]] is never revealed in the books. Although presented as a [[Gryffindor]] in the ''Goblet of Fire'' film, she is widely believed by fans to have been in [[Hufflepuff]], due to the familiarity with which [[Hannah Abbott]] referred to her in the ''Goblet of Fire'' novel.<ref name="GOF13" /> [[Pomona Sprout]], the Head of Hufflepuff, called Eloise a ''"silly girl"'' for trying to curse away her acne, recalling a comment made by Sprout about the inability of one confirmed [[Hufflepuff]], [[Nymphadora Tonks]], to behave herself.
+*Eloise is often used as a humour point for acne, unfortunately, which is the only notable thing about her.
+*She likely returned to Hogwarts in 1997 as attendance became mandatory in Britain.
+
+==Etymology==
+The name "Eloise" comes from the Old French name Héloïse, which is probably from the Germanic name Helewidis, composed of the elements heil "hale, healthy" and wid "wide". It is sometimes associated with the Greek word ‘ηλιος (helios) "sun" or the name Louise, though there is not likely an etymological connection. This name was borne in the 12th century by Saint Eloise, the wife of the French theologian Peter Abelard. She became a nun after her husband was castrated by her uncle.
+
+==Appearances==
+*{{POA|F}} {{1st}}
+*{{GOF}} {{1st Mention}}
+*{{GOF|F}}
+*{{OOTP}} {{Mention}}
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Midgen, Eloise}}
+[[de:Eloise Midgen]]
+[[es:Eloise Midgen]]
+[[fr:Eloïse Midgen]]
+[[ru:Элоиза Миджен]]
+[[pl:Eloise Midgen]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Midgen family]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

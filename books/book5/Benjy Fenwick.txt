@@ -1,0 +1,72 @@
+{{Individual infobox
+|theme = phoenix
+|image = [[File:BenjyFenwickPM.png|250px]]
+|name = Benjy Fenwick
+|born = 
+|died = [[1981]]<ref>Fenwick appeared in a photograph with [[Marlene McKinnon]] that was taken two weeks before McKinnon's death in 1981 (Possibly October) . This indicates Fenwick was alive in 1981 and must have been killed sometime between then and Voldemort's fall (31 October, 1981).</ref>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Marcus Fenwick]] (possible relative)
+*[[Mervyn Fenwick]] (possible relative)
+*[[Robbie Fenwick]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Fenwick family]]
+*[[Order of the Phoenix]]<ref name="OOTP9"/>
+}}
+{{Quote|Benjy Fenwick, he copped it too, we only ever found bits of him…|Benjy's gruesome death|Harry Potter and the Order of the Phoenix}}'''Benjy Fenwick''' (d. [[1981]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] and member of the original [[Order of the Phoenix]]. He fought in the [[First Wizarding War]] and was murdered and mutilated by [[Death Eaters]] before the war's end.<ref name="OOTP9"/>
+
+==Biography==
+Though nothing is known about his early life, it is likely that as a [[Great Britain|British]] [[Wizardkind|wizard]], he attended [[Hogwarts School of Witchcraft and Wizardry]] when he turned eleven and that he had graduated prior to [[1981]] as the First Wizarding War ended that year.
+
+During the [[First Wizarding War]], Fenwick became a member of the [[Order of the Phoenix]], an organisation founded and led by [[Albus Dumbledore]], in order to oppose the evil [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. Fenwick most likely fought in several battles of the [[First Wizarding War]].
+
+Fenwick was brutally murdered by Death Eaters during the war. On the day of his [[death]], a Death Eater fired a deadly [[curse]] that blasted Fenwick into pieces (possibly a [[Blasting Curse]]), and then disposed of his remains. According to fellow Order member [[Alastor Moody]] in their search for Fenwick's body they only ever found ''"bits of him."''<ref name="OOTP9">{{OOTP|B|9}}</ref>
+
+==Magical abilities and skills==
+*'''[[Magic]]al skills''': To be a member of the [[Order of the Phoenix]], it is highly likely that Fenwick was an accomplished and talented [[Wizardkind|wizard]] who would have used his magical abilities in a number of battles against the [[Death Eaters]] before his untimely death.<ref name="OOTP9" />
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|F}} {{Comment|Possible appearance in [[Order of the Phoenix]] photograph}}
+*{{PM}} {{1st}}
+
+==Behind the scenes==
+*On {{PM}}, an image of Benjy has him being of a tanned skin colour but whether this is [[canon]] to the series is unknown - the image also has [[Alice Longbottom]] as having brown hair when, as her son resembles her, she is most likely (formerly) blonde so there are potential errors or differences between sources.
+
+==Notes and references==
+{{Reflist}}
+{{Order of the Phoenix}}
+
+{{DEFAULTSORT:Fenwick, Benjy}}
+
+[[de:Benjy Fenwick]]
+[[fr:Benjy Fenwick]]
+[[es:Benjy Fenwick]]
+[[pl:Benio Fenwick]]
+[[ru:Бенджамен Фенвик]]
+[[Category:1981 deaths]]
+[[Category:British individuals]]
+[[Category:Deaths by explosion]]
+[[Category:Fenwick family|Benjy]]
+[[Category:First Order of the Phoenix]]
+[[Category:First Wizarding War casualties]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Wizards]]

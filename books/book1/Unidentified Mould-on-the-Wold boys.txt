@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified Mould-on-the-Wold boys
+|born = [[19th century]]
+|died = 
+|blood = [[Non-magic people|Muggle]]s<ref name="DH28"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="DH28"/>
+|gender = Males<ref name="DH28"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|When my sister was six years old, she was attacked, set upon, by three Muggle boys... It destroyed her, what they did... And my father went after the bastards that did it, and attacked them. And they locked him up in [[Azkaban]] for it. He never said why he'd done it, because if the Ministry had known what Ariana had become, she'd have been locked up in St Mungo's for good... We had to keep her safe and quiet. We moved house, put it about she was ill, and my mother looked after her, and tried to keep her calm and happy.|[[Aberforth Dumbledore]] on Percival and [[Kendra Dumbledore]]|Harry Potter and the Deathly Hallows}}
+
+'''Three Muggle boys''' who lived in the town of [[Mould-on-the-Wold]] during the [[19th century]] bore witness to [[Ariana Dumbledore]], a young [[Wizardkind|witch]] who lived with her [[Dumbledore family|family]] nearby, performing [[Underage magic]], which scared them into "trying to stop the little freak from doing it" by abusing her, after which point she was mentally traumatised, resulting in a lack of ability to control her magic. Ariana's father, [[Percival Dumbledore|Percival]], went after the boys and attacked them, possibly through use of the [[Cruciatus Curse]], which resulted in the [[British Ministry of Magic|Ministry of Magic]] sending him to [[Azkaban]]. Percival would not satisfactorily explain why he had done it, knowing that his daughter would be taken to [[St Mungo's Hospital for Magical Maladies and Injuries]] for the rest of her life as a hazard to the [[International Statute of Wizarding Secrecy]].<ref name="DH28">{{DH|B|28}}</ref>
+
+==Behind the scenes==
+*In {{DH|F1}}, [[Muriel]] claimed that Percival had ''killed'' several [[Non-magic people|Muggles]], rather than just cursing them. However, she may have been exaggerating.
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:19th century births|Mould-on-the-Wold boys]]
+[[Category:British individuals|Mould-on-the-Wold boys]]
+[[Category:Bullies]]
+[[Category:Males|Mould-on-the-Wold boys]]
+[[Category:Unidentified Muggles|Mould-on-the-Wold boys]]

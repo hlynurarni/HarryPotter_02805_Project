@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = st-mungo-employee
+|image = [[File:HealerLancelot.png|250px]]
+|name = Lancelot
+|born = 
+|died = 
+|blood = [[Half-blood]] or [[Pure-blood]]<ref>Lancelot had at least one close magical relative (Muriel), therefore he could not be a [[Muggle-born]].</ref>
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Muriel]] (cousin)
+*[[Muriel's mother|Aunt]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]
+|house = 
+|loyalty = *[[St Mungo's Hospital for Magical Maladies and Injuries]]
+*[[Prewett family]] (possibly)
+}}
+'''Lancelot''' (fl. [[1899]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] and cousin of [[Muriel]].
+
+==Biography==
+He worked as a [[Healer]] at [[St Mungo's Hospital for Magical Maladies and Injuries]], and revealed that, despite stories claiming that [[Ariana Dumbledore]] was ill, he had never seen her at the hospital.<ref name="DH8">{{DH|B|8}}</ref>
+
+==Etymology==
+The meaning of the name "Lancelot" is unknown, possibly an Old French diminutive of ''Lanzo''. In Arthurian legend Lancelot was the bravest of the knights of the Round Table. He became the lover of Arthur's wife Guinevere.
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+[[es:Lancelot]]
+[[fr:Lancelot]]
+[[pl:Lancelot]]
+[[ru:Ланселот]]
+[[de:Lancelot]]
+[[en:Lancelot (Healer)]]
+[[Category:British individuals]]
+[[Category:Healers]]
+[[Category:Males]]
+[[Category:St Mungo's employees]]
+[[Category:Wizards]]

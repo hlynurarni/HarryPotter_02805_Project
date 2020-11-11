@@ -1,0 +1,38 @@
+{{Pet individual infobox
+|image = [[File:JordanTarantula.png|250px]]
+|name = Lee Jordan's tarantula
+|born = Before [[1991]]<ref name="PS6"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Tarantula]]<ref name="PS6"/>
+|gender = 
+|height = "Giant"<ref name="PS6"/>
+|hair = Black<ref name="PS6"/>
+|feathers = 
+|eyes = Black<ref name="PS6"/>
+|skin = 
+|family = 
+|loyalty = [[Lee Jordan]] (owner)<ref name="PS6"/>
+}}
+{{Quote|Listen, we're going down to the middle of the train — Lee Jordan's got a giant tarantula down there.|Fred or George Weasley|Harry Potter and the Philosopher's Stone}}
+[[Lee Jordan]] brought this '''tarantula''' to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in his [[third year]] there. He kept this [[spider]] in a box while boarding the [[Hogwarts Express]] in [[1991]]. Lee Jordan showed it to his best friends [[Fred Weasley|Fred]] and [[George Weasley]] on the train.<ref name="PS6">{{PS|B|6}}</ref>
+
+[[Lee Jordan]] lost his pet tarantula at [[Hogwarts Castle]] on the [[1992-1993 school year]] and put up a notice at the [[Gryffindor Notice Board|Gryffindor pasteboard]]. [[Harry Potter]] subsequently retrieved it, as he found it wandering around the [[Hogwarts Library|library]].<ref name="COSG">{{COS|G}}</ref>
+
+==Behind the scenes==
+*By bringing a tarantula, Lee broke the school rule that only allowed students to keep [[cat]]s, [[owl]]s and [[toad]]s. However, this could be more of a guideline than a hard-and-fast rule, as other students have been shown bringing various other small creatures, such as the [[Weasley family|Weasley]] rat called [[Peter Pettigrew#Scabbers|Scabbers]] or [[Ginny Wealsy|Ginny's]] [[Pygmy Puff]] called [[Arnold]].
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{COS|G}}
+*{{TCG}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}[[pl:Tarantula Lee Jordana]]
+[[Category:Black-eyed individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Lee Jordan's possessions]]
+[[Category:Pets]]
+[[Category:Spiders]]

@@ -1,0 +1,34 @@
+{{Individual infobox
+|name = Odo
+|title = Hero<ref name="HBP22"/>
+|species = [[Human]]
+|gender = Male
+|wand = [[Odo's wand|Unknown length, wood and core materials]]
+|theme = wizard
+}}
+{{Quote|And Odo the hero, they bore him back home<br />To the place that he'd known as a lad,<br />They laid him to rest with his hat inside out<br />And his [[wand]] snapped in two, which was sad.|Part of a song about Odo|Harry Potter and the Half-Blood Prince}}
+'''Odo''' was a [[Wizardkind|wizard]], apparently a male about whom [[Odo the Hero|a song]] was written.<ref name="HBP22"/>
+
+==History==
+{{Quote|And for a while after that, Hagrid and Slughorn were sitting side by side, arms around each other, singing a slow sad song about a dying wizard called Odo.|[[Rubeus Hagrid]] and [[Horace Slughorn]] after [[Funeral of Aragog|Aragog's burial]]|Harry Potter and the Half-Blood Prince}}
+In [[1996]], [[Rubeus Hagrid]] and [[Horace Slughorn|Professor Slughorn]] sang the song about Odo when they were drunk right after [[Aragog]]'s [[Funeral of Aragog|funeral]]. Also, at [[William Weasley|Bill Weasley]] and [[Fleur Delacour]]'s [[Wedding of William Weasley and Fleur Delacour|wedding]] Hagrid, [[Charles Weasley|Charlie Weasley]], and a ''"squat wizard in a purple porkpie hat"'' were singing ''"[[Odo the Hero]]"''.<ref name="HBP22">{{HBP|B|22}}</ref>
+
+==Behind the scenes==
+*Odo could have possibly been a friend of Hagrid's since Hagrid was around in both situations the song was sung or it could just be a drinking song of sorts. The latter seems more likely.
+
+==Etymology==
+"Odo" is a name typically associated with [[Wikipedia:Odo|historical figures]] from the Middle Ages and before, most especially [[Wikipedia:Odo of France|Count Odo]], who led an unsuccessful defence of Paris against the Vikings in 885. Odo, and its later form [[Otto (disambiguation)]], are etymologically related to various European names which all come from a Germanic word meaning "possessor of wealth".
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{HBP|F}} {{Mention}}
+*{{DH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Odo]]
+[[fr:Odo]]
+[[pl:Odo]]
+[[Category:Males]]
+[[Category:Wizards]]

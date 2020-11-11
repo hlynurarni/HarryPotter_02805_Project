@@ -1,0 +1,41 @@
+{{HogwartsMysterySpoiler}}
+{{Pet individual infobox
+|image = 
+|name = Tenebrus
+|born = Pre [[1980s]]
+|died = 
+|alias = 
+|title = 
+|species = [[Thestral]]
+|gender = Male
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = [[Unidentified Thestrals]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Rubeus Hagrid]]
+}}
+'''Tenebrus''' was a [[Thestral]] who lived in the [[Forbidden Forest]]. Part of the [[Hogwarts Thestral herd|Hogwarts Thestral Herd]], he was the first Thestral to have been born in the Forest, presumably to the male and one of the five females initially acquired.
+
+==Biography==
+He was the personal favourite of [[Keeper of Keys and Grounds|gamekeeper]] [[Rubeus Hagrid]]. In [[1995]], when Hagrid introduced his [[Fifth year]] [[Care of Magical Creatures]] students to Thestrals, Tenebrus was the first to appear after he called for the herd.<ref name="OOTP21">{{OOTP|B|21}}</ref>
+
+==Etymology==
+The name Tenebrus is presumably derived from the English adjective ''tenebrous'', which means "dark," "gloomy," or "obscure".<ref>"[http://dictionary.reference.com/browse/tenebrous Tenebrous]" on Dictionary.com</ref> This word is itself derived from the Latin ''tenebrae'', meaning "darkness".<ref>"[http://www.etymonline.com/index.php?search=tenebrous&searchmode=none Tenebrous]" on The Online Etymology Dictionary</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}} {{possible}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Tenebrus]]
+[[es:Tenebrus]]
+[[fr:Tenebrus]]
+[[pl:Tenebrus]]
+[[Category:Care of Magical Creatures]]
+[[Category:Males]]
+[[Category:Thestrals]]

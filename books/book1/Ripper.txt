@@ -1,0 +1,65 @@
+{{Pet individual infobox
+|image = [[File:Ripper.jpg|250px]]
+|name = Ripper
+|born = c. [[1980s]]<ref name="age">In {{POA}}, Chapter 2, Ripper is said to have chased [[Harry Potter]] up a tree when [[Marjorie Dursley]] came to visit the year before he started at [[Hogwarts School of Witchcraft and Wizardry]]. Harry's [[first year]] at Hogwarts was [[1991]], and, thus, the visit would have occurred in [[1990]], placing Ripper's latest possible date of birth in that year. However, by [[1993]], he was described as "old." English Bulldogs have an average lifespan of eight to ten years. This means that Ripper was most likely born sometime during the mid-to-late [[1980s]].</ref>
+|died = 
+|alias = *Rippy
+*Rippy-pooh
+*Rippy-pippy-pooh
+|title = 
+|species = [[Dog]] (breed: [[bulldog]])
+|gender = Male
+|height = 
+|hair = Brown and white
+|feathers = 
+|eyes = Black
+|skin = 
+|family = 
+|loyalty = [[Marjorie Dursley]]
+}}
+{{Quote|Ripper just pines when I'm away.|[[Marjorie Dursley]]|Harry Potter and the Prisoner of Azkaban}}
+
+'''Ripper''' was one of [[Marjorie Dursley]]'s twelve [[bulldog]]s. He was her personal favourite and accompanied her on visits to [[4 Privet Drive]].
+
+==Biography==
+===Background===
+Ripper was most likely born in the mid-to-late [[1980s]].<ref name="age" /> He was one of twelve [[bulldog]]s kept by [[Marjorie Dursley]] and was her favourite.<ref name="pa2">{{POA|B|2}}</ref> Whenever Marjorie was away, he "pine[d]" for her, leading her to take him with her on trips, while the others were left in the care of [[Fubster|Colonel Fubster]].<ref name="pa2" />
+
+Although described as "evil-tempered,"<ref name="pa2" /> Marjorie lavished affection on Ripper, referring to him by twee nicknames like "Rippy-pooh."<ref name="poa-f">{{POA|F}}</ref> She often spoiled him with food, allowing him to lick her plate clean after meals,<ref name="poa-f" /> and sharing her [[tea]]<ref name="pa2" /> and [[brandy]]<ref name="poa-f" /> with him.
+
+===Visits with the Dursleys===
+====1990 visit====
+In [[1990]], while Marjorie was visiting her [[Vernon Dursley|brother's]] [[Dursley family|family]] at [[4 Privet Drive]], [[Harry Potter]] accidentally stepped on one of Ripper's paws.<ref name="pa2" /> Ripper proceeded to chase Harry up a tree in the Dursleys' yard.<ref name="pa2" /> Harry was stuck there until Marjorie called Ripper off after midnight.<ref name="pa2" /> The incident still made [[Dudley Dursley]] laugh years later.<ref name="pa2" />
+
+====1993 visit====
+[[File:Ripper.png|250px|thumb|left|Ripper in [[1993]]]]
+By [[1993]], Ripper was in the later part of his life, being described as "old."<ref name="pa2" /> Marjorie brought him with her when she paid visit to her brother's family that year.<ref name="pa2" /> After they were welcomed inside, [[Petunia Dursley]] offered Marjorie [[tea]], asking her what Ripper would like.<ref name="pa2" /> Marjorie asked that he be given his own helping of tea in her saucer.<ref name="pa2" /> Petunia followed this request.<ref name="pa2" /> However, she was noted to wince as Ripper "noisily" drank, as he got drool and tea on the clean floor in the process.<ref name="pa2" /> When Harry sat down at the table, Ripper growled at him, directing Marjorie's attention to the boy.<ref name="pa2" />
+
+On the fourth day of Marjorie's stay, Marjorie upset Harry at dinner to the point that he had an [[underage magic|unintentional magical outburst]], causing her to [[Blowing-up of Marjorie Dursley|inflate like a balloon]].<ref name="pa2" /> In the ensuing panic, Ripper charged into the room, barking "madly."<ref name="pa2" /> He bit [[Vernon Dursley]]'s leg when he grabbed Marjorie's foot in a desperate attempt to keep her from floating away.<ref name="pa2" />
+
+==Behind the scenes==
+*In [[December]] [[2012]] comments written for {{PM}}, [[J. K. Rowling|Rowling]] stated that she regretted making Marge a breeder of bulldogs, as she now knows them to be a non-aggressive breed, and her sister owns one. She does note, however, that they do look grumpy, and thus suited Marge.<ref name="pottermorerowling">{{WW|marge-dursley}}</ref>
+*In the American version, Harry treads on Ripper's tail, but in the British version he treads on his paw.
+*In the film version, Marge let Ripper taste some brandy Vernon poured for her. In real life, this is bad as alcohol is poisonous to dogs.
+**In addition, Ripper's actions to Vernon was, albeit unintentionally, the reason why he ultimately was forced to release the newly-inflated Marge outside despite his attempts at rescuing her, as he bit onto Vernon's leg and the pain from this and the gradually increasing height had him reluctantly disobeying Marge and letting go of her.
+
+==Appearances==
+{{Imagecat|Images of Ripper}}
+*{{POA}} {{1st}}
+*{{POA|F}}
+*{{OOTP}} {{Flashback}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Ripper]]
+[[fr:Molaire]]
+[[it:Squarta]]
+[[ru:Злыдень]]
+[[pl:Majcher]]
+[[Category:Black-eyed individuals]]
+[[Category:Dursley family possessions]]
+[[Category:Individual dogs]]
+[[Category:Males]]

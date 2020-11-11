@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Little Hangleton boys
+|born = c. [[1990s]]
+|died = 
+|blood = [[Non-magic people|Muggle]]s<ref name="GF1"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GF1"/>
+|gender = Males<ref name="GF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *Parents<ref name="GF1"/> 
+*Grandparents<ref name="GF1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Weeds were not the only things Frank had to contend with either. Boys from the village made a habit of throwing stones through the windows of the [[Riddle House]]. They rode their bicycles over the lawns Frank worked so hard to keep smooth. Once or twice, they broke into the old house for a dare. They knew that old Frank's devotion to the house and the grounds amounted almost to an obsession, and it amused them to see him limping across the garden, brandishing his stick and yelling croakily at them. Frank, for his part, believed the boys tormented him because they, like their parents and grandparents, thought him a murderer.|Description.|Harry Potter and the Goblet of Fire}}
+
+These '''boys''' lived in [[Little Hangleton]] in the [[1990s]]. 
+
+==Biography==
+They liked to play tricks with the old [[Riddle House]] caretaker [[Frank Bryce]], as they believed him to be the person behind the [[Riddle family|Riddle]] murders, and liked to see him limping across the [[Riddle House]] garden, brandishing his stick and yelling at them.<ref name="GF1">{{GOF|B|1}}</ref>
+
+On the night of [[20 August]], [[1994]], Frank, upon seeing lights glimmering in the [[Riddle House|old house]], thought that the kids had broken into it and started a fire. Instead it was actually [[Tom Riddle|Lord Voldemort]] and his servant [[Peter Pettigrew]], who were planning to [[Return of Lord Voldemort|restore Voldemort to full power]] and murder [[Harry Potter]].<ref name="GF1"/>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{GOF|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Bullies]]
+[[Category:Little Hangleton]]
+[[Category:Males]]
+[[Category:Unidentified Muggles]]

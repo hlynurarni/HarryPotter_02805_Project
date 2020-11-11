@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Kevin's mother
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Kevin's father|Husband]]
+*[[Kevin]] (son)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty= [[Kevin's family]]
+}}
+{{Quote|How many times, Kevin? You don't - touch - Daddy's - wand  - yeuch!|Kevin's mother scolds her young son's misbehaviour|Harry Potter and the Goblet of Fire}}
+
+The '''mother''' of [[Kevin]] went to the [[1994 Quidditch World Cup]] with her [[Kevin's father|husband]] and then two-year-old son, staying with them in a large, pyramid-shaped tent. Early in the morning, she came outside, and caught her young son using his father's [[wand]] to [[Engorgement Charm|enlarge]] a slug. She scolded him, then inadvertently stepped on the slug, causing it to burst. This upset Kevin, and he yelled at her, ''"You bust slug! You bust slug!"''<ref>{{GOF|B|7}}</ref>
+
+==Behind the scenes==
+*Although it is never stated whether or not she was a [[Wizardkind|witch]], it can be assumed given that she went to the Quidditch World Cup when it was heavily protected with [[Muggle-Repelling Charm]]s. Also, she seemed to know about the [[International Statute of Wizarding Secrecy]].
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Mère de Kevin]]
+[[pl:Matka Kevina]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Females]]
+[[Category:Kevin's family]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

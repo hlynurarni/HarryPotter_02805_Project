@@ -1,0 +1,99 @@
+{{Location infobox
+|name=Luchino Caffe
+|image=[[File:Luchino Caffe.jpg|250px]]
+|bgcolor1=
+|bgcolor2=
+|location=[[Tottenham Court Road]], [[London]], [[England]]
+|owner=
+|residents=
+|affiliation=[[Non-magic people|Muggle]] world
+|first={{DH}}
+|latest=
+|last=
+|cause=
+}}
+'''Luchino Caffe'''<ref>''[[Harry Potter and the Deathly Hallows (video game)]]''</ref> was an all-night [[Italy|Italian]]<ref>In the the [[Harry Potter and the Deathly Hallows (film)|film adaptation]] of ''Deathly Hallows'', an Italian flag can be seen hanging inside the café, and "hot [[Panino|panini]]" is advertised on its window (see [[:File:DH - Harry Potter battling inside the Cafe muggle restaurant.jpg|this image]]).</ref> café on [[Tottenham Court Road]] in [[Non-magic people|Muggle]] [[London]]. It was briefly visited by [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] after they were forced to make a quick escape from [[William Weasley|Bill Weasley]] and [[Fleur Delacour]]'s [[Wedding of William Weasley and Fleur Delacour|wedding]] on the night of [[1 August]], [[1997]].
+
+==History==
+{{main|Luchino Caffe Duel}}
+[[File:Stupefy-harry-potter.gif|250x250px|thumb|left|The trio fire off Stunning Spells during their duel with [[Antonin Dolohov]] and Thorfinn Rowle]]
+Harry, Hermione, and Ron fled there after [[The Burrow]] was attacked by Death Eaters, as the [[British Ministry of Magic|Ministry of Magic]] had just been taken over by [[Tom Riddle|Lord Voldemort]]. Hermione Granger inadvertently triggered the [[Taboo|Taboo curse]] on Voldemort's name, enabling [[Death Eaters]], [[Antonin Dolohov]] and [[Thorfinn Rowle]], to track them down, but the Trio was able to fight them off and clear their memories. A brief skirmish was the result, and it left the café something of a mess, as a table was blown up by Dolohov's ''[[Expulso Curse|Expulso]]'' curse. However, the trio cleaned up a bit before leaving. The waitress who worked there lost her memory of everything that had just happened, as did everyone else upon whom [[Hermione Granger|Hermione]] used the [[Memory Charm|Obliviate]] charm.<ref>{{DH|B|9}}</ref>
+
+==Description==
+{{Quote|God, that's revolting.|Ron describing the coffee|Harry Potter and the Deathly Hallows}}
+It was described as being small and shabby, with a "light layer of grease" on all the Formica-topped tables. Inside, a poster advertised the play ''[[Romeo and Juliet]]'' staged by the [[Carneiro Players]] at the [[Regency Playhouse]] in the summer of [[1997]]. The [[Waitress at Luchino Caffe|waitress]] there served "foamy, greyish coffee" to Harry, Ron, and Hermione. The services seem to be as poor as its appearance, as the waitress was chewing on gum while at work, and gave Ron a very nasty look in return for his remark on the coffee's quality.
+
+==Known menu==
+===[[Panino|Panini italiani]]===
+[[File:LuchinoMenu.png|251x251px|thumb|The Luchino Caffe's complete menu]]
+*[[panino Italia]]
+*[[panino campagnolo]]
+*[[panino cotoletta]]
+*[[panino pescatore]]
+*[[panino piccante]]
+*[[panino barese]]
+*[[panino Puglia]]
+*[[panino veneziano]]
+
+===Breakfast===
+*Scrambled [[egg]]s on [[toast]]
+*Scrambled eggs and [[parma ham]] on toast
+*Italiani Breakfast 
+
+===Hot food===
+*[[vegetable soup]]
+*[[tomato soup]]
+*[[Lasagne|meat lasagne]]
+*[[Lasagne|vegetable lasagne]]
+*An extra side [[salad]] or order of [[bread]] for the above
+
+===Large salads===
+*[[insalata vegetariana]]
+*[[insalata di mare]]
+*[[affettato misto]]
+
+===Other rolls===
+*Formaggio ([[cheese]] & salad)
+*[[mortadella]]/[[salame]] salad
+*[[parma ham]]/[[pancetta]]
+
+===Drinks===
+*[[espresso]]
+*[[cappuccino]]
+*[[caffe latte]]
+*A selection of [[tea]]s, including [[Iced tea|Ice Tea]]
+*[[Lima Lush]]
+*[[cola]]
+*fresh juice, including [[Orange juice|orange]], [[Apple juice|apple]], [[Pineapple juice|pineapple]], and [[lemon]]
+
+===Other/unsorted===
+*[[BLT]]
+*[[chocolate cheesecake]]
+*[[French Fancy]]
+*[[lemon cheesecake]]
+*[[strawberry cheesecake]]
+
+==Behind the scenes==
+*In {{LEGO|Y2}}, this café is located by [[Charing Cross Road]], across the road from the [[Leaky Cauldron]] and next to a [[Music (Charing Cross Road)|music store]].
+*In the film adaptation, the cafe is smarter and generally a better place than in the book.
+*The name "Luchino" possibly comes from the name of the Italian film director and screenwriter [[wikipedia:Luchino Visconti|Luchino Visconti]].
+*In The Artefact Vault it is written that it was named 'Lunchino Cafe' for Miraphora Mina's son.
+*It is never named in [[Harry Potter and the Deathly Hallows|the book]].
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}} {{1st ID}}
+*{{DH|G1}}
+*{{LEGO|Y2}}
+*{{HPK}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Nachtcafe in der Tottenham Court Road]]
+[[es:Luchino Caffe]]
+[[fr:Café Luchino]]
+[[ru:Кафе «Лучино»]]
+[[pl:Luchino Caffe]]
+[[pt-br:Café Luchino]]
+[[Category:Restaurants]]
+[[Category:Tottenham Court Road]]

@@ -1,0 +1,40 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Keeper of the reptile house
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Zookeeper
+|house = 
+|loyalty = Reptile House
+}}
+The '''keeper of the reptile house''' was a [[Non-magic people|Muggle]] who worked in the [[London Zoo reptile house|reptile house]] of the [[Surrey]] [[Zoo]] in the summer of [[1991]]. When a [[Boa constrictor at the Zoo|boa constrictor]] escaped after the glass in front of its cage [[magic]]ally [[Vanishment|vanished]], the keeper watched in shock as it slithered away.<ref>{{PS|B|2}}</ref>
+
+==Appearances==
+*{{PS}}
+
+==Notes and references==
+{{Reflist}}[[fr:Gardien du vivarium]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

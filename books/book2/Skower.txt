@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Scower.jpg|250px]]
+|name = Skower
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="TCG">{{TCG}}</ref>
+|gender = Female<ref name="TCG"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="TCG"/>
+|eyes = Green<ref name="TCG"/>
+|skin = White<ref name="TCG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Inventor or manufacturer of [[Mrs Skower's All-Purpose Magical Mess Remover]]
+|house = 
+|loyalty = 
+}}
+'''Mrs Skower''' (born likely after [[1492]])<ref>[https://tcrf.net/Harry_Potter_and_the_Sorcerer%27s_Stone_(Windows,_Mac_OS_Classic,_Mac_OS_X)/Unused_Dialogue#Nearly_Headless_Nick Unused Dialouge - The Cutting Room Floor] and {{COS|G}} - Nearly Headless Nick describes having to use shovels in his day to remove ectoplasm. In the console versions of the Chamber of Secrets video game, it is said that Mrs Skower's Magical Mess Remover cleans up [[ectoplasm]]. Thus, the cleaning solution must have been made after Nick died in 1492.</ref> was the [[Wizardkind|witch]] who gave her name to [[Mrs Skower's All-Purpose Magical Mess Remover]].<ref name="GOF8">{{GOF|B|8}}</ref><ref name="GOF18">{{GOF|B|18}}</ref> It is unknown whether she was the product's inventor or simply its manufacturer.
+
+==Etymology==
+"Skower" is an obsolete form of the verb scour, meaning "to clean, polish, or wash something by scrubbing it vigorously."<ref>''[http://en.wiktionary.org/wiki/scour Scour on Wiktionary]''</ref><ref>http://www.wordnik.com/words/scower</ref>
+
+==Behind the scenes==
+*The name could possibly be made up akin to "Mr Clean" in the Muggle world.
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{GOF}} {{Mention}}
+*{{TCG}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+[[es:Skower]]
+[[ru:Миссис Скоур]]
+[[pl:Pani Skower]]
+[[Category:Females|Scower]]
+[[Category:Green-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Inventors|Scower]]
+[[Category:Potioneers]]
+[[Category:Wizards|Scower]]

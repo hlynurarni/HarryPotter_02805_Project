@@ -1,0 +1,129 @@
+{{Spoiler|PAS|HM}}
+{{Organisation infobox
+|bgcolor1 = 
+|bgcolor2 = 
+|image = [[File:B2C11M2 Great Hall Duelling Club.png|250px]]
+|name = The Duelling Club
+|founder = [[Gilderoy Lockhart]]<ref name="COS11"/>
+|founded = [[17 December]], [[1992]]<ref name="COS11"/>
+|dissolved = [[1993]], revived in [[1996]]<ref name="HBPG"/>
+|leader = *[[Gilderoy Lockhart]]<ref name="COS11"/>
+*[[Severus Snape]]<ref name="COS11"/>
+*One student from each [[Hogwarts Houses|House]]<ref name="HBPG"/>
+|members = 
+|headquarters = [[Hogwarts Castle]]<ref name="COS11"/>
+|intentions = To teach and show students how to duel<ref name="COS11"/>
+|affiliation = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS11"/>
+|enemies = 
+}}
+{{Quote|Now, Professor Dumbledore has granted me permission to start this little duelling club, to train you all in case you ever need to defend yourselves as I myself have done on countless occasions — for full details, see my published works.|Gilderoy Lockhart stating the purpose of the club|Harry Potter and the Chamber of Secrets}}
+This '''Duelling Club''' was a club at [[Hogwarts School of Witchcraft and Wizardry]], founded in [[1992]] by then [[Defence Against the Dark Arts]] [[Professor]] [[Gilderoy Lockhart]] with the intention of teaching the students of Hogwarts how to defend themselves in response to the revelation that the [[Chamber of Secrets]] had been opened for the second time.<ref name="COS11">{{COS|B|11}}</ref> Though the initial club was very unsuccessful, it was recreated in [[1996]] in response to [[Second Wizarding War|a darker social climate]].<ref name="HBPG"/>
+==History==
+===First meeting===
+{{Quote|A haze of greenish smoke was hovering over the scene. Both Neville and Justin were lying on the floor, panting; Ron was holding up an ashen-faced Seamus, apologising for whatever his broken wand had done; but Hermione and Millicent Bulstrode were still moving; Millicent had Hermione in a headlock and Hermione was whimpering in pain; both their wands lay forgotten on the floor.|A description of the chaos following the first attempt to have the students practise duelling|Harry Potter and the Chamber of Secrets}}[[File:Duelling Club 1992.jpg|245x245px|thumb|left|The first meeting of the club]]
+
+The first meeting of the club was held on [[17 December]] at eight o'clock in the evening in the [[Great Hall]]. It was led by [[Gilderoy Lockhart]] and [[Severus Snape]]. Lockhart and Snape opened the club with a demonstration of formal duelling, including the [[accepted combative position]], though Snape was rather crude with his greeting. Snape easily overpowered Lockhart, hitting him with a [[Disarming Charm]] so powerful that it knocked Lockhart against the nearby wall. Presumably deciding that Snape was far too skilful for him, Lockhart barely covered his own ineptitude by lying that he let Snape do it (which angered Snape so much that even the ever ignorant Lockhart saw it) and decided to let the students practise duelling on their own. The students were split into pairs (with Snape making sure neither [[Harry Potter]], [[Ronald Weasley]], nor [[Hermione Granger]] were partnered with each other) and commanded to practise disarming.<ref name="COS11"/>
+
+This, however, turned out to be a mistake, as the room quickly dissolved into chaos, and had to be broken up by the use of ''[[General Counter-Spell|Finite Incantatem]]'' by Snape. Some results of the frenzied duelling included Harry and [[Draco Malfoy]] using [[Everte Statum|far]] [[Tickling Charm|more]] [[Dancing Feet Spell|malicious]] [[spell]]s than the Disarming Charm, Ron's [[Ronald Weasley's first wand|broken wand]] leaving [[Seamus Finnigan]] ashen-faced, and Hermione and [[Millicent Bulstrode]] reduced to [[Muggle duelling|physical combat]].<ref name="COS11"/>
+
+[[File:Rictusempra GIF.gif|thumb|225x225px|Harry Potter duelling Draco Malfoy during the first meeting]]At this, Snape suggested teaching the students to [[Shield Charm|block unfriendly spells]] would be prudent. Lockhart agreed, but, having no idea how to do it himself, failed to instruct Harry as to the proper way to do this. Nevertheless, Harry was paired with Draco once again. At Snape's instruction, Draco used the [[Snake Summons Spell]] and conjured a large, black [[snake]]. Having created the desired effect of scaring Harry, Snape moved to get rid of the snake, but Lockhart moved first, hitting the snake with ''[[Alarte Ascendare]]''. However, this spell only lifted the snake a few feet into the air, enraging it further and causing it to make its way towards [[Justin Finch-Fletchley]]. Harry, unaware of what he was doing, commanded the snake to stop in [[Parseltongue]]. Snape, becoming horrified at this new discovery, [[Snake-Vanishing Spell|vanished]] the snake and ended the meeting.<ref name="COS11"/>
+
+===Further meetings===
+Presumably, the club was disbanded when Lockhart lost his memory and was removed as the [[Defence Against the Dark Arts]] professor.
+
+In [[1996]], the Club was reinstated by [[Headmaster]] [[Albus Dumbledore]] as a precaution when [[Tom Riddle|Lord Voldemort]] had been officially announced at large once again. Each house, [[Ravenclaw]], [[Hufflepuff]], [[Slytherin]] and [[Gryffindor]] had their own personal duelling club and their own head member who acted as a leader and would arrange practise duels. Each house also had their own personal duelling area from which students of all houses could go to duel: [[Gryffindor]]s gathered in the [[Great Hall]], [[Ravenclaw]]s in the [[Middle Courtyard]], [[Slytherin]]s in [[The Quad]], and [[Hufflepuff]]s in the [[Training Grounds]].<ref name="HBPG">{{HBP|G}}</ref>
+
+===Legacy===
+Following the first meeting of the club, the student body (as well as Harry himself) became aware of Harry's status as a Parselmouth. This alienated the student body, causing a large portion of them to believe that Harry was the [[Tom Riddle|Heir of Slytherin]] and was setting the [[Serpent of Slytherin|monster]] in the Chamber of Secrets on [[Muggle-born]]s.<ref name="COS11"/> This opinion only changed when [[Hermione Granger]] (known to be a good friend of Harry's) was attacked as well.<ref name="COS14">{{COS|B|14}}</ref> Harry's knowledge of Parseltongue would later serve him in combating the true heir of Slytherin and, much later, opening [[Salazar Slytherin's Locket]].
+
+Both the [[Disarming Charm]] and the knowledge of formal duelling helped Harry to survive against Lord Voldemort in a [[Duel in Little Hangleton|duel]] the two would have [[1995|over two years later]], and those same skills would help him face Voldemort again, for the final time during [[Voldemort's Last Stand|Voldemort's last stand]].
+
+==Known members==
+===Gryffindor===
+*[[Alicia Spinnet]] ([[1992–1993 school year]])
+*[[Angelina Johnson]] ([[1992–1993 school year]])
+*[[Angus Matlock]] ([[1996-1997 school year]])
+*[[Edward]] ([[1992-1993 school year]])
+*[[Emily (disambiguation)|Emily]] ([[1992-1993 school year]])
+*[[Fred Weasley]] ([[1992-1993 school year]])
+*[[George Weasley]] ([[1992-1993 school year]])
+*[[Harry Potter]] ([[1992-1993 school year]]; [[1996-1997 school year]])
+*[[Hermione Granger]] ([[1992-1993 school year]]; [[1996-1997 school year]])
+*[[Katie Bell]] ([[1992–1993 school year]])
+*[[Lee Jordan]] ([[1992-1993 school year]])
+*[[Neil Randall]] ([[1996-1997 school year]])
+*[[Neville Longbottom]] ([[1992-1993 school year]])
+*[[Oliver Wood]] ([[1992-1993 school year]])
+*[[Romilda Vane]] ([[1996-1997 school year]])
+*[[Ronald Weasley]] ([[1992-1993 school year]]; [[1996-1997 school year]])
+*[[Seamus Finnigan]] ([[1992-1993 school year]])
+*[[Stewart]] ([[1992-1993 school year]])
+
+===Hufflepuff===
+*[[Anthony Otterburn]] ([[1996-1997 school year]])
+*[[Ernest Macmillan|Ernie Macmillan]] ([[1992-1993 school year]])
+*[[Hannah Abbott]] ([[1992-1993 school year]])
+*[[Heather]] ([[1992-1993 school year]])
+*[[Hufflepuff Duelling Club Captain]] ([[1996-1997 school year]])
+*[[Justin Finch-Fletchley]] ([[1992-1993 school year]])
+*[[Karl Limpley]] ([[1996-1997 school year]])
+*[[Kouta Ohnishi]] ([[1996-1997 school year]])
+*[[Rhonda Fladbury]] ([[1996-1997 school year]])
+*[[Susan Bones]] ([[1992-1993 school year]])
+
+===Ravenclaw===
+*[[Alannis]] ([[1996-1997 school year]])
+*[[Andrew]] ([[1992-1993 school year]])
+*[[Helen Dawlish]] ([[1996-1997 school year]])
+*[[Rebecca]] ([[1992-1993 school year]])
+*[[Shoma Ichikawa]] ([[1996-1997 school year]])
+*[[Terry Boot]] ([[1992-1993 school year]])
+*[[Trevor Birch]] ([[1996-1997 school year]])
+
+===Slytherin===
+*[[Bridget]] ([[1992-1993 school year]])
+*[[Draco Malfoy]] ([[1992-1993 school year]]; [[1996-1997 school year]])
+*[[Fergus Cowley]] ([[1996-1997 school year]])
+*[[Irfan Mustaq]] ([[1996-1997 school year]])
+*[[Maynard Hatton]] ([[1996-1997 school year]])
+*[[Millicent Bulstrode]] ([[1992-1993 school year]])
+*[[Peter]] ([[1992-1993 school year]])
+*[[Rachel]] ([[1992-1993 school year]])
+*[[Roy]] ([[1992-1993 school year]])
+*[[Slytherin Duelling Club Captain]] ([[1996-1997 school year]])
+
+==See also==
+*[[Hogwarts Duelling Club]]
+*[[Duelling Trophy]]
+*[[Duelling]]
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA|G}}
+*{{HBP|G}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{HPFJ}} {{C|Mentioned on a poster}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}} {{C|DS version}}
+*{{HPK}}
+*{{LEGO}}
+*{{PM}}
+*{{WW}}
+*{{HM}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+{{Duelling Club}}
+[[pl:Klub pojedynków]]
+[[de:Duellierclub]]
+[[fr:Club de duel]]
+[[ru:Дуэльный клуб]]
+[[es:Club de Duelo]]
+[[nl:Duelleerclub]]
+[[Category:Defence Against the Dark Arts]]
+[[Category:Duelling Clubs]]
+[[Category:Events]]

@@ -1,0 +1,92 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Miles Bletchley.jpeg]]
+|name = Miles Bletchley
+|born = c. [[1977]]-[[1979]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Keeper]]<ref name="PS11"/>
+|signature = 
+|species = [[Human]]<ref name="PS11"/>
+|gender = Male<ref name="PS11"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bletchley]] (possibly)
+*[[Kevin Bletchley]] (possibly)
+*[[Bletchley (musician)|Madame Bletchley]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="PS11"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS11"/>
+**[[Slytherin]]<ref name="PS11"/>
+**[[Slytherin Quidditch team]]<ref name="PS11"/>
+*[[Bletchley family]]
+}}
+'''Miles Bletchley''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] during the early [[1990s]]. He was a member of the [[Slytherin Quidditch team]], serving as their [[Keeper]].<ref name="PS11"/>
+
+==History==
+===[[1991–1992 school year]]===
+Bletchley played in [[Slytherin]]'s match against [[Gryffindor]] this year. He was unable to block [[Gryffindor]]'s only goal attempt during that match, from [[Angelina Johnson]].<ref name="PS11">{{PS|B|11}}</ref>
+
+===[[1992-1993 school year]]===
+Bletchley, along with the rest of the team, received a new [[Nimbus 2001]] this year from [[Lucius Malfoy]] as an incentive to allow his son [[Draco Malfoy|Draco]] onto the team as [[Seeker]]. He and the rest of the team flaunted these new [[broomstick]]s to the [[Gryffindor Quidditch team]]. He laughed along with the other members of the team at [[Ronald Weasley]] when his [[Ronald Weasley's first wand|broken wand]] redirected an attempted [[Slug-Vomiting Charm]] back at him.<ref name="COSF">{{COS|F}}</ref>
+
+===[[1995–1996 school year]]===
+During this year, Bletchley took part in a small plot by the Slytherin Quidditch team to [[jinx]] various members of the Gryffindor team prior to their first match. He hit [[Alicia Spinnet]] with a jinx that made her eyebrows grow excessively large. Despite doing this in front of fourteen witnesses, [[Severus Snape]], who seemed to support this action, merely chose to assume she had used a poorly applied [[Hair-Thickening Charm]] on herself, and Bletchley was not punished.<ref name="OOTP19">{{OOTP|B|19}}</ref>
+
+Later, during the match itself, Bletchley managed to save at least one attempted goal by Angelina Johnson. He, along with the rest of his team and the Slytherin supporters, sang "[[Weasley is Our King]]" throughout the match in a successful attempt to unnerve Ron Weasley, Gryffindor's new Keeper.<ref name="OOTP19" />
+
+==Personality and traits==
+Miles was a mean-spirited individual who lacked good sportsmanship. He took enjoyment in mocking others,<ref name="COSF"/> and evidently saw no problem with foul play against members of the Gryffindor Quidditch team.<ref name="OOTP19"/>
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Miles played as [[Keeper]] for the [[Slytherin Quidditch team]] at Hogwarts, meaning he was a fairly accomplished and talented [[broomstick]] flyer and [[Quidditch]] player.<ref name="PS11"/>
+*'''[[Dark Arts]]''': Miles [[jinx]]ed [[Alicia Spinnet]] with an unpleasant jinx that caused her eyebrows to grow rapidly, meaning he had some skill with [[Dark charm]]s.<ref name="OOTP19"/>
+
+==Behind the scenes==
+*In {{PS|FA}}, the Slytherin [[Keeper]] was played by [[Amy Domenica|Amy Puglia]], despite there never having been any girls on the Slytherin squad in the books. In ''[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]],'' he instead was depicted as a redhead and was played by [[David Churchyard]].
+*In the video game {{QWC}}, the Slytherin Keeper is named "[[Kevin Bletchley]]". It is possible this was intended to be Miles.
+
+==Etymology==
+"Miles" is from the Germanic name ''Milo'', introduced by the Normans to England in the form ''Miles''. The meaning is not known for certain. It is possibly connected to the Slavic name element ''mil'' meaning "gracious". From an early date it was associated with Latin ''miles'' "soldier".
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{COS|F}}
+*{{COS|G}}<ref>Although Miles is never identified, the complete Slytherin Quidditch team appeared in the video game adaptation.</ref>
+*{{POA}}
+*{{OOTP}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Bletchley, Miles}}
+
+[[de:Miles Bletchley]]
+[[de2:Miles Bletchley]]
+[[es:Miles Bletchley]]
+[[et:Miles Bletchley]]
+[[fr:Miles Bletchley]]
+[[pl:Miles Bletchley]]
+[[pt-br:Miles Bletchley]]
+[[ru:Майлз Блетчли]]
+[[Category:20th century births]]
+[[Category:Bletchley family]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

@@ -1,0 +1,57 @@
+{{Youmay|the St Mungo's patient|[[Agnes Monkleigh]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Agnes.png|250px]]
+|name = Agnes
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality =  
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = 
+|skin = White
+|family = [[Agnes's son|Son]]
+|romances = 
+|animagus = [[Dog]] (probably, failed)
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]
+}}
+{{Quote|Here you are, Agnes. See, you're not forgotten, are you? And your [[Agnes's son|son]]'s sent an [[owl]] saying he's visiting tonight, so that's nice, isn't it?|[[Healer]] [[Miriam Strout]] to Agnes|Harry Potter and the Order of the Phoenix}}
+'''Agnes''' was a [[Wizardkind|witch]] and patient in the [[Janus Thickey Ward]] at [[St Mungo's Hospital for Magical Maladies and Injuries]], admitted sometime before [[Christmas]] of [[1995]].<ref name="OOTP23"/>
+
+==Biography==
+She had fur all over her head and barked instead of speaking. Her [[Healer]] [[Miriam Strout]] informed that her [[Agnes's son|son]] would visit her [[Christmas]] night. It is possible that she remained at St Mungo's for the rest of her life. Her exact ailment was unknown, but it was noted to be a similar effect to consuming [[Polyjuice Potion]] prepared with animal DNA.<ref name="OOTP23">{{OOTP|B|23}}</ref>
+
+==Behind the scenes==
+*Given the description on {{PM}} presents what happens if an [[Animagus]] [[Human Transfiguration|transformation]] fails, it seems likely that this is what happened to Agnes, with her attempted Animagus form most likely being a [[dog]].
+
+==Etymology==
+Agnes is a female given name, which derives from the Greek word hagnē, meaning "pure", "holy" or "lamb".
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+[[de:Agnes]]
+[[fr:Agnès]]
+[[pl:Agnes]]
+[[ru:Агнес]]
+[[de2:Agnes]]
+[[Category:Females]]
+[[Category:St Mungo's permanent patients]]
+[[Category:Wizards]]

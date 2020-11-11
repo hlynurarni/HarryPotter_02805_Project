@@ -1,0 +1,53 @@
+{{Youmay|the [[Chaser]] for the  [[Irish National Quidditch team]]|the [[Beater]] for the [[American National Quidditch team]], [[Troy Duvall]]}}
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Irish National Quidditch team.jpg|250px]]
+|name = Troy
+|born = before [[1977]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Irish National Quidditch team]]
+|house = 
+|loyalty = [[Irish National Quidditch team]]
+}}
+'''Troy''' was an [[Ireland|Irish]] [[wizardkind|wizard]] who played as the [[Chaser]] for the [[Irish National Quidditch team]] during the [[1994]] [[Quidditch World Cup]]. He appeared to be the prominent Chaser, scoring the first goal of the match after the [[Bulgaria]]n [[Chaser]] [[Alexei Levski]] lost the [[Quaffle]]. He and [[Quigley]] lifted the Quidditch Cup of [[1994]] into the air in the [[Top Box]] after the Irish team had won the tournament.<ref>{{GOF|B|8}}</ref>
+
+==Etymology==
+"Troy" is a surname that originally denoted a person from the city of Troyes in [[France]]. This was also the name of the ancient city that was besieged by the Greeks in Homer's 'Iliad'.
+
+==Behind the scenes==
+*The part of Troy was played by [[Phil Mulryne]] in {{GOF|FA}}.
+
+==Appearances==
+*{{GOF}}
+*{{GOF|F}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[de:Troy]]
+[[fr:Troy]]
+[[pl:Troy]]
+[[Category:Chasers]]
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

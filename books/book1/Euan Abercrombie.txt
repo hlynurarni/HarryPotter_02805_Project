@@ -1,0 +1,90 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Euan Abercrombie
+|born = between [[1 September]] [[1983]] and [[31 August]] [[1984]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]] 
+**[[Gryffindor]]
+}}
+{{Quote|The terrified‐looking boy Harry had noticed earlier stumbled forwards and put the Hat on his head; it was only prevented from falling right down to his shoulders by his very prominent ears.|Euan during the [[1995]] [[Sorting ceremony]]|Harry Potter and the Order of the Phoenix}}
+'''Euan Abercrombie''' began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1995]] when [[Harry Potter|Harry]] was in his [[Fifth year]].
+
+As he was first in his year alphabetically, he was the first to be sorted, and was sorted into [[Gryffindor]] [[Hogwarts Houses|House]].<ref name="OOTP11">{{OOTP|B|11}}</ref> He was a small boy with prominent ears, who often looked terrified.<ref name="OOTP11" /> He believed in the ''[[Daily Prophet]]'s'' smear campaign against [[Harry Potter]], and looked at him fearfully when Harry tried to smile at him.<ref name="OOTP11" />
+
+==Etymology==
+"Abercrombie" is a surname of Celtic or [[Gaelic]] origin. It comes from the name of a parish in Fife, [[Scotland]], on the northern shore of the Firth of Forth, whence the possessor took his surname; from ''Aber'', marshy ground, a place where two or more streams meet; and ''cruime'' or ''crombie'', a bend or crook. Aber, in the Celtic and Gaelic, and also in the Cornish British, signifies the confluence of two or more streams, or the mouth of a river, where it flows into the sea; hence it is often applied to marshy ground, generally near the confluence of two rivers. It also signifies, sometimes, a gulf or whirlpool. "Euan" is of Scottish and Gaelic origin, and it means "born of yew" or "youth". It also means "little swift one" in Irish Gaelic.
+==Behind the scenes==
+===Translations===
+*Chinese (PRC): ''尤安·阿伯克龙比''
+*Chinese (Taiwan): ''尤安·愛波''
+*Croatian: ''Euan Abercombie''
+*Dutch: ''Eelco Abeel''
+*Greek: ''Γιούαν Αμπερκρόμπι''
+*Hebrew: ''יואן אברקרומבי''
+*Japanese: ''ユーアン・アクロバンビー''
+*Lithuanian: ''Juanas Aberkrombis''
+*Norwegian: ''Johan Abelin''
+*Russian: ''Юан Аберкромби {{c|Yuan Aberkrombi}}''
+*Serbian: ''Јуан Аберкромби {{c|Juan Aberkrombi}}''
+*Ukrainian: ''Юан Аберкромбі {{c|Yuan Aberkrombi}}''
+The following languages are the same as the original:
+{|
+|
+*Afrikaans
+*Czech
+|
+*Danish
+*Faroese
+|
+*Finnish
+*French
+|
+*German
+*Polish
+|
+*Portuguese
+*Spanish
+|
+*Swedish
+|}
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Abercrombie, Euan}}
+
+
+[[de:Euan Abercrombie]]
+[[fr:Euan Abercrombie]]
+[[pl:Euan Abercrombie]]
+[[ru:Юан Аберкромби]]
+[[zh:尤安·阿伯克龙比]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in 1995]]
+[[Category:Wizards]]

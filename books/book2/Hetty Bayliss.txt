@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Hetty Bayliss
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="COS5"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COS5"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COS5"/>
+|gender = Female<ref name="COS5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}'''Hetty Bayliss''' was a [[Non-magic people|Muggle]] who lived in [[Norfolk]]. The ''[[Daily Prophet]]'' reported how she saw the [[Flying Ford Anglia]] in the sky on [[1 September]], [[1992]] while hanging her washing.<ref name="COS5">{{COS|B|5}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{COS|F}} {{C|Name appears in ''[[Daily Prophet]]''}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bayliss, Hetty}}
+[[de:Hetty Bayliss]]
+[[fr:Hetty Bayliss]]
+[[pl:Hetty Bayliss]]
+[[nl:Betty Beuzel]]
+[[ru:Хетти Бейлисс]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

@@ -1,0 +1,81 @@
+{{HogwartsMysterySpoiler}}
+{{Real world subject}}
+{{Individual infobox
+|theme = beauxbatons
+|image = 
+|name = Perenelle Flamel
+|born = Between [[1307]]<ref>[[Nicolas Flamel]]'s year of birth range gives [[1300]] as his earliest possible year of birth. As the book did not specify whether Perenelle's 658th birthday was in the same year as or the year after Nicolas's 665th birthday, Perenelle was born either seven or eight years after her husband, making 1307 her earliest possible year of birth.</ref> and [[1334]]<ref name="birthdate">{{PS|B|13}} - "Mr Flamel, who celebrated his six hundred and sixty-fifth birthday last year, enjoys a quiet life in Devon with his wife, Perenelle (six hundred and fifty-eight)." Note the book being quoted is described to be old in 1992, so she and her husband are in fact older.</ref>
+|died = Between [[1992]] and [[1996]]<ref name="death">Rowling stated on her [http://web.archive.org/web/20110623030719/http://www.jkrowling.com/textonly/en/rumours_view.cfm?id=32 website] shortly before the publication of {{HBP|B}} that Nicolas had died by the start of the book, which makes their date of deaths between 1992 when the stone was destroyed and 1996 which is when the sixth book starts.</ref> (aged between 658 and 689)
+|blood = 
+|marital = Married<ref name="PS17"/>
+|nationality = [[France|French]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Nicolas Flamel]] (husband) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Flamel family]]
+*[[Beauxbatons Academy of Magic]]<ref name="PM"/>
+}}
+'''Perenelle Flamel''' (pre [[1334]] – between [[1992]] and [[1996]])<ref name="death"/> was a [[France|French]] [[Wizardkind|witch]], the wife of famous Philosopher and [[Alchemy|Alchemist]], [[Nicolas Flamel]], who was known for his creation of the [[Philosopher's Stone]].
+
+==Biography==
+She and her husband met at [[Beauxbatons Academy of Magic]] in their youth.<ref name="PM">{{WW|beauxbatons-academy-of-magic}}</ref> Perenelle and her husband drank the [[Elixir of Life]] produced by the stone, and were [[immortality|immortal]], until the stone was destroyed in [[1992]], after which she and Nicolas would later die. She was at least six hundred and eighty three years old at the time of her death.<ref name="birthdate" />
+
+She may have had a friendship with [[Albus Dumbledore]] like her husband. Having lived for so long, both Perenelle and her husband were glad to finally embrace death, which to them was like "going to bed after a very long day".<ref name="PS17">{{PS|B|17}}</ref>
+
+==Relationships==
+===Nicolas Flamel===
+Perenelle Flamel was the wife of [[Nicolas Flamel]]. She, along with her husband, drank the [[Elixir of Life]] created by the [[Philosopher's Stone]] making her [[Immortality|immortal]]. [[Nicolas Flamel|Nicolas]] and Perenelle lived over 600 years happily together.<ref name="PS13">{{PS|B|13}}</ref> After the [[Philosopher's Stone]] was nearly stolen by Lord Voldemort, the couple agreed that it should be destroyed. Despite their immortality, they were not afraid of dying and they both died thereafter.<ref name="PS17"/>
+
+==Etymology==
+''Perenelle'' is the Old French form on the name ''Petronilla'', a diminutive of the name ''Petronia'', which is the feminine form of ''Petronius'' - a Roman family name which is possibly derived from Latin petro, petronis "yokel".
+
+Petro-, of both Latin and Greek origin, is a prefix meaning "of or pertaining to stone."
+
+The name ''Flamel'' means in Old French "flame". Such meaning can be associated to Flamel's work as an alchemist.
+
+==Behind the scenes==
+*Unlike her husband, Perenelle did not appear in {{COG}}, aside from a possible mention.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{HM}} {{Indirect}}
+
+==External links==
+*{{Wikilink|Perenelle Flamel}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Flamel, Perenelle}}
+[[fr:Pernelle Flamel]]
+[[fi:Pernelle Flamel]]
+[[pl:Perenella Flamel]]
+[[ru:Пернелла Фламель]]
+[[de:Perenelle Flamel]]
+[[de2:Perenelle Flamel]]
+[[Category:1330s births]]
+[[Category:1990s deaths]]
+[[Category:Beauxbatons students]]
+[[Category:Centenarians]]
+[[Category:Females]]
+[[Category:Flamel family]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

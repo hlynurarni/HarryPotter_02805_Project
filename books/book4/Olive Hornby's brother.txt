@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Hornby
+|born = 
+|died = 
+|blood = 
+|marital = Married<ref name="GOF25"/>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF25"/>
+|gender = Male<ref name="GOF25"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Olive Hornby]] (sister) †<ref name="GOF25"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hornby family]]<ref name="GOF25"/>
+}}
+'''Mr Hornby''' was the brother of [[Olive Hornby]]. [[Myrtle Warren|Moaning Myrtle]] showed up uninvited at his wedding because she was haunting Olive, his sister, and apparently made a scene to remind Olive of the bullying she put up with when she was still alive. It was so big of a mess that Olive had to get help from the [[British Ministry of Magic|Ministry of Magic]] in getting rid of the troublesome [[ghost]].<ref name="GOF25">{{GOF|B|25}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Frère d'Olive Hornby]] [[pl:Pan Hornby]]
+[[Category:British individuals|Hornby's brother]]
+[[Category:Hornby family]]
+[[Category:Males|Hornby's brother]]
+[[Category:Married individuals|Hornby's brother]]
+[[Category:Unnamed family members|Hornby's brother]]
+[[Category:Wizards|Hornby's brother]]

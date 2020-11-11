@@ -1,0 +1,35 @@
+{{conjecture}}
+{{Individual infobox
+|image = Roberts child.jpeg
+|name = Roberts children
+|born = [[20th century]]
+|blood = [[Non-magic people|Muggle]]s
+|species = [[Human]]s
+|gender = At least one boy<ref name="GOF9"/>
+|family = *[[Roberts|Mr Roberts]] (father)
+*[[Roberts's wife|Mrs Roberts]] (mother)
+|loyalty = [[Roberts family]]
+|theme = muggle
+}}
+These two individuals were the [[Non-magic people|Muggle]] '''children''' of [[Roberts|Mr Roberts]] and [[Roberts's wife|Mrs Roberts]].<ref name="GOF9"/>
+
+==Biography==
+The two children' of [[Roberts|Mr Roberts]] and [[Roberts's wife|Mrs Roberts]] were attacked by [[Death Eaters]] the day after the [[1994 Quidditch World Cup]]. The youngest, a boy, was spun like a top sixty feet up in the air, while his mother, father, and older sibling floated nearby.<ref name="GOF9">{{GOF|B|9}}</ref>
+
+After the incident, their memories would have been [[Memory Charm|altered]] to forget what had happened along with their parents.<ref name="GOF10">{{GOF|B|10}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[fr:Enfants de Mr et Mrs Roberts]]
+[[pl:Dzieci pana Robertsa]]
+[[pt-br:Filhos do Sr. Roberts]]
+[[Category:20th century births]]
+[[Category:British individuals|Roberts]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Roberts family]]
+[[Category:Unnamed family members]]
+[[Category:Victims of Muggle torture]]

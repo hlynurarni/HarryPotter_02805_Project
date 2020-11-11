@@ -1,0 +1,51 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=wizard
+|name=Pierre Bonaccord
+|nationality=[[French]]<ref name="HM">{{HM}}</ref>
+|title=[[Supreme Mugwump]]<ref name="OOTP31"/>
+|species=[[Human]]<ref name="OOTP31"/>
+|gender=Male<ref name="OOTP31"/>
+|job=[[Supreme Mugwump]] of the [[International Confederation of Wizards]]<ref name="OOTP31"/>
+|loyalty=[[International Confederation of Wizards]]<ref name="OOTP31"/>
+}}
+{{Quote|… the first Supreme Mugwump of the International Confederation of Wizards was Pierre Bonaccord, but his appointment was contested by the wizarding community of Liechtenstein, because —|[[Harry Potter]] starts answering question ten of the [[1996]] [[History of Magic]] [[Ordinary Wizarding Level|O.W.L.]].|Harry Potter and the Order of the Phoenix}}
+'''Pierre Bonaccord''' was a [[France|French]] [[Wizardkind|wizard]] and the first [[Supreme Mugwump]] of the [[International Confederation of Wizards]].<ref name="OOTP31"/>
+
+==Biography==
+Bonaccord wanted to ban troll-hunting and grant rights to [[troll]]s, possibly granting them full "[[being]]" status as opposed to them being classified as "[[beast]]s". However, a tribe of [[Mountain Troll]]s had been causing a lot of trouble in [[Liechtenstein]], so their [[Wizarding world|wizarding community]] contested Bonaccord's appointment, and refused to join the Confederation as a result.<ref name="OOTP31">{{OOTP|B|31}}</ref>
+
+==Etymology==
+*"Pierre" is a French form of ''Peter''. This name was also borne by Pierre-Auguste Renoir (1841-1919), a French impressionist painter, and by Pierre Curie (1859-1906), a physicist who discovered radioactivity with his wife Marie.
+*A "bon-accord" is an expression or token of good will.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=None
+|position=[[Supreme Mugwump]] of the [[International Confederation of Wizards]]
+|years=
+|successor=Unknown, eventually [[Cottismore Croyne]] or [[Sidley Smirk Platter]]
+}}
+{{End box}}
+{{DEFAULTSORT:Bonaccord, Pierre}}
+[[de2:Pierre Bonaccord]]
+[[de:Pierre Bonaccord]]
+[[es:Pierre Bonaccord]]
+[[fr:Pierre Bonaccord]]
+[[pl:Pierre Bonaccord]]
+[[pt-br:Pierre Bonaccord]]
+[[ru:Пьер Бонаккорд]]
+[[Category:Activists]]
+[[Category:French individuals]]
+[[Category:Historical figures]]
+[[Category:Legislators]]
+[[Category:Males]]
+[[Category:Supreme Mugwumps]]
+[[Category:Wizards]]

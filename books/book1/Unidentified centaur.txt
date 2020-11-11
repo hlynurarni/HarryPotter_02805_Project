@@ -1,0 +1,50 @@
+{{conjecture}}
+{{Individual infobox
+|theme = centaur
+|image = [[File:Centaurs (Concept Artwork for the HP5 film 02).jpg|250px]]
+|name = Unidentified Centaur
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Centaur]]<ref name="OOTP33"/>
+|gender = Male<ref name="OOTP33"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Forbidden Forest]] [[Centaur]] [[Forbidden Forest Centaur colony|colony]]<ref name="OOTP33"/>
+}}
+{{Quote|We do not help [[human]]s! We are a race apart and proud to be so... We will not permit you to walk from here, boasting that we did your bidding!|Unidentified centaur|Harry Potter and the Order of the Phoenix}}
+This '''[[centaur]]''' was a member of the [[Forbidden Forest Centaur colony]].<ref name="OOTP33"/>
+
+==Biography==
+During the [[Skirmish in the Forbidden Forest]] in [[1996]], he grabbed [[Harry Potter]] as he and the other [[Centaur]]s tried to figure out to do with him and [[Hermione Granger]]. When Hermione suggested that they help them, this centaur roared that they did not help [[Human]]s. An [[Unidentified dun-coloured centaur]] suggested that they go with [[Dolores Umbridge]]. Luckily, the [[giant]] [[Grawp]] chased them away.<ref name="OOTP33">{{OOTP|B|33}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Articles with conjectural titles]]
+[[Category:Centaurs]]
+[[Category:Forbidden Forest]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

@@ -1,0 +1,86 @@
+{{WizardsUniteSpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:HE conductor.jpg|250px]]
+|name = Hogwarts Express conductor
+|born = c. [[1920s]]-[[1950s]]<ref>A callsheet for auditions for the [[The Wizarding World of Harry Potter|Wizarding World of Harry Potter]] in Japan (transcription [http://www.snitchseeker.com/harry-potter-news/wizarding-world-of-harry-potter-japan-theme-park-actor-auditions-in-us-uk-australia-94561/ here]) lists the Hogwarts Express conductor as being portrayed as between his mid-30s and 60s.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">He claims to have tried a camera once, and that it [http://www.youtube.com/watch?v=bK21fmHtKdo&feature=related "does not taste like an apple"]. As such, it is unlikely he grew up among [[Non-magic people|Muggle]]s.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Conductor of the [[Hogwarts Express]]
+|house = 
+|loyalty = *[[Hogwarts Express]] crew
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|Hogsmeade, next stop!|The Conductor|Harry Potter and the Prisoner of Azkaban (video game)}}
+
+The '''Hogwarts Express conductor''' (fl. [[1960]]—[[1993]]) is the [[Wizardkind|wizard]] who takes [[Hogwarts Express ticket|tickets]] and keeps the [[Hogwarts Express]] on time.
+
+==Biography==
+===Early life===
+{{Quote|Ya' know, I tried one of those ''[Muggle recording cameras]'', and it does not taste like an apple.|The conductor relays information on his past experiences with "Muggle contraptions"|The Wizarding World of Harry Potter}}
+This individual was born at some point in or before [[1960]], probably somewhere in the [[Great Britain|British Isles]], given his British accent. He does not seem to have been raised around [[Non-magic people|Muggle]]s.<ref name="blood"/> In his youth, he attended [[Hogwarts School of Witchcraft and Wizardry]], and admitted to have gone into the [[Hogwarts kitchens|kitchens]] on at least one occasion.<ref name="kitchens">[http://www.youtube.com/watch?v=IhWUU3f6pNQ&feature=related "More Wizarding World Preview on LeakyTV - June 4, 2010"] on [http://www.youtube.com/ Youtube].</ref> After his education in the [[magic]]al arts, he joined the [[Hogwarts Railways]] and started working as the conductor of the [[Hogwarts Express]] sometime before [[1978]].<ref name="startedworking">He [http://www.youtube.com/watch?v=gP4VMWdzPnI&feature=related claimed] to have met Sirius Black while he was a student at Hogwarts, so this is the latest date he could have started working as the conductor, as Sirius graduated the summer of that year.</ref>
+
+At some point in his life, he tried to eat a [[Non-magic people|Muggle]] [[cine-camera]] expecting it to taste like an [[Apple (fruit)|apple]].<ref name="camera">[http://www.youtube.com/watch?v=bK21fmHtKdo&feature=related "Infinitus - Hogwarts Express Conductor"] on [http://www.youtube.com/ Youtube].</ref> As such, when he recalled this incident, he remarked he was "not a fan of eating cameras".<ref name="camera2">[http://www.youtube.com/watch?v=8hybjrCPDx4&playnext=1&list=PL339C6A9D834C16B6 "Conductor of the Hogwarts Express from "The Wizarding World of Harry Potter""] on [http://www.youtube.com/ Youtube].</ref>
+
+===Conductor of the Hogwarts Express===
+[[File:Conductor.JPG|200px|thumb|left|The conductor in the [[1990s]]]]
+{{Quote|Fine looking group of students this time. It'll be time to get underway soon.|The conductor to [[Harry Potter]] on [[1 September]], [[1991]]|Harry Potter and the Philosopher's Stone (video game)}}
+Sometime in the [[1970s]], the conductor met [[Sirius Black]], then a student at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]. He recalled him as a "bright lad, very good-natured".<ref name="Sirius">[http://www.youtube.com/watch?v=gP4VMWdzPnI&feature=related "Ryan meets the Conductor of the Howarts Express!"] on [http://www.youtube.com/ Youtube].</ref>
+
+By the early [[1990s]], the conductor was reported by some students to smell "funny".<ref name="PSgbc">{{PS|G}} - GBC version</ref>
+
+In the summer of [[1993]], [[Sirius Black]] [[Azkaban escapes#1993|escaped]] from [[Azkaban]], where he was imprisoned on false charges. Having met the man as a student years prior, the conductor did not believe he was, as the [[British Ministry of Magic|Ministry of Magic]] had declared, an [[Death Eaters|ally]] of the [[Tom Riddle|Dark Lord]].<ref name="Sirius"/> On [[1 September]] [[1993]], the train was stopped on its way to Hogwarts for inspection by [[Dementor]]s searching for Black. During the stop, [[Remus Lupin]] went to have a word with the driver.<ref name="PA5">{{POA|B|5}}</ref> The Hogwarts Express non-stop journey from [[King's Cross Station|King's Cross]] to [[Hogsmeade station|Hogsmeade]] was interrupted briefly, but the conductor still managed to assist it in arriving at its destination on time.<ref name="PA5"/>
+
+{{Quote|All aboard.|The conductor|Harry Potter and the Deathly Hallows: Part 2}}
+As of [[2017]] he still worked as conductor for the [[Hogwarts Express]], and is still making it from [[Platform Nine and Three-Quarters|the platform]] to [[Hogsmeade station]] on time.
+
+In the August of [[2019]], he appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free him.<ref name="WU">{{WU}}</ref>
+
+==Behind the scenes==
+*It is unknown if the Conductor underwent the same sort of progressive "mental takeover" by the Express as experienced by the [[Trolley witch|Trolley Witch]], and by the same token whether his life was similarly extended. 
+*As a wizard with strong connections to Hogwarts, he, along with the [[Trolley witch|Honeydukes Express lady]], may have been called upon to participate in the [[Battle of Hogwarts]], however this is unknown.
+[[File:Conductor.jpg|250px|thumb|The conductor at {{WWHP}}]]
+*The conductor is included in {{WWHP}}. The conductor of the Hogwarts Express knows anything and everything about the village of Hogsmeade. He maintains a keen knowledge of what can be purchased where throughout the area, as well as knowing the history of the village and all the locations within. Visitors to the town may stop by the station to ask him any number of questions, as he enjoys answering any query delivered his way. The conductor carries with him at all times a [[Hogwarts Express conductor's pocket watch|gold enchanted pocket watch]] that he uses to be sure everything in his charge is always on time. The Hogwarts Express engine head plaque is engraved on the top of the watch cover along with the engine number of the Hogwarts Express, 5972. On the reverse side is the Hogwarts school crest and motto. The face of the watch is enchanted but may appear to show the words "Hogsmeade Station" on the top of the face, "King's Cross" on the bottom, with the left hand side reading: "Late" and the right hand side reading: "On time".
+*Through the film series a lot of people can be seen with clothes identical to his own, so it is possible that he appears in the films too, despite never identified.
+
+==Appearances==
+[[File:Hogwarts_Express_conductor_WU.png|thumb|200px|Hogwarts Express conductor as seen in {{WU}}
+]]
+*{{PS}} {{1st mention}}
+*{{PS|F}} {{Possible}}
+*{{PS|G}} {{1st}} {{Comment|GBC version only}}
+*{{POA|F}} {{C|Mention and voice only}} {{Possible}}
+*{{POA|G}} {{Comment|GBA version only}}
+*{{DH|F2}} {{C|Heard only}} {{Possible}}
+*{{WWHP}}
+*{{LEGO|Y1}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Conductor del Expreso de Hogwarts]]
+[[Category:British individuals]]
+[[Category:Hogwarts Express crew|Conductor]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Saul Croaker
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PM"/>
+|alias = 
+|title = [[Professor]]<ref name="PM">{{WW|time-turner}}</ref>
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Male<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Unspeakable]]<ref name="PM"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="PM"/>
+**[[Department of Mysteries]]<ref name="PM"/>
+}}
+{{Quote|Just as the human mind cannot comprehend time, so it cannot comprehend the damage that will ensue if we presume to tamper with its laws.|Professor Saul Croaker on [[time]] travel|Harry Potter and the Goblet of Fire}}
+'''Professor Saul Croaker'''<ref name="PM" /> (fl. 1994) was a [[Great Britain|British]] [[Wizardkind|wizard]] and [[Unspeakable]] for the [[Department of Mysteries]], having spent his entire career studying [[time]]-[[magic]].<ref name="PM" />
+
+==Biography==
+[[Professor Croaker’s law]] was named for him. Croaker attended the [[1994 Quidditch World Cup]] final, either attending with or meeting fellow Unspeakable [[Broderick Bode]]. Croaker was among the [[British Ministry of Magic|Ministry]] employees that passed by the [[Weasley family]]'s campsite.<ref name="GOF7">{{GOF|B|7}}</ref>
+
+==Etymology==
+A ''"Croaker"'' is someone who habitually predicts evil; it has that sense because croaking is a noise made by [[crow]]s and [[raven]]s, who are considered [[death]] omens, as they are carrion eaters.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 9 employees}}
+
+[[es:Croaker]]
+[[fr:Funestar]]
+[[pl:Saul Croaker]]
+[[pt-br:Saul Croaker]]
+{{DEFAULTSORT:Croaker, Saul}}
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Professors]]
+[[Category:Time Magic]]
+[[Category:Unspeakables]]
+[[Category:Wizards]]

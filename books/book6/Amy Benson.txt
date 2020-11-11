@@ -1,0 +1,62 @@
+{{Youmay|the Muggle girl|[[Amy (disambiguation)|another Amy]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Amy Benson
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Wool's Orphanage]]
+}}
+{{Quote|They were funny... Never the same again.|[[Cole|Mrs Cole]] to [[Albus Dumbledore]]|Harry Potter and the Half-Blood Prince}}
+
+'''Amy Benson''' was a resident at [[Wool's Orphanage]], where [[Tom Riddle]] also resided as a child, from his birth on [[31 December]], [[1926]] to sometime before [[1 September]], [[1938]].<ref name="HBP13">{{HBP|B|13}}</ref>
+
+==Biography==
+Tom took her, along with [[Dennis Bishop]], to a [[The Cave|cave]] near the spot, where the orphanage kids were taken on a trip. After the trip inside the cave, she and Dennis did not act the same and seemed strange. Tom seemed to have done something so terrible inside the cave that the two orphans were frightened into silence.<ref name="HBP13"/>
+
+==Etymology==
+The name "Amy" is the English form of the Old French name Amée meaning "beloved" (modern French aimée), a vernacular form of the Latin [[Amata]].
+
+==Behind the scenes==
+*In a deleted scene from {{HBP|FA}}, [[Albus Dumbledore]] stated that the children taken to the cave were Tom Riddle's "fellow students". This could imply that they were also students at [[Hogwarts School of Witchcraft and Wizardry]], but it is more likely that Tom attended another Muggle school with them for their early education, as indeed the orphanage, in place of parents, would be legally obliged to ensure they all did, from five years of age, in accordance with the Elementary Education Act 1880.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{HBP|F}} {{Comment|Deleted scene}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Benson, Amy}}
+
+[[de:Amy Benson]]
+[[de2:Amy Benson]]
+[[es:Amy Benson]]
+[[fr:Amy Benson]]
+[[pl:Amy Benson]]
+[[zh:艾米·本森]]
+[[Category:British individuals]]
+[[Category:Crystal Cave]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Orphans]]
+[[Category:Wool's Orphanage residents]]

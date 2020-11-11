@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Stubby Boardman
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP10"/>
+|alias = *[[Sirius Black]]<ref name="OOTP10"/>
+*[[Mina Lima]]<ref name="HBPF"/>
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP10"/>
+|gender = Male<ref name="OOTP10"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="OOTP10"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Lead Singer of [[The Hobgoblins]]<ref name="OOTP10"/>
+|house = 
+|loyalty = [[The Hobgoblins]]<ref name="OOTP10"/>
+}}
+'''Stubby Boardman''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and the lead singer of a musical group called [[The Hobgoblins]].<ref name="OOTP10"/>
+
+==Biography==
+He retired in [[1980]] after having a turnip thrown at his ear during a concert in [[Little Norton]] at the [[Little Norton Church Hall|Church Hall]]. He and [[Doris Purkiss]] appeared to be in a relationship.<ref name="OOTP10">{{OOTP|B|10}}</ref>
+
+It was said by ''[[The Quibbler]]'' in [[1995]] that he was in fact [[Sirius Black]] in disguise, based on the word of Purkiss, who claimed that she was having a romantic dinner with him on the night he supposedly [[Massacre in London|murdered]] [[Peter Pettigrew]] and twelve [[Non-magic people|Muggles]].<ref name="OOTP10"/> In [[1996]], ''[[The Quibbler]]'' claimed this person was [[Mina Lima]] in disguise.<ref name="HBPF">{{HBP|F}} {{see image 2 |File:MinaLimaQuibbler2.jpg|File:MinaLimaQuibbler.jpg}}</ref> Both claims were false.
+
+==Etymology==
+A ''boardman'' is a man who perambulates the streets carrying an advertising-board; a sandwich-man.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{HBP|F}} {{C|Name seen on a magazine}}
+*{{LEGO|D}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Boardman, Stubby}}
+
+[[es:Stubby Boardman]]
+[[fr:Stubby Boardman]] 
+[[pl:Stubby Boardman]]
+[[ru:Коротышка Бордман]]
+[[Category:British individuals]]
+[[Category:Conspiracy theories]]
+[[Category:Males]]
+[[Category:Musicians]]
+[[Category:Plot to murder Peter Pettigrew]]
+[[Category:The Quibbler]]
+[[Category:Wizards]]

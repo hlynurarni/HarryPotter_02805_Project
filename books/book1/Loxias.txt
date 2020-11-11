@@ -1,0 +1,63 @@
+{{Individual infobox
+|theme = dark-wizard
+|image = Loxias.jpg
+|name = Loxias
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale<ref name="TBB"/>
+|family = *[[Loxias's mother|Mother]]
+*[[Loxias's family|Family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = *Unknown wand<ref>It is most likely that he owned another wand before the [[Elder Wand]].</ref>
+*[[Elder Wand|Elder, Thestral tail hair core]]
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Elder Wand]]
+*[[Dark Arts]]
+}}
+'''Loxias''' was a [[Dark wizard]] who became Master of the [[Elder Wand]] after he murdered [[Barnabas Deverill]]. Loxias gave it the name of ''"[[Elder Wand|the Deathstick]]"'', and used it to vanquish his enemies. It is unknown who killed him, as—according to Dumbledore—many claimed to have finished him off, including [[Loxias's mother|his own mother]],<ref name="TBB">{{TBB|E}} - ''[[Albus Dumbledore]] on "''The Tale of the Three Brothers''"''</ref> but from [[Xenophilius Lovegood]]'s understanding of history, either [[Arcus]] or [[Livius]] seems to have done it, and thus became the next master of the Elder Wand.<ref name="DH21">{{DH|B|21}}</ref>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{TBB|R}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Barnabas Deverill]]
+|position=Master of the [[Elder Wand]]
+|years=Eighteenth century (most likely)
+|successor=[[Arcus]] or [[Livius]]
+}}
+{{End box}}
+{{Deathly Hallows Owners}}
+[[de:Loxias]]
+[[es:Loxias]]
+[[fr:Loxias]]
+[[pl:Loxias]]
+[[pt-br:Loxias]]
+[[ru:Локсий]]
+[[Category:Dark wizards]]
+[[Category:Elder Wand masters]]
+[[Category:Historical figures]]
+[[Category:Loxias family]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Murderers]]

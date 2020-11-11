@@ -1,0 +1,265 @@
+{{Spoiler|WU|HM}}
+{{Creature infobox
+|image = [[File:Goblin Pottermore.png|250px]]
+|name = Goblin
+|skin = Peach
+|eyes = Black
+|hair = White
+|feathers = 
+|related = *[[Dark Goblin]] 
+*[[Human]]
+*[[Pukwudgie]]
+|native = *[[Europe]] (originally)<ref name="PM">{{PM}}</ref>
+*[[North America]]<ref name="FBS">{{FB|S}}</ref>
+|alias = 
+|height = 48 inches<ref name="WWHP">{{WWHP}}</ref>
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = 
+|affiliation = [[Gringotts Wizarding Bank]]<ref name="PS5"/><ref name="DH26"/>
+|class = [[Being]]
+|status = Extant
+}}
+{{Quote|We are talking about a different breed of being. Dealings between wizards and goblins have been fraught for centuries ''...'' There has been fault on both sides, I would never claim that wizards have been innocent. However, there is a belief among some goblins, and those at Gringotts are perhaps most prone to it, that wizards cannot be trusted in matters of gold and treasure, that they have no respect for goblin ownership.|[[William Weasley|Bill Weasley]] on the mindset of goblins|Harry Potter and the Deathly Hallows}}
+
+'''Goblins''' are a highly intelligent race of small [[magic]]al [[human]]oid [[being]]s with long fingers and feet that coexist with the [[Wizardkind|wizarding world]]. Their diet consists of meat, roots, and fungi. Goblins converse in a language known as [[Gobbledegook]], and are adept metalsmiths notable for their [[silver]]work; they even mint coins for wizarding currency. Due to their skills with money and finances, they control the wizarding economy to a large extent and run [[Gringotts Wizarding Bank]].<ref name="PS5"/>
+
+Goblins have [[Goblin magic|their type of magic]] and can do magic [[Wandless magic|without a wand]]. They are represented by the [[Goblin Liaison Office]] of the [[Department for the Regulation and Control of Magical Creatures]] in the [[British Ministry of Magic|Ministry of Magic]]. Goblins are considered to be inferior by many [[Wizardkind|wizards]], who foolishly believe that the goblins are comfortable with that arrangement.
+
+==Description==
+
+===Physical appearance===
+Goblins are short and fair-skinned, as they spend very little time outside. They have very long fingers and feet, dome-shaped heads and are slightly larger than house-elves. [[Griphook]], one of the hundreds of goblins working at Gringotts, has a bald head, pointed nose, and pointed ears. Some have dark, slanted eyes, and some goblins even wear pointed hats.<ref name="PS5"/>
+
+===Intelligence===
+{{Dialogue a-b|Harry Potter|Hagrid, what exactly are these things?|Rubeus Hagrid|They're goblins, Harry. Clever as they come, goblins, but not the most friendly of beasts.|Harry Potter's first experience of goblins|Harry Potter and the Philosopher's Stone (film)}}[[File:Blordak.png|242x242px|thumb|left]]
+
+Goblins are extremely clever and over the years have dealt with wizard-kind effectively. They are still subservient in the minds of most wizards, but they have established themselves as a vital part of wizarding society. The goblins run Gringotts, the wizarding bank.<ref name="PS5"/> Therefore, they control the wizarding economy to a large extent. It is unknown if Gringotts is the only bank in the wizarding world. Goblins are extremely clever and more than able to stand up to wizards. The fact that the wizarding population treats them poorly is evidence of the severe injustice built into wizard culture. Ironically, the [[Fountain of Magical Brethren]] in the Atrium of the [[British Ministry of Magic|Ministry of Magic]] shows a goblin, along with a [[house-elf]] and a [[centaur]], gazing admiringly at a witch and wizard.<ref name="OOTP7">{{OOTP|B|7}}</ref>
+
+Apart from their cleverness with money and finances, goblins are also very capable metalsmiths. Their silverwork is well known and prized ([[Sirius Black]]'s wealthy family had dishes which were 'finest fifteenth-century goblin-wrought silver, embossed with the Black family crest').<ref name="OOTP4">{{OOTP|B|4}}</ref> When [[Rubeus Hagrid]] [[Mission to the Giant colony|visited]] the [[Giant]]s, one of the presents he brought was a goblin-wrought helmet which was described as "indestructible".<ref name="OOTP20">{{OOTP|B|20}}</ref> Goblins mint the [[Wizarding currency|Galleons]], [[Wizarding currency|Sickles]], and [[Wizarding currency|Knuts]] used in the Wizarding world; each coin is stamped with a serial number identifying the goblin who cast it. They are also able to tell the difference between genuine and counterfeit, as [[Griphook]] easily discerned the [[Sword of Gryffindor]],<ref name="DH23">{{DH|B|23}}</ref> while [[Leprechaun gold]] cannot fool them.<ref name="GOF37"/>
+
+It is possible that [[Half-goblin|part-goblin]] [[Filius Flitwick]] has inherited such cleverness since he is in [[Ravenclaw]]. He has also demonstrated such intelligence on many occasions, such as during the [[Battle of Hogwarts]], with his successful [[charm]]s work.
+
+==History==
+[[Ragnuk|Ragnuk the First]] was the king of the goblins during the lifetime of [[Godric Gryffindor]]. As the king of the goblins was also their finest silversmith, he was commissioned by Gryffindor to forge a sword of pure goblin's silver, with rubies set into the hilt. By the time Ragnuk had finished the sword, he liked it so much that he sought to steal it back from Gryffindor. He sent a group of his subjects to retrieve the sword, but they were all fought off by Gryffindor. A legend persisted in the goblin community that Gryffindor had stolen the sword.<ref name="DH25">{{DH|B|25}}</ref>
+
+===Gringotts Wizarding Bank===
+{{Quote|Gringotts is the safest place in the world fer anything yeh want ter keep safe — 'cept maybe Hogwarts.|Gringotts' top notch security|Harry Potter and the Philosopher's Stone}}[[File:GringottsLogoDH.png|226x226px|thumb]]
+[[Gringott]] was a celebrated goblin who founded Gringotts Wizarding Bank in [[1474]]. For the Bank's founding and presumable management, Gringott was featured on a [[Chocolate Frog Card]].<ref name="POAG">{{POA|G}}</ref>
+
+Partway down [[Diagon Alley]], near its intersection with [[Knockturn Alley]], stands an imposing snow-white marble building: [[Gringotts Wizarding Bank]]. "''Towering over the other shops''", it is the place where British witches and wizards store their money and other valuables, in vaults miles below ground. The vaults are heavily guarded.<ref name="PS5">{{PS|B|5}}</ref><ref name="DH26">{{DH|B|26}}</ref>
+
+The centuries-old bank is run by goblins, and they alone know the secrets of the twisting underground passages and the [[Thief's Downfall|enchantments]] (and creatures) in place to defend against intruders. The goblins have a code that forbids them to speak of the bank's secrets and would consider it "base treachery" to break any part of that code. [[Dragon]]s guard the bank's high-security vaults — a rumour that was later confirmed as true.<ref name="DH26"/>
+===Rebellions===
+{{Main|Goblin Rebellions}}[[File:Urg_the_Unclean.jpg|150px|thumb|[[Urg the Unclean]], a goblin activist who led some [[Goblin Rebellions]]|left]]Throughout the history of the wizarding world, there have been rebellions where the goblins have fought against discrimination and prejudice. They are still considered subservient in the minds of most wizards, and they are forbidden by the [[British Ministry of Magic|Ministry]] from carrying wands, which has lead to deep-seated resentment. During the 16th Century, [[Yardley Platt]] was a serial killer of goblins.<ref name="JKRS">{{JKRS}}</ref>
+
+These rebellions were most prevalent in the 17th and 18th centuries. One rebellion, in [[1612]], took place in the vicinity of [[Hogsmeade]]; an unidentified inn was used as headquarters for the rebellion. The rebellions have been described as "bloody and vicious". The names of the rebels tend to run along the lines of "[[Bodrod the Bearded]]" and "[[Urg the Unclean]]", according to [[Ronald Weasley|Ron Weasley]].
+
+According to the ''[[Daily Prophet]]'', even today there are subversive goblin groups who work in secret against the Ministry, although the validity of these claims is uncertain.<ref name="OOTP15">{{OOTP|B|15}}</ref>
+
+The reasons for starting some of the varied Goblin Rebellions include all but one of the following (according to the 3rd [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T. test]], all but one of the following are true): an allegation by [[Ragnuk|Ragnuk the First]] that [[Godric Gryffindor]] stole his sword; the pursuit and imprisonment of [[Ug the Unreliable]], who was peddling [[leprechaun]] gold; the accidental death of [[Nagnok]], [[Gringotts Wizarding Bank]] goblin, at the hands of an untrained [[Troll|Security troll]] sent by the [[British Ministry of Magic|Ministry of Magic]]; imprisonment of the notoriously violent [[Hodrod the Horny-Handed]], who attempted to kill three [[Wizardkind|wizards]]; the public ducking in the village pond by a gang of young wizards of goblin activist Urg the Unclean; and the Ministry of Magic [[Wand Ban|decree of 1631]] preventing [[Being|magical beings]] other than [[wizardkind|wizards and witches]] from carrying a [[wand]].<ref name="WOMBAT">[[Wizards' Ordinary Magic and Basic Aptitude Test]]</ref>
+
+===Wizarding Wars===
+The goblins suffered their share of losses during the first rise of [[Tom Riddle|Lord Voldemort]] in the [[1970s]]. A [[Goblin family near Nottingham|family living near Nottingham]] had been murdered by Voldemort. [[William Weasley|Bill Weasley]] has been approaching the goblins, appealing to their sense of belonging to the Wizarding community. This proved problematic, however, because a Ministry official, [[Ludovic Bagman|Ludo Bagman]], swindled a group of goblins out of a large amount of gold at the [[Quidditch World Cup]] in the summer of [[1994]],<ref name="GOF37">{{GOF|B|37}}</ref> leading the goblins to distrust both sides and became neutral during the war. When the [[trio]] [[Break-in of Gringotts Wizarding Bank (1998)|broke into]] the [[Lestrange Vault]] in [[1998]], Voldemort personally [[Massacre at Malfoy Manor|murdered]] many goblins present in the bank in fury and to eliminate witnesses of those who knew of his [[Helga Hufflepuff's Cup|cup]] [[Horcrux]].<ref name="DH27">{{DH|B|27}}</ref>
+
+==Human relations==
+{{Quote|Gold, filthy gold! We cannot live without it, yet I confess I deplore the necessity of consorting with our long-fingered friends.|[[Travers]]'s distaste of goblins|Harry Potter and the Deathly Hallows}}[[File:Goblin potions market.jpg|231x231px|thumb|left|[[Unidentified goblin stockbroker|A goblin stockbroker]], who lost a lot of Galleons]]
+
+Despite this troubled history, they have established themselves as a vital part of wizarding society. Being in charge of [[Gringotts Wizarding Bank|Gringotts]], they control the wizarding economy to a large extent. Apart from their cleverness with money and finances, goblins are also very capable metalsmiths. Their silverwork is well known and prized. [[Sirius Black]]'s wealthy family had dishes which were 'finest fifteenth-century goblin-wrought silver, embossed with the Black family crest'.<ref name="OOTP4"/> When [[Rubeus Hagrid|Hagrid]] visited the [[giant]]s, one of the presents he brought was a goblin-wrought helmet which was described as "indestructible".<ref name="OOTP20"/> At her wedding to [[William Weasley|Bill]], [[Fleur Delacour]] wore a goblin-made tiara owned by the Weasley's [[Muriel|Auntie Muriel]].<ref name="DH8">{{DH|B|8}}</ref>
+
+Goblins mint the [[Galleon]]s, [[Sickle]]s, and [[Wizarding currency|Knuts]] used in the wizarding world; each coin is stamped with a serial number identifying the goblin who cast it. Perhaps the most famous goblin-made artefact was the [[Sword of Gryffindor]].<ref name="DH25"/>
+
+There were rumours, almost certainly unfounded, that [[Cornelius Fudge]] was plotting ways to wrestle control of the money supply and the economy from the goblins while in office. [[Ludovic Bagman|Ludo Bagman]], got on the wrong side of a group of goblins when he swindled them out of a large amount of gold at the [[Quidditch World Cup]] in the summer of 1995.<ref name="GOF37"/> This exacerbated the anti-[[British Ministry of Magic|Ministry]] feeling, which made it difficult for [[William Weasley|Bill Weasley]] who was tasked with the job of trying to persuade the goblins to side with wizards against [[Tom Riddle|Voldemort]].<ref name="OOTP5">{{OOTP|B|5}}</ref>
+
+When the [[Death Eaters]] started rising in power, people feared the goblins would have joined Voldemort, as did other oppressed such as [[Werewolf|werewolves]] and [[giant]]s. However, this did not happen, as Voldemort even murdered a [[Goblin family near Nottingham]], leading to them standing at a neutral point.<ref name="OOTP5"/> Death Eater Travers even made it clear he disliked the goblins as a whole, and only tolerated them for their ability to maintain the wizarding currency in check.<ref name="DH27"/>
+
+Goblins can use magic without the aid of a [[wand]], although they are insulted by the refusal of wizards to allow them to use wands. In turn, goblins conceal the secrets of their magic from wizards. Their weaponry and armour are nearly indestructible when created and have their kinds of magical properties.
+
+===Wizard jobs at Gringotts===
+There seem to be several jobs available at Gringotts for wizards, in addition to those positions held by goblins, though they are largely behind-the-scenes. [[William Weasley|Bill Weasley]] took a job as a [[Curse-Breaker]], hunting treasure in [[Egypt]] after his graduation from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. The job was described in a pamphlet available to Hogwarts students.<ref name="OOTP29">{{OOTP|B|29}}</ref>
+
+When he wanted to do work for the [[Order of the Phoenix]], Bill transferred to a desk job in England to be near home. That same year, [[Fleur Delacour]] took a job at Gringotts as well, to improve her English, though she only works part-time. There also seems to be a full-time security force that is comprised of wizards, and that rushed to the scene when the Lestranges vault is broken into. They also employ Dragon Feeders, a job with a high mortality rate, at 7 Galleons per week.<ref name="DH26"/>
+
+==Goblin values==
+{{Quote|To a goblin, the rightful and true master of any object is the maker, not the purchaser. All goblin-made objects are, in goblin eyes, rightfully theirs.|Explanation of  goblin notions of payment and ownership|Harry Potter and the Deathly Hallows}}[[File:Griphook.png|210px|thumb|[[Griphook]] holding the [[Godric Gryffindor's sword|Sword of Godric Gryffindor]], a goblin-made object which he believes rightfully belongs to the makers, not the buyers]]
+
+Overall, goblins' idea of payment and repayment are not the same as humans. Goblins dislike theft but use a different definition of the word. By goblin standards, the maker of an item, not the purchaser is the rightful owner; the item is required to be returned to its maker after the death of the purchaser. Goblins believe that the wizard paying for a goblin-made artefact is merely renting it, not owning it. Goblins consider the passing of an item from one wizard or witch to another without further payment to its maker "little more than theft", as [[William Weasley|Bill Weasley]] put it.<ref name="DH25">{{DH|B|25}}</ref>
+
+Goblins also hold the debt to extremes, as they hunted down Ludo Bagman after he lost a bet with them, and even though they took everything of value from him after he cheated them with [[Leprechaun gold]], they still hounded him due to it being not enough to cover his debt.<ref name="GOF37"/> When Bagman ran out on his final loss against the goblins, they refused to side with the [[human]]s due to this cheat.
+==Known Goblins==
+{|class="wikitable" border="1" width="100%"
+|-
+!scope="col"|Goblin(s)
+!scope="col"|Notes
+|-
+|[[Alguff the Awful]]
+| a commercialist.
+|-
+|[[Bogrod]]
+|an employee at Gringotts.
+|-
+|[[Brodrig the Boss-Eyed]]
+|spokesgoblin at the [[Brotherhood of Goblins]].
+|-
+|[[Burgock]]
+|an employee at Gringotts.
+|-
+|[[Clever goblin]]
+|an employee at Gringotts.
+|-
+|[[Eargit the Ugly]]
+|a spokes-goblin.
+|-
+|[[Filius Flitwick's goblin ancestor]]
+|a distant ancestor of [[Filius Flitwick]].
+|-
+|[[Gnarlak]]
+|American goblin, owner of the speakeasy, [[The Blind Pig]].
+|-
+|[[Gornuk]]
+|an employee at Gringotts.
+|-
+|[[Gringott]]
+|Founder of [[Gringotts Wizarding Bank]].
+|-
+|[[Gringotts Head Goblin]]
+|employee and head at Gringotts.
+|-
+|[[Griphook]]
+|an employee at Gringotts.
+|-
+|[[Ludovic Bagman's goblin creditors]]
+|some goblins that put [[Ludovic Bagman|Bagman]] under pressure because he could not pay the money.
+|-
+|[[Magic goblin]]
+|an employee at Gringotts.
+|-
+|[[Nagnok]]
+|an employee at Gringotts.
+|-
+|[[Odbert]]
+|an employee at Gringotts.
+|-
+|A goblin [[Portrait of a goblin|who had himself pictured in portraits]]
+|a famous goblin.
+|-
+|[[Ragnok]]
+|an associate of [[William Weasley|Bill Weasley]].
+|-
+|[[Ragnok the Pigeon-Toed]]
+|an author and activist.
+|-
+|[[Ragnuk|Ragnuk the First]]
+|the maker of [[Godric Gryffindor's Sword]].
+|-
+|[[Red]]
+|MACUSA bellboy.
+|-
+|[[Tall goblin]]
+|an employee at Gringotts.
+|-
+|[[Unidentified goblin associate of Oswald Beamish]]
+|a goblin that was an associate of [[Oswald Beamish|Beamish]].
+|-
+|[[Unidentified goblin killed by Voldemort]]
+|a former employee at Gringotts.
+|-
+|[[Unidentified goblin philosopher]]
+|a philosopher goblin.
+|-
+|[[Unidentified Gringotts Bank goblin guard]]
+| a goblin that guarded the silver doors at Gringotts.
+|-
+|[[Ricbert|Unidentified Gringotts Bank teller]]
+|a goblin that was counting the cash-money.
+|-
+|[[Unidentified Gringotts spokesgoblin]]
+|a goblin that tells about serious events.
+|-
+|[[Unidentified goblin stockbroker]]
+|a goblin that works at the [[British Ministry of Magic|Ministry of Magic]].
+|-
+|[[Ug the Unreliable]]
+|a con-artist.
+|-
+|[[Urg the Unclean]]
+|an activist.
+|-
+|[[Urgruff the Unwary]]
+|a goblin who made a perfect [[dragon egg]] replica.
+|-
+|[[Goblin jazz singer]]
+|
+|}
+
+===Known Part-Goblins===
+*[[Filius Flitwick]]: [[Charms Master]] in [[Charms (class)|Charms class]] at [[Hogwarts School of Witchcraft and Wizardry]].
+
+==Behind the scenes==
+*The {{wplink|goblin}} is an evil, mischievous creature from [[Europe]]an mythology. Though they are described inconsistently in the myths of different countries, common traits include short stature, the magical ability of some form, and a love of money.
+**The Goblins being good metalsmiths seems to be based on the dwarves of Nordic mythology.
+*According to [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]], it is possible that goblins fear sunlight, which may explain why [[Human]]s guarded the outside doors of [[Gringotts Wizarding Bank|Gringotts]].
+*At Gringotts, goblins appear to have a lounge, where they can relax and dance. It is located in [[Vault 712]].
+*Goblins are known to have not agreed with the Statute of Secrecy summit decisions of [[1692]].
+*Former Minister of Magic [[Cornelius Fudge]] was nicknamed "Goblin-Crusher" by the tabloid magazine ''[[The Quibbler]]'' due to debatable claims that Fudge kills goblins in ways that may seem ridiculous, such as cooking them in pies.
+*In {{LEGO|Y1}} the goblin that asked Hagrid for Harry's keys appeared to have been taking notes. However, when the goblin went to fetch Griphook, Hagrid caught a glimpse of the paper, revealing it to have simply been a child's drawing of a house.
+*Oddly only one female goblin, a [[goblin jazz singer]] has ever appeared in any Harry Potter media; they seem to be the inverse of [[Veela]], with one gender being more visible to the magical world.
+*Goblin's ideas of ownership are similar to the theory of [[Wikipedia:Georgism|Georgism]].
+*Rowling perhaps used the fact that the goblins were a vital part of Wizarding life, controlling their only bank, no matter how wizards see goblins as an inferior race, inspired by the prejudice of Nazis against Jews (hitherto anti-Semitism) and Adolf Hitler's theory of Jews coveting world domination by controlling banks all over the world. This is supported by the fact that some wizards, like Hermione Granger, negatively see this prejudice.
+*Goblins have the power to do magic. However, in {{LEGO|Y1}}, they only come with a key.
+*In {{DH|FA2}}, many of the Gringotts goblins were portrayed by members of Willow Management, an agency founded in part by [[Warwick Davis]], specialising in representing actors under 5 feet tall.
+*Goblin culture seems to not include surnames.
+*In the first film, Rubeus Hagrid referred to goblins as beasts, although they are classified as beings. However, he may simply have been speaking metaphorically.
+
+==Appearances==
+{{Imagecat|Images of Goblins}}
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|G}}
+*{{POA}} {{Mention}}
+*{{POA|F}}
+*{{GOF}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{HBP}}
+*{{HBP|F}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{FB|S}}
+*{{FB|F}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{TCG}}
+*{{PM}}
+*{{WU}}
+*{{HPV|CH}}
+*{{HPV|CR}}
+*{{WWHP}}
+*{{HM}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+[[de:Kobold]]
+[[es:Duende]]
+[[fr:Gobelin]] 
+[[it:Folletto]] 
+[[pl:Gobliny]] 
+[[ru:Гоблин]] 
+[[ja:小鬼]]
+[[Category:Creatures from Europe]]
+[[Category:Creatures from North America]]
+[[Category:Folio Bruti entries]]
+[[Category:Goblins]]
+[[Category:Muggle-known creatures]]

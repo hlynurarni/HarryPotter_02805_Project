@@ -1,0 +1,72 @@
+{{HogwartsMysterySpoiler}}
+{{Creature infobox
+|image = [[File:Hinkypunk PM.png|250px]]
+|name = Hinkypunk
+|skin = 
+|eyes = 
+|hair = 
+|feathers = 
+|related = 
+|native = [[Scotland]]<ref name=PAVG></ref>
+|alias = 
+|height = 
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = *Looks like smoke
+*Bears a lantern
+*Turns solid when illuminated
+|affiliation = 
+|class = 
+|status = Extant
+}}
+{{Quote|The Hinkypunk is a little one-legged creature and looks as if it is made of smoke. It carries a lantern with which it lures travellers into bogs.|[[Folio Bruti]]|Harry Potter and the Prisoner of Azkaban (video game)}}
+
+A '''Hinkypunk''' is a diminutive, one-legged [[magic]]al [[creature]] with the appearance of wispy blue, grey or white smoke.<ref name="PA10"/> It has a proclivity for luring travellers off of their paths at night, into treacherous bogs or wetlands under the guise of a helpful, lamp-bearing being.<ref name="PA10"/> They are [[imp]]ish varmints who revel in inconveniencing [[magic]]al folk and [[Muggle|non-magical]] folk alike. They can propel [[fire]]balls far from their lamps, causing serious damage.<ref name="PAVG">{{POA|G}}</ref> They also sporadically emit hollering and grunting noises.<ref name="PAVG"/>
+
+==History==
+Hinkypunks were part of [[Professor]] [[Remus Lupin]]'s [[third year]] [[Defence Against the Dark Arts]] schedule in the [[1993–1994 school year]].<ref name="PA9">{{POA|B|9}}</ref> The class was scheduled to begin study of the [[Creature]]s on [[5 November]], [[1993]]; however, Professor Lupin was absent due to his [[Lycanthropy|illness]] and [[Professor]] [[Severus Snape|Snape]] took the class instead.<ref name="PA9"/> Professor Snape took the opportunity to lecture the class about [[Werewolf|werewolves]] rather than continuing with the appointed curriculum.<ref name="PA9"/>
+
+Study on them therefore began the following Monday when Professor Lupin returned.<ref name="PA10">{{POA|B|10}}</ref> The class found the creature rather frail and harmless-looking, although Professor Lupin warned them of how the Hinkypunk would lure travellers ahead with its lantern, although exactly what would happen thereafter was left ambiguous, as the creature then made a loud squelching noise against the glass.<ref name="PA10"/>
+
+Hinkypunks were later included in the [[third year exams]] for [[Defence Against the Dark Arts]] in [[June]] of [[1994]], the second-to-last exam.<ref name="PA16">{{POA|B|16}}</ref> Professor Lupin had created an obstacle course in the sun, and included an [[Portable Swamp|artificial bog]], into which a Hinkypunk was placed.<ref name="PA16"/> Students then had to ignore the misleading instructions given by the creatures, which [[Ronald Weasley]] failed at<ref name="PA16"/> despite having battled six in [[September]] of [[1993|that year]].<ref name="PAVG"/>
+
+==Physical description==
+The Hinkypunk is short and stout in appearance, with no apparent eyes, ears, mouth or nose.<ref name="PAVG"/> Their translucent and cloudy form gives the impression that they are comprised entirely of wispy white smoke.<ref name="PA10"/> They have maggoty body shapes, with two protruding arms and one thick, supporting leg, the latter feature of which causing their characteristic hobble.
+
+==Defence==
+One can avoid confrontation with the Hinkypunk by simply moving out of their throwing range.<ref name="PA10"/> However, if one is close enough to a Hinkypunk, the creature will throw [[Fire|flame]] from its lantern, and therefore destruction is advised. The following method is recommended<ref name="PAVG"/>:
+#Trap the Hinkypunk in a corner or approach it in a tight space.
+#Perform the [[Wand-Lighting Charm Duo]] onto the Hinkypunk in question until it solidifies.
+#While the Hinkypunk is still solid and dazed, blinded by the [[Wand-Lighting Charm|wandlight]], attack it with the [[Knockback Jinx]] three to five times, thereby causing it to disappear in a puff of white smoke.
+
+==Behind the scenes==
+*'Hinkypunk' is the name for a [[Wikipedia:Will-o'-the-wisp|will-o'-the-wisp]] in southwestern [[England]].
+*No information is given on Hinkypunks in the fifty-second edition of {{FB}} by [[Newton Scamander]]; it is therefore possible that they are [[spirit]]s rather than [[beast]]s.<ref name="FB">''[[Fantastic Beasts and Where to Find Them (companion book)|Fantastic Beasts and Where to Find Them (real)]]''</ref>
+*They are, however, included in the [[Folio Bruti]] among [[dementor]]s, [[charmed skeleton]]s and [[jinx]]ed [[Suit of armour|armour]].<ref name="PAVG"/>
+
+==Appearances==
+*{{POA}} {{1st}}
+*{{POA|F}} {{Mention}}
+*{{POA|G}}
+*{{OOTP|G}} {{Mention}}
+*{{PM}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Defence Against the Dark Arts}}
+
+[[de:Hinkepank]]
+[[es:Hinkypunk]]
+[[fr:Pitiponk]]
+[[it:Fuoco Fatuo]]
+[[ru:Болотный фонарник]]
+[[pl:Zwodnik]]
+[[pt-br:Hinkypunk]]
+[[Category:Creatures affiliated with fire]]
+[[Category:Creatures from Scotland]]
+[[Category:Defence Against the Dark Arts]]
+[[Category:Folio Bruti entries]]
+[[Category:Muggle-known creatures]]
+[[Category:Uncertain classification]]

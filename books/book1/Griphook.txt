@@ -1,0 +1,129 @@
+{{HogwartsMysterySpoiler}}
+{{Youmay|the [[Goblin]]|the actor who has a similar surname, [[Taylor Triphook]]}}
+{{Individual infobox
+|theme = gringotts
+|image = Griphook TDH SF.png
+|name = 
+|born = Pre-[[1990]]
+|died = [[1 May]], [[1998]]<br/>
+[[Malfoy Manor]], [[Wiltshire]], [[England]]<ref name="DHF2"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS5"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="PS5"/>
+|gender = Male<ref name="PS5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = Black<ref name="DH24"/>
+|skin = Sallow<ref name="DH24"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = 
+|patronus = 
+|job = Employee at [[Gringotts Wizarding Bank]]<ref name="PS5"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="PS5"/>
+}}
+{{Dialogue a-b-a|Griphook|The right to carry a [[wand]] has long been contested between wizards and goblins.|Ronald Weasley|Well, goblins can do [[magic]] without wands.|That is immaterial! Wizards refuse to share the secrets of [[wandlore]] with other magical beings, they deny us the possibility of extending our powers!|Griphook's opinion on how [[wizardkind|wizards and witches]] have treated goblins unfairly|Harry Potter and the Deathly Hallows}}
+'''Griphook''' was a [[goblin]] who worked at [[Gringotts Wizarding Bank]] in [[Diagon Alley]].<ref name="PS5"/> He would later go on the run during the height of the [[Second Wizarding War]] following the fall of the Ministry of Magic and the raise of [[Tom Riddle|Lord Voldemort]]'s new regime.<ref name="DH15"/> He would later assist [[Harry Potter]] in his break-in of Gringotts in order to obtain [[Helga Hufflepuff's Cup]].<ref name="DH26"/>
+
+However, despite being rescued by them, Griphook's general mistrust of wizardkind resulted in him betraying Harry Potter, [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] when he believed that they would not hand him the [[Sword of Gryffindor]] after destroying the Cup and other [[Horcrux]]es.<ref name="DH26"/> This eventually resulted in his own downfall when the Goblins reported the Cup's theft to Voldemort, who subsequently slaughtered all of them, including Griphook, in a fit of rage.<ref name="DHF2"/>
+
+==Biography==
+===Work for Gringotts===
+{{Dialogue a-b-a|Griphook|Stand back. If anyone but a Gringotts goblin tried that, they’d be sucked through the door and trapped in there.|Harry Potter|How often do you check to see if anyone’s inside?|About once every ten years.|Griphook to Harry Potter in 1991|Harry Potter and the Philosopher's Stone}}Griphook worked for [[Gringotts Wizarding Bank]].<ref name="PS5"/>
+
+In [[1990]], Griphook tasked his subordinate, the [[Curse-Breaker]] [[William Weasley|Bill Weasley]] with retrieving a [[gold]]en [[dragon egg]] forged by the infamous [[goblin]] blacksmith [[Urgruff the Unwary]], as it was residing with a mother dragon who had purloined it from him after she mistook it for one of her own eggs. After the Curse-Breaker managed to successfully procure it with help from [[Charles Weasley|his brother]] and friends, Griphook requested that they regale him with the story of their adventure, and, after learning that one of Bill's accomplices, [[Jacob's sibling]], had single-handedly subdued a [[Hungarian Horntail]], proposed that they join Gringotts as a Curse-Breaker after graduating from Hogwarts.<ref name="HM6">{{HM|6|The Dragon's Treasure}}</ref>
+
+In [[1991]], he took [[Harry Potter]] and [[Rubeus Hagrid]] to vaults [[Vault 687|687]] and [[Vault 713|713]].<ref name="PS5">{{PS|B|5}}</ref>
+
+===Second Wizarding War===
+In [[1997]], Griphook went on the run after the fall of the [[British Ministry of Magic|Ministry of Magic]] to [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]], because the Ministry of Magic placed wizards in control of the goblins and he refused to acknowledge any [[Wizardkind|wizard]] as his master.<ref name="DH15">{{DH|B|15}}</ref> However, he had a last laugh when he was assigned to put [[Godric Gryffindor's Sword]] in [[Bellatrix Lestrange]]'s [[Lestrange Vault|vault]]. He noticed that the sword was a fake, but decided not to reveal that information to Bellatrix, as not to help the Death Eaters.<ref name="DH23">{{DH|B|23}}</ref>
+
+====On the run====
+[[File:Dean griphook 3.jpg|236x236px|thumb|left|[[Dean Thomas]] and Griphook on the run from Snatchers]]
+
+Griphook soon met up with [[Dirk Cresswell]] and [[Gornuk]], and finally [[Edward Tonks|Ted Tonks]] and [[Dean Thomas]], and they spent several months on the run. The group was then eventually caught by a gang of [[Snatchers]] led by the dangerously fierce werewolf, [[Fenrir Greyback]]. Ted, Dirk and Gornuk were killed, but Griphook and Dean were taken prisoner.<ref name="DH23" />
+
+Shortly after, Greyback's team was alerted to the true location of [[Harry Potter]], [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]] after they broke the [[Taboo]] on Lord Voldemort's name. Griphook, together with the others captured, was taken to [[Malfoy Manor]] and then imprisoned in the cellar. However, the trio were in possession of the real [[Sword of Gryffindor]]. Bellatrix, believing that the sword was taken from her vault, tortured Hermione with the [[Cruciatus Curse]] to find out how the trio came into possession of it. She came up with a lie that it was a fake, and Harry then persuaded Griphook to go along with her story.<ref name="DH23" />
+
+[[File:Goblin Griphook with Ron and Hermione in the bckgrnd 02.jpg|244x244px|thumb|Griphook talking with Harry, Ron, and Hermione at Shell Cottage whilst resting]]
+
+The [[house-elf]] [[Dobby]] rescued all the prisoners from the Manor, and they took refuge at [[Shell Cottage]]. Griphook's legs were injured during the escape, thus [[Fleur Delacour]] administered [[Skele-Gro]] to heal him. He watched from the bedroom window as Harry buried Dobby's body, surprised by the great respect Harry paid Dobby and by Hermione Granger's later revelation that she wanted house-elves to be freed, as few wizards treat house-elves and other non-human beings with respect.<ref name="DH24">{{DH|B|24}}</ref>
+
+====[[Break-in of Gringotts Wizarding Bank (1998)|Breaking into Gringotts]]====
+{{Dialogue a-b|Griphook|As the Dark Lord becomes ever more powerful, your race is set still more firmly above mine! Gringotts falls under Wizarding rule, house-elves are slaughtered, and who amongst the wand-carriers protests?|Hermione Granger|We do! We protest! And I'm hunted quite as much as any goblin or elf, Griphook! I'm a Mudblood!... Did you know that it was Harry who set Dobby free? Did you know that we've wanted elves to be freed for years? You can't want [[Tom Riddle|You-Know-Who]] defeated more than we do, Griphook!|Conversation in [[Shell Cottage]]|Harry Potter and the Deathly Hallows}}Harry soon came to Griphook to ask him to assist them in breaking into Gringotts to steal the [[Helga Hufflepuff's Cup|Horcrux]] that was in Bellatrix's vault. Because of his favourable impression of Harry, and Hermione pointing out that all magical beings were united in resisting Voldemort, Griphook agreed to help them — in exchange for the [[Sword of Gryffindor]]. Griphook considered it [[goblin]] property, claiming that [[Godric Gryffindor]] had stolen it from [[Ragnuk]], the maker of the sword. Harry reluctantly agreed.<ref name="DH25">{{DH|B|25}}</ref>
+
+[[File:Screen shot 2011-11-11 at 4.58.59 PM.png|250px|thumb|left|Breaking into Gringotts]]
+
+However, Griphook's mistrust of wizards in general, and his feelings that goblin-made artefacts should be returned to Goblins once the original purchaser had died, led him to suspect that Harry would not keep his word and relinquish the sword. During the [[Break-in of Gringotts Wizarding Bank (1998)|break-in]], he managed to get hold of the sword, then fled into the caves calling for help to deal with thieves. Despite his betrayal, Harry, Ron, and Hermione escaped with [[Helga Hufflepuff's Cup]] (now a Horcrux), flying out on a Ukrainian Ironbelly [[Gringott's Dragon|dragon]] used to guard high security vaults.<ref name="DH26">{{DH|B|26}}</ref>
+
+====Massacre at Malfoy Manor====
+[[File:Duende.gif|250px|thumb|Griphook lying dead at [[Malfoy Manor]]]]
+When [[Tom Riddle|Lord Voldemort]] found out about the break-in, he summoned several goblins to [[Malfoy Manor]], including Griphook, who arrived clutching the Sword of Gryffindor. When another goblin revealed what had transpired, Voldemort flew into a rage. He [[Massacre at Malfoy Manor|slaughtered]] all within the room, including Griphook, who fell to the ground holding the Sword. Moments later, Voldemort stepped over his corpse, and the Sword faded away to return to the [[Sorting Hat]].<ref name="DHF2">{{DH|F2}}</ref>
+
+==Personality and traits==
+{{Quote|The longer they spent time together, the more Harry realised that he did not much like the goblin. Griphook was unexpectedly bloodthirsty, laughed at the idea of pain in lesser creatures, and seemed to relish the possibility that they might have to hurt other wizards to reach the [[Lestrange Vault|Lestranges' vault]].|Griphook personality, as described by Harry|Harry Potter and the Deathly Hallows}}Being a goblin, Griphook severely distrusted [[wizardkind]] and hated wizarding arrogance, stemming from the fact that goblins had been treated brutally by wizards in the past. Griphook had a somewhat barbaric and savage personality as he enjoyed the idea of pain in lesser creatures,<ref name="DH25"/> was eager to harm wizards and showed pleasure at the idea of checking once every ten years if anyone was trapped inside [[Vault 713]].<ref name="PS5"/> Like most goblins, Griphook also believed that any goblin-made artefacts should be returned to goblins once the original purchaser had died. Due to this, he stated that goblins were the only true owners of such artefacts and that any non-goblin purchasing or possessing them was little more than renting or thieving rather than owning them.<ref name="DH25"/>
+
+Because of the prejudice Griphook had witnessed, he was amazed by the respect Harry Potter had shown to creatures such as elves and goblins. This was most apparent when Griphook observed that Harry buried Dobby, a house-elf, after he was killed by Bellatrix Lestrange, in a grave dug by hand.<ref name="DH24"/> Despite this, Griphook was unable to fully overcome his distrust and hatred for wizardkind, which resulted in him betraying Harry Potter, Ron Weasley and Hermione Granger when they intended to use the Sword of Gryffindor to destroy [[Helga Hufflepuff's Cup]] and the other Horcruxes.<ref name="DH26"/> This betrayal ultimately proved to be Griphook's own undoing, as he was murdered by Voldemort alongside the other Goblins who reported the Cup's theft to him and Griphook's death caused the Sword to vanish back into the Sorting Hat.<ref name="DHF2"/>
+
+==Behind the scenes==
+[[File:Griphook.gif|thumb|Griphook as a LEGO mini-figure (1st edition)]]
+[[File:GriphookDeathlyHallowsLego.PNG|thumb|Griphook as a LEGO mini-figure (2020 edition)]]
+*In {{PS|FA}}, Griphook is played by the late American actor [[Verne Troyer]], famous for playing Dr Evil's "Mini-Me" in the ''Austin Powers'' films. However, Griphook was voiced by [[Warwick Davis]], who plays [[Filius Flitwick|Professor Flitwick]], as well as the first [[Gringotts Wizarding Bank|Gringotts]] [[Gringotts Head Goblin|goblin]]. Because the producers wanted a completely British cast, Troyer was replaced by Davis to portray the role of Griphook in {{DH|F1}} and {{DH|F2}}.<ref>HPUpdate: ''[http://harrypotterupdate.multiply.com/journal/item/370/Here_Lies_Dobby_A_Free_Elf_-_Day_2_Filming_for_the_Shell_Cottage_scenes_in_Deathly_Hallows_movie Here Lies Dobby, A Free Elf - Day 2 Filming for the Shell Cottage scenes in "Deathly Hallows" film]''</ref>
+*Griphook's death is not elaborated on in the [[Harry Potter and the Deathly Hallows|book]] at all.
+*In {{LEGO|Y1}}, Griphook is an unlockable and playable character. Out of 167 characters, he is the only goblin in the game. Therefore, he is the only one who can open up Goblin Chests, revealing special items like Studs or Character Tokens. He is also required to play the bonus levels in the lower vaults of Gringotts. He is unlocked in the first level," The Magic Begins", by using [[Reductor Curse|Reducto]] on the chest near the first vault in the Gringotts Basement. The player can then turn into Griphook whenever they want, using [[Polyjuice Potion]] or in Free Play mode. He is wearing a blue suit though his lego figure has a red suit.<ref name="LEGOY1"/>
+*Also in {{LEGO|Y1}}, Griphook accidentally opens [[Vault 712]] instead of [[Vault 713]], revealing a goblin dance party.<ref name="LEGOY1"/>
+*In {{DH|F2}}, Griphook takes Hufflepuff's cup and uses it as a bargaining chip for the Sword of Gryffindor when Harry and his friends are trapped by the [[Doubling Charm|cursed]] goblets in Bellatrix Lestrange's vault. Later he is killed by Voldemort after the Dark Lord learns of the break-in at Gringotts. He is last seen dead at Malfoy Manor with the Sword of Gryffindor; as the camera lingers on his body, the Sword vanishes from under his hand.<ref name="DHF2"/>
+
+==Appearances==
+{{Imagecat|Images of Griphook}}
+[[File:Griphook_LEGO_Y2.png|thumb|Griphook as he appears in {{LEGO|Y2}}]]
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS|G}} {{C|GBC and GBA versions only}}
+*{{HBP|F}} {{Possible}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{FB|E}}
+*{{LEGO|B}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{HPK}}
+*{{LEGO}}
+*{{PM}}
+*{{WW}}
+*{{TCG}}
+*{{HPV|CR}}
+*{{HM}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+[[de:Griphook]]
+[[fr:Gripsec]]
+[[ru:Крюкохват]]
+[[es:Griphook]]
+[[it:Unci-unci]]
+[[pl:Gryfek]]
+[[ja:グリップフック]]
+[[Category:Bankers]]
+[[Category:Black-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Horcrux hunt]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Skirmish at Malfoy Manor participants]]

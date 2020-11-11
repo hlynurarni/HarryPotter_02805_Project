@@ -1,0 +1,23 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Romilda's grandmother
+|species = [[Human]]<ref name="HBP15"/>
+|gender = Female<ref name="HBP15"/>
+|family = [[Romilda Vane]] (granddaughter)<ref name="HBP15"/>
+|theme = individual
+}}
+The '''grandmother''' of [[Romilda Vane]] allegedly sent a box of [[Chocolate Cauldrons]] to her granddaughter despite the fact that the girl was not fond of them. However, as this was a ruse in order to give [[Harry Potter]] a [[Love Potion]], it was most likely untrue.<ref name="HBP15">{{HBP|B|15}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Abuela de Romilda Vane]]
+[[fr:Grand-mère de Romilda Vane]]
+[[pl:Babcia Romildy Vane]]
+{{DEFAULTSORT:Vane, Romilda's grandmother}}
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Enid Smeek
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Godric's Hollow]]
+*[[Rita Skeeter]]
+}}
+{{Quote|He were a head case, that Aberforth. Ran wild. 'Course, with his mum and dad gone you'd have felt sorry for him, only he kept chucking goat dung at my head. I don't think Albus was fussed about him. I never saw them together, anyway.|Enid Smeek, to [[Rita Skeeter]] on her sensationalist book ''[[The Life and Lies of Albus Dumbledore]]''.|Harry Potter and the Deathly Hallows}}
+'''Enid Smeek''' (fl.[[1890]]—[[1997]]) was a [[wizardkind|witch]] who lived in the outskirts of [[Godric's Hollow]] in the late [[19th century|nineteenth century]], at the same time as the [[Dumbledore family]].<ref name="DH18">{{DH|B|18}}</ref>
+
+She presented [[Rita Skeeter]] her testimony about the [[Dumbledore family|Dumbledores]] for the sensationalist tell-all biography of [[Albus Dumbledore]] that Skeeter wrote in [[1997]], ''[[The Life and Lies of Albus Dumbledore]]'', in which she said Albus's brother [[Aberforth Dumbledore|Aberforth]] used to throw [[goat]] dung at her, and that [[Bathilda Bagshot]], the famed historian, was "''nutty as squirrel poo''".<ref name="DH18"/>
+
+==Etymology==
+*The name "Enid" is derived from Welsh enaid meaning "soul" or "life". [[Wikipedia:Enide|Enid]] was the wife of Geraint in Arthurian legend.
+
+==Appearances==
+*{{DH}} {{Mention}}
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Smeek, Enid}}
+
+
+[[de:Enid Smeek]]
+[[fr:Enid Smeek]]
+[[pl:Enid Smeek]]
+
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

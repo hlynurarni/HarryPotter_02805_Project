@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Prentice
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Keep your wand out. Nevermind the Statute of Secrecy now, there's going to be hell to pay anyway, we might as well be hanged for a dragon as an egg. ''[…]'' What's that at the end of the street? Oh, it's just Mr Prentice… don't put your wand away, boy, don't I keep telling you I'm no use?|[[Arabella Figg]] instructs [[Harry Potter]] to keep his wand at the ready after a [[Attack in Little Whinging|Dementor attack]].|Harry Potter and the Order of the Phoenix}}
+'''Mr Prentice''' was a [[Non-magic people|Muggle]] who lived in [[Little Whinging]] in the [[1990s]].
+
+In the evening of [[2 August]], [[1995]], after [[Harry Potter]] and [[Dudley Dursley]] were [[Attack in Little Whinging|attacked]] by [[Dementor]]s, [[Arabella Figg]] told Harry, a [[wizardkind|wizard]] to keep his wand out in case of another attack, not minding the presence of [[Non-magic people|Muggle]] Mr Prentice as they crossed [[Wisteria Walk]].<ref name="OP1">{{OOTP|B|2}}</ref>
+
+==Behind the scenes==
+*When {{OOTP}} was released, many thought Mr Prentice was, perhaps, another member of the [[Order of the Phoenix|Order]] who, like [[Arabella Figg|Mrs Figg]] was assigned to watch over Harry during the summer, given her lack of preoccupation of him spotting Harry's wand. [[J. K. Rowling]], however, dispelled these rumours on her {{JKRS}} by saying "''Mark Evans is... nobody. He's nobody in the sense that Mr Prentice, Madam Marsh and Gordon-Dudley's-gang-member are nobodies, just background people who need names, but who have no role other than the walk-on parts assigned to them''". It is, thus, more than likely that the risk of Mr Prentice noticing the wand was outweighed by the risk of encountering Dementors without a wand at the ready by Mrs Figg.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Mr Prentice]]
+[[nl:Meneer Strumpel]]
+[[pl:Pan Prentice]]
+[[Category:British individuals|Prentice]]
+[[Category:Males|Prentice]]
+[[Category:Muggles|Prentice]]

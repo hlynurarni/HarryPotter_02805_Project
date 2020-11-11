@@ -1,0 +1,48 @@
+{{Youmay|Ragnuk, a goblin king|[[Ragnok]], the goblin who knew [[William Weasley|Bill Weasley]]}}
+{{Individual infobox
+|theme=goblin
+|image=
+|name=Ragnuk
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|title=King
+|hidep=
+|species=[[Goblin]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidea=
+|job=[[Goblin]] king
+|house=
+|loyalty=[[Goblin]]s
+}}
+{{Quote|Wizarding arrogance again! That sword was Ragnuk the First's, taken from him by Godric Gryffindor! It is a lost treasure, a masterpiece of goblinwork! It belongs with the goblins.|[[Griphook]]|Harry Potter and the Deathly Hallows}}
+'''King Ragnuk the First''' (fl. [[11th century]]) was the king of the [[goblin]]s during the lifetime of [[Godric Gryffindor]]. He was the maker of the famous [[Sword of Gryffindor]].
+
+==Biography==
+As the king of the goblins was also their finest silversmith, Ragnuk was commissioned by Gryffindor to forge [[Godric Gryffindor's Sword|a sword]] of pure [[goblin's silver]], with [[Ruby|rubies]] set into the hilt. By the time Ragnuk had finished the sword, however, he liked it so much that he sought to steal it back from Gryffindor. He sent a group of his subjects to retrieve the sword, but they were all fought off by Gryffindor, who was a skilled [[Duelling|duellist]]. Gryffindor [[Charm|bewitched]] the goblins to return to Ragnuk and inform him that, if he tried such a thing again, Gryffindor would use the sword to kill him and all his subjects.<ref name="Pottermore">{{PM|the-sword-of-gryffindor}}</ref>
+
+Ragnuk made no further attempt to take the sword, however, a legend persisted in the goblin community that Gryffindor had stolen the sword, a myth perpetrated by the fact that goblins consider passing goblin-made possessions onto others without further payment to the maker, as Gryffindor would go on to do, as theft.<ref name="Pottermore"/> In fact, this myth was so prevalent in the [[goblin]] community, that it was the cause for one of the bloody [[Goblin Rebellions]] in the [[17th century|17th]] and [[18th century|18th centuries]], around six-hundred years after the Sword was fashioned.<ref>This piece of information comes from the third [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] featured in {{JKRS}}. Question 2 (''Part One - Magical History'') is "Which of the following did NOT provoke one of the bloody goblin rebellions of the 17th and 18th centuries? Choose ONE", and one of the possible answers is "''The allegation by goblin king Ragnuk the First that Godric Gryffindor had stolen his sword''". As one of the other answers is known for certain to be false ("''The imprisonment of the notoriously violent Hodrod the Horny-Handed, who had attempted to kill three wizards ''" — the ''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' reveal that [[Hodrod the Horny-Handed]] was indeed imprisoned for attempting to kill three wizards, but this happened in [[1999]], during the [[Chipping Clodbury riot]]), then all of the other answers must be true, including the one about Ragnuk's theft accusation.</ref>
+
+==Appearances==
+*{{DH}} {{Mention}}
+*{{JKRS}} {{1st Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Ragnuk]]
+[[fr:Ragnuk]]
+[[pl:Ragnuk Pierwszy]]
+[[ru:Рагнук Первый]]
+[[Category:Goblins]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Royalty]]

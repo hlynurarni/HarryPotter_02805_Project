@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Agnes's son
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality =  
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Agnes]] (mother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Here you are, Agnes. See, not forgotten, are you? And your son's sent an owl saying he's visiting tonight, so that's nice, isn't it?|Healer [[Miriam Strout]]|Harry Potter and the Order of the Phoenix}}
+
+An '''unknown individual''' was the son of [[Agnes]], a patient in the long-term [[Janus Thickey Ward]] at [[St Mungo's Hospital for Magical Maladies and Injuries]]. He intended to visit her over [[Christmas]] in [[1995]]. When the [[Healer]] told Agnes of the owl he had sent informing them that he would be coming, her only reply was to give several loud barks.<ref>{{OOTP|B|23}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Fils d'Agnès]]
+[[pl:Syn Agnes]]
+[[Category:Males]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = house-elf
+|image = 
+|name = Kreacher's mother
+|born = 
+|died = Between [[1850]] and [[1985]]<ref>Kreacher's mother was killed and her head mounted on the wall in accordance with the family tradition. This would have had to have occured sometime prior to Walburga Black's death in 1985, after which the house was abandoned for ten years. She would have also have to have died after Elladora Black was born, in 1850.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[House-elf]]<ref name="OOTP4"/>
+|gender = Female<ref name="OOTP4"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[House of Black house-elves|Ancestors]] (likely) †
+*[[Kreacher]] (son)<ref name="OOTP4"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Servant of the [[House of Black|Black family]]<ref name="OOTP4"/>
+|house = 
+|loyalty = [[House of Black]]<ref name="OOTP4"/>
+}}
+{{Quote|His life's ambition is to have his head cut off and stuck up on a plaque just like his mother. Is that normal, Hermione?|[[Ronald Weasley|Ron]] describes Kreacher's ultimate ambition to [[Hermione Granger|Hermione]]|Harry Potter and the Order of the Phoenix}}
+
+The '''mother''' of Kreacher served as the [[house-elf]] of the [[House of Black|Black family]] sometime before her son. When she became too old to carry a tea tray, she was beheaded, and her head was mounted on a plaque and hung on the wall above the front hall stairs at [[12 Grimmauld Place]] just like all of the other house-elves that used to serve the Blacks. It was once Kreacher's sincere wish to suffer the same fate as his mother.<ref name="OOTP4">{{OOTP|B|4}}</ref>
+
+Many house-elves met their demise through the gruesome tradition which [[Elladora Black]] began. All of their heads were described as having a snout-like nose like Kreacher. This implies that Kreacher's family served the Blacks for several generations.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Mère de Kreattur]]
+[[Category:British individuals]]
+[[Category:Deaths by decapitation]]
+[[Category:Females]]
+[[Category:House of Black]]
+[[Category:House-elves]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

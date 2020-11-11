@@ -1,0 +1,66 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Apollyon Pringle
+|born = pre [[1944]]<ref name="Birth">As Apollyon was employed at Hogwarts around [[1961]], he must have been of age (17) by then.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF31"/>
+|gender = Male<ref name="GOF31"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Pringle]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Hogwarts Caretaker|Caretaker]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (c. [[1961]] - c. [[1968]])<ref name="GOF31"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF31"/>
+}}
+{{Quote|He got caught by Apollyon Pringle - he was the caretaker in those days - [[Arthur Weasley|your father]]'s still got the marks.|[[Molly Weasley]] on Pringle's punishments|Harry Potter and the Goblet of Fire}}
+'''Apollyon Pringle''' was the [[Hogwarts Caretaker|caretaker]] at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1960s]]. He was the [[Hogwarts Caretaker|caretaker]] of Hogwarts while [[Arthur Weasley|Arthur]] and [[Molly Weasley]] were attending, which Molly related to [[Harry Potter]] and [[William Weasley|Bill Weasley]] in [[1995]] before the third task of the [[Triwizard Tournament]].<ref name="GOF31"/>
+
+Apparently Hogwarts allowed him to use corporal punishment on students, as Mrs Weasley told Harry that he caned Arthur for being out late, with her even saying that he still had the marks.<ref name="GOF31">{{GOF|B|31}}</ref>
+
+==Etymology==
+"Apollyon" is the Greek name for [[Wikipedia:Abaddon|Abbadon]], the spiritual being named as "The Destroyer" in Christian apocalyptic theology.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pringle, Apollyon}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Rancorous Carpe]]
+|position=[[Hogwarts Caretaker|Caretaker]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1961]] or earlier - [[1968]] or later
+|successor=Unknown, eventually [[Argus Filch]]
+}}
+{{End box}}
+{{Staff}}
+{{DEFAULTSORT:Pringle, Apollyon}}
+[[de:Apollyon Pringle]]
+[[es:Apollyon Pringle]]
+[[fr:Apollon Picott]]
+[[ru:Аполлион Прингл]]
+[[pl:Apollion Pringle]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Caretakers]]
+[[Category:Males]]
+[[Category:Wizards]]

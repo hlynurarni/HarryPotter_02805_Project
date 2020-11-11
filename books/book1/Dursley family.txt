@@ -1,0 +1,126 @@
+{{Family infobox
+|image=Dursley Family.jpg
+|name=Dursley family
+|blood=[[Non-magic people|Muggle]]<ref name="PS4"/>
+|family members=*[[Vernon Dursley]]<ref name="PS1"/>
+*[[Marjorie Dursley]]<ref name="POA2">{{POA|B|2}}</ref>
+*[[Petunia Dursley]] (née [[Evans family|Evans]]) †<ref name="PS1"/>
+*[[Dudley Dursley]]<ref name="PS1"/>
+*[[Dudley Dursley's wife|Mrs Dursley]]
+|status=Extant
+|related=*[[Evans family]]
+*[[Potter family]]<ref name="PM"/>
+*[[Dudley Dursley's wife]] family 
+|loyalty=[[Muggle world]]<ref name="PS1"/>
+}}
+{{Quote|Mr and Mrs Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much. They were the last people you'd expect to be involved in anything strange or mysterious, because they just didn't hold with such nonsense.|Description of the Dursleys|Harry Potter and the Philosopher's Stone}}
+
+'''Dursley''' was the surname of a [[Non-magic people|Muggle]] family, the only known living close relatives of [[Harry Potter]]. [[Petunia Dursley]] {{Comment|née [[Evans family|Evans]]}} was the older sister of Harry's mother, [[Lily J. Potter|Lily Potter]] {{Comment|née Evans}}, but took the surname Dursley when she married [[Vernon Dursley]]. They had a son named [[Dudley Dursley|Dudley]].<ref name="PS1">{{PS|B|1}}</ref>
+
+==Background==
+{{Quote|They're the worst kind of Muggles, oh really Albus, must we?|Minerva McGonagall discussing Harry's relatives|Harry Potter and the Philosopher's Stone}}[[Harry Potter]]'s Muggle aunt and uncle met at work. [[Petunia Dursley|Petunia Evans]], forever embittered by the fact that her parents seemed to value her magical sister more than they valued her, left [[Cokeworth]] forever to pursue a typing course in London. This led to an office job, where she met the extremely unmagical, opinionated, and materialistic [[Vernon Dursley]].<ref name="PM">{{WW|vernon-and-petunia-dursley}}</ref>
+
+[[File:Dursley Wedding Photo.png|212px|thumb|left|Vernon's and Petunia's wedding photo]]
+
+Large and neckless, this junior executive seemed a model of manliness to young Petunia. He not only returned her romantic interest, but was deliciously normal. He had a perfectly correct car, and wanted to do completely ordinary things, and by the time he had taken her on a series of dull dates, during which he talked mainly about himself and his predictable ideas on the world. During one particular date when they were sitting in his car in front of a chip shop she tearfully confessed about her strange sister. As she had expected, Vernon was quite shocked, though he comforted her and told her it was not her fault for having a "freak" for a sister and that he would not hold it against her. He finally proposed to her in his mother's (very ordinary) living room, it was all very emotional.<ref name="PM"/>
+
+Due to Petunia's maternal connection to Harry Potter, he was sent to live with the Dursleys after his parents were murdered by [[Tom Riddle|Lord Voldemort]].<ref name="PS1"/> The belief was that Lily's maternal sacrifice for Harry would be transmitted through Petunia, even though she held Harry in contempt.<ref name="OOTP37">{{OOTP|B|37}}</ref> Due to his wizarding background, Harry was treated with fear and negligence by the Dursleys; originally being kept oblivious to his wizarding heritage, and being told that his parents had died in a car accident.<ref name="PS2">{{PS|B|2}}</ref><ref name="PS4">{{PS|B|4}}</ref>
+
+[[File:Littlewhinging.jpg|250px|thumb|4 Privet Drive]]
+
+The Dursleys lived at [[4 Privet Drive]] in [[Little Whinging]], Surrey,<ref name="PS1"/> and often went out of their way to keep their neighbours oblivious to anything odd about their family, usually explaining away anything odd by telling people that Harry was a delinquent who went to a [[St Brutus's Secure Centre for Incurably Criminal Boys|detention school]] far away.<ref name="POA2"/><ref name="OOTP1">{{OOTP|B|1}}</ref> Harry did occasionally update them about Voldemort and the Death Eaters.<ref name="OOTP2">{{OOTP|B|2}}</ref> Because of their family connection to Harry and the danger of Voldemort using them to get to Harry, they were forced to go in hiding for their own safety for a period of time during the height of the [[Second Wizarding War]].<ref name="DH3">{{DH|B|3}}</ref>
+
+Despite his mistreatment of Harry, Harry's cousin [[Dudley Dursley]] eventually came to regret his cruelty towards Harry, and the two reconciled later in life; this was mostly due to an incident in the summer before Harry's fifth year of schooling that involved him [[Attack in Little Whinging|saving]] Dudley from a [[Dementor]].<ref name="DH3" />
+
+==Known family members==
+{{Quote|When he had been younger, Harry had dreamed and dreamed of some unknown relation coming to take him away, but it had never happened; The Dursleys were his only family.|Harry Potter regarding his feelings towards the Dursleys|Harry Potter and the Philosopher's Stone}}
+{| class="wikitable" border="1" width="100%"
+|-
+! scope="col" |Person
+! scope="col" |Notes
+|-
+|[[Dudley Dursley]]
+|Only child of Vernon and Petunia.<ref name="PS1"/>
+|-
+|[[Dudley Dursley's children|Dursley children]]
+|Children of Dudley and his wife.
+|-
+| colspan="1" rowspan="2" |[[Dursley siblings' mother|Mrs Dursley]]
+|Mother of Vernon and Marjorie.<ref name="PM"/>
+|-
+|Wife of Dudley and mother of [[Dudley Dursley's children|at least two children]].
+|-
+|[[Marjorie Dursley]]
+|Sister of Vernon; a breeder of [[bulldog]]s.<ref name="POA2"/>
+|-
+|[[Petunia Dursley]] {{Comment|née Evans}}
+|Wife of Vernon and mother of Dudley; a housewife.<ref name="PS1"/>
+|-
+|[[Vernon Dursley]]
+|Husband of Petunia and father of Dudley; director of a drill making company called [[Grunnings]].<ref name="PS1"/>
+|}
+
+==Family tree==
+{{EvansFamilyTree}}
+
+==Etymology==
+{{w|Dursley}} is a town in Gloucestershire, England. [[J. K. Rowling]] has never visited Dursley, but she grew up not too far away from the town and used the name as she found it interesting.
+
+[[Petunia Dursley|Petunia]]'s name is the meaning of flower and the origin of the name is English.
+
+==Behind the scenes==
+*In the film series, the Dursley family is portrayed by [[Richard Griffiths]] who plays [[Vernon Dursley]]. [[Fiona Shaw]] plays [[Petunia Dursley|Petunia Dursley (née Evans)]]. [[Harry Melling]] plays [[Dudley Dursley]] and [[Pam Ferris]] plays [[Marjorie Dursley]]. In the second [[Harry Potter and the Deathly Hallows: Part 2|film adaptation]] of {{DH}} [[Ariella Paradise]] plays Petunia Evans as a teenager.
+*The Dursleys neither appear in {{GOF|FA}} nor in {{HBP|FA}}. With the exception of {{DH|F2}}, they appeared in five of the film adaptations overall except [[Marjorie Dursley]], who only appears in {{POA|FA}}.
+*[[J. K. Rowling]] has said she almost wrote in the epilogue of the book of {{DH}} that [[Dudley Dursley]] appeared at the [[Platform Nine and Three-Quarters]] with a magical child, but she changed her mind, stating that "any latent wizarding genes would never have survived contact with [[Vernon Dursley|Uncle Vernon]]'s DNA."<ref>[http://web.archive.org/web/20101226110201/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=26 J.K.Rowling Official Site: Extra Stuff]</ref>
+*Most of the [[Wizarding world]] are usually very surprised at the complete lack of family love and respect the Dursleys show to Harry Potter.
+*In some of the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptations]] of {{PS}}, the Dursleys are incorrectly referred to as Harry's stepfamily.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}} {{Mention}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}} {{Mention}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}} {{Mention}}
+*{{GOF}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}}
+*{{DH}}
+*{{DH|F1}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{PM}}
+*{{WW}}
+*{{TCG}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[ca:Família Dursley]]
+[[da:Dursley family]]
+[[de:Familie Dursley]]
+[[de2:Familie Dursley]]
+[[es:Familia Dursley]]
+[[fr:Famille Dursley]]
+[[he:משפחת דרסלי]]
+[[ja:ダーズリー家]]
+[[nl:De Duffelingen]]
+[[no:Familien Dumling]]
+[[pl:Rodzina Dursleyów]]
+[[ru:Дурсли]]
+[[sr:Породица Дарсли]]
+[[sv:Familjen Dursley]]
+[[uk:Дурслі]]
+[[zh:德思礼家庭]]
+[[Category:Dursley family]]

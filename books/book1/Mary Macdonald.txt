@@ -1,0 +1,69 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mary Macdonald
+|born = [[1 September]], [[1958]]<ref>To start for the [[1969]] school year and to still be at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] still in the [[1975]]-[[1976]] school year (her final) to be attacked by Mulciber, Mary must be no older than 17, unless she was in a repeat year.</ref> - [[31 August]], [[1965]] (most likely)<ref>Mary is at Hogwarts in the later half of the [[1975]]-[[1976]] year, meaning that she is no younger than 11.</ref>
+|died = 
+|blood = [[Muggle-born]] (possibly)<ref>Mary may have been a [[Muggle-born]] witch as she was targeted by a known future [[Death Eaters|Death Eater]], an organisation known to violently hate Muggle-borns, [[Non-magic people|Muggles]], [[blood traitor]]s etc.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH33">{{DH|B|33}}</ref>
+|gender = Female<ref name="DH33">{{DH|B|33}}</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Magnus MacDonald|Magnus Macdonald]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH33">{{DH|B|33}}</ref>
+*[[Macdonald family]]
+}}
+{{Quote|Mulciber! What do you see in him, Sev? He's creepy! D'you know what he tried to do to Mary Macdonald the other day?|Lily to Severus|Harry Potter and the Deathly Hallows}}
+
+'''Mary Macdonald''' was a [[Great Britain|British]] [[Wizardkind|witch]] of unknown [[Blood status|parentage]].<ref name="DH33"/>
+
+==Biography==
+She attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1970s]] with [[Lily J. Potter|Lily Evans]] and [[Severus Snape]].<ref name="DH33"/>
+
+Sometime during her time at school, she was viciously assaulted by [[Mulciber (Marauder-era)|Mulciber]], a [[pure-blood]] [[Slytherin]] and a future [[Death Eaters|Death Eater]], with [[Dark Arts|Dark Magic]].<ref name="DH33"/> [[Lily J. Potter|Lily Evans]] heard about this incident and thought it proved that Mulciber was "creepy" with an "evil" sense of humour'', ''but Lily's friend [[Severus Snape]] callously described the incident as "a laugh."<ref name="DH33"/>
+
+Mary later told Lily that Snape was planning to spend the night outside the [[Fat Lady|entrance]] to [[Gryffindor Tower]] to apologise to her after he called her a "[[Mudblood]]."<ref name="DH33"/>
+
+==Etymology==
+The name "Mary" is the usual English form of Maria, which was the Latin form of the New Testament Greek names Μαριαμ (Mariam) and Μαρια (Maria) - the spellings are interchangeable - which were from the Hebrew name מִרְיָם (Miryam). The meaning is not known for certain, but there are several theories including "sea of bitterness," "rebelliousness," and "wished for child." However it was most likely originally an Egyptian name, perhaps derived in part from mry ("beloved") or mr ("love").
+
+==Behind the scenes==
+*It is unknown what [[Mulciber II|Mulciber]] tried to do to Mary or why she was chosen as his target. She might have been a [[muggle-born]] or a [[blood traitor]], or else she might have been a random target. [[Igor Karkaroff]] claimed during his trial that Mulciber specialised in the [[Imperius Curse]],<ref>{{GOF|B|30}}</ref> which could suggest Mary was the victim of something along those lines, but Karkaroff might have meant [[Mulciber I|Mulciber's father]] and not the Marauders' contemporary.
+*While it is not directly stated in {{DH}}, Mary must have been a Gryffindor. She was able to tell Lily Evans that Severus Snape was waiting outside Gryffindor Tower, which means Mary was ''inside ''the tower at the time; few students have managed to access another house's common room, and those who do keep it secret.
+*Fans have speculated that there may be a connection between Mary Macdonald and [[Mary Cattermole]], a muggle-born witch who is known only by her married name, after both were introduced in ''Deathly Hallows''. If they are the same person, Mary Macdonald would be a muggle-born and an obvious target for a future Death Eater; however, there is no evidence besides their shared first name and the chance that they share a [[blood status]].
+
+==Appearances==
+*{{DH}} {{1st}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Macdonald, Mary}}
+[[de:Mary Macdonald]]
+[[es:Mary Macdonald]]
+[[fr:Mary Macdonald]]
+[[zh:玛丽·麦克唐纳]]
+[[pl:Mary Macdonald]]
+[[pt-br:Maria Macdonald]]
+[[ru:Мэри МакДональд]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hogwarts students during the Marauders' era]]
+[[Category:Macdonald family|Mary]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

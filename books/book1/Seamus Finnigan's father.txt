@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Finnigan
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PS7"/>
+|marital = 
+|nationality = [[Ireland|Irish]]<ref name="PS7"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS7"/>
+|gender = Male<ref name="PS7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Seamus Finnigan's mother|Mrs Finnigan]] (wife)<ref name="PS7"/>
+*[[Seamus Finnigan]] (son)<ref name="PS7"/>
+*[[Fergus]] (nephew)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Finnigan family]]<ref name="PS7"/>
+}}
+{{Quote|I'm half-and-half. Me dad's a Muggle. Mam didn't tell him she was a witch 'til after they were married. Bit of a nasty shock for him.|Seamus on his parents|Harry Potter and the Philosopher's Stone}}
+'''Mr Finnigan''' was an [[Ireland|Irish]] [[Non-magic people|Muggle]] and the father of [[Seamus Finnigan]]. He did not know that his [[Seamus Finnigan's mother|wife]] was a [[Wizardkind|witch]] until after he married her. It came as a "nasty shock" to him.<ref name="PS7">{{PS|B|7}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{PS|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Finnigan, Seamus's father}}
+[[de:Mr Finnigan]]
+[[fr:Père de Seamus Finnigan]]
+[[pl:Pan Finnigan]]
+[[Category:Finnigan family]]
+[[Category:Irish individuals|Finnegan, Mr]]
+[[Category:Males|Finnigan, Mr]]
+[[Category:Married individuals]]
+[[Category:Muggles|Finnigan, Mr]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,73 @@
+{{HogwartsMysterySpoiler}}
+{{Creature infobox
+|image = [[File:Yeti - FB-C.png|250px]]
+|name = Yeti
+|skin = Grey
+|eyes = 
+|hair = White
+|feathers = 
+|related = [[Troll]] (possibly)
+|native = [[Tibet]]
+|alias = *Yetti (misspelling)
+*Bigfoot
+*The Abominable Snowman
+|height = 15 feet
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = *[[Human]]-like traits
+*Carnivorous
+*Fears [[fire]]
+|affiliation = 
+|class = [[Beast]] <br/> [[XXXX]]<ref name="FBR">{{FB|R}}</ref>
+|status = Extant
+}}
+{{Quote|4 Yetti [''sic''] footprints: True sighting or another prank?|[[The Quibbler]]|Harry Potter and the Deathly Hallows: Part 2}}
+The '''Yeti''' (also known as the '''Abominable Snowman''' or '''Bigfoot''') is a [[magic]]al [[beast]] native to [[Tibet]].<ref name="FBR">{{FB|R}}</ref>
+
+==Description==
+Standing up to 15 feet tall, it is a snowy-white furred [[human]]oid that may be related to the [[troll]]. Yetis are one of the [[Wizarding world]]'s worst kept secrets as there had been so many [[Non-magic people|Muggle]] sightings of the Yeti. Because of this [[Tibet]] has one of the worst Wizarding secrecy records, due to its continuing breaches of Clause 73 of the [[International Statute of Wizarding Secrecy]]. The [[International Confederation of Wizards]] had to place a permanent [[International Task Force]] up in the mountains to help control the situation.<ref name="FBR">{{FB|R}}</ref>
+
+The Yeti's alternate name of Bigfoot can also be used to refer to the [[sasquatch]].<ref name="FBR">{{FB|R}}</ref>
+
+The Yeti fears [[fire]], allowing for skilled [[Wizardkind|wizards and witches]] to [[Fire-Making Spell|repel]] it. However, the Yeti will attack and eat anything that it meets, so no [[Wizardkind|witch or wizard]] has had the opportunity to study it up close yet.<ref name="FBR">{{FB|R}}</ref>
+
+==History==
+[[File:YetiHM.png|thumb|The Yeti on Hogwarts grounds in the [[1980s]]]]
+One time around [[Christmas]], a Yeti was spotted near the grounds at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1986–1987 school year]].<ref>{{HM|1|The Christmas Holidays}}</ref>
+
+In [[1992]], [[Gilderoy Lockhart]] taught his [[second year]] [[Defence Against the Dark Arts]] class about the Yeti, using his book ''[[Year with the Yeti]]''.<ref name="COS10">{{COS|B|10}}</ref> However, based on his fraudulence, his information is taken from a more accomplished wizard or witch and his own version was twisted with inaccuracy and arrogance.<ref name="COS16">{{COS|B|16}}</ref>
+
+In [[1998]]. [[The Quibbler]] questioned whether four Yeti footprints were sighted or if it was another prank. [[Xenophilius Lovegood]] misspelled Yeti as Yetti.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Behind the scenes==
+*The Yeti is a mythological [[creature]] purported to live in the portions of the [[Himalayas]] encompassing [[Nepal]] and [[Tibet]], generally considered in modern times to be a misidentification of various types of [[bear]] native to the region; or, alternatively, as a fictionalised form of the extinct ape ''Gigantopithecus'', known to have inhabited the vicinity. 
+*The name "Abominable Snowman" derives from an account of a sighting of the creature in [[1921]] by a Lieutenant-Colonel Charles Howard-Bury. [[Sasquatch|Bigfoot]], on the other hand, describes a similar creature supposedly found in the Pacific Northwest of the United States, believed to have derived from a combination of local folklore and various hoaxes.
+
+==Appearances==
+{{Imagecat|Images of Yetis}}
+*{{PS|G}} {{Mention}} {{Comment|GBA version}}
+*{{COS}} {{1st Mention}}
+*{{COS|F}} {{Mention}}
+*{{DH|F2}} {{Comment|Mentioned in ''[[The Quibbler]]''}}
+*{{FB|R}} {{1st}}
+*{{FBC}}
+*{{PM}} {{Mention}}
+*{{HM}}
+
+==Notes and references==
+{{Reflist}}
+{{Creatures by classification}}
+{{Defence Against the Dark Arts}}
+[[de:Yeti]]
+[[es:Yeti]]
+[[fr:Yéti]]
+[[pl:Yeti]]
+[[ru:Йети]]
+[[pt-br:Iéti]]
+[[no:Yeti]]
+[[Category:Beasts]]
+[[Category:Creatures from Tibet]]
+[[Category:Defence Against the Dark Arts]]
+[[Category:Muggle-known creatures]]
+[[Category:XXXX Creatures]]

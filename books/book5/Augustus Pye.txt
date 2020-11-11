@@ -1,0 +1,57 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = st-mungo-employee
+|image = 
+|name = Augustus Pye
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Trainee [[Healer]]
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]]
+}}
+'''Augustus Pye''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and trainee [[Healer]] at [[St Mungo's Hospital for Magical Maladies and Injuries]] in the Dai Llewellyn Ward.<ref name="OOTP22">{{OOTP|B|22}}</ref> He was interested in [[Non-magic people|Muggle]] healing techniques, and used [[stitches]] on [[Arthur Weasley]] when he was admitted to the hospital after he was [[Attack on Arthur Weasley|attacked]] by [[Nagini]]. Presumably, [[Nagini's venom]] made Arthur's wounds impossible to heal in this manner.<ref name="OOTP23">{{OOTP|B|23}}</ref>
+
+During the [[Calamity]], Pye taught trainee [[Magizoologist]]s how to master the [[Stamina Charm]], to help them restore stamina to themselves in combat.<ref name="WU">{{WU}}</ref>
+
+==Etymology==
+The name "Augustus" means "great" or "venerable", derived from Latin augere "to increase". Augustus was the title given to Octavian, the first Roman emperor. He was the adopted son of Julius Caesar who rose to power through a combination of military skill and political prowess. This was also the name of three kings of Poland.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|G}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pye, Augustus}}
+
+{{St Mungo's}}
+[[de:Augustus Pye]]
+[[es:Augustus Pye]]
+[[fr:Augustus Pye]]
+[[pl:Augustus Pye]]
+[[ru:Август Сепсис]]
+[[Category:British individuals]]
+[[Category:Healers]]
+[[Category:Males]]
+[[Category:St Mungo's employees]]
+[[Category:Wizards]]

@@ -1,0 +1,62 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Mrs.Mason.jpg|250px]]
+|name = Mrs Mason
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="COS2"/>
+|marital = Married<ref name="COS2"/>
+|nationality = [[Great Britain|British]]<ref name="COS2"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COS2"/>
+|gender = Female<ref name="COS2"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Mason|Mr Mason]] (husband)<ref name="COS2"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Mason family]]<ref name="COS2"/>
+}}
+{{Quote|Do tell me where you bought your dress, Mrs Mason...|[[Petunia Dursley]] practising compliments for Mrs Mason|Harry Potter and the Chamber of Secrets}}
+'''Mrs Mason''' was the {{w|Ornithophobia|ornithophobic}} wife of [[Mason|Mr Mason]],<ref name="COS2"/> a builder from whom [[Vernon Dursley]] was hoping to get a big drill order.<ref name="COS1">{{COS|B|1}}</ref>
+
+==Biography==
+On [[31 July]], [[1992]], the couple were dinner guests at the [[4 Privet Drive|Dursley home]]. Their evening was nearly ruined when the dessert [[Petunia Dursley]] had made crashed to the floor (an incident blamed on [[Harry Potter]] though it was [[Dobby]]'s fault), which they were extremely shocked at. The evening could have been rescued were it not for the barn [[owl]], that flew through the open window to deliver a letter of warning of a breach of the [[Decree for the Reasonable Restriction of Underage Sorcery]] for Harry. The owl dropped the letter on Mrs Mason's head, and due to her extreme fear of [[bird]]s, she “screamed like a [[banshee]]” and ran from the house shouting something about lunatics, followed quickly by her husband.<ref name="COS2">{{COS|B|2}}</ref>
+
+==Behind the scenes==
+[[File:Mrs Mason.jpg|thumb|Mrs Mason after Dobby dropped the pudding on her head]]
+*Mrs Mason was portrayed by [[Veronica Clifford]] in {{COS|FA}}.
+*In {{COS|FA}}, the dessert, levitated by [[Dobby]], crashed down on Mrs Mason's head, ruining the dinner party and causing [[Vernon Dursley]] to lock Harry in his bedroom.
+*In {{LEGO|Y1}}, [[Dudley Dursley|Dudley]] eats the [[pudding]] off Mrs Mason's head.
+*In a deleted scene, when [[Petunia Dursley]] says to Mrs Mason that she had a nice dress, and she responds that all her dresses were tailor-made. This was her only line in the film, but was cut from the theatre version.
+
+==Appearances==
+[[File:Mrs._Mason_LEGO.jpg|114px|thumb|right|Mrs Mason as seen in {{LEGO|Y1}}]]
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{LEGO|Y1}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}[[fr:Mrs Mason]]
+[[it:Signora Mason]]
+[[nl:Mevrouw Bouwmeester]]
+[[pl:Pani Mason]]
+[[ru:Миссис Мейсон]]
+[[Category:British individuals|Mason, Mrs]]
+[[Category:Females|Mason, Mrs]]
+[[Category:Married individuals|Mason, Mrs]]
+[[Category:Mason family]]
+[[Category:Muggles|Mason, Mrs]]
+[[Category:Unnamed family members]]

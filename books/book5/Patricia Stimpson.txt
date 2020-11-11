@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Patricia Stimpson
+|born = c. [[1977]]-[[1978]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP12"/>
+|gender = Female<ref name="OOTP12"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP12"/>
+}}
+'''Patricia Stimpson''' (born c. [[1977]]-[[1978]]) was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1989]]. [[George Weasley]] stated that she repeatedly fainted out of stress in the weeks preceding her [[Ordinary Wizarding Level|O.W.L.s]].<ref name="OOTP12">{{OOTP|B|12}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Stimpson, Patricia}}
+[[de:Patricia Stimpson]]
+[[nl:Patricia Samsons]]
+[[fr:Patricia Stimpson]]
+[[pl:Patrycja Stimpson]]
+[[ru:Патриция Стимпсон]]
+[[zh:帕翠霞·斯廷森]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Sorted in 1989]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

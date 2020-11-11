@@ -1,0 +1,51 @@
+{{Creature infobox
+|image = Dwarf.jpg
+|name = Dwarf
+|skin = Pale
+|eyes = 
+|hair = Dark
+|feathers = 
+|related = *[[Human]] (most likely)
+*[[Curupira]]<ref name="PM">{{PM}}</ref>
+*[[Red Cap]] (possibly)
+|native = 
+|alias = 
+|height = 
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = Short and stocky<ref name="COS13"/>
+|affiliation = [[Gilderoy Lockhart]]<ref name="COS13"/>
+|class = 
+|status = Extant
+}}
+{{Quote|I've got a musical message to deliver to 'Arry Potter in person.|A Dwarf attempts to give [[Ginevra Weasley's Valentine to Harry Potter|a Valentine's letter]] to [[Harry Potter]]|Harry Potter and the Chamber of Secrets}}
+A '''Dwarf''' is a short, stocky [[human]]oid [[magic]]al [[creature]]; little is known about them, though they are known to be extremely strong for their size, as one had held [[Harry Potter]] by his ankles to give him a letter.<ref name="COS13"/>
+
+==History==
+On [[Valentine's Day]] in [[1993]], [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[professor]] [[Gilderoy Lockhart]], had a whole squad of Dwarfs dressed up as cupids deliver singing valentines around the school, [[Ginevra Weasley's Valentine to Harry Potter|one of which]] was delivered to [[Harry Potter]] from [[Ginevra Weasley]].<ref name="COS13">{{COS|B|13}}</ref> Later that year, Harry also spotted a few raucous Dwarfs in the [[Leaky Cauldron]] in [[Diagon Alley]].<ref name="POA4">{{POA|B|4}}</ref>
+
+==Behind the scenes==
+[[File:Gargoyle statue of Dwarves.jpg|170px|thumb|right|[[Gargoyle]] statue of Dwarves]]
+*In the folklore of [[Germany]] and [[Scandinavia]], Dwarfs are a race of small supernatural beings who are known to be good with the [[axe]] and usually use axes to guard magnificent treasures buried deep inside the Earth for who ever is ruling over them, usually a queen. They usually look like small men with large heads, wizened faces, wearing animal (usually a sort of [[goat]]) masks, long grey beards, weapons as big as themselves, and misshapen legs and feet.<ref>{{Wikilink|Dwarf (mythology)}}</ref>
+*The [[Denmark|Danish]] word "Dværg" can be translated into "midget" and "dwarf." In the Danish version of the [[Harry Potter and the Order of the Phoenix (video game)|fifth game]], "Dværg" is used when [[Ronald Weasley]] refers to [[first year]]s as "midgets" in the original version; hence, "Dwarf" can be seen as being used as an insult.
+* [[J.K. Rowling]] uses the proper plural spelling of "dwarfs" in her [[Harry Potter (book series)|Harry Potter book series]], but she spelled it wrong in [[DISASTROUS OPENING CEREMONY LEADS TO QUESTIONS ABOUT QUIDDITCH WORLD CUP SECURITY|one article]] by using J.R.R Tolkien's misspelt version of "dwarves" for one of the races in The Hobbit and the Lord of the Rings. 
+
+==Appearances==
+{{Imagecat|Images of Dwarfs}}
+*{{PS}} {{1st Mention}}
+*{{COS}} {{1st}}
+*{{COS|G}}
+*{{POA}}
+*{{OOTP|G}} {{C|Mentioned as an insulting term}} {{c|Danish version only}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Zwerg]]
+[[de2:Zwerg]]
+[[fr:Nain]]
+[[pl:Krasnolud]]
+[[ru:Гном (Дварф)]]
+[[Category:Dwarfs]]
+[[Category:Muggle-known creatures]]

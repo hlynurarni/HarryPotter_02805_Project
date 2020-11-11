@@ -1,0 +1,85 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Dexter Fortescue
+|born = 
+|died = After [[1707]],<ref name="Ministry">In ''Order of the Phoenix'', Fortescue makes reference to "''The Ministry ''[not cutting]'' deals with petty criminals in ''[his]'' day''", implying that he lived after the Ministry's inception in 1707.</ref> and before [[1995]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Fortescue must have died sometime in or before [[1995]], given his portrait's appearance in the [[Headmaster's office]] in  {{OOTP}}.</ref>
+|blood = 
+|marital = Possibly married (known to have at least one child)
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]<ref name="OP27">{{OOTP|B|27}}</ref>
+*[[Headmaster]]<ref name="OP27"/>
+|signature = 
+|species = [[Human]]<ref name="OP27"/>
+|gender = Male<ref name="OP27"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Florean Fortescue]] (descendant)<ref name="PM">{{WW|florean-fortescue}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] (formerly)<ref name="OP27"/>
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OP27"/>
+*[[Fortescue family]]
+}}
+'''Professor Dexter Fortescue''' was a [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]. Not much is known about his time at Hogwarts.<ref name="OP27" />
+
+==Biography==
+===As Headmaster of Hogwarts===
+Dexter Fortescue was made [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] in an unknown time period, certainly sometime after the early [[18th century]].<ref name="Ministry"/> After his death, his portrait was hung at the [[Headmaster's office]], in order to offer advice to the current Head.<ref name="OP27" />
+
+===Post-mortem===
+In his lifetime, Professor Fortescue had at least one child. His surname lived on to the [[1990s]], in the person of [[Florean Fortescue]], his direct descendant, who ran [[Florean Fortescue's Ice Cream Parlour]] in [[Diagon Alley]].<ref name="PM" />
+
+====1995====
+{{Quote|Insubordination, sir! Dereliction of duty!|Fortescue to [[Phineas Nigellus Black|Phineas Nigellus]]|Harry Potter and the Order of the Phoenix}}Shortly after [[Arthur Weasley]] was attacked by [[Nagini]] at the [[Department of Mysteries]], in [[1995]], Professor [[Albus Dumbledore]] attempted to wake up the portrait of [[Phineas Nigellus Black]], to tell [[Sirius Black]] that [[Harry Potter]] and the [[Weasley family|Weasley]] children were going to [[12 Grimmauld Place]]. As Phineas expressed unwillingness to help, the portrait of Dexter Fortescue was particularly vocal, as was [[Armando Dippet]] and a portrait of an [[Gimlet-eyed Hogwarts Headmistress|unidentified female Head]].<ref name="OP22">{{OOTP|B|22}}</ref>
+
+{{Quote|Blatant corruption! The Ministry did not cut deals with petty criminals in my day, no sir, they did not!|Fortescue to [[Cornelius Fudge]] and [[Dolores Umbridge]]|Harry Potter and the Order of the Phoenix}}
+
+In [[1995]], he roared his disapproval at [[Cornelius Fudge]] and [[Dolores Umbridge]] when the latter explained to the former how she had learned of the first meeting of [[Dumbledore's Army]] in the [[Hog's Head]]. She explained that [[Willy Widdershins]] had been there and had reported back. [[Minerva McGonagall]], also present, commented that she had wondered how Willy had gotten off so lightly after all those [[Regurgitating Toilet|regurgitating toilets]], and Fortescue erupted, saying that they did not cut deals with petty criminals in his day.<ref name="OP27" />
+
+====1998====
+When [[Harry Potter]] went to the [[Headmaster's office]], shortly after [[Tom Riddle|Lord Voldemort]]'s [[Voldemort's Last Stand|defeat]] and the end of the [[Second Wizarding War]], Fortescue joined the ovation made by the previous [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Headmaster portraits|Headmaster]], waving him his ear trumpet.<ref name="DH36">{{DH|B|36}}</ref>
+
+==Personality and traits==
+Fortescue believed in honour and duty, reprimanding Phineas Nigellus for "dereliction of duty" and bellowing at Cornelius Fudge, Dolores Umbridge, [[John Dawlish]], and [[Kingsley Shacklebolt]] for cutting deals with petty criminals.<ref name="OP27" />
+
+In life, he was hard of hearing, necessitating the use of an ear trumpet before his death, a trait passed along to his portrait self who is seen using it to listen to private conversations in the Headmaster's office and speaking loudly when addressing observers or other portraits.
+
+==Behind the scenes==
+*[[J. K. Rowling]] has confirmed on {{PM}} that [[Florean Fortescue]], who ran an [[Florean Fortescue's Ice Cream Parlour|ice cream parlour]] in [[Diagon Alley]], is one of his descendants.<ref name="PM" />
+
+==Etymology==
+The name "Dexter" comes from an occupational surname meaning "one who dyes" in Old English. It also coincides with the Latin word ''dexter'' meaning "right-handed, skilled".
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Portrait}}
+*{{DH}} {{Portrait}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fortescue, Dexter}}
+
+{{Staff}}
+{{Hogwarts towers}}
+
+[[de:Dexter Fortescue]]
+[[fr:Dexter Fortescue]]
+[[ru:Декстер Фортескью]]
+[[pl:Dexter Fortescue]]
+[[pt-br:Dexter Fortescue]]
+[[Category:British or Irish individuals]]
+[[Category:Fortescue family]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

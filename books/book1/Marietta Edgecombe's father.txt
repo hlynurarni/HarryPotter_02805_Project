@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mr Edgecombe
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP18"/>
+|gender = Male<ref name="OOTP18"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Marietta Edgecombe's mother|Madam Edgecombe]] (wife)<ref name="OOTP18"/>
+*[[Marietta Edgecombe]] (daughter)<ref name="OOTP18"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Edgecombe family]]<ref name="OOTP18"/>
+}}
+{{Quote|Her parents have forbidden her to do anything that might upset Umbridge.|[[Cho Chang]] on [[Marietta Edgecombe|Marietta]]|Harry Potter and the Order of the Phoenix}}
+'''Mr Edgecombe''' was the father of [[Marietta Edgecombe]]. In [[1995]], he and his [[Marietta Edgecombe's mother|wife]], a [[British Ministry of Magic|Ministry of Magic]] employee, forbade their daughter to do anything that might make [[Dolores Umbridge]] angry.<ref name="OOTP18">{{OOTP|B|18}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Père de Marietta Edgecombe]]
+[[pl:Pan Edgecombe]]{{DEFAULTSORT:Edgecombe, Marietta father}}
+[[Category:British individuals|Edgecombe]]
+[[Category:Edgecombe family|Father]]
+[[Category:Males|Edgecombe]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

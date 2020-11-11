@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme = wizard
+|image = Hereward.png
+|name = Hereward
+|born = 
+|died = 
+|blood = [[Half-blood]] or [[pure-blood]] (possibly)
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Godelot]] (father)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = *Unknown wand<ref>It is most likely that he owned another wand before the [[Elder Wand]].</ref>
+*[[Elder Wand|Elder, Thestral tail hair core]]
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Hereward''' was a [[Wizardkind|wizard]] who mastered the [[Elder Wand]] after killing his own [[Godelot|father]] to acquire it.<ref>{{DH|B|21}}</ref> He succeeded in doing this by locking him in his own cellar to die, after stealing [[Elder Wand|his wand]].<ref>{{TBB|E}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref>
+
+It's unknown what Hereward did after obtaining the wand. He ultimately lost possession of the Elder Wand at some point, presumably by being defeated in a duel, killed, or disarmed.
+
+==Etymology==
+The name "Hereward" is derived from the Old English elements ''here'' "army" and ''weard'' "guard", from which the magial kind of "ward" (as a protection) is also derived. This was the name of an 11th-century Anglo-Saxon leader who rebelled against Norman rule.
+
+==Appearances==
+*{{DH}} {{Mention}}
+*{{TBB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Godelot]]
+|position=Master of the [[Elder Wand]]
+|years=
+|successor=Unknown, eventually [[Barnabas Deverill]]
+}}
+{{End box}}
+
+{{Deathly Hallows Owners}}
+[[de:Hereward]]
+[[es:Hereward]]
+[[fr:Hereward]]
+[[pt-br:Hereward]]
+[[pl:Hereward]]
+[[ru:Геревард]]
+[[Category:British individuals]]
+[[Category:Elder Wand masters]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

@@ -1,0 +1,314 @@
+{{Spoiler|HL|WU|HM}}
+{{FA}}
+{{Creature infobox
+|image = [[File:DementorConceptArt.jpg|250px]]
+|name = Dementor
+|skin = Scabby grey
+|eyes = None
+|hair = None
+|feathers = 
+|related = [[Lethifold]] {{c|possibly}}
+|native = [[Azkaban]] {{c|formerly}}
+|alias = 
+|height = 3 metres
+|length = 
+|wingspan = 
+|mortality = [[Amortality|Amortal]]<ref name="Pottermore">{{WW|boggart}}</ref>
+|distinction = *Capable of the [[Dementor's Kiss]]
+*[[Gliding|Hover]] above the ground 
+*Negatively alter atmosphere
+|affiliation = *[[British Ministry of Magic]] {{c|formerly}}
+*[[Azkaban]] {{c|formerly}}
+*[[Death Eaters]] 
+**[[Tom Riddle|Lord Voldemort]]
+*[[Dark Arts]]
+*[[Hogwarts School of Witchcraft and Wizardry]] {{c|briefly}}
+|class = [[Non-being]]
+|status = Extant
+}}
+{{Quote|Dementors are among the foulest creatures that walk this earth. They infest the darkest, filthiest places, they glory in decay and despair, they drain peace, hope, and happiness out of the air around them... Get too near a Dementor and every good feeling, every happy memory will be sucked out of you. If it can, the Dementor will feed on you long enough to reduce you to something like itself... soulless and evil. You will be left with nothing but the worst experiences of your life.|[[Remus Lupin]]'s description of Dementors|Harry Potter and the Prisoner of Azkaban}}
+
+A '''Dementor''' is a [[gliding]], wraithlike [[Dark Arts|Dark]] [[creature]], widely considered to be one of the foulest to inhabit the [[wizardkind|wizarding]] world. Dementors feed on [[human]] happiness and thus generate feelings of depression and despair in any person in close proximity to them. They can also [[Dementor's Kiss|consume a person's soul]], leaving their victims in a permanent {{wplink|vegetative state}}, and thus are often referred to as "''[[soul]]-sucking fiends''", rendering a person an 'empty-shell'.<ref name="POA">{{POA}}</ref> Dementors were closely associated with [[Azkaban]]<span>, as they were </span>formerly <span>employed by the </span>[[British Ministry of Magic]]<span> as the prison guards, and were not known to permanently inhabit any other location.</span>
+
+The Dementors of Azkaban were under the employ of the Ministry until mid-[[1996]], when [[Tom Riddle|Lord Voldemort]] was sighted in the Ministry, and their defection to the Dark Lord's cause became undeniable. After the end of the [[Second Wizarding War]] in [[1998]], the Ministry was re-formed, and newly-appointed [[Minister for Magic]] [[Kingsley Shacklebolt]] ensured that they were not used by the government again, presumably due to their changing allegiance and support of Voldemort, and due to ethical reforms in the Ministry and Wizarding society at large.<ref name="BWC">[http://www.bloomsbury.com/harrypotter/default.aspx?sec=3 30 July 2007 Bloomsbury WebChat] with [[J. K. Rowling]]</ref>
+
+There are certain defences one can use against Dementors, specifically the [[Patronus Charm]]. Dementors hold no true loyalty, except to whoever can provide them with the most people to feed on. They seemingly cannot be destroyed, though their numbers can be limited if the conditions in which they multiply are prevented from forming, implying that they do die off eventually.<ref name="BWC" />
+
+==History==
+
+===Early history===
+{{Quote|Those who entered to investigate refused afterwards to talk of what they had found inside, but the least frightening part of it was that the place was infested with dementors.|[[J. K. Rowling]] on the early history of Azkaban|Pottermore}}The history of Dementors in relation to [[Wizarding world|Wizarding society]] in [[Great Britain|Britain]] is inextricably tied up with one location: [[Azkaban]]. The island in the North Sea on which the [[Wizardkind|wizard]] prison is built has never appeared on any map, wizard or [[Non-magic people|Muggle]]. Perhaps its first resident, or even creator, [[Ekrizdis]], practised the worst kinds of [[Dark Arts|Dark magic]] and constructed a fortress on the island, luring Muggle sailors there to torture and murder them. After his death, the various [[Concealment Charm|concealment charms]] placed on the island faded, and the Ministry became aware of the mysterious site's existence.
+
+[[File:Azkaban.jpg|251x251px|thumb|left|A modern [[Azkaban]] Prison]]
+
+Those who entered the deserted fortress to investigate discovered, among other horrors, an infestation of Dementors. Fearing the reprisal of these dark entities should anyone try to evict them, the Ministry decided to let the sizeable colony remain, unmolested and unchecked.
+
+When [[Damocles Rowle]] was elected Minister for Magic in [[1718]], he insisted on utilising Azkaban's dark pedigree, seeing the Dementors as a potential asset: putting them to work as guards would save expense, time, and lives. This plan was eventually put into motion and, despite protests, Azkaban remained the prison of the wizarding world right up until the [[Second Wizarding War]], mostly because of its near-zero breakout rate. From that point on, the Dementors served the [[British Ministry of Magic|Ministry of Magic]] as the guards of Azkaban, as the arrangement allowed them to feed on the emotions of the prisoners within its walls. Somewhere between [[1733]] and [[1747]], Minister [[Eldritch Diggory]] visited Azkaban and was horrified at the sheer despair and insanity that the Dementors induced within the prisoners. He formed a committee to find alternative solutions, the least of which was to remove the Dementors, which met opposition from those who feared a mainland invasion by the dark creatures if they were deprived of their food source. Alas, Diggory died of Dragon Pox while in office, and thus the campaign to find an alternative to Azkaban's Dementors stalled. Though their primary function was to guard Azkaban, Dementors also performs other services for the Ministry, such as being sent to guard other locations, escort prisoners to trial or even hunt down certain criminals.
+
+Although many in the wizarding world felt that the Dementors were necessary to keeping the wizarding world safe from Voldemort's supporters and other dangerous criminals, some believed the Dementors to be inherently fickle and untrustworthy. [[Albus Dumbledore]], in particular, thought it was a mistake for the Ministry to ever ally with such creatures, though [[Alastor Moody]] thought violent criminals such as [[Death Eaters]] deserved such treatment.<ref name="GOF"/>
+
+===1993-1994===
+{{Quote|When they get near me — I can hear Voldemort murdering my mum.|[[Harry Potter]] on the Dementors' effect on him|Harry Potter and the Prisoner of Azkaban}}[[File:Harry vs Dementor.gif|220x220px|thumb|Dementors board the Hogwarts Express in search of Sirius Black]]
+During the [[1993–1994 school year|1993-1994 school year]], a legion of Dementors were sent to guard [[Hogwarts School of Witchcraft and Wizardry]] against "mass murderer" [[Sirius Black]], who had recently [[Azkaban escapes#1993|escaped]] from [[Azkaban]] in 1993. The Dementors were stationed at Hogwarts because of the Ministry believing (incorrectly as it turned out) that Sirius was wanting to kill Harry Potter out of retribution for his "master's" defeat. The Dementors searched for Sirius on the Hogwarts Express and   Harry Potter had his first encounter with a Dementor during which he was protected by the new [[Defence Against the Dark Arts]] professor, [[Remus Lupin]]. Whenever brought into close proximity with one, Harry was forced to relive his worst memory: hearing the last moments of his parents' lives before they were murdered by [[Tom Riddle|Lord Voldemort]]. 
+[[File:Dementors stationed Hogwarts.jpg|220x220px|thumb|left|Dementors stationed at Hogwarts after Sirius Black's escape from Azkaban]]
+While the Dementors were at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], [[Headmaster]] [[Albus Dumbledore]] refused to let them enter the School Grounds but was unable to prevent their presence entirely, and so warned his students to give the Dementors no reason to harm them. So dangerous did Dumbledore consider them to be that, even when Sirius Black was found to have entered the school, he refused to let them search or enter the castle.
+[[File:Harry vs Dementor 2.gif|220x220px|thumb|Dementors attack on the Quidditch match]]
+Harry endured a second encounter with a group of Dementors during a [[Quidditch]] match, causing him to lose consciousness and suffer a fall from his broom. He was that time rescued by Dumbledore, who [[Slowing Charm|slowed]] Harry's fall and then drove the Dementors away with a [[Patronus Charm|Patronus]]. They had a particularly bad effect on Harry due to his miserable childhood and plentiful bad memories.<ref name="POA" /> Professor Lupin later claimed that the atmosphere of excitement during a Quidditch Match would be like a feast to the Dementors, which they were unable to resist.
+
+[[File:Anti-Dementor lessons.jpg|246x246px|thumb|left|Harry conjures an incorporeal shield Patronus against a Boggart Dementor]]
+
+To overcome the Dementors, Harry asked Lupin for assistance. Lupin began teaching Harry the Patronus Charm, using a Boggart, which transformed into a Dementor in front of Harry. During the next Quidditch match Harry competed in, four [[Slytherin]]s, [[Draco Malfoy]], [[Vincent Crabbe]], [[Gregory Goyle]], and [[Marcus Flint]], disguised themselves as Dementors to distract Harry. Although not yet capable of producing a fully formed patronus, Harry was able to perform the spell well enough to thwart their attempts and won the match, after which Professor [[Minerva McGonagall]] sentenced the offending students to detention and deducted fifty House Points from Slytherin.
+[[File:Dementors black lake.gif|220x220px|thumb|Dementors attack by the Black Lake]]
+Harry's next encounter with the Dementors came when he, Hermione, and Sirius were [[Dementor attack on Harry Potter & Sirius Black|attacked]] by a group of them in the [[Forbidden Forest]]; the three were saved by the intervention of a powerful and fully formed Patronus before the Dementors were able to take their [[soul]]s via the Dementor's Kiss (defined below). Though initially believed (by Harry) to be the Patronus of his deceased father, this Patronus had in fact been conjured by Harry himself, who had travelled back in time with [[Hermione Granger]] using her [[Time-Turner]]<ref name="POA" /> (this technically counts as both Harry's third and fourth encounter with the Dementors, since, due to his time travelling, he experienced this same encounter twice). Harry's Patronus took the form of a stag, which was both the form his father's Patronus took and the form his father took as an [[Animagus]]. Because the Dementors tried to Kiss Harry during this encounter in the Forest, it was enough to convince the [[Minister for Magic]] [[Cornelius Fudge]] to have the Dementors removed from Hogwarts at the end of the school year. Dumbledore seemed very happy about this.
+
+===1994-1995===
+{{Quote|The Dementors will join us, they are our natural allies....|[[Tom Riddle|Lord Voldemort]] talking to his Death Eaters|Harry Potter and the Goblet of Fire}}Harry met an apparent Dementor in the Triwizard Tournament; thinking that it was a real Dementor he conjured the Patronus Charm, and soon the Dementor stumbled and then Harry knew it was a boggart and soon cried 'Riddikulus'. That same evening, Fudge brought along a Dementor when he was notified that the [[Death Eaters|Death Eater]], [[Bartemius Crouch Junior]], responsible for the activities that occurred was captured, for his own security, disregarding [[Minerva McGonagall]]'s protest; said Dementor attacked the prisoner, who was also an escapee of Azkaban, on sight, sucking his soul out, which Fudge claimed it was no loss as he saw Crouch as a raving lunatic unworthy of bearing testimony. Dumbledore, who disapproved of this move, suggested Fudge to remove the Dementors from Azkaban to deprive Voldemort of their services, which Fudge thought to be absurd, as he did not believe Voldemort's return and by even suggesting the Azkaban guards to be removed will result in him being impeached.
+
+===1995-1996===
+[[File:Tumblr lv13kyrMIO1qgt0vro1 250.gif|220x220px|thumb|left|The Dementor attack at Little Whinging]]
+Harry's fifth encounter was in an alley near his home on [[4 Privet Drive|Privet Drive]], when he and his cousin, [[Dudley Dursley]], were [[Attack in Little Whinging|ambushed]] by two Dementors sent secretly and illegally by [[Dolores Umbridge]]. He successfully used the [[Patronus Charm]] and was subsequently guided home by a [[Squib]] named [[Arabella Figg]]. Harry was put on trial for his use of [[underage magic]], but ultimately was not punished, as it was recognised as having been self-defence. Nearly a year later Umbridge admitted the plan to attack and undermine Harry using the Dementors.<ref name="OTP" />
+
+By June 1996, all of the Dementors of Azkaban collectively rebelled against their employers to join [[Tom Riddle|Lord Voldemort]], who offered them more victims and free rein across the country. This aided the 1996 and [[Azkaban escapes#1997|1997 escapes]] of [[Death Eaters]] from Azkaban.<ref name="OTP" /> By mid-1996, the Dementors who had joined Voldemort were multiplying in such quantities as to generate an 'unseasonal' July mist, noticeable to both the [[Non-magic people|Muggle]] and wizarding worlds alike. [[Cornelius Fudge]] also admitted they were factors in the [[Prime Minister|British Prime Minister]]'s recent decline in terms of public approval, as they were making people less happy in general.<ref name="HBP">{{HBP}}</ref>
+
+===1997-1998===
+{{Quote|The air around them had frozen: Harry's breath caught and solidified in his chest. Shapes moved out in the darkness, swirling figures of concentrated blackness, moving in a great wave towards the castles, their faces hooded and their breath rattling....|Dementors join the Battle of Hogwarts|Harry Potter and the Deathly Hallows}}[[File:DH1 Dementors over the Muggle-Borns Trial Court.jpg|250x250px|thumb|Dementors guarding the [[Muggle-Born Registration Commission]] trial courtroom]]
+
+During the 1997 infiltration of the [[Ministry of Magic]], while Harry Potter was disguised as [[Albert Runcorn]], he encountered the Dementors in the Muggle-Born Registration Commission courtroom, where they were used to take away convicted Muggle-borns after interrogation and to terrorise them during interrogation. [[Dolores Umbridge]] protected herself and the other questioners with a cat [[Patronus Charm|Patronus]], which dissipated when Harry stunned her. Without Umbridge to control them, a Dementor attempted to give the Kiss to [[Mary Cattermole]], the Muggle-born being interrogated at the time. Harry saved Mary with his own Patronus which drove all of the Dementors in the courtroom into the corners due to its greater power than Umbridge's. Hermione cast a Patronus of her own, and Harry and Hermione used their Patronuses to keep the Dementors in the courtroom and the hallway outside at bay so that they could rescue all of the remaining Muggle-borns. As the group left the area, Harry and Hermione left their Patronuses in the hallway to hold the Dementors at bay for as long as possible while they made their escape.
+
+[[File:Hogwarts dementor.png|250x250px|thumb|left|Dementors stationed at Hogwarts during the height of the Second Wizarding War]]
+
+After Apparating to [[Hogsmeade]], Harry, Ron, and Hermione set off a [[Caterwauling Charm]] and hid under Harry's [[Cloak of Invisibility|Invisibility Cloak]]. Unable to find them the Death Eaters dispatched Dementors to attack the trio, as Dementors sensed the presence of others and did not rely on sight. Harry was forced to cast his Patronus to protect the trio from being [[Dementor's Kiss|kissed]]. They could not Disapparate due to an [[Anti-Disapparition Jinx]] placed on the village and were stuck (caterwauling charm). Harry drove away the Dementors, but almost gave the three away, as his patrounus was very distinctive, [[Aberforth Dumbledore]] saved them and passed off Harry's stag as his own goat Patronus and ushered the trio into his pub.
+[[File:Battle of Hogwarts Patronus GIF.gif|220x220px|thumb|Dementors participate in the Battle of Hogwarts and are fended of with Patronuses]]
+Later, during the [[Battle of Hogwarts]], the Dementors fought on the side of [[Tom Riddle|Lord Voldemort]] and the [[Death Eaters]]. [[Harry Potter]], [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]] were attacked by large numbers of Dementors, and due to the horrific events they had experienced and witnessed, including the recent death of [[Fred Weasley]], they all had difficulty summoning their Patronuses. In fact, Harry welcomed the fate that came with a Dementor's kiss, but [[Seamus Finnigan]], [[Luna Lovegood]], and [[Ernest Macmillan|Ernie Macmillan]] attacked the Dementors with their own Patronuses holding them at bay and encouraged Harry to do the same, allowing him to finally summon his Patronus, which caused the Dementors to scatter. Later, Harry encountered more Dementors in the [[Forbidden Forest]], but the presence of James, Lily, Sirius and Remus, summoned through the [[Resurrection Stone]], shielded him from them.<ref name="DH" />
+
+===Post 1998===
+After the [[Second Wizarding War]], the [[British Ministry of Magic|Ministry of Magic]] became headed by former-[[Auror]] and Order of the Phoenix member [[Kingsley Shacklebolt]]. Due to their actions during the war (allowing [[Death Eaters]] to escape back to Voldemort and joining forces with him themselves), Shacklebolt disbanded the Dementors as guards of the [[Azkaban|wizard prison]]. It is unknown where they went or what they did without their only known application. After the Dementors were removed from the prison, Aurors were placed in the prison as guards.
+
+===2020===
+In one of the alternate realities, to which [[Scorpius Malfoy]] found himself, the Dementors were near the [[Great Lake]] at Hogwarts. The student saw these creatures on [[22 October]] when he was caught by [[Dolores Umbridge]], who was the headmaster of the school.<ref>{{CC|B|2|20}}</ref>
+
+A week later, when Scorpius, [[Hermione Granger]], [[Ronald Weasley|Ron Weasley]] and [[Severus Snape]] returned after making a change in the past, they were found by Dementors. Since Hermione and Ron were wanted by arrest warrant, they decided to stay to give the remaining time to save themselves. Ron tried to conjure a patronus, but Hermione stopped him to sacrifice herself and keep these creatures there. The Dementors quickly found them and drained their souls.
+
+Snape left with Scorpius and encouraged him so that the boy would not give in to the despair spread by these creatures. Soon they met Umbridge, who recognised that Snape was working against her and Voldemort, but was rejected by his spell. Then the Dementors attacked, but Severus conjured up a Patronus and promised to keep them as long as possible to ensure that Scorpius could escape. Malfoy ran in the trail of a silver doe, and Snape was deprived of his soul by these creatures. The Patronus kept Scorpius safe long enough to reach the [[Great Lake]] and set things right.<ref>{{CC|B|3|9}}</ref>
+
+==Description==
+===Appearances===
+Dementors have a humanoid shape, approximately three metres, or 10 feet high, and are covered in dark hooded cloaks of long ripped black cloth, making them closely resemble wraiths. Its body is greyed and decayed looking, like a decomposing corpse, and its breath sounds rattling like it is trying to "suck more than air" out of a room. Its hands are "''glistening, greyish, slimy-looking, and scabbed''". They seem to exude cold.
+
+[[File:Dementor's mouth.jpg|250px|thumb|left|A Dementor's mouth]]
+
+A Dementor's face has empty eye sockets, covered with scabbed skin. There is a gaping large hole where the mouth should be, which is used for sucking the [[soul]] out of the victim in a process called the [[Dementor's Kiss]], leaving victims in a state generally considered worse than [[death]]. The Dementor pulls back its hood and sucks out its victim's soul, leaving the person an empty shell, alive but completely, irretrievably 'gone'. They are described as being able to [[Gliding|glide]] over the ground only, and in any case, they cannot pass through solid obstacles.<ref name="POA" />
+
+Dementors are also known to be blind, as they do not have eyes. However, they can sense whether a presence is near them or not, by sensing the victim's emotions.
+
+===Nature and behaviour===
+{{Quote|He felt the unnatural cold begin to steal over the street. Light was sucked from the environment right up to the stars, which vanished... The cold was biting deeper and deeper into [[Harry Potter|Harry]]'s flesh... Then, around the corner, gliding noiselessly, came Dementors, ten or more of them, visible because they were of a denser darkness than their surroundings, with their black cloaks and their scabbed and rotting hands. Could they sense fear in the vicinity? Harry was sure of it: They seemed to be coming more quickly now, taking those dragging, rattling breaths he detested, tasting despair on the air, closing in —|Description of Dementors as they close in|Harry Potter and the Deathly Hallows}}[[File:Dementors Quidditch.jpg|250x250px|thumb|Dementors gliding together in mass numbers]]
+
+Dementors seem to suck all the light and happiness from the air as they draw long rattling breaths, and cause darkness to close in everywhere and the victim to feel incredibly cold. They can glide towards a victim without sound.
+
+Their sapience is heavily debated: they are sentient enough to taste and sense fear, being drawn to it and the promise of positive memories that it can feed off of. They are also intelligent enough to be greedy: they obeyed the [[British Ministry of Magic|Ministry of Magic]] for years because, in guarding [[Azkaban]], they were provided with the sustenance of any remaining hope or happiness in the prisoners. They can understand and follow at least simple instructions, which allowed a Dementor to act as a bodyguard to [[Minister for Magic]] [[Cornelius Fudge]] in [[1995]],<ref name="GOF">{{GOF}}</ref> and for them to escort prisoners in and out of the [[Muggle-Born Registration Commission]] courtroom in [[1997]].<ref name="DH">{{DH}}</ref> They could also communicate what they had heard [[Sirius Black]] saying in his sleep to the [[British Ministry of Magic|Ministry]] in [[1993]], implying that they can speak or otherwise communicate with wizards.
+
+On the other hand, [[Albus Dumbledore]] described Dementors as vicious creatures and that they won't ever differentiate between those they chase after and those that stand in their way. He also informed the students to give Dementors no reason to harm them, saying that forgiveness is not in a Dementor's nature. Moreover, they reportedly have no [[soul]] of their own (though it could be argued that "soulless" is merely figurative in this instance).
+
+Outside of Azkaban, Dementors appear to hunt for prey in groups of variable size, from as small as two to as large as greater than twenty. They appear to attack by first surrounding their targets, cutting off any escape, then descending upon them all at once to feed.
+
+==Abilities==
+{{Quote|They don't need walls and water to keep the prisoners in, not when they're trapped inside their own heads, incapable of a single cheerful thought. Most go mad within weeks.|[[Remus Lupin]] on Azkaban prisoners' long-term exposure to Dementors|Harry Potter and the Prisoner of Azkaban}}Being blind, Dementors sense and feed on the positive emotions of [[human]] beings in order to survive, forcing their victims to relive their worst memories over and over again. The very presence of a Dementor can make the victim's surrounding atmosphere grow cold and dark, and as the number of Dementors increase, so do the effects. Those that are kept in the company of a Dementor for too long tend to become depressed, and are often driven insane, which was the main source of [[Azkaban]]'s well-deserved horrible reputation when they still guarded its prisoners. After spending only a few months there, [[Rubeus Hagrid]] claims he wished he would die in his sleep.<ref name="POA" /> For this reason, they are considered some of the foulest creatures on Earth.
+
+[[File:Tumblr_lv13kyrMIO1qgt0vro1_250.gif|231x231px|thumb|left|A dementor sucking all the positive emotion from [[Harry Potter]]]]
+
+Dementors rely fully on their ability to sense emotion and physical and/or mental health to track the movements of the prisoners in their care, and are generally unable to distinguish one person from another if both are in similar physical or mental condition. They were unable to identify [[Bartemius Crouch Jnr's mother|Mrs Crouch]] being sneaked into [[Azkaban]] disguised as [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] using [[Polyjuice Potion]], or Barty Crouch Jnr being sneaked out disguised as his mother, since both were ill nearly to the point of death, as divulged by Bartemius Crouch Jnr under the influence of [[Veritaserum]] in [[1995]] (though it may be that they simply did not care whom they were sucking happiness from so long as they were "fed"). 
+They are genderless and don't mate, they grow like fungus where there is decay.
+
+Dementors seemingly don't feel and recognise animal emotions in the same way as human emotions. When [[Sirius Black]], an [[Animagus]], was imprisoned in [[Azkaban]] in his dog form before his eventual successful escape also as a dog, his emotions were less human. The Dementors could feel there was a difference in his emotions when he changed his form, but they didn't understand why there was such a difference; they simply thought he was losing his mind.
+
+Although [[Non-magic people|Muggles]] cannot see Dementors, they are affected in a way similar to wizards and witches, becoming depressed when near them.<ref name="OTP">{{OOTP}}</ref> It is under debate, if [[Squib]]s are able to see Dementors. While [[Arabella Figg]] has claimed in the [[Wizengamot]] court room to have seen the Dementors that attacked Harry and Dudley in Little Whinging<ref name="OTP" />, it was later confirmed that she lied. It is unclear if she was unable to see the Dementors or if she was merely arriving late at the scene.<ref name="squibs">[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=19 Extra Stuff: Squibs] at {{JKRS}}</ref>
+
+After [[Morfin Gaunt]] and Bartemius Crouch Jnr's mother died in Azkaban, Dementors buried their bodies, which shows that Dementors are capable of physical labour, such as grave-digging. Also, Sirius escaped when the Dementors came to give food, another sort of labour. 
+
+It is stated by [[Remus Lupin]] that, if a wizard remains in close contact with Dementors for an extended period of time, a Dementor can drain a wizard of his powers. This fact is not expounded upon, so the truth to this statement is unknown. If this is the case, however, it would make Dementors the only known being to permanently render a wizard without magic. Lupin might also mean this metaphorically, as severe depression, which is caused by prolonged contact with Dementors, can be really detrimental to a wizard's ability to cast spells.
+
+===Dementor's Kiss===
+{{Main|Dementor's Kiss}}
+{{Quote|There's no chance at all of recovery. You'll just... exist. As an empty shell. And your [[soul]] is gone forever... lost.|[[Remus Lupin]] regarding the kiss|Harry Potter and the Prisoner of Azkaban}}
+
+[[File:Sirius_Soul.jpg|235x235px|thumb|The soul after it's been removed by the Dementor's Kiss]]
+
+In addition to feeding on positive emotions, Dementors can perform their last and most dangerous ability: the Dementor's Kiss, in which a Dementor latches its mouth onto a victim's and sucks out the person's soul.<ref name="POA" /> The victim is left as an empty shell, incapable of thought and with no possibility of recovery. It is believed that existing after a Dementor's Kiss is worse than death: as a person's [[soul]] is their true self, to be 'kissed' by a Dementor is to cease to exist, and yet also remain. The [[British Ministry of Magic|Ministry of Magic]] occasionally allowed this as a punishment, before [[Kingsley Shacklebolt]] became [[Minister for Magic]]. It is unknown what effect a Dementor's Kiss would have on a person who had split his or her soul through the use of a [[Horcrux]]. It is also possible that the soul is trapped inside the Dementor, thus the victim is unable to pass on. This is probably what "worse than death" is.
+
+The only known named victim of the [[Dementor's Kiss|Kiss]] is [[Bartemius Crouch Junior|Barty Crouch Jnr]]. From 1994 to 1995 Crouch had been using [[Polyjuice Potion]] to pose as [[Alastor Moody]], and had been teaching at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in his stead; he was detained at the castle, awaiting trial, after his ploy was discovered, and it emerged that he had been working in secret for [[Tom Riddle|Voldemort]]. He was subjected to the punishment by a Dementor accompanying [[Cornelius Fudge]] as a bodyguard.<ref name="GOF" /> The unfortunate consequence of this act was that it rendered Crouch unable to testify about his master's return, allowing Voldemort almost a full year to gather strength while the [[British Ministry of Magic|Ministry]] continued in its denial.
+
+==Protection from Dementors==
+===Patronus Charm===
+{{Main|Patronus Charm}}
+{{Quote|A Patronus is a kind of positive force, and for the [[Wizardkind|wizard]] who can conjure one, it works something like a shield, with the Dementor feeding on it, rather than him.|[[Remus Lupin]] regarding what a Patronus is|Harry Potter and the Prisoner of Azkaban (film)}}
+
+[[File:POA Harry Patronus Great Lake.gif|228x228px|thumb|left|Harry Potter protecting his three-hour younger self and Sirius Black from Dementors, using the Patronus Charm]]
+
+No one has ever demonstrated the ability to kill a Dementor, by ''[[Killing Curse|Avada Kedavra]]'' or otherwise, implying that they can not be killed through physical means, but can only be driven away or temporarily kept at bay. One of the few ways to shield oneself from Dementors is by the very difficult [[Patronus Charm]].<ref name="POA" /> The charm summons a Patronus, a magical manifestation of good will and happiness, providing varied levels of protection against the Dementors' influence, based on the caster's strength as a wizard. With sufficient ability, a single wizard can hold off dozens, if not hundreds, of Dementors with a single corporeal Patronus, as Harry Potter demonstrated during his third year at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] when he drove off a horde of Dementors seeking to consume Hermione Granger, Sirius Black, and Harry's past selves.<ref name="POA" />
+[[File:Harry casts Patronus spell.gif|220x220px|thumb|Harry Potter protecting himself and Dudley Dursley from Dementors, using the Patronus Charm]]
+As the Patronus is not alive, the Dementor cannot feed on it. Only when summoned by an experienced caster will the Patronus take the form of an animal significant in some way to the individual. While the lower level Patronus is more amorphous and ephemeral, corporeal Patronuses chase down Dementors and force them to flee the vicinity.<ref name="OTP" /> An incorporeal Patronus only slows a Dementor down,<ref name="POA" /> as if the creature is walking through quicksand, and tends not to last long, but could eventually give the caster time to escape.
+
+===Other===
+
+Since Dementors cannot properly sense the less complex thoughts and emotions of a person when he or she takes on an [[Animagus]] form, doing so allowed some, such as [[Sirius Black]], to temporarily avoid feeling the effects of the Dementors' presence.<ref name="POA" /> When they sensed the less-than-human thoughts of his Animagus form, the Dementors simply thought Sirius was losing his mind.
+
+The effects of a Dementor's happiness-draining powers can also be resisted if one focuses not on happy thoughts, but on obsessions, or other things that give one strength without exactly making one feel better. For example, Sirius managed to avoid going mad in the Dementors' custody and eventually plan an escape by focusing on the fact that he was innocent and didn't belong in Azkaban, and later that [[Peter Pettigrew]] was at Hogwarts and that Harry was in danger. However, this feat was mostly attributed to the fact of him being an [[Animagus]] who is able to temporarily avoid feeling the effects of the Dementors' presence in his animal form.
+
+Though clearly not a common method of repelling Dementors, the enigmatic form people take after being brought back by the [[Resurrection Stone]] appears to function much like a [[Patronus Charm|Patronus]], as the 'resurrected' forms of [[Sirius Black]], [[Remus Lupin]], and [[James and Lily Potter]] were able to shield [[Harry Potter]] from the Dementors that [[Tom Riddle|Voldemort]] had stationed in the [[Forbidden Forest]] in [[1998]]. And also, after Harry returned from the brink of life and death, he was so overcome with joy at being alive that the Dementors had no effect on him, showing that if a person is truly happy as he can be, the Dementors main weapon is rendered useless.
+
+There may be another, more common way of repelling a Dementor, aside from the Patronus Charm, as [[Harry Potter]] disagreed with [[Severus Snape|Professor Snape]] on the best method for confronting one when it was the subject of a report in his [[sixth year]].<ref name="HBP" /> This implies that there are, indeed, other methods. Probably one of them is reducing the effects and conditions of the habitat that Dementors prefer, which would cause them to be driven away. Other methods may include the use of [[Felix Felicis]] to increase a wizard's luck, or with the use of [[Occlumency]] to neutralise thoughts and emotions to keep calm and confident, both methods would eventually lead to the point that a wizard could easily cast the Patronus Charm to fend off Dementors.
+
+The mood-enhancing properties of [[chocolate]] are well known in both the Muggle and wizard worlds. Chocolate is the perfect antidote for anyone who has been overcome in the presence of Dementors, which suck hope and happiness out of their surroundings. Chocolate can only be a short-term remedy, however. Finding ways to fight off Dementors — or depression — are essential if one is to become permanently happier. Excessive chocolate consumption cannot benefit either Muggle or wizard.<ref>{{PM}}</ref>
+
+[[Dark Wizard]]s cannot commonly produce [[Patronus Charm|Patronuses]]. However, they do not need to do so in the first place, as they are like-minded in evil. [[Tom Riddle|Voldemort]] even states that they are natural allies. This does not, however, prevent Dementors from imprisoning dark wizards in Azkaban.
+
+==Etymology==
+The English word ''dementor'' is used generically to refer to any evil or fearsome creature. The word ultimately derives from the [[Latin]] ''dēmens'', meaning "[[Insanity|insane]]".
+
+==Behind the scenes==
+[[File:282px-Dementornew.png|150px|thumb|A Dementor in LEGO form]]
+[[File:DementorPOP.jpg|thumb|A Dementor as a [[POP! Vinyl]]]]
+[[File:DementorWU.png|thumb|A Dementor as depicted in {{WU}}]]
+*[[J. K. Rowling]] has revealed that the inspiration for Dementors came from her bout with severe depression before her phenomenal success.<ref name="times-interview">[http://www.accio-quote.org/articles/2000/0600-times-treneman.html 30 June 2000 interview from ''The Times'']</ref><ref>"[http://a.abcnews.com/m/story?id=8081011&sid=75 Inside the Magical World of J.K. Rowling]" from ABCNews.com</ref> She described the feeling as an "''absence of being able to envisage that you will ever be cheerful again. The absence of hope. That very deadened feeling, which is so very different from feeling sad''."<ref name="times-interview" />
+*In an attempt to sabotage Harry during a [[Quidditch]] match in 1994, [[Draco Malfoy]], [[Vincent Crabbe]], [[Gregory Goyle]], and [[Marcus Flint]] dressed up as Dementors to scare him. Malfoy was standing on Goyle's shoulders. Considering how tall Dementors are (they are described in ''Prisoner of Azkaban'' as reaching from the floor to the ceiling on the [[Hogwarts Express]]), the foursome appear to account for two Dementors, when just a few pages earlier, Harry saw three Dementors. (Although [[Marcus Flint]], as an older student — in his seventh year — may have been tall enough to pass as a Dementor without someone on his shoulders.) However, their attempt failed when Harry cast a [[Patronus Charm]] at them.
+*Animatronic Dementors appear in {{HPFJ}} at {{WWHP}}, chasing the riders' flying bench through the [[Chamber of Secrets]] and around the skeleton of the [[Basilisk]]. The [[Dark Mark]] appears along with them, suggesting that a [[Death Eaters|Death Eater]] summoned them to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+*Dementors are often compared to the Nazgûl from ''{{wplink|The Lord of the Rings}}'', as well as the Spectres from ''{{wplink|His Dark Materials}}'', as the Nazgûl were surrounded by an aura of terror, which affected all living creatures; their aura called the Black Breath could be toxic to those hapless and close enough to them, much like the Dementors presence having negative effects on living beings, rendering them unconscious or in a comatose like state that required unique forms of healing to deal with the effects. They can also be compared to the [[w:c:inheritance:Ra'zac|Ra'zac]] of ''[[w:c:inheritance|The Inheritance Cycle]]'' in that the foul breath of the Ra'zac engenders terror and lethargy in humans, though the Ra'zac cannot be repelled by a simple charm, nor are they are immortal spirits that cannot be truly destroyed. However, The Ra'zac are described as being the natural predators of the human race and feed upon their flesh, much like how Dementors naturally rely on humans as a food source, though the Dementors feed upon the souls and emotions of humans rather than their anatomy.
+*According to [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]], Dementors may be unknown in tropical regions.
+*In {{LEGO|Y1}}, a large Dementor serves as the final boss of Year 3.
+*There are doubts about whether Dementors are born or made. In a non-definitive version of {{POA}}, a phrase appeared that could explain it: "''If they can, they feed on someone so much that they reduce it to something like themselves ... soulless and evil''". The phrase was withdrawn for the final edition, but it could mean that the Dementors were humans transformed by other Dementors. Even so, this information can't be considered reliable since J.K. Rowling did not include it in the final version. The phrase became known because the owner of one of these test editions commented on some of the changes. In respect to that, J.K. Rowling has said that Dementors don't breed, but grow like fungi where there is decay, and are functionally immortal in terms of age.<ref>http://www.accio-quote.org/articles/2000/1000-canadianpress-moore.htm</ref> However, in {{HBP}}, Cornelius Fudge tells the Prime Minister that the breeding of dementors in the city has been causing a mist.
+*The Dementors' appearances (tall corpse-like beings wearing tattered black cloaks) is very similar to popular depictions of the [[Death (The Tale of the Three Brothers)|Grim Reaper]]. Because of this, some readers assumed Dementors were incarnations of death rather than depression; the concept was very notably used in ''[[Harry Potter and the Methods of Rationality]].''
+*In {{DH|F2}}, Aberforth repels the attacking Dementors in the [[Battle of Hogwarts]] with a wave-like [[Patronus Charm|Patronus]], similar to the one cast by [[Harry Potter|Harry]] in the film version of ''Prisoner of Azkaban''.
+*In [[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]], a Dementor that was pinning Harry Potter against a wall by the neck while feeding on his emotions and soul was briefly repelled when Harry touched his wand to the Dementor causing red sparks to fly off and to make the Dementor release him, similar to the [[Revulsion Jinx]], implying that the spell could work on Dementors.
+*Dementors and the [[Dementor's Kiss]] exhibit interesting parallels to [[Tom Riddle|Lord Voldemort]] and the spell that creates a [[Horcrux]]:
+**The [[Dementor's Kiss]] sucks out a victim's soul, while the [[Horcrux]] spell allows part of the caster's soul to be broken off. Total soul removal results in something similar to a Persistent Vegetative State and is irreversible, while creating a [[Horcrux]] reduces the humanity of the caster, both in terms of morality/behaviour and appearance (evidenced by the once handsome [[Tom Riddle|Tom Marvolo Riddle]] becoming monstrous and snake-like in appearance over time). The damage of creating a [[Horcrux]] may be undone through remorse, but the process is so painful it can be fatal.
+**The victim of a [[Dementor's Kiss]] cannot become a [[ghost]] since the [[soul]] has been lost. Presumably, the victim also cannot enter the afterlife, or possibly even [[Limbo]]. Similarly, the maker of a [[Horcrux]] cannot die, while the Horcrux(es) is/are intact, and if an unrepentant Horcrux maker is killed, he or she is trapped in [[Limbo]] and cannot enter the afterlife.
+*In {{POA}}, [[Remus Lupin|Lupin]] states "the only people that know what's under a Dementor's hood are in no state to tell us" (being soulless) but from the fifth movie and onward, they are shown without any hood at all. This is likely due to change of directors.
+*A species of [[wasp]], ''{{wplink|Ampulex dementor}}'', is named after the Dementor. This name was chosen to reflect the fact that the wasp uses a toxin to neutralise the neural behaviour of cockroaches and make them docile, as if their souls had been sucked out.<ref>[http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0095068 "The Soul-Sucking Wasp by Popular Acclaim – Museum Visitor Participation in Biodiversity Discovery and Taxonomy"] - PLOS ONE</ref>
+*For the films they initially created puppets for the Dementors which were operated underwater to give them their floating on air effect. Ultimately these did not appear in the final edit and CGI Dementors were used instead.
+*Interestingly despite being considered natural allies to dark wizards, the Dementors did not side with the Death Eaters in the First Wizarding War nor did Voldemort appear to try and recruit them.
+*Some weeks before the release of the first film adaptation of Fantastic Beasts and Where to Find Them, Pottermore Featured "Beasts of the Week" The Dementor was the "Beast of the Week" on 21st September 2016, though Dementors are [[Non-Human Spiritous Apparition]]s.<ref name="Lupin">{{WW|remus-lupin}}</ref> Later, a trailer analysis of the launch trailer of {{HL}} incorrectly refered to them as beings.<ref>https://www.wizardingworld.com/features/13-things-spotted-from-the-hogwarts-legacy-trailer</ref>
+*The Dementors might be based on the Sluagh of Irish Folklore. The Sluagh are said to be the spirits of people so evil, that Hell rejected them. The Sluagh come in from the west like a flock of birds and try to find a house where a person is dying. They will try to snatch the soul of the dying person. The Irish often kept their windows shut to ward off the Sluagh. Like the Sluagh, the Dementors are ghostly, shadowy, evil creatures that try to steal the souls of their victims.
+
+===Portrayal in the film series===
+In the [[Harry Potter (film series)|film series]], Dementors are portrayed differently compared to how they were described in the books. In the books, they were described as tall hooded humanoid figures, whereas in the films, they appear as skeletal creatures wearing black robes.
+
+Another notable difference is that the Dementors in the films can [[Unsupported flight|fly freely]]. This aspect was completely absent from the books, where they were merely gliding over the ground. This is most noticeable when the Dementors were intruding the first Quidditch match in the Prisoner of Azkaban. In the book, the Dementors were described as standing in the stadium, while in the film, they were purposefully pursuing a broomstick-riding Harry Potter. Because of this, the corporeal [[Patronus Charm]] in {{POA}} seems to work differently by sending a pulse at the Dementors flying in the air rather than charging at them on the ground.
+
+Furthermore, the Dementors from the films appear to have a much more drastic effect on the environment compared to their book counterparts. In the films, the nearby surroundings of a Dementor are immediately covered by a layer of ice and any plant in the vicinity almost instantly withers away. The only explicit effect the book described Dementors were having in the environment is that they are accompanied by a cold mist. The first Dementor Harry encountered in the third film was able to open the [[Hogwarts Express]] without touching it, causing it to slide open with a wave of its hand, with some wizards and witches in the films also being able to perform similar feats. Also, the first Dementor seen in the fifth film was able to effortlessly lift Harry off the ground by the neck and pin him to a wall, showing great strength.
+
+===Translations of the name===
+*Albanian: ''Marroses''
+*Bulgarian: ''Диментор''
+*Catalan: ''Demèntor'' (pronounced duh-MEN-toor)
+*Chinese (PRC): ''摄魂怪 {{c|shèhúnguài}}'' ("take soul monster")
+*Chinese (Taiwan): ''催狂魔 {{c|cuīkuángmó}}'' ("drive-mad devil/demon")
+*Croatian: ''Dementor'' (plural ''Dementori'')
+*Czech: ''Mozkomor'' (lit. "Brain plague")
+*Faroese: ''Varðmaður''
+*Finnish: ''ankeuttaja'' (from ''ankeus'', "drearyness")
+*French: ''Détraqueur'' ("that which makes (things) go wrong or break down")
+*Georgian: ''დემენტორი {{c|dementori}}'' (plural: ''დემენტორები {{c|dementorebi}}'')
+*Greek, Modern: ''παράφρων'' (plural: ''παράφρονες {{c|Parafronas}}'') (from Greek ''παράφρων'' "mentally ill")
+*Hebrew: ''סוהרסן {{c|Soharsan}}'' (plural: ''סוהרסנים {{c|Soharsanim}}'') (from ''סוהר'' "prisoner" and ''הרסן'' "destructive")
+*Hindi: ''तम्पिशाच {{c|tampiśāc}}'' (from ''तम {{c|tam}}'' "darkness" and ''पिशाच {{c|pishāch}}'' "a type of Hindu demon, {{w|pishacha}}")
+*Icelandic: ''Vitsuga'' ("the one who sucks out your mind, or sense of anything")
+*Indonesian: ''iblis'' ("demon of death and happiness remover"; {{w|Iblis}})
+*Italian: ''Dissennatore'' ("that makes you lose your mind"; from ''senno'' "mental sanity")
+*Japanese: ''ディメンター {{c|dimentā}}'' (gairaigo of "Dementor") or ''吸魂鬼 {{c|kyūkonki}}'' ("intake/suction soul demon"; modelled after East Asian words for "vampires")
+*Lithuanian: ''Psichas'' ("Mental/Psycho")
+*Latvian: ''Atprātotājs''
+*Macedonian: ''Дементор''
+*Norwegian: ''Desperant'' ("One that brings out despair")
+*Persian: ''دیوانه ساز'' ("Maddening")
+*Portuguese (Portugal): ''Dementor'' (plural: ''Dementores'')
+*Portuguese (Brazil): ''Dementador''
+*Russian: ''Дементор'' (plural: ''Дементоры'')
+*Serbian: ''Дементор {{c|Dementor}}'' (plural: ''Дементори {{c|Dementori}}'')
+*Slovenian: ''Morakvar''
+*Thai: ''ผู้คุมวิญญาณ {{c|Poo-khum-win-yarn}}'' ("Soul Warden")
+*Turkish: ''ruh emici'' ("Soul Sucker")
+*Ukrainian: ''Дементор {{C|Dementor}}'' (plural: ''Дементори'')
+*Vietnamese: ''Giám ngục Azkaban'' ("Warden of Azkaban"; ''Giám ngục'' "warden")
+The following languages are the same as the original:
+{|
+|
+*Danish
+*Dutch
+|
+*Estonian
+*German
+|
+*Hungarian
+*Polish
+|
+*Romanian
+*Slovak
+|
+*Spanish
+*Swedish
+|}
+
+==See also==
+*[[Lethifold]]
+*[[Azkaban]]
+
+==Appearances==
+{{Imagecat|Images of Dementors}}
+*{{COS}} {{1st Mention}}
+*{{COS|G}} {{Comment|First identified as Dementor}}
+*{{POA}} {{1st}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}} {{Comment|Seen as Boggart}} {{Flashback}}
+*{{GOF|F}} {{Comment|Disc 2}}
+*{{GOF|G}} {{Mention}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}} {{Mention}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{CC}} {{Comment|Appears in [[alternate reality]]}}
+*{{CC|P}} {{Comment|Appears in [[alternate reality]]}}
+*{{HPPU}}
+*{{HPFS}}
+*{{HPFJ}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO|D}}
+*{{LEGO}}
+*{{HPK}}
+*{{WBS}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}} {{Mention}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+*{{HL}}
+
+==Notes and references==
+{{Reflist}}
+{{Defence Against the Dark Arts}}
+{{Death Eaters}}
+
+[[de:Dementor]]
+[[es:Dementor]][[fi:Ankeuttaja]][[fr:Détraqueur]][[he:סוהרסן]][[ja:吸魂鬼]][[nl:Dementor]][[pl:Dementor]][[ru:Дементор]]
+[[Category:Azkaban]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Boggart forms]]
+[[Category:Confoundables]]
+[[Category:Death Eater allies]]
+[[Category:Defence Against the Dark Arts]]
+[[Category:Dementors]]
+[[Category:Folio Bruti entries]]
+[[Category:Plot to murder Peter Pettigrew participants]]
+[[Category:Security guards]]
+[[Category:Soul-Related Magic]]

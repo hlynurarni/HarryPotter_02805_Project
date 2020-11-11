@@ -1,0 +1,32 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Unidentified Aurors
+|nationality = [[Great Britain|British]]
+|species = [[Human]]
+|job = [[Auror]]s<ref name="HBP7"/>
+|loyalty = *[[British Ministry of Magic]]<ref name="HBP7"/>
+**[[Auror Office]]
+|theme = mom
+}}
+These unidentified '''[[Auror]]s''' were employed by the [[Auror Office]] of the [[British Ministry of Magic]].<ref name="HBP7"/>
+
+==Biography==
+They were both waiting at [[King's Cross Station]] on [[1 September]], [[1996]] as a security escort for [[Harry Potter]]. Both were described as grim-faced and dressed as [[Non-magic people|Muggles]] in dark suits. Upon the arrival of Harry and the [[Weasley family|Weasleys]], the Aurors quickly escorted them into the station without speaking, although Harry found his escort's over-protectiveness somewhat irritating.<ref name="HBP7">{{HBP|B|7}}</ref>
+
+==Behind the scenes==
+It is possible that one of them was [[Gawain Robards]].
+
+==Appearances==
+*{{HBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+
+[[es:Aurores no identificados]]
+[[pt-br:Aurores não identificados]]
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals|Aurors]]
+[[Category:Wizards|Aurors]]

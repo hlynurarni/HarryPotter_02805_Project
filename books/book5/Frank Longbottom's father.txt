@@ -1,0 +1,69 @@
+{{Conjecture}}
+{{Imageless}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Longbottom
+|born = Before [[1947]]<ref name="date">In {{QH}}, Neville says he had a grandfather who put a fanged gerbil in his [[Augusta Longbottom's handbag|grandmother's handbag]] in 1947. If he is the husband of Augusta, then he would have been born before 1947.</ref>
+|died = Between [[1980]] and [[1995]]<ref name="ootp21">{{OOTP|B|21}}</ref>
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Algie Longbottom]] (brother)<ref name="longbottomfamilytree">[https://www.pottermore.com/features/the-longbottom-family-tree The Longbottom family tree] from {{PM}}</ref>
+*[[Augusta Longbottom]] (wife)<ref name="longbottomfamilytree" />
+*[[Frank Longbottom]] (son)<ref name="longbottomfamilytree" />
+*[[Alice Longbottom]] (daughter-in-law)
+*[[Enid Longbottom]] (sister-in-law)
+*[[Neville Longbottom]] (grandson)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Longbottom family]]
+}}
+'''Mr Longbottom''' (pre-[[1947]]<ref name="date" />—between [[1980]] and [[1995]]) was a [[pure-blood]] [[Wizardkind|wizard]]. He was the father of [[Frank Longbottom]] and the paternal grandfather of [[Neville Longbottom]].<ref name="longbottomfamilytree" />
+
+==Biography==
+Mr Longbottom was born sometime before [[1947]]<ref name="date" /> into the [[Longbottom family]],<ref name="longbottomfamilytree" /> an old [[Great Britain|British]] [[pure-blood]] family, considered to be one of the [[Sacred Twenty-Eight]].<ref name="pm-pureblood">{{WW|pure-blood}}</ref> He had one known sibling, a brother, [[Algie Longbottom|Algie]],<ref name="longbottomfamilytree" /> and may have had others.<ref>{{WW|the-quill-of-acceptance-and-the-book-of-admittance}} on {{PM}} states that Neville had "disappointed great aunts and uncles." [[Algie Longbottom|Algie]] and [[Enid Longbottom|Enid]] are Neville's only known great-aunt and great-uncle. Thus, Neville must have had at least one other great-aunt and one other great-uncle in addition to them, who could potentially be unknown siblings of Mr Longbottom and Algie.</ref>
+
+He married a witch, [[Augusta Longbottom|Augusta]], with whom he had one son, [[Frank Longbottom|Frank]].<ref name="longbottomfamilytree" />
+
+He died sometime between [[1980]] and [[1995]].<ref name="ootp21" /><ref name="longbottomfamilytree" /> His grandson, [[Neville Longbottom|Neville]], witnessed his death, thus enabling the boy to see [[Thestral]]s at a young age.<ref name="ootp21" /><ref name="longbottomfamilytree" /> Neville revealed as much to [[Rubeus Hagrid|Hagrid]] and [[Dolores Umbridge]] during her time evaluating a [[Care of Magical Creatures]] lesson.<ref name="ootp21" />
+
+==Behind the scenes==
+*Neville states in {{QH}} that, in [[1947]], his "granddad" put a [[fanged gerbil]] into Augusta's handbag as a joke, prompting her to keep a mousetrap in her bag at all times thereafter. It is likely that this refers to Mr Longbottom, rather than to Neville's maternal grandfather, i.e. [[Alice Longbottom]]'s father.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{QH}} {{Comment|Possible mention}}
+*{{LEGO|D}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Großvater Longbottom]]
+[[es:Abuelo de Neville Longbottom]]
+[[fr:Grand-père de Neville Londubat]]
+[[pl:Pan Longbottom]]
+[[Category:20th century deaths]]
+[[Category:British individuals|Longbottom's grandfather]]
+[[Category:Deceased individuals]]
+[[Category:Longbottom family]]
+[[Category:Males|Longbottom's grandfather]]
+[[Category:Married individuals]]
+[[Category:Pure-bloods|Longbottom's grandfather]]
+[[Category:Unnamed family members‎|Longbottom's grandfather]]
+[[Category:Wizards|Longbottom's grandfather]]

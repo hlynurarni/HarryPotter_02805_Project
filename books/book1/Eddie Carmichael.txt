@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Eddie Carmichael
+|born = Between [[1 September]] [[1978]] and [[31 August]] [[1979]], (most likely)
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Eddie Carmichael''' (born c. [[1978]]-[[1979]]) is a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1990]]. He was Sorted into [[Ravenclaw]] house and claimed that he achieved nine "[[Outstanding]]s" in his [[Ordinary Wizarding Level|O.W.L]] exams. He claimed his success was down to [[Baruffio's Brain Elixir]], and attempted to sell it to younger students. [[Hermione Granger]] stopped him and confiscated the potion.<ref>{{OOTP|B|31}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Carmichael, Eddie}}
+
+[[de:Eddie Carmichael]]
+[[es:Eddie Carmichael]]
+[[fr:Eddie Carmichael]]
+[[ru:Эдди Кармайкл]]
+[[pl:Eddie Carmichael]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Con artists]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in 1990]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Rosalind Antigone Bungs
+|hideb=
+|born=pre 1964<ref>To even fit the role that R.A.B did (as Hermione considers), she has to be alive by 1981 to have stolen the locket, which is what the trio have considered her over. Thus, she's born at least before 1964.</ref>
+|died=
+|blood=[[Magic]]al to some extent
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Rosalind Antigone Bungs''' was a [[Wizardkind|witch]]. She was one of the names that [[Hermione Granger]] found while researching who could possibly be [[Regulus Black|R.A.B]].<ref>{{HBP|B|30}}</ref>
+
+==Etymology==
+*"Rosalind" is derived from the Germanic elements ''hros'' "horse" and ''linde'' "soft, tender". This name was introduced by the Normans to England, though it was not common. During the Middle Ages its spelling was influenced by the Latin phrase ''rosa linda'' "beautiful rose". The name was popularised by Edmund Spencer, who used it in his poetry, and by William Shakespeare, who used it for the heroine in his comedy ''As You Like It'' (1599).
+*A "bung" is a stopper especially for the hole through which a cask, keg, or barrel is filled or emptied.
+
+==Appearances==
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Rosalind Bungs]]
+[[fr:Rosalind Bungs]] 
+[[pl:Rozalinda Bungs]]
+[[Category:Females|Bungs, Rosalind Antigone]]
+[[Category:Wizards|Bungs, Rosalind Antigone]]

@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Warty Harris
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Warty Harris''' was a [[Wizardkind|wizard]] who owned several [[toad]]s that were stolen by [[Will]]. [[Mundungus Fletcher]] stole the toads a second time, then sold them back to Will, who was completely oblivious to the con pulled on him.<ref name="OOTP5">{{OOTP|B|5}}</ref> It is unknown if Warty was ever able to regain his stolen property.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Harris, Warty}}
+
+[[de:Warzen-Harris]]
+[[es:Warty Harris]]
+[[fr:Harris Laverrue]]
+[[pl:Warty Harris]]
+[[zh:瓦提·海里斯]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

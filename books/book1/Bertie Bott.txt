@@ -1,0 +1,70 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:BertieBott.png|250px]]
+|name = Bertie Bott
+|born = [[1935]], [[Great Britain]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Confectioner
+|house = 
+|loyalty = 
+}}
+'''Bertie Bott''' (b. [[1935]]) was a [[Wizardkind|wizarding]] confectioner, who accidentally created [[Bertie Bott's Every Flavour Beans]]. For this, he was featured on a [[Chocolate Frog Card]].
+
+==Biography==
+===Early life===
+Bott was born in the year [[1935]], somewhere in [[Great Britain]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+===Invention of Every Flavour Beans===
+[[File:Bertie Bott USA Card.jpg|170px|thumb|left|A younger Bott, creating the [[Bertie Bott's Every Flavour Beans|Every Flavour Beans]]]]
+
+During years of his life, Bott dedicated himself to confectionary and sweets production. One day, in the mid-[[20th century|twentieth century]], Bott made a mistake that would make him famous: while trying to create tasty sweets from food, a pair of dirty socks were accidentally included in the experiment. Recognising the sales potential of sweets that presented "''a risk with every mouthful''", Bott started commercialising them under the name [[Bertie Bott's Every Flavour Beans]]. For the invention of these famous sweets, Bott is featured on a [[Chocolate Frog Card]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref>
+
+In [[1993–1994 school year|1993-1994]] at [[Hogwarts School of Witchcraft and Wizardry]], a [[Portrait]] of him guarded a secret room, the password to enter was "''Bibble''".<ref name="POAG">{{POA|G}}</ref>
+
+==Behind the scenes==
+*Albus Dumbledore said that in his youth he had a vomit flavoured bean and no longer liked them. Dumbledore would have been at least in his fifties at this time. But considering his age he might have considered himself young then.
+
+==Appearances==
+{{Imagecat|Images of Bertie Bott}}[[File:Bertie_Bott-69-chocFrogCard.png|thumb|Bertie Bott's gold [[Chocolate Frog Card]]]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Portrait}}
+*{{PM}} {{FWC}}
+*{{WWHP}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bott, Bertie}}
+
+{{Chocolate Frog Cards}}
+[[fi:Bertie Bott]]
+[[es:Bertie Bott]]
+[[fr:Bertie Crochue]] 
+[[pl:Bertie Bott]]
+[[sv:Bertie Bott]]
+[[Category:1935 births]]
+[[Category:British individuals]]
+[[Category:Confectioners]]
+[[Category:Gold Chocolate Frog Cards]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

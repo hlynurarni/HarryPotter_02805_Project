@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Mrs Zabini
+|hideb=
+|born=
+|died=
+|blood=[[Pure-blood]] or [[half-blood]]<ref name="Blood">As [[Blaise Zabini|Blaise]] was not imprisoned by the [[Muggle-Born Registration Commission]], his mother must have been either [[pure-blood]] or [[half-blood]].</ref>
+|marital=Widowed seven times
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Blaise Zabini's mother's seven husbands|Seven husbands]] †
+*[[Blaise Zabini]] (son)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=[[Slytherin]] (likely)<ref name="House">'''[[Horace Slughorn]]''': You'll be Gryffindor like her, I suppose? Yes, it usually goes in families. Not always, though. ({{HBP}} - Chapter 4)</ref>
+|loyalty=[[Zabini family]]
+}} 
+{{Quote|Zabini, who was interrogated after McLaggen, turned out to have a famously beautiful witch for a mother (from what Harry could make out, she had been married seven times, each of her husbands dying mysteriously and leaving her mounds of gold).|Description.|Harry Potter and the Half-Blood Prince}}
+'''Mrs Zabini''' (fl. [[1980]]) was a [[Wizardkind|witch]] and the mother of [[Blaise Zabini]]. She was famously beautiful, and married [[Blaise Zabini's mother's seven husbands|seven wizards]] who each died in mysterious circumstances, leaving her with a large amount of gold from each.<ref name="Money">"''Zabini, who was interrogated after McLaggen, turned out to have a famously beautiful witch for a mother (from what Harry could make out, she had been married seven times, each of her husbands dying mysteriously and leaving her mounds of gold).''" ({{HBP}} - Chapter 7)</ref> Her fame was known to [[Horace Slughorn]], who invited her son to his compartment on the [[Hogwarts Express]] for that reason.<ref name="Reason">'''[[Harry Potter]]''': Better reason for inviting someone than because their mother's famous. ({{HBP}} - Chapter 7)</ref>
+==Behind the scenes==
+*It is unknown if Zabini was her maiden name or one of her married names.
+*It is speculated that she [https://en.wikipedia.org/wiki/Mariticide killed each of her husbands], to gain their inheritance. 
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Zabini, Blaise's mother}}
+[[de:Mrs Zabini]]
+[[de2:Blaise Zabinis Mutter]]
+[[fr:Mère de Blaise Zabini]]
+[[pl:Matka Blaise'a Zabiniego]]
+[[vi:Mẹ của Blaise Zabini]]
+[[Category:British individuals|Zabini, Ms.]]
+[[Category:Females|Zabini, Ms.]]
+[[Category:Unnamed family members‎]]
+[[Category:Widowed individuals|Zabini]]
+[[Category:Wizards|Zabini]]
+[[Category:Zabini family]]
+[[Category:Parents]]

@@ -1,0 +1,48 @@
+{{Individual infobox
+|name = Fridwulfa
+|died = Between [[1931]] and [[1995]]<ref name="death">Fridwulfa left [[Rubeus Hagrid's father|Mr Hagrid]] and [[Rubeus Hagrid]] in [[1931]], so died sometime between that date and [[1996]], with [[Grawp]] being born sometime between [[1931]] and [[1995]].</ref>
+|species = [[Giant]]<ref name="GOF24"/>
+|gender = Female<ref name="GOF24"/>
+|family = *[[Rubeus Hagrid's father|Mr Hagrid]] (ex-husband) †<ref name="OOTP20"/>
+*[[Rubeus Hagrid]] (son)<ref name="OOTP20"/>
+*[[Grawp]] (son)<ref name="OOTP30"/>
+*[[Grawp's father]] (mate)<ref name="OOTP30"/>
+|loyalty = *[[Hagrid family]]<ref name="OOTP20"/>
+*[[Giant colony]]<ref name="OOTP20"/>
+|theme = giant
+}}
+{{Quote|Can't remember her much. Wasn' a great mother.|[[Rubeus Hagrid]] describing his mother|Harry Potter and the Order of the Phoenix}}
+'''Fridwulfa''' was a [[giant]]ess and the mother of the [[Half-giant]] [[Rubeus Hagrid]] and the giant [[Grawp]].<ref name="GOF24">{{GOF|B|24}}</ref>
+
+==Biography==
+In [[1928]], Fridwulfa bore a child with [[Rubeus Hagrid's father|Mr Hagrid]], but deserted him and her son, [[Rubeus Hagrid|Rubeus]], when he was three years old. She returned to the [[Giant]]s, and bore another child, [[Grawp]], by [[Grawp's father|another]] [[giant]].<ref name="OOTP30">{{OOTP|B|30}}</ref> She died years before the events of the [[Second Wizarding War]].<ref name="OOTP20"/>
+
+The reason she deserted Rubeus was that he was "small" in size, and Giants prefer to produce large-sized children. The same disappointment went to her second son, Grawp. For her desertion, Mr Hagrid was heartbroken and Rubeus didn't remember her much except for not being a great mother.<ref name="OOTP20">{{OOTP|B|20}}</ref>
+
+==Behind the scenes==
+*In [[1995]], when [[Rita Skeeter]] published an article on Hagrid's half-giant ancestry, she mentioned Fridwulfa by name, even though no one (aside from Hagrid, who had told her to leave) knew it. It is possible this may have been information that Skeeter somehow picked up while spying in her [[animagus]] form as a [[beetle]].
+*Rita Skeeter seems to insinuate in her article that Fridwulfa was among those who fought for Voldemort's side during the [[First Wizarding War]], though there is no evidence to support this. It's unknown if this is true as Hagrid claims that she left when he was three, nearly four decades before the war even began.
+*Fridwulfa was the first giant named in the books, and is, to date, the only giantess named in canon.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{GOF|F}} {{Mention}}
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Giants}}
+[[fr:Fridluva]]
+[[ru:Фридвульфа]]
+[[de:Fridwulfa]]
+[[de2:Fridwulfa]]
+[[en:Fridwulfa]]
+[[fi:Fridwulfa]]
+[[no:Fridwulfa]]
+[[pl:Frydwulfa]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Giants]]
+[[Category:Hagrid family]]
+[[Category:Married individuals]]
+[[Category:Parents]]

@@ -1,0 +1,93 @@
+{{Individual infobox
+|theme = death-eater
+|image = 
+|name = Evan Rosier
+|born = Between [[1953]] and [[1966]] (most likely)<ref name="birthschool">{{GOF|B|27}} - "“Snape knew more curses when he arrived at school than half the kids in seventh year, and he was part of a gang of Slytherins who nearly all turned out to be Death Eaters.” Sirius held up his fingers and began ticking off names. “Rosier and Wilkes — they were both killed by Aurors the year before Voldemort fell." Snape attended Hogwarts 1971-1978 so Evan could be born as early as 1953 and as late as 1966 to have an overlapping year with him. There is a possibility that he was in a repeat year when met Snape.</ref>
+|died = Late [[1980]] - late [[1981]]<ref name="died">{{GOF|B|27}} - "“Rosier and Wilkes — they were both killed by Aurors the year before Voldemort fell."</ref>
+|blood = [[Pure-blood]] or [[Half-blood]]<ref>{{WW|pure-blood}} The Rosiers were a pure-blood family named in the Sacred Twenty-Eight pure-blood directory, so it is likely he was a pure-blood or possibly half-blood, like the many half-bloods on the pure-blood Malfoy tree. See {{WW|the-malfoy-family}}</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GoF30"/>
+|gender = Male<ref name="GoF30"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Vinda Rosier]] (possibly)
+*[[Rosier (male)|Rosier]]<ref name="HBP20">{{HBP|B|20}}</ref> (possible father)
+*[[Felix Rosier]] (possibly)
+*[[Druella Black|Druella Rosier]] (possibly)
+*[[Rosier family]]<ref name="GoF30"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html "J.K. Rowling and the Live Chat, Bloomsbury.com, 30 July, 2007 (2.00-3.00pm BST)"]" at [http://www.accio-quote.org/index.html AccioQuote.org]</ref>
+|job = 
+|house = [[Slytherin]]<ref name="birthschool"/>
+|loyalty = *[[Rosier family]]<ref name="GoF30"/>
+*[[Death Eaters]]<ref name="GoF30"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GoF30"/>
+**[[Slytherin]]<ref name="birthschool"/>
+}}
+{{Dialogue a-b-a|Bartemius Crouch Senior|Any others?|Igor Karkaroff|Why, yes… there was Rosier. Evan Rosier.|Rosier is dead. He was caught shortly after you were too. He preferred to fight rather than come quietly and was killed in the struggle.|[[Council of Magical Law]] interrogation of [[Igor Karkaroff]]|Harry Potter and the Goblet of Fire}}
+
+'''Evan Rosier''' (Between [[1953]] & [[1966]]<ref name="birthschool"/> – c. [[1981]]<ref name="died"/>) was a [[pure-blood]] [[Wizardkind|wizard]], possibly son of [[Rosier]], and a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1970s]]. After graduating from Hogwarts, he became a [[Death Eaters|Death Eater]] of [[Tom Riddle|Lord Voldemort]] and supported him in the [[First Wizarding War]].<ref name="PM">{{PM}} - "Evan Rosier was a wizard, and a supporter of Voldemort during the First Wizarding War."</ref> Towards the end of the war he was pursued by [[Auror]]s and was killed by [[Alastor Moody]] while trying to resist arrest.<ref name="GoF30"/>
+
+==Biography==
+===Early life===
+{{Quote|Snape knew more curses when he arrived at school than half the kids in seventh year, and he was part of a gang of Slytherins who nearly all turned out to be Death Eaters.|[[Sirius Black]] talks about the Slytherin gang that Rosier was a part of|Harry Potter and the Goblet of Fire}}Possibly related to [[Rosier]] or [[Druella Black|Druella]], Evan attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1970s]] and was [[Sorting ceremony|Sorted]] into [[Slytherin]] house. According to [[Sirius Black]], he was part of a [[Gang of Slytherins|group of Slytherins]] and aspiring [[Death Eaters]] which included [[Severus Snape]], as well as [[Wilkes]], [[Avery (Marauder-era)|Avery]]<ref name="GoF27">{{GOF|B|27}}</ref> and [[Mulciber (Marauder-era)|Mulciber]].<ref name="DH33">{{DH|B|33}}</ref> They all entered the service of [[Tom Riddle|Lord Voldemort]] during the height of the [[First Wizarding War]].<ref name="GoF30">{{GOF|B|30}}</ref>
+
+===First Wizarding War and death===
+{{Quote|Took a bit of me with him, though.|[[Alastor Moody]] regarding Rosier's death|Harry Potter and the Goblet of Fire}}During the [[First Wizarding War]], the Death Eaters were fiercely pursued by [[Auror]]s.<ref name="GoF30" /> Evan was eventually caught by famous Auror [[Alastor Moody]] around the same time as one of his comrades, [[Wilkes]]. The two resisted arrest, Rosier even blasting a significant part of Moody's nose off during their [[Duel between Alastor Moody and Evan Rosier|duel]]. Moody defeated and killed Evan.<ref name="GoF30" />
+
+A year later, [[Igor Karkaroff]], while selling out his comrades to the [[Council of Magical Law]] in exchange for his own freedom, named Evan, but was informed of his death, making his naming of Rosier worthless.<ref name="GoF30" /> According to Karkaroff, Evan was among Voldemort's important supporters.
+
+==Personality and traits==
+Little is known about Evan Rosier's personality, except the fact that he chose to resist and try to avoid imprisonment.<ref name="GoF30" /> Rosier was courageous enough to resist capture from the legendary auror Alastor Moody, rather than flee to save his own neck, something that [[Slytherin]]s (such as [[Phineas Nigellus Black]]) called "bravery".<ref name="OP23">{{OOTP|B|23}}</ref> This also shows that Evan was willing to fight to the death if necessary. Furthermore, Rosier likely had a [[pure-blood]] [[Pure-blood supremacy|obsession]] and a passion for the [[Dark Arts]], like most of his fellow Death Eater friends at Hogwarts.<ref name="DH33" />
+
+==Magical abilities and skills==
+*'''[[Martial magic]]''': Evan Rosier was a reasonably skilled [[Duelling|duellist]], as he was capable of duelling with [[Alastor Moody]], a powerful [[Auror]], and badly injuring him, blasting a part of his nose. However, he was killed by Moody during the same duel.<ref name="GoF30" /> Still, the fact that Moody generally tried to avoid killing his enemies when feasible means that Evan likely fought hard enough that he was simply too difficult to capture alive.
+*'''[[Dark Arts]]''': As a Death Eater, Rosier would have been accomplished with dark magic, including the [[Unforgivable Curses]].<ref name="GoF30"/> Given that Alastor Moody was unable to heal the wounds sustained to his nose,<ref name="GoF30"/> it's likely that Evan hit him with a [[Dark charm]], as the injuries caused by those spells were generally difficult to heal.
+
+==Etymology==
+*''Evan'' is a Greek name meaning "of noble birth",<ref>[http://hp-lexicon.info/wizards/death_eaters.html Harry Potter Lexicon: The Death Eaters]</ref> possibly a reference to the belief that [[pure-blood]]s are the wizarding world's aristocracy. It can also be a [[Wikipedia:Evan|Welsh name]] meaning "young warrior", which Evan Rosier was.
+*Rosier is the name of a lesser demon in folklore.
+
+==Behind the scenes==
+*It's likely that he is the son of [[Rosier (male)|Rosier]], one of Lord Voldemort's earliest Death Eaters.
+*Evan also may have been related to [[Druella Black]] née Rosier, and thus to her daughters [[Bellatrix Lestrange|Bellatrix]], [[Andromeda Tonks|Andromeda]], and [[Narcissa Malfoy|Narcissa]], though this is unconfirmed. Given the fact that Evan was born in either the 1950s or the 1960s, Druella would be the right age to be his aunt, so it is likely that Evan is the cousin of Bellatrix, Andromeda and Narcissa. Also, unlike the muggle world where people with the same surname can be totally unrelated, wizards with the same name are, usually, related in someway or another.
+*In the book, Moody remarks on how Rosier had taken a part of his nose with him when they were fighting. However, in the film, Moody points to his eye since his nose was still intact.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{GOF|F}} {{Mention}}
+*{{AM}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+
+{{DEFAULTSORT:Rosier, Evan}}
+[[de:Evan Rosier]]
+[[es:Evan Rosier]]
+[[fr:Evan Rosier]]
+[[ru:Эван Розье]]
+[[fi:Evan Rosier]]
+[[pl:Evan Rosier]]
+[[Category:1980s deaths]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Death Eaters]]
+[[Category:Deceased individuals]]
+[[Category:First Wizarding War casualties]]
+[[Category:Hogwarts students during the Marauders' era]]
+[[Category:Killed by Alastor Moody]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Rosier family|Evan]]
+[[Category:Slytherins]]

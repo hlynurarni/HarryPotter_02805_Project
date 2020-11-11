@@ -1,0 +1,81 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:BowmanWright.png|225px]]
+|name = Bowman Wright
+|born = [[1492]]
+|died = [[1560]] (aged 67-68)
+|blood = [[Half-blood]]<ref>"[http://www.hp-lexicon.org/wizards/card_wizards.html Famous Wizard Cards]" at the [http://www.hp-lexicon.org Harry Potter Lexicon]</ref>
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = Blue
+|skin = White
+|family = *[[Bowman Wright's father|Mr Wright]] (father)
+*[[Bowman Wright's mother|Mrs Wright]] (mother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Metal charmer]]
+|house = 
+|loyalty = [[Quidditch]]
+}}
+'''Bowman Wright''' ([[1492]]-[[1560]]) was a [[half-blood]] [[Wizardkind|wizard]] and a skilled [[metal charmer]] who lived in [[Godric's Hollow]] sometime during the [[Middle Ages]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="JKRS">{{JKRS}}</ref><ref name="QTAR">{{QTA}}</ref>
+
+==Biography==
+Born to a witch [[Bowman Wright's mother|mother]] and a [[Non-magic people|Muggle]] [[Bowman Wright's father|father]], he invented the [[Golden Snitch]] as a replacement for the endangered [[Golden Snidget]], combining his interest in [[science]], [[magic]], and sports.<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="JKRS">{{JKRS}}</ref><ref name="QTAR">{{QTA}}</ref>
+
+==Magical abilities and skills==
+*'''[[Charm]]s''': Being a professional [[Metal charmer]], Bowman was highly gifted and skilful with charm-work, as he was the inventor of the famous [[Golden Snitch]], a [[magic]]al [[Levitation|flying]] object used in [[Quidditch]], casting the necessary charms needed to both craft and enchant the Snitch, which continued to last long after his death, showing his superb proficiency in this field of [[magic]].
+
+==Etymology==
+The English "wright" is a word referring to a skilled craftsman.
+
+==Behind the scenes==
+*The dates given for Bowman's birth and death on his Famous Wizard Card (1492-1560) do not agree with the timeframe laid down in {{QTA|R}}, which would indicate that he was alive towards the end of the [[1300s]].
+*Bowman shares the same last name as [[Bonnie Wright]], who portrays [[Ginevra Weasley|Ginny Weasley]] in the ''Harry Potter'' films. Incidentally, Bonnie Wright's parents, Gary Wright and Sheila Teague, are both jewellers.
+
+==Appearances==
+{{Imagecat|Images of Bowman Wright}}[[File:Bowman_Wright-35-chocFrogCard.png|thumb|Bowman immortalised on a silver [[Chocolate Frog Card]]]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{DH}} {{Mention}}
+*{{QTA|R}}
+*{{JKRS}}
+*{{PM}} {{FWC}}
+*{{HM}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Wright, Bowman}}
+
+[[de:Bowman Wright]]
+[[fr:Bowman Wright]]
+[[pl:Bowman Wright]]
+[[fi:Bowman Wright]]
+[[it:Bowman Wright]]
+[[ru:Боумен Райт]]
+[[es:Bowman Wright]]
+[[sv:Bowman Wright]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Godric's Hollow residents]]
+[[Category:Half-bloods]]
+[[Category:Historical figures]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]
+[[Category:Wright family]]

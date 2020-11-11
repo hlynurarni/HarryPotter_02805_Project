@@ -1,0 +1,74 @@
+{{Conjecture}}
+{{Family infobox
+|image=[[File:Spider drop.gif|thumb|250px]]
+|name=Forbidden Forest Acromantula colony
+|hideh=
+|status= Extant 
+|blood=
+|family members=*[[Aragog]] (father) †<ref name="COS15"/>
+*[[Mosag]] (mother) †<ref name="COS15"/>
+*Aragog and Mosag's children<ref name="COS15"/>
+|hider=hide
+|related=
+|hidea=
+|house=
+|loyalty=[[Rubeus Hagrid]] {{Comment|while Aragog and Mosag were alive}}<ref name="COS15"/>
+}}
+{{Quote|I have lived here in the forest ever since, where Hagrid still visits me. He even found me a wife, Mosag, and you see how our family has grown, all through Hagrid's goodness...|Aragog|Harry Potter and the Chamber of Secrets}}
+
+A '''colony''' of [[Acromantula]]s was established deep in the [[Forbidden Forest]] by [[Rubeus Hagrid]], at [[Hogwarts School of Witchcraft and Wizardry]] in [[1943]]. The area of the forest inhabited by the colony is considered unsafe for humans and is rarely visited by them.<ref name="COS15"/>
+
+==History==
+===Establishment of the colony===
+The colony was established in [[1943]], when a young [[Rubeus Hagrid]], a third year student at [[Hogwarts School of Witchcraft and Wizardry]], acquired the [[egg]] of an Acromantula from a traveller. He raised the creature in secret, naming it [[Aragog]], feeding it on leftovers. However, during the same year, [[Tom Riddle|Tom Marvolo Riddle]] learned how to open the [[Chamber of Secrets]], and released the [[Salazar Slytherin's basilisk|Basilisk]]. Riddle, finding out about Hagrid and the Acromantula, diverted attention away from himself by blaming the attacks on the spider. Hagrid was expelled, but managed to release Aragog into the Forbidden Forest.<ref name="COS13">{{COS|B|13}}</ref>
+
+===Dealings with Hagrid===
+Aragog lived in the Forbidden Forest, and Hagrid helped him as much as possible. He acquired another Acromantula, a female named [[Mosag]], as a mate for Aragog and the two Acromantulas bred. The growing number of spiders built a [[Aragog's Lair|huge dome web]] in the forest. Hagrid occasionally visited them, and Aragog, grateful for Hagrid's assistance, commanded his children not to attack and eat him.<ref name="COS15"/>
+
+===The re-opening of the Chamber of Secrets===
+[[File:Spidersketch4.jpg|250px|thumb|right|[[Aragog]] and his Acromantula colony attacking [[Harry Potter]] and [[Ronald Weasley|Ron Weasley]]]]
+{{Dialogue a-b-a-b-a-b|Acromantula|Aragog! Aragog!|Aragog|What is it?|Men.|Is it Hagrid?|Strangers.|Kill them. I was sleeping...|The Acromantulas detecting [[human]] presence in their lair|Harry Potter and the Chamber of Secrets}}
+
+In [[1993]], [[Harry Potter]] was directed to the Acromantula colony by Hagrid to learn about what had transpired fifty years previously. The [[Chamber of Secrets]] had been reopened, and Hagrid was unable to tell them of the events leading up to his expulsion since he was placed under arrest and sent to [[Azkaban]] as a prime suspect. Hagrid told Harry and [[Ronald Weasley|Ron Weasley]] to "follow the spiders". The pair did, and Aragog relayed the tale of his birth and what transpired in 1943. However, his orders to his children not to attack Hagrid did not extend to Hagrid's friends. He allowed his children to attack the pair, but the two students were saved by a feral [[Flying Ford Anglia|flying car]].<ref name="COS15">{{COS|B|15}}</ref>
+
+===Death of Aragog===
+{{Quote|Farewell, Aragog, king of arachnids, whose long and faithful friendship those who knew you won’t forget! Though your body will decay, your spirit lingers on in the quiet, web-spun places of your forest home. May your many-eyed descendants ever flourish and your human friends find solace for the loss they have sustained.|Horace Slughorn's eulogy to Aragog|Harry Potter and the Half-Blood Prince}}
+In [[1997]], Aragog became ill and eventually died. The colony, as was their way, intended to devour the corpse. Hagrid, wanting to give him a decent burial, dragged the corpse through the Forest and buried it outside his hut in a [[Funeral of Aragog|small service]] attended by [[Professor]] [[Horace Slughorn]] (who used the opportunity to procure some [[Acromantula venom]]), and [[Harry Potter]]. With Aragog's demise, the colony no longer followed his orders of not to harm Hagrid, much to Hagrid's dismay.<ref name="HBP22">{{HBP|B|22}}</ref>
+
+===The Battle of Hogwarts===
+{{Quote|[[Hermione Granger|Hermione]] screamed, and Harry, turning, did not need to ask why. A monstrous spider the size of a small car was trying to climb through the huge hole in the wall: one of Aragog’s descendants had joined the fight.|One of the Acromantulas participating in the Battle of Hogwarts|Harry Potter and the Deathly Hallows}}
+[[File:Battle of Hogwarts GIF.gif|220x220px|thumb|Acromantulas during Battle of Hogwarts]]
+During the [[Battle of Hogwarts]] in [[1998]], the Acromantulas were driven out of their nest by [[Death Eaters]], who used the nest as a base of operations. The Acromantulas attacked the school, scaling the walls of the castle and attacking both the defenders of Hogwarts and Death Eaters alike. One of them was killed by [[Aberforth Dumbledore]] and another was possibly killed in an explosion.<ref name="DH31">{{DH|B|31}}</ref>
+[[File:An Acromantula during the Battle of Hogwarts.jpg|165px|thumb|An Acromantula being [[Stunning Spell|stunned]] during the battle]]
+Near the climax of the battle, the nest was the location of Harry Potter's stand against [[Tom Riddle|Lord Voldemort]], when he fully intended to sacrifice himself in order to defeat the Dark Lord. Harry also dropped a [[Deathly Hallows|Deathly Hallow]], the [[Resurrection Stone]] near here on his way to turn himself over to Lord Voldemort.<ref name="DH34">{{DH|B|34}}</ref>
+
+What happened to the colony after the battle is unknown. It is possible that many were killed during the battle, but also that they managed to return to their original habitat in the Forbidden Forest, once the Death Eaters had abandoned it, and continued to live and breed there.
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}}
+*{{HBP}} {{Mention}}
+*{{HBP|F}} {{Mention}}
+*{{HBP|G}} {{Mention}}
+*{{DH}}
+*{{DH|F2}}
+*{{DH|G2}} {{Mention}}
+*{{HPFJ}}
+*{{LEGO|B}}
+*{{LEGO|C}} {{Mention}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{PM}}
+*{{WW}} {{Mention}}
+*{{HPV|CR}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Colonie d'Acromentules de la Forêt interdite]]
+[[ru:Акромантулы Запретного леса]]
+[[pt-br:Colônia de Acromântulas da Floresta Proibida]]
+[[Category:Acromantulas]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Forbidden Forest]]

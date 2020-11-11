@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Jordan
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Lee Jordan]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]] (likely)<ref name="House">[[Horace Slughorn]]: You'll be Gryffindor like her, I suppose? Yes, it usually goes in families. Not always, though. ({{HBP}} - Chapter 4)</ref>
+|loyalty = [[Jordan family]]
+}}
+{{Quote|Lee Jordan's dad had had a bit of trouble getting money off Bagman as well. Turns out he's in big trouble with the goblins. Borrowed loads of gold off them.|[[George Weasley]]|Harry Potter and the Goblet of Fire}}
+'''Mr Jordan''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and the father of [[Lee Jordan]]. He had difficulty getting [[Ludovic Bagman|Ludo Bagman]] to give him the money he was owed, after winning a bet with him.<ref name="GOF37">{{GOF|B|37}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+==Notes and references==
+{{Reflist}}[[fr:Père de Lee Jordan]]
+[[pl:Pan Jordan]]
+{{DEFAULTSORT:Jordan, Lee's father}}
+[[Category:British individuals|Jordan]]
+[[Category:Jordan family]]
+[[Category:Males|Jordan]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

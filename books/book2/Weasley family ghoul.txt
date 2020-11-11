@@ -1,0 +1,60 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = Weasleyghoul.jpg
+|name = Weasley family ghoul
+|born = Pre [[1991]]
+|died = 
+|alias = [[Ronald Weasley]]<ref name="DH6"/>
+|title = 
+|species = [[Ghoul]]<ref name="COS3"/>
+|gender = Male<ref name="COS3"/><ref name="DH6"/>
+|height = 
+|hair = Yellow
+|feathers = 
+|eyes = 
+|skin = Greenish
+|family = 
+|loyalty = [[Weasley family]]<ref name="COS3"/>
+}}
+The '''Weasley family ghoul''' was a male [[Ghoul]] that lived in the attic at [[the Burrow]]. Considered to be more of a pet than a pest by the [[Weasley family|Weasleys]], the [[Ghoul]] was largely ignored and left to its own devices, although it did bang on the pipes and groan/howl when it felt the house was too quiet.<ref name="COS3">{{COS|B|3}}</ref>
+
+==Biography==
+===1992===
+[[File:Weasley Ghoul.jpg|250px|thumb|The Weasley family Ghoul]] 
+In the summer of [[1992]], [[Harry Potter]], came to stay at [[The Burrow]] for the first time with the Weasleys, and was informed of the resident Ghoul by Ron, whose bedroom was located under the Attic, although this not bother Harry, who instantly loved their eccentric home. During his stay, the Ghoul would sometimes bang the pipes and groan and howl, whenever it felt the house was too quiet.<ref name="COS3"/> During his stay, Harry found some chains that belonged to the Weasleys' ghoul. He returned the chains to the ghoul, who repaid Harry by giving him a [[Chocolate Frog Card]] he had found.<ref name="COSG">{{COS|G}}</ref>
+
+Harry also assisted [[Ronald Weasley]] in calming down the ghoul when it was incessantly tossing pipes everywhere, a task set for him by [[Molly Weasley|his mother]]. To accomplish this, Harry and Ron sneaked into the attic by way of an open window (both to avoid Ron's angry mother and in case the ghoul had locked the attic door) and caught a number of the pipes in an old chest. Eventually, the ghoul became frustrated and escaped into a nearby dresser.<ref name="COSG"/>
+
+Later that year, Molly threatened to set the family Ghoul on the ''[[Daily Prophet]]'' reporters who had come to ask about her husband's inquiry at work because of his [[Flying Ford Anglia]].<ref name="COS12">{{COS|B|12}}</ref>
+
+===1997===
+[[File:The Ghoul in Pyjamas.png|250px|thumb|The transfigured Weasley Ghoul sleeping]]
+In [[1997]], Ron came up with a plan to use the ghoul in his plans to assist [[Harry Potter]] and [[Hermione Granger]] and himself search for [[Tom Riddle|Lord Voldemort]]'s [[Horcrux]]es. Since he would not be at school and did not want to endanger his family, he convinced his brothers, [[Fred and George Weasley|Fred and George]], to help him [[Transfiguration|transfigure]] the ghoul so it looked more human and dress it in pyjamas. He gave it boils so it looked like he had [[Spattergroit]]. [[Arthur Weasley]] also helped, albeit without the knowledge of his wife.<ref name="DH6">{{DH|B|6}}</ref>
+
+Ron's plan called for the ghoul to take up residence in his room while he was away. The Transfiguration also made the ghoul appear to have [[Spattergroit]], a highly contagious disease. It was Ron's hope that this would convince any [[British Ministry of Magic|Ministry]] officials or [[Death Eaters]] that he was seriously ill, since no [[Wizardkind|wizard]] would risk getting close.<ref name="DH6"/>
+
+The plan worked, to a certain point. After being interrogated following the [[Fall of the Ministry of Magic|fall of the Ministry]] on 1 August, the [[Weasley family|Weasley]] file kept by [[Dolores Umbridge]] noted that Ron was seriously ill and confined to his bed.<ref name="DH13">{{DH|B|13}}</ref> He narrowly missed detection when he temporarily abandoned Harry and Hermione and was caught by [[Snatchers]]; he told them that he was [[Stanley Shunpike|Stan Shunpike]] and then managed to escape.<ref name="DH19">{{DH|B|19}}</ref> Another close call came when Ron, Harry, and Hermione were ambushed at the [[Lovegood House]]; Hermione threw Harry's [[Cloak of Invisibility|Invisibility Cloak]] over Ron as they escaped so that Death Eaters [[Selwyn]] and [[Travers]] did not see him.<ref name="DH21">{{DH|B|21}}</ref>
+===1998===
+However, after Harry accidentally broke the [[Taboo]] on Voldemort's name in [[1998]], the Death Eaters learned that Ron was with Harry; the rest of the [[Weasley family|Weasleys]] were forced into hiding and prevented from going to their jobs.<ref name="DH23">{{DH|B|23}}</ref>
+
+==Appearances==
+[[File:Ghoul.png|thumb|The Ghoul disguised as [[Ronald Weasley]] in {{LEGO|Y2}}]]
+*{{COS}} {{1st Mention}}
+*{{COS|G}} {{1st}} {{C|GBC and PS1 versions only}}
+*{{DH}}
+*{{LEGO|Y2}} {{C|Downloadable character pack}}
+*{{TCG}}
+*{{PM}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Goule de la famille Weasley]]
+[[ru:Упырь Уизли]]
+[[Category:British individuals]]
+
+[[Category:Ghouls]]
+[[Category:Horcrux hunt]]
+[[Category:Males]]
+[[Category:Weasley family pets]]

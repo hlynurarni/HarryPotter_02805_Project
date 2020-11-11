@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Riddles' cook
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="GOF1"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="GOF1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF1"/>
+|gender = Female<ref name="GOF1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Cook for the [[Riddle family]] (formerly)<ref name="GOF1"/>
+|house = 
+|loyalty = [[Riddle family]] (formerly)<ref name="GOF1"/>
+}}
+{{Quote|Always thought he was odd. Unfriendly, like. I'm sure if I've offered him a cuppa once, I've offered it a hundred times. Never wanted to mix, he didn't.|The cook regarding [[Frank Bryce]]|Harry Potter and the Goblet of Fire}}
+The '''Riddles' cook''' (fl. [[1943]]) was a [[Non-magic people|Muggle]] woman who served as a cook in the [[Riddle House]], before her [[Riddle family|masters]] were murdered.<ref name="GOF1"/>
+
+==Biography==
+===Cook for the Riddles===
+This woman served the [[Riddle family]] in the capacity of a cook. She probably lived in the [[Riddle House]] along with other employees. She tried many times to get acquainted with fellow employee [[Frank Bryce]], but the man turned her down, preferring solitary work.<ref name="GOF1">{{GOF|B|1}}</ref>
+
+===The Riddle Murders===
+Many town residents gathered at [[The Hanged Man]] to gossip on the night the [[Riddle family|Riddles]] were murdered in [[1943]]. It was her who brought the news about the arrest of the Riddles' gardener, [[Frank Bryce]], after quite a dramatic entrance, and was subsequently bought more and more [[Sherry|sherries]] by the pub patrons, eager to hear more. She suspected Bryce did it, pointing out how easily he could have done it, since he had a set of spare keys to the [[Riddle House|house]], and there was no evidence of a forceful entry.<ref name="GOF1"/>
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[es:Cocinera de los Riddle]]
+[[fr:Cuisinière des Jedusor]]
+[[pl:Kucharka Riddle'ów]]
+[[pt-br:Cozinheira dos Riddle]]
+[[ru:Кухарка Реддлов]]
+[[Category:British individuals]]
+[[Category:Cooks]]
+[[Category:Females]]
+[[Category:Riddle House employees|Cook]]
+[[Category:Unidentified Muggles]]

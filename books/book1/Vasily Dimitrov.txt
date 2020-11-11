@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Vasily Dimitrov.png]]
+|name = Vasily Dimitrov
+|born = before [[1977]], [[Bulgaria]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Bulgaria]]n
+|alias = 
+|title = *[[Chaser]]
+*Captain
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Green
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] and Captain for the [[Bulgarian National Quidditch team]] (formerly)
+|house = 
+|loyalty = [[Bulgarian National Quidditch team]]
+}}
+'''Vasily Dimitrov''' was a [[Bulgaria]]n [[wizardkind|wizard]] who played as a [[Chaser]] for the [[Bulgarian National Quidditch team]] during the [[1994]] [[Quidditch World Cup]]. He was also the team's [[Quidditch Captain|Captain]].<ref>{{QWC}}</ref>
+
+During the [[1996–1997 school year]], Dimitrov's [[Chocolate Frog Card]] could be won by beating [[Luke Cholderton]] at a [[Quidditch]] challenge.<ref>{{HBP|G}} {{C|NDS edition}}</ref>
+
+==Behind the scenes==
+*This character is known only by his surname in the [[Harry Potter (book series)|books]]. His first name is given as "Vasily" on a [[Chocolate Frog Card|Famous Wizard Card]] in the [[Harry Potter and the Half-Blood Prince (video game)|video game adaptation]] of {{HBP}}.
+*The Bulgarian variation of the name would be Vasil.
+
+==Appearances==
+*{{GOF}}
+*{{GOF|F}}
+*{{QWC}}
+*{{HBP|G}} {{C|NDS edition}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Dimitrov, Vasily}}
+[[de:Dimitrow]]
+[[fr:Dimitrov]]
+[[pl:Wasilij Dymitrow]]
+[[Category:20th century births]]
+[[Category:Bulgarian individuals]]
+[[Category:Chasers]]
+[[Category:Green-eyed individuals]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Wizards]]

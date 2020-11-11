@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Tiberius Ogden
+|born = before [[1977]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Bob Ogden]] (possibly)
+*[[Ogden]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Worker for the [[Wizengamot]]
+|house = 
+|loyalty = *[[Wizengamot]] (formally)
+*[[Ogden family]]
+*[[British Ministry of Magic|Ministry of Magic]]
+}}
+'''Tiberius Ogden''' was a former member of the [[Wizengamot]] (described as an elder member), but resigned in protest due to [[Cornelius Fudge]]'s appointment of [[Dolores Umbridge]] as [[Hogwarts High Inquisitor|High Inquisitor]] at [[Hogwarts School of Witchcraft and Wizardry]] and the continuing [[Campaign to discredit Albus Dumbledore and Harry Potter|campaign]] by the [[British Ministry of Magic|Ministry of Magic]] and the [[Daily Prophet]] to discredit [[Albus Dumbledore]] and [[Harry Potter]].<ref>{{OOTP|B|15}}</ref>
+
+Tiberius Ogden was the friend who told Professor [[Tofty]], [[Harry Potter]]'s [[Defence Against the Dark Arts]] [[Ordinary Wizarding Level|O.W.L.]] Examiner, that he could perform a corporeal [[Patronus Charm|Patronus]].<ref>{{OOTP|B|31}}</ref>
+
+He may be related to the makers of [[Ogden's Old Firewhiskey]] or [[Bob Ogden]], who also worked for the Ministry of Magic as the Head of the [[Magical Law Enforcement Patrol]].
+
+==Behind the scenes==
+
+Tiberius Ogden may have been the same person as [[Cormac McLaggen]]'s Uncle [[Tiberius]], as mentioned by [[Horace Slughorn]] in {{HBP}}.
+
+==Etymology==
+The name "Tiberius" is a Roman praenomen, or given name, meaning "of the Tiber" in Latin. The Tiber is the river that runs through Rome. Tiberius was the second Roman emperor, the stepson of emperor Augustus.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 10 employees}}
+{{DEFAULTSORT:Ogden, Tiberius}}
+[[de:Tiberius Ogden]]
+[[es:Tiberius Ogden]]
+[[fr:Tiberius Ogden]]
+[[pl:Tyberiusz Ogden]]
+[[ru:Тиберий Огден]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ogden family]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

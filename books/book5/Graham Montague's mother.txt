@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Montague
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Graham Montague's father|Husband]]
+*[[Graham Montague]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Montague family]]
+}}
+'''Mrs Montague''' was the mother of [[Graham Montague]].<ref name="OOTP30"/>
+
+==Biography==
+She and her husband, [[Graham Montague's father|Mr Montague]], visited [[Hogwarts School of Witchcraft and Wizardry]] in [[1996]] after their son was finally freed from a prolonged entrapment inside the [[Vanishing Cabinet]] in [[1996]]. [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] saw them arrive at the school looking furious through the window of the [[Charms (class)|Charms]] classroom.<ref name="OOTP30">{{OOTP|B|30}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Montague, Graham's mother}}
+
+[[es:Madre de Graham Montague]]
+[[fr:Parents de Graham Montague]]
+[[ru:Миссис Монтегю]]
+[[pl:Pani Montague]]
+[[Category:British or Irish individuals|Montague's mother]]
+[[Category:Females|Montague's mother]]
+[[Category:Married individuals]]
+[[Category:Montague family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

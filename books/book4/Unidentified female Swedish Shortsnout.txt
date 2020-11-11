@@ -1,0 +1,31 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:ShortSnout.jpg|250px]]
+|name = Unidentified female Swedish Short-Snout
+|born = Pre [[1994]]
+|died = 
+|alias = 
+|title = 
+|species = [[Dragon]] ([[Swedish Short-Snout]])
+|gender = Female
+|height = 
+|hair = None
+|feathers = 
+|eyes = Yellow
+|skin = Black
+|family = 
+|loyalty = 
+}}
+This '''unidentified Swedish Short-Snout ''' was the female [[dragon]] that [[Cedric Diggory]] had to get by in the [[Triwizard Tournament|First Task]] of the [[1994]] [[Triwizard Tournament]].<ref>{{GOF|B|20}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}} {{Mention}}
+*{{HPV|CR}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Suédois à museau court du Tournoi des Trois Sorciers]]
+[[Category:Articles with conjectural titles]]
+[[Category:Females]]
+[[Category:Triwizard Tournament dragons|Swedish]]

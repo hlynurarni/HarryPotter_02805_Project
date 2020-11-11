@@ -1,0 +1,25 @@
+{{Conjecture}}
+{{Object_infobox
+|name=Dummy at Purge and Dowse
+|usage=Directs [[Wizardkind|wizards and witches]] to [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22">{{OOTP|B|22}}</ref>
+|owners=[[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22">{{OOTP|B|22}}</ref>
+}}
+{{Quote|"Right," said [[Nymphadora Tonks|Tonks]], beckoning them towards a window displaying nothing but a particularly ugly female dummy. Its false eyelashes were hanging off and it was modelling a green nylon pinafore dress. "Everybody ready?" They nodded, clustering around her. [[Alastor Moody|Moody]] gave [[Harry Potter|Harry]] another shove between the shoulder blades to urge him forward and Tonks leaned close to the glass, looking up at the very ugly dummy, her breath steaming up the glass. "Wotcher… [[Weasley family|We]]'re here to see [[Arthur Weasley]]."|Harry and the Weasleys visit St Mungo's.|Harry Potter and the Order of the Phoenix}}
+
+This '''dummy''' is a [[magic]]al female doll in a dress that sits at the window of [[Purge and Dowse, Ltd]], which leads to [[St Mungo's Hospital for Magical Maladies and Injuries]]. To enter the hospital, a witch or wizard must declare to the dummy their reason for visitation. [[Harry Potter]] thought it looked particularly ugly.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+==Etymology==
+*"Dummy" is another term for "[[Wikipedia:Mannequin|mannequin]]".
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+
+[[es:Maniquí en Purge y Dowse S.A]]
+[[pl:Manekin kobiety]]
+[[ru:Стрём]]
+[[Category:Objects with Personality]]
+[[Category:St Mungo's]]

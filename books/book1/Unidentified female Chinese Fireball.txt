@@ -1,0 +1,31 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:HP_ChineseFireball.jpg|250px]]
+|name = Unidentified female Chinese Fireball
+|born = Pre [[1994]]
+|died = 
+|alias = 
+|title = 
+|species = [[Dragon]] ([[Chinese Fireball]])
+|gender = Female
+|height = 
+|hair = None
+|feathers = 
+|eyes = Yellow
+|skin = Scarlet
+|family = [[Unidentified Chinese Fireball's child|Child]]
+|loyalty = 
+}}
+This '''unidentified female Chinese Fireball''' was the [[dragon]] [[Viktor Krum]] had to get past in the [[Triwizard Tournament|First Task]] of the [[1994]] [[Triwizard Tournament]]. Krum used the [[Conjunctivitis Curse]] on the dragon in his attempt to capture the [[golden egg]]. However, in its agony, the Fireball stomped around, squashing half of its real [[Dragon egg|eggs]] and causing Krum to have points deducted by the judges.<ref>{{GOF|B|20}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}} {{Mention}}
+*{{HPV|CR}}
+
+==Notes and references==
+{{Reflist}}[[fr:Boutefeu chinois du Tournoi des Trois Sorciers]]
+[[Category:Articles with conjectural titles]]
+[[Category:Females]]
+[[Category:Triwizard Tournament dragons|Chinese]]
+[[Category:Yellow-eyed individuals]]

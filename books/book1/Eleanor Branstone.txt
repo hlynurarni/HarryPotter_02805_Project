@@ -1,0 +1,86 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Eleanor Branstone
+|born = between [[1 September]] [[1982]] and [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+'''Eleanor Branstone''' was a witch who started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]], and was [[Sorting ceremony|Sorted]] into [[Hufflepuff]].<ref>{{GOF|B|12}}</ref> Eleanor would share a dormitory with [[Laura Madley]] who was also sorted into Hufflepuff that year.
+
+==Etymology==
+*Eleanor is from the Greek and means "light".
+*Branstone is a descriptive name and may mean her ancestors either made grinding stones for mills or lived near a place that made them.{{fact}}
+==Behind the scenes==
+===Translations===
+*Afrikaans: ''Elna Bruwer''
+*Bulgarian: ''Елинор Бранстоун {{c|Elinor Branstoun}}''
+*Chinese (PRC): ''埃莉诺·布兰斯通''
+*Chinese (Taiwan): ''埃莉諾·布蘭東''
+*Dutch: ''Lena Braafjens''
+*Finnish: ''Eleanor Brandstone''
+*Hebrew: ''אלנור בראנסטון''
+*Japanese: ''エレノア・ブランストーン''
+*Lithuanian: ''Eleonora Brenstoun''
+*Norwegian: ''Ellen Brannemann''
+*Portuguese: ''Elanor Branstone''
+*Russian: ''Элеонора Брэнстоун''
+*Serbian: ''Еленор Бренстоун {{c|Elenor Brenstoun}}''
+
+The following languages are the same as the original:
+{|
+|
+*Croatian
+*Danish
+|
+*Faroese
+*French
+|
+*German
+*Polish
+|
+*Spanish
+*Swedish
+|}
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Branstone, Eleanor}}
+
+[[de:Eleanor Branstone]]
+[[es:Eleanor Branstone]]
+[[fr:Eleanor Branstone]]
+[[no:Ellen Brannemann]]
+[[pl:Eleanor Branstone]]
+[[ru:Элеонора Брэнстоун]]
+[[zh:埃莉诺·布兰斯通]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

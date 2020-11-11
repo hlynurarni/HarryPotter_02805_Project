@@ -1,0 +1,130 @@
+{{Spoiler|WU|HM}}
+{{Object infobox
+|name = Hogwarts Express
+|image = [[File:Hogwarts Express PM.png|250px]]
+|location = 
+|manufacturer = *[[Non-magic people|Muggle]] railway workers at [[Crewe]]
+*[[British Ministry of Magic|Ministry of Magic]] workers (magic fitting)
+|made = Pre [[1830]]<ref name="Act1Scene11">{{CC|B|1|11}}</ref>
+|usage = Transports students to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|owners = [[Hogwarts Express Railway Authorities]]
+}}
+{{Quote|The Hogwarts Express is a 4-6-0 Hall Class steam locomotive model number [[GWR]] 5900. It is quite impressive.|[[Hogwarts Express conductor]]|The Wizarding World of Harry Potter}}
+The '''Hogwarts Express''' is the name of the train that ran between [[London]] [[King's Cross Station]] [[Platform Nine and Three-Quarters|Platform 9¾]] and [[Hogsmeade station]]. It made this run about six times a year, maybe more, as needed. The Express dutifully carried students to and from [[Hogwarts School of Witchcraft and Wizardry]] at the start and end of every term.  
+
+The train left Platform 9¾ without fail every 1 September at 11 o'clock in the morning, arriving at [[Hogsmeade station]] in the early evening. Some students took the train back to [[King's Cross Station]] to go home for the Christmas and Easter holidays, but some did not, as they stayed at Hogwarts. It also made the run back again to London at the end of term in June. 
+
+==History==
+{{Quote|A daring and controversial solution to the thorny problem was finally suggested by Minister for Magic [[Ottaline Gambol]], who was much intrigued by Muggle inventions and saw the potential in trains. |How the Hogwarts Express came to be|Pottermore}}
+[[File:The Hogwarts Express.jpg|236x236px|thumb|The Hogwarts Express as it crosses the British countryside]]
+As we know from early historical accounts, and from the evidence of early woodcuts and engravings, Hogwarts students used to arrive at school in any manner that caught their fancy.<ref name="pottermore">{{WW|the-hogwarts-express}} (transcription available [http://archive.is/20130109120503/pottermorespoilers.tumblr.com/post/9724970993/history-the-hogwarts-express here])</ref> Some rode [[broomstick]]s (a difficult feat when carrying trunks and pets); others commandeered enchanted carts and, later, carriages; some attempted to [[Apparition|Apparate]] (often with disastrous effects, as the castle and grounds had always been protected with [[Anti-Apparition Charm]]s), others rode a variety of magical creatures.<ref name="pottermore" />
+
+[[File:Flying to Hogwarts.png|246x246px|thumb|left|The Hogwarts Express]]
+
+In [[1827]], [[Ottaline Gambol]] rose to the office of [[Minister for Magic]], and she made a daring and controversial suggestion to solve the ages-old problem of how to transport hundreds of students to and from [[Hogwarts Castle]] every school year without attracting the Muggles' attention. Intrigued by [[Non-magic people|Muggle]] technology, the Minister saw the potential of using a Muggle steam locomotive as a secure and comfortable alternative to [[Portkey]]s or to unregulated means of travel. The locomotive for the Hogwarts Express itself was originally built by the Muggle engineers at [[Crewe]], in {{wplink|Cheshire}}, [[England]],<ref name="pottermore" /> in the early-to-mid [[19th century]]. 
+
+[[File:Hogwarts Express terminal (concept artwork).jpg|225x225px|thumb|Hogsmeade Station]]
+
+In [[1830]],<ref name="Act1Scene11" /> the [[British Ministry of Magic|Ministry of Magic]] conducted a [[Ministry of Magic operation to acquire the Hogwarts Express|large-scale operation]] involving one hundred and sixty-seven [[Memory Charm]]s, as well as the biggest [[Concealment Charm]] ever performed in Britain, in order to acquire the locomotive. The morning after this operation, the residents of [[Hogsmeade]] awoke to find the gleaming red Hogwarts Express and a [[Hogsmeade station|Hogsmeade railway station]] that had not been there previously, and the Muggle railway employees in [[Crewe]] had the feeling they had misplaced something, which stayed with them for the rest of the year.<ref name="pottermore" /> There was initial resistance from [[pure-blood]] families against using a Muggle-built device for wizard transportation (which, they claimed, was "unsafe, insanitary, and demeaning"), until the Ministry decreed that students would arrive to school on the train or not attend at all.<ref name="pottermore" />
+
+There is no information on where exactly [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] students were travelling from during the period after the acquisition of the Hogwarts express and the creation of the [[Hogsmeade station]] and before the opening of [[King's Cross Station]] and the [[Platform Nine and Three-Quarters]] in the [[1850s]].<ref name="kingscrossstation">{{WW|kings-cross-station}}</ref>
+
+[[File:Trio meet.jpg|245x245px|thumb|The trio meet for the first time on the Hogwarts Express]]
+
+It was on the Hogwarts Express that [[Harry Potter]] first made the acquaintance of [[Ronald Weasley]] in [[1991]], and first met many of the other people who played significant roles in his life, including [[Hermione Granger]], [[Neville Longbottom]], [[Fred Weasley]], [[George Weasley]] and, in later years, [[Remus Lupin]] and [[Luna Lovegood]]. The second confrontation between Harry and [[Draco Malfoy]] occurred on the train on the way to Hogwarts when Draco sneered at Ron and offered Harry his friendship. Harry turned down Draco's offer abruptly, marking the beginning of a long-standing enmity and hatred between the two boys.<ref name="PS6">{{PS|B|6}}</ref>
+
+[[File:Hogwarts express 1.gif|183x183px|thumb|The Hogwarts Express in 1996]]
+
+Harry had his first encounter with a [[Dementor]] on the Hogwarts Express in [[1993]]; the train had been stopped by the creatures to determine if escaped criminal [[Sirius Black]] was on board.<ref name="POA5">{{POA|B|5}}</ref> In [[1996]], Harry and others were invited to a compartment occupied by [[Professor]] [[Horace Slughorn]];<ref name="HBP7">{{HBP|B|7}}</ref> the Express later ferried the students home early after [[Albus Dumbledore]]'s funeral.<ref name="HBP30">{{HBP|B|30}}</ref> In [[1997]] the train was twice stopped en-route to Hogwarts; first by [[Death Eaters]] [[Raid on the Hogwarts Express|searching]] for Harry Potter, where they were met with some resistance from its occupants,<ref name="DHF1">{{DH|F1}}</ref> and the second during the Christmas holidays, when they abducted Luna Lovegood in retaliation for her father's rebellious printings.<ref name="DH21">{{DH|B|21}}</ref>
+
+In [[2017]], Harry, Ginny, Ron, and Hermione took their children to [[Platform Nine and Three-Quarters|Platform 9¾]] where they boarded the train to leave for Hogwarts.<ref name="DHE">{{DH|B|E}}</ref> In one of the old train's compartments, [[Albus Potter]] met [[Scorpius Malfoy]] and, in an ironic reversal of their own fathers, became fast friends. When the two were in their fourth year, and returning to Hogwarts on the train, they managed to jump off it in order to continue with a plan involving a Time-Turner, despite the efforts of the [[Trolley witch]] to stop them.
+
+==Description==
+[[File:Inside_hogwarts_express.jpg|246x246px|thumb|left|Inside a [https://youtu.be/trujl2RXp9g Hogwarts Express compartment]]]
+In striking contrast to [[Great Britain|Britain]]'s {{w|National Rail}} system, the Hogwarts Express took the form of a large red, 4-6-0 steam engine. Originally steam fitted by the [[Non-magic people|Muggle]]s who built it, the Hogwarts Express later ran exclusively on [[magic]].
+
+The passenger carriages held compartments set off a corridor, allowing each compartment to function as a self-contained stage within the larger train. Prefects of the school rode in a separate carriage near the front of the train. The compartments on the train appeared to be lettered; in [[1996]], the [[Slug Club]] met in [[Compartment C]].<ref name="HBP7"/> During the long journey to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], students could enjoy treats from a [[Honeydukes Express|trolley]], such as [[Pumpkin Pasty|Pumpkin Pasties]] and [[Chocolate Frog]]s; in addition, there was also a [[Buffet Car]].
+
+[[File:Hogwarts express.jpg|222px|thumb|Logo on the tender of the locomotive]]
+
+There were usually no adults aboard the Hogwarts Express except the [[trolley witch]] and the [[Hogwarts Express conductor|driver]]. Occasionally new teachers (such as [[Remus Lupin]] and [[Horace Slughorn]]) could be found aboard the train as well. According to the trolley witch, the train "doesn't take kindly to students who try to leave when it is moving", possibly implying that it had some form of sentience.
+
+==Behind the scenes==
+[[File:HogwartsExpressWU.png|thumb|The Hogwarts Express as seen in {{WU}}]][[File:Brilliant_Hogwarts_Express_WU.png|thumb|The Hogwarts Express as seen in {{WU}}]]
+*The Hogwarts Express is portrayed in the ''Harry Potter'' films by [[Wikipedia:GWR 4900 Class 5972 Olton Hall|steam locomotive no. 5972 "Olton Hall"]].
+**The Bloomsbury adult editions of {{PS}} portray the Hogwarts Express as [[Wikipedia:Cavalier (N&W train)|The Cavalier]], specifically using a reproduction of {{wplink|O. Winston Link}}'s photograph ''Norfolk & Western Train No. 16, The Cavalier, leaves Williamson, West Virginia, on a rainy day, December 1958''.<ref>''[[J.K. Rowling: A Bibliography 1997-2013]]''</ref>
+*Because The Hogwarts Express is portrayed by a GWR Hall class locomotive, its original paintwork was Brunswick green, not crimson red. The unusual paint job on the engine has sparked much controversy among Great Western Railway fans.
+*To promote J.K. Rowling's fourth Harry Potter book, a West Country Class Southern Railway locomotive, named Taw Valley, was painted crimson red and was given the Hogwarts Express nameplate. Yet it was rejected by Chris Columbus, the film director, because it looked too modern for the film's taste. Hence Olton Hall was chosen as the star, for its stately appearance.
+*Interestingly, the Hogwarts Express conductor at {{WWHP}} once claimed that the train was a GWR 5900 and was built in 1936<ref name="WWHP">[http://www.youtube.com/watch?v=FeVixt3tFqU&feature=related "The Hogwarts Express"] on [http://www.youtube.com/ Youtube]</ref>, when the real train was a GWR 4900 (indeed, the 5900 class does not exist) and was built in April of 1937. It is possible, however, that these details were intentionally changed to differentiate the Hogwarts Express from the real train that portrays it. Information from {{PM}} points to it being (rather erroneously) acquired by the Ministry about a century earlier, in the term of Minister [[Ottaline Gambol]] (in office [[1827]]-[[1835]]). However, this is problematic as the certain locomotive (design) used in the films was not developed until the 1930s.
+**Another discrepancy is that J.K. Rowling made an error in the year the Hogwarts Express was acquired, as Crewe Works did not open until 1840. 
+*During principal photography of ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'', filming was shut down for several days after the train used as the Hogwarts Express was vandalised, costing £3000; the vandals had spray-painted graffiti onto the train. The train was damaged again in March 2007, after filming of ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'' was completed. A month was required to repair the locomotive, because of the £50,000 worth of damage, as 337 of its toughened windows were smashed with hammers.
+*In 2003 the engine that portrayed the Hogwarts Express; Olton Hall was responsible for [http://hpana.com/news/17187 causing two fires]. The first incident saw sparks from the engine set part of a heathland ablaze, while the second saw some railway sleepers catch fire on the York to Scarborough route. The latter event was due to a faulty cinder box.
+*The school train is traditionally reserved only for students. Only four adults were ever seen travelling on the train: the [[Trolley witch|Honeydukes Express lady]], the [[Hogwarts Express conductor|conductor]], [[Remus Lupin]] and [[Horace Slughorn]].
+*In the first five films, the Hogwarts Express is shown to have ''four'' coaches. However, in the film version of ''Harry Potter and the Half Blood Prince'', it is shown to have ''five coaches.'' The fifth coach differs greatly from the rest, because it has no compartments. The fifth coach may have been added due to the fact that it has a luggage rack which the other four lacked, the luggage rack was needed so Harry could eavesdrop on a conversation involving [[Draco Malfoy]]. It's also possible that its addition might reflect a higher-than-usual enrollment at Hogwarts. However as there are approximately six hundred students at Hogwarts each year each set up shown in the films seems inadequate for the requirements.
+*Being an official vehicle of Hogwarts school, It is considered an extension of the school and thus falls under at least some of its rules and allowances. Underage students are allowed to use magic on the train, as mentioned in ''Harry Potter and the Chamber of Secrets'', ''Harry Potter and the Goblet of Fire'', and ''Harry Potter and the Order of the Phoenix''.
+*There have been several models of the Hogwarts express released, including HO/OO scale models by Bachmann and Hornby, O scale by Lionel, and a new G scale model.
+*In the film adaption {{DH|F1}}, the returning Hogwarts Students are only seen on the Hogwarts Express and not at Hogwarts itself, which is due to the film mainly focusing on Harry, Ron, and Hermione's quest to find and destroy Voldemort's [[Horcrux]]es.
+*The only stations the Hogwarts Express is noted as stopping at are King's Cross and Hogsmeade. Pottermore states that all students have to board the train per Ministry decree. This also includes students from Scotland, Wales and more remote parts of England and Ireland.
+**It is possible it has other stops before reaching King's Cross, but it seems probable that the train only runs from King's Cross to Hogsmeade given that Ron and Harry lived nowhere near London but used King's Cross.
+**The fact that on average there are around one thousand students at Hogwarts each year also poses complications for the Hogwarts Express being the only method for students to reach Hogwarts. However given the existence of various ways of increasing space within carriages and the fact within the books neither the overall number of carriages the Express pulls nor the length of Platform 9¾ are stated leaves the possibility open.
+**Throughout the films, the Hogwarts Express has had its iconic whistle but in the third film, a different whistle is used. The reason for this change is unknown.
+*In the films and books, it is suggested the staff of the train, in particular the witch with the food trolley, is able to pass through to see the driver of the train.  Under normal circumstances this wouldn't be possible, as there is no path through the tender to the cab of the engine.  However, the LNER A3/A4s featured a "corridor tender" that allowed for on the fly crew changes.  This was done to allow non stop passenger service from King's Cross to Scotland.  Crews would change over by way of a special corridor built through the tender that connected with the rest of the train.  Thus, it's entirely possible that the Express uses a similar type of tender, though no GWR locomotives ever used these, as they were a LNER type tender. The locomotives tender appears to be a standard GWR tender however.
+**There could also be some sort of magical "radio" or a enchanted "mirror" of a sort, where the train crew and passengers can speak through it (or see through) to the driver.
+*The locomotive used for the Express, Olton Hall, raised eyebrows in the British train spotting community, since for the films it bears the name "Hogwarts Castle." Many people thus refer to it as "the Hall that thinks it's a Castle," referring to a separate, larger class of engine built by the Great Western Railway.
+*The whistle that the locomotive used in the movies was recorded from BR Standard Class 5 No.73082 Camelot.
+
+==Appearances==
+{{Imagecat|Images of the Hogwarts Express}}
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}} {{Comment|GBC version only, mentioned only in others}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{HBP}}
+*{{HBP|F}}
+*{{HBP|G}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|F2}}
+*{{CC}}
+*{{CC|P}}
+*{{HPPU}} {{Mention}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{WWHP}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO|C1}}
+*{{LEGO}}
+*{{PM}}
+*{{WW}}
+*{{TCG}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+*{{LEGO|D}}
+*{{HM}}
+*{{WU}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Hogwarts Express]]
+[[es:Expreso de Hogwarts]]
+[[fr:Poudlard Express]]
+[[it:Espresso per Hogwarts]]
+[[pl:Ekspres Londyn-Hogwart]]
+[[pt-br:Expresso de Hogwarts]]
+[[ru:Хогвартс-Экспресс]]
+[[Category:Foundables]]
+[[Category:Hogwarts Express]]
+[[Category:Iron objects]]
+[[Category:Magical objects]]
+[[Category:Trains]]

@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Krum
+|born = In or before [[1945]] (possibly)<ref>[[Viktor Krum's grandfather]] died in 1945. If Mrs Krum is his daughter then she must have been born in or before 1945, as Victor's grandfather was dead after 1945 and could not have conceived her - if she was his daughter - any later.</ref>
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Bulgaria]]n
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Dark
+|eyes = 
+|skin = 
+|family = *[[Viktor Krum's grandfather|Viktor's grandfather]] (father or father-in-law)†
+*[[Viktor Krum's father|Mr Krum]] (husband)
+*[[Viktor Krum]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Krum family]]
+}}
+'''Mrs Krum''' (fl. [[1977]]-[[1995]]) was a [[Bulgaria]]n [[Wizardkind|witch]], who was the mother of [[Viktor Krum]]. She was described as having dark hair.<ref name="GOF31">{{GOF|B|31}}</ref>
+
+Mrs Krum travelled to [[Hogwarts School of Witchcraft and Wizardry]] with her [[Viktor Krum's father|husband]] to watch Viktor face the final task of the [[Triwizard Tournament]] in [[1995]].<ref name="GOF31"/>
+
+Her son told [[Harry Potter]] that his [[Viktor Krum's grandfather|grandfather]] was murdered by [[Gellert Grindelwald]].<ref name="DH8">{{DH|B|8}}</ref> It is possible that this man was either Mrs Krum's father or her father-in-law.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[es:Madre de Viktor Krum]]
+[[fr:Mrs Krum]]
+[[pl:Pani Krum]]{{DEFAULTSORT:Krum, Victor mother}}
+[[ru:Миссис Крам]]
+[[Category:Bulgarian individuals|Krum]]
+[[Category:Females|Krum]]
+[[Category:Krum family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

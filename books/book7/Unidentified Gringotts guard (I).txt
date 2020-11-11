@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gringotts
+|image = 
+|name = Gringotts Bank guard
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH26"/>
+|gender = Male<ref name="DH26"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Gringotts Wizarding Bank]] guard<ref name="DH26"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="DH26"/>
+}}
+This '''individual''' was a [[Wizardkind|wizard]] who was assigned to guard the entrance of [[Gringotts Wizarding Bank]] in [[1998]] during the [[Death Eaters]]' reign over the [[wizarding world]]. He and [[Marius]] used [[Probity Probe]]s to search anyone attempting to enter. Both guards were [[Confundus Charm|Confuded]] by [[Harry Potter]] on [[1 May]], [[1998]] when he and his friends [[Break-in of Gringotts Wizarding Bank (1998)|broke into the bank]] to steal one of [[Tom Riddle|Voldemort]]'s [[Horcrux]]es from the [[Lestrange Vault]].<ref name="DH26">{{DH|B|26}}</ref>
+
+==Appearances==
+*{{DH}} {{1st}} 
+*{{DH|F2}} {{possible}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[es:Guardia de Gringotts no identificado (I)]]
+[[Category:British individuals|Gringotts Bank guard]]
+[[Category:Death Eater allies]]
+[[Category:Gringotts employees|guard]]
+[[Category:Males|Gringotts Bank guard]]
+[[Category:Security guards]]
+[[Category:Unidentified individuals|Gringotts Bank guard]]
+[[Category:Wizards]]

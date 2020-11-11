@@ -1,0 +1,99 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Mandy Brocklehurst
+|born = between [[1 September]] [[1979]] and [[31 August]] [[1980]]
+|died = 
+|blood = [[Half-blood]]<ref name="HPM"/>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS7"/>
+|gender = Female<ref name="PS7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="PS7"/>
+|loyalty = *Brocklehurst family
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS7"/>
+**[[Ravenclaw]]<ref name="PS7"/>
+}}
+{{Quote|Brocklehurst, Mandy went to Ravenclaw too....|Mandy being Sorted|Harry Potter and the Philosophers Stone}}
+'''Mandy Brocklehurst''' was a [[half-blood]]<ref name="HPM">{{HPM}}</ref> [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was Sorted into [[Ravenclaw|Ravenclaw House]].<ref name="PS7">{{PS|B|7}}</ref>
+
+==Etymology==
+*Mandy is a variation of Amanda, which means "lovable/worth of love".
+*Brocklehurst is a real surname coming from Middle English "brock" (badger) and "hyrst" (wooded hill, a favourite haunt of badgers).
+*Brocklehurst was the name of the horrible school teacher in ''Jane Eyre''.
+
+==Behind the scenes==
+*The character [[Amanda]], portrayed by [[Christina Petrou]] in {{PS|FA}}, may be intended to be Mandy Brocklehurst.
+*One of the clients of Cormoran Strike, a private detective and the protagonist of [[J. K. Rowling]]'s ''{{w|The Silkworm}}'', has hired him to monitor the activities of a Miss Brocklehurst.
+===Translations===
+*Bulgarian: ''Манди Брокълхърст''
+*Dutch: ''Amanda Brokkeling''
+*Greek: ''Μάντι Μπρόκλχαστ''
+*Greek (Ancient): ''Μανδύα Βροχολούστης''
+*Hebrew: ''מנדי ברוקלהרסט''
+*Japanese: ''マンディ・ブロックルハースト {{c|Mandy Brocklehust}}''
+*Norwegian: ''Amanda Brunkenberg''
+*Portuguese (Brazil): ''Mádi Brocklehurst''
+*Russian: ''Мэри Брокльхерст {{c|Meri Brokl'kherst}}''
+*Serbian: ''Менди Броклхерст {{c|Mendi Broklherst}}''
+*Welsh: ''Mari Beynon''
+
+The following languages are the same as the original:
+{|
+|
+*Afrikaans
+*Croatian
+|
+*Danish
+*Faroese
+|
+*Finnish
+*French
+|
+*German
+*Italian
+|
+*Latin
+*Polish
+|
+* Spanish
+* Swedish
+|}
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}} {{Possible}}
+*{{HPM}} {{Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT: Brocklehurst, Mandy}}
+
+[[de:Mandy Brocklehurst]]
+[[de2:Mandy Brocklehurst]]
+[[es:Mandy Brocklehurst]]
+[[fr:Mandy Brocklehurst]]
+[[it:Mandy Brocklehurst]]
+[[pl:Mandy Brocklehurst]]
+[[ru:Мэнди Броклхерст]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Half-bloods]]
+[[Category:Ravenclaws]]
+[[Category:Ravenclaws Sorted in 1991]]
+[[Category:Wizards]]

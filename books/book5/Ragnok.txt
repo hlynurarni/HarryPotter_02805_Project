@@ -1,0 +1,54 @@
+{{Youmay|the goblin who knew Bill Weasley|[[Ragnok the Pigeon-Toed]], the goblin [[Ragnuk]] or the goblin [[Nagnok]]}}
+{{Individual infobox
+|theme = gringotts
+|image = 
+|name = 
+|born = Before [[1995]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee at [[Gringotts Wizarding Bank]]<ref name="WWoHP">{{WWHP}} - [https://www.flickr.com/photos/insidethemagic/sets/72157644847887689/with/14458836121/ Flickr account of insidethemagic, "Diagon Alley at Universal Orlando" photos by Michael Gavin] {{see image|File:Ragnok'sOffice.png}}</ref>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="WWoHP"/>
+}}
+{{Dialogue a-b|Remus Lupin|Have you still not had any luck with Ragnok, Bill?|William Weasley|He's feeling pretty anti-wizard at the moment. He hasn't stopped raging about the Bagman business, he reckons the Ministry did a cover-up, those goblins never got their gold from him, you know —|An exchange between [[Remus Lupin]] and [[William Weasley|Bill Weasley]], about Ragnok.|Harry Potter and the Order of the Phoenix}}
+'''Ragnok '''(fl. [[1995]]) was a [[goblin]] employed at [[Gringotts Wizarding Bank]].
+==Biography==
+[[File:Ragnok'sOffice.png|250px|thumb|Ragnok's office at [[Gringotts Wizarding Bank]]]]
+Ragnok worked at [[Gringotts Wizarding Bank]] in the 1990's , and had an office next to [[Griphook]] in the main offices at [[Diagon Alley]].<ref name="WWoHP"/> Ragnok was acquainted with [[William Weasley|Bill Weasley]], and seemingly known to [[Remus Lupin|Professor Remus Lupin]] as well.
+
+It seems that Ragnok's leanings were such that Professor Lupin thought he might be amenable to helping the [[Order of the Phoenix]], though when Bill tried to convince him to do so in [[1995]], Ragnok declined, as he was feeling a lot of hostility toward [[Wizardkind|wizards]] at the time. [[Ludovic Bagman|Ludo Bagman]] had recently failed to pay some goblins winnings to which they felt they were entitled, and Ragnok believed that the [[British Ministry of Magic|Ministry of Magic]] had conspired to hide evidence of this. He expressed his thoughts on the matter very vehemently.<ref name="OP5">{{OOTP|B|5}}</ref>
+==Appearances==
+*{{OOTP}} {{Mention}}
+*{{WWHP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[de:Ragnok]]
+[[es:Ragnok]]
+[[fr:Ragnok]]
+[[ru:Рагнок]]
+[[pl:Ragnarok]]
+[[Category:Bankers]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Males]]

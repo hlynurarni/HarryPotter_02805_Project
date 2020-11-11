@@ -1,0 +1,78 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Diggory
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]]<ref name="Family">In {{GOF|B|24}} Hagrid tells  Harry that he hopes he wins the Triwizard Tournament as "It’d show ’em all . . . yeh don’ have ter be pureblood ter do it." implying that Cedric is a pure-blood and his parents would be either pure-blood or half-blood in turn, as pure-bloods cannot have muggle or muggle-born parents or grandparents.</ref>
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Amos Diggory]] (husband)
+*[[Cedric Diggory]] (son) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Diggory family]]
+}}
+{{Quote|He suffered very little then. And after all, Amos... he died just when he'd won the tournament. He must have been happy. You ''[Harry]'' look after yourself, now.|Mrs Diggory|Harry Potter and the Goblet of Fire}}
+'''Mrs Diggory''' (fl. [[1977]]-[[1995]]) was a [[Wizardkind|witch]] and the wife of [[Amos Diggory]] and the mother of [[Cedric Diggory|Cedric]].
+
+==Biography==
+===Early life and marriage===
+Mrs Diggory was a witch and an only child.<ref name="Act3Scene18">{{CC|B|3|18}}</ref> She married [[Amos Diggory]],<ref name="GOF">{{GOF}}</ref> and had a son, [[Cedric Diggory|Cedric]], in [[1977]].<ref name="GOF"/> Cedric went to attend [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Hufflepuff|Hufflepuff House]].<ref name="GOF"/>
+
+===Triwizard Tournament===
+====Before the Task====
+{{Quote|Mr Diggory looked as though he was going to say something angry, but his wife laid a hand on his arm, and he merely shrugged and turned away.|She comforts her husband.|Harry Potter and the Goblet of Fire}}Mrs Diggory came to [[Hogwarts School of Witchcraft and Wizardry]] in the [[1994-1995 school year]] to watch the [[Triwizard Tournament#The Third Task|Third Task]] of the [[Triwizard Tournament]], in which her son was participating.<ref name="GOF"/> When her husband began to argue with [[Molly Weasley]], she managed to calm him simply by putting her hand on his arm, and allowed the [[Weasley family|Weasleys]] to walk peacefully away with [[Harry Potter|Harry]], whom Amos had been arguing about.<ref name="GOF"/>
+
+====After the Task====
+{{Quote|They did not blame him for what had happened; on the contrary, both thanked him for returning Cedric's body to them. Mr Diggory sobbed through most of the interview. Mrs Diggory's grief seemed to be beyond tears.|Mr and Mrs Diggory with Harry after Cedric's death|Harry Potter and the Goblet of Fire}}After the task, upon hearing of [[Cedric Diggory|her son]]'s [[Killing Curse|death]], she visited [[Harry Potter]] in the [[Hospital Wing]].<ref name="GOF"/> She then thanked Harry for bringing Cedric's [[Death|body]] back, though when he offered her his Tournament winnings, she declined.<ref name="GOF"/>
+
+While her husband later ended up in a [[St Oswald's Home for Old Witches and Wizards|Wizarding retirement home]], her later fate is unknown.
+==Personality and traits==
+{{Dialogue a-b|Harry|You take this. It should've been Cedric's, he got there first, you take it-|Mrs Diggory|Oh, no, it's yours, dear, we couldn't... you keep it.|Harry arguing with Mrs Diggory over who should get the Triwizard winnings.|Harry Potter and the Goblet of Fire}}Although she was only seen and heard from for brief moments, Mrs Diggory seemed to be a compassionate, amiable, and understanding person. For instance, she prevented her husband from arguing with Molly Weasley over Harry's supposed "theft" of Cedric's glory in being a participant of the Triwizard Tournament, allowing Harry to leave peacefully with the Weasleys.
+
+It was also evident that she loved her son dearly, given how her grief was described to be "beyond tears" when she learned from Harry how Cedric had been killed, which was in direct contrast to her husband, who sobbed openly from grief. She demonstrated her compassion and understanding nature by thanking Harry for returning her son's body, declining Harry's offer of his Tournament winnings, and even urged him to look after himself.
+
+Given how Cedric also proved himself to be a compassionate and caring soul, it is possible that Mrs Diggory had passed some of her best characteristics to her son.
+
+During [[Rubeus Hagrid]]'s [[Rubeus Hagrid's birthday celebration|birthday celebration]], Amos talked about his wife and described her as a pretty woman, implying she was in fact rather beautiful in real life. 
+
+==Behind the scenes==
+*Mrs Diggory does not make an appearance in {{GOF|FA}}. Her husband's personality in the film seems to more closely match her personality than that of his own novel counterpart.
+*Mrs Diggory is conspicuously absent from {{CC}}. This is perhaps an indication that she had passed away sometime before the time the play is set, in [[2020]].
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{CC}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Diggory, Cedric's mother}}
+
+[[ru:Миссис Диггори]]
+[[fr:Mère de Cedric Diggory]]
+[[pl:Pani Diggory]]
+[[Category:British individuals|Diggory, Mrs]]
+[[Category:Diggory family]]
+[[Category:Females|Diggory, Mrs]]
+[[Category:Married individuals]]
+[[Category:Only children]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards|Diggory, Mrs]]

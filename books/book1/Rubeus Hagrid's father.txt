@@ -1,0 +1,67 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Hagrid Sr.jpg|150px]]
+|name = Mr Hagrid
+|born = 
+|died = Between [[1 September]] [[1941]] and [[31 August]] [[1942]]
+|blood = 
+|marital = Separated
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = Short
+|weight = 
+|hair = Brown
+|eyes = Black
+|skin = Light
+|family = *[[Fridwulfa]] (ex-wife) †
+*[[Rubeus Hagrid]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hagrid family]]
+}}
+{{Quote|I could pick him up at the age of 6 and put him on top of the dresser. But enough about me...what about you?|[[Rubeus Hagrid]] discussing his father to [[Olympe Maxime]]|Harry Potter and the Goblet of Fire}}
+
+'''Mr Hagrid''' (d. [[1941]]/[[1942]]) was a [[Wizardkind|wizard]] who was [[Rubeus Hagrid]]'s father and the first husband of [[Fridwulfa]]. He was short, not only in comparison to his giantess [[Fridwulfa|wife]] and [[half-giant]] [[Rubeus Hagrid|son]], but by human standards as well.
+
+==Biography==
+Nothing is known of Mr Hagrid's life before he married the [[Giant|giantess]] [[Fridwulfa]], who gave birth to their son [[Rubeus Hagrid|Rubeus]] (a [[half-giant]]) on [[6 December]] [[1928]]. 
+
+Fridwulfa was disappointed with their son's small stature and left the family when Rubeus was three years old, leaving Mr Hagrid heartbroken.<ref name="GOF23">{{GOF|B|23}}</ref>
+
+Mr Hagrid raised his son alone. By the time Rubeus was six, he was large and strong enough to lift his father up onto a dresser if Mr Hagrid annoyed him.<ref name="GOF23" />
+
+Mr Hagrid was at first unsure whether Rubeus could be a wizard, considering his giant blood, but he was delighted when Rubeus received his [[Hogwarts acceptance letter]] in [[1940]]. By that point, Rubeus could carry his father on his shoulders, and Mr Hagrid was described as "beaming" in a photograph taken of them together.<ref name=":0" />[[File:GF 24.jpg|thumb|[[Rubeus Hagrid|Rubeus]] and his father]]Mr Hagrid died when Rubeus was in his second year at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], and therefore he never knew about his son's expulsion from [[Hogwarts School of Witchcraft and Wizardry]] the [[1942|next year]].<ref name=":0">{{GOF|B|24}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{GOF|F}} {{Mention}}
+*{{OOTP}} {{Mention}}
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Hagrid, Rubeus's father}}
+
+[[de:Mr Hagrid]]
+[[es:Padre de Rubeus Hagrid]]
+[[fr:Père de Rubeus Hagrid]]
+[[ru:Мистер Хагрид]]
+[[pl:Pan Hagrid]]
+[[Category:1940s deaths]]
+[[Category:British individuals|Hagrid, Mr]]
+[[Category:Deceased individuals]]
+[[Category:Hagrid family|father]]
+[[Category:Males|Hagrid, Mr]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎|father]]
+[[Category:Wizards|Hagrid, Mr]]

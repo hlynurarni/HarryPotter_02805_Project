@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = muggle
+|image = Mr Roberts.jpeg
+|name = Mr Roberts
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Roberts's wife|Mrs Roberts]] (wife) <br/>
+*[[Roberts children|Two children]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Campsite manager
+|house = 
+|loyalty = [[Roberts family]]
+}}
+'''Mr Roberts''' was a [[Non-magic people|Muggle]] man who managed the [[Roberts's campsite|campsite]] near where the [[Quidditch World Cup]] was held in [[1994]].<ref name="GOF7"/>
+
+==Biography==
+He lived with his [[Roberts's wife|wife]] and [[Roberts children|two children]] in a stone cottage at the front of the campground. His youngest child was a boy.<ref name="GOF7"/>
+
+Mr Roberts believed that his [[Wizardkind|wizarding]] guests were confused with [[Muggle money]] because they were all from out of the country; one even tried to pay him with a [[galleon]]. [[British Ministry of Magic|Ministry of Magic]] employees were required to perform [[Memory Charm]]s on him several times a day.<ref name="GOF7">{{GOF|B|7}}</ref>
+
+[[File:Robertses GOF trailer.gif|thumb|Roberts and his family being levitated into the air by Death Eaters during the [[Reappearance of the Dark Mark|riot]]]]
+The night after the [[Quidditch]] match, Mr Roberts, his wife, and their two children were all abducted by [[Death Eaters]], who proceeded to [[Levicorpus|levitate]] them through the air, and, like puppeteers controlling four marionettes with invisible strings, contorted the defenceless family into grotesque shapes and span them around mid-air as means to humiliate and frighten them.<ref name="GOF9">{{GOF|B|9}}</ref> When [[Arthur Weasley]] and his party were leaving the campsite the following morning, Mr Roberts wished them a Merry [[Christmas]], although it was the middle of summer. Mr Weasley explained that Mr Roberts had been left temporarily disoriented by the [[Memory Charm]] that had been used to erase his memories of the Death Eater attack.<ref name="GOF10">{{GOF|B|10}}</ref>
+
+==Behind the scenes==
+*The Robertses did not make it to the final cut of {{GOF|FA}}. A brief shot of them being tortured by Death Eaters during the [[Reappearance of the Dark Mark|Quidditch World Cup riot]] can be seen, however, in the film's official trailer.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[de:Mr Roberts]]
+[[ru:Мистер Робертс]]
+[[fr:Mr Roberts]] 
+[[pl:Pan Roberts]][[pt-br:Snr Roberts]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Quidditch World Cup]]
+[[Category:Roberts family]]
+[[Category:Victims of Muggle torture]]

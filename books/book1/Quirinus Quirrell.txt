@@ -1,0 +1,319 @@
+{{Puzzles&SpellsSpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Quirinus Quirrel.jpg|250px]]
+|name = Quirinus Quirrell
+|born = [[26 September]],<ref name="pottermore">{{WW|professor-quirrell}}</ref>[[1970]] or earlier<ref name="DOB">As he had already graduated from Hogwarts in 1989. Being born in September, his latest possible year of birth is [[1970]], graduating a few months before his 19th birthday and if he started teaching soon after graduation.</ref>
+|died = [[4 June]]<ref>https://legacy.hp-lexicon.org/timelines/calendars/calendar_ps.html</ref> [[1992]]<br />[[Underground Chambers]], [[Hogwarts Castle]], [[Highlands]], [[Scotland]]<ref name="PS17">{{PS|B|17}}</ref>
+|blood = [[Half-blood]]<ref name="pottermore" />
+|marital = Single<ref name="pottermore"/>
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="PS5">{{PS|B|5}}</ref>
+|signature = 
+|species = [[Human]]<ref name="PS5"/>
+|gender = Male<ref name="PS5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale<ref name="skin">{{PS|B|5}} - "A pale young man made his way forward, very nervously."</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="legohp14">{{LEGO|Y1}}</ref>
+|wand = [[Quirinus Quirrell's wand|9", Alder, unicorn hair, bendy]]<ref name="pottermore" />
+|patronus = Non-corporeal<ref name="Patronus">Quirrell is shown to be able to cast a non-corporeal [[Patronus Charm|Patronus]] in {{LEGO|Y1}}. Although Rowling did say [http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html Death Eaters could not cast Patronuses], Quirrell was just a follower of Voldemort; he did not have a [[Dark Mark]].</ref>
+|job = *[[Professor]] of [[Muggle Studies]] at [[Hogwarts School of Witchcraft and Wizardry]] (?-[[1990]])<ref name="BLC">[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+*[[Professor]] of [[Defence Against the Dark Arts]] at [[Hogwarts School of Witchcraft and Wizardry]] ([[1991]]-[[1992]])<ref name="PS5"/>
+|house = [[Ravenclaw]]<ref name="pottermore" />
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]] (formerly)<ref name="BLC"/>
+**[[Ravenclaw]]<ref name="pottermore" />
+*[[Tom Riddle|Lord Voldemort]]<ref name="PS17"/>
+}}
+{{Quote|I met him when I travelled around the world. A foolish young man I was then, full of ridiculous ideas about good and evil. My master showed me how wrong I was. There is no good and evil... there is only power, and those too weak to understand it... Since then, I serve him faithfully, although I have let him down many times.|Quirrell's faithful service to [[Tom Riddle|Lord Voldemort]]|Harry Potter and the Philosopher's Stone}}
+
+'''Professor Quirinus Quirrell''' ([[26 September]],<ref name="pottermore" /> [[1970]] or earlier<ref name="DOB" /> – [[4 June]],<ref>https://legacy.hp-lexicon.org/timelines/calendars/calendar_ps.html</ref> [[1992]]) was a [[half-blood]] [[wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] and was Sorted into [[Ravenclaw|Ravenclaw House]].<ref name="pottermore" /> He was the [[Muggle Studies]] [[professor]] at Hogwarts, though he later became the [[Defence Against the Dark Arts]] [[professor]] during the [[1991–1992 school year]].
+
+Before teaching [[Defence Against the Dark Arts]], Quirrell went out in search of [[Tom Riddle|Voldemort]], believing he could achieve recognition for finding him and could learn things that would ensure that no one laughed at him again. However, Voldemort, after finding out that he taught at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], took over his body, though Quirrell put up some feeble resistance. He died in vain while trying to murder [[Harry Potter]] at [[underground Chambers]].
+
+==Biography==
+===Early life===
+{{Quote|Oh, yeah. Poor bloke. Brilliant mind. He was fine while he was studyin' outta books but then he took a year off ter get some firsthand experience........ They say he met [[vampire]]s in the [[Black Forest]], and there was a nasty bit o' trouble with a [[hag]] -- never been the same since.|[[Rubeus Hagrid]] regarding Quirrell's youth and travels|Harry Potter and the Philosopher's Stone}}
+Quirinus Quirrell was born presumably before [[26 September]], [[1970]], somewhere in the British Isles, to at least one magical parent. He also had some [[Non-magic people|muggle]] heritage. 
+
+===Hogwarts Years===
+
+Quirinus attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], where he was [[Sorting ceremony|Sorted]] into [[Ravenclaw|Ravenclaw House]].<ref name="pottermore" /> It is likely that he acquired [[Quirinus Quirrell's wand|his wand]] from [[Ollivanders]] when he was eleven.
+
+As a boy, Quirinus was gifted but also delicate, teased for his timidity and nerves during his school life. Feeling inadequate and wishing to prove himself, he developed an (initially theoretical) interest in the [[Dark Arts]]. The feelings of insignificance and worthlessness that this bullying fostered embittered the boy, forging a latent desire to make the world sit up and notice him.<ref name="pottermore" />
+
+He also most likely obtained a high-graded [[Ordinary Wizarding Level|O.W.L.]] and [[Nastily Exhausting Wizarding Test|N.E.W.T.]] in [[Muggle Studies]] and [[Defence Against the Dark Arts]], since not only did he go on to teach both but was also noted to have had a gift for the theory of Defensive Magic.<ref name="pottermore" />
+
+===Campaign for the Philosopher's Stone===
+====Meeting Lord Voldemort====
+{{Quote|A wizard – young, foolish and gullible – wandered across my path in the forest I had made my home. Oh, he seemed the very chance I had been dreaming of ... for he was a teacher at Dumbledore’s school ... he was easy to bend to my will ... he brought me back to this country, and after a while, I took possession of his body, to supervise him closely as he carried out my orders.|[[Tom Riddle|Lord Voldemort]] recounting his meeting with Quirrell|Harry Potter and the Goblet of Fire}}[[File:QuirinusQuirrell WB F1 QuirrellInClassroomHoldingLizard Still 080615 Land.jpg|250x250px|thumb|left|Quirrell teaching a class at Hogwarts School of Witchcraft and Wizardry]]
+After teaching [[Muggle Studies]] for some time, he took a year-long sabbatical in [[1990]] in order to "gain first-hand experience",<ref name="PS5" /> though in reality he had taken a 'Grand Tour' around the world in order to hopefully find whatever remained of [[Tom Riddle|Voldemort]] after his first defeat, partly out of curiosity, partly out of that unacknowledged desire for importance from his childhood. At the very least, Quirrell fantasised that he could be the man who tracked Voldemort down, but at best, might learn skills from Voldemort that would ensure he was never laughed at again. His journey proved successful as he did indeed find Voldemort, though he was no match for the Dark Lord (even in such a weakened state) and when he realised that Quirinus had a position at Hogwarts, Voldemort latched onto Quirrell’s body and went back to Hogwarts with him.
+
+[[File:Professors ps.jpg|250px|thumb|Quirrell with his fellow professors]]
+
+Quirrell also adopted a [[Quirinus Quirrell's turban|turban]] for everyday use after this sabbatical, claiming to have received it from an [[African prince]] as compensation for disposing of a [[zombie]].<ref name="PS8">{{PS|B|8}}</ref> It was also rumoured that he encountered [[vampire]]s in the [[Black Forest]], in [[Albania]], and had a nasty bit of trouble with a [[hag]].<ref name="PS5" />
+
+Quirrell at some unknown point prior to [[1991]] came into possession of [[Vault 998]] in the new vault area of [[Gringotts Wizarding Bank]]. He kept a small box containing various belongings, a large crate, and a chest containing [[Circe]]'s [[Chocolate Frog Card]] that was given by [[Cuthbert Binns]] to [[James Potter I|James Potter]] before Quirrell came into possession of it.<ref name="PSgbc">{{PS|G}} - GBC version</ref>
+
+====Serving the Dark Lord====
+{{Quote|Yes, Severus does seem the type, doesn't he? So useful to have him swooping around like an overgrown bat. Next to him, who would suspect p-p-poor, st-stuttering P-Professor Quirrell?|Quirrell (possibly influenced by Voldemort) on Harry's suspicions about Snape after revealing himself|Harry Potter and the Philosopher's Stone}}
+Quirrell spent his last year of life attempting to procure the [[Philosopher's Stone]] for Voldemort, who used his nervous disposition to his advantage, as his perceived lack of confidence had earned very little respect from the students at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] and consequently diverted suspicion away from his plans.<ref name="PS8" />
+
+[[File:Harry-potter1-disneyscreencaps.com-2520.jpg|251x251px|thumb|left|Quirrell's first encounter with [[Harry Potter]] shortly before breaking into Gringotts]]
+
+{{Dialogue a-b-a|Quirrell|P-P-Potter, c-can't t-tell you how p- pleased I am to meet you.|Harry|What sort of magic do you teach, Professor Quirrell?|D-Defence Against the D-D-Dark Arts N-not that you n-need it, eh, P-P-Potter?|Quirrell meeting Harry Potter for the first time in the Leaky Cauldron|Harry Potter and the Philosopher's Stone}}
+Quirrell's first plan was enacted before the school term started and involved going to [[Diagon Alley]] in an attempt to steal the Philosopher's Stone from [[Gringotts Wizarding Bank]] for Voldemort.<ref name="PS17" /> While in the [[Leaky Cauldron]], he met Harry Potter, who had come with [[Rubeus Hagrid]]. Quirrell pretended that he was going to buy a new [[Book on vampires|book]] on [[vampire]]s.<ref name="PSvg">{{PS|G}}</ref> Quirrell was unsuccessful in his attempted robbery, as Rubeus Hagrid had removed the Stone from its vault earlier that same day on [[Albus Dumbledore]]'s orders.<ref name="PS5" />
+
+{{Quote|The class everyone had really been looking forward to was Defence Against the Dark Arts, but Quirrell's lessons turned out to be a bit of a joke. His classroom smelled strongly of garlic, which everyone said was to ward off a vampire he'd met in Romania and was afraid would be coming back to get him one of these days|Quirrell's unusual demeanour as a teacher|Harry Potter and the Philosopher's Stone}}
+After this first failure, Voldemort began to share Quirrell's body to ensure no further failure would occur,<ref name="PS17" /> and as Voldemort's face was sticking out of the back of his head, Quirrell had to wear a purple turban for the entire school year.<ref name="PS7">{{PS|B|7}}</ref> Quirrell tried to put up feeble resistance on occasion, but Voldemort was far too strong for him to overpower.
+
+[[File:Troll in the Dungeons!.jpg|244x244px|thumb|Quirrell interrupts the [[1991]] [[Hallowe'en Feast|Hallowe'en feast]], claiming that there was a "''troll in the Dungeons''"]]
+
+{{Quote|Troll -- in the dungeons -- thought you ought to know.|Quirrell deceiving the school on Hallowe'en|Harry Potter and the Philosopher's Stone}}
+After this attempted break-in, he returned to Hogwarts to teach as [[Defence Against the Dark Arts]]<ref name="PS5" />, while another wizard replaced him as [[Muggle Studies]] professor.<ref name="PSgbc" /> It is unknown who this wizard was. A few of his classes included the [[Curse of the Bogies]],<ref name="PS9">{{PS|B|9}}</ref> the [[Knockback Jinx]],<ref name="PSvg" /> ''[[Wand-Lighting Charm|Lumos]],''<ref name="PSvg" />'' ''and ''[[Verdimillious Charm|Verdimillious]]''.<ref name="PSps1">{{PS|G}} - PS1 version</ref> The majority of the students found Quirrell's lessons to be a joke, as they did not take him seriously as a teacher. On [[Hallowe'en]], Quirrell allowed a [[Quirinus Quirrell's first mountain troll|troll]] to enter Hogwarts as a diversion, and sneaked to the restricted Third Floor Corridor where the Stone was being hidden. [[Severus Snape]], who suspected Quirrell, followed him and was bitten on the leg by the three-headed dog [[Fluffy]] in the process of trying to head Quirrell off.<ref name="PS10">{{PS|B|10}}</ref><ref name="PS17" />
+
+[[File:Harry-potter1-disneyscreencaps.com-10061.jpg|250x250px|thumb|left|Quirrell jinxing Harry's broom at the Quidditch match]]
+
+Later in the year, during a Quidditch match between [[Gryffindor Quidditch team|Gryffindor]] and [[Slytherin Quidditch team|Slytherin]], Quirrell made his first attempt at Harry Potter's life. He jinxed Harry's [[broomstick]] to try to throw him off, but Severus Snape interfered again with a counter-curse. When [[Hermione Granger]] observed the crowd through binoculars in an attempt to figure out who was performing the jinx, she caught Snape discreetly uttering the counter-curse incantation but erroneously thought he was performing the actual curse. She later managed to run to Snape's stand and set fire in his robes in order to distract him and make him stop, but during her hurry she accidentally knocked Quirrell over, causing him to break the eye contact necessary for performing his spell correctly.<ref name="PS11">{{PS|B|11}}</ref><ref name="PS17" />
+
+====Targeting unicorns====
+{{Quote|... d-don't know why you wanted t-t-to meet here of all p-places, Severus...|Quirrell's nervousness around Snape|Harry Potter and the Philosopher's Stone}}After the [[Quidditch]] match Harry witnessed an intense exchange between Snape and Quirrell. It seemed as though Snape was trying to intimidate Quirrell into handing over information regarding the stone.<ref name="PS11">{{PS|B|11}}</ref> When Harry, Ron, and Hermione believed that Severus Snape was trying to intimidate Quirrell into helping him steal the [[Philosopher's Stone]], they tried to be supportive and encouraging to Quirrell whenever possible by telling people off for laughing at his stutter, or smiling at him encouragingly whenever they passed him.<ref name="PS14">{{PS|B|14}}</ref>
+
+[[File:Voldemort drinking unicorn blood.jpg|244x244px|thumb|Quirrell drinking [[unicorn]] [[blood]] in place of his master]]
+
+{{Quote|Next second, Quirrell came hurrying out of the classroom straightening his turban. He was pale and looked as though he was about to cry. He strode out of sight; Harry didn't think Quirrell had even noticed him.|Harry being perplexed over Quirrell's upset demeanour|Harry Potter and the Philosopher's Stone}}
+About a week before Harry's exams, Voldemort ordered Quirrell to try to get the Stone again. Harry overheard this, and mistook the conversation for an argument between Snape and the Defence teacher.<ref name="PS15">{{PS|B|15}}</ref> Throughout the year, Quirrell's body weakened drastically from hosting his master's [[soul]], and in order to keep himself and Voldemort alive, Quirrell began to prey on [[unicorn]]s in the [[Forbidden Forest]] and drink their [[Unicorn blood|blood]]. He met [[Harry Potter|Harry]], [[Draco Malfoy]], and [[Fang]] there, and was about to attack Harry until [[Firenze]] the [[Centaur]] rescued the boy.<ref name="PS15">{{PS|B|15}}</ref>
+
+On [[4 June]], after Dumbledore had left for London, both Quirrell and the trio went through the obstacles blocking the way to the Stone.<ref name="PS17" /> To get past Fluffy, Quirrell disguised himself and lured Hagrid into a card game by betting a dragon's egg. During the game, he managed to draw out information about [[Fluffy]] by convincing Hagrid that he was a [[Dragon dealer]], and as such, shared Hagrid's penchant for dangerous pets. In Hagrid's enthusiasm, and most likely under the influence of [[alcohol]], he let slip that playing music for the three-headed dog would put him to sleep. Quirrell then sent a forged letter to Professor Dumbledore summoning him to the [[British Ministry of Magic]] to get him away from the school. He went after the Stone, but was followed by Harry Potter, [[Ronald Weasley|Ron Weasley]], and Hermione Granger — though they believed their enemy to be Severus Snape.<ref name="PS16">{{PS|B|16}}</ref><ref name="PS17" />
+
+====[[Skirmish in the Underground Chambers]]====
+[[File:Harry and quirrell.jpg|220x220px|thumb|left|Quirrell and Harry Potter in front of the Mirror of Erised]]
+Quirrell was able to penetrate the first [[Philosopher's Stone Chambers|six chambers]] that protected the Philosopher's Stone, including the chamber in which he himself put a troll. He reached the final chamber only to find the [[Mirror of Erised]], and was unable to figure out how to take the stone from it, going so far as to consider smashing the mirror.<ref name="PS17" />
+[[File:Quirrell and Voldemort.gif|220x220px|thumb|Quirrell revealing his 'second face']]
+Eventually, Harry alone managed to reach the last chamber, and was surprised to meet Quirrell instead of Snape. Quirrell [[Nonverbal spell|non-verbally]] [[Incarcerous Spell|bound]] Harry and summoned a wall of fire behind the door to prevent him from escaping, then, on Voldemort's command, forced Harry to look into the mirror. Harry saw his reflection with the Stone in his own trousers' pocket, and felt it indeed being transferred to his real pocket. When Harry lied about what he saw in the mirror, Quirrell unwrapped his turban to reveal [[Tom Riddle|Voldemort]]'s face, bound to the back of his head.<ref name="PS17" />
+
+====Death====
+{{Dialogue a-b-a|Voldemort|Seize him! SEIZE HIM!|Quirrell|Master, I cannot hold  him -- my hands -- my hands!|Then kill him fool, and be done!|Quirrell's last words, attempting to kill Harry Potter for his master|Harry Potter and the Philosopher's Stone}}[[File:Harry Potter touches Quirrel face.gif|241x241px|thumb|left|Quirrell and Harry struggle for possession of the [[Philosopher's Stone|Stone]]]]
+
+Quirrell's life ended then, when Voldemort forced him to attempt the murder of [[Harry Potter]] (figuring out Harry had the Stone and being unable to persuade him to give it willingly). Unfortunately, the body Quirrell and Voldemort were both sharing manifested in burns and blisters during his fight with Harry due to the [[Sacrificial protection|protective charm]] Harry's mother left in his skin when she died for him. Harry collapsed from the pain in his scar, but Quirrell's body was burnt so horribly that Voldemort dispossessed his body and left him to die.<ref name="PS17" /> However, despite being effectively turned into a living [[Horcrux]] for the last year of his life, Quirrell did not ultimately lose his [[soul]], having even tried to put up feeble resistance on occasion (in spite of the fact that Voldemort was far too strong for him).<ref name="pottermore" />
+
+===Legacy===
+{{Dialogue a-b|Dolores Umbridge|Your previous teachers in this subject may have allowed you more licence, but as none of them — with the possible exception of Professor Quirrell, who did at least appear to have restricted himself to age-appropriate subjects — would have passed a Ministry inspection —|Harry Potter|Yeah, Quirrell was a great teacher there was just that minor drawback of him having Lord Voldemort sticking out of the back of his head.|Dolores Umbridge and Harry Potter arguing over Quirrell's reputation as a teacher|Harry Potter and the Order of the Phoenix}}Three years after Quirrell's [[death]], Lord Voldemort told his [[Death Eaters]] during their rendezvous in [[Little Hangleton]] that Quirrell was a fool, and that he only allied with him for his position as a professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="GOF33" />
+
+In [[1995]], the then [[Defence Against the Dark Arts]] professor [[Dolores Umbridge]] mentioned him when she was criticising the past DADA professors for not teaching them things that would pass a Ministry inspection, considering that he was a possible exception due to teaching "age-appropriate subjects". Harry then retorted that Voldemort was on the back of his head, earning him another week's detention.<ref name="OOTP15">{{OOTP|B|15}}</ref>
+
+==Physical description==
+[[File:Quirrel.PNG|233x233px|thumb|right|Quirrell in 1991]]
+{{Quote|Even Professor Quirrell was tremblin' ter meet yeh — mind you, he's usually tremblin'.|Quirrell's nervous deposition|Harry Potter and the Philosopher's Stone}}
+Quirinus Quirrell was a young man with a pale white skin.<ref name="skin" />
+
+When Quirrell returned from his sabbatical in [[Albania]], one of his eyes developed a twitch and he appeared quite pale and anxious and frequently stuttered. At the start of the term, he was wearing a purple turban.<ref name="PS7" /> He was usually trembling and prone to fainting.<ref name="PS10">{{PS|B|10}}</ref> Near the end of his life, his reason for wearing the turban became clear. Quirrell had joined with Voldemort and agreed to allow Voldemort's fledgling body to latch on to the back of his head. It was only able to grow into a face, and used Quirrell for transportation and sustenance.<ref name="PS17"/>
+
+==Personality and traits==
+{{Quote|He didn't realise that love as powerful as your mother's for you leaves its own mark... to have been loved so deeply, even though the person who loved us is gone, will give us some protection forever. It is in your very skin. Quirrell, full of hatred, greed, and ambition, sharing his soul with Voldemort, could not touch you for this reason. It was agony to touch a person marked by something so good.|[[Albus Dumbledore]] explains Quirrell's demise|Harry Potter and the Philosopher's Stone}}
+In his youth, Quirrell was gifted, but emotionally delicate. He became interested in travelling as well as pressing wild flowers, stemming from his early enthusiasm in academia, and continued to do so in his adult years. By his own admittance, he was "full of ridiculous ideas about good and evil". As a young boy, he was teased and neglected for his timid nature, and came to develop a latent desire for recognition and greatness, cynical feeling for society, and was seduced by the [[Dark Arts]], no matter how subtle the lure appeared at first.<ref name="pottermore" /> This led him to foolishly search out for Voldemort's remains in the hopes of fame and knowledge, while exposing his impressionable and naive side to the fallen Dark Lord. Quirinus' journey to capture Voldemort showcases his own overestimation of his own skills, possibly a slight arrogance, as Voldemort easily overpowered him. When Quirrell met Voldemort, he arrived at the conclusion that "there is no good and evil, there is only power, and those too weak to seek it". Meeting Voldemort made Quirrell admit himself as a "foolish young man [he] was then", apparently looking down on his past self, showing his gullibility, and weak will, and was easily corrupted. Quirrell generally did his best to serve Voldemort, though he admitted that his attempts were not always successful, seeing as he was being given rather tall orders. Dumbledore considered Quirrell to be greedy, hateful and ambitious, a reason why Quirrell could not understand the powerful magic of [[love]], which was what heavily injured him during the battle with [[Harry Potter]]. Despite Quirrell's continuous descent into corruption, he did not completely submit his existence to Voldemort as he attempted to resist the Dark Lord's soul of possessing his body, feeble and futile though it may have been.<ref name="PS17"/>
+
+[[File:PlainQuirrell.jpg|175px|thumb|Quirinus Quirrell's outward demeanour]]
+Throughout the school year, Quirrell appeared nervous and timid. He frequently stuttered and was mostly an incompetent teacher. Though his nervousness was probably very real due to the enormous pressure being put upon him by Voldemort, Quirrell had a chillingly sinister side that most people never saw. He was extremely adept at conniving and manipulation; at one point, he disguised himself and tricked Hagrid into revealing crucial information on how to get past one of the obstacles protecting the [[Philosopher's Stone]]. Another time he let a fully-grown [[Mountain Troll]] into the school on [[Hallowe'en]] as a diversion while he headed off to the third-floor corridor and tried to penetrate its defences.<ref name="PS10"/> He even managed to deceive the great [[Albus Dumbledore]] by forging a [[British Ministry of Magic|Ministry]] letter to him to lure him away from school, although Dumbledore was quick to realise that Quirrell had fooled him and returned to Hogwarts.<ref name="PS17"/>
+
+Presumably because of his constant failures, Quirrell eventually became obsessed with pleasing Voldemort and whenever he looked into the Mirror of Erised he would see himself with the [[Philosopher's Stone]], the object Voldemort desired above all else. Quirrell became very desperate, being willing to slay [[unicorn]]s in order to drink their [[Unicorn blood|blood]] to keep himself alive, a crime that is noted by [[Firenze]] only those who have nothing to lose and everything to gain would commit.<ref name="PS15"/>
+
+{{Quote|As it was, I saw only greedy and unworthy Quirrell attempting to steal the stone and, I admit, I did all I could to thwart him.|Snape's scathing opinion of Quirrell|Harry Potter and the Half-Blood Prince}}
+
+Many people considered Quirrell to be foolish, avaricious, worthless, and tended to look down on him. [[Severus Snape]] confided to [[Bellatrix Lestrange]] that he considered Quirrell as a mediocre wizard who was greedy and unworthy;<ref name="HBP2"/> many students saw his lessons to be a bit of a joke undeserving of respect;<ref name="PS8"/> and Voldemort deemed Quirrell as a foolish and gullible man who he only allied with for his position.<ref name="GOF33"/> Even Dumbledore himself, who had retained a level of pity and compassion even for his [[Gilderoy Lockhart|much more incompetent successor]], openly acknowledged that Quirell's fate was well-deserved due to his greed, hatred and ambitions without any care.<ref name="PS17"/>
+
+==Magical abilities and skills==
+[[File:Quirinus_Quirrell_and_Harry_Potter_at_the_Philosopher's_Stone_Chamber.JPG|225x225px|thumb|Quirrell's ability to fly without any visible means of support, a trait from [[Tom Riddle|Voldemort]]]]
+{{Quote|Can't nothing interfere with a [[broomstick]] except powerful [[Dark Arts|Dark magic]] — no kid could do that to a [[Nimbus 2000|Nimbus Two Thousand]].|[[Rubeus Hagrid]] unknowingly commenting on Quirrell's impressive abilities in dark magic|Harry Potter and the Philosopher's Stone}}
+Quirrell was known to have had an excellent aptitude for theoretical learning, particularly when it came to Defensive Magic.<ref name="pottermore" /> Even so, as Professor [[Minerva McGonagall|McGonagall]] later pointed out that teachers of Hogwarts generally speaking were rather good at [[magic]], it can be assumed that he also possessed a considerable amount of magical ability.
+*'''Intellectual giftedness''': Quirrell was known while still a student for being highly intelligent, possessing a brilliant intellectual mind.<ref name="pottermore" /> His intelligence was great enough to locate Voldemort, which the [[British Ministry of Magic]] had failed to do. He was also intelligent and cunning enough to successfully forge a convincing [[Quirinus Quirrell's fake letter to Albus Dumbledore|letter]] to [[Albus Dumbledore]], supposedly being from the [[British Ministry of Magic|Ministry]], in order to deceive him and send him away from the school. 
+*'''[[Charm]]s''': Whilst the true extent of Quirrell's expertise in this area is unknown,  he was able to conjure a non-corporeal [[Patronus Charm|Patronus]],<ref name="Patronus"/> a very advanced piece of magic, which means he must have possessed a considerable amount of ability in charms. He also was able to skilfully perform and thoroughly teach on how to cast many other charms such as the [[Verdimillious Charm]] and the [[Wand-Lighting Charm]],, giving his students in his [[Defence Against the Dark Arts]] classes full understanding on how to use them effectively. He was also capable of casting the ''[[Deprimo]]'' charm, which is capable of collapsing an entire room. Furthermore, Quirrell was capable of [[Piertotum Locomotor|animating]] objects, such as a gargoyle statue and several suits of armour, and conjuring a barrier around himself.<ref name="PSvg" /> 
+*'''[[Dark Arts]]''': Quirrell had at least a reasonable amount of knowledge and ability in dark magic, and could adequately use it and thoroughly explain the function of [[jinx]]es, [[hex]]es and [[curse]]s, such as the [[Knockback Jinx]] and [[Curse of the Bogies]], teaching his first-years the knowledge of how to perform both spells effectively.<ref name="PSvg" />  He was able to put a [[Broom jinx|jinx]] Harry Potter's Nimbus 2000 to go out of control in an attempt to kill him, something that Hagrid noted required considerable skill in the Dark Arts.<ref name="PS11">{{PS|B|11}}</ref> He nearly succeeded - even Severus Snape was unable to [[Counter-curse|counter]] the jinx completely - and was only thwarted when Hermione Granger indirectly made him lose focus. He was also capable of locking the exit to the Dungeons with four set of [[Floating eye curse|curses]], making so that the only way to exit the Dungeons were to undo all the curses with a [[curse-dependent locking spell]]. He also possessed considerable skill in the handling and presumably also the understanding of dark magical artefacts and cursed objects.<ref name="legohp14">{{LEGO|Y1}}</ref> He also displayed the ability to [[Homing spell|shoot balls]] of destructive green energy, and cast an unknown destructive curse that he charged in his wand before unleashing it, possibly the [[Blasting Curse]].<ref name="PSvg" />
+{{Quote|Quirrell snapped his fingers. Ropes sprang out of thin air and wrapped themselves tightly around Harry.|Quirrell's impressive use of non-verbal and wandless conjuration|Harry Potter and the Philosopher's Stone}}
+*'''[[Transfiguration]]''': Quirrell was apparently proficient in this notably complex and [[Science|scientific]] branch of magic, as he displayed a rather high amount of skill in [[conjuration]], a highly difficult and complex branch of transfiguration. He could [[Incarcerous Spell|conjure ropes]], both [[nonverbal spell|non-verbally]] and without his wand.<ref name="PS17"/> He could also cast [[Gytrash-conjuring spell|a spell which conjured green Gytrashes]].<ref name="PSvg" />
+*'''[[Defence Against the Dark Arts]]''': Quirrell was noted to be particularly gifted in the theory of Defensive Magic and would gain an extensive amount of knowledge and experience on how to defend from the Dark Arts, some of which were attributed from his journeys,<ref name="pottermore" /> to the point where the [[Ministry of Magic]] considered him to have been a good teacher.<ref name="OOTP15"/> The thruth of this was exemplified by his ability to effectively teach his first year classes how to use the [[Defensive Charm]]s like the [[Verdimillious Charm]] and [[Wand-Lighting Charm]] to defend from the Dark Forces. He also taught the [[Curse of the Bogies]]<ref name="PS9"/> and could quickly deduce that Harry Potter was under the aforementioned curse's influence immediately upon seeing him entering his class coughing and he also was able to thoroughly explain to his class how to use the [[Knockback Jinx]].<ref name="PSvg"/> Despite his expertise, however, his nervous nature and constant stutter led many of his students to view his classes as a bit of a joke, giving him very little respect in return.<ref name="PS8" />
+*'''[[Wandless magic]] and [[Non-verbal magic]]''': Quirrell was capable of effectively performing intricate magic [[non-verbal magic|nonverbally]] and [[wandless magic|wandlessly]], [[Incarcerous Spell|conjuring ropes]] [[Wandless magic|without a wand]].<ref name="PS17" /> He could also [[Spell to conjure a circle of fire|conjure fire]] just by raising his hands.<ref name="PSF">{{PS|F}}</ref>
+{{Quote| I have a special gift with [[troll]]s -- you must have seen what I did to the [[Quirinus Quirrell's second mountain troll|one]] in the chamber back there?|Quirrell explaining to Harry his talent with handling dangerous [[beast]]s|Harry Potter and the Philosopher's Stone}}
+*'''[[Magizoology]]''': He was known to be experienced and capable in handling dangerous magical [[creature]]s from his travels, but had a particular uncommon gift with [[troll]]s. He was able to bring [[Quirinus Quirrell's first mountain troll|a fully grown mountain troll]] into Hogwarts Castle on [[Hallowe'en]], as well as easily subdue the notably bigger and presumably more ferocious [[Quirinus Quirrell's second mountain troll|mountain troll]] that guarded the Philosopher's Stone.<ref name="PS10">{{PS|B|10}}</ref><ref name="PS17" /> He was also able to acquire a [[Norwegian Ridgeback]] [[dragon egg]] to give to Hagrid,<ref name="PS17" /> implying he was sufficiently familiar with both the illegal trafficking of magical beasts and the local black market scene to know how to acquire [[Non-Tradeable Material]] without discovery. Furthermore, he would have been very knowledgeable in understanding and handling dark creatures, considering his profession as the Defence Against the Dark Arts instructor, and was at least able to explain to Harry Potter how to deal with [[Ghost]]s, [[Gytrash]]es and [[Imp]]s, for example.<ref name="PSvg"/> He was also known to have an interest in [[Vampire]]s,<ref name="PS5"/><ref name="PS8"/> meaning he would have had a very good understanding of them as well, and proved capable of roaming the [[Forbidden Forest]] in order to consume [[unicorn blood]] as means of strengthening Lord Voldemort without being mauled to death by the dark, dangerous creatures that dwelled therein, suggesting that he was more than able to keep such beasts at bay. When [[Severus Snape]] intercepted Quirrell on the third floor the first time he tried to break into the chambers guarding the [[Philosopher's Stone]], they saw themselves confronted by [[Fluffy]], and while Snape was injured, Quirrell emerged from the situation unschathed. 
+*'''[[Muggle Studies]]''': Quirinus had considerable knowledge of [[Non-magic people|Muggle]]s, Muggle technology and society considering that he was a professor of [[Muggle Studies]] at [[Hogwarts School of Witchcraft and Wizardry]]; he would have achieved a high score on his [[Nastily Exhausting Wizarding Test|N.E.W.T.]] exam.
+*'''[[Herbology]]''': Quirrell clearly had some interest and skill in Herbology and with magical and mundane plants, going as far as having a liking for pressing wild flowers in his free time.<ref name="pottermore" /> Indeed, he was capable of passing through the [[Devil's Snare]] in the Underground Chambers presumably with relative ease, implying he was rather knowledgeable in this field.
+*'''Acting skills''': Despite his timid and nervous nature, Quirrell was also a talented actor as he was able to hide his true nature from most of the Hogwarts staff members and students, with the notable exceptions of Albus Dumbledore and Severus Snape, enough so that even Harry Potter and his friends suspected Snape instead of him, and only revealed his true nature and intentions to Harry at the very end. Additionally, even though Snape saw him for what he really was, Quirrell did not openly show his dark nature to Snape when he was threatened by him, keeping the facade of a nervous, helpless man in order to fool the other Hogwarts residents.
+
+==Possessions==
+[[File:Quirrell wand.png|thumb|Quirrell's wand]]
+*'''[[Quirinus Quirrell's wand|Wand]]''': Quirrell owned a [[wand]] made of [[alder]] [[Wand wood|wood]] with a [[unicorn hair]] [[Wand core|core]].<ref name="pottermore" /> 
+*'''[[Quirinus Quirrell's turban|Turban]]''': During  the 1991-1992 school year, Quirrell wore a turban to hide his master's face on the back of his head,<ref name="PS17"/> for which he claimed was gifted to him by an [[African prince]].<ref name="PS8"/>
+*'''[[Defence Against the Dark Arts teacher's office|Office]]''': While teaching Defence against the Dark Arts, Quirrell occupied an office on the second floor where he kept books, skulls and masks.<ref name="PSvg"/>
+*'''[[Lumos spellbook]]''': Quirrell owned a spell-book about the [[Wand-Lighting Charm]] that he used while teaching.<ref name="PSvg"/>
+*'''[[Vault 998]]''': Quirrell owned this vault in [[Gringotts Wizarding Bank]], containing many valuables and personal items.<ref name="PSvg"/> 
+
+==Relationships==
+===Lord Voldemort===
+[[File:VoldemortQuirell.png|240px|thumb|left|Quirrell sharing his body with [[Tom Riddle|Voldemort]]]]
+{{Quote|When I failed to steal the stone from [[Gringotts Wizarding Bank|Gringotts]], he was most displeased. He punished me...decided he would have to keep a closer watch on me....|Quirinus Quirrell to [[Harry Potter]] regarding his first failure|Harry Potter and the Philosopher's Stone}}
+Quirinus Quirrell first met [[Tom Riddle|Lord Voldemort]] in [[1991]], in the forests of [[Albania]], where Voldemort subjugated Quirrell into servitude. Quirrell brought him back to [[Great Britain|Britain]], and eventually to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. The Dark Lord planned to obtain the [[Philosopher's Stone]] and fabricate the [[Elixir of Life]] to acquire a body.<ref name="GOF33">{{GOF|B|33}}</ref> Quirrell attempted to infiltrate [[Vault 713]] of [[Gringotts Wizarding Bank]], in order to steal the [[Philosopher's Stone]]. Quirrell managed to break in, but found the vault had been emptied by [[Rubeus Hagrid]] and [[Harry Potter]] earlier that day.<ref name="PS17" />
+
+[[File:Voldemortdrinkingunicornblood.jpeg|220px|thumb|right|Quirrell drinking unicorn blood for Voldemort]]
+
+Following this failed attempt, Voldemort began a parasitic relationship with Quirrell, in which he attached himself to the back of Quirrell's head, to ensure his plans were being followed precisely; throughout the year, Quirrell attempted to resist the possession, feeble and futile though his efforts were. Voldemort ordered Quirrell to kill [[Harry Potter]], though Quirrell's attempts to do so were thwarted by [[Severus Snape]] and [[Hermione Granger]]. Harry penetrated the [[Philosopher's Stone Chambers]] in pursuit of [[Severus Snape|Snape]], or so he believed, only to find it was Quirrell in front of the [[Mirror of Erised]]. Quirrell, under Voldemort's orders, demanded Harry draw the Stone from the Mirror; though Harry was successfully able to retrieve the stone, he attempted to conceal the fact by lying about what he saw in the mirror. Quirrell revealed Voldemort, who tried to manipulate Harry into handing over the Stone by offering him the chance to see his parents, and upon Harry's refusal, ordered Quirrell to take the stone by force. Quirrell, sharing his body with Voldemort, found himself unable to touch "a person marked by something so good" (referring to [[Lily J. Potter|Lily Potter]]'s [[sacrificial protection]]). Voldemort separated his [[soul]] from Quirrell's body to escape the pain, and left Quirrell to die, as [[Albus Dumbledore]] noted, showing him as little mercy as he did his enemies.<ref name="PS17" />
+
+Three years later, Voldemort told his [[Death Eaters]] that Quirrell was a fool, and that he only allied with him for his position.<ref name="GOF33" /> It should be noted that despite his fear of Voldemort and that he was not a Death Eater, Quirrell was one of Voldemort's only followers who referred to him by name,<ref name="PS17" /> the others being [[Bartemius Crouch Junior]] and [[Peter Pettigrew]].
+
+===Harry Potter===
+{{Quote|I'm going to kill you tonight. You're too nosy to live, Potter. Scurrying around the school on Hallowe'en like that, for all I knew you'd seen me coming to look at what was guarding the Stone.|Quirrell threatening to murder Harry Potter in the Underground Chambers|Harry Potter and the Philosopher's Stone}}
+[[File:COS_promo_Harry_Potter_Hogwarts_uniform_cropped.jpg|thumb|[[Harry Potter]], his enemy]]
+Quirrell first met Harry Potter in [[1991]], at the [[Leaky Cauldron]], in [[Diagon Alley]]. Quirrell greeted Harry in the same way most of the wizarding community did, seeming thrilled to meet "The Boy who Lived". Though Harry found Quirrell's twitchy behaviour odd, he was generally pleased to meet Quirrell, as a friend of Hagrid's and as his soon-to-be [[Defence Against the Dark Arts]] professor at Hogwarts.<ref name="PS5" />
+
+Harry eventually came to believe that [[Severus Snape]] was attempting to threaten Quirrell into helping him penetrate the defences surrounding the [[Philosopher's Stone]], for Voldemort. As it seemed like the only thing standing between Snape and a means of restoring Voldemort to power was Quirrell's will, Harry did what he could to encourage Quirrell and help build his confidence.<ref name="PS14" />
+
+[[File:QuirinusQuirrell WB F1 QuirrellAndHarry Still 080615 Land.jpg|235px|thumb|left|Quirinus threatening Harry]]
+
+As it turned out, Quirrell was a servant of Voldemort, and it was he, not Snape, who was aiming to steal the [[Philosopher's Stone]] for the Dark Lord, and, if possible, kill Harry along the way. When they met for the last time in the final of the [[Philosopher's Stone]] Chambers, Quirrell's connection to Voldemort rendered him unable to touch Harry without experiencing unbearable pain, due to the enduring power of [[Lily Evans|Lily Potter's]] [[sacrificial protection]], and he died attempting to steal the stone from Harry by force.<ref name="PS17" />
+
+About four years after this, when Dolores Umbridge commented positively on Quirrell's teaching methods, Harry sarcastically agreed before pointing out the deceased professor's duplicity.<ref name="OOTP15"/> A year after that, when Snape finally took over as the Defence teacher, Harry made a snide comment of Quirrell dying on the job, and hoped that Snape would also die.<ref name="HBP8">{{HBP|B|8}}</ref>
+
+===Hogwarts staff===
+[[File:Harry Potter Movie Pictures-Professors.jpg|225px|thumb|Professors at Hogwarts]]
+
+With the exception of Severus Snape, Quirrell generally got along well with most of the faculty at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], including [[Filius Flitwick]], [[Pomona Sprout]], [[Minerva McGonagall]] and [[Rubeus Hagrid]]. Hagrid seemed to think highly of Quirrell, and considered him to be a very clever and talented [[Wizardkind|wizard]] for his extensive world travels and experience fighting the [[Dark Arts]].<ref name="PS5" /> However, as Quirrell didn't show his true personality, it is possible he did not like all of them, and it is possible they were all disgusted by Quirrell's actions once his true nature was revealed. Quirrell additionally took advantage of Hagrid's love for magical creatures through getting him drunk and giving him an illegal Dragon egg so that he revealed the secret of getting past Fluffy. Hagrid afterwards was horrified when he learnt of Quirrell's true nature and the fact that he manipulated him for his own ends, calling him an "evil git" when he visited Harry in the Hospital Wing after Quirrell's death. 
+
+===Severus Snape===
+{{Dialogue a-b-a-b-a|Snape|You don't want me as your enemy, Quirrell|Quirrell|I-I don't know what you|You know perfectly well what I mean.|B-but I d-d-don't --|Very well, we'll have another little chat soon, when you've had time to think things over and decided where your loyalties lie.|Snape threatening Quirrell in the [[Forbidden Forest]], showing his suspicion of his motives|Harry Potter and the Philosopher's Stone}}
+[[File:Severus Snape Profile.jpg|233x233px|thumb|left|[[Severus Snape]], his enemy]]
+[[Severus Snape]], however, was the only one apart from Albus Dumbledore who saw Quirrell for what he really was.<ref name="PS13"/> His contempt partially stemmed from the fact that Quirrell was the [[Defence Against the Dark Arts]] [[Professor]] — a position that Snape had wanted for years.<ref name="PS8"/> Along with being ordered by Dumbledore to keep an eye on Quirrell,<ref name="DH33"/> Snape may have guessed that Quirrell was hiding his true intentions, as he told him to "decide where his loyalties are", though [[Harry Potter]] and his friends believed that Snape was threatening Quirrell in order to get information about how to get into the [[Philosopher's Stone]] chamber.<ref name="PS13">{{PS|B|13}}</ref> Years later, Snape described Quirrell as greedy and worthless to [[Bellatrix Lestrange]] and [[Narcissa Malfoy]].<ref name="HBP2">{{HBP|B|2}}</ref>
+
+===Albus Dumbledore===
+{{Quote|Keep a watch on our friend Quirrell, won't you?|Dumbledore asking Snape to watch on Quirrell|Harry Potter and the Deathly Hallows}}[[File:600full-Albus-Dumbledore-the-prisoner-of-azkaban-photo.jpg|224x224px|thumb|[[Albus Dumbledore]]: boss, enemy, and the only one his [[Tom Riddle|master]] ever feared]]
+As [[Headmaster]] [[Albus Dumbledore]] was a highly intelligent and powerful wizard, he was aware of Quirrell's true nature even though he maintained a relatively civil relationship with him. This is further evidenced by the fact he asked Snape to keep an eye on Quirrell.<ref name="DH33">{{DH|B|33}}</ref> After the events in the [[Philosopher's Stone]] chambers, Dumbledore expressed his opinion to Harry that Quirrell, much like [[Tom Riddle|Voldemort]], was flawed for his inability to understand "good and evil", and his desire for power.<ref name="PS17" />
+
+About four years after his demise, Quirrell's theory-based teaching method was praised by the then Defence Against the Dark Arts teacher, [[Dolores Umbridge]], due to the Ministry's paranoia of the students training to become Dumbledore's private army.<ref name="OOTP15"/>
+
+===Hogwarts students===
+During his one year as the Defence Against the Dark Arts teacher, Quirrell was constantly nervous and stuttering. As a result, he gained very little respect from his students, who looked down on his class as a joke and did not take him seriously as a teacher.<ref name="PS8"/>
+
+==Etymology==
+The name "Quirinus" is possibly derived from the Sabine word ''quiris'' meaning "spear". Quirinus was a Sabine and a Roman god who was later identified with Mars. The name was also borne by several early saints.
+
+Quirinus is also used as an epithet for the Roman god Janus, a god with two faces similar to Quirrell after he was possessed by Voldemort. This could be a clue to the malevolence of his character. Janus was the god of beginnings, and Quirrell was the first one to find Voldemort in Albania, thereby beginning the Dark Lord's return to power, in a way, and was the first Dark Wizard that Harry ever directly confronted.
+
+'Quirrell', which is so nearly 'squirrel' — small, cute and harmless — also suggested 'quiver', is a nod to the character's innate nervousness.
+
+==Behind the scenes==
+[[File:Quirrell_2.JPG|150px|thumb|[[Ian Hart]] as Professor Quirrell]]
+[[File:Screenshot_852.png|thumb|Quirrell as portrayed in the console versions of {{PS|G}}]]
+[[File:Quirrell_LEGO.jpg|thumb|Quirrell in {{LEGO|Y1}}]]
+[[File:QuirrellvsHarry.jpeg|220px|thumb|Harry's battle with Quirrell in an illustration for ''Philosopher's Stone'']]
+[[File:Quirrell.jpeg|thumb|Quirrell as illustrated by [[Mary GrandPré]]]]
+[[File:Quirin.jpg|thumb|Quirrell as a LEGO minifigure (old edition)]]
+[[File:LEGOQuirrell.jpg|261x261px|thumb|Quirrel as a LEGO minifigure (new edition)]]
+[[File:Voldemort (Quirrell) LEGO.png|thumb|[[Tom Riddle|Lord Voldemort]] possessing Quirrell in {{LEGO|Y1}}]]
+*Quirinus Quirrell was played by [[Ian Hart]] in {{PS|FA}}. Archive footage of Quirrell from ''Philosopher's Stone'' appears in the "Prince's Tale" sequence of {{DH|F2}}.
+*[[David Thewlis]], who went on to play [[Remus Lupin|Professor Lupin]] in the [[Harry Potter (film series)|film adaptations]], was at one point considered for the role of Professor Quirrell.
+*Quirinus Quirrell served as a temporary [[Horcrux]] when [[Tom Riddle|Voldemort]]'s soul possessed his body in [[1991]]. However, the piece of the soul survived Quirrell's demise, and was destroyed six years later when Voldemort was killed.<ref name="pottermore" />
+*To make Quirrell's turban not seem out-of-place, many of the actors who played wizards in the Leaky Cauldron were told to wear turbans.
+*Quirrell's story about encountering the prince and being gifted with the turban is an early hint that he is not what he makes himself out to be.
+**It is remarked in the story that the turban smells foul, and most presume it is to protect Quirrell from a vampire he encountered in the Black Forest. It is later revealed that Voldemort was possessing Quirrell, and the smell was possibly owing to him.
+**Ironically, Quirrell's story about a vampire is in some respect true, as Voldemort existed in a state between life and death, and himself admitted that he was living parasitically off of Quirrell and forced him to do parasitic actions like drinking the blood of the unicorns in the Forbidden Forrest to keep him alive, likewise to how a vampire survives by drinking the blood of living beings. 
+*He is similar to [[w:c:villains:Mr Helliwell|Mr Helliwell]] from [[wikipedia:Anthony Horowitz|Anthony Horowitz's]] ''Return to Groosham Grange''. Mr Helliwell and Quirrell are both dark sorcerers, both are skilled in advanced magic, both are traitors to the school and are conspiring to overthrow their schools, both are charismatic and have a corrupting influence they use to manipulate the protagonists and corrupt them, both seek a prized item - the Unholy Grail and the Philosopher's Stone, respectively - and both have their treachery revealed when it is almost too late.
+**Anthony Horowitz wrote ''Groosham Grange'' before Harry Potter, and Rowling admitted the use of a train in Groosham Grange to reach the school was one of her influences.
+*On the student list shown by [[J. K. Rowling]] on {{HPM}}, a student named "Quirrell" was listed, but the name was crossed out with "[[Oliver Rivers|Rivers]]" written above it.
+*Quirrell was the first known Ravenclaw introduced in the series, though his house was only revealed on Pottermore.
+*He is also the first Harry Potter character to be directly involved with Voldemort. Snape, who also appeared in the first book, is not at that point revealed as a former [[Death Eaters|Death Eater]].
+*Given that he seemed familiar with the rivalry between [[Severus Snape]] and [[James Potter I|James Potter]] it's possible that he was at Hogwarts at the same time as them, though it's unconfirmed.
+*Had Quirrell succeeded in restoring Voldemort to power, he likely would have been made an official [[Death Eaters|Death Eater]].
+*In the novel of {{PS}}, Quirrell does not appear to have his turban until after his failed attempt to steal the [[Philosopher's Stone]] from [[Gringotts Wizarding Bank|Gringotts]]. In the [[Harry Potter and the Philosopher's Stone (film)|film]] however, Quirrell has his turban before the robbery. This change is indicated by the fact that he shakes Harry's hand at the [[Leaky Cauldron]] in the novel, but does not wish to in the film. However, not wanting to shake Harry's hand cannot be due to Voldemort sharing Quirrell's body, because as Quirrell dies, he does not understand what is happening to him (he yells, "What ''is'' this magic?!?").
+*In the film, Quirrell and Harry combated for possession of the stone. Quirrell is defeated by Harry upon physical touch, which burns him and allows Harry to break the chokehold. Harry cuts off his access to the stone and touches him, forcing him back, and he disintegrates, crumbling to ash and dust at Harry's feet, dead, and becoming Harry's first kill and victory. Voldemort dispossesses his body immediately afterwards and his vengeful disembodied soul lunges at Harry, leaving him unconscious. In the book, however, even though his death is not shown, it is implied by Voldemort in the fourth book that he died rather because Voldemort left his body, as opposed to Harry's love burning him.
+*Quirrell is notable as being one of few [[Wizardkind|wizards]] capable of performing intricate magic, like Dumbledore, without a wand; he can fly without a wand, conjure ropes by snapping his fingers, etc. It is possible that he had this ability because of Voldemort's possession of him, although Hagrid's high opinion of Quirrell suggests that Quirrell was a talented wizard before Voldemort's possession.  
+*Quirrell is unique among Voldemort's followers as one of the few who use Voldemort's name. While the [[Death Eaters]] call Voldemort "The Dark Lord" when referring to him (with the exceptions of [[Bartemius Crouch Junior]] and [[Peter Pettigrew]]), Quirrell openly uses Voldemort's name when talking to Harry.
+*Quirrell is a playable character in {{LEGO|Y1}}. Despite dying in the first year, he can still be played in the other years and is seen at the end of Year 1, armless and heavily bandaged in the hospital wing. He is capable of using [[Dark Arts|Dark Magic]] in the game. It is also possible to play both professor Quirrell in Voldemort form and his normal form with turban. However, he can only use the [[Unforgivable Curses]] when he is in his Voldemort form. Quirrell's character can also be found walking around Diagon Alley even after finishing the Philosopher's Stone, along with other wizards, despite canonically being dead. 
+*In {{LEGO|Y1}} and the [[Harry Potter and the Philosopher's Stone (video game)|PC version]] of {{PS}}, Voldemort twists Quirrell's head 180 degrees to face Harry. Quirrell can also [[Homing spell|shoot green fireballs]] and create a [[Ghostly head spell|ghostly green head]] that can hurt Harry.
+*In all versions of {{LEGO|Y1}} and some of the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptations]] of {{PS}}, ''Quirrell'' is misspelled ''Quirrel''.
+*Quirinus Quirrell was listed on the {{PM}} Feature "Top 5 Death Eaters you'll never forget." This is, to date, the only source identifying Quirrell as a Death Eater. 
+
+==Appearances==
+{{Imagecat|Images of Quirinus Quirrell}}
+[[File:Quirrell_Pop.jpg|thumb|Quirrell as a [[POP! Vinyl]]]]
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}} {{Indirect}}
+*{{POA}} {{Indirect}}
+*{{GOF}} {{Indirect}}
+*{{OOTP}} {{Mention}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{HBP|G}} {{Mention}}
+*{{DH}} {{Comment|Mentioned in flashbacks}}
+*{{DH|F2}} {{Flashback}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{TCG}} {{1st ID}}
+*{{LEGO|Y1}}
+*{{LEGO|C1}}
+*{{LEGO}}
+*{{HPK}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Muggle Studies]] Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=?-[[1990]]
+|successor= Unknown, eventually [[Unidentified male Muggle Studies teacher|Male Muggle Studies teacher]]
+}}
+{{Succession box
+|predecessor=Unknown, eventually<br/>[[Patricia Rakepick]]
+|position=[[Defence Against the Dark Arts]] Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1991]]-[[1992]]
+|successor=[[Gilderoy Lockhart]]
+}}
+{{End box}}
+{{Staff}}
+{{Muggle Studies}}
+{{Defence Against the Dark Arts}}
+{{Death Eaters}}
+
+{{DEFAULTSORT:Quirrell, Quirinus}}
+
+[[de:Quirinus Quirrell]]
+[[es:Quirinus Quirrell]]
+[[fi:Quirinus Orave]]
+[[fr:Quirinus Quirrell]]
+[[he:קוויריניוס קווירל]]
+[[it:Quirinus Raptor]]
+[[ja:クィリナス・クィレル]]
+[[nl:Professor Krinkel]]
+[[no:Quirinus Krengle]]
+[[pl:Slatero Quirrell]]
+[[ru:Квиринус Квиррелл]]
+[[sv:Quirinus Quirrell]]
+[[Category:1992 deaths]]
+[[Category:British or Irish individuals]]
+[[Category:Criminals]]
+[[Category:Dark wizards]]
+[[Category:Death Eater allies]]
+[[Category:Defence Against the Dark Arts Professors at Hogwarts]]
+[[Category:Half-bloods]]
+[[Category:Killed by Harry Potter]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Muggle experts]]
+[[Category:Muggle Studies Professors at Hogwarts]]
+[[Category:Plot to kill Harry Potter participants]]
+[[Category:Protectors of the Philosopher's Stone]]
+[[Category:Ravenclaws]]
+[[Category:Tom Riddle's Horcruxes]]
+[[Category:Unmarried individuals]]

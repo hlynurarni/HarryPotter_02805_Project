@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme=wizard
+|image=Barnabas Deverill.jpg
+|name=Barnabas Deverill
+|hideb=
+|born=[[17th century]] (most likely)
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Philbert Deverill]] (possibly)
+|hidem=
+|animagus=
+|boggart=
+|wand=*Unknown wand<ref>It is most likely that he owned another wand before the [[Elder Wand]].</ref>
+*[[Elder Wand|Elder, Thestral tail hair core]]
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Barnabas Deverill''' was a master of the [[Elder Wand]] in the early eighteenth century,<ref>{{DH|B|21}}</ref> and "used it to carve himself out a reputation as a fearsome [[warlock]], until his reign of terror was ended" by [[Loxias]] who [[Defeat of Barnabas Deverill|murdered]] Barnabas and mastered the wand.<ref>{{TBB|E}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref>
+
+==Etymology==
+The name "Barnabas" is a Greek form of an Aramaic name. In Acts in the New Testament, the byname Barnabas was given to a man named Joseph, a companion of Paul on his missionary journeys. The original Aramaic is unattested, but it may be from בּר נביא (bar naviya') meaning "son of the prophet", though in Acts 4:36 it is claimed that the name means "son of encouragement". As an English name, it came into occasional use after the 12th century.
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{TBB|R}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Hereward]]
+|position=Master of the [[Elder Wand]]
+|years=Early eighteenth century
+|successor=[[Loxias]]
+}}
+{{End box}}
+{{Deathly Hallows Owners}}
+
+[[de:Barnabas Deverill]]
+[[es:Barnabas Deverill]]
+[[fr:Barnabas Deverill]]
+[[pl:Barnabas Deverill]]
+[[pt-br:Barnabás Deverill]]
+[[ru:Варнава Деверилл]]
+[[Category:Deverill family]]
+[[Category:Elder Wand masters|Deverill, Barnabas]]
+[[Category:Historical figures]]
+[[Category:Males|Deverill, Barnabas]]
+[[Category:Murder victims|Deverill, Barnabas]]
+[[Category:Warlocks|Deverill, Barnabas]]
+[[Category:Wizards]]

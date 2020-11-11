@@ -1,0 +1,31 @@
+{{HogwartsMysterySpoiler}}
+{{Family infobox
+|image=[[File:Fawcett.jpg|250px]]
+|name= Fawcett family
+|hideh=
+|blood=[[Wizarding world|Wizarding]] family of unknown degree
+|family members=[[Fawcett|S. Fawcett]]
+|status=Unknown
+|hider=1
+|related=
+|hidea=
+|house= [[Ravenclaw]]
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Fawcett''' was the surname of a [[Wizarding world|wizarding]] family that lived near [[Ottery St Catchpole]] in [[Devon]], [[England]].<ref name="GOF">{{GOF}}</ref> They lived near the [[Weasley family|Weasley]], [[Diggory family|Diggory]], and [[Lovegood family|Lovegood]] wizarding families.
+
+The only known member of this family was [[Fawcett|S. Fawcett]], a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] during the [[1990s]] and who was sorted into [[Ravenclaw]] house.<ref>{{COS}}</ref> In [[1994]], the Fawcetts tried unsuccessfully to get tickets to the [[Quidditch World Cup]]<ref name="GOF" />.
+
+==Etymology==
+''[[Wikipedia:Fawcett|Fawcett]]'' is an English surname and the name of the main street in Sunderland, Tyne and Wear, [[England]]. The [[Wikipedia:Fawcett Society|Fawcett Society]] is an organisation in the [[Great Britain|United Kingdom]] that promotes women's rights. It also has a similar pronunciation to the word "faucet", a kind of [[water]] valve.
+
+==Appearances==
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Famille Faucett]]
+[[ru:Фосетт]]
+[[pl:Rodzina Fawcett]]
+[[Category:Fawcett family]]

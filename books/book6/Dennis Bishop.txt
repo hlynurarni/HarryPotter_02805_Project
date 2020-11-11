@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Dennis Bishop
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Wool's Orphanage]]
+}}
+{{Quote|They were funny... Never the same again.|[[Cole|Mrs Cole]]|Harry Potter and the Half-Blood Prince}}
+
+'''Dennis Bishop''' was a resident of the same [[Wool's Orphanage|orphanage]] as [[Tom Riddle]] (later [[Tom Riddle|Lord Voldemort]]).<ref name="HBP13">{{HBP|B|13}}</ref>
+
+==Biography==
+[[Amy Benson]] (also a resident of the orphanage) along with Dennis Bishop were taken to the [[The Cave|cave]] (later home to the [[Salazar Slytherin's Locket|Horcrux locket]]), against their will, where Tom Riddle did something so terrible, the two would not speak of it.<ref name="HBP13">{{HBP|B|13}}</ref>
+
+==Behind the scenes==
+*In a deleted scene from {{HBP|FA}}, [[Albus Dumbledore]] states that the two children taken to the cave were Tom Riddle's fellow students. This could imply that they were also students at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], but it is more likely that Tom attended another Muggle school with them for their early education.
+
+==Etymology==
+The name "Dennis" comes from Denys or Denis, the medieval French forms of Dionysius. Also, the name “Dennis”, comes from the Greek god of wine and insanity, Dionysius, possibly referencing Dennis's mental trauma. Saint Denis was a 3rd-century missionary to Gaul who was beheaded in Paris. He is credited with converting the Gauls to Christianity and is considered the patron saint of France.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{HBP|F}} {{Comment|Deleted scene}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bishop, Dennis}}
+
+[[de:Dennis Bishop]]
+[[es:Dennis Bishop]]
+[[fr:Dennis Bishop]]
+[[pl:Dennis Bishop]]
+[[zh:丹尼斯·毕肖普]]
+[[Category:British individuals]]
+[[Category:Crystal Cave]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Orphans]]
+[[Category:Wool's Orphanage residents]]

@@ -1,0 +1,33 @@
+{{Individual infobox
+|name = Golpalott
+|species = [[Human]]
+|job = [[Potioneer]], Inventor
+|theme = wizard
+|hideb = hide
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+{{quote|Settle down, settle down, please! Quickly, now, lots of work to get through this afternoon! Golpalott’s Third Law . . . who can tell me — ? But Miss Granger can, of course!|Horace Slughorn|Harry Potter and the Half-Blood Prince}}
+
+'''Golpalott''' was (possibly) the [[Wizardkind|wizard or witch]] who formulated [[Golpalott's Third Law]].<ref name="HBP18">{{HBP|B|18}}</ref> Alternatively, it may have been named after him or her by someone else.
+
+==Behind the scenes==
+*It is likely that his name is a pun on the phrase "Gulp a lot", which they may have been inclined to do so as a [[potioneer]].
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{Potions}}
+
+[[es:Golpalott]]
+[[fr:Golpalott]]
+[[pl:Golpalott]]
+[[ru:Голпалотт]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Inventors]]
+[[Category:Potioneers]]
+[[Category:Theoreticians]]
+[[Category:Wizards]]

@@ -1,0 +1,34 @@
+{{Object infobox
+|name=Harry Potter's sock
+|image=[[File:Dobby's sock.png|250px]]
+|manufacturer=
+|made=
+|usage=Worn to keep feet warm
+|owners=*[[Harry Potter]] (formerly)
+*[[Lucius Malfoy]] (tricked)
+*[[Dobby]]
+}}
+{{Dialogue a-b-a-b-a|Lucius Malfoy|Come, Dobby. I said, come!|Dobby|Master has given a sock. Master gave it to Dobby.|What's that? What did you say?|Dobby has got a sock. Master threw it, and Dobby caught it, and Dobby — Dobby is ''free''.|You've lost me my servant, boy!|[[Harry Potter]] frees [[Dobby]]|Harry Potter and the Chamber of Secrets}}
+
+This '''sock '''that once belonged to [[Harry Potter]] was given to the [[house-elf]] [[Dobby]] by [[Lucius Malfoy]] (his master). Harry tricked Lucius Malfoy by presenting him with [[Tom Riddle's Diary]], shoved inside this sock. When Lucius Malfoy took the diary out of the sock, he threw the useless piece of clothing and Dobby caught it, making him free.<ref>{{COS|B|18}}</ref> Dobby kept that sock on until the [[Skirmish at Malfoy Manor|day he died]].
+
+Another sock of Harry's was used to hold his [[Sneakoscope]] and also later given to Dobby.
+
+==Behind the scenes==
+*The way in which [[Harry Potter|Harry]] tricks [[Lucius Malfoy]] into freeing [[Dobby]] differs between the [[Harry Potter and the Chamber of Secrets|book]] and the [[Harry Potter and the Chamber of Secrets (film)|film]]. In the [[Harry Potter and the Chamber of Secrets|book]], Harry put [[Tom Riddle's Diary]] inside the sock and [[Lucius Malfoy|Malfoy]] merely attempts to attack him before [[Dobby]] [[House-elf magic|knocks him backwards]]. In the [[Harry Potter and the Chamber of Secrets (film)|film]], however, [[Harry Potter|Harry]] places the sock ''inside'' the [[Tom Riddle's diary|diary]] and [[Lucius Malfoy|Malfoy]] attempts to ''[[Death|kill]]'' him before [[Dobby]] [[House-elf magic|knocks him backwards]].
+
+==Appearances==
+{{Comment|It can be assumed that the sock has appeared in every [[Harry Potter (book series)|book]] Dobby appeared in, as Dobby said he always wore it.}}
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}}
+*{{GOF}}
+*{{OOTP}}
+*{{HBP}}
+*{{DH}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Dobby's possessions|Sock]]
+[[Category:Harry Potter's possessions|Sock]]
+[[Category:Socks]]

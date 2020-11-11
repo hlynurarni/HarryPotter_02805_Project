@@ -1,0 +1,77 @@
+{{Youmay|[[Tom Riddle|The Dark Lord's]] paternal grandfather|[[Thomas (disambiguation)|someone else with the same first name]]}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Thomas Riddle grave.png|250px]]
+|name = Thomas Riddle
+|born = [[1880]]
+|died = [[August]]<ref>In the Riddle House in the 1990s, there is a calendar - [http://harrypotter.wikia.com/wiki/file:1943RiddleHouseCalendar.png] - for 1943, which is still set on August, implying that was the month Thomas, Tom and Mary all died</ref>, [[1943]] (aged 62 - 63)<br />[[Riddle House]], [[Little Hangleton]], [[England]], [[Great Britain]]
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = [[England|English]]
+|alias = 
+|title = Squire
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Mary Riddle]] (wife) † 
+*[[Tom Riddle Senior|Tom Riddle Snr]] (son) † 
+*[[Merope Riddle|Merope Gaunt]] (daughter-in-law) † 
+*[[Tom Riddle|Tom Marvolo Riddle]] (grandson) †
+*[[Delphini]] (great-granddaughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Riddle family]]
+}}
+'''Thomas Riddle''' ([[1880]]–[[1943]]) was a very wealthy [[England|English]] [[Non-magic people|Muggle]] who owned most of the town of [[Little Hangleton]]. He and his wife [[Mary Riddle|Mary]] had a son named [[Tom Riddle Senior|Tom]]. The [[Riddle family|Riddles]] were snobby and looked down on the poverty-stricken [[House of Gaunt]] who lived nearby. Although the Gaunts were also unpopular, frowned upon due to their squalour and ill manners by most of the village, the Riddle looked down on most of the families in the village as well, becoming very unpopular amongst the locals.<ref>{{GOF|B|1}}</ref> He was murdered along with his wife and son by his own grandson, [[Tom Riddle|Tom Marvolo Riddle]].
+
+==Biography==
+===Early life===
+Thomas was born in 1880. At some point he married Mary, who would give birth to their son, Tom, in 1905.
+
+===Son's marriage===
+The elderly Riddle couple suffered a great scandal when Tom mysteriously eloped and [[Wedding of Tom Riddle Senior and Merope Gaunt|married]] [[Merope Riddle|Merope Gaunt]], the daughter of the insane [[Marvolo Gaunt]]. The pair left for [[London]], but Tom soon returned to his [[Riddle House|parents' home]], claiming to have been "hood-winked" and "taken in" by Merope. This may have referred to her being a [[Wizardkind|witch]] and probably using a [[Love Potion]] on him to obtain his affections, or to her pregnancy.<ref>{{HBP|B|10}}</ref>
+
+===Murder===
+In [[1943]], Tom was confronted by his son from his forced marriage to Merope Gaunt—[[Tom Riddle|Tom Marvolo Riddle]], who had been left in an [[Wool's Orphanage|orphanage]] after his mother's death and who was a very powerful [[Wizardkind|wizard]]. Thomas was murdered by his grandson with the [[Killing Curse]], as were his wife and son, leaving the three with horrified faces at their deaths, and no medical reason for how three perfectly healthy persons died just like that. Riddle then framed his uncle [[Morfin Gaunt]] for the crime, and Morfin was imprisoned in [[Azkaban]] by the Magical justice system. While the Muggle authorities could not figure out how the Riddles had died, many people suspected their gardener, [[Frank Bryce]], of being the killer. However, the Muggle police never prepared charges against Bryce, due to lack of evidence. Thomas was buried in the [[Little Hangleton graveyard]] along with his son and wife. Due to their attitude towards the locals the only mourners for them were the parson, the mortician and the gravediggers. However, the murders did become the talk of the town, and residents of Little Hangleton did question what had happened and if it could reoccur.
+
+==Behind the scenes==
+*In {{HBP}}, Albus Dumbledore refers to Riddle’s child, Tom (senior) as "the squire’s son." "Squire" is a British term referring to the leader of an English village, often a justice of the peace or a member of Parliament, indicating Thomas’s status in Muggle society.
+
+==Etymology==
+The name "Thomas" is the Greek form of the Aramaic name תָּאוֹמָא (''Ta'oma''’) which meant "twin".
+
+==Appearances==
+*{{GOF}} {{Mention}}
+*{{GOF|F}} {{1st ID}}
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Riddle, Thomas}}
+
+[[de:Tom Riddle sr.]]
+[[ru:Мистер Реддл]]
+[[fr:Thomas Jedusor]] 
+[[pl:Thomas Riddle]]
+[[pt-br:thomas Riddle]]
+[[Category:1880 births]]
+[[Category:1943 deaths]]
+[[Category:Buried at Little Hangleton graveyard]]
+[[Category:Deaths by Killing Curse]]
+[[Category:English individuals]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Riddle family|Thomas]]

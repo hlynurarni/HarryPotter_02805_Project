@@ -1,0 +1,106 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Donaghan Tremlett.jpg|250px]]
+|name = Donaghan Tremlett
+|born = [[1972]]
+|died = 
+|blood = [[Muggle-born]]<ref name="fwc">"[http://www.hp-lexicon.org/wizards/card_wizards.html Famous Wizards Cards]" at the [http://www.hp-lexicon.org Harry Potter Lexicon]</ref>
+|marital = Married
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = White
+|family = *[[Donaghan Tremlett's father|Mr Tremlett]] (father)
+*[[Donaghan Tremlett's mother|Mrs Tremlett]] (mother)
+*[[Donaghan Tremlett's wife|Wife]]
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+|job = Bass player for [[Weird Sisters|The Weird Sisters]]
+|house = 
+|loyalty = *[[Weird Sisters|The Weird Sisters]]
+*[[Tremlett family]]
+}}
+'''Donaghan Tremlett''' (b. [[1972]]) was a [[Muggle-born]] [[Wizardkind|wizard]], who played [[bass]] for the popular wizarding band [[Weird Sisters|The Weird Sisters]]. 
+
+==Biography==
+[[File:Screen_shot_2011-01-19_at_11.09.31_PM.png|thumb|left|At the Yule Ball]]
+===Early life===
+Donaghan Tremlett was born in [[1972]] to [[Non-magic people|Muggle]] [[Tremlett family|parents]].<ref name="fwc" /> He started playing the bass guitar at some point in his childhood, and was noted to be talented at it during his Hogwarts years.<ref name="HM">{{HM|2|The Weird Sisters!}}</ref>
+
+Donaghan began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1983]] or [[1984]].<ref>[http://harrypotter.tokenzone.com/set_2001/tokens/token_11.swf Flash card] from Harry Potter Magical Trading Cards</ref> During his Hogwarts years, he saw the [[Weird Sisters|The Weird Sisters]] perform their song ''[[Do the Hippogriff]]'' and auditioned to become the new bass player of the band. Donaghan became a member of the band, replacing [[Jacob's sibling]], as he could actually play the bass without the use of [[magic]].<ref name="HM"/>
+
+===Later life===
+On [[25 December|Christmas Day]] in [[1994]], the band attended the [[Yule Ball]] at Hogwarts,<ref name="gof23"> {{GOF|B|23}}</ref> where they played classic hits like "[[Magic Works]]" and "[[This Is the Night]]," as well as a new song titled "[[Do the Hippogriff]]."<ref>{{GOF|F}}</ref>
+
+Donaghan married [[Donaghan Tremlett's wife|a woman]] in September [[1995]]. The wedding was mentioned in the ''[[Daily Prophet]]'' on [[7 September]].<ref>{{OOTP|B|14}} - "“No,” she sighed, “just some guff about the bass player in the Weird Sisters getting married. ...”"</ref>
+
+[[File:Funeral of Albus Dumbledore.png|250px|thumb|The [[Funeral of Albus Dumbledore]] that Donaghan attended]]
+In June [[1997]], Donaghan attended the [[Funeral of Albus Dumbledore|funeral]] of [[Albus Dumbledore]], and was one of several familiar people [[Harry Potter]] noticed among the crowd.<ref name="hbp30">{{HBP|B|30}}</ref>
+
+[[File:Donaghan Tremlett.gif|250px|thumb|left|Tremlett]]
+After the [[British Ministry of Magic|Ministry of Magic]] was [[Fall of the Ministry of Magic|taken over]] by [[Tom Riddle|Lord Voldemort]] in September 1997, Donaghan, as a [[Muggle-born]], presumably faced charges before the [[Muggle-Born Registration Commission]]. He may have been sent to [[Azkaban]], or else gone into hiding, like many others of his heritage.
+
+==Physical appearance==
+Donaghan was described as "hairy"<ref name="hbp30" /> and, like all members of the Weird Sisters, wore "artfully torn" black robes when onstage.<ref name="gof23"> {{GOF|B|23}}</ref>
+
+==Behind the scenes==
+*Donaghan Tremlett was portrayed by [[Steve Mackey]] in {{GOF|FA}}.
+*Donaghan's favourite [[Quidditch]] [[Quidditch team|team]] was the [[Kenmare Kestrels]].<ref name="fwc" />
+*Depending on his month of birth, he may have been in the same year as [[Charles Weasley]], [[Nymphadora Tonks]] and [[Jacob's sibling]], among others.
+==Appearances==
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{GOF}}
+*{{GOF|F}}
+*{{OOTP}} {{Mention}}
+*{{HBP}}
+*''[[Wizard of the Month]]''
+*{{LEGO|Y1}} {{Comment|Appears as "Bassist"}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Gwenog Jones]]
+|position=[[Wizard of the Month]]
+|years=[[July]] [[2004]]
+|successor=[[Honoria Nutcombe]]
+}}
+{{End box}}
+{{Weird Sisters}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Tremlett, Donaghan}}
+
+[[de2:Donaghan Tremlett]]
+[[es:Donaghan Tremlett]]
+[[fr:Donaghan Tremlett]]
+[[fi:Donaghan Tremlett]]
+[[it:Donaghan Tremlett]]
+[[pl:Donaghan Tremlett]]
+[[ru:Донаган Тремлетт]]
+[[Category:1972 births]]
+[[Category:British or Irish individuals]]
+[[Category:Kenmare Kestrels supporters]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggle-borns]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Sorted in the 1980s]]
+[[Category:Tremlett family]]
+[[Category:Weird Sisters]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

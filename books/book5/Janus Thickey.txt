@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Janus Thickey
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Janus Thickey's wife|Mrs Thickey]] (wife)
+*[[Janus Thickey's children|Children]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Landlady of the Green Dragon|Landlady]] of the [[Green Dragon]] pub
+}}
+{{Quote|Oh no a Lethifold's got me I'm suffocating|Janus' note to his family concerning a [[Lethifold]] attack|Fantastic Beasts and Where to Find Them (real)}}
+
+'''Janus Thickey''' (fl. [[1973]]) was a [[Great Britain|British]] [[Wizardkind|wizard]]. In [[1973]], he faked his own death by pretending that a [[Lethifold]] had eaten him. He scribbled a note on his beside table that read "''oh no a Lethifold's got me I'm suffocating''," and his [[Janus Thickey's wife|wife]] and [[Janus Thickey's children|children]] were so convinced by it, and the fact that his bed was still neatly made, that they entered a period of mourning. However, their mourning was cut short when Janus was found to be living five miles away, with the [[Landlady of the Green Dragon|landlady]] of the ''[[Green Dragon]]'' pub.<ref>{{FB|R}}, ''Lethifold''</ref>
+
+The [[Janus Thickey Ward]] at [[St Mungo's Hospital for Magical Maladies and Injuries]] was named after him.<ref>{{OOTP|B|23}}</ref>
+
+==Etymology==
+The name "Janus" means "archway" in Latin. Janus was the Roman god of gateways and beginnings, often depicted as having two faces looking in opposite directions, which alludes to Thickey's two-faced personality.
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+*{{FB|R}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Thickey,Janus}}
+
+[[de:Janus Thickey]]
+[[fr:Janus Thickey]]
+[[pl:Janus Thickey]]
+[[ru:Янус Тики]]
+[[Category:British individuals|Thickey, Janus]]
+[[Category:Con artists]]
+[[Category:Males|Thickey, Janus]]
+[[Category:Wizards|Thickey, Janus]]

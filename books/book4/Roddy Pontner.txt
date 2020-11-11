@@ -1,0 +1,43 @@
+{{Individual infobox
+|theme=wizard
+|name=Roddy Pontner
+|image=
+|bgcolor1=
+|bgcolor2=
+|species=[[Human]]
+|gender=Male
+|eyes=
+|hair=
+|born=
+|died=
+|family=
+|blood=
+|title=
+|alias=
+|wand=
+|boggart=
+|patronus=
+|animagus=
+|job=
+|house=
+|loyalty=
+|hideb=y
+|hidef=y
+|hidem=y
+|hidea=y
+}}
+'''Roddy Pontner''' was a [[Wizardkind|wizard]] who bet [[Ludovic Bagman|Ludo Bagman]] that the [[Bulgarian National Quidditch team]] would score the first goal at the [[Quidditch World Cup]] in [[1994]]. Ludo gave him good odds because he was convinced that [[Irish National Quidditch team|Ireland]] had the strongest [[Chaser]]s.<ref>{{QTA|B|7}}</ref> He lost this bet and owed Bagman.<ref>{{GOF|B|8}}</ref>
+
+==Appearances==
+*{{GOF}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Roddy Ponteur]]
+[[fr:Roddy Ponteur]]
+[[pl:Roddy Pontner]]
+[[es:Roddy Pontner]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Males|Pontner, Roddy]]
+[[Category:Wizards|Pontner, Roddy]]

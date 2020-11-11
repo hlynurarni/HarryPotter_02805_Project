@@ -1,0 +1,94 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:PhyllidaSporeHead.jpg|250px]]
+|name = Phyllida Spore
+|born = 
+|died = In or before [[1995]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Spore must have died sometime in or before [[1995]], given her portrait's appearance in the [[Headmaster's office]] in {{GOF|FA}}.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster|Headmistress]]<ref name="GFf21">{{GOF|F|21 (''The Pensieve'')}} {{See image|File:Phyllida Spore Headmistress.jpg}}</ref>
+*[[Honorific#Dame|Dame]]<ref name="dameportrait">{{MHP}} {{See image|File:PhyllidaSpore3.jpg}}</ref>
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Black
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author
+*[[Herbologist]]
+*[[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]<ref name="GFf21" />
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Dame'''<ref name="dameportrait" /> '''Phyllida Spore''' was a [[wizardkind|witch]] who lived during the [[15th century]].<ref name="1408portrait">{{WWHP}} {{See image|File:Phyllida Spore.jpg}}</ref><ref name="ps5">{{PS|B|5}}</ref> A celebrated [[Herbologist]], she was the author of the textbook ''[[One Thousand Magical Herbs and Fungi]]''<ref name="ps5" /> and also served as [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]].<ref name="GFf21" />
+
+==Biography==
+[[File:Phyllida Spore.jpg|212x212px|thumb|left|Phyllida Spore]]
+Phyllida Spore lived in the [[15th century]].<ref name="1408portrait" /> She studied [[Herbology]], writing ''[[One Thousand Magical Herbs and Fungi]]'', a textbook that was still used at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="ps5" /><ref name="hbp25">{{HBP|B|25}}</ref> 
+
+Spore became the [[Headmaster|Headmistress]] of Hogwarts during her lifetime.<ref name="GFf21" /> At some point, she also earned the title "Dame,"<ref name="dameportrait" /> the female equivalent of the honour of [[knight]]hood in [[Great Britain]].<ref name="damewiki">"[http://en.wikipedia.org/wiki/Dame_%28title%29 Dame (title)]" on Wikipedia</ref>
+
+Professor Spore died sometime in or before [[1995]].<ref name="DOD" /> Two [[portrait]]s of her hung at Hogwarts: one painted in [[1408]] depicted a middle aged woman,<ref name="1408portrait" /> and another, hung in the [[Headmaster's office]],<ref name="GFf21" /> depicted her as a younger witch with long dark hair sitting in a chair with skull-shaped finials.<ref name="dameportrait" />
+
+==Magical abilities and skills==
+*'''[[Charm]]s:''' As Headmistress of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], Professor Spore was an accomplished witch with sufficient skills in [[Defensive Charm]]s and [[protective enchantment]]s to control and maintain those surrounding [[Hogwarts School of Witchcraft and Wizardry]]. 
+*'''[[Herbology]]''': Phylida was a very skilled and knowledgeable [[Herbologist]], having thorough knowledge of ''One Thousand Magical Herbs and Fungi'' and having written several books about the subject.
+*'''[[Healing magic]]''': One of her books (''[[Healing at Home with Herbs]]'') specialised on the healing properties of such herbs, showing she also had good knowledge of healing [[magic]]. 
+
+==Behind the scenes==
+*Phyllida's portrait at the [[Headmaster's office]] appears only in {{GOF|FA}}. In {{COS|FA}} a large painting of [[Antonia Creaseworthy]] occupies that space, and in {{OOTP|FA}} and {{HBP|FA}} the portrait of [[Phineas Nigellus Black]] is hung there.
+*The portrait of Spore that is featured in ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]'' was based on an [http://upload.wikimedia.org/wikipedia/commons/1/1d/Elizabeth_Barrett_Browning_by_Michele_Gordigiani_1858.jpg 1858 portrait of poet Elizabeth Barrett Browning (1806–1861)], by Michele Gordigiani.
+
+==Etymology==
+Her first name is from Greek for "leaf" or "plant." A spore is a body produced by fungi, algae and non-flowering plants that is very protective and resistant to drought.
+
+==Appearances==
+{{Imagecat|Images of Phyllida Spore}}
+*{{PS}} {{Mention}}
+*{{GOF|F}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+*{{HM}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Spore, Phyllida}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[First Headmaster of Hogwarts|the first Headmaster]]
+|position=[[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=Before [[1408]]
+|successor=Unknown, eventually [[Edessa Skandenberg|Edessa Sakndenberg]]
+}}
+{{End box}}
+{{Staff}}
+{{Herbology}}
+[[de:Phyllida Spore]]
+[[es:Phyllida Spore]]
+[[fr:Phyllida Augirolle]]
+[[pl:Phyllida Spore]]
+[[it:Phyllida Spore]]
+[[ru:Филлида Спора]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Herbologists]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Nobility]]
+[[Category:Portraits]]
+[[Category:Wizards]]

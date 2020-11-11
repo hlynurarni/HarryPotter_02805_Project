@@ -1,0 +1,78 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:Cole.jpg|250px]]
+|name = Mrs Cole
+|born = c. [[1908]]<ref name="birth">{{HBP|B|13}} - "And this girl, not much older than I was myself at the time, came staggering up the front steps." Merope Riddle was born around 1907, so Mrs Cole was born only a bit later.</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBP13"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP13"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP13"/>
+|gender = Female<ref name="HBP13"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Cole family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Orphanage matron<ref name="HBP13"/>
+|house = 
+|loyalty = [[Wool's Orphanage]]<ref name="HBP13"/>
+}}
+{{Quote|There was no doubt that Mrs Cole was an inconveniently sharp woman.|Mrs Cole's perceptiveness|Harry Potter and the Half-Blood Prince}}
+'''Mrs Cole''' (born c. [[1908]]) was the [[Non-magic people|Muggle]] matron of the orphanage where [[Tom Riddle|Tom Marvolo Riddle]] lived before attending [[Hogwarts School of Witchcraft and Wizardry]], in the [[1930s]]. She was skinny and harassed-looking, with a sharp-featured face, but she was by no means a cruel woman, and the orphans were happy for the most part. It is unknown what happened to Mrs Cole after Tom Riddle's stay at the orphanage.<ref name="HBP13"/>
+
+==Biography==
+===Early life {{Comment|1908-1926}}===
+Cole was born into a [[Non-magic people|Muggle]] family around [[1908]]. She was raised in the [[Muggle world]], having "just started" working at [[Wool's Orphanage]] by [[December]] [[1926]].<ref name="HBP13"/>
+
+===At Wool's Orphanage {{Comment|1926-1938}}===
+{{Quote|That's right. I remember it clear as anything, because I'd just started here myself. New Year's Eve and bitter cold, snowing, you know. Nasty night. And this girl, not much older than I was myself at the time, came staggering up the front steps. Well, she wasn't the first. We took her in, and she had the baby within the hour. And she was dead in another hour.|Mrs Cole relays the history of Tom Riddle's birth to [[Albus Dumbledore]]|Harry Potter and the Half-Blood Prince}}On [[31 December]] [[1926]], [[Merope Riddle]], not much older than Cole herself, stumbled into the orphanage heavily pregnant with a baby boy and ready to give birth. Mrs Cole helped her into the orphanage, where she had the baby in no more than an hour. Life escaping from her, Merope spent her last moments instructing Mrs Cole to name the newborn baby [[Tom]], after his father and [[Marvolo Gaunt|Marvolo]], after his grandfather. Merope died in another hour, without another word. Cole was apparently so puzzled over the boy's naming that she was convinced that [[House of Gaunt|Merope's family]] were from the circus.<ref name="HBP13"/> Whether Mrs Cole relayed this belief to Riddle is unknown.
+
+As [[Tom Riddle]] grew up Mrs Cole noticed that he was different from the other children. As a baby he rarely cried, and when he got older she started to notice that 'nasty' things seemed to happen to children who bothered him: [[Billy Stubbs]]'s rabbit was found hanging in the orphanage rafters the day after the two argued; when out on a day trip to the seaside, [[Amy Benson]] and [[Dennis Bishop]] disappeared with Tom and were never the same when they came back.<ref name="HBP13"/>
+
+====Albus Dumbledore's visit====
+{{Dialogue a-b-a|Mrs Cole|He scares the other children.|Albus Dumbledore|You mean he is a bully?|I think he must be, but it's very hard to catch him at it. |Mrs Cole relays Tom Riddle's childhood to Albus Dumbledore|Harry Potter and the Half-Blood Prince}}[[File:Mrs_Cole_1930s.jpg|250px|thumb|left|Muggle Mrs Cole and wizard Albus Dumbledore talking about Tom Riddle]]
+
+Later on in her career in 1938, Mrs Cole was visited by [[Albus Dumbledore]], who had come to tell her that the late [[Merope Riddle|Merope]] Gaunts's eleven-year-old son, [[Tom Riddle|Tom Marvolo Riddle]], had been accepted into Hogwarts School. This news came as a surprise to Mrs Cole, as she staggered him repeatedly with questions, forcing the wizard to discreetly bewitch her. At Dumbledore's request, Mrs Cole recounted Tom Riddle's history within the orphanage, mostly notably the dark incidents she suspected him of, and remarked that everyone else would be happy to see him gone, though Dumbledore stated that Riddle would have to return to the orphanage during the summer months. She then allowed Dumbledore to visit Tom Riddle in person in his room.<ref name="HBP13">{{HBP|B|13}}</ref>
+
+Riddle ended up going to [[Hogwarts School of Witchcraft and Wizardry]] and received a magical education there. Riddle reluctantly returned to the orphanage for the summer holidays, but after finishing his education at Hogwarts, he left forever and eventually became known as Lord Voldemort, the most dangerous [[Dark Wizard]] since [[Gellert Grindelwald]].<ref name="HBP13"/>
+
+===Later life {{Comment|1938-?}}===
+It is unknown if Mrs Cole was still alive during the events of the [[First Wizarding War|First]] and [[Second Wizarding War]]s, or if she had passed away by the time Voldemort was finally defeated. If she was still alive, she would have been around 90 years old by then.
+
+==Behind the scenes==
+[[File:Mrs_Cole_LEGO.png|thumb|Mrs Cole as she appears in {{LEGO|Y2}}]]
+*Mrs Cole was portrayed by [[Great Britain|British]] actress [[Amelda Brown]] in {{HBP|FA}}.<ref>[http://www.imdb.com/name/nm0113007/ IMDB: Amelda Brown as Mrs Cole]</ref>
+*In the film adaptation, Mrs Cole is depicted as quite older than the character is in the books, being around thirty in the novel and around fifty or sixty in the film.
+*In the novel, Mrs Cole mispronounces Dumbledore's name by first calling him Dumberton by mistake. But when she tries to correct herself, she mispronounces his name again by calling him Dunderbore. In the film, Mrs Cole is able to pronounce Dumbledore's name correctly without making any mistakes, as we hear her calling him 'Mr Dumbledore'. This is most likely because the film deleted the drinks she had with Dumbledore before introducing him to Riddle.
+*As ''Mrs'' is the title used for married women, it could be presumed that Mrs Cole had a husband, even though he was never even mentioned in any ''Harry Potter''-related materials.
+*In {{LEGO|Y2}}, Mrs Cole is a character that, like [[goblin]]s, has a key and the power to open safe boxes.<ref name="LEGOHP">{{LEGO|Y2}}</ref>
+*At one point, Mrs Cole says: "''Oh, well, that's better than a whack on the nose with a rusty poker.''" In Patrick Süskind's ''[[Wikipedia:Perfume (novel)|Das Parfüm]]'' (''Perfume: The Story of a Murderer'') a very similar character, Madame Gaillard, cares for that story's main character (and villain) Jean-Baptiste Grenouille, when he spends his youth in an orphanage. Madame Gaillard had been hit by her father with a poker just over the nose, thereby losing her sense of smell.
+*Although Muggle parents, guardians, siblings and spouses are usually informed about the existence of the wizarding world (an exception of the international Statute of Wizarding Secrecy), it seems that neither Mrs Cole or any other member of the orphanage staff were told that Tom Riddle was actually a wizard. The reason for this is unknown.
+
+==Appearances==
+{{imagecat|Images of Cole}}
+*{{HBP}} {{1st}} {{Flashback}}
+*{{HBP|F}} {{Flashback}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}[[de:Mrs Cole]]
+[[fr:Mrs Cole]]
+[[ru:Миссис Коул]]
+[[pl:Pani Cole]]
+[[Category:1900s births]]
+[[Category:British individuals]]
+[[Category:Cole family]]
+[[Category:Females]]
+[[Category:Muggles]]
+[[Category:Wool's Orphanage employees]]

@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Owner of the Railview Hotel
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PS3"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS3"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS3"/>
+|gender = Female<ref name="PS3"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of the [[Railview Hotel]]<ref name="PS3"/>
+|house = 
+|loyalty = [[Railview Hotel]]<ref name="PS3"/>
+}}
+{{Quote|'Scuse me, but is one of you Mr [[Harry Potter|H. Potter]]. Only I got about an 'undred of these at the front desk.|Owner of the [[Railview Hotel]]|Harry Potter and the Philosopher's Stone}}
+The '''owner''' of the [[Railview Hotel]] in [[Cokeworth]] was a [[Non-magic people|Muggle]] woman. On [[30 July]], [[1991]], she found about one hundred [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts acceptance letter|acceptance letters]] for [[Harry Potter]] at the front desk, as the boy was staying in [[Railview Hotel's room 17|room 17]] with the [[Dursley family|Dursleys]]. [[Vernon Dursley]] took these letters from her and checked out of the hotel.<ref name="PS3">{{PS|B|3}}</ref>
+
+==Appearances==
+*{{PS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Patronne de l'Hôtel du Rail]] [[pl:Właścicielka Hotelu Dworcowego]]
+[[ru:Хозяйка гостиницы «У железной дороги»]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles‎]]

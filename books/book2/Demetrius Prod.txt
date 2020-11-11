@@ -1,0 +1,54 @@
+{{Individual infobox
+|name = Demetrius J. Prod
+|born = Prior to [[1992]]
+|died = [[27 November]], [[1998]]<ref name="Year of Death">The newspaper dates February 8th 1999. Seen as the death took place in November, it is likely it happened the year before.</ref>
+|marital = Married
+|nationality = [[England|English]]
+|title = [[Warlock]]<ref name="1st">{{COS|B|8}} - ''"Warlock D. J. Prod of Didsbury says: [...]"''</ref>
+|species = [[Human]]
+|gender = Male
+|family = [[Elsie Prod]] (wife)
+|loyalty = [[Kwikspell]]
+|theme = wizard
+}}'''Demetrius'''<ref>{{DP}}</ref> '''J. Prod'''<ref name="1st"/> (d. [[27 November]], [[1998]])<ref name="Year of Death"/> was a [[England|English]] [[Wizardkind|wizard]] who lived in [[Didsbury]], [[England]] in late [[1992]]. He died on [[27 November]], [[1998]]<ref name="Year of Death"/> after an argument with his wife, [[Elsie Prod|Elsie]], over the washing-up. His obituary in the ''[[Daily Prophet]]'' mentioned that he died "noisily".
+
+==Biography==
+Little is known of Demetrius' early life; he was trained (albeit not well) in the [[magic]]al arts and could perform weak [[Charm|enchantments]]. Sometime in his life, he met [[Elsie Prod|Elsie]]; the two would later marry, although they did not get along very well.
+
+Sometime prior to [[January]] [[1992]], Demetrius wrote to [[Kwikspell Company]], and a month thereafter managed to [[Human to yak spell|turn Elsie into a yak]]; he wrote an advertisement for the [[Kwikspell]] Company, proud of this feat. [[Harry Potter]] and [[Argus Filch]] would later read about this.<ref name="1st"/>
+
+On the eve of [[27 November]], [[1998]] after supper, Demetrius and Elsie got into an argument over the washing-up. He died that night, described by the ''[[Daily Prophet]]'' to have been "noisily".
+
+==Magical abilities and skills==
+*'''[[Transfiguration]]''': Demetrius was proficient in the art of transfiguration to an extent, being able to successfully [[Transforming Spells|transform]] his wife [[Elsie Prod|Elsie]] [[Human to yak spell|into a yak]], an impressive [[magic]]al achievement given the difficulty of performing [[Human Transfiguration]].<ref name="1st"/>
+
+==Relationships==
+===Elsie Prod===
+Demetrius and his wife didn't seem to get along too well; she sneered at his feeble [[charm]]s, and he once [[Transfiguration|turned]] her into [[Human to yak spell|a yak]]. They frequently argued, and it was during one argument over the washing-up that Demetrius met his death.<ref name="1st"/>
+
+==Etymology==
+The name "Demetrius" is the [[Latin]]ised form of the Greek name Δημήτριος (Demetrios), which was derived from the name of the Greek goddess Demeter. Kings of Macedon and the Seleucid kingdom have had this name. This was also the name of several early saints, including a Saint Demetrius who was martyred in the 4th century.
+
+==Behind the scenes==
+*Demetrius Prod was portrayed by [[Christopher Wilson|Chris Wilson]] in {{HBP|FA}}; he appears in a ''Daily Prophet'' photograph.<ref>[http://www.castingcallpro.com/uk/actor/profile/christopher-wilson Chris Wilson's CastingCallPro profile]</ref><ref>[https://www.starnow.co.uk/christopherw33618 Chris Wilson's Starnow profile]</ref>
+**Wilson's role on the original clothing tag from Warner Brothers costume department was "Yak Man";<ref>{{see image|File:20180730 165253.jpg}}</ref> as it was mentioned in the Call Sheet and all paperwork, it led Wilson to initially believe that "Yak Man" was the name of his character when he did a photo shoot at Warner Brothers Studios. Wilson was later told the character was in fact Demetrius Prod.
+*In the books, he is known as D.J. Prod;<ref name="1st"/> he is first identified as "Demetrius J. Prod" in the {{DP}}.
+*In the Danish translation of the book his name is not abbreviated, and it is changed to Pyllerman Pjok.
+==Appearances==
+*{{COS}} {{1st Mention}} {{c|as D. J. Prod}}
+*{{HBP|F}} {{Photograph}}
+*{{DP}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Prod, Demetrius J.}}
+[[de:Demetrius J. Prod]]
+[[es:Demetrius Prod]]
+[[fr:D. J. Prod]]
+[[it:D.J. Prod]]
+[[pl:D. J. Prod]]
+[[Category:1998 deaths]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Warlocks]]
+[[Category:Wizards]]

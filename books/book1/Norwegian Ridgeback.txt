@@ -1,0 +1,78 @@
+{{Spoiler|WU|HM|PAS}}
+{{Creature infobox
+|image = [[File:Norberta Norwegian Ridgeback.jpg|250px]]
+|name = Norwegian Ridgeback
+|skin = black <ref>{{FB}}</ref>
+|eyes = 
+|hair = 
+|feathers = 
+|related = [[Dragon]]
+|native = [[Norway]]
+|alias = 
+|height = 
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = 
+|affiliation = [[Romanian Dragon Sanctuary]]
+|class = [[Beast]]<br/>[[XXXXX]]
+|status = Extant
+}}
+The '''Norwegian Ridgeback''' is a species of [[dragon]] that is native to [[Norway]], and its typical habitat is the Northern mountains. It is said to physically resemble a [[Hungarian Horntail]].
+
+==History==
+In [[1802]], a Norwegian Ridgeback was reported to have carried off a Whale Calf off the coast of Norway.<ref name="FB">{{FB|R}}</ref>
+
+[[File:Norbert-0.jpg|242x242px|thumb|left|Norberta, the Norwegian Ridgeback]]
+
+In [[1991]], [[Rubeus Hagrid]] received a Norwegian Ridgeback [[Dragon egg|egg]] from a [[Quirinus Quirrell|hooded stranger]] in a pub. After hatching the egg, Hagrid named the creature [[Norberta|Norbert]], and tried to raise it with the help of [[Harry Potter]], [[Hermione Granger]] and [[Ronald Weasley]].<ref name="PS14">{{PS|B|14}}</ref> However, the dragon was discovered, and eventually Hagrid gave Norbert to [[Charles Weasley|Charlie Weasley]], who took the young dragon to live with others of its kind in the [[Romanian Dragon Sanctuary]] where he worked.<ref name="PS14" />
+
+In [[1997]], it was mentioned that it was discovered that Norbert was in fact a female dragon, so her name was changed to Norberta.<ref name="DH7">{{DH|B|7}}</ref>
+
+During the [[Calamity]] which affected the [[wizarding world]] during the [[2010]]s, whirlwind [[Confoundable]]s trapped baby Norwegian Ridgeback [[Foundable]]s, for which members of the [[Statute of Secrecy Task Force]] had to overpower with the [[spell]] ''[[Meteolojinx Recanto]]''.<ref name="WU">{{WU}}</ref>
+
+==Description and traits==
+It resembles the [[Hungarian Horntail]], except for the black ridges on its back, the browner texture in its scales, and its less hostile attitude. It has venomous fangs, and its food of choice is large mammals, including [[water]] mammals, which is unusual for a dragon. Its eggs are black, and young Ridgebacks develop the ability to shoot flame earlier than any other breeds (around one to three months). Female Ridgebacks are generally more ferocious than the males.<ref name="FB" />
+
+==Etymology==
+Norwegian Ridgeback is likely a play on {{wplink|Rhodesian Ridgeback}}, a South African hunting dog used, among other things, to hunt lions. Two other breeds of ridgeback dog exist, the {{wplink|Thai Ridgeback}}, and the [[wikipedia:Phu_Quoc_ridgeback_dog|Phu Quoc Ridgeback]]. Additionally, Ridgeback is a British bicycle company.
+
+==Behind the scenes==
+*The reference to the Rhodesian Ridgeback hunting dog is especially fitting as this dragon caused so much trouble to Harry, Ron, Hermione, and Hagrid, all of who were in Gryffindor House, which is represented by a lion.
+*While the Ridgeback has green scales in the film, Newt Scamander wrote in his book Fantastic Beasts and Where to find Them that the Ridgeback resembled the Hungarian Horntail except the ridge.
+==Appearances==
+[[File:Norwegian_Ridgeback.gif|thumb|A [[Chocolate Frog Card]] of a Norwegian Ridgeback]]
+[[File:NorwegianRidgebackWU.png|thumb|A baby Norwegian Ridgeback, as seen in {{WU}}]]
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{POA|G}} {{FWC}}
+*{{GOF}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{FB|R}}
+*{{PM}}
+*{{TCG}}
+*{{LEGO|C}}
+*{{LEGO}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+{{Creatures by classification}}
+{{Chocolate Frog Cards}}
+
+[[de:Norwegischer Stachelbuckel]]
+[[es:Ridgeback noruego]]
+[[fr:Norvégien à crête]]
+[[fi:Norjalaisen röpelöniskan]]
+[[pl:Norweski Kolczasty]]
+[[it:Dorsorugoso di Norvegia]]
+[[no:Norsk kamrygg]]
+[[pt-br:Dorso-Cristado Norueguês]]
+[[Category:Creatures from Norway]]
+[[Category:Dragon Chocolate Frog Cards]]
+[[Category:Dragons]]
+[[Category:Foundables]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Bertie Higgs
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP7"/>
+|gender = Male<ref name="HBP7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Terence Higgs]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = |
+|house = 
+|loyalty = 
+}}
+'''Bertie Higgs''' was a [[Wizardkind|wizard]], who was friend of [[Tiberius]] and [[Rufus Scrimgeour]]. They would often hunt [[Nogtail]]s in [[Norfolk]].<ref name="HBP7">{{HBP|B|7}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}} 
+{{DEFAULTSORT:Higgs, Bertie}}
+
+[[de:Bertie Higgs]]
+[[fr:Bertie Higgs]]
+[[pl:Bertie Higgs]]
+[[Category:Higgs family]]
+[[Category:Males]]
+[[Category:Wizards]]

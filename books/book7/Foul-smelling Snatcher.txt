@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = snatcher
+|image = 
+|name = Foul-smelling Snatcher
+|born = Before [[1981]]<ref name="birth">He must have been of age (17) by 1997, as Hogwarts attendance was made mandatory during the Death Eaters' rule.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">Given that this individual was not tried by the Muggle-Born Registration Commission and sent to Azkaban, he was most likely Pure or Half-blood. Besides, the Snatchers focused on catching Muggle-borns on the run from the Ministry.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]], [[Part-troll]] (possibly)<ref name="DH19">{{DH|B|19}}</ref>
+|gender = Male<ref name="DH19"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Blackthorn wand|10", blackthorn, unknown core materials]] (formerly)<ref name="DH19"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Snatchers]]<ref name="DH19"/>
+}}
+{{Quote|They weren't the brightest. One of them was definitely part troll, the smell of him…|[[Ronald Weasley]] tells [[Harry Potter]] and [[Hermione Granger]] of his encounter with [[Snatchers]].|Harry Potter and the Deathly Hallows}}
+This '''individual''' (fl. [[1997]]) was a [[wizardkind|wizard]] and a [[Snatchers|Snatcher]] during the height of the [[Second Wizarding War]]. According to [[Ronald Weasley]], this individual smelt badly either meaning he had poor personal hygiene and/or that he [[Part-troll|had troll ancestry]].<ref name="DH19"/>
+
+==Biography==
+===Early life===
+This was born sometime in or before [[1980]],<ref name="birth"/> most likely to a [[Pure-blood|Pure]] or [[Half-blood]] family,<ref name="blood"/> somewhere in the [[Great Britain|British Isles]]. He might have [[Part-troll|troll ancestry]], as noted by [[Ronald Weasley]] in [[1997]].<ref name="DH19"/> He most likely acquired [[Blackthorn wand|his wand]] prior to his magical education. After the [[Fall of the Ministry of Magic|Death Eater coup]] over the [[British Ministry of Magic|Ministry of Magic]], he joined a [[Snatchers|Snatcher]] chapter.<ref name="DH19"/>
+
+===As a Snatcher===
+{{Quote|Anyway, they had a row about whether I was Stan or not. It was a bit pathetic to be honest, but there were still five of them and only one of me, and they'd taken my wand. Then two of them got into a fight and while the others were distracted I managed to hit the one holding me in the stomach, grabbed his wand, Disarmed the bloke holding mine, and Disapparated. I didn't do it so well. Splinched myself again and I came out miles from where you were. By the time I got back to that bit of riverbank where we'd been… you were gone.|[[Ronald Weasley]] tells [[Harry Potter]] and [[Hermione Granger]] of his encounter with [[Snatchers]].|Harry Potter and the Deathly Hallows}}In [[December]], [[1997]], this Snatcher's gang caught [[Ronald Weasley]], who had abandoned [[Harry Potter]] and [[Hermione Granger]] during their [[Horcrux hunt|quest to destroy Lord Voldemort's Horcruxes]]. After telling them he was [[Stanley Shunpike|Stan Shunpike]], Ron managed to distract them enough so that he took back [[Ronald Weasley's wand|his wand]], as well as this [[Blackthorn wand|individual's]] and [[Apparition|Disapparated]] from the place.<ref name="DH19"/>
+
+After the [[Second Wizarding War]], this individual was likely captured and arrested for his crimes against [[Muggle-born]]s under [[Kingsley Shacklebolt]]'s de-corrupted [[British Ministry of Magic|Ministry of Magic]].
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{DH|F1}} {{Mention}}
+*{{DH|G1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified snatchers]]

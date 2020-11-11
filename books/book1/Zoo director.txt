@@ -1,0 +1,35 @@
+{{conjecture}}
+{{Individual infobox
+|name = Zoo director
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[Great Britain|British]]
+|title = Director
+|species = [[Human]]
+|gender = Male
+|job = Zoo director
+|loyalty = [[Zoo]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidem = m
+|hidef = f
+|hidea = 
+}}
+
+The '''zoo director''' was a [[Great Britain|British]] [[Non-magic people|Muggle]] who was in charge of the [[Zoo]] in the summer of [[1991]].<ref name="PS2">{{PS|B|2}}</ref> 
+
+==Biography==
+On the [[23 June]], [[1991]], when the [[Boa constrictor at the Zoo|boa constrictor]] escaped from the reptile house after the glass in front of its cage [[Underage magic|mysteriously]] [[Vanishment|vanished]], the zoo director made [[Petunia Dursley]] a cup of strong, sweet [[tea]] while he apologised over and over again for the incident.<ref name="PS2">{{PS|B|2}}</ref>
+
+==Appearances==
+*{{PS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[es:Director del zoológico]]
+[[fr:Directeur du zoo]]
+[[nl:Zoo directeur]]
+[[pl:Dyrektor zoo w Little Whinging]]
+[[ru:Директор зоопарка]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified Muggles‎]]

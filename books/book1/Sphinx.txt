@@ -1,0 +1,104 @@
+{{HogwartsMysterySpoiler}}
+{{Creature infobox
+|image = [File:Sphinx FBCFWW.png]
+|name = Sphinx
+|skin = 
+|eyes = *Almond-shaped
+*Hazel
+|hair = Brown
+|feathers = 
+|related = 
+|native = Egypt
+|alias = 
+|height = 
+|length = 
+|wingspan = 
+|mortality = 
+|distinction = *[[Human]] head and face
+*[[Lion]] body
+*Highly intelligent
+*Capable of human speech
+*Delights in puzzles and riddles
+*Violent nature
+|affiliation = 
+|class = [[Beast]]<br/>[[XXXX]]<ref name="FBR">{{FB|R}}</ref>
+|status = Extant
+}}
+{{Quote|The Egyptian sphinx has a human head on a lion’s body. For over a thousand years it has been used by witches and wizards to guard valuables and secret hideaways. Highly intelligent, the sphinx delights in puzzles and riddles. It is usually dangerous only when what it is guarding is threatened.|Description of a Sphinx|Fantastic Beasts and Where to Find Them}}
+The '''Sphinx''' is a [[magic]]al [[beast]] native to [[Egypt]].<ref name="FBR">{{FB|R}}</ref>
+
+==Description==
+[[File:SphinxFBE.png|thumb|A female Sphinx]]
+It has the head of [[human]], and the body of [[lion]]. Sphinxes are highly intelligent and capable of [[human]] speech, and are known for their love of puzzles, riddles, and enigmas. When the [[British Ministry of Magic|Ministry of Magic]] began categorising magical creatures, the Sphinx was placed in the [[Beast]] category rather than the [[Being]] category due to their violent tendencies.<ref name="FBR">{{FB|R}}</ref>
+
+==History==
+{{Quote|It had the body of an over-large lion: great clawed paws and a long yellowish tail ending in a brown tuft. Its head, however, was that of a woman. She turned her long, almond-shaped eyes upon Harry as he approached.|Description of the Sphinx in the [[Triwizard Maze|maze]]|Harry Potter and the Goblet of Fire}}
+[[File:Sphinx.png|220x220px|thumb|The Triwizard Maze Sphinx]]
+The Sphinx has been used for centuries to guard treasures and has been noted for violence when something threatens that treasure.<ref name="FBR"/>
+
+[[Crispin Cronk]] ([[1795]]-[[1872]]) once kept [[Crispin Cronk's sphinxes|several sphinxes]] in his backyard. Apparently, the private ownership of sphinxes is (or was) illegal, as the [[British Ministry of Magic|Ministry of Magic]] sent him to [[Azkaban]] for it after he ignored their repeated warnings.<ref name="COSG">{{COS|G}}</ref>
+
+A female Sphinx was stationed in the maze during the [[Triwizard Tournament|Third Task]] of the [[Triwizard Tournament]] of [[1994–1995 school year|1994-1995]]. The Sphinx guarded the closest route to the [[Triwizard Cup]], and also gave a clue to [[Harry Potter]] concerning the last creature that was guarding the Cup. [[Harry Potter]] had to cross the Sphinx, and this was the riddle that was given to him:<ref name="GOF31">{{GOF|B|31}}</ref>
+
+<center>
+
+''First think of the person who lives in disguise,''<br />
+''Who deals in secrets and tells naught but lies.''<br />
+''Next, tell me what's always the last thing to mend,''<br />
+''The middle of middle and end of the end?''<br />
+''And finally give me the sound often heard,''<br />
+''During the search for a hard-to-find word.''<br />
+''Now string them together and answer me this,''<br />
+''Which creature would you be unwilling to kiss?''<br />
+</center>
+
+The clue in the first two lines refers to a spy, the next clue indicates the letter 'd', and the last clue means '-er'. String them together, and the answer is '[[Spider|spyder]]' or '[[spider]]'. The final creature in the maze guarding the [[Triwizard Cup]] was an [[Acromantula]]. The Sphinx gave Harry three options — he could choose to remain silent and she would allow him to walk away unscathed. If he answered correctly, she would move aside, but if he gave an incorrect answer, she would attack.<ref name="GOF31">{{GOF|B|31}}</ref>
+
+[[Gringotts Wizarding Bank]] has been known to place Sphinxes to guard some of the vaults, much to the annoyance of those customers who want to access their valuables but who are not that good at riddles.<ref name="DP">''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''</ref>
+
+The Sphinx Club at Hogwarts was named for this deadly beast and accepted students who excelled in academic pursuits, likely a nod to the Sphinxes intelligence and penchant for riddles.
+
+==Abilities==
+Sphinxes are renowned for being extremely intelligent (they are capable of human speech, and are known for their love of puzzles, riddles, and enigmas), with the only reason for their exclusion from the [[Being]]s class being their aggressive behaviour towards humans. Their riddles are normally extremely long and complicated, with profusely subtle references to the answer that most people would almost certainly miss. They also possess [[superhuman strength]], especially in their brutally powerful paws — this makes them very dangerous to human beings, and is why they are classed so high in terms of dangerous species.<ref name="FBR"/>
+
+==Behind the scenes==
+[[File:15214.jpg|220x220px|thumb|Concept art of Sphinxes for {{WBS}}]]
+*The {{wplink|sphinx}} is a [[creature]] from Greek mythology, though the term would later come to be applied to ancient Egyptian statues of similar appearance, most famously the {{wplink|Great Sphinx of Giza}}. The association of sphinxes with riddles comes from the sphinx appointed to guard the city of Thebes by asking a riddle and killing any who could not answer.
+*In {{LEGO|Y1}}, the sphinx in the maze is a statue instead of a real one, and the player must lure the spider to come near it with a fly, which sends away the statue and allows entry. However, in the DS and IPhone versions you have to pick the right barrel and find the Lego-brick, if you find it the Sphinx will open a door-hedge next to it.
+
+==Appearances==
+{{Imagecat|Images of Sphinxes}}
+*{{PS|G}} {{Statue}} {{FWC mention}}
+*{{COS|F}} {{Comment|Disc 2<ref>Mentioned on a [[Daily Prophet]] page seen between [[Year with the Yeti]] and [[Gilderoy Lockhart's Guide to Household Pests]]</ref>, mentioned only}}
+*{{COS|G}} {{FWC mention}} {{Portrait}}
+*{{POA|G}} {{FWC mention}}
+*{{GOF}}
+*{{OOTP}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{FB|R}}
+*{{FBC}}
+*{{LEGO|Y1}}
+*{{WBS}}
+*{{PM}}
+*{{HM}} {{Mention}}
+
+==External links==
+*{{Wikilink|Sphinx}}
+
+==Notes and references==
+{{Reflist}}
+{{Creatures by classification}}
+
+[[de:Sphinx]]
+[[es:Esfinge]]
+[[fr:Sphinx]]
+[[it:Sfinge]]
+[[ru:Сфинкс]]
+[[pl:Sfinks]]
+[[pt-br:Esfinge]]
+[[no:Sfinks]]
+[[uk:Сфінкс]]
+[[Category:Creatures from Egypt]]
+[[Category:Muggle-known creatures]]
+[[Category:Security guards]]
+[[Category:Sphinxes]]

@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Wood
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF7"/>
+|gender = Female<ref name="GOF7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Oliver Wood's father|Mr Wood]] (husband)<ref name="GOF7"/>
+*[[Oliver Wood]] (son)<ref name="GOF7"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Wood family]]<ref name="GOF7"/>
+}}
+'''Mrs Wood''' was the mother of [[Oliver Wood]]. She attended the [[1994 Quidditch World Cup]] with her [[Wood family|family]], where her recently graduated son introduced her to his former schoolmate, [[Harry Potter]].<ref name="GOF7">{{GOF|B|7}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wood, Mrs}}
+[[fr:Parents d'Olivier Dubois]] 
+[[ru:Миссис Вуд]]
+[[pl:Pan Wood]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals|Wood]]
+[[Category:Females|Wood]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]
+[[Category:Wood family]]

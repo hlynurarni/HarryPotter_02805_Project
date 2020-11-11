@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified female Seer
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]] ([[Seer]])<ref name="OOTP35"/>
+|gender = Female<ref name="OOTP35"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seer]]<ref name="OOTP35"/>
+|house = 
+|loyalty = 
+}}
+{{Quote| ''[…] and none will come after […]''|The [[Seer]]'s [[prophecy]]|Harry Potter and the Order of the Phoenix}}
+This '''unidentified [[Seer]]''' was a young [[Wizardkind|witch]] who made a little known [[Prophecy at the Department of Mysteries (II)|prophecy]] that was held in the [[Hall of Prophecy]]. Her [[Prophecy Record]] was broken during the [[Battle of the Department of Mysteries]].<ref name="OOTP35">{{OOTP|B|35}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Ghost}}
+
+==Notes and references==
+{{Reflist}}
+{{Divination}}
+
+[[es:Vidente femenina no identificada]]
+[[pt-br:Vidente feminina não identificada]]
+[[Category:British individuals|Seer]]
+[[Category:Females|Seer]]
+[[Category:Seers|female Seer]]
+[[Category:Unidentified individuals|Seer]]
+[[Category:Wizards|Seer]]

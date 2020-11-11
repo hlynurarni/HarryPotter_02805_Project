@@ -1,0 +1,130 @@
+{{Family infobox
+|image=[[File:Amelia Bones.jpg|250px]]
+|name=Bones family
+|hideh=
+|blood=[[Half-blood]]<ref name="blood"/>
+|family members=*[[Seraphina Bones]] †
+*[[Edgar Bones]] †
+*[[Amelia Bones]] †
+*[[Susan Bones]]
+|status= 
+|hider=1
+|related=
+|hidea=
+|house=[[Hufflepuff]]
+|loyalty=*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+*[[British Ministry of Magic]]
+**[[Department of Magical Law Enforcement]]
+*[[Order of the Phoenix]]
+*[[Dumbledore's Army]]
+}}
+{{Quote|No one ever lived after he decided ter kill 'em... he'd killed some o' the best witches an' wizards of the age — the McKinnons, the Bones, the Prewetts —|Voldemort murdered several wizarding families during the First Wizarding War|Harry Potter and the Philosopher's Stone}}
+
+'''Bones''' was the surname of a [[wizardkind|wizarding]] family with both [[magic]]al and [[Non-magic people|Muggle]] heritage.<ref name="blood">[[Susan Bones]] was listed as a [[half-blood]] on [[J. K. Rowling]]'s class list, as seen on {{HPM}}.</ref> They were a prominent family, with strong connections to the [[British Ministry of Magic|Ministry of Magic]], which made them a target of [[Tom Riddle|Lord Voldemort]] during the [[First Wizarding War]]. The family was almost entirely slaughtered by [[Death Eaters]],<ref name="OOTP25">{{OOTP|B|25}}</ref>, and [[Amelia Bones]] and her parents were murdered by Voldemort himself.<ref name="HBP1">{{HBP|B|1}}</ref>
+
+==Recent family history==
+[[Seraphina Bones]] was a [[Wizardkind|witch]] whose portrait hung at [[Hogwarts Castle]] in the 1990s.<ref name="HPLE2">[[First Wizarding War|<nowiki/>]][[Death Eaters|Harry Potter Limited Edition]] - [[Amelia Bones|The Paintings of Hogwarts: Masterpieces from the School of Witchcraft and Wizardry Sets]]</ref> Seraphina was most likely a forerunner of the Bones family, which was active in the [[20th century]].
+
+===First Wizarding War===
+During the [[First Wizarding War]], Edgar Bones became member of the [[Order of the Phoenix]], an organisation led and founded by [[Albus Dumbledore]], in order to oppose the [[Tom Riddle|Dark Lord Voldemort]] and his [[Death Eaters]]. Edgar also married a [[Edgar Bones's wife|woman]] and had [[Edgar Bones's children|more than one child]] with her. Edgar was also described as being a great wizard by [[Alastor Moody]].<ref name="OOTP9">{{OOTP|B|9}}</ref> [[Rubeus Hagrid]] also told [[Harry Potter]] that the [[Bones family]] was considered among the greatest wizards of all time.<ref name="PS4">{{PS|B|4}}</ref>
+
+Edgar was murdered, along with his [[Edgar Bones's wife|wife]] and [[Edgar Bones's children|children]], by [[Death Eaters]] sometime in the later half of 1981.<ref name="OOTP25"/> His [[Amelia Bones' mother|mother]] and [[Amelia Bones' father|father]] were also murdered by [[Tom Riddle|Voldemort]].<ref name="accio quote">[[Death Eaters|20 October, 2000 chat with J.K. Rowling]] at [[First Wizarding War|Accio Quote!]]</ref>
+
+===Between the wars===
+{{Dialogue|Minerva McGonagall|Bones, Susan.|Sorting Hat|HUFFLEPUFF!| Susan Bones being sorted|Harry Potter and the Philosopher's Stone}}
+Amelia Bones possibly roused by her parents' deaths and the deaths of some of her siblings at the hands of Lord Voldemort and his Death Eaters, Amelia joined the [[British Ministry of Magic|Ministry of Magic]] and was there-on known as "Madam Bones". She became the Head of the [[Department of Magical Law Enforcement]] and had a seat on the [[Wizengamot]].
+
+[[File:Susan Sorting.jpg|250x250px|thumb|left|Susan being Sorted into Hufflepuff House]]
+
+Susan Bones was sorted into [[Hufflepuff|Hufflepuff House]] at [[Hogwarts School of Witchcraft and Wizardry]] in 1991.<ref name="PS7">{{PS|B|7}}</ref> In her fifth year, Susan became a member of [[Dumbledore's Army]], an organisation taught and led by [[Harry Potter]].<ref name="OOTP16">{{OOTP|B|16}}</ref> Later on in the year, the Death Eaters who murdered her uncle Edgar and his family escaped from Azkaban, the wizarding prison, and many students questioned Susan for information about this.
+
+===Second Wizarding War===
+{{Quote|My father reckons your aunt's a troublemaker, someone will teach her a lesson!|Gregory Goyle foreshadows what happens to Amelia|Harry Potter and the Order of the Phoenix  (video game)}}
+Madam Bones sat on the [[Wizengamot]] and presided over Harry Potter's [[Disciplinary hearing of Harry Potter|disciplinary hearing]] in 1995, along with [[Cornelius Fudge]] and [[Dolores Umbridge]] who acted as "Interrogators". [[Albus Dumbledore]] was the "witness for the defence". Despite poor treatment of Harry by Fudge, Madam Bones managed to keep the trial fairly unbiased and Harry was found innocent by a large majority of the court.<ref name="OOTP8">{{OOTP|B|8}}</ref>
+
+[[File:DailyProphetAmeliaBones.png|225x225px|thumb|A 1997 ''Daily Prophet'' article: "''Amelia Bones found murdered at her home"'']]
+
+Amelia was murdered during the 1996 summer holiday, presumably for her anti-[[Tom Riddle|Voldemort]] activities. According to Fudge, the then-recently dismissed [[Minister for Magic]], she was known to be so skilled and had put up such a fight that it was believed that Voldemort killed her personally. Her murder was also reported in the Muggle newspapers, the nature of which baffled Muggle police officers as she was murdered in a room which was locked from the inside.<ref name="HBP1"/> Afterwards, some members of the [[Order of the Phoenix]] referred to her as one of the greatest witches of her time, and that her absence would be keenly felt by many.
+
+Susan fought along side her fellow D.A. member in the [[Battle of Hogwarts]].<ref name="DHF2">{{DH|F2}}</ref> It can be assumed that she survived the [[Second Wizarding War]], as her name was not listed amongst the [[Fallen Fifty|casualties]].
+
+==Family members==
+{| class="wikitable" border="1" width="100%"
+|-
+! scope="col" |Wizard(s)
+! scope="col" |Notes
+|-
+|[[Amelia Bones]]
+|Head of the [[Department of Magical Law Enforcement]] and member of the [[Wizengamot]]; murdered by [[Tom Riddle|Voldemort]] in [[1996]]
+|-
+|[[Edgar Bones]]
+|Member of the [[Order of the Phoenix]]; murdered by [[Death Eaters]] during the [[First Wizarding War]]
+|-
+|[[Edgar Bones' wife]]
+|Murdered along with her husband and children
+|-
+|The [[Edgar Bones' children|children]] of Edgar Bones and his wife 
+|Murdered by Death Eaters along with their parents
+|-
+|[[Amelia Bones' father|Mr Bones]]
+| colspan="1" rowspan="2" |Parents of Amelia and Edgar, Susan's paternal grandparents; murdered by Voldemort during the First Wizarding War<ref name="accio quote"/>
+|-
+|[[Amelia Bones' mother|Mrs Bones]]
+|-
+|Susan Bones' parent
+|Child of Mr Bones and Mrs Bones, sibling of Amelia and Edgar, and parent of Susan
+|-
+|[[Seraphina Bones]]
+|A [[Wizardkind|witch]] whose portrait hung at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]<ref name="HPLE">{{HPLE|PA}} {{see image|File:SeraphinaBones.JPG}}</ref>
+|-
+|[[Susan Bones]]
+|A [[Hufflepuff]] and member of [[Dumbledore's Army]] who was in the same year at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] as [[Harry Potter]]; niece of Edgar and Amelia Bones
+|}
+
+==Family tree==
+{{familytree/start|style=font-size:85%;line-height:100%;}}
+{{familytree| | | |BONFA| | | | | | | | | | | | | | | | BONFA='''Bones<br/>family''' }}
+{{familytree| | | | |:| | | | | | | | | | | | | | | | | }}
+{{familytree| | | |SERBO| | | | | | | | | | | | | | | | SERBO=[[Seraphina Bones]] }}
+{{familytree| | | | |:| | | | | | | | | | | | | | | | | }}
+{{familytree| | | |MRBON|y|MRSBO| | | | | | | | | | | | MRBON=[[Amelia Bones' father|Mr Bones]]<br/><small>(d. c. [[1970s]]/[[1980s|'80s]])</small> | MRSBO=[[Amelia Bones' mother|Mrs Bones]]<br/><small>(d. c. [[1970s]]/[[1980s|'80s]])</small> }}
+{{familytree| | | | | | |!| | | | | | | | | | | | | | | }}
+{{familytree| | |,|-|-|-|+|-|-|-|-|-|-|-|.| | | | | | | }}
+{{familytree| |AMEBO| |EDGBO|y|EWIFE| |MRBON|y|MRSBO| | AMEBO=[[Amelia Bones]]<br/><small>(d. [[1996]])</small> | EDGBO=[[Edgar Bones]]<br/><small>(d. [[1981]])</small> | EWIFE=[[Edgar Bones' wife|Mrs Bones]]<br/><small>(d. [[1981]])</small> | MRBON=Mr Bones | MRSBO=Mrs Bones}}
+{{familytree| | | | | | | | |!| | | | | | | |!| | | | | | }}
+{{familytree| | | | | | | |CHILD| | | | | |SUSBO| | | | | CHILD=[[Edgar Bones' children]]<br/><small>(d. [[1981]])</small> | SUSBO=[[Susan Bones]]<br/><small>(b. [[1979]] or [[1980]])</small>}}
+{{familytree/end}}
+
+==Etymology==
+''Bones'' is an English surname originally from either the Old French ''bon'', meaning "good", or the Old English ''ban'', meaning "thin, bony"<ref>[http://surnames.behindthename.com/php/browse.php?letter=b Behind the Name]</ref>. A [[Wikipedia:Bone|bone]] is a rigid connective organ that makes up the skeleton of vertebrates. [[Wikipedia:Skull and Bones|Skull and Bones]] is the name of a secret society based at Yale University; many members of the Bones family were associated with the secret society the [[Order of the Phoenix]].
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}} 
+*{{COS|F}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{HBP}}
+*{{HBP|G}} {{Mention}}
+*{{DH|F1}}
+*{{DH|F2}}
+*{{QTA|R}} {{Mention}}
+*{{QWC}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{HPM}}
+*{{PM}}
+*{{WW}}
+
+==Notes and references==
+{{Reflist}}
+{{Order of the Phoenix}}
+{{Dumbledore's Army}}
+{{Ministry Level 2 employees}}
+[[de:Bones (Familienname]]
+[[es:Familia Bones]]
+[[ru:Боунсы]] 
+[[fr:Famille Bones]] 
+[[pl:Rodzina Bones]]
+[[Category:Bones family|Bones family]]

@@ -1,0 +1,73 @@
+{{Individual infobox
+|theme = spirit
+|image = [[File:PatrickDelaney-Podmore.png|250px]]
+|name = Patrick Delaney-Podmore
+|born = 
+|died = pre [[1993]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = Sir Properly-Decapitated Podmore (by [[Nicholas de Mimsy-Porpington|Nearly Headless Nick]])
+|title = [[Honorific#Sir|Sir]]
+|signature = 
+|species = *[[Ghost]]
+*[[Human]] (formerly)
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = 
+|skin = Pale
+|family = [[Sturgis Podmore]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head of the [[Headless Hunt]]
+|house = 
+|loyalty = *[[Headless Hunt]]
+*[[Podmore family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Sir Patrick Delaney-Podmore''' was a [[Wizardkind|wizard]] who later became a headless [[ghost]]. He was playful and charismatic, and often liked to show off in front of other ghosts. He may be related to [[Order of the Phoenix]] member [[Sturgis Podmore]].<ref name="COS8"/>
+
+==Biography==
+Little is known about Sir Patrick's life other than that he died by beheading.<ref name="COS8"/>
+
+Sir Patrick was in charge of the [[Headless Hunt]]. He doesn't make any exceptions to the rules — a ghost must be completely headless to join. This came as a terrible blow to the ego of [[Nicholas de Mimsy-Porpington|Nearly Headless Nick]], who was denied entrance to the Headless Hunt because his head is still attached to his body (albeit barely). Because of this rejection, Sir Nicholas mockingly called him Sir Properly-Decapitated Podmore.<ref name="COS8"/>
+
+Sir Patrick appeared at [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party]] in [[1992]] where he stole much of Sir Nicholas' thunder by cracking jokes and making light of the sombre atmosphere.<ref name="COS8">{{COS|B|8}}</ref>
+
+The Headless Hunt fought in the [[Battle of Hogwarts]]. Therefore Sir Patrick most likely defended the school the best as a ghost could.<ref name="DH31">{{DH|B|31}}</ref>
+
+==Etymology==
+[[File:Sir Patrick.jpg|250px|thumb|left|Sir Patrick in 1992]]
+The name "Patrick" comes from the Latin name ''Patricius'', which meant "nobleman". This name was adopted in the 5th-century by Saint Patrick, whose birth name was Sucat. He was a Romanized Briton who was captured and enslaved in his youth by Irish raiders. After six years of servitude he escaped home, but he eventually became a bishop and went back to Ireland as a missionary. He is traditionally credited with Christianizing the island, and is regarded as Ireland's patron saint.
+
+==Behind the scenes==
+*Sir Patrick Delaney-Podmore was featured on a piece of conceptual art, by Dermot Power, for {{COS|FA}}. He was not, however, featured in the actual film.
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|G}}
+*{{DH}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Delaney-Podmore, Patrick}}
+
+[[es:Patrick Delaney-Podmore]]
+[[de:Sir Patrick Delaney-Podmore]]
+[[fr:Sir Patrick Delaney-Podmore]]
+[[pl:Sir Patryk Delaney−Podmore]]
+[[pt-br:Patrício Delaney-Podmore]]
+
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Deaths by decapitation]]
+[[Category:Ghosts]]
+[[Category:Males]]
+[[Category:Nobility]]
+[[Category:Podmore family]]
+[[Category:Wizards]]

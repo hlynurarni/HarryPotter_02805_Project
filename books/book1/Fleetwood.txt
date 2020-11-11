@@ -1,0 +1,20 @@
+{{Individual infobox
+|name = Fleetwood
+|species = [[Human]]
+|family = [[Hedley Fleetwood]] (possibly)
+|job = Inventor or manufacturer of [[Fleetwood's High-Finish Handle Polish]]
+|theme = wizard
+}}'''Fleetwood''' was presumably the [[Wizardkind|wizard]] or [[Wizardkind|witch]] who gave their name to [[Fleetwood's High-Finish Handle Polish]]. It is unknown whether this person was the product's inventor or simply its manufacturer.
+
+==Etymology==
+The surname Fleetwood comes from the name of a [[Wikipedia:Fleetwood|town]] in [[Wikipedia:Lancashire|Lancashire]], [[England]], which derives from the Old English ''flete-wudu'', meaning "forest by the river".<ref>"[http://www.surnamedb.com/surname.aspx?name=fleetwood Fleetwood]" on The Internet Surname Database</ref> However, the name was probably intended as a pun, combining the English adjective "fleet", meaning "quick" and "wood" to suggest a fast [[Broomstick|broom]].
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{GOF}} {{Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

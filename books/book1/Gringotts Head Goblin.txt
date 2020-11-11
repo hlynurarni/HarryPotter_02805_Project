@@ -1,0 +1,69 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gringotts
+|image = Gringotts Head Goblin.jpg
+|name = 
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head Goblin of [[Gringotts Wizarding Bank]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+{{Dialogue a-b-a-b|Hagrid|Ahem. Mr [[Harry Potter]] wishes to make a withdrawal.|Head Goblin|Ah. And does Mr Harry Potter have his [[Gringotts vault key|key]]?|Oh wait a minute. Got it here somewhere. Aha! Here's the little devil! Oh and there's somethin' else as well. [[Albus Dumbledore|Professor Dumbledore]] gave me this. It's about [[Philosopher's Stone|You-Know-What]] in [[Vault 713|Vault You-Know-Which]].|Very well.|[[Rubeus Hagrid]] talking with the goblin|Harry Potter and the Philosopher's Stone (film)}}
+This '''unidentified goblin''' worked in the capacity of Head [[Goblin]] of [[Gringotts Wizarding Bank]] in the early [[1990s]].
+
+==Biography==
+On [[31 July]], [[1991]], this goblin summoned [[Griphook]] to aid [[Harry Potter]] and [[Rubeus Hagrid]] in performing their withdrawals.<ref>{{PS|B|5}}</ref>
+
+It is unknown if he was still employed at Gringotts, because he was not seen among the other Goblins when Harry and his friends broke into the bank on [[1 May]], [[1998]].
+
+==Behind the scenes==
+[[File:HeadGoblin Gringotts.jpg|200px|thumb|The Head Goblin at Gringotts]]
+*The Head Goblin was portrayed by [[Warwick Davis]], who also portrayed [[Professor]] [[Filius Flitwick]]. Davis went on to play [[Griphook]] in the [[Harry Potter and the Deathly Hallows (film)|film adaptation]] of {{DH}}.
+*This goblin's role in the story is replaced by [[Griphook]] in most [[Harry Potter and the Philosopher's Stone (video game)|video game adaptations]].
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{HPV|CR}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Gringott]]
+|position=Head Goblin of [[Gringotts Wizarding Bank]]
+|years=c. [[1991]]
+|successor=Unknown
+}}
+{{End box}}
+{{Gringotts}}
+
+[[es:Jefe duende de Gringotts]]
+[[fr:Guichetier de Gringotts (1991)]]
+[[ru:Управляющий банком Гринготтс]]
+[[Category:Bankers]]
+[[Category:British individuals]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]

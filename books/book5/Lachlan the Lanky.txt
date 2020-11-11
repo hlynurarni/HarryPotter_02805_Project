@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Lachlan the Lanky
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Lachlan the Lanky''' was a [[Wizardkind|wizard]] from an unknown period. A statue of him is located on the Seventh floor of [[Hogwarts School of Witchcraft and Wizardry]].
+
+[[Ronald Weasley]] once hid behind this statue to avoid being found by [[Fred and George Weasley]], whom he felt would tease him for trying out for the position of [[Keeper]] on the [[Gryffindor Quidditch team]].<ref name="OP13">{{OOTP|B|13}}</ref>
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts seventh floor}}
+
+[[de:Lachlan der Lulatsch]]
+[[es:Lachlan el larguirucho]]
+[[fr:Lachelan le Maigre]]
+[[pl:Lachlan Chudy]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Statues]]
+[[Category:Wizards]]

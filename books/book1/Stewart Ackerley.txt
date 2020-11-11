@@ -1,0 +1,88 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Stewart Ackerley
+|born = between [[1 September]] [[1982]]and [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = 
+}}
+'''Stewart Ackerley''' (born c. [[1982]]-[[1983]]) was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. He was sorted into [[Ravenclaw]] house and was incredibly nervous, often twitching and trembling during his [[Sorting ceremony|sorting]].<ref>{{GOF|B|12}}</ref>
+
+==Etymology==
+*"Stewart" is from an occupational surname originally belonging to a person who was a steward. It is ultimately derived from Old English stig "house" and weard "guard". As a given name, it arose in [[19th century]] [[Scotland]] in honour of the Stuart royal family, which produced several kings and queens of Scotland and Britain between the 14th and 18th centuries.<ref>http://www.behindthename.com/name/stuart</ref>
+*"Ackerley" is a Middle English name meaning 'aker', a division of land + 'ley', a lea or field.<ref>http://www.searchforancestors.com/surnames/origin/a/ackerley.php</ref>
+==Behind the scenes==
+===Translations===
+*Bulgarian: ''Стюарт Акърли''
+*Chinese (PRC): ''斯图尔特·阿克利''
+*Chinese (Taiwan): ''史都華·艾克利''
+*Dutch: ''Sextus Aardveil''
+*German: ''Stewart Ackerley'' (in the first edition, it was ''Sterwart Ackerly'')
+*Hebrew: ''סטיוארט אקרלי''
+*Japanese: ''スチュワート・アッカリー''
+*Lithuanian: ''Stiuartas Akerlis''
+*Norwegian: ''Stig Abelsen''
+*Russian: ''Стюарт Акерли {{c|Styuart Akerli}}''
+*Serbian: ''Стјуарт Акерли {{c|Stjuart Akerli}}''
+
+The following languages are the same as the original:
+{|
+|
+*Afrikaans
+*Croatian
+|
+*Danish
+*Faroese
+|
+*Finnish
+*French
+|
+*Polish
+*Portuguese
+|
+*Spanish
+*Swedish
+|}
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ackerley, Stewart}}
+
+
+[[de:Stewart Ackerley]]
+[[es:Stewart Ackerley]]
+[[fi:Stewart Ackerley]]
+[[fr:Stewart Ackerley]]
+[[pl:Stewart Ackerley]]
+[[ru:Стюарт Акерли]]
+[[sv:Stewart Ackerley]]
+[[zh:斯图尔特·阿克利]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

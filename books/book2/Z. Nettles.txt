@@ -1,0 +1,32 @@
+{{Individual infobox
+|name = Z. Nettles
+|nationality = [[England|English]]
+|title = [[Madam]]<ref name="COS8">{{COS|B|8}}</ref>
+|species = [[Human]]
+|gender = Female
+|loyalty = [[Nettles family]]
+|theme = wizard
+|hidef = hide
+|hidem = hide
+}}
+{{Quote|I had no memory for incantations and my potions were a family joke! Now, after a Kwikspell course, I am the centre of attention at parties and friends beg for the recipe of my [[Scintillation Solution]]!|Madam Z. Nettles|Harry Potter and the Chamber of Secrets}}
+
+'''Madam Z. Nettles''' was a [[England|English]] [[Wizardkind|witch]] who lived in [[Topsham]].<ref name="COS8">{{COS|B|8}}</ref>
+
+==Biography==
+She was apparently a mediocre witch, and could not remember [[incantation]]s or mix [[potion]]s. She took a [[Kwikspell]] course to improve her [[magic]]al skills. According to a testimonial she wrote for the company, the course helped her to improve her skills, as she became the centre of attention at parties and her friends begged her for the recipe of her [[Scintillation Solution]].<ref name="COS8">{{COS|B|8}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+==Notes and references==
+{{Reflist}}
+
+[[de:Madam Z.]]
+[[es:Z. Nettles]]
+[[fr:Madame Dézorties]]
+[[it:Z. Nettles]]
+[[pl:Z. Nettles]]
+[[Category:English individuals]]
+[[Category:Females|Nettles, Z.]]
+[[Category:Nettles family|Nettles, Z.]]
+[[Category:Wizards|Nettles, Z.]]

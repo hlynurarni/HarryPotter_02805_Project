@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Billy Stubbs
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Wool's orphanage]]
+}}
+'''Billy Stubbs''' was a [[Non-magic people|Muggle]] boy who lived at [[Wool's Orphanage]], at the same time as [[Tom Riddle|Tom Marvolo Riddle]]. His rabbit was found hung from the rafters the day after he had a fight with Tom.<ref>{{HBP|B|13}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Stubbs, Billy}}
+[[de:Billy Stubbs]]
+[[de2:Billy Stubbs]]
+[[es:Billy Stubbs]]
+[[fr:Billy Stubbs]]
+[[pl:Billy Stubbs]]
+[[ru:Билли Стаббс]]
+[[vi:Billy Stubbs]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Orphans]]
+[[Category:Wool's Orphanage residents]]

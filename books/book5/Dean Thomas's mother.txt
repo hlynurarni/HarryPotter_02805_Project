@@ -1,0 +1,60 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mrs Thomas
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = Widowed in first marriage; subsequently remarried
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Dean Thomas's father|Mr Thomas]] (First husband) †
+*[[Dean Thomas' stepfather|Unnamed second husband]]
+*[[Dean Thomas]] (son)
+*[[Dean Thomas' half-siblings|Several children with second husband]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Thomas family]]
+}}
+{{Quote|If Dean is listening, or if anyone has any knowledge of his whereabouts, his parents and sisters are desperate for news.|[[Lee Jordan]] appeals to listeners on [[Potterwatch]]|Harry Potter and the Deathly Hallows}}
+
+'''Mrs Thomas''' was the mother of [[Dean Thomas]]. Though she was a [[Non-magic people|Muggle]], her [[Dean Thomas's father|first husband]] was a [[Wizardkind|wizard]], but he never told her so, believing that not knowing the truth would keep her safe. He deserted Mrs Thomas when their son was still a small boy and was eventually murdered by [[Death Eaters]].<ref name="jkr">[https://web.archive.org/web/20060316221017/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=2 Dean Thomas's background] at {{JKRS}} (via the Internet Archive)</ref>
+
+Mrs Thomas remarried a [[Dean Thomas' stepfather|Muggle man]] and had [[Dean Thomas' half-siblings|several children]] with him. The family lived in [[London]] and were described as having "a very happy home life".<ref name="jkr" />
+
+When a [[Hogwarts acceptance letter|letter]] arrived for Dean from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1991]], Mrs Thomas considered the possibility that her first husband might have been a wizard, but, like her son, was never able to confirm this suspicion.<ref name="jkr" />
+
+In [[1995]], Dean opted not to let his parents know about the murder of [[Cedric Diggory]], presumably because he worried they would withdraw him from Hogwarts.<ref>{{OOTP|B|11}}</ref>
+
+Dean had to go into hiding in [[1997]] because he was unable to prove he was a [[half-blood]] to the [[Muggle-Born Registration Commission]]. Mrs Thomas and her second husband were not sure where their son had gone, and were deeply concerned, so the radio programme ''[[Potterwatch]]'' asked its listeners to contact the Thomases if they knew anything about Dean.<ref>{{DH|B|22}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{DH}} {{Mention}}
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Thomas, Dean's mother}}
+[[pl:Pani Thomas]]
+[[Category:British individuals|Thomas's mother]]
+[[Category:Females|Thomas's mother]]
+[[Category:Married individuals|Thomas's mother]]
+[[Category:Muggles|Thomas's mother]]
+[[Category:Parents]]
+[[Category:Thomas family]]
+[[Category:Unnamed family members]]

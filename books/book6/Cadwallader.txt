@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Cadwallader
+|born = [[31 August]] [[1985]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = Unknown, described as "that big Hufflepuff player"
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+*[[Hufflepuff]] [[Quidditch]] [[Hufflepuff Quidditch team|team]]
+*[[Hufflepuff]]
+}}
+{{Dialogue a-b|Luna|... but now that big Hufflepuff player's got the Quaffle from her, I can't remember his name, it's something like Bibble - no, Buggins -|Professor McGonagall|It's Cadwallader!!!|[[Luna Lovegood]]'s commentary on a [[Quidditch]] match|Harry Potter and the Half-Blood Prince}}
+'''Cadwallader''' was a [[Wizardkind|wizard]] who was [[Sorting ceremony|Sorted]] into [[Hufflepuff]] [[Hogwarts Houses|house]] at [[Hogwarts School of Witchcraft and Wizardry]]. He played the position of [[Chaser]] for his house [[Quidditch]] [[Hufflepuff Quidditch team|team]].
+
+In [[1996]], during a match against the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]], commentator [[Luna Lovegood]] could not remember Cadwallader's name, calling him "Bibble" and "Buggins" before [[Minerva McGonagall|Professor McGonagall]] corrected her.<ref>{{HBP|B|19}}</ref>
+
+==Behind the scenes==
+*The [[password]] to the [[portrait]] of [[Bertie Bott]], guarding a secret room, was ''Bibble''.
+*The name of the seeker in the Welsh Quidditch team during the [[2014 Quidditch World Cup]] is said to be [[Eurig Cadwallader]] in [[Ginevra Weasley|Ginny Potter]]'s daily prophet commentary of the game [[Wales]] against [[Germany]]. It is possible Cadwallader is this very same Eurig Cadwallader, given their similarities in age and surname, and the fact that Hogwarts students come only from Britain, with Wales being in Britain. It is also possible that Eurig Cadwallader and this Cadwallader are relatives.
+
+==Etymology==
+*Cadwallader is the name of the heraldic red Welsh dragon, as well as that of a Welsh king who declared it his mission to exterminate the English.
+*Cadwallader is also used as the alias for the devil in disguise on Escape Clause, the sixth episode of American TV Series The Twilight Zone.
+
+==Appearances==
+*{{HBP}}
+*{{HBP|F}} {{Comment|Not named}}
+*{{HBP|G}} {{Comment|Not named}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+[[de:Cadwallader]]
+[[es:Cadwallader]]
+[[fr:Cadwallader]]
+[[pl:Cadwallader]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

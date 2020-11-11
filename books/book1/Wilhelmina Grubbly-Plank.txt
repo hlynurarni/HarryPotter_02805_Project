@@ -1,0 +1,113 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Wilhelmina_Grubbly-Plank.jpg|250px]]
+|name = Wilhelmina Grubbly-Plank
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="GOF24"/> 
+|signature = 
+|species = [[Human]]<ref name="GOF24"/> 
+|gender = Female<ref name="GOF24"/> 
+|height = 
+|weight = 
+|hair = Grey<ref name="OOTP10"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = [[Professor|Substitute professor]] of [[Care of Magical Creatures]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (pre [[1994]]-?)<ref name="GOF24"/> 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP13"/>
+}}
+{{Quote|I hope she stays, that woman! That's more of what I thought Care of Magical Creatures would be like... proper creatures like unicorns, not monsters...|[[Parvati Patil]], on Grubbly-Plank's first lesson|Harry Potter and the Goblet of Fire}}
+
+'''Professor Wilhelmina Grubbly-Plank''' was a [[Wizardkind|witch]] who worked as a substitute [[Care of Magical Creatures]] teacher at [[Hogwarts School of Witchcraft and Wizardry]].  She was first met by [[Harry Potter]]'s batch in [[1994]], taking over lessons when [[Rubeus Hagrid|Professor Rubeus Hagrid]] was unable to teach.<ref name="GOF24"/> She taught the class again in part of the next school year when Hagrid was away on a mission for [[Albus Dumbledore]].<ref name="OOTP13"/>
+
+==Biography==
+===Early life===
+Wilhelmina Grubbly-Plank was born in or before 1930. She presumably sat for [[Ordinary Wizarding Level|O.W.L.s]] and [[Nastily Exhausting Wizarding Test|N.E.W.T.s]] in her youth, in order to have her current job, and likely achieved a high grade in [[Care of Magical Creatures]].
+
+===Hogwarts substitute teacher===
+====[[1994–1995 school year|1994-1995]]====
+{{Dialogue a-b-a|Professor Grubbly Plank|Hurry up, now, the bell rang five minutes ago.|[[Ronald Weasley|Ron Weasley]]|Who’re you? Where’s Hagrid?|My name is Professor Grubbly-Plank. I am your temporary Care of Magical Creatures teacher|Professor Grubbply plank introducing herself to [[fourth year]] students in 1995|Harry Potter and the Goblet of Fire}}
+[[File:Unicorn_Students_pm.jpg|251x251px|thumb|left|Professor Grubbly-Plank introduces students to the unicorns]]
+
+Professor Grubbly-Plank took over [[Rubeus Hagrid]]'s lessons during [[January]] [[1995]], because Hagrid was indisposed after the defamatory article about him written by [[Rita Skeeter]], about his status as a [[Half-giant]]. In the first lesson of the year, she taught the students about [[Unicorn]]s. When Hagrid resumed teaching in early [[February]], Grubbly-Plank was no longer required and she left the school. All the students present in her Care of Magical Creature lessons found her to be a good teacher.<ref name="GOF24">{{GOF|B|24}}</ref>
+
+====[[1995–1996 school year|1995-1996]]====
+{{Quote|Everyone here? Let’s crack on then — who can tell me what these things are called?|Professor Grubbly Plank teaching fifth years about [[Bowtruckle]]s|Harry Potter and the Order of the Phoenix}}
+As Hagrid was absent in the beginning of the next school year, Grubbly-Plank was temporarily put in charge of [[Care of Magical Creatures]] again. She led the [[first year]]s across the [[Great Lake|Lake]] on the enchanted boats, which was usually Hagrid's responsibility.<ref name="OOTP10">{{OOTP|B|10}}</ref>
+[[File:Staff.PNG|246x246px|thumb|right|Professor Grubbly-Plank and other teachers listen to a new teacher for the [[Defence Against the Dark Arts]], [[Dolores Umbridge]]]]
+
+When [[Hedwig]] was hurt when returning from [[London]] on [[7 October]] [[1995]], Harry asked Grubbly-Plank to heal her, which she did without much difficulty.<ref name="OOTP17"/> However she was brusque in her replies to inquiries regarding Hagrid's whereabouts when Harry asked her about him, not wanting to inform Harry of his true highly classified and dangerous [[Mission to the Giant colony|mission]].<ref name="OOTP13">{{OOTP|B|13}}</ref> Grubbly-Plank passed [[Dolores Umbridge]]'s (then-[[Hogwarts High Inquisitor|High Inquisitor of Hogwarts]]) inspection without incident while she taught her students about [[Bowtruckle]]s and gave out a homework assignments, to sketch and label a drawing of one.<ref name="OOTP15">{{OOTP|B|15}}</ref>
+
+After [[Rubeus Hagrid|Hagrid]]'s return on [[7 November]], Grubbly-Plank was relieved of her duties again. When Hagrid planned to leave Hogwarts at the end of this school year, he implied that Grubbly-Plank would take on the class full-time.<ref name="OOTP21">{{OOTP|B|21}}</ref> When he ran away from Umbridge and the Aurors,<ref name="OOTP31">{{OOTP|B|31}}</ref> it is unknown whether she returned to teach Care of Magical Creatures for the remainder of that school year, though following the [[Battle of the Department of Mysteries]], Dumbledore did order [[Cornelius Fudge]] to have his [[Auror]]s call off the search for Hagrid so that he could return to work, indicating that he resumed the position following that event.<ref name="OP36">{{OOTP|B|36}}</ref>
+
+==Physical appearance==
+Professor Grubbly-Plank was described as an elderly witch with short grey hair and a very prominent pointed chin.<ref name="OOTP10"/>
+
+==Personality and traits==
+{{Dialogue a-b-a|Professor Grubbly Plank|I should be able to sort this out if you leave her with me, Potter. She shouldn’t be flying long distances for a few days, in any case.|Harry Potter|Er — right — thanks.|No problem.|Professor Grubbly Plank kindly healing Hedwig for Harry Potter|Harry Potter and the Order of the Phoenix}}
+Wilhelmina Grubbly-Plank was a very competent teacher, passing even [[Dolores Umbridge]]'s inspection without incident (though Umbridge was disappointed by her expressing approval of Dumbledore). She always seemed level-headed, cheerful and efficient, and claimed to be very happy with the way [[Albus Dumbledore|Dumbledore]] governed [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. She also appeared to be kind-hearted and caring towards her students, as she helped nurse Harry Potter's pet owl Hedwig back to health after she was injured, showing her respect for animal life forms.<ref name="OOTP17">{{OOTP|B|17}}</ref>
+
+Many of her students ([[Gryffindor]]s included) felt that Professor Grubbly-Plank was a somewhat better teacher than Hagrid. Harry, [[Ronald Weasley|Ron]], and [[Hermione Granger|Hermione]] never admitted this though however, simply because of their very close friendship with Hagrid. Professor Grubbly-Plank also seemed to be very respectful towards [[Rubeus Hagrid|Hagrid]] as she never criticised his teaching skills and even complimented his training of the school [[Thestral]]s. She further showed her respect for Hagrid when she brusquely refused to inform Harry Potter of his whereabouts, thoughtfully regarding his highly important and classified [[Mission to the Giant colony|mission]] with the [[Giant]]s. She was also known to smoke a pipe in her free time.<ref name="OOTP13"/>
+
+==Magical abilities and skills==
+{{Dialogue a-b-a|Dolores Umbridge|And what are you planning to cover with this class this year — assuming, of course, that Professor Hagrid does not return?|Professor Grubbly Plank|Oh, I’ll take them through the creatures that most often come up in O.W.L.. Not much left to do — they’ve studied unicorns and nifflers, I thought we’d cover porlocks and kneazles, make sure they can recognize crups and knarls, you know. . . .|Well, you seem to know what you’re doing, at any rate.|Professor Grubbly Plank's competency as a teacher|Harry Potter and the Order of the Phoenix}}
+*'''[[Care of Magical Creatures]]''': Professor Grubbly-Plank was very knowledgeable and skilful in the field of [[Magizoology]]. Her knowledge and expertise in her field meant she was appointed replacement Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] at least twice and passed [[Dolores Umbridge]]'s Ministry of Magic inspection. She was also considered a highly competent teacher by both Umbridge and students, many of whom considered her a superior teacher to Hagrid.<ref name="GOF24"/><ref name="OOTP13"/><ref name="OOTP15"/>
+*'''[[Healing magic]]''': She was skilled in healing magic to at least a reasonable degree, as she was able to heal [[Harry Potter]]'s pet [[owl]] [[Hedwig]] when she was injured, presumably using magical means.<ref name="OOTP17"/><ref name="OOTP18">{{OOTP|B|18}}</ref>
+*'''[[Charm]]s''': She was capable of conjuring a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOY2"/> a highly advanced piece of [[magic]] and a mark of superior [[magic]]al ability given the immense difficulty of casting the charm.
+
+==Behind the scenes==
+*Wilhelmina Grubbly-Plank is portrayed by [[Great Britain|British]] actress [[Apple Brook]] in {{OOTP|FA}}.
+*In the final cut of the [[Harry Potter and the Order of the Phoenix (film)|film]], she only appears in the background of one scene and has no dialogue parts. It is unknown if more scenes with her were filmed.
+
+==Appearances==
+{{Imagecat|Images of Wilhelmina Grubbly-Plank}}
+[[File:Grubbly-Plank.PNG|206x206px|thumb|Wilhelmina Grubbly Plank as she appears in {{LEGO|Y2}}]]
+*{{GOF}} {{1st}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{LEGO|Y2}}
+*{{PM}}
+*{{WW}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=[[Rubeus Hagrid]]
+|position=[[Care of Magical Creatures]] Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[January]], [[1995]]
+|successor=[[Rubeus Hagrid]]
+}}
+{{Succession box
+|predecessor=[[Rubeus Hagrid]]
+|position=[[Care of Magical Creatures]] Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1 September]], [[1995]]—[[7 November]], [[1995]]
+|successor=[[Rubeus Hagrid]]
+}}
+{{End box}}
+{{Care of Magical Creatures}}
+{{Staff}}
+{{DEFAULTSORT:Grubbly-Plank, Wilhelmina}}
+
+[[de:Wilhelmina Raue-Pritsche]]
+[[fr:Wilhelmina Gobe-Planche]]
+[[pl:Wilhelmina Grubbly–Plank]]
+[[pt-br:Guilhermina Grubbly-Plank]]
+[[ru:Вильгельмина Граббли-Дёрг]]
+[[Category:British or Irish individuals]]
+[[Category:Care of Magical Creatures professors]]
+[[Category:Females]]
+[[Category:Wizards]]

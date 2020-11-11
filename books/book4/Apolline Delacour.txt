@@ -1,0 +1,77 @@
+{{Individual infobox
+|theme=wizard
+|name=Apolline Delacour
+|image=[[File:Apolline Delacour.jpg|250px]]
+|gender=Female
+|eyes=Blue
+|hair=Blonde<ref>{{DH|B|6}} - "...leading a beautiful blonde woman in long, leaf-green robes, who could only be Fleur’s mother."</ref>
+|born=
+|died=
+|nationality=[[France|French]]
+|height=
+|skin=White
+|family=*[[Apolline Delacour's mother|Mother]]
+*[[Delacour sisters' father|Monsieur Delacour]] (husband)
+*[[Fleur Delacour]] (daughter)
+*[[Gabrielle Delacour]] (daughter)
+*[[William Weasley|Bill Weasley]] (son-in-law)
+*[[Victoire Weasley]] (granddaughter)
+*[[Dominique Weasley]] (granddaughter)
+*[[Louis Weasley]] (grandson)
+*[[Weasley family]] (in-laws)
+|blood=[[Half-Veela]]
+|title=[[Madam]](e)
+|alias=
+|species=[[Half-breed|Half-Human]]
+|hidem=1
+|wand=
+|boggart=
+|patronus=
+|job=
+|loyalty=[[Delacour family]]
+|marital=Married
+}}
+{{Quote|...Mr Weasley, who appeared at the gate moments later, laden with luggage and leading a beautiful blonde woman in long, leaf green robes, who could only be Fleur's mother.|Description of Apolline's appearance|Harry Potter and the Deathly Hallows}}
+'''[[Madam]]e Apolline Delacour''' was a [[half-Veela]] [[France|French]] [[Wizardkind|witch]], married to [[Delacour sisters' father|Monsieur Delacour]]. She was described as beautiful and blonde, like her daughters, [[Fleur Delacour|Fleur]] and [[Gabrielle Delacour|Gabrielle]]; these traits were inherited from Apolline's [[Veela]] mother.
+
+==Biography==
+
+In [[1995]], Apolline and her husband visited Fleur before the Third Task of the [[Triwizard Tournament]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref>{{GOF|B|31}}</ref>
+
+In the summer of [[1997]], the Delacours came to visit the [[Weasley family|Weasleys]] at [[the Burrow]] to prepare for Fleur's [[Wedding of William Weasley and Fleur Delacour|wedding]] to [[William Weasley|Bill Weasley]]. While there, Apolline enjoyed [[Molly Weasley]]'s cooking and hospitality and helped with the preparations, as she was noted to be very accomplished with [[Household magic|household spells]]. During their visit, Apolline and her husband were shown to be very helpful, pleasant guests. She was seen listening to [[Kingsley Shacklebolt]]'s corporeal [[Lynx]] [[Patronus Charm|Patronus]], which warned the Wedding guests that the [[British Ministry of Magic|Ministry]] had [[Fall of the Ministry of Magic|fallen]] and that [[Death Eaters]] would soon be arriving. She, her husband and Gabrielle then safely evacuated the wedding, and returned to [[France]], with Bill and Fleur retreating to [[Shell Cottage]].<ref>{{DH|B|8}}</ref>
+
+Through her daughter [[Fleur Delacour|Fleur]] and son-in-law [[William Weasley|Bill]], Apolline was the maternal grandmother of [[Victoire Weasley|Victoire]], [[Dominique Weasley|Dominique]] and [[Louis Weasley]].
+
+==Physical appearance==
+Apolline, due to her [[Veela]] heritage, was described as a beautiful woman with blonde hair, who wore long, green leafy robes to her [[Fleur Delacour|daughter's]] [[Wedding of William Weasley and Fleur Delacour|wedding]].
+
+==Personality and traits==
+Apolline was shown to be a very gracious and sophisticated woman, as she and her husband both happily helped the [[Weasley family]] prepare for the wedding of her daughter and son-in-law, and other wedding guests noted to her to have been pleasant and polite. She was also very grateful of Molly Weasley's cooking and hospitality whilst she stayed at her [[The Burrow|house]]. Furthermore, she was shown to be a good mother who loved and cared for her family, as she visited her daughter [[Fleur Delacour|Fleur]] before she took part in the Third Task of the [[Triwizard Tournament]], showing her to have been very supportive and proud of her daughter's achievements.
+
+[[File:Delacour.png|300px|thumb|left|The [[Delacour family|Delacours]], The [[Weasley family|Weasleys]], [[Muriel]], [[Elphias Doge]] and the [[Lupin family|Lupins]]]]
+==Etymology==
+*''Apolline'' is the French version of the name ''Apollonia'', derived from Apollo, the Greek god of the sun, prophecy, music and beauty.
+*''De la cour'' is French for "of the court" (royal).
+
+==Appearances==
+*{{GOF}}
+*{{GOF|F}} {{C|Possibly}}
+*{{DH}}
+*{{DH|F1}}
+*{{LEGO|Y2}} {{C|As "Madame Delacour"}} {{C|DS version}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Delacour, Apolline}}
+
+[[de:Apolline Delacour]]
+[[es:Apolline Delacour]]
+[[fr:Apolline Delacour]]
+[[ru:Аполлин Делакур]]
+[[pl:Apolonia Delacour]]
+[[Category:Delacour family|Apolline]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Half-breeds]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Wizards]]

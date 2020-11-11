@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Goyle
+|born = 
+|died = 
+|blood = [[Pure-blood]]<ref name="blood">Her son Gregory is a pure-blood from {{HPM}},  which means [https://web.archive.org/web/20100526160148/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=58 none of his parents or grandparents are Muggles or Muggle-borns].</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Gregory Goyle's father|Mr Goyle]] (husband)
+*[[Gregory Goyle]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Goyle family]]
+}}
+'''Mrs Goyle''' was the wife of [[Gregory Goyle's father|Mr Goyle]] and the mother of [[Gregory Goyle]], a student at [[Hogwarts School of Witchcraft and Wizardry]]. When members of [[Dumbledore's Army]] [[hex]]ed her son into a large, oozing [[slug]], [[Ronald Weasley|Ron Weasley]] joked that she would consider it an improvement on his appearance.<ref name="OOTP38">{{OOTP|B|38}}</ref> It's unknown if she has any involvement with the [[Death Eaters]], though she most likely was not one herself as she was not seen with her husband during [[Tom Riddle|Lord Voldemort]]'s [[Return of Lord Voldemort|revival]], but she was still likely loyal to them and their [[Pure-blood supremacy|cause]].
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Character-stub}}
+
+[[fr:Mère de Gregory Goyle]]
+[[pt-br:Mãe de Gregório Goyle]]
+[[pl:Pani Goyle]]
+[[Category:British individuals|Goyle, Mrs]]
+[[Category:Females|Goyle, Mrs]]
+[[Category:Goyle family]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

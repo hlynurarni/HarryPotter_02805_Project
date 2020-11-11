@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Humphrey Belcher
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP10"/>
+|gender = Male<ref name="HBP10"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|From here on in, I may be as woefully wrong as Humphrey Belcher, who decided the time was ripe for a cheese cauldron.|[[Albus Dumbledore]]|Harry Potter and the Half-Blood Prince}}
+'''Humphrey Belcher''' was a [[Wizardkind|wizard]] who believed that a [[cheese cauldron]] was a good idea. [[Albus Dumbledore]] would later comment that he had been ''"woefully wrong"'' in this belief. Belcher could have been an inventor of a [[cauldron]] constructed from [[cheese]].<ref name="HBP10">{{HBP|B|10}}</ref>
+
+==Etymology==
+"Humphrey" means "peaceful warrior" from the Germanic elements ''hun'' "warrior, bear cub" and ''frid'' "peace". The Normans introduced this name to England, where it replaced the Old English cognate Hunfrið, and it was regularly used through the Middle Ages.
+
+Humphrey Belcher was the name of a real person living in the United Kingdom, b. 1545, Lavenham, Suffolk County, England. The family had descendants in Northhamptonshire also. Humphrey is the oldest documented Belcher with that surname's spelling. A "Belchere" was a man of good heart (French Bel = good Cher = dear) - basically the king's agent and provider of rations, munitions, water, stables and lodgings when the king travelled throughout Britain. The real Humphrey Belcher's descendants included Jonathan Belcher, who sailed from the USA to England and back again, and was an early Governor of New Jersey, and New Hampshire setting up the institution later known as Princeton University - where there is a "Belcher Hall" to this day.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Belcher, Humphrey}}
+[[de:Humphrey Belcher]]
+[[es:Humphrey Belcher]]
+[[fr:Humphrey Belcher]]
+[[pl:Humphrey Belcher]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

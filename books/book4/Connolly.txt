@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Irish National Quidditch team.jpg|250px]]
+|name = Connolly
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White<ref>{{GOF|F}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Irish National Quidditch team]]
+|house = 
+|loyalty = [[Irish National Quidditch team]]
+}}
+'''Connolly''' was an [[Ireland|Irish]] [[Wizardkind|wizard]] who played as a [[Beater]] for the [[Irish National Quidditch team]] during the [[1994]] [[Quidditch World Cup]]. The [[Broomstick]] he rode was a [[Firebolt]] which had been ordered from [[Quality Quidditch Supplies]]. He was helping support [[Aidan Lynch]] when being presented with the Cup in the top box.<ref>{{GOF|B|8}}</ref>
+
+==Appearances==
+*{{GOF}}
+*{{GOF|F}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+[[de:Connolly]]
+[[es:Connolly]]
+[[fr:Connolly]]
+[[nl:Connolly]]
+[[pl:Connolly]]
+[[ru:Конноли]]
+[[Category:Beaters]]
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

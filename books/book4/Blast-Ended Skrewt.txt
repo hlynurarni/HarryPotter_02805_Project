@@ -1,0 +1,86 @@
+{{WizardsUniteSpoiler}}
+{{Creature infobox
+|image = [[File:Scroutt 2.png|250px]]
+|name = Blast-Ended Skrewt
+|skin = Pale
+|eyes = None
+|hair = 
+|feathers = 
+|related = *[[Fire crab]]
+*[[Manticore]]
+|native = [[Hogwarts Castle]]
+|alias = Bang-Ended Scoots (by [[Rita Skeeter]])
+|height = 
+|length = 10 ft
+|wingspan = 
+|mortality = Mortal
+|distinction = *Resemble pale, slimy, deformed shell-less {{Wplink|lobster}}s or [[scorpion]]s
+*Covered in grey, shiny armour 
+*Males have stingers, females have suckers to suck [[blood]]
+*Aggressive temperament and repulsive appearance
+*Shoot [[fire]] from their rear end
+|affiliation = [[Rubeus Hagrid]]
+|class = [[Beast]]
+|status = Unknown, possibly Extinct
+}}
+{{Quote|I can certainly see why we're trying to keep them alive. Who wouldn't want pets that can burn, sting, and bite all at once?|[[Draco Malfoy]]'s sarcastic comment on the [[creature]]s|Harry Potter and the Goblet of Fire}}
+The '''Blast-Ended Skrewt''' was a [[magic]]al [[Wikipedia:Hybrid (biology)|hybrid]] [[beast]] bred by [[Rubeus Hagrid]] in the autumn of [[1994]], by cross-breeding [[Manticore]]s and [[Fire crab]]s.<ref name="GOF24">{{GOF|B|24}}</ref><ref>''[https://www.pottermore.com/explore-the-story/blast-ended-skrewts Blast-Ended Skrewts]'' at {{PM}}</ref> Whether Hagrid used [[magic]] or somehow got the two different species to mate was unknown.
+
+==Description==
+[[File:Blast-ended skrewt.png|200px|thumb|right|A young Blast-Ended Skrewt on a leash]]
+Newly hatched Skrewts looked like pale, slimy deformed shell-less {{Wplink|lobster}}s or [[scorpion]]s. They had legs sticking out at odd angles. They were about six inches long and smelled strongly of rotten fish. Sparks flew out of their rear ends every so often, which propelled them forward a few inches. The males had stingers and the females had suckers on their body to suck [[blood]].<ref name="GOF13">{{GOF|B|13}}</ref> The skrewts do not hibernate during winter.<ref name="GOF21">{{GOF|B|21}}</ref>
+
+After about two months, Skrewts grew to about three feet long and became extremely ill tempered, making it hard to get close to one. They grew grey, shiny armour over their pale bodies and began to resemble a cross between giant scorpions and elongated [[crab]]s. The males held their stingers over their backs, and were highly dangerous and repulsive.<ref name="GOF18">{{GOF|B|18}}</ref>
+
+After several months, Skrewts grew to about ten feet long, and were incredibly dangerous (and probably quite lethal). They resembled giant scorpions with stingers curled over their backs. Their shiny armour deflected most [[spell]]s, and they used their blasts to propel themselves at a foe. Its single undefended spot was its armour-less underside.<ref name="GOF31">{{GOF|B|31}}</ref>
+
+==History==
+Several of these Skrewts were placed inside the [[Triwizard Tournament]] maze, and Harry defeated one of them by using the [[Impediment Jinx]] on its underside.<ref name="GOF31"/>
+
+Hagrid began breeding the Skrewts at the beginning of September, and had several hundred.<ref name="GOF13"/> By the following June, he only had one, which was the one that was placed in the maze. Hagrid never discovered what they ate. They often killed each other off, so it is not surprising they died so quickly. It is unknown what became of the last Skrewt.
+
+[[Rita Skeeter]] claimed that the [[Daily Prophet]] had a [[zoological column]] every Wednesday and said that the ''Bang-Ended Scoots'' could be the event that day if Hagrid gave an interview.<ref name="GOF21"/> However, the Skrewts never did feature in the Daily Prophet's [[zoological column]].<ref name="GOF22">{{GOF|B|22}}</ref>
+
+In [[June]] [[1996]], following the [[Stunning Spell|Stunner]] attack on [[Minerva McGonagall]] by [[Dolores Umbridge]] and other corrupt [[British Ministry of Magic]] officials, [[Ronald Weasley]] suggested feeding Umbridge to a box of starving Blast-Ended Skrewts as an appropriate punishment. [[Harry Potter]] thought the idea "had its merits."<ref name="OP31">{{OOTP|B|31}}</ref>
+
+==Behind the scenes==
+[[File:BlastEndedSkrewtPottermore.png|thumb|An illustration of the Skrewts on {{PM}} as a spoiler for the third instalment]]
+[[File:Blast-Ended Skrewt.png|thumb|A Skrewt as depicted in {{GOF|G}}]]
+*The Skrewts appeared to be massive violations of the [[Ban on Experimental Breeding]], but Hagrid was never charged for it. This may be because Hagrid eventually had some placed in the [[Triwizard Tournament]], possibly indicating his intent to breed them for that purpose.
+*In the [[Harry Potter and the Goblet of Fire (video game)|video game adaptation]] of {{GOF}}, Skrewts are encountered as enemies in several locations, rather than just being found in the [[Triwizard Maze|maze]] during the [[Triwizard Tournament|Third Task]]. The Skrewts have sexual dimorphism: males and females are red- and orange-tinged, respectively. Also, they bear little resemblance to their description in the book, being of a more spherical shape and much larger.
+*In the DS version of {{LEGO|Y1}}, there are some Skrewts trying to kill [[Buckbeak]], so the player has to cast [[spell]]s on them to make them go away.
+*Harry Potter felt that the idea of a teenage Dumbledore "was simply odd, like trying to imagine a stupid [[Hermione Granger|Hermione]] or a friendly Blast-Ended Skrewt."<ref name="DH2">{{DH|B|2}}</ref>
+*Blast-Ended Skrewts are similar to the opposite of an [https://en.wikipedia.org/wiki/Amphisbaena Amphisbaena]. An Amphisbaena is a legless, winged, soft-skinned animal with a head at each end, while a Skrewt is a legged, wingless, hard-skinned animal with a tail at each end
+*A Blast-Ended Skrewt will appear in [[Hagrid's Magical Creatures Motorbike Adventure]], being promoted as a creature not seen in any of the films.
+
+==Appearances==
+{{Imagecat|Images of Blast-Ended Skrewts}}
+[[File:BlastEndedSkrewtWU.png|thumb|A Blast-Ended Skrewt as seen in {{WU}}]]
+[[File:Blast Ended Skrewt Wizarding World.jpg|200x200px|thumb|A Blast-Ended Skrewt at the Wizarding World of Harry Potter]]
+*{{GOF}} {{1st}}
+*{{GOF|F}} {{Comment|Disc 2}}
+*{{GOF|G}}
+*{{OOTP}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{LEGO|Y1}} {{C|DS version}}
+*{{PM}}
+*{{WW}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Care of Magical Creatures}}
+
+[[de:Knallrümpfiger Kröter]]
+[[es:Escreguto de cola explosiva]]
+[[fr:Scroutt à pétard]]
+[[ru:Соплохвост]] 
+[[pl:Sklątka tylnowybuchowa]]
+[[pt-br:Explosivim]]
+[[Category:Beasts]]
+[[Category:Care of Magical Creatures]]
+[[Category:Creatures affiliated with fire]]
+[[Category:Foundables]]
+[[Category:Hagrid's pets]]
+[[Category:Wizard-bred creatures]]

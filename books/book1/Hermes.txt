@@ -1,0 +1,51 @@
+{{Pet individual infobox
+|image = [[File:Hermes.jpg|250px]]
+|name = Hermes
+|born = Before [[1991]]
+|died = 
+|alias = 
+|title = 
+|species = [[Screech owl]]
+|gender = Male
+|height = 
+|hair = 
+|feathers = Grey
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Percy Weasley]] (owner)
+}}
+{{Quote|Percy got an owl from my dad for being made prefect, but they couldn't aff — I mean, I got [[Peter Pettigrew|Scabbers]] instead.|Ronald Weasley tells Harry Potter about Hermes|Harry Potter and the Philosopher's Stone}}
+
+'''Hermes''' (fl. 1991-1995) was a [[screech owl]] belonging to [[Percy Weasley]]. Hermes was purchased for Percy by [[Arthur Weasley|his father]] as a reward for becoming a [[Gryffindor]] [[prefect]] in his fifth year at [[Hogwarts School of Witchcraft and Wizardry]].
+
+In [[1993]], Hermes was stacked along with [[Hedwig]] and other belongings at the [[Leaky Cauldron]] before the departure to [[King's Cross Station]].<ref name="POA5">{{POA|B|5}}</ref>
+
+In [[1995]], Percy used Hermes to deliver [[Percy Weasley's letter to Ronald Weasley (1995) II|a letter]] to his brother [[Ronald Weasley|Ronald]], advising him not to trust [[Harry Potter]] any longer and side with [[Dolores Umbridge]] and the [[British Ministry of Magic]].<ref name-"OOTP14">{{OOTP|B|14}}</ref>
+
+==Etymology==
+*{{wplink|Hermes}} (Ἑρμής) was the messenger of the gods in Greek mythology. Coincidentally, this is also the origin of the name "Hermione". This is very fitting for Percy, as he and Hermione always got along well at school, and given Percy's pompous nature, he would prefer to name his owl after a divine messenger.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}} {{1st ID}}
+*{{COS}} {{Mention}}
+*{{POA}}
+*{{POA|F}} {{C|Mentioned as "an owl"}}
+*{{GOF}} {{Mention}}
+*{{OOTP}}
+*{{OOTP|G}} {{comment|GBA/Nintendo DS version}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Hermes]]
+[[es:Hermes]]
+[[fr:Hermès]]
+[[it:Hermes]]
+[[pl:Hermes]]
+[[zh:赫梅斯]]
+[[ru:Гермес]]
+[[Category:Males]]
+[[Category:Owls]]
+[[Category:Percy Weasley's possessions]]
+[[Category:Weasley family pets]]

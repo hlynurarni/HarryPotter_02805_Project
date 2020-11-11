@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Arkie Philpott
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+
+{{Quote|I got it out of your vault for you, Harry, because it's taking about five hours for the public to get to their gold at the moment, the goblins have tightened security so much. Two days ago Arkie Philpott had a Probity Probe stuck up his... Well, trust me, this way's easier.|[[William Weasley]] describes typical security measures at Gringotts|Harry Potter and the Half-Blood Prince}}
+
+'''Arkie Philpott''' was a [[Wizardkind|wizard]] who was on the receiving end of a [[Probity Probe]] at [[Gringotts Wizarding Bank]] in the summer of [[1996]], after the [[Goblin]]s who ran the bank tightened security in the wake of [[Tom Riddle|Lord Voldemort]]'s return.<ref>{{HBP|B|6}}</ref>
+
+==Appearances==
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+
+{{Reflist}}
+
+[[de:Arkie Philpott]]
+[[fr:Arkie Philpott]]
+[[ru:Арки Филпотт]]
+[[pl:Arkie Philpott]]
+[[Category:Males|Philpott, Arkie]]
+[[Category:Wizards|Philpott, Arkie]]

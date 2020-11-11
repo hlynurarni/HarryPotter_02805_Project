@@ -1,0 +1,51 @@
+{{Individual infobox
+|image = [[File:Hokey.png|250px]]
+|name = Hokey
+|born = Before [[1940s]]<ref>Harry describes Hokey as "the oldest house elf he'd ever seen"; at this point, Harry has seen Kreacher, whose latest date of birth is 1978, and he does not refer to Kreacher in the same tones, implying that Hokey was older in the 1950s-1960s than Kreacher was in the 1990s.</ref>
+|died = 1950s-1960s<ref name="HBP">{{HBP|B|20}}, [[Hepzibah Smith]] was killed sometime between 1955 to 1961. It is not known how long Hokey lived but she died not long after then.</ref>
+|species = [[House-elf]]<ref name="HBP20"/>
+|gender = Female<ref name="HBP20"/>
+|job = Servant of [[Hepzibah Smith]]<ref name="HBP20"/>
+|loyalty = [[Hepzibah Smith]]<ref name="HBP20"/>
+|theme = house-elf
+}}
+{{Quote|She remembered putting something in her mistress’s cocoa that turned out not to be sugar, but a lethal and little-known poison, It was concluded that she had not meant to do it, but being old and confused —|Hokey's false memory of having killed her mistress|Harry Potter and the Half-Blood Prince}}
+'''Hokey''' was a female [[house-elf]] that belonged to [[Hepzibah Smith]]. She was framed in the murder of her mistress by [[Tom Riddle]].<ref name="HBP20">{{HBP|B|20}}</ref>
+
+==Biography==
+===Serving Hepzibah Smith===
+{{Dialogue a-b|Hepzibah Smith|How do I look?|Hokey|Lovely, Madam.|Hokey flattering her mistress|Harry Potter and the Half-Blood Prince}}
+Hokey was an old [[house-elf]] that served [[Hepzibah Smith]]. She used to flatter her mistress, and it was speculated (albeit sarcastically) that this was among her tasks as a house-elf.<ref name="HBP20" />
+
+====Hepzibah Smith's death====
+Sometime after 1945, Hokey met [[Tom Riddle]], a handsome boy who appeared to be friendly with Hokey's mistress. Tom visited many times.<ref name="HBP20" />
+
+On one such visit, Hepzibah ordered Hokey to bring out her two most valuable magical antiques: [[Helga Hufflepuff's Cup]] and [[Salazar Slytherin's Locket]], to show to Tom as a treat. This proved to be a fatal mistake on Hepzibah's behalf, as Riddle could barely hide his true nature when seeing such rare artefacts, especially the locket which once belonged to [[House of Gaunt|his family]].<ref name="HBP20" />
+
+After Hepzibah's death, Hokey was accused of poisoning her mistress's evening cocoa. Hokey later remembered putting something into the cocoa that turned out not to be sugar, but a little-known lethal poison. The Ministry decided it was an accident given the fact that Hokey was old and probably confused. However, it was actually [[Tom Riddle]] who poisoned Hepzibah (in order to steal [[Helga Hufflepuff's Cup]] and [[Salazar Slytherin's Locket]]), and then magically changed Hokey's memory with a [[False memory charm]], to make her look like the guilty party.<ref name="HBP20" />
+
+===Death===
+The [[British Ministry of Magic|Ministry]] convicted Hokey of manslaughter. It was concluded that Hokey's superannuated state had caused forgetfulness and lack of mental alertness. The [[Wizengamot]] believed that Hokey's loyalty to her mistress was never in doubt and there was never any signs of malice to Hepzibah; rather Hokey's weakened mind was not able to discriminate the poison from sugar. What happened to her career as a house-elf after that incident is unknown, but before she died, [[Albus Dumbledore]] found her and took a memory from her, in which Tom Riddle showed his interest towards Hepzibah's magical antiques. This memory was not sufficient enough to show Hokey's innocence, as it only proved that Riddle was aware of the artefacts' existence and that Hepzibah had them.<ref name="HBP20" />
+
+==Physical appearance==
+In a memory seen through the [[Pensieve]], [[Harry Potter]] describes Hokey as "the tiniest and oldest house-elf [he] had ever seen." Her head did not reach the seat of Mrs Smith's chair and when she carried Hepzibah's most precious heirlooms the boxes went over her head. She had papery skin and wore a linen sheet as a toga.<ref name="HBP20" />
+
+==Behind the scenes==
+*Hokey's memory was cut from {{HBP|FA}}. Therefore, Hokey and [[Hepzibah Smith]] were also cut.
+
+==Appearances==
+*{{HBP}} {{1st}} {{Flashback}}
+*{{PM}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Hokey]]
+[[fr:Hokey]]
+[[pl:Bujdka]]
+[[ru:Похлёба]]
+[[Category:20th century deaths]]
+[[Category:Articles related to Horcruxes]]
+[[Category:Females]]
+[[Category:Hepzibah Smith's possessions]]
+[[Category:House-elves]]
+[[Category:Wrongfully convicted individuals]]

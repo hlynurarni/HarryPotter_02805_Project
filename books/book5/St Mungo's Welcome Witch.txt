@@ -1,0 +1,39 @@
+{{Individual infobox
+|name = St Mungo's Welcome Witch
+|nationality = [[Great Britain|British]]<ref name="OOTP22"/>
+|species = [[Human]]<ref name="OOTP22"/>
+|gender = Female<ref name="OOTP22"/>
+|hair = Blonde<ref name="OOTP22"/>
+|eyes = Blue<ref name="OOTP22"/>
+|skin = White<ref name="OOTP22"/>
+|job = Welcome Witch<ref name="OOTP22"/>
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP22"/>
+|theme = st-mungo-employee
+
+}}
+{{Quote|Our Welcome Witch will be happy to assist you.|Sign at [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]].|Harry Potter and the Order of the Phoenix}}
+
+This '''[[Wizardkind|witch]]''' was responsible for helping visitors and telling patients which floor to go to at [[St Mungo's Hospital for Magical Maladies and Injuries]].<ref name="OOTP22"/> 
+
+==Biography==
+When [[Harry Potter]] visited [[Arthur Weasley]] with the [[Weasley family|Weasleys]] at [[Christmas]] [[1995]], the Welcome Witch appeared to be a typical secretary type; somewhat rude, brief, and monotonous, which was likely used to be humorous when [[Harry Potter]] read a sign, reading "Our Welcome Witch will be happy to assist you".<ref name="OOTP22"/>
+
+==Physical description==
+She was a squat little woman with short, blonde hair and blue eyes.<ref name= "OOTP22">{{OOTP|B|22}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+
+[[es:Bruja de Bienvenida de San Mungo]]
+[[pl:Pracownica informacji Szpitala Św. Munga]]
+[[pt-br:Bruxa recepcionista do St Mungus]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals|Welcome Witch at St Mungo's]]
+[[Category:Females|Welcome Witch at St Mungo's]]
+[[Category:St Mungo's employees]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards|Welcome Witch at St Mungo's]]

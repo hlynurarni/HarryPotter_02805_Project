@@ -1,0 +1,45 @@
+{{Organisation infobox
+|bgcolor1 = 
+|bgcolor2 = 
+|image = 
+|name = Magical Maintenance Department
+|founder = 
+|founded = 
+|dissolved = 
+|leader = 
+|members = 
+|headquarters = [[British Ministry of Magic|Ministry of Magic]], [[London]]<ref name="OOTP7"/>
+|intentions = To upkeep the [[British Ministry of Magic]]
+|affiliation = [[British Ministry of Magic|Ministry of Magic]]<ref name="OOTP7"/>
+|enemies = 
+}}
+{{Quote|Those are enchanted windows. Magical Maintenance decide what weather we'll get every day. We had two months of [[hurricane]]s last time they were angling for a pay rise.|[[Arthur Weasley]] to [[Harry Potter|Harry]] on the way to his trial for underage magic|Harry Potter and the Order of the Phoenix}}
+'''Magical Maintenance''' was a division of the [[British Ministry of Magic|Ministry of Magic]]. Members of this Department were the custodians of the Ministry. They were responsible for maintaining the upkeep of the Ministry, including deciding what weather to display through the Ministry's [[enchanted window]]s and repairing [[magic]] gone wrong within the premises of the Ministry, such as [[Water|rain]] inside an office.<ref name="OOTP7">{{OOTP|B|7}}</ref>
+
+Magical Maintenance was presumably in charge of maintaining the lifts and ensuring that the [[Atrium]] fireplaces were supplied with [[Floo Powder]], in addition to less magical forms of maintenance such as tidying up.<ref name="OOTP7">{{OOTP|B|27}}</ref> The personnel working in the Magical Maintenance Department wore navy blue robes.<ref name="DH12"/>
+
+==Known members==
+*[[Orford Umbridge]]<ref name="pottermoreprofile">{{WW|dolores-umbridge}}</ref>
+*[[Reginald Cattermole]]<ref name="DH12">{{DH|B|12}}</ref>
+*[[Ministry of Magic lift attendant|Lift attendant]]<ref name="OOTPF">{{OOTP|F}}</ref>
+
+==Behind the scenes==
+*While {{DH}} specifies that Magical Maintenance personnel wears navy blue robes, the [[Harry Potter and the Deathly Hallows: Part 1|film adaptation]] shows them wearing a thin overcoat of greyish-purple colour.
+*Employees of this department seems to be the lowest ranking in the social ladder, as [[Dolores Umbridge]] was ashamed of her father [[Orford Umbridge|Orford]] for being a member of this sector, mostly mopping floors within the Ministry. The pay also seems rather low, as Orford accepted a ''small'' monthly allowance from Dolores in exchange for an early retirement over staying with the paying job.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{DH}} {{Mention}}
+*{{DH|G1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Departments unknown levels}}
+
+[[de:Zauberei-Zentralverwaltung]]
+[[es:Departamento de Mantenimiento Mágico]]
+[[ru:Отдел магического хозяйства]]
+[[pl:Personel Techniczny]]
+[[fr:Département de la maintenance magique]]
+[[pt-br:Escritório de Manutenção Mágica]]
+[[Category:Ministry of Magic departments]]

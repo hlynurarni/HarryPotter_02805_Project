@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Livius
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH21"/>
+|gender = Male<ref name="DH21"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = *Unknown [[wand]]<ref name="wand">It is most likely that he owned another wand before the [[Elder Wand]] if he was the owner.</ref>
+*[[Elder Wand|Elder, Thestral tail hair core]] (possibly)<ref name="DH21"/>
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Livius''' was a [[Wizardkind|wizard]]. It is debated whether it was he who became the Master of the [[Elder Wand]] after [[Loxias]]'s death, or if it was [[Arcus]].<ref name="DH21">{{DH|B|21}}</ref>
+
+==Etymology==
+The name "Livius" comes from a Roman family name which may be related to either Latin ''liveo'' "to envy" or ''lividus'' "blue, envious". Titus Livius, also known as Livy, was a Roman historian who wrote a history of the city of [[Rome]].
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Possibly [[Loxias]]
+|position=Master of the [[Elder Wand]] {{Comment|possibly; history records that [[Arcus]] may also have been Master at the time}}
+|years=
+|successor=Unknown, eventually [[Mykew Gregorovitch|Gregorovitch]]
+}}
+{{End box}}
+{{Deathly Hallows Owners}}
+[[de:Livius]]
+[[es:Livius]]
+[[fr:Livius]]
+[[pl:Liwiusz]]
+[[pt-br:Lívio]]
+[[ru:Ливий]]
+[[de2:Livius]]
+[[Category:Elder Wand masters]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

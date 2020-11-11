@@ -1,0 +1,80 @@
+{{Individual infobox
+|theme = dark-wizard
+|image = 
+|name = Caractacus Burke
+|born = In or before [[1846]]<ref name=shop>{{HBP|B|13}} - “Because of the evidence of one Caractacus Burke,” said Dumbledore, “who, by an odd coincidence, helped found the very shop whence came the necklace we have just been discussing.”</ref><ref name=DOB>He was, most likely, at least 17 when he helped established his shop in 1863.</ref>
+|died = Likely before [[1992]] (Unconfirmed if dead)<ref>It is unconfirmed, but due to the fact that Dumbledore uses to word "was" to describe Burke, and that he doesn't appear to be running the shop with Borgin, it definitely a possibility he died some time before 1992</ref>
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">The [[Burke family]] was one of the [[Sacred Twenty-Eight]] families, but he could have had [[Non-magic people|Muggle]] heritage as well.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP13"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP13"/>
+|gender = Male<ref name="HBP13"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Herbert Burke]] (possible son) †
+*[[Belvina Black]] (possible daughter-in-law) †
+*[[Belvina Burke's sons|Burke brothers]] (possible grandson ) 
+*[[Belvina Burke's daughter|Ms. Burke]] (possible granddaughter)
+*[[Elizabeth Burke]] (possibly) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Shopkeeper<ref name="HBP13"/>
+|house = 
+|loyalty = *[[Borgin and Burkes]]<ref name="HBP13"/>
+*[[Burke family]]<ref name="HBP13"/>
+}}
+{{Quote|Caractacus Burke was not famed for his generosity.|[[Albus Dumbledore]] describing Burke's greedy personality|Harry Potter and the Half-Blood Prince}}
+'''Caractacus Burke''' (fl. [[1846]]) was a [[Wizardkind|wizard]], who was one of the original founders of [[Borgin and Burkes]].<ref name=shop /> Caractacus was one of the people [[Albus Dumbledore]] interviewed to find out more about [[Tom Riddle|Voldemort's]] past. Dumbledore learned from Caractacus' memory that [[Merope Riddle|Merope Gaunt]] came to him when she was destitute, and sold him [[Salazar Slytherin's Locket]] for ten [[Wizarding currency|Galleons]]. Dumbledore apparently had a low opinion of him, while not directly calling Burke a greedy man, he strongly implied it by saying that it had been the kind of reputation Burke had earned.<ref name="HBP13">{{HBP|B|13}}</ref>
+
+After [[Tom Riddle]] had graduated from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], Burke hired him to research and acquire items for him. Riddle had done a very good job at this, and Burke was very surprised when Tom Riddle disappeared out of the blue one day without tending any notice to him.<ref name="HBP20">{{HBP|B|20}}</ref>
+
+What ultimately happened to Burke is unknown, but by [[1992]], the shop seemed to be exclusively operated by Mr [[Borgin]].<ref name="COS4">{{COS|B|4}}</ref>
+
+==Biography==
+===Early life===
+Burke was born in or before 1846.<ref name=DOB />
+
+===As shop-owner===
+{{Quote|Yes, we acquired it in curious circumstances. It was brought in by a young witch just before Christmas, oh, many years ago now. She said she needed the gold badly, well, that much was obvious. Covered in rags and pretty far along ... going to have a baby, see. She said [[Salazar Slytherin's locket|the locket]] had been Slytherin's. Well, we hear that sort of story all the time, 'Oh this was [[Merlin]]'s, this was, his favourite teapot,' but when I looked at it, it had his mark all right, and a few simple spells were enough to tell me the truth. Of course, that made it near enough priceless. She didn't seem to have any idea how much it was worth. Happy to get ten [[Galleon]]s for it. Best bargain we ever made!|Caractacus Burke on his encounter with [[Merope Riddle|Merope Gaunt]]|Harry Potter and the Half-Blood Prince}}
+
+In [[1863]], Burke founded the shop [[Borgin and Burkes]] with his partner [[Borgin]]. The shop is located in [[Knockturn Alley]], an infamous street specialising in shops that sell [[Dark Arts]] items When Burke ran the shop he was known for taking advantage of people and driving hard bargains. This was demonstrated when, in [[December]], [[1926]], he was visited by [[Merope Riddle|Merope Gaunt]], a [[pure-blood]] descendant of [[Salazar Slytherin]]. Merope was destitute, and heavily pregnant with [[Tom Riddle]]. She wished to sell an [[Salazar Slytherin's Locket|artefact]], the locket that had belonged to her famous ancestor. Burke was hesitant to accept her claims, having heard many such tales, but a few spells were able to confirm that she was telling the truth. He took advantage of her ignorance and desperation and paid her much less than its true value, about 10 [[Galleon]]s worth. Burke later sold the locket to [[Hepzibah Smith]], though he was desperate to get it back due to the historical value.<ref name="HBP13"/>
+
+In [[1945]], Burke hired [[Tom Riddle]], the son of the woman who sold Slytherin's locket to him (a fact Burke never knew). Burke tasked the young Riddle to persuade people to sell their valuable artefacts to the shop, a feat Tom was very skilled in. One such task was to persuade Hepzibah to sell a [[Hepzibah Smith's goblin-made armour|goblin-made armour]], which Burke had to make an improved offer at 500 galleons. Shortly after this, Hepzibah died from an alleged accidental poisoning and during the investigations Riddle disappeared without so much as a resignation notice, much to Caractacus' astonishment.<ref name="HBP20"/>
+
+It's unknown what happened to Burke after Tom left, though by the [[1990s]] [[Borgin]] appeared to run the shop alone.<ref name="COS4"/> It's also unknown if he recognised Lord Voldemort as his former employee or if he was still alive to see him wage war. Though Dumbledore's speaking about Burke in past tense in [[1997]], is an indication that he was deceased by then.<ref name="HBP13"/>
+
+==Etymology==
+[[wikipedia:Caratacus|Caractacus]] was a British hero who fought the Roman invaders. Burke is reportedly named after [[Wikipedia:Burke and Hare murders|Irishman William Burke]], a bizarre serial killer who, with help from a partner, murdered dozens of people in Edinburgh in the late 1820s, selling the bodies as fresh cadavers to a local medical school. 'Burk' or 'berk' is also a British term for an annoying and stupid person, with an original meaning in Cockney Rhyming Slang which is far stronger. Caractacus was also the first name of the character played by Dick Van Dyke in the film ''Chitty Chitty Bang Bang''.
+
+==Appearances==
+*{{COS}} {{1st mention}}
+*{{HBP}} {{1st}} {{Flashback}}
+*{{DH}} {{Mention}}
+*{{LEGO|Y1}} {{C|Surname seen on sign}}
+*{{LEGO|Y2}} {{C|Surname seen on sign}}
+*{{PM}} {{C|Surname seen on sign}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Knockturn Alley}}
+{{DEFAULTSORT:Burke, Caractacus}}
+[[de:Caractacus Burke]]
+[[es:Caractacus Burke]]
+[[fr:Caractacus Beurk]]
+[[pl:Caractacus Burkes]]
+[[pt-br:Caractacus Burke]]
+[[Category:British individuals]]
+[[Category:Burke family]]
+[[Category:Dark wizards]]
+[[Category:Males]]
+[[Category:Shop owners]]

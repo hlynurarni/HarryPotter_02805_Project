@@ -1,0 +1,144 @@
+{{Organisation infobox
+|bgcolor1 = 9966CC
+|bgcolor2 = C9A0DC
+|image = [[File:MBRC clear.png|250px]]
+|name = Muggle-Born Registration Commission
+|founder = [[British Ministry of Magic|Ministry of Magic]] ([[Tom Riddle|Lord Voldemort]]'s control)
+|founded = [[September]], [[1997]]
+|dissolved = [[2 May]], [[1998]]
+|leader = [[Dolores Umbridge]]
+|members = 
+|headquarters = [[Muggle-Born Registration Commission courtroom|Courtroom]], Level 10, [[British Ministry of Magic|Ministry of Magic]]
+|intentions = To imprison Muggle-born witches and wizards
+|affiliation = *[[British Ministry of Magic|Ministry of Magic]]
+*[[Death Eaters]]
+*[[Snatchers]]
+|enemies = *[[Muggle-born]]s
+*[[Order of the Phoenix]]
+}}
+{{Quote|The [[British Ministry of Magic|Ministry of Magic]] is undertaking a survey of so-called "[[Muggle-born]]s," the better to understand how they came to possess magical secrets. Recent research undertaken by the [[Department of Mysteries]] reveals that [[magic]] can only be passed from person to person when [[Wizardkind|Wizards]] reproduce. Where no proven Wizarding ancestry exists, therefore, the so-called Muggle-born is likely to have obtained magical power by theft or force. The Ministry is determined to root out such usurpers of magical power, and to this end has issued an invitation to every so-called Muggle-born to present themselves for interview by the newly appointed Muggle-born Registration Commission|''[[Daily Prophet]]'' discussing the Commission|Harry Potter and the Deathly Hallows}}
+
+The '''Muggle-Born Registration Commission''' was set up by the [[British Ministry of Magic|Ministry of Magic]] following [[Tom Riddle|Lord Voldemort]]'s [[Fall of the Ministry of Magic|takeover]] on [[1 August]], [[1997]]. The public goal of the Commission was to force all [[Muggle-born]] [[wizardkind|wizards and witches]] to register with the Ministry, then undergo interrogation as to how they "stole" their magical power from "real" wizards and witches. In truth, the Commission was a deeply prejudicial institution, that focused its resources on degradation and imprisonment of Muggle-borns. [[Dolores Umbridge]] was the [[Head of the Muggle-Born Registration Commission|head]] of the commission.
+
+==History==
+===Founding===
+{{Dialogue|Ron Weasley|People won't let this happen.|Remus Lupin|It ''is'' happening, Ron. Muggle-borns are being rounded up as we speak.|The commission's actions during the height of the war|Harry Potter and the Deathly Hallows}}
+
+[[File:Thicknesse regime.png|230x230px|thumb|left|Four of the most consequential figures of the new regime (left to right): [[Albert Runcorn]], Ministry Official; [[Dolores Umbridge]], Senior Undersecretary to the Minister and [[Head of the Muggle-Born Registration Commission]]; [[Pius Thicknesse]], Minister for Magic; and [[Corban Yaxley]], Head of the Department of Magical Law Enforcement]]
+
+The Muggle-Born signup was set up within a month<ref>From Chapter 11 (''The Bribe'') of ''Deathly Hallows'': "''[...]by the newly appointed Muggle-born Registration Commission''", printed on [[1 September]] ("''at this moment excited eleven-year-olds would be poring over newly purchased spellbooks, unaware that they would never see Hogwarts, perhaps never see their families again, either.''"</ref> of Lord Voldemort taking over the [[British Ministry of Magic|Ministry of Magic]], supposedly because the [[Department of Mysteries]] conducted research which found that magic could only be inherited and thus any "so-called [[Muggle-born]]" must have obtained magic by thievery. The Commission was then set up, ostensibly, in order to investigate this. This news was reported by the ''[[Daily Prophet]]''.<ref name="DH11">{{DH|B|11}}</ref>
+
+In reality, the Commission was an instrument of discrimination against Muggle-borns in line with [[Death Eaters|Death Eater]] ideology. Although they claimed to have "issued an invitation" for Muggle-borns to meet with the Commission, the Commission in fact forced Muggle-borns to turn themselves in, sending [[Snatchers]] against any who tried to avoid them. Some people pursued by Snatchers, such as [[Dirk Cresswell]] and [[Edward Tonks|Ted Tonks]], did not survive the encounter<ref name="DH22">''Deathly Hallows'', Ch. 22</ref>. Furthermore, their "interviews" were shams, fully intent on sending innocent Muggle-borns to [[Azkaban]], or stripping them of their wands and jobs, leaving them impoverished. Despite [[Ronald Weasley]] believing the claims within the news to be too ludicrous for people to accept, let alone permit, the community nevertheless accepted the Commission's foundation and Muggle-borns were arrested.<ref name="DH13">''Deathly Hallows'', Ch. 13</ref>
+
+Furthermore, pure-bloods who have pro-muggle ideals are kept on constant surveillance by the Commission, as they are [[blood traitor]]s, which the Ministry's new regime considers unacceptable. [[Arthur Weasley]], being both a muggle enthusiast and a member of the [[Order of the Phoenix]], is marked in his file as tracked.<ref name="DH13" /> Luckily, [[half-blood]]s, despite being against the Death Eaters' ideology of purity, are allowed to remain as citizens within the community, as they technically have "legally inherited" magic, though they are treated with less respect due to dilution.
+
+===Actions===
+{{Quote|Harry felt sickened and angry: At this moment, excited 11-year-olds would be poring over stacks of newly purchased spell-books, unaware that they would never see Hogwarts, perhaps never see their families again either.|[[Harry Potter]]'s reaction to hearing what would happen to Muggle-born children|Harry Potter and the Deathly Hallows}}
+
+[[File:Mugglebornregistration.png|250x250px|thumb|Umbridge overseeing the trial of Muggle-born [[Mary Cattermole]]]]
+
+The Commission had Muggle-borns who registered fill out questionnaires about their family history and then wait for their trial behind bars in the [[British Ministry of Magic|Ministry of Magic]]. While awaiting trial, they were guarded by [[Dementor]]s and threatened with the [[Dementor's Kiss]] if they resisted. Trials were held by Commission head [[Dolores Umbridge]], who was assisted by [[Death Eaters|Death Eater]] and head of the [[Department of Magical Law Enforcement]] Yaxley at times. Travers, another Death Eater, may also have been involved, as Umbridge once mentioned him sending someone to record-keep for her. Those who could not prove that they had magical heritage — in other words, any [[Muggle-born]] and potentially some [[half-blood]]s — were sentenced to [[Azkaban]] for having "stolen" magic.<ref name="DH13" /> Some, however, were apparently released after being stripped of their wands and their jobs, and ended up homeless<ref name="DH26">''Deathly Hallows'', Ch. 26</ref>.
+
+[[File:Mudbloods.PNG|241x241px|thumb|left|''[[Mudbloods and the Dangers They Pose to a Peaceful Pure-Blood Society]]'']]
+
+This led some Muggle-borns to fake their family trees, such as [[Dirk Cresswell]];<ref name="DH13" /> others to refuse to register and go on the run, such as [[Edward Tonks|Ted Tonks]].<ref name="DH15">''Deathly Hallows'', Ch. 15</ref> These individuals were pursued by [[Snatchers]], sometimes fatally. Their deaths were not reported by news outlets such as the ''[[Daily Prophet]]'', only by the rebellious radio programme ''[[Potterwatch]]''.<ref name="DH22" />
+
+Also, attendance at Hogwarts School of Witchcraft and Wizardry became mandatory for the first time. Part of the reason for this was to weed out Muggle-borns, as all students were required to prove [[blood status]]. Thus, children who could not prove that they had magical ancestry — such as [[Dean Thomas]], whose mother was a Muggle and whose father was a wizard, but had left when Dean was younger, making it impossible to prove — were rounded up as well, or forced to go on the run. This held true even for Muggle-borns who were invited (or rather, forced) to attend first year at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], only to be taken away for imprisonment.
+
+The Commission also seemed to distribute propaganda against Muggle-borns, such as a pamphlet entitled "''Mudbloods and the Dangers They Pose to a Peaceful Pure-Blood Society''".<ref name="DH13" />
+
+===Infiltration of the Ministry===
+{{Main|Infiltration of the Ministry of Magic}}
+{{Dialogue a-b-a|Dolores Umbridge|Could you please tell us from which witch or wizard you took [[Mary Cattermole's wand|that wand]]?|Mrs Cattermole|T-took? I didn't t-take it from anybody. I bought it when I was eleven years old. It — it — it — ''chose'' me.|No, no, I don't think so, Mrs Cattermole. Wands only choose witches or wizards. You are not a witch.|Umbridge interrogating Mary Cattermole|Harry Potter and the Deathly Hallows}}
+
+[[File:Trio enter ministry.jpg|250px|thumb|The disguised trio prepare to enter the ministry]]
+
+[[Harry Potter]] and Hermione Granger encountered the Commission when they, along with [[Ronald Weasley|Ron Weasley]], entered the Ministry of Magic in 1997 to take Salazar Slytherin's locket from [[Dolores Umbridge]]. Before they could decide what to do, Hermione, disguised as [[Mafalda Hopkirk]] with [[Polyjuice Potion]], was sent down to the courtrooms with Umbrige to witness the trial of Mary Cattermole and Ron, disguised as [[Reginald Cattermole]], was forced to stop it raining in Yaxley's office. Harry, disguised as [[Albert Runcorn]], went to level one of the Ministry to search Umbridge's office for the [[Horcrux]] locket, and found himself faced in an open area where employees are assembling anti-"Mudblood" pamphlets. Harry spots Moody's magical eye affixed to the door of Umbridge's office and to create a diversion, sets a Decoy Detonator.
+
+[[File:Umbridge_office_search.jpg|250px|thumb|left|A disguised Harry Potter searching Umbridge's office]]
+
+During the confusion, Harry entered Umbridge's office. He found it decorated exactly like her Hogwarts office, with the horribly cute kitten plates on the wall and the lace doilies on the desks. Also everything in the office was in various shaded of pink. Looking through the small telescope on the door, he sees everyone is gathered around the [[Decoy Detonator]]'s remains. He then removed Moody's eye and pockets it, then tries unsuccessfully to summon the Locket. Harry finds a file on [[Arthur Weasley]], who is noted as a [[pure-blood]] likely to be contacted by "Undesirable Number 1", Harry himself. Mr Weasley is also being Tracked. Harry deems it unlikely the Locket is here and Harry exits unseen, returning to the lift. He must now find Ron and collect Hermione from the courtroom.
+
+[[File:Tumblr lupskzNgHS1qgt0vro1 250.gif|frame|Dolores and Yaxley being hit by Harry and Ron's respective stunning spells]]
+
+Covered with the Invisibility Cloak, Harry heads for the courtrooms to extract Hermione while Ron is busy with Yaxley's office. Harry recognises an unnatural chill: [[Dementor]]s are guarding Muggle-born witches and wizards waiting to be interrogated. [[Mary Cattermole]] is called and Harry follows her into the courtroom. Inside, two Dementors are kept at bay by a cat [[Patronus Charm|Patronus]] and Umbridge, Hermione (as Mafalda), and Yaxley, are interrogating Cattermole, demanding to know whose wand she stole. Seeing the Locket around Umbridge's neck, Hermione compliments her about it: Umbridge claims the S initial is for [[Selwyn family|Selwyn]], an old pure-blood Wizarding family she is honoured to be related to. This lie proves too much for Harry, who furiously stunned Umbridge, as well as, before the Death Eater could react, Yaxley.
+
+With Umbridge's Patronus no longer holding the Dementors at bay, Harry quickly casts his own just in time to save Mary from receiving the Dementor's Kiss. Harry releases the chains binding Mary, while Hermione creates a duplicate Locket to replace the real one. Escorted by Harry and [[Hermione Granger|Hermione]]'s Patronuses, the three exit the courtrooms. Gathering the other Muggle-borns, Harry says the new official position is to disguise themselves and leave the country or at least avoid the Ministry. Meeting Ron at the lifts, Mary Cattermole hugs him, believing he is her husband, Reg. Ron warns them that the Ministry knows they are there and is closing off the fireplaces: they must hurry to escape. At the [[Atrium]], Harry sends the Muggle-borns through the remaining open fireplaces.
+
+[[File:Tumblr lr91yjKCr01qeoetoo6 r1 250.gif|left|frame|Yaxley grabs a hold of the trio mid-Apparition and is transported to 12 Grimmauld Place]]
+
+Amidst the confusion, [[Corban Yaxley|Yaxley]] appears, ordering workers to seal all fireplaces. As Ron escapes with Mary Cattermole, Yaxley fires a curse at Harry as he exits with Hermione. Back in the lavatory, Yaxley appears in the cubicle behind Harry. Grabbing Hermione and Ron, Harry Disapparates. He briefly sees [[12 Grimmauld Place|Grimmauld Place]]'s front door, then hears a bang and they are soon Apparating away. Having broken the Fidelius Charm by bringing Yaxley within the limits of the spell while disapparating, the trio had to abandon the house as Hermione Apparated them elsewhere.<ref name="DH13" />
+
+===Disbandment===
+The Muggle-Born Registration Commission was disbanded after [[Tom Riddle|Voldemort]]'s defeat when [[Kingsley Shacklebolt]] became [[Minister for Magic]] in [[1998]]. Umbridge was sentenced to Azkaban herself for her crimes against [[Muggle-born]]s as head of the Commission, as some of her victims who were incarcerated in Azkaban did not survive in the devilish prison.<ref>[http://www.the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript 30 July 2007 Leaky Cauldron Web Chat with J.K. Rowling]</ref> Yaxley was also arrested or killed during the [[Battle of Hogwarts]]. It is unknown what happened to the other members of the department.
+
+==Impact==
+Once inside the Ministry, the trio sees how extensively Voldemort's corruption and perversion has spread, and the extreme measures being implemented to separate the "racially impure" from "[[pure-blood]]ed" wizard society. Anyone not directly serving [[Tom Riddle|Lord Voldemort]] is controlled through his minions, mostly with threats and violence. It appears there is little resistance and as Voldemort gains more power, many wizards fear for themselves or their loved ones who could be branded as "undesirables" and be incarcerated.
+
+There are still many in the general wizarding population who are simply ignorant about what is happening, while others are fearful and/or uncertain what to believe or who to trust. Voldemort deliberately created this confusion by quietly and insidiously seizing control of the [[British Ministry of Magic|Ministry]] and other key institutions while spreading anti-[[Non-magic people|Muggle]] propaganda. He remains unseen — though his return has now been public knowledge for a year: by staying concealed he allows rumour to do his work, spreading fear and doubt, while never providing the public a specific target to rally against.
+
+Meanwhile, the thoroughly corrupt and reprehensible [[Dolores Umbridge]] revels in her position as [[Head of the Muggle-Born Registration Commission]]. Bloated with power, she has dedicated herself to purging "impurities" from the wizarding world, much as she did while at Hogwarts, and readily abuses her authority to persecute those deemed unworthy. From what can be seen at the hearing Umbridge is presiding over, it appears that all Muggle-borns are being rounded up, probably to be sent to [[Azkaban]], deported, or exterminated. "[[Blood traitor]]s," shielded to some extent by their blood status, are nonetheless being watched more closely as well.
+
+==Known members==
+<gallery orientation="portrait" position="center" widths="95" spacing="small">
+Dolores Umbridge Deathly Hallows promotional image.jpg|[[Dolores Umbridge]]
+Yaxleyprofile.jpg|[[Corban Yaxley]]
+RuncornProfile.png|[[Albert Runcorn]]
+Order-of-the-phoenix-travers.jpg|[[Travers]]
+Dawlish profile.jpg|[[John Dawlish]]
+Mafalda Hopkirk.PNG|[[Mafalda Hopkirk]]
+</gallery>
+
+==Known victims==
+{| class="wikitable" border="1" width="100%"
+|-
+! scope="col" |Wizard(s)
+! scope="col" |Notes
+|-
+|[[Alderton]]
+|Sentenced to [[Azkaban]] for "stealing magic"
+|-
+|[[Mary Cattermole]]
+|Subjected to a biased trial, escaped due to Harry Potter<ref name="DH13" />
+|-
+|[[Dirk Cresswell]]
+|Forced to forge his family tree and go on the run when this was discovered: eventually killed by [[Snatchers]]<ref name="DH22" />
+|-
+|[[Dean Thomas]]
+|Forced to go on the run<ref name="DH15" />: eventually captured and briefly imprisoned in the dungeons of [[Malfoy Manor]]
+|-
+|[[Edward Tonks|Ted Tonks]]
+|Forced to go on the run: eventually killed by Snatchers<ref name="DH22" />
+|-
+| colspan="1" rowspan="2" |Various others<ref name="DH26" />
+|<span style="font-weight:normal;">[[Wandless|Various people]] reduced to being </span>[[Wandless|beggars]]<span style="font-weight:normal;"> on the streets</span>
+|-
+|<span style="font-weight:normal;">Substantial number of inmates in Azkaban.</span>
+|-
+|[[Hermione Granger]]
+|Highly wanted, due to her Muggle-born status and evading registry with the Commission, but primarily because she was on the run with [[Harry Potter]] destroying Horcruxes. [[Fenrir Greyback]] discovered her identity when she, [[Ronald Weasley|Ron Weasley]] and Harry Potter were caught by a gang of [[Snatchers]] despite her lie of being [[Penelope Clearwater]] and narrowly escaped being taken to the Ministry when Greyback found out who [[Harry Potter]] was and took them to [[Malfoy Manor]] resulting in the [[Skirmish at Malfoy Manor]] and Hermione's torture.
+|}
+
+==Behind the scenes==
+*In {{DH|F1}}, apart from just Arthur Weasley's file, Dolores Umbridge, as Head of the Commission, maintained another number of files on those of concern to the commission, including [[Albus Dumbledore's file]], [[Alastor Moody's file]], [[Sirius Black's file]] and [[Hermione Granger's file]].
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{HPV|CH}} (mentioned only)
+
+==Notes and references==
+{{Reflist}}
+
+{{Death Eaters}}
+{{Ministry Departments}}
+
+[[de:Registrierungskommission für Muggelstämmige]]
+[[es:Comisión de Registro de Hijos de Muggles]]
+[[fr:Commission d'enregistrement des nés-Moldus]]
+[[pl:Komisja Rejestracji Mugolaków]]
+[[ru:Комиссия по учёту магловских выродков]]
+[[pt-br:Comissão de Registro dos Nascidos-Trouxas]]
+[[Category:Death Eater allies]]
+[[Category:Muggle-Born Registration Commission]]
+[[Category:Pure-blood supremacists]]

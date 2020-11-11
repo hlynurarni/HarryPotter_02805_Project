@@ -1,0 +1,123 @@
+{{Family infobox
+|image=[[File:Prewett pm.jpg|250px]]
+|name=Prewett family
+|hideh=
+|blood=[[Pure-blood]]
+|family members=*[[Ignatius Prewett]]
+*[[Lucretia Black|Lucretia Prewett]] (née [[House of Black|Black]]) †
+*[[Molly Weasley's father|Mr Prewett]] 
+*[[Molly Weasley's mother|Mrs Prewett]]
+*[[Fabian Prewett]] †
+*[[Gideon Prewett]] †
+*[[Molly Weasley]] (née Prewett)
+|status=Unknown,<ref name="status">Gideon and Fabian, the only known males, are dead; Bilius, if he is Molly's brother, is also dead and he never married. <!---Do not add the fact that Lancelot and Molly's second cousin are still alive; Lancelot is Muriel's cousin and it's never been confirmed that she is a Prewett, so she may not be either.---></ref> extant in female line
+|hider=
+|related=*[[Weasley family]]
+*[[House of Black|Black family]]
+*[[Potter family]]
+|hidea=
+|house=[[Gryffindor]]
+|loyalty= *[[Order of the Phoenix]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+{{Quote|No one lived after he decided ter kill 'em, no one except you, an' he'd killed some of the best witches and wizards of the age — the McKinnons, the Bones, the Prewetts — you were only a baby an' you lived.|The numerous wizards murdered during the first war|Harry Potter and the Philosopher's Stone}}
+'''Prewett''' was the surname of a [[pure-blood]] [[wizardkind|wizarding]] family, and one of the [[Sacred Twenty-Eight]]. They were related to the [[House of Black|Black]], [[Weasley family|Weasley]], and [[Macmillan family|Macmillan]] families.<ref name="BFT">''[[House of Black|Black family tree]]''</ref> With the deaths of [[Fabian Prewett|Fabian]] and [[Gideon Prewett|Gideon]] in the [[First Wizarding War]],<ref name="OTP">{{OOTP}}</ref> the status of the Prewett family is unknown,<ref name="status"/> though it continued in the female line through the children of [[Molly Weasley]].
+
+==Family history==
+Some members of the Prewett family would likely have been labelled "[[blood traitor]]s", as they were members of the [[Order of the Phoenix]] and did not believe in the ideology of [[Blood status|blood purity]]. However, the attitude of the prejudiced [[House of Black]] towards the Prewetts suggests that not all members were considered blood traitors. [[Lucretia Black]] was not disowned for marrying [[Ignatius Prewett]],<ref name="BFT">''[[House of Black|Black family tree]]''</ref> implying that the Prewetts were more accepted in elite pure-blood circles than a family like the [[Weasley family|Weasleys]].
+
+Distinctive family traits included red hair<ref>{{HPLE|G}} {{see image|File:MollyWeasleyMinistryFile.png}}</ref> and large noses.<ref>[http://e-card.51.net/movie.scripts/Harry.Potter/Harry-Potter-and-the-Prisoner-of-Azkaban.htm ''Harry Potter and the Prisoner of Azkaban'' - Full Tan Draft]</ref>
+
+It is unknown whether Molly's second cousin (a squib accountant) was a pure-blood or not; he could have had a [[Non-magic people|Muggle]] mother.
+
+==Family members==
+===Main family===
+{| class="wikitable" border="1" width="100%"
+|-
+! scope="col" |Wizard(s)
+! scope="col" |Notes
+|-
+|[[Molly Weasley's father|Mr Prewett]]
+| colspan="1" rowspan="2" |Parents of Molly, Gideon, and Fabian
+|-
+|[[Molly Weasley's mother|Mrs Prewett]]
+|-
+|[[Fabian Prewett]]
+| colspan="1" rowspan="2" |Member of the first [[Order of the Phoenix]], brothers of Molly
+|-
+|[[Gideon Prewett]]
+|-
+|[[Molly Weasley|Molly Weasley née Prewett]]
+|Sister of Gideon and Fabian, wife of [[Arthur Weasley]], mother of the [[Weasley family#Molly and Arthur Weasley's Family|Weasley children]]
+|-
+|[[Ignatius Prewett]]
+|Brother of Mr Prewett and uncle of Molly, Gideon, and Fabian<ref>[[Sirius Black]] stated in Ch. 6 of ''Order of the Phoenix'' that Molly Weasley was his "cousin by marriage". This means that Ignatius could not have been Molly, Fabian, and Gideon's father, as this would have made them first cousins by blood of Sirius. Ignatius was Sirius's uncle by marriage, and if Molly was his niece, this could explain Sirius's comment. See this [[Talk:Ignatius Prewett|talk page]] for more information.</ref>
+|-
+|[[Lucretia Black|Lucretia Prewett née Black]]
+|Wife of Ignatius and aunt of [[Sirius Black|Sirius]] and [[Regulus Black]]
+|}
+
+===Possible Relations===
+{| class="wikitable" border="1" width="100%"
+|-
+! scope="col" |Wizard(s)
+! scope="col" |Notes
+|-
+|[[Bilius]]
+|A brother or brother-in-law of [[Molly Weasley|Molly Weasley née Prewett]]
+|-
+|An [[Ronald Weasley's uncle|uncle]]
+|Uncle of the [[Weasley family|Weasley children]] who attended [[William Weasley|Bill Weasley]] and [[Fleur Delacour]]'s wedding in [[1997]], he may be a brother of [[Molly Weasley|Molly Weasley née Prewett]] or one of her [[Arthur Weasley's brothers|brothers-in-law]].
+|-
+|[[Muriel's mother]]
+|May be a great-grandmother of Molly and her brothers because Muriel is their great-aunt, and so possibly sister of one of their grandparents. However, Muriel may be Molly's and her brothers great-aunt by marriage.
+|-
+|[[Muriel]]
+|A great-aunt of [[Molly Weasley|Molly Weasley née Prewett]], thus an aunt or aunt-in-law to [[Molly Weasley's father|Mr]] or [[Molly Weasley's mother|Mrs Prewett]]. While Muriel is Molly's great-aunt, and thus related to the family, it is not confirmed as to whether she is a Prewett.<ref>[https://www.pottermore.com/features/aunt-muriel-vs-aunt-marge Pottermore -] states that Muriel is "technically Mrs Weasley's great aunt"</ref>
+|-
+|[[Tessie]]
+|A great-aunt of [[Ronald Weasley|Ron Weasley]] and his siblings.<ref>{{GOF|F}}</ref> She might be an aunt of Molly's or of Arthur's. If the former is the case, then Tessie is related to the family, although it would not be certain that she was a Prewett.
+|-
+|[[J. E. Prewitt|J. Prewitt]]
+|Possibly a relative<ref>Surnames in wizarding worlds, as with muggles, can presumably change over time. If so, then this makes J. Prewitt a relative of Molly and her brothers, but this is unconfirmed</ref>
+|-
+|[[Molly Weasley's second cousin|Second cousin]]
+|Squib accountant
+|-
+|[[Mafalda]]
+|Molly's second cousin once removed
+|}
+
+==Family Tree==
+{{Familytree/start}}{{Familytree}}
+
+{{Familytree|||||||PF||||||AB|y|MM|PF=[[Prewett family|Prewett Family]]|AB=[[Arcturus Black III]]|MM=[[Melania Macmillan]]}}
+{{Familytree|| |,|-|-|-|-|^|-|-|.||||,|-|-|^|-|-|.}}
+{{Familytree||MRP|y|MRSP||IP|-|LB||||OB|y|WB|MRSP=[[Molly Weasley's mother|Mrs Prewett]]|MRP=[[Molly Weasley's father|Mr Prewett]]|IP=[[Ignatius Prewett]]|LB=[[Lucretia Black]]|OB=[[Orion Black]]|WB=[[Walburga Black]]}}
+{{Familytree||||,|^|-|-|-|-|-|-|v|-|-|-|.|||||,|-|^|-|.}}
+{{Familytree|||MP|y|AW| |GP| |FP|||SB|||RB|MP=[[Molly Weasley]]|AW=[[Arthur Weasley]]|GP=[[Gideon Prewett]]|FP=[[Fabian Prewett]]|SB=[[Sirius Black III]]|RB=[[Regulus Black]]}}
+{{Familytree||||||!}}
+{{Familytree|||||WF|WF=[[Weasley family]]}}
+{{Familytree/end}}
+
+==Etymology==
+The surname ''Prewett'' is Welsh in origin. It is derived from the Middle English word ''prou'', meaning "brave" or "valiant", and the suffix "-et", which implies smallness. Thus, it is believed to be derived from a nickname for someone small, but brave.<ref>[http://www.houseofnames.com/xq/asp.fc/qx/prewett-family-crest.htm House of Names: Prewett]</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{OOTP}} {{Mention}}
+*{{PM}} {{1st}}
+*{{WW}}
+
+==Notes and references==
+{{Reflist}}
+{{Order of the Phoenix}}
+[[de:Prewett (Familienname)]]
+[[es:Familia Prewett]]
+[[fr:Famille Prewett]]
+[[ru:Пруэтты]]
+[[pl:Rodzina Prewett]]
+[[pt-br:Família Prewett]]
+[[Category:Blood traitors]]
+[[Category:Prewett family]]

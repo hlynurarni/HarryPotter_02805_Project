@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Clara Ivanova.png]]
+|name = Clara Ivanova
+|born = before [[1977]], [[Bulgaria]] (possibly)
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Bulgaria]]n
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Red
+|eyes = Green
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Bulgarian National Quidditch team]]
+|house = 
+|loyalty = [[Bulgarian National Quidditch team]]
+}}
+'''Clara''' '''Ivanova''' was a [[Bulgaria]]n [[Wizardkind|witch]] who played as a [[Chaser]] for the [[Bulgarian National Quidditch team]] during the [[1994]] [[Quidditch World Cup]]. During the final against the [[Irish National Quidditch team]], she scored Bulgaria's first goal. She wore a red bandana when playing.<ref>{{QWC}}</ref>
+
+==Behind the scenes==
+*This character is known only by her surname in the [[Harry Potter series|books]]. Her first name is given as "Clara" on a [[Chocolate Frog Card|Famous Wizard Card]] in the [[Harry Potter and the Half-Blood Prince (video game)|video game adaptation]] of {{HBP}}.<ref>{{HBP|G}}</ref>
+
+==Etymology==
+The name "Clara" is the feminine form of the Late Latin name ''Clarus'' which meant "clear, bright, famous".
+
+==Appearances==
+*{{GOF}}
+*{{GOF|F}}
+*{{QWC}}
+*{{HBP|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[de:Iwanowa]]
+[[fr:Ivanova]]
+[[pl:Clara Ivanova]]
+{{DEFAULTSORT:Ivanova, Clara}}
+[[Category:Bulgarian individuals]]
+[[Category:Chasers]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Females]]
+[[Category:Green-eyed individuals]]
+[[Category:Wizards]]

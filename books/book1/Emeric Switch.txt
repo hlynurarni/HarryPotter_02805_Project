@@ -1,0 +1,61 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|image = [[File:EmericSwitch.jpg|250px]]
+|name = Emeric Switch
+|died = Before the [[1990s]] (possibly)
+|title = [[Professor]]<ref name="Exhibition">http://thepensieve.org/HPMuseumEX/HPexhibition1.html</ref>
+|species = [[Human]]
+|gender = Male
+|job = Author
+|theme = portrait
+|hideb = 
+|hidep = 
+|hidef = hide
+|hidem = hide
+|hidea = 
+}}
+'''Professor'''<ref name="Exhibition" /> '''Emeric Switch''' was a [[Wizardkind|wizard]], author and expert on [[Transfiguration]].
+
+==Biography==
+Switch was the author of ''[[A Beginner's Guide to Transfiguration]]''.<ref name="PS5">{{PS|chapter=5}}</ref><ref name="COS4">{{COS|chapter=4}}</ref> This book was a required textbook for [[first year|first-year]] and [[second year|second-year]] [[Transfiguration (class)|Transfiguration]] classes at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PS5" /><ref name="COS4" /> He also contributed an article on the scientific aspects of [[Human Transfiguration]] to ''[[Transfiguration Today]]'' in [[1926]].<ref name="fb-mag">{{FB|F}} {{See image|File:TransfigurationToday.png}}</ref>
+
+A [[portrait]] of him hung at [[Hogwarts Castle]].<ref name="Exhibition" />
+
+==Magical abilities and skills==
+*'''[[Transfiguration]]''': Switch was an expert on this highly advanced, complicated and [[Science|scientific]] branch of [[magic]], having authored the [[Transfiguration (class)|Transfiguration]] textbook ''[[A Beginner's Guide to Transfiguration]]'', as well as having contributed to the academic journal ''[[Transfiguration Today]]'' about [[Human Transfiguration]], showing his proficiency and skill in this field. 
+
+==Etymology==
+''Emeric ''is a variant of ''Emmerich'', which means "whole, universal". This could relate to him being able to do transfiguration, as he can wholly turn something into something universally else.
+
+To switch is to exchange one thing with another; could be extended to transfiguration, changing one form into another.
+
+==Behind the scenes==
+*Emeric Switch's portrait, as featured in the [[Harry Potter (film series)|''Harry Potter'' films]], seems to have been based on a [https://upload.wikimedia.org/wikipedia/commons/5/55/Robert_Southey_by_Vandyke.jpg c. 1795 portrait] of English poet [[Wikipedia:Robert Southey|Robert Southey]], by Pieter van Dyke.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{POA|F}} {{Comment|Name seen on wood panelling}}
+*{{HPE}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{PM}} {{Mention}}
+*{{FB|F}} {{c|Mentioned on a magazine cover}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts unknown locations}}
+{{Transfiguration}}
+
+{{DEFAULTSORT:Switch, Emeric}}
+[[de:Emeric Wendel]]
+[[es:Emeric Switch]]
+[[fr:Emeric G. Changé]]
+[[it:Emeric Switch]]
+[[pl:Emerik Switch]]
+[[pt-br:Emerico Switch]]
+[[ru:Эмерик Свитч]]
+[[Category:Authors|Switch, Emeric]]
+[[Category:Males|Switch, Emeric]]
+[[Category:Portraits|Switch Emeric]]
+[[Category:Professors|Switch Emeric]]
+[[Category:Wizards|Switch, Emeric]]

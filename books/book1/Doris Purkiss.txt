@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Doris Purkiss
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP10"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP10"/>
+|gender = Female<ref name="OOTP10"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = ''[[The Quibbler]]''<ref name="OOTP10"/>
+}}
+'''Doris Purkiss''' was a [[Wizardkind|witch]] who lived at [[18 Acanthia Way|number 18]] [[Acanthia Way]], [[Little Norton]]. In [[1995]], she gave an interview to ''[[The Quibbler]]'' claiming that [[Sirius Black]] was actually [[Stubby Boardman]]. She also stated that he had been enjoying a romantic dinner with her on the night of the murders of [[Peter Pettigrew]] and twelve [[Non-magic people|Muggles]].<ref name="OOTP10">{{OOTP|B|10}}</ref>
+
+==Etymology==
+The name "Doris" is from the ancient Greek name Δωρις (Doris) which meant "Dorian woman".
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Purkiss, Doris}}
+[[es:Doris Purkiss]]
+[[fr:Doris Purkiss]] 
+[[pl:Doris Purkiss]]
+[[ru:Дорис Пёркисс]]
+[[de:Doris Purkiss]]
+[[sv:Doris Purkiss]]
+[[zh:多丽丝·珀基斯]]
+[[Category:British individuals]]
+[[Category:Conspiracy theorists]]
+[[Category:Females]]
+[[Category:Wizards]]

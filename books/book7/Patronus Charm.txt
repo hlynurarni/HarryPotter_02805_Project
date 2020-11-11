@@ -1,0 +1,494 @@
+{{Spoiler|WU|HM}}
+{{FA}}
+{{Spell infobox
+|name = Patronus Charm
+|image = Patronus PM SilverStagPatronus MomentIllust.jpg
+|incantation = ''Expecto Patronum''<ref name="PA12">{{POA|B|12}}</ref><br/>(ex-PEK-toh pa-TRO-num)<ref name="PAf">{{POA|F}}</ref>
+|type = [[Charm]]<ref name="PA12"/>
+|hand = [[File:Expecto Patronum movement.png|70px]]
+|light = Silver<ref name="PA12"/>
+|effect = Conjures a spirit guardian<ref name="JKR">[http://web.archive.org/web/20120208051452/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=99 JKR Official Site] (Text only, accessed 8 February, 2012 via the Wayback Web Archive)</ref>
+|creator = 
+}}
+{{Quote|This ancient and mysterious charm conjures a magical guardian, a projection of all your most positive feelings. The Patronus Charm is difficult, and many witches and wizards are unable to produce a full, corporeal Patronus, a guardian which generally takes the shape of the animal with whom they share the deepest affinity. You may suspect, but you will never truly know what form your Patronus will take until you succeed in conjuring it.|[[Miranda Goshawk]]'s overview of the Patronus Charm|Wonderbook: Book of Spells}}
+
+The '''Patronus Charm''' (''Expecto Patronum'') was the most famous and one of the most powerful defensive [[charm]]s known to [[wizardkind]].<ref name="PM">{{WW|patronus-charm}}</ref> It was an immensely complicated and an extremely difficult [[spell]], that evoked a partially-tangible positive energy force known as a '''Patronus''' (pl. '''Patronuses''')<ref name="AQ">[http://www.accio-quote.org/themes/therules.htm "The Rules" at AccioQuote!]</ref> or '''spirit guardian'''.<ref name="JKR" /> It was the primary protection against [[Dementor]]s and [[Lethifold]]s, against which there were no other defence.
+
+There are two types of Patronuses: corporeal which means a Patronus with a particular shape and form and incorporeal Patronus. Incorporeal Patronuses have no particular shape and do not protect against dementors the way corporeal Patronuses do. However, some wizards like [[Remus Lupin]] choose to cast incorporeal Patronuses to hide their identity.<ref name="PA12" />
+
+==History==
+{{Quote|And out of the end of his wand burst, not a shapeless cloud of mist, but a blinding, dazzling, silver animal. He screwed up his eyes, trying to see what it was. It looked like a horse. It was galloping silently away from him, across the black surface of the lake. He saw it lower its head and charge at the swarming dementors... |Harry Potter's stag Patronus fending off hundreds of Dementors|Harry Potter and the Prisoner of Azkaban}}
+It is evident from old woodcuts and scrolls that the Patronus Charm has been used since ancient times. Therefore, it is unknown who created it, or when it was first invented.<ref name="WB">{{WBS}}</ref> The charm also has a long association with those fighting for lofty or noble causes (those able to produce corporeal Patronuses were often elected to high office within the [[Wizengamot]] and [[Ministry of Magic]]).<ref name="PM" />
+
+According to legend, one of the most famous Patronuses of all time was a lowly [[mouse]], which belonged to a young wizard called [[Illyius]]. Illyius cast the Patronus Charm when his village was being attacked by the Dark wizard Raczidian and his army of [[Dementor]]s. Despite the mouse's diminutive size, it shone with a brilliant light, bringing the Dementors to a halt as it nimbly moved through the ranks of fleeing villagers.<ref name="WB" /> Enraged, [[Raczidian]] decided to enter the fray himself, and tried to summon a Patronus to ward off Illyius's mouse. However, he failed to remember that only the pure of heart can produce a Patronus and thus, for the first time in history, it was revealed what happens when a competent, but unworthy wizard or witch attempts the spell; [[maggot]]s shot out of Raczidian's wand and quickly devoured him as they engulfed his entire body. The villagers then hailed Illyius as a hero.<ref name="WB" />
+
+[[File:Stag Patronus.png|250px|thumb|left|Harry Potter's stag Patronus fending off hundreds of Dementors]]
+Harry Potter took [[Anti-Dementor lessons]] with [[Remus Lupin]] in order to learn the advanced charm and so was one of the youngest to attempt this charm with actual results.<ref name="PA12"/> During a [[Quidditch]] match against [[Ravenclaw]] in 1994, he cast his very first corporeal Patronus, when several [[Slytherin]] students were impersonating Dementors.<ref name="POA13">{{POA|B|13}}</ref> He performed the charm again in June when he, along with [[Hermione Granger]] and [[Sirius Black]], were being attacked by over a hundred [[Dementor]]s, so he cast a corporeal Patronus powerful enough to drive them all away.<ref name="POA20">{{POA|B|20}}</ref><ref name="POA21">{{POA|B|21}}</ref>
+
+In 1995, Harry cast the charm against a [[Boggart]] that he thought was a Dementor during the third task of the [[Triwizard Tournament]].<ref name="GOF31">{{GOF|B|31}}</ref> The following summer, he came under attack by two Dementors and managed to drive them away with the charm, leading to him being put on trial for underage magic in an attempt to discredit him.<ref name="OTP"/>
+
+[[File:B5C27M1.jpg|251x251px|thumb|Harry Potter teaching the members of the D.A. the charm]]
+
+Harry also taught the members of [[Dumbledore's Army]] the charm and some were even successful in casting it.<ref name="OTP"/>
+
+The charm was used frequently to ward off Dementors such as when [[Trio|The Trio]] escaped from the Ministry of Magic after obtaining the Horcrux locket and during the Battle of Hogwarts. [[Severus Snape]] also conjured his Doe Patronus to guide Harry to the hiding place of the [[Sword of Gryffindor]].<ref name="DH" />
+
+The [[Order of the Phoenix]] would send out messages with their Patronuses such as [[Kingsley Shacklebolt]] and [[Arthur Weasley]] who in [[1997]] delivered warnings.<ref name="DH" />
+
+In the [[2020]] of an [[alternate reality]], [[Hermione Granger]] stopped [[Ronald Weasley|Ron Weasley]] from casting the spell to drive off Dementors in order to buy time for [[Scorpius Malfoy]] to travel back in time and set things right. [[Severus Snape]] subsequently cast the spell, surprising Scorpius with its shape of a doe. Snape sent his Patronus to clear the way for Scorpius to reach the [[Great Lake]], sacrificing himself in the process since the doe protected Scorpius instead of its caster. The doe disappeared when Snape was given the [[Dementor's Kiss]], but succeeded in safely guiding Scorpius to the lake.<ref name="CC" />
+
+==Nature==
+{{Quote|Well, when it works correctly, It conjures up a Patronus, which is a kind of antiDementor — a guardian that acts as a shield between you and the Dementor. The Patronus is a kind of positive force, a projection of the very things that the Dementor feeds upon — hope, happiness, the desire to survive — but it cannot feel despair, as real humans can, so the Dementors can’t hurt it. But I must warn you, Harry, that the charm might be too advanced for you. Many qualified wizards have difficulty with it.|[[Remus Lupin]] explaining to [[Harry Potter]] the charm's nature|Harry Potter and the Prisoner of Azkaban}}
+The Patronus represents that which is hidden, unknown but necessary within the personality. When a human is confronted with inhuman evil, such as the [[Dementor]], they must draw upon resources he or she may never have needed, and the Patronus is the awakened secret self that lies dormant until needed, but which must now be brought to light. Patronuses take forms that their casters might not expect, for which they have never felt a particular affinity, or (in rare cases) even recognise. Every Patronus is as unique as its creator and even identical twins have been known to produce very different Patronuses.<ref name="PM" />
+
+The unusual [[Wizardkind|witches]] and wizards who produce a Patronus that takes the form of their favourite animal is an indicator of obsession or eccentricity. Here is a [[Wizardkind|wizard]] who may not be able to hide their essential self in common life, who may, indeed, parade tendencies that others might prefer to conceal. Whatever the form of their Patronus, you would be well-advised to show respect, and occasionally caution, towards a witch or wizard who produces the Patronus of their choice.<ref name="PM" />
+
+[[Remus Lupin]] owned a [[Patronus spellbook|spellbook]] which detailed the casting of the Patronus Charm.<ref name="POAG">{{POA|G}}</ref>
+
+==Casting==
+{{Dialogue a-b|Harry Potter|And how do you conjure it?|Remus Lupin|With an incantation, which will work only if you are concentrating, with all your might, on a single, very happy memory.|Discussion on how to conjure a Patronus|Harry Potter and the Prisoner of Azkaban}}
+The vast majority of witches and wizards are unable to produce any form of Patronus, and to create even an intangible one is generally considered a mark of superior magical ability.<ref name="PM" /> [[Rubeus Hagrid]] is an example of a wizard that cannot conjure any form of Patronus, as the charm is too difficult for him.<ref name="HagridTweet">[https://twitter.com/jk_rowling/status/634666242943655936 Hagrid couldn't produce a Patronus. It's a very difficult spell.] by [https://twitter.com/jk_rowling J.K. Rowling on Twitter]</ref>
+
+Given their long affinity with humans, it is perhaps unsurprising that among the most common Patronuses when cast (although it must be remembered that any corporeal Patronus is highly unusual) are dogs, cats, and horses.<ref name="PM" />
+
+To successfully cast the spell, one begins by mustering the happiest memory they can think of (the happier the memory, the better the charm will work).<ref name="PA12" /> Alternatively, one could imagine a scenario that would make for a very happy memory, as Harry did for his D.A.D.A. O.W.L.<ref name="OTP" /> The next step is to begin drawing circles with their wand so as to [[Powering-up spells|increase the power]] of their spell.<ref name="WB" /> They must then say the [[incantation]], ''Expecto Patronum''; the Patronus will come from the tip of the wand and can be directed towards a target by pointing one's wand at said target.<ref name="OPf">{{OOTP|F}}</ref> It is possible to disguise the form one's Patronus takes, which was done both by [[Severus Snape]] to hide his [[love]] for [[Lily J. Potter|Lily Evans]], and by [[Remus Lupin]], who felt it would give away [[Werewolf|his condition.]]<ref name="PM" />
+
+Also, some witches and wizards may be unable to produce a Patronus at all until they have undergone some kind of psychic shock.<ref name="PM" />
+
+Although it is extremely hard to fully conjure a Patronus, in an [[Alternate reality]] [[fourth year]]s in [[Defence Against the Dark Arts]] class were tasked with casting this charm.<ref name="CC">{{CC}}</ref>
+
+==Difficulty==
+{{Quote|That's very, ''very'' advanced magic.|The difficulty and complexity of the [[charm]]|Harry Potter and the Prisoner of Azkaban}}
+The Patronus Charm is widely regarded as advanced magic, far beyond [[Nastily Exhausting Wizarding Test|N.E.W.T.]]-level; in [[1994]] Remus Lupin stated that the charm was, in fact "''ridiculously advanced''".<ref name="PA12" /> This charm was, indeed, so perilous, that few wizards/witches could conjure up a true Patronus. It is very complex and many qualified [[Wizardkind|wizards]] and witches have trouble with it.<ref name="PM" /> In fact, [[Harry Potter]] is one of the youngest known wizards able to cast a Patronus; he was taught how to do so in early 1994 at the age of thirteen by [[Remus Lupin]].<ref name="PA12"/> In a [[Dumbledore's Army]] lesson, Harry taught the members how to use the charm. Some were even successful in casting a corporeal form, though Harry said this might be because there was no [[Dementor]] to make them frightened.<ref name="OTP">{{OOTP}}</ref> However, three members were later able to cast corporeal Patronuses in the presence of Dementors.<ref name="DH">{{DH}}</ref> Being able to cast a patronus, whilst fighting Dementors or not, is not required to graduate from Hogwarts so it is something that is taught under special circumstances.
+
+[[Amelia Bones]] and potential members of the [[Dumbledore's Army|D.A.]] were all very impressed when Harry Potter revealed that he could cast not only a Patronus Charm but a corporeal one to boot, which is notably more difficult than casting an incorporeal one. Given that the success of the charm is directly reliant on the caster retaining a particular mental state, the Charm is more difficult to cast in emotionally trying circumstances. For instance, Harry Potter, [[Ronald Weasley|Ron Weasley]], and Hermione Granger all had difficulty casting their Patronuses when under the negative influence of [[Salazar Slytherin's Locket]], one of [[Tom Riddle|Lord Voldemort]]'s [[Horcrux]]es, and after witnessing the death of [[Fred Weasley]] in the final [[Battle of Hogwarts|battle]].<ref name="DH">{{DH}}</ref> This feature of the Charm is particularly unfortunate since the Charm's primary use is to defend against Dementors, Dark creatures specifically equipped to mentally unhinge people (and hence is partly why it is regarded as such advanced, difficult magic).
+
+Self-confidence may also play an important role in casting the spell. In 1994 Harry is able to cast the [[spell]] successfully, driving off a large number of Dementors in the process (which, according to [[Severus Snape]], is only achievable by a very powerful wizard) thus saving Sirius and a younger version of himself, seemingly without recalling a happy memory, when he realises that he has already done it, although Harry could have had a 'happy memory' upon realising that he had saved all three of their souls.
+
+===Worthiness===
+[[File:Raczidian'sDemise.png|250px|thumb|[[Raczidian]]'s demise while trying to cast a Patronus]]
+
+It is a general belief held by the [[wizarding world]] that only those who are pure of heart are able to cast Patronuses; this, however, is untrue, as several characters with negative personality traits are able to cast a fully-fledged Patronus.<ref name="PM" /> Although generally dark witches and wizards will not try to produce a Patronus, not having any need for one, most dark wizards will be devoured by [[maggot]]s coming from their [[wand]] and consuming the caster.<ref name="WB" />
+
+For this reason, [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]] were not able to cast a Patronus Charm (not that it was necessary, as they already had the dark creatures under their control via their affinity to darkness, and would have no use for Patronuses).<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007 (2.00-3.00pm BST)] at [http://www.accio-quote.org/index.html Accio Quote!]</ref> [[Draco Malfoy]] numbered among those unable to cast the Patronus Charm. [[Severus Snape]] was the only Death Eater capable of casting the charm.<ref name="DH"/>
+
+Some witches and wizards of questionable morals, such as [[Dolores Umbridge]], are able to produce corporeal Patronuses.<ref name="PM" /><ref name="DH"/> [[Merula Snyde]] could only conjure an incorporeal Patronus, though it should be noted that she was only a fourth year at the time and it is an advanced spell; the only other wizards known to produce a corporeal Patronus by that age are [[Harry Potter]], [[Nymphadora Tonks]], and [[Jacob's sibling]].<ref name="HM4" />
+[[Patricia Rakepick]] was a dark witch who sadistically tortured Merula Snyde with the [[Cruciatus Curse]] and murdered [[Rowan Khanna]] with the [[Killing Curse]], and yet was able to cast a corporeal Patronus in the form of a [[Lion]]ess.
+
+==The Patronus==
+A successfully conjured Patronus can take two forms: '''incorporeal''' and '''corporeal''', and both types vary greatly in their appearances and strength.
+
+===Incorporeal===
+{{Quote|A thin wisp of silver escaped his wand and hovered like mist before him. |Description of an incorporeal shield Patronus|Harry Potter and the Prisoner of Azkaban}}
+
+[[File:Sheild patronus.gif|left|frame|Harry Potter casting an incorporeal Patronus at the Black Lake]]
+An incorporeal<ref name="Pottermore">Pottermore describes "non-corporeal" Patronuses as "incorporeal"</ref> Patronus is one which does not resemble any living creature and has few distinguishing features (if any). Incorporeal Patronuses resemble a burst of vapour or smoke without any clearly defined form shooting from the tip of the wand. While they may be partially effective at halting Dementors (but not repelling them) and shielding the caster from them, incorporeal Patronuses are not "fully-fledged" Patronuses, and are regarded as a simpler and weaker version of the Charm.
+
+===Corporeal===
+{{Dialogue a-b|Harry Potter|What does a Patronus look like?|Remus Lupin|Each one is unique to the wizard who conjures it.|Discussion of corporeal forms a Patronus can take|Harry Potter and the Prisoner of Azkaban}}[[File:Doe next step module.jpg|250px|thumb|[[Severus Snape]]'s doe Patronus is the same as Lily Potter's due to his lifelong love for her]]
+A corporeal Patronus is one that is fully-formed, taking the shape of a bright-silver, translucent animal. It is the strongest form a Patronus can take, being able to fully drive Dementors away. The specific animal forms that a corporeal Patronus takes will vary from person to person and reflect each individual's innermost personality.
+
+Patronus forms, however, are subject to change if the caster goes through an emotional upheaval of some sort, including falling in eternal, unchanging [[love]].<ref>[https://twitter.com/jk_rowling/status/601377849744990208 .@tigs25 Your Patronus only changes if it's eternal love, unchanging - part of you forever.] by [https://twitter.com/jk_rowling J.K. Rowling on Twitter]</ref> For example, [[Nymphadora Tonks]]'s Patronus changed from its previous form to that of a four-legged creature which others guessed was a [[wolf]] because then it would reflect her love for [[Remus Lupin]], himself a werewolf.<ref name="OTP" /> Another example is Severus Snape, whose Patronus was that of a doe, the same as [[Lily J. Potter|Lily Evans]], though this may have been the case all along rather than a change from its original form, as Snape was in love with Lily for most of his life.
+
+Based on the fact that Patronuses are conjured by recalling happy memories, it stands to reason that a Patronus might change its form after one falls in love and the memories used to conjure the Patronus largely revolve around the person the caster is in love with. In addition, it seems that some couples have "complementary" Patronuses (male and female forms of the same animal), such as Lily and [[James Potter I|James Potter]]. It is, however, unknown if this is a coincidence or not. If a wizard is an [[Animagus]] and can summon a corporeal Patronus, the two may take the same form, as was the case for [[Minerva McGonagall]] and James Potter.<ref name="DH" /> Remus Lupin's Patronus takes the form of a wolf, rather than a werewolf; whether or not all werewolves would generate a similar Patronus is unknown. It stands to reason that it's likely due to Remus' best memories of his youth revolving around the acceptance he felt despite his condition, in which he felt more at home in his wolf form during those times, rather than cursed by it and also due to his nature as desiring a sense of belonging at his core, much like a true wolf.
+
+Most Patronuses take the form of an ordinary animal. Magical creatures, such as [[Albus Dumbledore]]'s [[phoenix]] Patronus, are uncommon. It is extremely rare for Patronuses to take the form of extinct animals. [[Hedley Fleetwood]]'s Woolly Mammoth Patronus is a notable exception.<ref name="WB" /> [[Andros the Invincible]] was the only wizard capable of casting a Patronus the size of a [[Giant]],<ref name="COSG"/> although whether it was a giant or not is unknown.
+
+The corporeal Patronus is also better at repelling Dementors than the non-corporeal form.
+
+===Uses===
+There are two known uses for the Patronus Charm. The first and main use of the Patronus is to drive off certain [[Dark Arts|Dark creatures]], such as [[Dementor]]s and [[Lethifold]]s and is the only known charm that will work against them. As Dementors feed on happy memories causing humans to drown in their own sorrow and sadness, the Patronus acts as a shield of sorts, of which the Dementor would try to feed off instead — the Patronus is comprised exclusively of positive feelings and cannot comprehend negative emotion, so the Dementor's influence cannot affect it.
+
+[[File:HarryPotterDeath feature.jpg|250px|thumb|left|Harry casting a Patronus during the hunt for Horcruxes]]
+
+The other use was devised by [[Albus Dumbledore]], who invented a way of using the Patronus (corporeal and non) as a means of communication. They can deliver messages, speaking with the voice of the caster. This source of communication is believed to be exclusive to the members of the [[Order of the Phoenix]]. Using the Patronus for communication offers great advantages in security, as Patronuses identify the caster and are [[Dark Arts]]-proof.<ref name="OTP" /> A good example of this was when [[Minerva McGonagall]] used her feline Patronus to call for help to the other heads of houses in 1998, when she found out that [[Harry Potter]] had returned to Hogwarts in search of [[Rowena Ravenclaw]]'s [[Ravenclaw's Diadem|Diadem]].<ref name="DH"/>
+
+Multiple Patronuses can be cast for communication, as McGonagall was able to create three. Another is when [[Severus Snape]] used his Patronus to lead Harry Potter to a pool in the [[Forest of Dean]] in 1997, where he had laid [[Godric Gryffindor's Sword]] for Harry to retrieve. It is unknown if Snape had conjured the Patronus with instructions or if he was hiding and controlling it for this task. Harry's Patronus was able to follow both oral and physical commands. They also only remain active whilst the caster is focusing on them. If they are not protecting anyone, Patronuses seem to take on the traits of the creature they resemble and generally follow their caster around. This makes it unsure whether or not they are sentient.
+
+==Patronuses and practitioners==
+{| class="wikitable" border="1"
+|+ 
+|- bgcolor="#cccccc"
+! align="center" width="20%" |Witch/wizard
+! align="center" width="20%" |Patronal form
+! align="center" width="60%" |Notes
+|-
+|[[Andros the Invincible]]
+|Something allegedly the size of a [[Giant]]<ref name="COSG"/>
+|Stated on his [[Chocolate Frog Card]] as the only wizard to make a Patronus that size.<ref name="COSG">{{COS|G}}</ref>
+[[File:Andros the Invencible.jpg|thumb|left|110px]]
+|-
+|[[Illyius]]
+|[[Mouse]]<ref name="WB"/>
+|Initially, Illyius's fellow villagers mocked him as they had never seen such a small and weak-looking Patronus, which corresponded to Illyius's timidity and for being tongue-tied. However, when the [[Dark Wizard]] [[Raczidian]] invaded and terrorised the village with his army of [[Dementor]]s, Illyius's mouse Patronus proved to be stronger than the others, making him a hero.<ref name="WB" />[[File:IllyiusMousePatronus.png|thumb|left]]
+|-
+|[[Flavius Belby]]
+|Something with horns<ref name="FBR"/>
+|In {{FB}}, it is recorded that he cast off a [[Lethifold]] by performing the Patronus Charm. It says the Lethifold was thrown into the air on the horns of his Patronus.<ref name="FBR">{{FB|R}}</ref>
+|-
+|[[Cho Chang]]
+|[[Swan]]
+|Seen in the last [[Dumbledore's Army]] meeting in [[1996]].[[File:Patronus Swan2.JPG|thumb|left]]
+|-
+|[[Aberforth Dumbledore]]
+|[[Goat]]
+|Summoned outside the [[Hog's Head]] in an attempt to convince the [[Death Eaters]] who had seen Harry's Patronus that they really saw a goat.
+|-
+|[[Albus Dumbledore]]
+|[[Phoenix]]
+|The bird whose loyalty he earned, [[Fawkes]], was a phoenix. He used it in [[1995]] as a message to Hagrid when Krum was stunned. It was described as "''a ghostly bird that flew off in the direction of Hagrid's house''". A rare form.
+
+[[File:Phoenix Patronus WU.png|200x200px|thumb|left]]
+|-
+|[[Seamus Finnigan]]
+|[[Fox]]
+|He could not produce a fully formed corporeal Patronus in [[Dumbledore's Army]], though, in the [[Battle of Hogwarts]] in [[1998]], he managed to conjure a Patronus in the shape of a fox.
+|-
+|[[Hedley Fleetwood]]
+|[[Woolly mammoth]]
+<ref name="WB" />
+|An unusual form due to the extreme rarity of Patronuses based on extinct animals.
+|-
+|[[Hermione Granger]]
+|[[Otter]]
+|Seen in the last [[Dumbledore's Army]] meeting in [[1996]]. It is apparently the only spell Hermione had trouble with, as said in [[1997]] while [[Infiltration of the British Ministry of Magic (1997)|escaping]] from the [[British Ministry of Magic|Ministry of Magic]].[[File:Hermione's Patronus.gif|220x220px|thumb|left]]
+|-
+|[[Harry Potter]]
+| rowspan="2" |[[Deer|Stag]]
+|Harry's Patronus was in the shape of his father's [[Animagus]] form and Patronus. He learned how to conjure a Patronus at an exceptionally young age.[[File:Stag patronus.gif|220x220px|thumb|left]]
+|-
+|[[James Potter I|James Potter]]
+|James' [[Animagus]] form was also that of a stag.
+|-
+|[[Luna Lovegood]]
+|[[Hare]]
+<ref name="DH" /><ref>[http://www.snitchseeker.com/harry-potter-news/translation-evanna-lynch-interview-46573/ "Harry Latino Interview"] retrieved from [http://www.snitchseeker.com/ Snitch Seeker]</ref>
+|Seen in the last [[Dumbledore's Army]] meeting in [[1996]] and in the [[Battle of Hogwarts]] in [[1998]].[[File:LunaExpectoPatronum.gif|220x220px|thumb|left]]
+|-
+|[[Ernest Macmillan|Ernie Macmillan]]
+|{{wplink|Boar}}
+|Seen in the [[Battle of Hogwarts]] in [[1998]].<ref name="DH" />
+|-
+|[[Minerva McGonagall]]
+| rowspan="2" |[[Cat]]
+|Just before the [[Battle of Hogwarts]], she sent her Patronus out to alert the other [[Head of House|Heads of House]] that [[Hogwarts Castle]] would soon be under [[Battle of Hogwarts|attack]] by [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters|followers]].<ref name="DH"/>
+|-
+|[[Dolores Umbridge]]
+|While interrogating [[Muggle-born]]s at a trial, she had cast a Patronus to ward the Dementors from the prosecutors. Her favourite animal, as shown by the many plates with cats on them in her office. She was able to cast the Patronus due to her affinity with the [[Salazar Slytherin's Locket|locket]] [[Horcrux]]'s evil influence.<ref name="DH"/>
+|-
+|[[Lily J. Potter|Lily Potter]]
+| rowspan="3" |[[Deer|Doe]]
+|Mentioned in conjunction with Snape's Patronus. It was also the female form of her husband's Patronus.
+|-
+| rowspan="2" |[[Severus Snape]]
+| Acted as Harry's guide through the woods to where [[Godric Gryffindor's Sword]] was hidden. Snape's Patronus mirrored Lily's due to his unspoken love for her that began when they were small children.[[File:Severus Snape casting a Patronus.gif|thumb|left]]
+|-
+|Cast by Severus Snape to aid [[Scorpius Malfoy]] and himself in the alternate reality created by [[Albus Potter]] and Scorpius in [[2020]].
+|-
+|[[Symposia Rawle]]
+|[[Ladybird]]<ref name="WB"/>
+|An unusual form that was very powerful despite its tiny size.<ref name="WB"/>
+|-
+|[[Kingsley Shacklebolt]]
+|[[Lynx]]
+|Seen in [[1997]] when he warned the [[Order of the Phoenix|Order]] during [[William Weasley|Bill]] and [[Fleur Delacour|Fleur]]'s [[Wedding of William Weasley and Fleur Delacour|wedding]] of the downfall of the [[British Ministry of Magic|Ministry of Magic]] and [[Rufus Scrimgeour]]'s death.[[File:Kingsley Patronus PM.png|thumb|left]]
+|-
+|rowspan="2" |[[Nymphadora Tonks]]
+|Jack rabbit<ref name="PM" />
+|Tonks learned the Patronus Charm at some point by or during her [[fourth year]].<ref name="HM4">{{HM|4|Unleash Your Patronus}}</ref> Her Patronus originally took the form of a jackrabbit.[[File:Tonks Patronus.jpg|220x220px|thumb|left]]
+|-
+| colspan="1" rowspan="2" |[[Wolf]]
+|The form of Tonks' Patronus changed in [[1996]]. It became a [[wolf]] due to her love for [[Remus Lupin]]. Changes of Patronus are rare and usually caused by devastating life traumas. Occasionally when a witch and a wizard are married, their Patronuses will match each other (most likely because the witch/wizard's happy thought will be that of their spouse).
+|-
+|[[Remus Lupin]]
+<ref name="pmlupin">{{WW|remus-lupin}}</ref>
+|Remus often deliberately disguised the form of his Patronus because he felt that it would give away too much about his [[lycanthropy|condition]], being a werewolf.<ref name="PM" /><ref name="pmlupin" />[[File:LupinExpectoPatronum.gif|220x220px|thumb|left]]
+|-
+|[[Arthur Weasley]]
+|{{wplink|Weasel}}
+|First seen when he sent a message about [[Rufus Scrimgeour]]'s arrival on Harry's seventeenth birthday. Later seen when Arthur sent a Patronus to [[12 Grimmauld Place]] to inform Harry, Ron and Hermione that the [[Weasley family]] was safe.
+|-
+|[[Ginevra Weasley|Ginny Weasley]]
+|[[Horse]]
+<ref name="OPf"/>
+|Seen in the last [[Dumbledore's Army]] meeting in [[1996]].<ref name="OPf"/>[[File:GinnyExpectoPatronum.gif|220x220px|thumb|left]]
+|-
+|[[Ronald Weasley|Ron Weasley]]
+|[[Jack Russell terrier]]
+<ref>[http://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-3.htm "Leaky Cauldron and MuggleNet Interview with J. K. Rowling"] retrieved from [http://www.accio-quote.org/index.html Accio Quote!]</ref>
+|Seen in the last [[Dumbledore's Army]] meeting in [[1996]] and in the [[Battle of Hogwarts]] in [[1998]].[[File:RonExpectoPatronum.gif|220x220px|thumb|left]]
+|-
+|[[Jacob's sibling]]
+|Either a [[White horse|White Stallion]], [[Unicorn]], [[Abraxan]], 
+[[Tiger]], [[Cheetah]], [[Leopard]], [[Spotted Hare]], [[Mountain Hare]] or [[Lop-Eared Rabbit]]<ref name="HM4" />
+|
+In their fourth year, they learnt the charm under Tonks' tutelage.<ref name="HM4" /> 
+|-
+|[[Patricia Rakepick]]
+|[[Lion]]ess<ref name="HM618"/>
+|An unusual forrm, as lions were not native to Great Britain.<ref name="PM" /> Used it to banish several [[Dementor]]s in the [[Forbidden Forest]] in [[1990]].<ref name="HM618">{{HM|6|18}}</ref>
+|-
+|[[Constance Pickering]]
+|[[Unicorn]]<ref name="WU">{{WU}} - Baby Beasts</ref>
+|A rare form, given how a unicorn is a magical creature.<ref name="PM"/>
+|-
+|}
+
+==Patronus forms==
+<gallery widths="200" position="center" spacing="small" captionalign="center" hideaddbutton="true" orientation="landscape">
+Aardvark Patronus.jpg|[[Aardvark]]
+AbraxanWingedHorse-patronus.jpg|[[Abraxan]] Winged Horse
+Adder Patronus.jpg|[[Adder]]
+Albatross-patronus.jpg|[[Albatross]]
+Pottermore-patronus-quiz-badger.png|[[Badger]]
+Bassett Hound Patronus.png|[[Basset Hound]]
+Bat-patronus.jpg|[[Bat]]
+Bay Mare Patronus.png|[[Bay horse|Bay Mare]]
+BayStallion-patronus.jpg|[[Bay horse|Bay Stallion]]
+Beagle-patronus.jpg|[[Beagle]]
+BlackAndWhiteCat-patronus.jpg|[[Black And White Cat]]
+BlackBear-patronus.jpg|[[Black Bear]]
+Blackbird-patronus.jpg|[[Blackbird]]
+BlackMamba-patronus.jpg|[[Black Mamba]]
+BlackMare-patronus.jpg|[[Black horse|Black Mare]]
+BlackStallion.png|[[Black horse|Black Stallion]]
+BlackSwan-patronus.jpg|[[Black Swan]]
+Bloodhound-patronus.jpg|[[Bloodhound]]
+Borzoi-patronus.jpg|[[Borzoi]]
+Brown Bear Patronus.png| [[Brown Bear]]
+BrownHare-patronus.jpg|[[Brown Hare]]
+BrownOwl-patronus.jpg|[[Brown owl]]
+Buffalo-patronus.jpg|[[Buffalo]]
+Buzzard-patronus.jpg|[[Buzzard]]
+Calico Cat Patronus.png|[[Calico Cat]]
+CapuchinMonkey-patronus.jpg|[[Capuchin Monkey]]
+Patronus Cat2.jpg|[[Cat]]
+Cheetah-patronus.jpg|[[Cheetah]]
+Chestnut Mare Patronus.png|[[Chestnut horse|Chestnut Mare]]
+Chestnut Stallion patronus.png|[[Chestnut horse|Chestnut Stallion]]
+Chow Patronus.png|[[Chow Dog]]
+Crow Patronus.png|[[Crow]]
+Dapple Grey Mare.png|[[Dapple Grey horse|Dapple Grey Mare]]
+DappleGreyStallion-patronus.jpg|[[Dapple Grey horse|Dapple Grey Stallion]]
+Deerhound Patronus.png|[[Deerhound]]
+Doe Patronus.jpg|[[Deer|Doe]]
+Dolphin Patronus.png|[[Dolphin]]
+Dragon pm.jpg|[[Dragon]]
+Dragonfly-patronus.jpg|[[Dragonfly]]
+DunMare-patronus.jpg|[[Dun horse|Dun Mare]]
+DunStallion-patronus.jpg|[[Dun horse|Dun Stallion]]
+Eagle Patronus.jpg|[[Eagle]]
+Eagle Owl Patronus.png|[[Eagle owl]]
+Elephant-patronus.jpg|[[Elephant]]
+Erumpent-patronus.jpg|[[Erumpent]]
+Falcon-patronus.jpg|[[Falcon]]
+FieldMouse-patronus.jpg|[[Field Mouse]]
+FIre-dwelling Salamander Patronus.png|[[Fire Dwelling Salamander]]
+Patronus Fox2.JPG|[[Fox]]
+FoxTerrier-patronus.jpg|[[Fox Terrier]]
+GingerCat-patronus.jpg|[[Ginger Cat]]
+Goat Patronus.jpg|[[Goat]]
+Goshawk Patronus.jpg|[[Goshawk]]
+Granian Winged Horse Patronus.jpg|[[Granian]] Winged Horse
+Grass Snake Patronus.png|[[Grass Snake]]
+Great Grey Owl Patronus.png|[[Great grey owl| Great Grey Owl]]
+Greyhound-patronus.jpg|[[Greyhound]]
+Grey squirrel.jpg|[[Grey Squirrel]]
+Hedgehog Patronus.png|[[Hedgehog]]
+Heron Patronus.jpg|[[Heron]]
+Hippogriff Patronus.png|[[Hippogriff]]
+Hummingbird-patronus.jpg|[[Hummingbird]]
+Husky Patronus.jpg|[[Husky]]
+Hyena Patronus.png|[[Hyena]]
+IbizanHound-patronus.jpg|[[Ibizan Hound]]
+Impala-patronus.jpg|[[Impala]]
+IrishWolfhound-patronus.jpg|[[Irish Wolfhound]]
+Jack rabbit Patronus.jpg|[[Jack Rabbit]]
+Ron's dog Patronus.jpg|[[Jack Russell terrier]]
+King Cobra Patronus.png|[[King Cobra]]
+Kingfisher Patronus.jpg|[[Kingfisher]]
+Leopard-patronus.jpg|[[Leopard]]
+Leopardess Patronus.png|[[Leopard]]ess
+Lion-patronus.jpg|[[Lion]]
+Lioness Patronus.png|[[Lion]]ess
+Little Owl Patronus.jpg|[[Little owl|Little Owl]]
+Lynx Patronus.png|[[Lynx]]
+Magpie-patronus.jpg|[[Magpie]]
+ManxCat-patronus.jpg|[[Manx Cat]]
+Marsh Harrier pm.png|[[Marsh Harrier]]
+Mastiff Patronus.jpg|[[Mastiff]]
+Mink Patronus.png|[[Mink]]
+Mole Patronus.png|[[Mole]]
+Mongrel Dog Patronus.png|[[Mongrel Dog]]
+Mountain Hare Patronus.jpg|[[Mountain Hare]]
+Nebelung Cat Patronus.png|[[Nebelung Cat]]
+Newfoundland-patronus.jpg|[[Newfoundland]]
+Nightjar Patronus.jpg|[[Nightjar]]
+Occamy patronus.jpg|[[Occamy]]
+Ocicat-patronus.jpg|[[Ocicat]]
+Orangutan-patronus.jpg|[[Orangutan]]
+Orca pm.jpg|[[Killer whale|Orca]]
+Oryx Patronus.png|[[Oryx]]
+Osprey Patronus.png|[[Osprey]]
+File:Hermione Otter Patronus.png|[[Otter]]
+Peacock Patronus.jpg|[[Peacock]]
+Umbridge cat Patronus.jpg|[[Persian cat]]
+Dumbledores phoenix patronus.jpg|[[Phoenix]]
+Pheasant-patronus.jpg|[[Pheasant]]
+PiebaldMare-patronus.jpg|[[Piebald horse|Piebald Mare]]
+PiebaldStallion-patronus.jpg|[[Piebald horse|Piebald Stallion]]
+Pine Marten Patronus.jpg|[[Pine Marten]]
+Polar Bear Patronus.png|[[Polar Bear]]
+Polecat Patronus.png|[[Polecat]]
+Python-patronus.jpg|[[Python]]
+Ragdoll Cat Patronus.jpg|[[Ragdoll Cat]]
+Rat-patronus.jpg|[[Rat]]
+Patronus rattlesnake.png|[[Rattlesnake]]
+Raven-patronus.jpg|[[Raven]]
+RedSquirrel-patronus.jpg|[[Red Squirrel]]
+Rhinoceros-patronus.jpg|[[Rhinoceros]]
+Robin-patronus.jpg|[[Robin]]
+Rottweiler-patronus.jpg|[[Rottweiler]]
+Runespoor Patronus.png|[[Runespoor]]
+RussianBlueCat-patronus.jpg|[[Russian Blue Cat]]
+Salmon-Patronus.png|[[Salmon]]
+ScopsOwl-patronus.jpg|[[Scops owl]]
+Seal-patronus.jpg|[[Seal]]
+Shark Patronus.png|[[Shark]]
+Shrew Patronus.png|[[Shrew]]
+SiberianCat-patronus.jpg|[[Siberian Cat]]
+Snowy Owl Patronus.png|[[Snowy owl]]
+Sparrow-patronus.jpg|[[Sparrow]]
+Sparrowhawk Patronus.png|[[Sparrowhawk]]
+SphynxCat-patronus.jpg|[[Sphynx Cat|Sphinx Cat]]
+Stag pm.jpg|[[Deer|Stag]]
+StBernard-patronus.jpg|[[St Bernard]]
+Stoat-patronus.jpg|[[Stoat]]
+Swallow-patronus.jpg|[[Swallow]]
+Patronus_Swan2.JPG|[[Swan]]
+Swift Patronus.jpg|[[Swift]]
+Thestral Patronus.png|[[Thestral]]
+Tiger-patronus.jpg|[[Tiger]]
+Tigress-patronus.jpg|[[Tiger|Tigress]]
+Tonkinese Cat Patronus.png|[[Tonkinese Cat]]
+TortoiseshellCat-patronus.jpg|[[Tortoiseshell Cat]]
+Unicorn Patronus.png|[[Unicorn]]
+Vole-patronus.jpg|[[Vole]]
+Vulture Patronus.png|[[Vulture]]
+Weasel Patronus.png|[[Weasel]]
+West Highland Terrir Patronus.png|[[West Highland Terrier]]
+WhiteMare-patronus.jpg|[[White horse|White Mare]]
+White stallion pm.jpg|[[White horse|White Stallion]]
+White Swam Patronus.png|[[White Swan]]
+Wild Boar Patronus.png|[[Wild Boar]]
+Wildcat-patronus.jpg|[[Wildcat]]
+WildRabbit-patronus.jpg|[[Wild Rabbit]]
+Wolf Patronus.png|[[Wolf]]
+WoodMouse-patronus.jpg|[[Wood Mouse]]
+</gallery>
+
+==Etymology==
+''Patronus'' is the nominative singular case meaning "protector", "guardian", or simply "patron" in Latin, specifically reflecting the entire role that the Patronus Charm plays. In archaic Latin, it meant "father", which is very interesting, considering that [[Harry Potter]]'s Patronus is the same as his father's Patronus and [[Animagus]] form, a stag. The Latin word ''exspecto'' is the first person singular form of ''exspectare'' meaning "to await", thus the charm's incantation translates into "I await a patron" (since ''patronum'' is the singular accusative form of ''patronus'', meaning it is the case which a noun or an adjective describing the noun takes when it is the direct object of a sentence, which in the spell's translation, it is).
+
+==Behind the scenes==
+{{Quote| ''[...]'' the Patronus often mutates to take the image of the love of one's life (because they so often become the 'happy thought' that generates a Patronus). |[[J. K. Rowling]]|Bloomsbury Live Chat}}[[File:SPSexpecto.PNG|80x80px|thumb|The spell's symbol in {{POA|G}}]]
+[[File:Patronusingames.jpg|200px|thumb|The Patronus Charm as seen in {{POA|G}}]]
+[[File:LEGOPatronus.jpg|thumb|The Patronus Charm in LEGO form]]
+[[File:PatronusPOPVinyl.png|thumb|[[Harry Potter]]'s [[Deer|stag]] Patronus in [[POP! Vinyl]] form]]
+[[File:Funko of Ron Weasley's dog.jpg|thumb|[[Ronald Weasley|Ron Weasley]]'s [[dog]] Patronus in [[POP! Vinyl]] form]]
+[[File:Otter_Patronus_pop_vinyl.jpg|thumb|[[Hermione Granger]]'s [[otter]] Patronus in [[POP! Vinyl]] form]]
+*SPSexpecto from SpellShapes.utx from the texture files of the third video game PC version.
+*Two Patronuses planned for the films but ultimately cut include a [[Thestral]] and a chimpanzee.<ref>{{HPLE}}</ref>
+*The Patronuses of [[James Potter I|James Potter]] and [[Minerva McGonagall]] match their respective [[Animagus|Animagi]] form. These are the only characters whose Patronus and Animagus forms are known. However, not all Animagi have the same animal as their Patronus and Animagus.<ref>In {{HM}}, the options for the Patronus and Animagus form of [[Jacob's sibling]] are different.</ref>
+**Similarly Remus Lupin's Patronus is a wolf, but whether this is universal among werewolves or not is unknown.
+*In the first chapter of {{DH}}, a white peacock appears in the gardens of Malfoy Manor. Some fans believed this bird to be [[Lucius Malfoy]]'s Patronus. However, [[J. K. Rowling]] stated that no [[Death Eaters|Death Eater]] except Severus Snape could (or had a need to) conjure a Patronus, because Death Eaters fight alongside that which Patronuses fight against.<ref name="bloomsbury">[http://www.the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript The Leaky Cauldron] - J.K. Rowling July 30, 2007 Bloomsbury.com chat</ref> This means that the peacock was in fact a living creature. It is stated in {{DH}} that the creature was in fact an albino peacock.
+*In the [[Harry Potter and the Prisoner of Azkaban (video game)|video game adaptation]] of {{POA}}, the more moderate Expecto Patronum is a ball of light. In the console versions, it works as a guided-missile that can only be steered left or right, and accelerate. In the PC version, before being cast, a white ring goes up Harry's arm and if it reaches the top of the wand, Harry has to try the spell again, and it is used only to attack Dementors (it also produces lightning effects). At the climax of the game, a stag (Harry's Patronus) jumps out of the wand to drive away all the Dementors nearby attacking Harry and Sirius, and its during that battle in the console versions, Harry's Patronus changes into a stag with altered controls.
+*In the said video game, the [[Harry Potter and the Deathly Hallows: Part 1 (video game)|first video game adaption]] of {{DH}}, and {{LEGO|Y1}}/[[LEGO Harry Potter: Years 5-7|5-7]] the Patronus Charm appears to push the Dementors away with the first shot, and a second shot kills them.
+*The lecture that Harry gives on Patronuses to [[Dumbledore's Army]] in {{OOTP|FA}} is extremely similar to the lecture [[Remus Lupin]] gave him in {{POA|FA}}.
+*In the third book when Dementors attack Harry, Hermione and Sirius, Harry's Patronus is very weak and thin (based on how there were tons of Dementors) yet the Dementors were still unable to pass through it. One Dementor was able to make it vanish by gesturing at it though.
+*In {{DH|F1}}, [[Dolores Umbridge]]'s Patronus seems to emanate a shield that keeps the Dementors separated from everyone in the courtroom. In addition, Kingsley Shacklebolt's Patronus is described in the novel as taking the form of a lynx; however, in the film it is depicted as a shimmering comet of light from which springs silvery images of witches and wizards screaming in terror as Kingsley's voice details the death of Scrimgeour and the fall of the Ministry.
+*In {{LEGO|Y1}}, [[Tom Riddle|Voldemort]], [[Lucius Malfoy]], [[Walden Macnair]], [[Bartemius Crouch Junior|Barty Crouch Jnr]], and an unnamed [[Death Eaters|Death Eater]] can all cast the spell, despite the fact that Rowling stated that no Death Eater besides Severus Snape could produce a Patronus. It is most likely that this was simply incorporated for gameplay purposes.<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+*According to [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]], it is possible that Patronuses vary in strength according to which animal's form they take. Later canon from {{WBS}}, however, stresses that this is not the case and that the form of the animal has no correlation to the strength of the Patronus (see, for instance, [[Illyius]] and [[Symposia Rawle]]).
+*In an interview, J. K. Rowling stated that the happy memory that would produce the strongest Patronus for her would be the births of any of her three children, though a close fourth would be when she learned that {{PS}} was going to be published.<ref name="bluepeter">''Harry Potter: A Blue Peter Special'' interview, transcript available [http://www.accio-quote.org/articles/2007/0720-bluepeter.html here]</ref> She has also stated that she'd like for her Patronus to be an otter, like Hermione's, but she has a feeling it might actually be a large dog.<ref name="bloomsbury" /> However, in a message on [[Twitter]] in [[2014]], she claimed it would be a [[Wikipedia:European pine marten|pine marten]].<ref>[https://twitter.com/jk_rowling/status/509799456494346240 Twitter account of J.K. Rowling]</ref> Additionally, in a 2000 interview, she stated that the Patronus Charm was her favourite spell in the series so far.<ref name=AOLLive">[http://www.cesnur.org/2001/potter/march_03.htm AOL Live Interview - October 19, 2000]</ref> Rowling later revealed that a pine marten was what she had tested as in the initial form of the Patronus test that was later posted on Pottermore. She took the test again in its final form and tested as a heron.<ref name="rowlingpottermorepatronus">[https://www.pottermore.com/news/discover-your-patronus-on-pottermore Discover your Patronus on Pottermore]</ref>
+*Luna Lovegood's hare Patronus is possibly a reference to the {{wplink|moon rabbit}}, a figure in East Asian mythology.
+*Learning to cast a Patronus is one of the tasks given to the player in the final Chapter of the game {{WBS}}. For learning the incantation and gesture, the player is given the Trophy "Expecto Patronum!" On the next page, the player is given the chance to cast a true Patronus, the form of which is apparently chosen randomly. Amongst the possible Patronuses are a bat, a bull, a cat, a goat, a horse, a rabbit, a scorpion and a snake.<ref name="wbtruepatronus">See [http://www.youtube.com/watch?v=8enWNv52VtA this YouTube video]'s comments</ref> For discovering their Patronus, the player is awarded the Trophy "True Patronus.""
+*J.K Rowling has stated the only way that a Patronus is able to change its current form is through eternal unchangable love.
+*Although J. K. Rowling has stated that the plural form is Patronuses and not Patroni, the German translation always translates it as Patroni.
+*J. K. Rowling confirmed on 21 August 2015 on Twitter that [[Rubeus Hagrid]] was not able to conjure a Patronus, though he was a member of the Order of the Phoenix.<ref name="HagridTweet"/>
+*On [[22 September]], [[2016]], {{PM}} unveiled the long-awaited and discussed option for members of the site to determine their patronus. This takes the form of a quiz of several questions that can only be taken once, at which point the member's Patronus is revealed and added to their member profile.<ref name="pottermorepatronus">[https://my.pottermore.com/patronus My Pottermore - Patronus]</ref>
+*When Joanne K. Rowling was asked about the form of Newton Scamander's Patronus, she said that it would be a spoiler to future films of the Fantastic Beasts series.<ref>https://twitter.com/jk_rowling/status/857287597579788288</ref>
+*On Pottermore, a horse Patronus can be of several different colours, though all Patronuses are silver. It's unknown how hard the difference is to tell in-universe since all horse Patronuses look the same, or at least very similar, on Pottermore.
+
+===Patronuses in the films===
+*In {{OOTP|FA}}, Harry's Patronus physically attacks the Dementors by charging at them, as depicted in the books, with the first successful patronus shield he conjured being used to force a [[Boggart]] in the form of a Dementor back into its trunk. Also, Patronuses produced by the members of Dumbledore's Army make noises and are capable of interacting with physical objects, such as Ron's dog Patronus knocking over [[Neville Longbottom]]. Also, in {{DH|F1}}, Umbridge's Patronus was heard hissing.
+*There was a noted change in appearance of Patronuses in general in the ''Order of the Phoenix'' movie. In movies 5-8, Patronuses appear to be very wispy and airy, while in the third film they look more substantial, solid and brighter.
+*In {{DH|F1}}, during the [[infiltration of the Ministry of Magic]], Umbridge's Patronus was very clearly seen several times in the same scene and often looked less like a cat and more like a reanimated, feline corpse, with the skeletal features visible. This is odd for a Patronus (they usually look quite 'alive' and well) and its twisted form may be a nod to both Umbridge's nature and the circumstances under which it was cast.
+*In the film adaptation of {{POA}}, the Patronus in its powerful wave-like form emits a deep reverberating sound. In {{DH|F2}}, this effect was also used when [[Aberforth Dumbledore]] protected Hogwarts from Dementors.
+
+==Appearances==
+{{Imagecat|Images of Patronuses}}
+[[File:Spellpath expectopatronum 3 light.png |thumb|Patronus charm as appears in {{WU}}]]
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA}} {{1st}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}} {{C|Disc 2}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}}
+*{{HBP|G}} {{C|iPhone version only}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}} 
+*{{CC}} {{C|Appears in [[alternate reality|alternate realities]]}}
+*{{CC|P}} {{C|Appears in [[alternate reality|alternate realities]]}}
+*{{FB|R}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO|D}}
+*{{LEGO}}
+*{{HPK}}
+*{{HPS}}
+*{{WBS}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}} {{Mention}}
+*{{HPV|CR}} {{Mention}}
+*{{HM}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Defence Against the Dark Arts}}
+
+[[ca:Patronus]]
+[[cs:Patronus]]
+[[da:Patronus]]
+[[de:Patronus Gestalten]]
+[[de2:Patronuszauber]]
+[[es:Encantamiento patronus]]
+[[et:Patronus]]
+[[fi:Suojelius]]
+[[fr:Sortilège du Patronus]]
+[[it:Incanto Patronus]]
+[[ja:エクスペクト・パトローナム]]
+[[nl:Patronus]]
+[[pl:Patronus]]
+[[pt-br:Feitiço do Patrono]]
+[[ru:Патронус]]
+[[sv:Expecto Patronum]]
+[[tr:Expecto Patronum]]
+[[zh:守护神咒]]
+[[Category:Communication]]
+[[Category:Defence Against the Dark Arts]]
+[[Category:Dementors]]
+[[Category:Light-based magic]]
+[[Category:Protective Spells]]
+[[Category:Soul-Related Magic]]
+[[Category:Spells with a light]]
+[[Category:Spells with Incantations of Latin Origin]]

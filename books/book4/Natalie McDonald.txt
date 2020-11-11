@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Natalie McDonald
+|born = Between [[1 September]] [[1982]] and [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF12"/>
+|gender = Female<ref name="GOF12"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="GOF12"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF12"/>
+**[[Gryffindor]]<ref name="GOF12"/>
+}}
+{{Quote|'I do hope this year's batch of Gryffindors are up to scratch,' said Nearly Headless Nick, applauding as 'McDonald, Natalie!' joined the Gryffindor table.|Natalie being sorted into Gryffindor in [[1994]].|Harry Potter and the Goblet of Fire}}
+'''Natalie McDonald''' (born c. [[1983]]) was a [[Wizardkind|witch]] that attended [[Hogwarts School of Witchcraft and Wizardry]]. She was [[Sorting ceremony|Sorted]] into [[Gryffindor]] house in [[1994]], which [[Nicholas de Mimsy-Porpington|Nearly-Headless Nick]] applauded.<ref name="GOF12">{{GOF|B|12}}</ref>
+
+==Behind the scenes==
+*In real life, Natalie McDonald was a young Canadian fan of the novels with a terminal illness, leukaemia. A friend of her mother's wrote to [[J. K. Rowling]] to ask her to write to Natalie. J.K. Rowling did not receive the letter until after a holiday, and though she admits to fearing it was "too late", wrote back, telling Natalie what happens to each of the main characters, only to find out from Natalie's mother that she had passed away. The two women began a friendship, and Natalie was thus added to the books (into Gryffindor, the house of bravery), as a tribute. Her mother kept the contents of the letter secret until her other two children finished reading ''The Deathly Hallows''.<ref>[http://www.accio-quote.org/articles/2000/1100-macleans-bethune.html ''Maclean's'' article] hosted on [http://www.accio-quote.org Accio Quote]</ref>
+*This tribute can be found on page 180 of the American paperback version of ''Goblet of Fire'', with Nearly Headless Nick applauding as she sits at the Gryffindor table. In the British edition, the tribute is located on page 152.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:McDonald, Natalie}}
+
+[[de:Natalie McDonald]]
+[[es:Natalie McDonald]]
+[[ru:Натали МакДональд]]
+[[pl:Natalia McDonald]]
+[[fr:Natalie McDonald]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

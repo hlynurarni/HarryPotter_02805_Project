@@ -1,0 +1,89 @@
+{{Individual infobox
+|theme = mom
+|image = Wilkie Twycross.png
+|name = Wilkie Twycross
+|born = Before [[1979]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP18"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP18"/>
+|gender = Male<ref name="HBP18"/>
+|height = 
+|weight = 
+|hair = Very fair<ref name="HBP18"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[British Ministry of Magic]] employee
+*[[Apparition Instructor]]<ref name="HBP18"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HBP18"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP18"/>
+}}
+{{Quote|Oh, she was perfect, obviously. Perfect deliberation, divination, and desperation or whatever the hell it is — we all went for a quick drink in the [[Three Broomsticks Inn|Three Broomsticks]] after and you should've heard Twycross going on about her — I'll be surprised if he doesn't pop the question soon —|[[Ronald Weasley|Ron Weasley]] on Twycross's favourable treatment of [[Hermione Granger]]|Harry Potter and the Half-Blood Prince}}
+'''Wilkie Twycross''' (b. before [[1979]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] and employee of the [[British Ministry of Magic]], who was the [[Apparition Instructor]] at [[Hogwarts School of Witchcraft and Wizardry]] to students who were age seventeen or approaching age seventeen and wish to obtain a licence to [[Apparition|Apparate]].<ref name="HBP18"/>  
+
+==Biography==
+{{Quote|The important things to remember when [[Apparition|Apparating]] are the three D's.|Wilkie Twycross|Harry Potter and the Half-Blood Prince}}Twycross was described as "''oddly colourless, with transparent eyelashes, wispy hair, and an insubstantial air, as though a single gust of wind might blow him away''." [[Harry Potter]], upon meeting him, wondered whether this was because of the large amount of Apparating and Disapparating he did.<ref name="HBP18">{{HBP|B|18}}</ref> 
+
+Many of the [[sixth year]] students in Twycross's [[1997]] [[Apparition (class)|Apparition class]] disliked and called him various insults, inspired by the "Three D's of Apparition" that he tried to teach them. The most moderate of these were "[[dog]]-breath" and "[[Faeces|dung]]-head." Perhaps because of this, Twycross seemed very fond of his few good students, such as [[Hermione Granger]].<ref name="HBP18"/>
+
+==Magical abilities and skills==
+*'''[[Apparition]]''': As the [[Apparition Instructor]] for [[sixth year]] Hogwarts students, Twycross would have been highly accomplished in apparition as a form of [[magic]]al transportation. He had a very sophisticated understanding of the art of apparition, teaching his students the specifics needed to apparate successfully and the [[Splinching|dangers]] of it, showing his proficiency in this field.<ref name="HBP18"/>
+
+==Etymology==
+''{{w|Wilkie}}'' is a surname used in [[Scotland]] and [[England]] possibly a diminutive of William. ''{{w|Twycross}}'' is a small village and civil parish in Leicestershire, England. Also ''twy-'' is an archaic form of ''two'' so his surname could literally mean ''two-cross'', or one who crosses between two places; hence, one who Apparates.
+
+==Behind the scenes==
+*It is interesting to note that Rowling was reading Wilkie Collins' ''The Moonstone'' when she was writing {{HBP}},{{fact}} so it is possible that it is where she got the name.
+
+===Translations===
+*Czech: ''Wilkie Křížek'' (''křížek'' "little cross")
+*Dutch: ''Wilco Draaisma'' (''draai'' "turn")
+*French: ''Wilkie Tycross''
+*Hungarian: ''Wilkie Derreng''
+*Japanese: ''ウィルキー・トワイクロス''
+*Russian: ''Уилки Двукрест {{c|Wilkie Dvukrest}}''
+*Ukrainian: ''Вілкі Твайкрос {{c|Vilki Tvaykros}}''
+The following languages are the same as the original:
+{|
+|
+*German
+|
+*Italian
+|
+*Spanish
+|
+*Swedish
+|
+*Polish
+|}
+
+==Appearances==
+*{{HBP}} {{1st}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Twycross, Wilkie}}
+
+{{Ministry Level 6 employees}}
+[[de:Wilkie Twycross]]
+[[es:Wilkie Twycross]]
+[[fr:Wilkie Tycross]]
+[[it:Wilkie Twycross]]
+[[pl:Wilkie Twycross]]
+[[ru:Уилки Двукрест]]
+[[Category:Apparition]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Wizards]]

@@ -1,0 +1,101 @@
+{{Spoiler|MA|PAS|HM}}
+{{Spell infobox
+|image=HM_y4_Evanesco.png
+|incantation=''Evanesco''<ref name="OOTP5"/><br/>(ev-an-ES-ko)
+|type=[[Transfiguration]]<ref name="OOTP15"/>
+|light=None<ref name="OOTP5"/>
+|effect=[[Vanishment|Vanishes]] objects<ref name="OOTP5"/>
+}}
+{{Quote|The contents of Harry’s potion vanished; he was left standing foolishly beside an empty [[cauldron]].|Snape vanishes [[Harry Potter]]'s failed [[Draught of Peace]]|Harry Potter and the Order of the Phoenix}}
+
+The '''Vanishing Spell'''<ref name="OOTP15">{{OOTP|B|15}}</ref> (''Evanesco'')<ref name="OOTP5">{{OOTP|B|5}}</ref> was a [[Transfiguration]] [[spell]] used to [[Vanishment|vanish]] both animate and inanimate objects "into non-being, which is to say, everything".<ref name="DH30">{{DH|B|30}}</ref>
+
+==Nature==
+The Vanishing Spell was one of the most complicated [[spell]]s taught at [[Ordinary Wizarding Level]].<ref name="OOTP13" />
+
+It became more difficult with the complexity of the animal to be [[Vanishment|vanished]]; for instance, a [[snail]], as an invertebrate, was rather simple, whereas the [[mouse]], as a mammal, presented a great challenge.<ref name="OOTP15" /> The greatest challenge, however, was the [[vanishment]] of a [[Cat|kitten]], which [[Hermione Granger]] managed to do by [[1995|mid-year]].<ref name="OOTP16">{{OOTP|B|16}}</ref>
+
+[[Minerva McGonagall]] stated that Vanished objects go "''into non-being, which was to say, everything''".<ref name="HMy4ch3">{{HM|4|3|t}}</ref><ref name="DH30"/>
+
+Certain objects could be [[Charm|enchanted]] to resist Vanishing Spells, such as fireworks. For example, [[Fred and George Weasley]] charmed their [[Weasleys' Wizard Wheezes]] fireworks so that if anyone attempted to Vanish them, not only would they remain but would multiply by ten each time.<ref name="OOTP28">{{OOTP|B|28}}</ref>
+
+==History==
+In "[[The Wizard and the Hopping Pot]]" from {{TBB}}, the son of the original owner of the pot tries to vanish the pot, but the spell had no effect.<ref name="TBB 1">{{TBB|R}} - "The Wizard and the Hopping Pot"</ref> Also in the story [[Babbitty Rabbitty and her Cackling Stump]] in the same book, the witch [[Babbitty Rabbity]] successfully vanishes a hat.<ref name="TBB 2">{{TBB|R}} - Babbity Rabbitty and her Cackling Stump</ref>
+
+During the [[1987–1988 school year]], this [[spell]] was taught to [[fourth year]]s in [[Transfiguration (class)|Transfiguration]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="HMy4ch3"/>
+
+In [[1991]], [[Harry Potter]] may have used this spell [[Underage magic|unintentionally]] to make the glass at the [[Zoo]] disappear.<ref name="PS2">{{PS|B|2}}</ref>
+
+In [[1992]], after being forced to take a photo with [[Gilderoy Lockhart]] for [[Colin Creevey]] and then asked to sign it, Harry wished he knew a good Vanishing Spell to escape the embarrassment.<ref name="CS6">{{COS|B|6}}</ref>
+
+In [[May]] [[1993]], [[Neville Longbottom]] may have used this spell unintentionally during a [[Transfiguration (class)|Transfiguration]] lesson, in which Professor McGonagall stated that all students would still be having their [[Second year exams|end of year exams]] in one week, despite the attacks on students and the suspension of [[Albus Dumbledore]] and [[Rubeus Hagrid]]. [[Neville Longbottom's first wand|Neville's wand]] slipped and one of the legs on his desk vanished after hearing the announcement.<ref name="CS16">{{COS|B|16}}</ref>
+
+During the [[1995–1996 school year]], [[Professor]] [[Minerva McGonagall]] introduced this spell in her very first Transfiguration class with the [[fifth year]] students, giving them a lecture and then setting them on vanishing [[snail]]s. This spell was referred to by McGonagall in its plural form when she introduced it, along with [[Conjuring Spells]].<ref name="OOTP13" />
+
+When none of the students except [[Hermione Granger]] could perform the spell properly, Professor McGonagall told the students to practise the spell overnight, for a fresh start [[4 September|the next day]]. In their second lesson, the students were given questions on the Vanishing Spell for homework.<ref name="OOTP13" /> On [[6 September]], however, the students were given a break from this [[spell]] and instead were given a long and difficult essay on the [[Inanimatus Conjurus Spell]].<ref name="OOTP14">{{OOTP|B|14}}</ref>
+
+Later on in the year, Professor McGonagall returned the class to Vanishing Spells, this time working to make [[Mouse|mice]] [[Vanishment|disappear]].<ref name="OOTP15" /> However, in the week leading up to the [[Gryffindor vs Slytherin Quidditch match (1995)|Gryffindor-Slytherin match]], she abstained from giving them homework so that the [[Gryffindor Quidditch team]] could practise.<ref name="OOTP19">{{OOTP|B|19}}</ref>
+
+==Known uses==
+{| class="wikitable" border="1" 500px; "
+|-
+! align="center" width="20%" |Caster(s)
+! align="center" width="20%" |Date
+! scope="col" |Notes
+|-
+|[[William Weasley|Bill Weasley]]
+|[[August]] [[1995]]
+|Bill used this spell to make a stack of scrolls disappear while cleaning up after a meeting of the [[Order of the Phoenix]] during Harry's first night at number twelve, [[Grimmauld Place]].<ref name="OOTP5" />
+|-
+|[[Severus Snape]]
+|1995
+|Snape used this spell to get rid of Harry's less-than-perfect first attempt at a [[Draught of Peace]].<ref name="OOTP12" />
+|-
+|[[Harry Potter]]
+| colspan="1" rowspan="2" |[[June]] [[1996]]
+|Harry vanished the whole of an [[iguana]] during his practical [[Transfiguration (class)|Transfiguration]] [[Ordinary Wizarding Level|O.W.L.]].<ref name="OOTP31"/>
+|-
+|Fifth years
+|One task on the practical [[Transfiguration]] [[Ordinary Wizarding Level|O.W.L.]] was Vanishment.<ref name="OOTP31"/>
+|}
+
+==Known practitioners==
+<gallery widths="105" orientation="portrait" spacing="small" position="center">
+Severus_Snape.jpg|[[Severus Snape]]<ref name="OOTP12">{{OOTP|B|12}}</ref>
+Mcgonagall.jpg|[[Minerva McGonagall]]<ref name="OOTP13" />
+OOTP_promo_front_Harry_cropped.jpg|[[Harry Potter]]<ref name="OOTP31">{{OOTP|B|31}}</ref>
+Hermione Granger OOTP profile.jpg|[[Hermione Granger]]<ref name="OOTP13">{{OOTP|B|13}}</ref>
+Bill Weasley 2.jpg|[[William Weasley|Bill Weasley]]<ref name="OOTP5" />
+Leejordan_OoTP.PNG|[[Lee Jordan]]<ref name="OOTP17">{{OOTP|B|17}}</ref>
+Ivy_Warrington_from_Harry_Potter_Magic_Awakened.png|[[Ivy Warrington]]<ref name="MA">{{MA}}</ref>
+Babitty.jpg|[[Babbitty Rabbity]] (fictional)<ref name="TBB">{{TBB|E}}</ref>
+</gallery>
+*[[Fifth year]] students<ref name="OOTP13" />
+
+==Etymology==
+The [[incantation]] "''Evanesco''" is a [[Latin]] word meaning "''vanish''" or "''disappear''".<ref name="etymology">[http://translate.google.ca/#la/en/evanesco Evanesco] on [http://translate.google.ca/ Google Translate]</ref>
+
+==Appearances==
+*{{PS}} {{Possible}}
+*{{PS|F}} {{Possible}}
+*{{COS}} {{1st Mention}} {{Possible}}
+*{{OOTP}} {{1st}}
+*{{TBB|R}} {{Mention}}
+*{{HM}}
+*{{PAS}}
+*{{MA}}
+
+==Notes and references==
+{{Reflist}}
+{{Transfiguration}}
+[[de:Evanesco]]
+[[es:Encantamiento desvanecedor]]
+[[fr:Sortilège de Disparition]]
+[[it:Incantesimo di Sparizione]]
+[[nl:Evanesco]]
+[[pl:Evanesco]]
+[[ru:Заклятие исчезновения]]
+[[zh:消失咒]]
+[[Category:Spells with Incantations of Latin Origin]]
+[[Category:Transfiguration Spells]]
+[[Category:Vanishments]]

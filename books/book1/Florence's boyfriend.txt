@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Florence's boyfriend
+|born = [[1950s]] - [[1960s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+The '''boyfriend''' of [[Florence]] was a student at [[Hogwarts School of Witchcraft and Wizardry]] during the same period as [[Bertha Jorkins]]. He [[hex]]ed Bertha after she teased him about having seen him kissing Florence behind the [[Hogwarts Castle|school greenhouses]] the week before.<ref name="GOF30">{{GOF|B|30}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Ami de Florence]]
+[[pl:Chłopak Florence]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts students during the Marauders' era]]
+[[Category:Males]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

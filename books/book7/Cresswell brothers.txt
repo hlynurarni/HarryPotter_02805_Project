@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Cresswell brothers
+|born = 
+|died = 
+|blood = [[Half-blood]]s or [[Squib]]s
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s
+|gender = Males
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Dirk Cresswell]] (father) †
+*[[Dirk Cresswell's wife|Mrs Cresswell]] (mother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Cresswell family]]
+}}
+{{Quote|...[[Dirk Cresswell]] is ten times the wizard you are. And if he survives [[Azkaban]], you’ll have to answer to him, not to mention his wife, his sons, and his [[Dirk Cresswell's friends|friends]]...|[[Arthur Weasley]] confronts [[Albert Runcorn]] (actually [[Harry Potter]] in disguise)|Harry Potter and the Deathly Hallows}}
+The '''Cresswell brothers''' were the sons of [[Dirk Cresswell]] and his [[Dirk Cresswell's wife|wife]]. In [[1997]], their father was forced to go on the run after [[Tom Riddle|Lord Voldemort]] [[Fall of the Ministry of Magic|took over]] the [[British Ministry of Magic|Ministry of Magic]].<ref name="DH13">{{DH|B|13}}</ref> In [[1998]], he was caught and killed by [[Snatchers]].<ref name="DH22">{{DH|B|22}}</ref> It is unknown what happened to them after [[1998]].
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Hermanos Cresswell]]
+[[ru:Братья Крессвелл]]
+[[pl:Bracia Cresswell]]
+[[Category:British individuals|Cresswell]]
+[[Category:Cresswell family]]
+[[Category:Half-orphans|Cresswell]]
+[[Category:Males|Cresswell]]

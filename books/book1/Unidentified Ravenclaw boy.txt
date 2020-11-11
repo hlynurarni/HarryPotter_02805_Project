@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Unidentified Ravenclaw boy
+|born = between [[1 September]] [[1985]] and [[31 August]] [[1986]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">Seeing as Hogwarts did not allow [[muggle-born]] students to go to Hogwarts during the [[1997–1998 school year]], he was likely either [[Pure-blood]] or [[Half-blood]].</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH30"/>
+|gender = Male<ref name="DH30"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="DH30"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH30"/>
+**[[Ravenclaw]]<ref name="DH30"/>
+}}
+{{Quote|I think she might be dead!|The boy's excitement over the unconscious Alecto Carrow|Harry Potter and the Deathly Hallows}}
+This '''unidentified boy''' was a [[Wizardkind|wizard]] who started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1997]], who was [[Sorting ceremony|sorted]] into [[Ravenclaw]]. Right before the [[Battle of Hogwarts]] on [[1 May]] [[1998]], he prodded [[Alecto Carrow]] in [[Ravenclaw Tower]] while she was [[Stunning Spell|unconscious]], saying hopefully that she might be dead.<ref name="DH30">{{DH|B|30}}</ref>
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Ravenclaw boy}}
+
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in 1997]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Wizards]]

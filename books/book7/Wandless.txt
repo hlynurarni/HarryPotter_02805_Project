@@ -1,0 +1,32 @@
+{{Individual infobox
+|name = Wandless
+|blood = [[Muggle-born]]s
+|nationality = [[Great Britain|British]]
+|species = [[Human]]s
+|gender = Males, Females
+|theme = wizard
+}}
+{{Quote|Some of these wandless can be troublesome. While they do nothing but beg I have no objection, but one of them actually asked me to plead her case in the Ministry last week. 'I'm a witch, sir, I'm a witch, let me prove it to you!'. As if I was going to give her my wand —|[[Travers]] mocking [[Muggle-born]]s reduced to begging on the street in [[1998]]|Harry Potter and the Deathly Hallows}}
+
+'''Wandless''' were [[Muggle-born]] [[wizardkind|witches and wizards]], as well as [[half-blood]]s unable to prove their ancestry, who had become vagrants and homeless after being stripped of their [[wand]]s, jobs and families by [[Tom Riddle|Lord Voldemort's]] [[Fall of the Ministry of Magic|regime]] at the [[British Ministry of Magic|Ministry of Magic]].<ref name="DH26">{{DH|B|26}}</ref>
+
+==Description==
+These individuals were accused of having stolen [[magic]] from "real" wizards and witches by the [[Muggle-Born Registration Commission]]. Some were sent to [[Azkaban|Azkaban Fortress]], but others were apparently simply forced to live as vagabonds, huddling in doorways at [[Diagon Alley]]. They tended to beg and plead with more prosperous wizards that gave patronage to the street's establishments, though they were thoroughly ignored, and in many cases abused by [[Death Eaters]] and their supporters. Some did not take their persecution lying down however, as one attacked [[Hermione Granger]], who at the time was disguised as [[Bellatrix Lestrange]], in a fit of rage.<ref name="DH26"/>
+
+==History==
+{{Dialogue a-b|Wandless with a bloody bandage over his eye|My children! Where are my children? What has he done with them? You know, ''you know''!|Hermione Granger (as Bellatrix Lestrange)|I — I really —|One of the wandless tries to attack "[[Bellatrix Lestrange]]" (actually [[Hermione Granger]] in [[Polyjuice Potion|disguise]]).|Harry Potter and the Deathly Hallows}}[[Harry Potter]], [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]] came across these beggars on their way to [[Gringotts Wizarding Bank]] in the spring of [[1998]]. They were huddled in doorways, "moaning to the few passersby, pleading for gold, insisting that they were really wizards". When they spotted Hermione, who was disguised as [[Bellatrix Lestrange]] by use of [[Polyjuice Potion]], they turned away and hid. One, however, approached her and demanded to know what had happened to his children. When she could not answer, the beggar lunged for her throat, prompting Ron to [[Stunning Spell|Stun]] him. The trio then ran into [[Travers]], a [[Death Eaters|Death Eater]] who mocked the beggars and then accompanied them into Gringotts, which the trio subsequently [[Break-in of Gringotts Wizarding Bank (1998)|robbed]] in order to obtain one of [[Tom Riddle|Lord Voldemort]]'s [[Horcrux]]es. A witch, in particular, plead for [[Travers]] to lend her his wand to prove she was a witch and to appeal her case in the Ministry, to which he brutally mocked her in return.<ref name="DH26"/>
+
+After [[Voldemort's Last Stand|Voldemort's defeat]] on [[2 May]], [[1998]], and [[Kingsley Shacklebolt|Minister Shacklebolt]]'s de-corruption of the Ministry, these wizards and witches were presumably able to regain wands and resume the lives and jobs they had before being stripped of their wands.
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[es:Sin Varita]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Half-bloods]]
+[[Category:Males]]
+[[Category:Muggle-borns]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

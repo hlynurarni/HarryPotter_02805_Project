@@ -1,0 +1,35 @@
+{{Individual infobox
+|name = Williamson
+|born = Pre. [[1973]]
+|nationality = [[Great Britain|British]]<ref name="OOTP36"/>
+|species = [[Human]]<ref name="OOTP36"/>
+|gender = Male<ref name="OOTP36"/>
+|job = [[Auror]]<ref name="OOTP36"/>
+|loyalty = *[[British Ministry of Magic]]<ref name="OOTP36"/>
+**[[Auror Office|Auror Department]]<ref name="OOTP36"/>
+|theme = mom
+|title = 
+}}
+{{Quote|He was there! I saw him, Mr Fudge, I swear, it was You-Know Who, he grabbed [[Bellatrix Lestrange|a woman]] and [[Apparition|Disapparated]]!|Williamson upon seeing Lord Voldemort|Harry Potter and the Order of the Phoenix}}
+'''Williamson''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked as an [[Auror]] for the [[British Ministry of Magic]]. He was described as wearing scarlet red [[robes]] and a long pony tail when [[Harry Potter]] first met him.<ref name="OOTP36">{{OOTP|B|36}}</ref>
+
+==Biography==
+He was the first Auror to see [[Tom Riddle|Lord Voldemort]] just before he fled the [[British Ministry of Magic|Ministry of Magic]] in [[1996]] after the [[Battle of the Department of Mysteries]]. Fudge then sent him and [[John Dawlish]] to deal with the captured [[Death Eaters]].<ref name="OOTP36"/>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+[[de:Williamson]]
+[[es:Williamson]]
+[[fr:Williamson]]
+[[pl:Williamson]]
+[[pt-br:Williamson]]
+[[ru:Уильямсон]]
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

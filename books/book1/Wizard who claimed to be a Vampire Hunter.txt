@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Wizard who claimed to be a Vampire Hunter
+|hideb=Hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[Vampire Hunter]] (claimed)
+|house=
+|loyalty=
+}}
+
+{{Dialogue a-b|[[Wizard who claimed to be a dragon killer|Friend]]|I pull down about a hundred sacks of [[Galleon]]s a year! I'm a [[dragon killer]] for the [[Committee for the Disposal of Dangerous Creatures]].|Wizard|No, you're not! You're a dishwasher at the [[Leaky Cauldron]] … but I'm a [[Vampire Hunter]], I've killed about ninety so far - |A group of wizards fighting over the affections of a group of Veelas.|Harry Potter and the Goblet of Fire}}
+
+This '''individual''' was a [[Wizardkind|wizard]] who attended the [[1994]] [[Quidditch World Cup]] between [[Bulgaria]] and [[Ireland]]. He claimed that he was a [[Vampire Hunter]] in an attempt to impress a group of [[Veela]], after refuting the claims of [[Wizard who claimed to be a dragon killer|his friend]] who said he was a [[dragon killer]].<ref>{{GOF|B|9}}</ref>
+
+==Behind the scenes==
+*It is extremely unlikely that the "vampire hunter"'s claim was true given that killing vampires is illegal under the [[Guidelines for the Treatment of Non-Wizard Part-Humans]] (paragraph twelve). However, very dangerous vampires were killed at times, as shown in the case of [[Herbert Varney]] 
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Sorcier qui prétend être un chasseur de vampires]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

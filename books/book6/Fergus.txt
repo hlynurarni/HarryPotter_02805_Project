@@ -1,0 +1,39 @@
+{{Youmay|[[Seamus Finnigan]]'s cousin|[[Fergus Cowley]]}}
+{{Individual infobox
+|theme=wizard
+|name=Fergus
+|hideb=
+|born=Before [[1980]]<ref name="age">He was at least seventeen years old in 1996, as he had already passed his apparation test.</ref>
+|blood=
+|species=[[Human]]<ref name="HBP17"/>
+|gender=Male<ref name="HBP17"/>
+|family=*[[Seamus Finnigan's father|Mr Finnigan]] (uncle)<ref name="HBP17"/>
+*[[Seamus Finnigan's mother|Mrs Finnigan]] (aunt)<ref name="HBP17"/>
+*[[Seamus Finnigan]] (cousin)<ref name="HBP17"/>
+|nationality=[[Ireland|Irish]]
+|loyalty=[[Finnigan family]]<ref name="HBP17"/>
+}}
+{{Quote|Me cousin Fergus does it just to annoy me, you wait till I can do it back... He'll never have another peaceful moment...|[[Seamus Finnigan]] on [[Apparition|Apparating]]|Harry Potter and the Half-Blood Prince}}
+'''Fergus''' (fl. 1979-1996) was an [[Ireland|Irish]] [[Wizardkind|wizard]] and [[Seamus Finnigan]]'s cousin. He was known to annoy Seamus by [[Apparition|apparating]] around him frequently.<ref name="HBP17">{{HBP|B|17}}</ref>
+
+==Magical abilities and skills==
+*'''[[Apparition]]''': Fergus was capable of apparating at will, often doing it to simply annoy his cousin [[Seamus Finnigan|Seamus]].<ref name="HBP17"/>
+
+==Etymology==
+The name "Fergus" means "man of vigour", derived from the Gaelic elements ''fear'' "man" and ''gus'' "vigour". This was the name of several characters in Irish legend including the Ulster hero Fearghas mac Róich.
+
+==Behind the scenes==
+*The fact that Fergus was a wizard suggests that he was related to Seamus through Mrs Finnigan.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Fergus]]
+[[es:Fergus]]
+[[fr:Fergus]]
+[[pl:Fergus]]
+[[Category:Finnigan family]]
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

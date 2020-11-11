@@ -1,0 +1,341 @@
+{{Spoiler|PAS|HM}}
+{{FA}}
+{{Potion infobox
+|name = Polyjuice Potion
+|image = [[File:B2C12M2 Polyjuice Potion ready.jpg|250px]]
+|effect = Allows a [[human]] drinker to temporarily assume the form of another person<ref name="COS10"/>
+|side-effects = Attempts to transform into animals or part-humans will not reverse automatically
+|characteristics = Before addition of final ingredient:
+*Thick and mud-like<ref name="COS12"/>
+*Bubbles slowly<ref name="COS12"/>
+After addition of final ingredient:
+*Taste and colour vary depending on the person being turned into<ref name="COS12"/>
+|time = One month<ref name="COS10"/>
+|difficulty = Advanced<ref name="COS10"/>
+|ingredients = *[[Lacewing fly|Lacewing flies]] (stewed for 21 days)<ref name="COS10"/>
+*[[Leech]]es<ref name="COS10"/>
+*Powdered [[bicorn]] [[Horn of Bicorn|horn]]<ref name="COS10"/>
+*[[Knotgrass]]<ref name="COS10"/>
+*[[Fluxweed]] (picked at full [[moon]])<ref name="COS10"/>
+*Shredded [[Boomslang]] [[Boomslang skin|skin]]<ref name="COS10"/>
+*A bit of the person one wants to turn into<ref name="COS10"/> (typically [[Human hair|hair]])<ref name="COS12"/>
+|inventor = 
+|manufacturer = 
+}}
+{{Quote|The Polyjuice Potion, which is a complex and time-consuming concoction, is best left to highly skilled witches and wizards. It enables the consumer to assume the physical appearance of another person, as long as they have first procured part of that individual's body to add to the brew (this may be anything — toenail clippings, dandruff or worse — but it is most usual to use hair). The idea that a witch or wizard might make evil use of parts of the body is an ancient one, and exists in the folklore and superstitions of many cultures. The effect of the potion is only temporary, and depending on how well it has been brewed, may last anything from between ten minutes and twelve hours. You can change age, sex, and race by taking the Polyjuice Potion, but not species.|Description of Polyjuice Potion|Pottermore}}
+
+The '''Polyjuice Potion''' was a [[potion]] that allowed the drinker to assume the form of someone else. It was a highly complicated, challenging and time-consuming potion that even adult [[Wizardkind|witches and wizards]] struggled to brew correctly.<ref name="WW">{{WW|polyjuice-potion}} - J.K. Rowling's Thoughts</ref> The potion was incredibly advanced and had two separate parts that contained steps for each part. When its brewing was complete, the potion had to be stewed for a month before usage.<ref name="COS10">{{COS|B|10}}</ref><ref name="COS12">{{COS|B|12}}</ref>
+
+==Overview==
+While it could account for both age and gender, Polyjuice Potion could not be used for a human to take an animal form, nor could it be used on non-humans or half-humans.<ref name="COS12"/>
+
+Notably, the Polyjuice Potion was used many times in the events leading up to, and during, the [[Second Wizarding War]] (and possibly the [[First Wizarding War]], although there were no documented instances of it). The potion also played a crucial role for [[Harry Potter]], [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]] in their second and fourth years.<ref name="COS10"/><ref name="COS12"/><ref name="GOF35"/> It was also used in [[Draco Malfoy]]'s plot to smuggle [[Death Eaters]] into [[Hogwarts School of Witchcraft and Wizardry]] in 1997,<ref name="HBP21">{{HBP|B|21}}</ref> in the [[Battle of the Seven Potters]],<ref name="DH4"/> and in Harry, Ron and Hermione's [[Infiltration of the Ministry of Magic]] and their break-in of [[Gringotts Wizarding Bank]] in 1998.<ref name="DH26"/>
+
+Polyjuice Potion was among the products sold by the [[Apothecarium of Horace E. F. Slughorn]].<ref name="HBPF">{{HBP|F}}</ref>
+
+==Ingredients==
+===Part 1===
+<gallery widths="110" spacing="small" >
+Fluxweed.png|[[Fluxweed]]<ref name="COS10"/>
+Knotgrass.png|[[Knotgrass]]<ref name="COS10"/>
+Lacewing-flies-lrg.png|[[Lacewing fly|Lacewing flies]]<ref name="COS10"/>
+Leeches-lrg.png|[[Leech]]es<ref name="COS10"/>
+</gallery>
+===Part 2===
+<gallery widths="110" spacing="small">
+Bicorn-horn-lrg.png|[[Horn of Bicorn]]<ref name="COS10"/>
+Skin of Boomslang.png|[[Boomslang skin]]<ref name="COS10"/>
+Hair-lrg.png|Piece of person you're turning into<ref name="COS10"/> (usually [[Human hair|hair]])<ref name="COS12"/>
+</gallery>
+
+==Brewing instructions==
+===Preparation===
+{{Quote|The recipe can be found in ''[[Moste Potente Potions]]'', which is housed in the Restricted Section of the Hogwarts library. It is a very complicated potion and requires ingredients such as lacewing flies, leeches, fluxweed, knotgrass, powdered horn of a Bicorn and shredded skin of a Boomslang as well as a bit of whoever the drinker intends to turn into.|Preparations needed to brew the potion|Pottermore}}Independent of its actual brewing process, the Polyjuice Potion required a good deal of preparation prior to making it. For example, the [[Lacewing fly|lacewing flies]] must be stewed for twenty-one days prior to making the potion, and only [[fluxweed]] picked during a full moon is acceptable. The total process took approximately one month to complete.<ref name="PM"/>
+
+====Part 1, step one====
+# Add 3 measures of fluxweed to the cauldron (must have been picked on a full moon).
+# Add 2 bundles of [[knotgrass]] to the cauldron.
+# Stir 4 times, clockwise.
+# Wave your wand then let potion brew for 80 minutes (for a [[Pewter Cauldron]]. A [[Brass Cauldron]] will only require 68, and a [[Copper Cauldron|copper one]] only 60.<ref name="PM"/>
+
+====Part 1, step two====
+# Add 4 [[leech]]es to the [[cauldron]].
+# Add 2 scoops of lacewing flies to the mortar, crush to a fine paste, then add 2 measures of the crushed lacewings to the cauldron.
+# Heat for 30 seconds on a low heat.
+# Wave your wand to complete this stage of the potion.<ref name="PM"/>
+
+====Part 2, step one====
+# Add 3 measures of [[boomslang skin]] to the cauldron.
+# Add 1 measure of [[Horn of Bicorn|bicorn horn]] to the mortar, crush to a fine powder, then add one measure of the crushed horn to the cauldron.
+# Heat for 20 seconds at a high temperature.
+# Wave your wand then let potion brew for 24 hours (for a Pewter Cauldron. A Brass Cauldron will only require 1224 minutes, and a copper one only 18 hours).<ref name="PM"/>
+
+====Part 2, step two====
+# Add 1 additional scoop of lacewings to the cauldron.
+# Stir 3 times, counter-clockwise.
+# Split potion into multiple doses, if desired, then add the pieces of the person you wish to become.
+# Wave your [[wand]] to complete the potion.<ref name="PM">{{PM}}</ref>
+
+==Description==
+===Physical appearance===
+{{Quote|"Ooh, you look much tastier than Crabbe and Goyle, Harry," said Hermione, before catching sight of Ron's raised eyebrows, blushing slightly, and saying, "Oh, you know what I mean — Goyle's potion looked like bogies."|Before [[Hermione Granger]] took on Harry Potter's appearance|Harry Potter and the Deathly Hallows}}[[File:Polyjuice.gif|235x235px|thumb|Hermione adding Harry Potter's hair to the potion before the [[Battle of the Seven Potters]]]]
+
+A piece of the person who was to be imitated — usually [[Human hair|hair]], but toenail clippings, [[dandruff]], or worse could be used — was needed for the transformation; apparently, the person must be alive when the piece was taken, as [[Bartemius Crouch Junior|Barty Crouch Jnr]] kept [[Alastor Moody]] alive to continue harvesting his hair.<ref name="GOF35">{{GOF|B|35}}</ref>
+
+Before this final ingredient was added, Polyjuice looked like thick, dark mud that bubbles slowly. When the piece of the person to be imitated was added, the potion changed colour; it seemed to react according to the nature of the person to be imitated, once even described as the 'essence' of the person.<ref name="COS12">{{COS|B|12}}</ref> Good-hearted people result in more attractive colours and tastes, while mean people caused the opposite effect. [[Harry Potter]]'s was a pure golden colour,<ref name="DH4">{{DH|B|4}}</ref> whereas [[Gregory Goyle]]'s tasted like "overcooked cabbage"<ref name="COS12">{{COS|B|12}}</ref> and "looked like bogies",<ref name="DH4">{{DH|B|4}}</ref> [[Bellatrix Lestrange]]'s tasted "disgusting, worse than [[Gurdyroot]]s"<ref name="DH26">{{DH|B|26}}</ref> and [[Mafalda Hopkirk]]'s was a pleasant heliotrope colour.<ref name="DH12">{{DH|B|12}}</ref> It was likely that the taste differed from potion to potion.
+
+===Effects===
+{{Quote|Immediately, his insides started writhing as though he'd just swallowed live [[snake]]s — doubled up, he wondered whether he was going to be sick — then a burning sensation spread rapidly from his stomach to the very ends of his fingers and toes — next, bringing him gasping to all fours, came a horrible melting feeling, as the skin all over his body bubbled like hot wax — and before his eyes, his hands began to grow, the fingers thickened, the knuckles were bulging like bolts — his shoulders stretched painfully and a prickling on his forehead told him that his hair was creeping down toward his eyebrows — his robes ripped as his chest expanded like a barrel bursting its hoops — his feet were agony in shoes four sizes too small —|Description of the feeling of drinking Polyjuice Potion|Harry Potter and the Chamber of Secrets}}The effects of a single dose lasted anywhere from ten minutes to twelve hours, depending on how well the potion had been brewed.<ref name="jknew">{{PM}} - New from J. K. Rowling - Chapter 12, Moment 2 - Polyjuice Potion</ref> Continued drinking prior to the transformation wearing off extended the form's duration until the next dosage was required.<ref name="GOF35">{{GOF|B|35}}</ref> The complexity of the potion was such that the one Hermione brewed in her second year only lasted one hour per dosage.<ref name="COS12">{{COS|B|12}}</ref> The effects could be removed prematurely by certain magical defences, such as the [[Thief's Downfall]].<ref name="DH26">{{DH|B|26}}</ref> It also did not fool the [[Marauder's Map]].[[File:Polyjuice_effects.gif|241x241px|left|frame|[[Harry Potter]] transforming into Gregory Goyle]]
+
+If a person died while under Polyjuice Potion, as [[Bartemius Crouch Jnr's mother|Mrs Crouch]] did, then they would retain the form of whoever they had transformed into, rather than reverting back to their original shape (although it might be possible that the effects of the potion had not worn off at the time of her death and burial, as she was careful in taking it to the end, and Barty Snr could not retrieve his wife's body in fear of exposing the jailbreak, possibly meaning her body reverted after her burial).<ref name="GOF35">{{GOF|B|35}}</ref>
+
+Polyjuice could be used by a person to transform into someone of the other sex.<ref name="DH4">{{DH|B|4}}</ref> It appeared to adapt to account for the age of the person being turned into, as well as any injuries they have acquired, as [[Bartemius Crouch Junior|Barty Crouch, Jnr]] needed a [[Alastor Moody's magical eye|magical eye]] and wooden leg when he used the potion to turn into [[Alastor Moody]].<ref name="GOF35">{{GOF|B|35}}</ref> In addition, congenital conditions of the person would apparently be replicated, as [[Hermione Granger]] required [[Glasses|spectacles]] to see clearly after turning into Harry Potter.<ref name="DH4">{{DH|B|4}}</ref>
+
+[[File:Hermione polyjuice.jpg|240x240px|thumb|Hermione suffers from partial cross-species transfiguration due to including [[cat hair]] in her potion]]
+
+The potion was complicated and could go awry. For example, when Hermione brewed Polyjuice in her second year, she intended to take the form of [[Millicent Bulstrode]], but she mistook her [[Millicent Bulstrode's cat|cat]]'s [[Cat hair|hair]] for Millicent's. The resulting potion caused Hermione to partially transform into a [[cat]], complete with ears and a tail. As the Polyjuice Potion could not be used to successfully transform into an animal, Hermione's change did not reverse after an hour.<ref name="COS12">{{COS|B|12}}</ref> She went to the [[Hospital Wing]] and did not recover until after the winter holidays.<ref name="COS13">{{COS|B|13}}</ref>
+
+Likewise, the potion was not designed to be used by a non-human or [[half-breed]], as [[Remus Lupin]] informed the [[half-giant]] [[Rubeus Hagrid]].<ref name="DH5">{{DH|B|5}}</ref> Presumably, it was likely that it could not be used to transform into a half-breed either.
+
+==Known uses==
+
+===Search for the Obscurial's identity===
+[[File:NewtPolyjuice.gif|thumb|220x220px|[[Newton Scamander|Newt Scamander]] transforming into his brother, [[Theseus Scamander]]|left]]In [[September]] [[1927]], the [[Obscurial]] [[Credence Barebone]] was sighted in [[France]] and he was looking for his true identity. [[Albus Dumbledore]] met with [[magizoologist]] [[Newton Scamander|Newt Scamander]] in [[London]] and ordered him to head to [[Paris]] to find and save Barebone from [[Dark Wizard]] [[Gellert Grindelwald]], as he did on [[December]] [[1926]] in [[New York]]. Due to events in the [[United States of America|United States]], Scamander headed to the [[British Ministry of Magic]] to appeal in revoking a foreign travel ban, which he received from the Ministry for the destruction of half of New York City, which is what Barebone's [[Obscurus]] really did. He left [[England]] illegally using the [[Portkey]], but the rumours about his departure reached the British Ministry. Newton, like everyone else, wanted to find out who Credence really was and to get this information he had to get to the [[French Ministry of Magic Records Room|Records Room]] in the [[French Ministry of Magic Headquarters|French Ministry of Magic]] where the family box would tell him the truth. Being watched, he used Polyjuice Potion to assume the identity of his brother, [[Auror]] [[Theseus Scamander]], to get inside unrecognised. While going through the ministry headquarters with Auror [[Porpentina Goldstein|Tina Goldstein]], they were spotted by Theseus. When the polyjuice potion stopped working and Tina stunned Theseus, they entered the Records Room, but the family box has been taken to the [[Lestrange Mausoleum]] on [[Cimetière du Père-Lachaise|Pere Lachaise Cemetery]].<ref name="COGS">{{COG|S}}</ref>
+
+===Search for the Heir of Slytherin===
+{{Dialogue a-b-a|Hermione Granger|There might be a way. Of course, it would be difficult. And dangerous, very dangerous. We'd be breaking about fifty school rules, I expect… What we'd need to do is to get inside the Slytherin common room and ask Malfoy a few questions without him realising it's us.|Harry Potter|But that's impossible.|No, it's not. All we'd need would be some Polyjuice Potion...|The trio planning to use Polyjuice to interrogate Draco Malfoy|Harry Potter and the Chamber of Secrets}}[[File:HarryRonHermione PolyjuicePotionMyrtlesBathroom.jpg|240px|thumb|Hermione Granger brews Polyjuice Potion in the second-floor girls' lavatory]]
+
+In their second year, [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] came to suspect that [[Draco Malfoy]] was the [[Tom Riddle|Heir of Slytherin]]. To investigate this, Hermione suggested the use of Polyjuice Potion to enable them to take on the form of [[Slytherin]] students and question Malfoy.<ref name="COS9">{{COS|B|9}}</ref> Masterminding the effort, Hermione obtained the advanced potion's recipe (by getting [[Gilderoy Lockhart|Professor Lockhart]] to sign a note authorising her to borrow the book ''[[Moste Potente Potions]]'' from the library's [[Restricted Section]]),<ref name="COS10">{{COS|B|10}}</ref> pilfered two of the rarer ingredients from [[Severus Snape|Snape]]'s cupboards,<ref name="COS11">{{COS|B|11}}</ref> and undertook the complex and lengthy brewing of the base Polyjuice Potion.
+
+She also directed how the trio were to acquire the final ingredients — hair from their targets — as well as clothing to complete the disguise. Ultimately, however, though Harry and Ron successfully assumed the appearances of [[Gregory Goyle|Goyle]] and [[Vincent Crabbe|Crabbe]] respectively, Hermione's own attempt to take on the guise of [[Millicent Bulstrode]] went awry when Hermione used a [[cat hair]] that she had mistaken for Millicent's hair from a hair brush.<ref name="COS12">{{COS|B|12}}</ref>
+
+===Barty Crouch Junior===
+{{Dialogue a-b|Seamus Finnigan|What's that he's drinking, do you suppose?|Harry Potter|I don't know, but I don't think it's pumpkin juice.|Harry Potter and [[Seamus Finnigan]] witnessing Crouch (disguised as Moody) drinking from the hip flask|Harry Potter and the Goblet of Fire (film)}}When [[Bartemius Crouch Junior|Barty Crouch Jnr]] was sent to [[Azkaban]] for life by his father, his mother requested that her husband allow her to switch places to save their son. Barty Crouch Snr agreed to the switch out of [[love]] for his wife. The switch was made with Mrs Crouch and Barty Jnr each taking a dose of Polyjuice Potion with each other's hair. Mrs Crouch was careful in drinking her remainder of the potion, until she died, so she could keep the prisoners fooled by maintaining her false appearance.<ref name="GOF35">{{GOF|B|35}}</ref>
+
+[[File:Barty_polyjuice.gif|239x239px|thumb|left|[[Bartemius Crouch Junior|Barty Crouch Jnr]] (disguised as [[Alastor Moody]]) taking Polyjuice Potion]]
+
+{{Quote|Polyjuice Potion, Harry. You see the simplicity of it, and the brilliance. For Moody ever does drink except from his hip flask, he’s well known for it. The imposter needed, of course, to keep the real Moody close by, so that he could continue making the potion. You see his hair... The imposter has been cutting it off all year, see where it is uneven? But I think, in the excitement of tonight, our fake Moody might have forgotten to take it as frequently as he should have done... on the hour... every hour.... We shall see.|[[Albus Dumbledore]] explaining Barty Crouch Junior's use of the potion|Harry Potter and the Goblet of Fire}}
+Between September of 1994 and June of 1995, Barty Crouch Jnr used Polyjuice Potion to take on the appearance of [[Alastor Moody|Alastor "Mad-Eye" Moody]], Hogwarts' new [[Defence Against the Dark Arts]] professor, in order to enter [[Harry Potter]] into the [[Triwizard Tournament]] as part of [[Tom Riddle|Lord Voldemort]]'s plot to return to power. Throughout the year, Crouch stole the potion's ingredients from [[Severus Snape]]'s cupboards, leading Snape to suspect that Harry himself was behind the theft; he drank the potion periodically from Alastor Moody's hip flask, to prevent suspicions. In regards to the piece of the person he was impersonating, he also kept the real Moody within easy reach as a prisoner in his own trunk, as the potion could not impersonate deceased people. Later that year, when Crouch cornered Harry, he forgot to take the potion in excitement, and was eventually exposed.<ref name="GOF35">{{GOF|B|35}}</ref>
+
+===Plot against Dumbledore===
+{{Quote|Polyjuice Potion. He stole some of the Polyjuice Potion Slughorn showed us in our first Potions lesson... There aren’t a whole variety of students standing guard for Malfoy... it’s just Crabbe and Goyle as usual... Yeah, it all fits!|Harry Potter's realisation of Draco Malfoy's use of this potion|Harry Potter and the Half-Blood Prince}}After [[Horace Slughorn]] showed a cauldron of the Polyjuice Potion to his first [[Nastily Exhausting Wizarding Test|N.E.W.T.]] [[Potions (class)|Potions class]],<ref name="HBP9">{{HBP|B|9}}</ref> [[Draco Malfoy]] stole some, and forced [[Gregory Goyle]] and [[Vincent Crabbe]] to use it continuously throughout the [[1996–1997 school year]]. They would stand watch outside the [[Room of Requirement]] disguised as young girls while Malfoy repaired a [[Vanishing Cabinet]] inside, as part of his assignment to assassinate [[Albus Dumbledore]] and let [[Death Eaters]] into Hogwarts.<ref name="HBP21">{{HBP|B|21}}</ref><ref name="HBP24">{{HBP|B|24}}</ref>
+
+===Battle of the Seven Potters===
+{{Quote|Fourteen of us won't be flying to Tonks' parents. There will be seven Harry Potters moving through the skies tonight, each of them with a companion, each pair heading for a different safe house.|[[Alastor Moody]] on the plan to move Harry to safety in 1997|Harry Potter and the Deathly Hallows}}[[File:7-potters.jpg|239x239px|thumb|The Seven Potters]]
+
+The [[Order of the Phoenix]] made use of Polyjuice Potion in 1997 in order to safely remove Harry Potter from [[4 Privet Drive]] before his seventeenth birthday. Six people — [[Hermione Granger]], [[Ronald Weasley|Ron Weasley]], [[Fleur Delacour]], [[Fred Weasley|Fred]] and [[George Weasley]], and [[Mundungus Fletcher]] — impersonated Harry in order to act as diversions when they were ambushed by [[Death Eaters]] despite Harry's initial protests. Soon after, Harry himself used it to disguise himself as "Barny Weasley" at [[William Weasley|Bill Weasley]] and Fleur Delacour's wedding.<ref name="DH4">{{DH|B|4}}</ref>
+
+===Infiltration of the Ministry of Magic===
+[[File:Infiltration.png|249x249px|thumb|left|From left to right: [[Hermione Granger]] (disguised as Mafalda Hopkirk), [[Harry Potter]] (disguised as Albert Runcorn), and [[Ronald Weasley|Ron Weasley]] (disguised as Reginald Cattermole)]]
+
+The trio used Polyjuice that they stole from Moody to infiltrate the [[Ministry of Magic]] to search for [[Slytherin's Locket|Salazar Slytherin's Locket]] in September of 1997. [[Dolores Umbridge]] a high-raking Ministry official was in possession of the item. Harry, Ron, and Hermione disguised themselves as [[Albert Runcorn]], [[Reginald Cattermole]], and [[Mafalda Hopkirk]], respectively.<ref name="DH12">{{DH|B|12}}</ref> The plan, although full of mistakes and not as well thought out as previously believed, proved to be successful as the trio accomplished their mission. They retrieved the locket and escaped the Ministry with minimum injuries.<ref name="DH13">{{DH|B|13}}</ref>
+
+===Gringotts Break-In===
+{{Quote|Bellatrix Lestrange was striding across the lawn toward them, accompanied by Griphook... Though Harry knew it was Hermione, he could not suppress a shiver of loathing.|Hermione disguised as Bellatrix|Harry Potter and the Deathly Hallows }}[[File:Hermione & Ron In Disguise.jpg|250x250px|thumb|Hermione uses Polyjuice Potion to impersonate Bellatrix at Gringotts Bank, while Ron uses a cosmetic disguise]]
+
+The following year, Hermione used the remaining Polyjuice Potion again as part of the trio's plan to break in to [[Gringotts Wizarding Bank|Gringotts]] in order to retrieve [[Hufflepuff's Cup|Helga Hufflepuff's Cup]] from the [[Lestrange Vault]]. Using a strand of [[Bellatrix Lestrange]]'s hair that had fallen on her sweater while Bellatrix interrogated her at Malfoy Manor, Hermione assumed her form. However, there wasn't enough, so Ron had to simply use cosmetic design to disguise himself. The effects of the potion were washed away by the [[Thief's Downfall]] at the bank.<ref name="DH26">{{DH|B|26}}</ref>
+
+The lack of suspicion in anyone in all these incidents leads one to the understanding that Polyjuice Potion is very uncommon.
+
+===2020 Ministry theft===
+[[Albus Potter]], [[Scorpius Malfoy]], and [[Delphini|Delphi]] used Polyjuice Potion to disguise themselves as [[Ronald Weasley|Ron Weasley]], [[Harry Potter]], and [[Hermione Granger]] respectively and sneaked into the Ministry of Magic. Albus, as Ron, convinced Hermione to go elsewhere while they searched her office for a [[Time-Turner]]. Solving a series of puzzles from Hermione's bookcase, they finally discovered and stole the Time-Turner.<ref name="CC">{{CC}}</ref>
+
+==List of Polyjuice transformations==
+
+{| class="wikitable" border="1"
+! width="15%" |Disguised individual
+! width="15%" |Assumed identity
+! width="10%" |Date
+! width="30%" |Flavour/Appearance
+! width="30%" |Reason
+|-
+|[[Newton Scamander|Newt Scamander]]
+|[[Theseus Scamander]]
+|[[September]], [[1927]]
+|
+|To went to the [[French Ministry of Magic]] to find records about [[Credence Barebone]] and his true identity.<ref name="COGS">{{COG|S}}</ref>
+|-
+|[[Bartemius Crouch Junior|Barty Crouch Jnr]]
+|[[Bartemius Crouch Jnr's mother|Mrs Crouch]]
+| colspan="1" rowspan="2" |[[1982]]
+| colspan="1" rowspan="2" |
+|To switch places with his mother.<ref name="GOF35">{{GOF|B|35}}</ref>
+|-
+|[[Bartemius Crouch Jnr's mother|Mrs Crouch]]
+|[[Bartemius Crouch Junior|Barty Crouch Jnr]]
+|To switch places with her son.<ref name="GOF35"/>
+|-
+| colspan="1" rowspan="2" |[[Jacob's sibling]]
+|[[Severus Snape]] or [[Felix Rosier]]
+|[[1986–1987 school year]]
+<ref name="HM">{{HM|3|Polyjuice Potion}}</ref>
+|
+|To get [[Merula Snyde]] to confess that she stole [[Penny Haywood]]'s potion.<ref name="HM"/>
+|-
+|[[Patricia Rakepick]]
+|[[1989–1990 school year]]
+|
+|Secretly attended a meeting of [[R]], but was caught by the real Rakepick.<ref>{{HM|6|35}}</ref>
+|-
+|[[Harry Potter]]
+|[[Gregory Goyle]]
+| colspan="1" rowspan="3" |[[1992]]
+<ref name="COS12">{{COS|B|12}}</ref>
+|The potion tasted like "overcooked [[cabbage]]" to Harry<ref name="COS12">{{COS|B|12}}</ref> and looked like "bogies", according to Hermione.<ref name="DH4">{{DH|B|4}}</ref>
+| colspan="1" rowspan="2" |To get into the [[Slytherin Dungeon|Slytherin common room]] to spy on [[Draco Malfoy]].
+|-
+|[[Ronald Weasley|Ron Weasley]]
+|[[Vincent Crabbe]]
+|The potion was the colour of murky brown. Tasted like bogies.<ref name="COS12"/>
+|-
+|[[Hermione Granger]]
+|Humanoid [[cat]]<ref name="COS12"/>
+|It turned a sick sort of yellow.<ref name="COS12">{{COS|B|12}}</ref>
+|To get into the [[Slytherin Dungeon|Slytherin common room]] to spy on [[Draco Malfoy]], but the hair sample Hermione obtained belonged to [[Millicent Bulstrode's cat]] instead of [[Millicent Bulstrode]] herself.<ref name="COS12"/>
+|-
+|[[Bartemius Crouch Junior]]
+|[[Alastor Moody]]
+|[[1994]]-[[1995]]<ref name="GOF35">{{GOF|B|35}}</ref>
+|
+|Orders from Voldemort to infiltrate [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="GOF35"/>
+|-
+|[[Vincent Crabbe]] and [[Gregory Goyle]]
+|Numerous disguises
+|[[1996]]-[[1997]]<ref name="HBP21">{{HBP|B|21}}</ref><ref name="HBP24">{{HBP|B|24}}</ref>
+|
+|To keep lookout for [[Draco Malfoy]] while he worked on fixing the [[Vanishing Cabinet]] inside the [[Room of Requirement]].<ref name="HBP21"/>
+|-
+|[[Ronald Weasley|Ron Weasley]], [[Hermione Granger]], [[Mundungus Fletcher]], [[Fleur Delacour]], [[Fred Weasley]] and [[George Weasley]]<ref name="DH4"/>
+|[[Harry Potter]]
+|[[27 July]], [[1997]]
+|The potion was a "clear, bright gold" in colour and appeared "much tastier" than both Crabbe's and Goyle's.<ref name="DH4">{{DH|B|4}}</ref>
+|To transport [[Harry Potter]] safely from [[4 Privet Drive]] to [[The Burrow]].<ref name="DH4"/>
+|-
+|[[Harry Potter]]
+|A [[Red-haired Muggle boy]]<ref name="DH8"/>
+|[[1 August]], [[1997]]
+| colspan="1" rowspan="2" |
+|As a disguise at the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]].<ref name="DH8">{{DH|B|8}}</ref>
+|-
+|[[Harry Potter]]
+|[[Albert Runcorn]]
+<ref name="DH12"/>
+| colspan="1" rowspan="3" |[[2 September]], [[1997]]<ref name="DH12">{{DH|B|12}}</ref>
+| colspan="1" rowspan="3" |To get in the [[British Ministry of Magic|Ministry of Magic]] without the use of an invisibility cloak.<ref name="DH12"/>
+|-
+|[[Hermione Granger]]
+|[[Mafalda Hopkirk]]
+|The potion was a "pleasant [[Wikipedia:Heliotrope (color)|heliotrope]] colour".<ref name="DH12">{{DH|B|12}}</ref>
+|-
+|[[Ronald Weasley|Ron Weasley]]
+|[[Reginald Cattermole]]
+<ref name="DH12"/>
+| colspan="1" rowspan="3" |
+|-
+|[[Hermione Granger]]
+|[[Non-magic people|Muggle]] woman
+| colspan="1" rowspan="2" |[[24 December|December 24]], 1997<ref name="DH16">{{DH|B|16}}</ref>
+| colspan="1" rowspan="2" |To safely navigate [[Godric's Hollow]].<ref name="DH16"/>
+|-
+|[[Harry Potter]]
+|Muggle man<ref name="DH16"/>
+|-
+|[[Hermione Granger]]
+|[[Bellatrix Lestrange]]
+|1 May, [[1998]]
+|The potion tasted "disgusting, worse than [[Gurdyroot]]s".<ref name="DH26">{{DH|B|26}}</ref>
+|Used to access the [[Lestrange Vault|Lestranges' vault]] in Gringotts.<ref name="DH26"/>
+|-
+|[[Albus Potter]]
+|[[Ronald Weasley|Ron Weasley]]
+| colspan="1" rowspan="3" |[[1 September]], [[2020]]<ref name="CC">{{CC}}</ref>
+|
+| colspan="1" rowspan="3" |<span style="font-size:14px;font-weight:normal;line-height:22px;">Used to steal a Ministry [[Time-Turner]].</span>
+|-
+|[[Scorpius Malfoy]]
+|[[Harry Potter]]
+|<span style="font-weight:normal;">The potion was a "clear, bright gold" in colour.</span>
+|-
+|[[Delphini]]
+|[[Hermione Granger]]
+|
+|}
+
+==Media==
+<gallery widths="200" position="center" spacing="small" captionalign="center" hideaddbutton="true">
+File:Harry Potter and the Deathly Hallows Part 1 - Seven Harrys (2010) HD|The Seven Potters
+</gallery>
+
+
+==Etymology==
+The name "Polyjuice" probably comes from the Greek ''poly'', meaning "many". This is supported by the fact that in the Spanish and Brazilian Portuguese translations, it is called, respectively, ''"multijugos''" and ''"polissuco,''" both literally meaning "multi juice."
+
+==Behind the scenes==
+[[File:Hermione_brewing_Polyjuice_Potion_pop_vinyl.jpg|thumb|[[Hermione Granger]] brewing Polyjuice Potion as a [[POP! Vinyl]]]]
+[[File:HermioneCatPOP.png|thumb|Hermione Granger as a [[cat]] after ingesting Polyjuice Potion with the hair of [[Millicent Bulstrode's cat]] as a [[POP! Vinyl]]]]
+*The various adaptations of the series add multiple ingredients not present in the canonical potion recipe, such as [[Sal Ammoniac]], [[Mercury and Mars]], [[Cherry (fruit)|cherries]] and even [[urine]]. Notably, however, the instructions given in the ''Perfect Potions'' game in the ''[[The Road to Hogwarts Sweepstakes]]'' include only those ingredients originally given in the novel.
+*In {{COS|FA}}, ingredients such as pulverised [[Sal Ammoniac]], crude [[Antimony]] and [[Salpeter]] are listed in ''[[Moste Potente Potions]]'' as those required to brew it. These ingredients, however, are not mentioned under [[J. K. Rowling]]'s thoughts for the Polyjuice Potion on the [[Wizarding World (website)|Wizarding World]] website.
+*[[Primum ens Melissae]] is created during the process of brewing this potion.
+*Despite its difficulty of brewing and overall rareness of its ingredients, Polyjuice Potion is used and mentioned quite a few times. The [[Trio]] uses it numerous times, particularly in {{DH}}, as do members of the Order of the Phoenix. By the end of the series, almost every single main or supporting character has used it at least once.
+*While previous evidence seemed to suggest that the effects of a single dose last for an hour or longer if a larger dose is used, [[Wizarding World (website)|Wizarding World]] indicates that the length of the effect is based entirely on the quality of brewing, ranging anywhere from ten minutes to twelve hours.<ref name="jknew" />
+*In ''Harry Potter and the Deathly Hallows'', Ron comments "''I knew Ginny was lying about that [[tattoo]]''" after transforming into Harry and observing his bare chest, suggesting that the Polyjuice Potion is capable of replicating cosmetic changes made to a person's body. It is possible, however, that Ron was simply being facetious.
+*In the film adaptions in which Polyjuice Potion is used:
+**In the film adaptations of ''[[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]'', {{DH|F1}}, and {{DH|F2}}, Polyjuice Potion does not cause the drinker's voice to change as well as their appearance. This was most likely done deliberately by the filmmakers to avoid confusing the audience due to the change in appearance. However, Barty Crouch Jnr's voice changes to Moody's in {{GOF|F}}. However, it is possible he could have just been imitating Moody's voice or there was no need to make this change since the fake Moody was not exposed as Crouch Jnr until the end of the film. It does say, however, in the [[Harry Potter and the Chamber of Secrets|''Chamber of Secrets'' book]], that Harry, Ron and Hermione's voices changed after taking it. It also seemed like it was very painful when Crouch changed back (presumably because he was constantly drinking it over the year). Also in the book Crouch was exposed because he forgot to take potion, while in the movie he ran out of potion.
+**In {{DH|F1}}, before the [[Battle of the Seven Potters]], [[Alastor Moody]] warns the people taking the potion that it tastes like "[[goblin]] piss", suggesting the flavour does not change according to the person intended to be imitated, and that it instead tastes disgusting in the course of the film series. Indeed, in {{GOF|FA}}, [[Severus Snape]] sniffed the opening of [[Alastor Moody's hip flask|Moody's hip flask]] and was able to discern it was Polyjuice Potion right away.
+**In {{DH|F1}}, Harry and Hermione do not disguise themselves with Polyjuice Potion for their trip to [[Godric's Hollow]] on [[24 December]], [[1997]].
+**In {{DH|F1}}, Harry does not use the Polyjuice Potion to change into a red haired [[Non-magic people|Muggle]] boy for [[Wedding of William Weasley and Fleur Delacour|Bill and Fleur's wedding]]; instead, he stays himself.
+*In the PlayStation 2, GameCube and Xbox [[Harry Potter and the Prisoner of Azkaban (video game)|video game adaptations]] of {{POA}}, [[Draco Malfoy]] uses the potion to turn into Ron to trick Harry into following him into a trap while trying to find [[Sirius Black]]. He even says "''Polyjuice Potion......I think we're even now''" suggesting that he found out that he and Ron used the potion to disguise as his two lackeys to get into the Slytherin Common Room.
+*In {{LEGO|Y1}}, Polyjuice Potion is used to turn into any playable character you have unlocked (e.g. if you needed to get into the Slytherin Common Room, you could use Polyjuice to turn into Voldemort, Marcus Flint, or any other Slytherin). It cannot use the potion until the player has completed the third level of The Chamber Of Secrets, "Crabbe and Goyle." Ingredients to make the potion include hair, two cherries, and a green apple. The potion is found rarely throughout the main-story line, but is often found in and around Hogwarts and in Bonus Levels. You know it is a Polyjuice Cauldron because they are the only potion's cauldron that is gold. Outside of [[Madam Malkin's Robes for All Occasions]] is one that you do not have to make. This cauldron is here so that the player can test out characters that they have created and/or purchased.
+**Polyjuice Potion also returns in {{LEGO|Y2}} wherein it is used in the same manner as it was in the first game. However, in this game Polyjuice Potion can be found in all cauldrons during free-play, and is unlocked after completing the first level of The Deathly Hallows Part 1, "The Seven Potters".
+
+===Author's comments===
+*"''I remember creating the full list of ingredients for the Polyjuice Potion. Each one was carefully selected. Lacewing flies (the first part of the name suggested an intertwining or binding together of two identities); leeches (to suck the essence out of one and into the other); horn of a Bicorn (the idea of duality); knotgrass (another hint of being tied to another person); fluxweed (the mutability of the body as it changed into another) and Boomslang skin (a shedded outer body and a new inner).''The fact that Hermione is able to make a competent Polyjuice Potion at the age of twelve is testimony to her outstanding magical ability, because it is a potion that many adult witches and wizards fear to attempt."
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{GOF|G}} {{C|Effects seen}}
+*{{OOTP}} {{Mention}}
+*{{HBP}}
+*{{HBP|F}} {{Mention}}
+*{{HBP|G}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}} {{C|Effects seen}}
+*{{CC}}
+*{{CC|P}}
+*{{COG|S}}
+*{{COG}}
+*{{AM}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{HPV|CR}}
+*{{HM}} {{Mention}}
+*{{PAS}} {{Mention}}
+*''[[The Road to Hogwarts Sweepstakes]]''
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{Potions Club}}
+[[de:Vielsaft-Trank]]
+[[es:Poción Multijugos]][[fr:Polynectar]]
+[[it:Pozione Polisucco]]
+[[ru:Оборотное зелье]]
+[[pl:Eliksir Wielosokowy]]
+[[pt-br:Poção Polissuco]]
+[[Category:Human Transfigurations]]
+[[Category:Plot to open the Chamber of Secrets]]
+[[Category:Polyjuice Potion]]
+[[Category:Potions]]

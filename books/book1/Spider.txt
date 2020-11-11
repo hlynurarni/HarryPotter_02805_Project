@@ -1,0 +1,116 @@
+{{Spoiler|HL|PAS|WU|HM}}
+{{Real world subject}}
+{{Creature infobox
+|image = [[File:Spiders.JPG|250px]]
+|name = Spider
+|skin = 
+|eyes = Black
+|hair = Varies
+|feathers = 
+|related = *[[Acromantula]]
+*[[Scorpion]]
+|native = Worldwide
+|alias = 
+|height = Varies
+|length = Varies
+|wingspan = 
+|mortality = Mortal
+|distinction = *Eight legs and eyes
+*Pincers
+*Carnivorous
+*Some species [[Poison|venomous]]
+|affiliation = 
+|class = Varies
+|status = Extant
+}}
+{{Quote|If you must know, when I was three, [[Fred Weasley|Fred]] turned my - my teddy bear into a great big filthy spider because I broke his [[toy broomstick]]... You wouldn't like it either if you'd been holding your bear and suddenly it had too many legs and... |[[Ronald Weasley|Ron Weasley]] on the origin of his Arachnophobia|Harry Potter and the Chamber of Secrets}}
+
+'''Spiders''' are eight-legged and eight-eyed arachnids.<ref name="wiki">{{Wikilink|Spider}}</ref>
+
+==Description==
+[[File:Spiders legs.png|thumb|Spider legs]]
+[[File:Acromantula.png|thumb|The Acromantula]]
+They are very common and come in many species, varying from region to region; all are carnivorous and some are [[Poison|venomous]], but for the most part they are relatively harmless and can sometimes be used as a [[potion]] ingredient.<ref name="COS9">{{COS|B|9}}</ref><ref name="PM">{{PM}}</ref>
+
+The largest species of spider is the [[Acromantula]], a [[Wizardkind|wizard]] bred-species which also has the ability to speak, along with being extremely dangerous carnivores with a taste for [[human]] [[flesh]].<ref name="FBR">{{FB|R}}</ref> Spiders are known for spinning webs. The webs of the Acromantula are large and dome-shaped.<ref name="COS15">{{COS|B|15}}</ref> Spiders of all sizes fear the [[Salazar Slytherin's Basilisk|Basilisk]] above all other things, which caused those at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] to flee into the [[Forbidden Forest]] in the [[1992–1993 school year]].<ref name="COS9"/><ref name="COS15">{{COS|B|15}}</ref>
+
+The [[Spider repelling spell]] can be used to repel and blast aggressive spiders away from an individual; indeed, this spell is particularly useful when repelling [[Acromantula]]s.<ref name="COSF">{{COS|F}}</ref><ref name="HMy4ch14">{{HM|4|14|pt}}</ref><ref name="HM416">{{HM|4|16}}</ref> Spiders often inhabit dark environments, like the [[4 Privet Drive|cupboard under the stairs]],<ref name="PS2">{{PS|B|2}}</ref> [[The Burrow|Broomsheds]], and even the [[Forbidden Forest]].<ref name="COS15"/>
+
+==History==
+[[File:Boggart morph.gif|250px|thumb|A [[Boggart]] taking the form of a giant spider, to represent [[Ronald Weasley]]'s greatest fear]] 
+[[Ronald Weasley]] was well-known for his {{Wplink|Arachnophobia}}, the irrational fear of spiders and arachnids. However, he was fine if they were dead and he simply had to cut them up during potions.<ref name="COS9" /> During the [[1993-1994 school year]], Ron's [[boggart]] manifested in the form of a giant spider during a [[Defence Against the Dark Arts]] lesson with [[Professor]] [[Remus Lupin|Lupin]].<ref name="POA7">{{POA|B|7}}</ref>
+
+[[Cupboard Under the Stairs|The Cupboard under the stairs]] was said to have a large amount of spiders living in it alongside Harry Potter, who did not mind them in the least. When [[Vernon Dursley]] bellowed "Silence!" at Harry when the boy interrupted him, a couple of spiders fell from the ceiling in response, likely startled by the noise.<ref name="PS2"/>
+
+In [[1992]], spiders fled Hogwarts when a [[Serpent of Slytherin|Basilisk]] was unleashed from the [[Chamber of Secrets]]. [[Harry Potter]], Ron and [[Hermione Granger]] notched their strange behaviour<ref name="COS9" /> and Hermione used it to piece together what was petrifying people in the school.<ref name="COS16">{{COS|B|16}}</ref>
+
+The Tarantula is a family of spiders, examples of which can be found for sale in [[Knockturn Alley]].<ref name="PS6">{{PS|B|6}}</ref> In [[Borgin and Burkes]], there was a cage that had living, huge black spiders in it.<ref name="COS4">{{COS|B|4}}</ref>
+
+[[File:Spider.jpg|200px|thumb|right|[[Ronald Weasley|Ron Weasley]]'s fear of spiders]]
+[[Bartemius Crouch Junior|Barty Crouch Jnr]], [[Polyjuice Potion|disguised]] as [[Alastor Moody]], taught his [[fourth year]] [[Defence Against the Dark Arts]] class the use of the [[Unforgivable Curses]], performing one of each of the three [[curse]]s on one of each of [[Alastor Moody's spiders|three spiders]].<ref name="GOF14">{{GOF|B|14}}</ref> In [[1995]], the trio found spiders as big as saucers in a dresser in the dining room of [[12 Grimmauld Place]], with Ron leaving the room to make a cup of tea and did not return until they were gone, due to his aforementioned Arachnophobia.<ref name="OOTP6">{{OOTP|B|6}}</ref>
+
+[[Spindle's Lick'O'Rish Spiders]] were a wizarding confection shaped like spiders.<ref name="POAF">{{POA|F}}</ref>
+
+==Types of Spiders==
+*[[Acromantula]]
+*[[Black widow]]
+*[[Brown recluse]]
+*[[Cocoon Spider]]
+*[[Giant Black Spider]]
+*[[Funnelweb spider]]
+*[[Large spider]]
+*[[Redback spider]]
+*[[Tarantula]]
+*[[Whitetail Spider]]
+
+==Behind the scenes==
+[[File:PAS Spider.png|thumb|right|Spiders as seen in {{PAS}}]]
+*In {{GOF|FA}}, the three [[Unforgivable Curses]] are demonstrated in the [[Defence Against the Dark Arts]] class on an [[Wikipedia:Amblypygi|Amblypygid]] (tailless whip scorpion), which is in fact not a true spider but is a member of the same class.
+*[[Alastair]] was a spider found the first draft of the [[Harry Potter and the Philosopher's Stone (film)|film]] of {{PS}}. He lived in the [[Cupboard Under the Stairs]] and Harry had befriended him, not having any other friends.<ref>[http://io9.com/5820032/ ''The Lost Harry Potter Character You Never Got to Meet''], [http://io9.com io9]</ref>
+*The spider that Ron faced off in {{POA|FA}} resembles closely to a [[Black widow]], with the exception of its size.
+*At one point of the film adaptation, Ron wakes up from a nightmare in which spiders presumably tried to make him tap dance. Harry, who was pouring over the [[Marauder's Map|Marauders Map]] at the time, told Ron to, "tell those spiders," that he didn't want to dance, and he promptly fell back asleep.
+
+==Appearances==
+{{Imagecat|Images of spiders}}
+*{{PS}} {{1st}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{OOTP}}
+*{{HBP}}
+*{{HBP|F}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{FB|R}}
+*{{HPPU}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{JKRS}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{HPFJ}}
+*{{TCG}}
+*{{LEGO}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*{{HL}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}[[es:Araña]]
+[[fr:Araignée]]
+[[Category: Boggart forms]]
+[[Category:Potion ingredients]]
+[[Category:Spiders]]

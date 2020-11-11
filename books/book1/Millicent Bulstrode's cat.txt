@@ -1,0 +1,40 @@
+{{conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Millicent Bulstrode's cat
+|born = Pre [[1992]]
+|died = 
+|alias = 
+|title = 
+|species = [[Cat]]<ref name="COS12"/>
+|gender = 
+|height = 
+|hair = Black<ref name="COS12"/>
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Millicent Bulstrode]] (owner)<ref name="COS12"/>
+}}
+{{Quote|It was a c-[[cat hair]]! M-[[Millicent Bulstrode]] m-must have a cat! And the [[Polyjuice potion|p-potion]] isn't supposed to be used for animal transformations!|Incorrect use of the [[Polyjuice potion]]|Harry Potter and the Chamber of Secrets}}
+This '''cat''' was a pet [[cat]] of the [[Slytherin]] student [[Millicent Bulstrode]]. Millicent had it with her as her permitted pet at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1992]].<ref name="COS12"/>
+
+==Biography==
+[[File:Millicents_cat.jpg|thumb|[[Hermione Granger|Hermione]] partially transformed into the cat after accidentally adding the [[Cat hair|cat's hair]] to her [[Polyjuice Potion]]]]
+[[Hermione Granger]] plucked a small [[cat hair|hair of the cat]] from Millicent Bulstrode's [[robes]], thinking it was hers. She added the cat's hair to the [[Polyjuice Potion]] she was brewing, which resulted in her partial animal [[Trans-Species Transformation|transformation]] after she drank it.<ref name="COS12">{{COS|B|12}}</ref>
+
+==Behind the scenes==
+*In {{LEGO|Y1}}, [[Hermione Granger|Hermione]] did not realise she had become the cat until [[Ronald Weasley|Ron]] and [[Harry Potter|Harry]] pointed it out.<ref>{{LEGO|Y1}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{COS|F}} {{Mention}}
+*{{COS|G}} {{Mention}}
+*{{LEGO|Y1}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[fr:Chat de Millicent Bulstrode]]
+[[pl:Kot Millicenty Bulstrode]]
+[[Category:Individual cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Polyjuice Potion]]

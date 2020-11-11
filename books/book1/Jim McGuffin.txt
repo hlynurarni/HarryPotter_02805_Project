@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Jim McGuffin
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PS1">{{PS|B|1}}</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS1" />
+|gender = Male<ref name="PS1" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Meteorologist<ref name="PS1" />
+|house = 
+|loyalty = 
+}}
+{{Quote|And now, over to Jim McGuffin for the weather. Going to be any more showers of owls, tonight, Jim?''"<br />"''Well, Ted, I don’t know about that, but it’s not only the owls that have been acting oddly today. Viewers as far apart as [[Kent]], [[Yorkshire]], and [[Dundee]] have been phoning in to tell me that instead of the rain I promised yesterday, they’ve had a downpour of shooting stars! Perhaps people have been celebrating [[Bonfire Night]] early — it’s not until next week, folks! But I can promise a wet night tonight.|Ted and Jim McGuffin|Harry Potter and the Philosopher's Stone}}
+'''Jim McGuffin''' was a [[Non-magic people|Muggle]] [[television]] weatherman in [[1981]], working alongside [[Ted]]. McGuffin had predicted [[Water|rain]] for [[1 November|November 1st]], but due to the downfall of [[Tom Riddle|Lord Voldemort]] and celebrations by the [[Wizarding world|Wizarding community]], his forecasted rain became shooting stars across some areas of [[Great Britain]]. Obviously unaware of the true reason, McGuffin wondered on air if people had been [[Fall of Lord Voldemort celebrations|celebrating]] [[Bonfire Night]] early. [[Vernon Dursley]] watched the broadcast, prompting him to ask his wife, [[Petunia Dursley|Petunia]], if the peculiar weather had anything to do with her [[Lily J. Potter|sister's]] "[[Wizardkind|people]]."<ref name="PS1" />
+
+==Behind the scenes==
+*In fiction, a '''MacGuffin''' (sometimes '''McGuffin''' or '''maguffin''') is a plot device in the form of some goal, desired object, or other motivator that the protagonist pursues, often with little or no narrative explanation. The specific nature of a MacGuffin is typically unimportant to the overall plot. The most common type of MacGuffin is a person, place, or thing (such as money or an object of value). Other more abstract types include victory, glory, survival, power, love, or some unexplained driving force.<ref name="Wikipedia">[[Wikipedia:MacGuffin|MacGuffin on Wikipedia]]</ref>
+
+==Appearances==
+*{{PS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Jim McGuffin]]
+[[es:Jim McGuffin]]
+[[fr:Jim McGuffin]]
+[[it:Jim McGuffin]]
+[[pl:Jim McGuffin]]
+[[pt-br:Jorge Mendes]]
+
+{{DEFAULTSORT:McGuffin, Jim}}
+[[Category:British individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Meteorologists]]
+[[Category:Muggles]]

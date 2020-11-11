@@ -1,0 +1,33 @@
+{{Youmay|the boy who attended the 1994 Quidditch World Cup|[[Kevin (disambiguation)|another person with the same name]]}}
+{{Individual infobox
+|name = Kevin
+|born = c. [[1992]]<ref>[[Harry Potter]] believed he was "no older than two" in the summer of [[1994]]</ref>
+|species = [[Human]]<ref name="GOF7"/>
+|gender = Male<ref name="GOF7"/>
+|family = *[[Kevin's mother|Mother]]<ref name="GOF7"/>
+*[[Kevin's father|Father]]<ref name="GOF7"/>
+|loyalty = [[Kevin's family]]<ref name="GOF7"/>
+|theme = wizard
+}}
+{{Quote|You bust slug! You bust slug!|Kevin to his mother at the Quidditch World Cup|Harry Potter and the Goblet of Fire}}
+'''Kevin''' was a young [[Wizardkind|wizard]] who attended the [[Quidditch World Cup]] final in [[1994]] with his parents. He played with his father's [[wand]] at the campsite, enlarging a slug until his mother caught and stopped him. When she accidentally stepped on the magically enlarged slug, he cried out, ''"You bust slug! You bust slug!"''<ref name="GOF7">{{GOF|B|7}}</ref>
+
+==Etymology==
+The name "Kevin" is the anglicised form of the Irish name Caoimhín, derived from the older Irish Cóemgein, composed of the Old Irish elements cóem "kind, gentle, handsome" and gein "birth". Saint Caoimhín established a monastery in Glendalough, Ireland in the 6th century and is the patron saint of Dublin. It became popular in the English-speaking world outside of Ireland in the 20th century.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[de:Kevin]]
+[[es:Kevin]]
+[[ru:Кевин]]
+[[pl:Kevin]]
+[[fr:Kevin]]
+[[nl:Kevin]]
+[[Category:1990s births]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Kevin's family]]
+[[Category:Males]]
+[[Category:Underage magic]]
+[[Category:Wizards]]

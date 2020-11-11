@@ -1,0 +1,65 @@
+{{Youmay|the [[Hufflepuff]] [[Seeker]]|[[Felix Summerbee]], the inventor of [[Cheering Charm]]s}}
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:Summerby.jpg|250px]]
+|name = Summerby
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Seeker]]<ref name="OOTP26"/>
+|signature = 
+|species = [[Human]]<ref name="OOTP26"/>
+|gender = Male<ref name="OOTP26"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="OOTP26"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP26"/>
+**[[Hufflepuff]]<ref name="OOTP26"/>
+**[[Hufflepuff Quidditch team]]<ref name="OOTP26"/>
+}}
+'''Summerby''' was a [[Wizardkind|wizard]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]].<ref name="OOTP26"/>
+
+==Biography==
+He was a [[Hufflepuff]] student who replaced [[Cedric Diggory]] as their [[Quidditch]] [[Quidditch team|team]]'s [[Seeker]] at [[Hogwarts School of Witchcraft and Wizardry]] after Diggory's tragic death.<ref name="OOTP26">{{OOTP|B|26}}</ref>
+
+During a match against [[Gryffindor]] in [[1996]], he was beaten to the [[Golden Snitch]] by [[Ginevra Weasley|Ginny Weasley]], although Ginny said it was partly because he had a [[Common cold|cold]] and sneezed at the wrong time. Ginny Weasley replaced [[Harry Potter]] following his life-long ban from Quidditch by [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts High Inquisitor|High Inquisitor]] [[Dolores Umbridge]] (although this ban was immediately lifted when Umbridge was removed from Hogwarts).<ref name="OOTP26"/>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{HBP|G}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Cedric Diggory]]
+|position=[[Seeker]] of the [[Hufflepuff Quidditch team]]
+|years=[[1995]]-?
+|successor=Unknown
+}}
+{{End box}}
+
+{{Hogwarts quidditch positions}}
+
+[[de:Summerby]]
+[[fr:Summerby]]
+[[pl:Summerby]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Seekers]]
+[[Category:Wizards]]

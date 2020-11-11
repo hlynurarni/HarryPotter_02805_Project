@@ -1,0 +1,38 @@
+{{Pet individual infobox
+|image = [[File:Malfoymannor.jpg|250px]]
+|name = Albino peacock
+|born = Pre [[1997]]
+|died = 
+|alias = 
+|title = 
+|species = [[Peacock]]
+|gender = Male
+|height = 
+|hair = 
+|feathers = White
+|eyes = Black
+|skin = 
+|family = 
+|loyalty = [[Lucius Malfoy]] (owner)<ref name="dh1" />
+}}
+{{Quote|He always did well for himself, Lucius. ''Peacocks''.|[[Corban Yaxley|Yaxley]] on seeing the resident fauna at [[Malfoy Manor]]|Harry Potter and the Deathly Hallows}}
+An '''albino peacock''' is a male peafowl, distinctive for its pure white colour due to total or partial lack of [[Wikipedia:Biological pigment|biochromes]]. 
+
+==History==
+[[Lucius Malfoy]] kept at least one on the grounds of [[Malfoy Manor]].<ref name="dh1">{{DH|B|1}}</ref><ref>{{DH|B|23}}</ref> It was on top of the hedge when [[Severus Snape]] and [[Corban Yaxley|Yaxley]] arrived at the Manor for a [[Death Eaters|Death Eater]] meeting in July [[1997]]. It rustled the bushes as it strutted, alarming Yaxley, who drew his [[Yaxley's wand|wand]], but put it away once he saw the noise's source.<ref name="dh1" />
+
+==Behind the scenes==
+*Several colour varieties of [[Wikipedia:Peafowl|peafowl]] have been bred, including white.<ref name="peafowlvarieties">"[http://database.amyspeacockparadise.com/white.shtml White Peafowl]" on the Peafowl Varieties Database</ref> This differs from [[Wikipedia:Albinism|albinism]], which would cause lack of pigmentation not just in the feathers, but in the skin and eyes as well.<ref name="peafowlvarieties" /><ref>"[http://en.wikipedia.org/wiki/Albinism Albinism]" on Wikipedia</ref> However, in Chapter 23 of {{DH}}, the peacock at Malfoy Manor is explicitly referred to as "albino".
+*Many have argued that this peacock was, in fact, [[Lucius Malfoy]]'s [[Patronus Charm|Patronus]]. It was thought that this proved Lucius was, in point of fact, not a true [[Death Eaters|Death Eater]], as Death Eaters cannot produce Patronuses. Despite this, [[J. K. Rowling]] confirmed in an interview that this was merely an albino peacock.
+*In {{LEGO|Y2}}, [[Lucius Malfoy]] can control a pet peacock, although it is blue in colour.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Lucius Malfoy's possessions]]
+[[Category:Males]]
+[[Category:Malfoy family pets]]
+[[Category:Peacocks]]

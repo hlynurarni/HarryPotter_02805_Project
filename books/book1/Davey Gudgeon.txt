@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Davey Gudgeon
+|born = c. [[1960s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POA10"/>
+|gender = Male<ref name="POA10"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Gladys Gudgeon]] (possibly)
+*[[Galvin Gudgeon]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POA10"/>
+*[[Gudgeon family]]<ref name="POA10"/>
+}}
+'''Davey Gudgeon''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] in the [[1970s]]. He got his face scarred and almost lost his eye trying to get close enough to the [[Hogwarts Whomping Willow|Whomping Willow]] to touch its trunk. For their own safety (and possibly the Willow's as well), students were forbidden to go near the tree since that event occurred.<ref name="POA10">{{POA|B|10}}</ref>
+
+==Behind the scenes==
+*It is possible that Davey sustained other injuries, because it is never mentioned that Davey ''did'' lose an eyeball.
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Gudgeon, Davey}}
+[[de:Davey Gudgeon]]
+[[fr:Dave Goujon]]
+[[pl:Davey Gudgeon]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Gudgeon family|Davey]]
+[[Category:Hogwarts students during the Marauders' era]]
+[[Category:Males]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

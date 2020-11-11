@@ -1,0 +1,71 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Jack Sloper
+|born = c. Pre [[31 August]] [[1984]]<ref>He must have at least been in his second year at the start of the 1995-1996 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *Sloper family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+'''Jack Sloper''' was a [[Wizardkind|wizard]] and substitute [[Beater]] on the [[Gryffindor Quidditch team]] in [[1995]]. Along with [[Andrew Kirke]], he took over for [[Fred Weasley]] and [[George Weasley]]. Jack was unsuccessful in rejoining the team the next year.
+
+==Biography==
+He and Andrew were both described as incompetent by [[Angelina Johnson]];<ref name="OOTP21">{{OOTP|B|21}}</ref> this was particularly evident when Jack knocked himself unconscious with his own bat.<ref name="OOTP29">{{OOTP|B|29}}</ref> 
+
+He expressed interest in continuing to play for Gryffindor, but was replaced the following year. Jack later delivered a message for [[Albus Dumbledore]] to [[Harry Potter]] with the details of their first lesson. He also asked Harry when tryouts would be held for Quidditch.<ref name="HBP9">{{HBP|B|9}}</ref>
+
+==Etymology==
+''Jack ''derives from ''John, ''which means "God (Herbrew) is gracious".
+
+''Sloper ''could come from the English word'' slope,''a surface in which one side is higher than the other. This could relate to his inability to do things right, since slopes have been described as very hard to climb for some people.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{HBP}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+{{Character-stub}}
+
+{{DEFAULTSORT:Sloper, Jack}}
+
+[[de:Jack Sloper]]
+[[de2:Jack Sloper]]
+[[es:Jack Sloper]]
+[[fr:Jack Sloper]]
+[[it:Jack Sloper]]
+[[nl:Jacques Sippe]]
+[[no:Jonny Slumper]]
+[[pl:Jack Sloper]]
+[[ru:Джек Слоупер]]
+[[sv:Jack Sloper]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Wizards]]

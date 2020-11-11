@@ -1,0 +1,128 @@
+{{Spoiler|HL|WU}}
+{{Creature infobox
+|image = [[File:Inferius (Concept Artwork).jpg|250px]]
+|name = Inferius
+|skin = Pale-white<ref name="HBP26"/>
+|eyes = Cloudy white<ref name="HBP26"/>
+|hair = Varies
+|feathers = 
+|related = 
+|native = Worldwide
+|alias = 
+|height = Varies
+|length = 
+|wingspan = 
+|mortality = Already dead
+|distinction = [[Necromancy|Reanimated]] corpse<ref name="HBP26"/>
+|affiliation = *[[Tom Riddle|Lord Voldemort]]<ref name="HBP26"/>
+*[[Dark Wizard]]s<ref name="HBP4">{{HBP|B|4}}</ref><ref name="HBP21"/><ref name="DH3">{{DH|B|3}}</ref>
+*[[Haitian National Quidditch team]]<ref name="PM"/>
+|class = 
+|status = Extant
+}}
+{{Quote|They are corpses, dead bodies that have been bewitched to do a Dark wizard's bidding. Inferi have not been seen for a long time, however, not since Voldemort was last powerful... He killed enough people to make an army of them, of course.|Description of an Inferi|Harry Potter and the Half-Blood Prince}}
+
+An '''Inferius''' (pl. '''Inferi''') is a dead body, reanimated by a [[Dark Wizard]]'s spell. They are similar, but intrinsically distinct from a [[zombie]]. Inferi are created through the magical branch of [[Dark Arts]] called [[Necromancy]],<ref name="BB">{{TBB}}</ref> which is the art of raising the dead. The spells used to reanimate the corpse are complex.<ref name="PM">{{WW|inferi}}</ref>
+
+==History==
+===Early history===
+In [[1899]], it was mentioned that the [[Dark Wizard]], [[Gellert Grindelwald]], sought to create an army of Inferi, and believed that the [[Resurrection Stone]] could grant him such powers. It is unknown as to whether he succeeded, though his conception of the stone's abilities was in fact incorrect, as it brings back souls from the realm of the dead as more-than-ghost but less-than-alive state, not as a living body.<ref name="DH35">{{DH|B|35}}</ref>
+
+===First Wizarding War===
+[[File:Half-blood-prince-Inferi4.jpg|240px|thumb|left|Voldemort's inferi, guarding the Horcrux cave]]
+
+During the [[First Wizarding War]], Voldemort was known to have created an army of Inferi from the large number of people he murdered. He placed such an army within the lake of [[Salazar Slytherin's Locket]]'s [[The Cave|hiding place]].<ref name="HBP26"/>
+
+The Inferi in question were mostly vagrant, homeless Muggles murdered by Voldemort, but some of them were the earthly remains of wizards and witches who 'disappeared' during the war without explanation.<ref name="PM"/> This could possibly include wizards from the Ministry, members of the Order that were never found, or just random unlucky witches and wizards.
+
+In [[1979]], when [[Regulus Black]] attempted to destroy the said [[Horcrux]], he succumbed to the [[Emerald Potion|Drink of Despair]]'s effects and tried to take a drink of water from the lake, only to trigger the Inferi and was killed by them. [[Kreacher]], his house elf, managed to make it out of the cave with the locket.<ref name="DH10">{{DH|B|10}}</ref> Regulus' body most likely remains in the crystal cave as part of Voldemort's army.
+
+===Second Wizarding War===
+{{Quote|The [[Wand-Lighting Charm|wandlight]] had slid over a fresh patch of water and showed Harry, this time, a dead man lying faceup inches beneath the surface, his open eyes misted as though with cobwebs...|Harry looks at an Inferius in the lake in the [[The Cave|Crystal Cave]]|Harry Potter and the Half-Blood Prince}}
+The Ministry warned the community that [[Tom Riddle|Lord Voldemort]] may be using Inferi once again in the [[Second Wizarding War]], and it was mentioned that he did use Inferi during the [[First Wizarding War|First War]].<ref name="HPB3">{{HBP|B|3}}</ref>
+
+[[File:Harry inferi.gif|250x250px|thumb|Many Inferi nearly overwhelm Harry Potter and Albus Dumbledore]]
+
+During the [[1996–1997 school year]], [[Professor]] [[Severus Snape]] taught his [[sixth year]] [[Defence Against the Dark Arts]] class about the Inferi.<ref name="HBP9"/><ref name="HBP21">{{HBP|B|21}}</ref> In his first lesson, he showed them gruesome pictures of a person killed by an Inferi, as a bloody mass upon ground.<ref name="HBP9">{{HBP|B|9}}</ref>
+
+In [[1997]], [[Mundungus Fletcher]] impersonated an Inferius during an attempted burglarly, and was arrested and sent to [[Azkaban]] for it. It was reported in an article in the [[Daily Prophet]].<ref name="HBP21"/>
+
+Later that year, Harry Potter and [[Albus Dumbledore]] encountered the very same army of Inferi as Regulus in their attempt to destroy Voldemort's locket Horcrux. At a point in time Dumbledore deduced the location of one of Voldemort's [[Horcrux]]es and discovered its hiding place as a crystal cave by the sea. At first, the Inferi remained inert as the two sailed in the [[The Cave boat|boat]] towards the [[The Cave island|central island]]. Harry saw something move below the water and at that time that was the most physical movement they showed.<ref name="HBP26"/>
+
+[[File:B6C26M1 Dumbledore fire spell.jpg|250x250px|thumb|left|Dumbledore and [[Harry Potter]] fend off a mass of attacking Inferi]]
+
+When Dumbledore suffered from the Drink of Despair's thirst-inducing effects, Harry had to take some water from the lake (as this was the only option available to quench the thirst). Contact with the water triggered the Inferi, whom nearly dragged Harry to the depths of the lake to drown. Dumbledore successfully repelled them by [[Conjuration|conjuring]] a [[Firestorm|ring of fire]], big enough to surround both Harry and himself. Once all the Inferi returned into the lake they did not resurface when Dumbledore's ring of fire faltered.<ref name="HBP26" />
+
+For some reason Voldemort did not have his Inferi Army join the rest of his forces to participate in the [[Battle of Hogwarts]]. It's possible that he had no way to transfer them from [[The Cave|his cave]], though there is a distinct chance that they ''did'' participate and simply weren't noticed by Harry. It's unknown what happened to the Inferi after the end of the Second Wizarding War, though it is possible that since the magic animating them originated with Voldemort and said magic often dies when the wizard who cast it dies, the Inferi merely returned to being actual dead corpses.
+
+===2014 Quidditch World Cup===
+{{Quote|​Malicious and baseless&hellip;|The ICWQC on rumours that Haitian National Quidditch team|Pottermore|}}In [[2014]], rumours that the [[Haitian National Quidditch team]] was using Inferi to intimidate other teams were dismissed by the [[International Confederation of Wizards Quidditch Committee]] as untrue. However, the rumours proved true when Inferi attacked crowds in the opening ceremony of the [[2014 Quidditch World Cup]], devouring those who tripped. In the end, 300 casualties from shock, broken bones, and bites resulted from the disastrous opening ceremony, one being an infected [[Sasabonsam]] bite on Jamaican keeper [[Kquewanda Bailey]].<ref name="PM2">[https://web.archive.org/web/20180314234522/http://www.pottermore.com/writing-by-jk-rowling/quidditch-world-cup-2014-daily-prophet-reports Quidditch World Cup 2014: Daily Prophet reports] from {{PM}} (via The Internet Archive)</ref>
+
+==Description==
+===Physical appearance===
+[[File:Half-blood-prince-Inferi2.jpg|241x241px|thumb|Inferi up close]]
+
+An Inferius is a grisly puppet. The Inferi are gaunt, skeletal beings that closely resemble [[zombie]]s. Being human corpses, they have individual appearances based on the humans they were created from. For example, one Inferius may have dull teeth, while another may have sharp teeth. Some may have hair, others may not have any at all - depending on the age of the human at time of death and the corpse’s state of decay.<ref name="HBP26"/> The most obvious sign that one is facing an Inferius rather than a living human are the white and cloudy eyes, indicating their owner is devoid of any form of life.<ref name="PM"/>
+
+===Nature===
+{{Quote|The Inferius is a corpse that has been reanimated by a Dark wizard's spells. It is not alive, it is merely used like a puppet to do the wizard's bidding.|[[Severus Snape]] regarding what an Inferius is|Harry Potter and the Half-Blood Prince}}[[File:Inferi 4.jpg|280x280px|thumb|Harry struggling through a horde of Inferi]]
+The spells used to reanimate a human body are much more complex than those used, for instance, to make inanimate objects fly.<ref name="PM"/> The Inferius may be cursed to respond lethally if disturbed, to kill indiscriminately, and to undertake perilous jobs for its master. Its limitations are, however, obvious; it has no will and no brain of its own, and will not be able to think its way out of unforeseen trouble. As a warrior or guardian with no regard for its own safety, however, it has many uses.<ref name="PM"/>
+
+Due to their status as being unfeeling dead, the Inferi are immune to bodily damages such as [[Sectumsempra|slashing]], and have great physical strength, enough to kill a human or drag them away. Due to their superior strength and surprising speed, they are especially dangerous en masse.<ref name="PM"/>
+
+As no spell can bring back the dead, the Inferi are not alive, just corpse puppets. Despite this, it may be possible that they can speak.<ref name="WOMBAT">The fact that Inferi are able of speech is hinted at in the second [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] featured in {{JKRS}}. Question 1 (''Part One - Magical Beings'') is "Which of the following statements is TRUE?", and one of the possible answers is "''Inferi cannot speak''". As one of the other answers is known for certain to be true ("''Hags eat small children''" — the [[Chocolate Frog Card]]s reveal that [[Babayaga]] fed on children for breakfast; and the ''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]'' say that [[Regulus Moonshine]] developed a potion to suppress hags' "normal appetite for human flesh"), then all of the other answers must be false, including the one that says Inferi cannot speak.</ref> Preserved indefinitely by [[Dark Arts|Dark magic]], an Inferius can only be destroyed by [[fire]], for no spell has been found to render dead [[flesh]] impervious to burning. Inferi are therefore enchanted to avoid flames by their master.<ref name="PM"/>
+
+==Defence against Inferi==
+{{Quote|However, like many [[creature]]s that dwell in cold and darkness, they fear light and warmth... Fire, Harry.|Albus Dumbledore on the defence against Inferius|Harry Potter and the Half-Blood Prince}}[[File:Dumbledore_fighting_the_Inferi.gif.gif|250px|thumb|left|A [[firestorm]] is the ideal way to fend off Inferi]]
+
+Because Inferi are creatures of the dark, they dislike light and heat (no spell has been found to render dead flesh impervious to burning). The most effective [[spell]] against them is therefore a fire-summoning spell, such as ''[[Firestorm]]''. Because of this, the Inferi are enchanted by their master to avoid flames.<ref name="PM" /> Other spells might work against a few Inferi, but might not be useful against a whole army of them. It must be noted that Inferi are resistant to most spells: they cannot feel pain, and thus are unaffected by many attacks whose main effect is pain such as the [[Cruciatus Curse]]. This was evident when [[Harry Potter]] attempted to use the dark spell ''[[Sectumsempra]]'' on the Inferi in the [[The Cave|Crystal Cave]], as they had no [[blood]] to spill.<ref name="HBP26">{{HBP|B|26}}</ref>
+
+==Etymology==
+''Inferius'' is a tampered form of the [[Wikipedia:Latin language|Latin]] word for "underneath; below", ''Inferus'', but with an obvious connotation of being 'lesser' than a living human. Meanwhile, ''Inferi'' means "the dead; underworld". [[J. K. Rowling]] has changed this real Latin words to form these [[Creature]]s.<ref name="PM"/>
+
+==Behind the scenes==
+*According to [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]], Inferi may have the ability to speak.
+*Inferi may have been briefly referred to by Voldemort in the Little Hangleton Graveyard as part of an "army of creatures whom all fear".
+*Inferi may be incredibly strong as a picture in Snape's [[Defence Against the Dark Arts]] class shows a bloody mass on the floor, attributing to a person provoking the anger of an Inferius. Alternatively, this could be attributed to their viciousness and implacability.
+*[[Zombie]]s are different from Inferi, although they have much in common.<ref name="PM" /> It seems that zombies are naturally formed, while Inferi are artificially created. [[J. K. Rowling]] decided against naming the Inferi zombies because zombies are not part of British folklore. Also, one tradition has the sorcerer using a zombie's soul, or part of it, to sustain himself, which she decided conflicted with her Horcrux story.
+*In the [[Harry Potter and the Deathly Hallows: Part 1 (video game)|first part video game adaptation]] of {{DH}}, Inferi appear again, despite them not being in the mainstream storyline.
+
+===Author's comments===
+*"''Inferi have much in common with zombies, which are mentioned as separate creatures within Harry's world. I had several good reasons for not wishing to call the guardians of the locket Horcrux 'zombies'. Firstly, zombies are not part of British folklore, but associated with the myths of Haiti and parts of Africa. While the students of Hogwarts would learn about them, they would not expect to meet them walking down the streets of Hogsmeade. Secondly, while zombies of the Vodou tradition can be nothing more than reanimated corpses, a separate but related tradition has it that the sorcerer uses their souls, or part of their souls, to sustain himself. This conflicted with my Horcrux story, and I did not wish to suggest that Voldemort had any more use for his Inferi than as guards of his Horcrux. Lastly, zombies have been represented and reinterpreted on film so often in the last fifty years that they have a whole raft of associations that were of no use to me. I'm part of the 'Thriller' generation; to me, a zombie will always mean Michael Jackson in a bright red bomber jacket.''<ref name="PM"/>
+*''The name Inferius was a play on 'Inferus', which is Latin for 'below', but with an obvious connotation of being 'lesser' than a living human. 'Inferi' means the underworld''."<ref name="PM"/>
+
+==Appearances==
+{{Imagecat|Images of Inferi}}
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+*{{HBP|G}}
+*{{DH}} {{Mention}}
+*{{DH|G1}}
+*{{TBB|E}}
+*{{HPPU}}
+*{{LEGO|Y2}}
+*{{HPK}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CR}}
+*{{WU}}
+*{{HL}}
+
+==Notes and references==
+{{Reflist}}
+{{Defence Against the Dark Arts}}
+{{Death Eaters}}
+[[de:Inferius]]
+[[es:Inferius]]
+[[fr:Inferi]]
+[[ru:Инфернал]]
+[[fi:Manalius]]
+[[pl:Inferius]]
+[[pt-br:Inferius]]
+[[Category:Confoundables]]
+[[Category:Crystal Cave]]
+[[Category:Death Eater allies]]
+[[Category:Defence Against the Dark Arts]]
+[[Category:Mascots]]
+[[Category:Necromancy]]
+[[Category:Uncertain classification]]

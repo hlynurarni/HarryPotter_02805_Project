@@ -1,0 +1,39 @@
+{{Object infobox
+|name = Rogue Bludger
+|image = [[File:Rogue Bludger GIF.gif|250px]]
+|location = 
+|manufacturer = 
+|made = 
+|usage = *[[Quidditch]]<ref name="COS10"/>
+*To assault [[Harry Potter]]<ref name="COS10"/>
+|owners = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS10"/>
+}}
+{{Quote|Harry put on a burst of speed and zoomed toward the other end of the field. He could hear the Bludger whistling along behind him. What was going on? Bludgers never concentrated on one player like this; it was their job to try and unseat as many people as possible. . . . |Harry Potter trying to evade the rogue bludger|Harry Potter and the Chamber of Secrets}}
+
+The '''rogue bludger''' was a [[Bludger]] that [[Dobby]] had [[magic]]ally tampered with in early [[November]] [[1992]]. Dobby had hoped that [[Harry Potter]] would be injured and sent home from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], thereby avoiding the opening of the [[Chamber of Secrets]] and the [[serpent of Slytherin]].<ref name="COS10">{{COS|B|10}}</ref>
+
+==History==
+The Bludger nearly made Gryffindor lose the game when the [[Beater]]s, [[Fred and George Weasley]] had to protect Harry instead of watching out for the rest of the team. Harry then demanded that they leave him alone to deal with the Bludger himself. The Bludger succeeded in breaking Harry's arm, but Harry still succeeded in catching the [[Golden Snitch]], thus winning the [[Gryffindor vs Slytherin Quidditch match (1992)|Gryffindor vs Slytherin Quidditch match]], but resulting in him letting go of his [[Nimbus 2000]] and falling on the sandy ground in the middle area due to his broken arm.<ref name="COS10"/>
+
+After the game was over, Fred and George struggled to stuff the Bludger back into its crate, as it was still putting up a 'terrific fight.' [[Gilderoy Lockhart]] later attempted to fix Harry's broken arm but instead made his bones disappear. Dobby later revealed to Harry in the [[Hospital Wing]] that he was the one who tampered with the Bludger, and apologised for setting it on Harry, which contradicted Harry's earlier theory of [[Draco Malfoy]] being the culprit.<ref name="COS10" />
+
+==Behind the scenes==
+[[File:Finite Incantatem0.gif|250px|thumb|left|Hermione destroys the Bludger in the film]]
+In {{COS|FA}}, the Gryffindor [[Keeper]] [[Oliver Wood]]'s [[broomstick]] is broken off on the shaft by the rogue Bludger as he and Harry informed each other of the warning signs of the Bludger. Also, when [[Colin Creevey]] takes a photo of Harry and [[Draco Malfoy]] chasing the Golden Snitch, he has to duck quickly to avoid getting hit by the Bludger. Shocked and concerned about the Bludger's behaviour, [[Hermione Granger]] gets [[Ronald Weasley|Ron Weasley]], [[Rubeus Hagrid]], and the rest of the crowd to leave their seats, runs to the middle of the stadium where Harry has fallen with Ron and Hagrid, and destroys the Bludger by using the [[General Counter-Spell]] right after the game, when the Bludger continues its assault on him on the ground.<ref name="COSF">{{COS|F}}</ref>
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{LEGO|Y1}}
+*{{TCG}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Cognard fou]]
+[[Category:Balls|Bludger]]
+[[Category:Magical objects]]
+[[Category:Plot to open the Chamber of Secrets]]
+[[Category:Quidditch equipment|Bludger]]

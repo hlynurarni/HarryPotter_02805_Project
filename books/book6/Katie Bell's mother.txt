@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mrs Bell
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = British
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Katie Bell's father|Mr Bell]] (husband)
+*[[Katie Bell]] (daughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|They let me out of St Mungo's on Monday, I had a couple of days at home with Mum and Dad and then came back here this morning.|[[Katie Bell|Katie]]|Harry Potter and the Half-Blood Prince}}
+'''Mrs Bell''' (fl.[[1997]]) was the wife of [[Katie Bell's father|Mr Bell]] and mother of [[Katie Bell|Katie]]. After being discharged from [[St Mungo's Hospital for Magical Maladies and Injuries]] in [[1997]], Katie spent a couple of days at home with her parents before returning to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="HBP24">{{HBP|B|24}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bell, Katie's mother}}
+[[fr:Parents de Katie Bell]]
+[[pl:Państwo Bell]]
+[[Category:Bell family]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

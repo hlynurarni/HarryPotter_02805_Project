@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Doris Crockford.JPG|250px]]
+|name = Doris Crockford
+|born = 
+|died = 
+|blood = [[Magic]]al to unknown extent
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS5"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS5"/>
+|gender = Female<ref name="PS5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOHP">{{LEGO|Y1}}</ref>
+|job = 
+|house = 
+|loyalty = [[Leaky Cauldron]]<ref name="PS5"/>
+}}
+{{Quote|Doris Crockford, Mr Potter, can't believe I'm meeting you at last.|Doris introducing herself|Harry Potter and the Philosopher's Stone}}
+'''Doris Crockford''' was a [[Great Britain|British&nbsp;]][[Wizardkind|witch]] who greeted [[Harry Potter]] in the [[Leaky Cauldron]] on the way to Harry's first trip into [[Diagon Alley]] on [[31 July]] [[1991]]. She was enthusiastic to see him, and was noted to have shaken Harry's hand many times.<ref name="PS5">{{PS|B|5}}</ref>
+
+==Behind the scenes==
+[[File:Doris_Crockford-HP_14.png|thumb|Doris Crockford as she appears in {{LEGO|Y1}}]]
+*In {{PS|FA}}, Crockford had long, white, straight hair.<ref name="PSF">{{PS|F}}</ref>
+*There is a site where it is rumoured that [[J. K. Rowling]] was the actress who portrayed Doris Crockford. This turned out to be false:
+:''In the scene where Hagrid takes Harry through the Leaky Cauldron to get to Diagon Alley, everyone stops and stares at Harry. One man says to Harry, "It's a pleasure to have you back, Mr Potter," and then a woman speaks to him and gives a name, but this woman is not credited at the end of the film (it goes by order of appearance, so she would be right before Professor Quirrell.) The reason she is not credited is because she is none other than J.K. Rowling, author of the Harry Potter books.'' [J.K. has stated on her website that she has never been in any of the film, she was asked but declined. It is just an erroneous rumour that she is Doris Crockford.]
+:*According to the German dubbing site Synchronkartei.de, this role is played by [[Nina Young]] who also played [[Helena Ravenclaw]] in the same film.<ref>https://www.synchronkartei.de/darsteller/6122</ref>
+
+==Etymology==
+The name "Doris" is from the ancient Greek name Δωρις (''Doris'') which meant "Dorian woman". The Dorians were a Greek tribe who occupied the Peloponnese starting in the 12th century BC. In Greek mythology Doris was a sea nymph, one of the many children of Oceanus and Tethys. "Doris" was also the name of Herod the Great's first wife. It began to be used as an English name in the 19th century.
+
+==Appearances==
+{{Imagecat|Images of Doris Crockford}}
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{LEGO|Y1}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Crockford, Doris}}
+[[es:Doris Crockford]]
+
+[[de:Doris Crockford]]
+[[fr:Doris Crockford]]
+[[it:Doris Crockford]]
+[[ru:Дорис Крокфорд]]
+[[pl:Doris Crockford]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

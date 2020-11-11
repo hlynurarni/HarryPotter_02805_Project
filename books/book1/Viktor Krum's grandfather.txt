@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Viktor Krum's grandfather
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Bulgaria]]n
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH8"/>
+|gender = Male<ref name="DH8"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Viktor Krum]] (grandson)<ref name="DH8"/>
+*[[Viktor Krum's father|Mr Krum]] (son or son-in-law)
+*[[Viktor Krum's mother|Mrs Krum]] (daughter or daughter-in-law)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Krum family]]
+}}
+[[Viktor Krum]]'s '''grandfather''' was a [[Bulgaria]]n [[wizardkind|wizard]] was killed by [[Gellert Grindelwald]] sometime prior to Grindelwald's defeat by [[Albus Dumbledore]] in [[1945]].<ref name="DH8">{{DH|B|8}}</ref> It is not known whether he was the father of [[Viktor Krum's father|Mr Krum]] or [[Viktor Krum's mother|Mrs Krum]].
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Abuelo de Viktor Krum]]
+[[fr:Grand-père de Viktor Krum]]
+[[pl:Dziadek Wiktora Kruma]]
+[[pt-br:Avô de Vítor Krum]]{{DEFAULTSORT:Krum, Viktor grandfather}}
+[[Category:Bulgarian individuals|Krum's grandfather]]
+[[Category:Global wizarding war casualties|Krum's grandfather]]
+[[Category:Killed by Gellert Grindelwald|Krum's grandfather]]
+[[Category:Males|Krum's grandfather]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Arcus
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = *Unknown wand<ref name="possibl">It is most likely that he owned another wand before the [[Elder Wand]] if he was the owner.</ref>
+*[[Elder Wand|Elder, Thestral tail hair core]] (possibly)
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Arcus''' was a [[Wizardkind|wizard]]. It is debated whether it was he who became the Master of the [[Elder Wand]] after [[Loxias]]'s death, or if it was [[Livius]].<ref name="DH21">{{DH|B|21}}</ref>
+
+==Etymology==
+*In Roman mythology, Arcus was the goddess of the rainbow, as well as a messenger goddess.
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Loxias]]
+|position=Master of the [[Elder Wand]] {{Comment|possibly; History records that [[Livius]] may also have been Master at the time}}
+|years=
+|successor=Unknown, eventually [[Mykew Gregorovitch|Gregorovitch]]
+}}
+{{End box}}
+{{Deathly Hallows Owners}}
+[[de:Arcus]]
+[[es:Arcus]]
+[[fr:Arcus]]
+[[pt-br:Arco]]
+[[ru:Аркус]]
+[[Category:Elder Wand owners]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

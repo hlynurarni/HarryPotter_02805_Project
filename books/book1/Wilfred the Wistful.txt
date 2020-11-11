@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Wilfred the Wistful
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]
+}}'''Wilfred the Wistful''' was a [[Wizardkind|wizard]] from an unknown period. A statue of him was located in [[Hogwarts School of Witchcraft and Wizardry]]. [[Mrs Norris]] disappeared behind the statue when she encountered [[Harry Potter]] heading towards the [[Owlery]] in [[1995]].<ref>{{OOTP|B|14}}</ref>
+
+==Etymology==
+The name "Wilfred" means "desiring peace" from Old English wil "will, desire" and frið "peace". Saint Wilfrid was a 7th-century Anglo-Saxon bishop. The name was rarely used after the Norman conquest, but it was revived in the 19th century.
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts unknown locations}}
+
+[[de:Wilfried der Wehmütige]]
+[[fr:Wilfrid le Mélancolique]]
+[[pl:Wilfred Zadumany]]
+[[zh:忧郁的威尔福]]
+[[es:Wilfred el Nostálgico]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Statues]]
+[[Category:Wizards]]

@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Midgen
+|born = 
+|died = 
+|blood = [[Pure-blood]], [[half-blood]] or [[Muggle-born]]<ref name="Blood">Since [[Non-magic people|Muggle]]s are not given access to [[Hogwarts Castle]], it is most likely that Mr Midgen was a [[Wizardkind|wizard]], as, in {{HBP}}, he picks up his daughter from the castle.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Eloise Midgen]] (daughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]] (likely)<ref name="House">'''Horace Slughorn''': You'll be Gryffindor like her, I suppose? Yes, it usually goes in families. Not always, though. ({{HBP}} - Chapter 4)</ref>
+|loyalty = [[Midgen family]]
+}}
+{{Quote|And Eloise Midgen has already been withdrawn. Her father picked her up last night.|[[Hermione Granger]]|Harry Potter and the Half-Blood Prince}}
+'''Mr Midgen''' (fl.[[1996]]) was the father of [[Eloise Midgen]]. He pulled his daughter out of [[Hogwarts School of Witchcraft and Wizardry]] in early [[September]] [[1996]] for fear that her safety there was jeopardised by [[Tom Riddle|Lord Voldemort]]'s [[Return of Lord Voldemort|return]].<ref name="HBP11">{{HBP|B|11}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Midgen, Eloise's father}}
+[[fr:Père d'Eloïse Midgen]]
+[[pl:Ojciec Eloisy Midgen]]
+[[Category:British individuals|Midgen, Mr]]
+[[Category:Males|Midgen, Mr]]
+[[Category:Midgen family]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

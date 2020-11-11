@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=individual
+|image=
+|name=Nine-year old boy's grandparents
+|hideb=1
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]s<ref name="HBP21"/>
+|gender=*Male<ref name="HBP21"/>
+*Female<ref name="HBP21"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Unidentified nine-year old|Grandson]]<ref name="HBP21"/>
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+This man and woman were the '''grandparents of [[Unidentified nine-year old|a nine-year old boy]]''' that tried to kill them, possibly under the influence of the [[Imperius Curse]].<ref name="HBP21">{{HBP|B|21}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Grands-parents d'un garçon de neuf ans]]
+[[Category:Females]]
+[[Category:Humans]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

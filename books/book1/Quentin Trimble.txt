@@ -1,0 +1,82 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:QuentinTrimblePortrait.png|250px]]
+|name = Quentin Trimble
+|born = 
+|died = In or before [[1986]]<ref name="DOD">Towards the end of the second year in {{HM}}, which takes place in 1986, Trimble's portrait was found interacting with [[Jacob's sibling]]. [[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Therefore, Trimble died in or before 1986.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]<ref name="WWHP">{{WWHP}} - see [[:File:Quentin Trimble Headmaster.jpg|this image]].</ref>
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey (formerly brown)
+|eyes = Brown
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author
+*[[Professor]]
+*[[Headmaster]]
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Professor<ref name="WWHP"/> Quentin Trimble'''<ref name="PS">{{PS|B|5}}</ref> was a [[Wizardkind|wizard]] who once occupied the post of [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]].<ref name="WWHP"/> He authored the [[List of books|textbook]] ''[[The Dark Forces: A Guide to Self-Protection]]'', a required reading for any student enrolled in [[Defence Against the Dark Arts]] [[Hogwarts subjects|class]].<ref name="HPLE">{{HPLE}} (''The Paintings of Hogwarts'')</ref>
+
+==Biography==
+===Lifetime===
+Quentin attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, and was later appointed to the position of [[Headmaster]] of the school.<ref name="WWHP"/> Sometime throughout his adulthood, Quentin (or, as he was known after his appointment as Headmaster, Professor Trimble) authored the book ''[[The Dark Forces: A Guide to Self-Protection]]'', a required reading for any [[Defence Against the Dark Arts]] student.<ref name="PS"/><ref name="HPLE"/>
+
+===Post-mortem===
+[[File:Professor Quentin Trimble.jpg|175px|thumb|left|Professor Trimble's portrait in the [[Headmaster's office]]]]
+
+Trimble was no longer the Headteacher when [[Armando Dippet]] took over in the early [[20th century]].<ref>{{TBB|R|F}} - Albus Dumbledore's notes</ref> In or prior to the end of the school term in [[1986]], Professor Trimble passed away, and a [[portrait]] was hung of him at the [[Headmaster's office]] in [[Hogwarts Castle]] so that he could offer advice and solace to future [[Headmaster]]s of the school.<ref name="WWHP"/> Unfortunately, whoever painted his name misspelled it, a mistake that was never fixed.<ref name="HPLE"/>
+
+==Magical abilities and skills==
+*'''[[Defence Against the Dark Arts]]''': Trimble was very knowledgeable in how to defend oneself from the [[Dark Arts]], as he authored ''[[The Dark Forces: A Guide to Self-Protection]]'', an authoritative text in the subject. He had very good knowledge of defensive spells and [[Dark charm]]s and how to perform them, and was highly knowledgeable of various dark [[creature]]s, meaning he had likely experienced them himself.
+
+==Etymology==
+*"Trimble" is most likely a derivation of "tremble", meaning "to shake" - fitting considering his career as an author of books against the [[Dark Arts|dark forces]]. As the shaky [[Quirinus Quirrell|Professor Quirrell]] was the [[Defence Against the Dark Arts]] teacher in the year that [[Harry Potter]] purchased Trimble’s book, it is likely to be a reference to that.
+
+==Behind the scenes==
+*Professor Trimble's name is considered to be misspelled "Quintin Trimble" on his [[portrait]] in the [[Harry Potter (film series)|films]].<ref name="HPLE"/> But the truth is that Quintin is a variant of spelling. It may be a hint to the fact that he also was the 15th Hogwarts headmaster (15th is 'quindecim' in Latin).
+
+==Appearances==
+{{Imagecat|Images of Quentin Trimble}}
+*{{PS}} {{Mention}}
+*{{POA|F}} {{C|Mentioned on Disc 2}}
+*{{HPE}} {{Portrait}}
+*{{HPLE}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{PM}} {{Mention}} {{C|On the Pottermore Insider}}
+*{{HM}} {{Portrait}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Trimble, Quentin}}
+
+{{Hogwarts towers}}
+
+[[de:Quirin Sumo]]
+[[es:Quentin Trimble]]
+[[fr:Quentin Jentremble]]
+[[it:Quentin Trimble]]
+[[pl:Quentin Trimble]]
+[[pt-br:Quintino Trimble]]
+[[ru:Квентин Тримбл]]
+[[Category:Authors]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

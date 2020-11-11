@@ -1,0 +1,32 @@
+{{Pet individual infobox
+|image = 
+|name = Mr Paws
+|born = Before [[1991]]
+|died = 
+|alias = 
+|title = 
+|species = Part-[[Kneazle]]
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Arabella Figg]]
+}}
+'''Mr Paws''' was one of [[Arabella Figg|Mrs Figg's]] part-[[Kneazle]]s.<ref>[https://web.archive.org/web/20060316221040/https://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=19 Extra Stuff: Squibs] from {{JKRS}} (via the Internet Archive)</ref> The other three were [[Mr Tibbles]], [[Snowy]] and [[Tufty]]. [[Harry Potter]] saw it (or possibly its picture) when he went to stay with Mrs Figg when [[Dudley Dursley|Dudley]] got to go to places on his birthday. Harry found a hard time being remorseful when Mrs Figg broke her leg after reminding himself that it would be a while before he had to see Mr Tibbles, Snowy, Tufty and Mr Paws again.<ref>{{PS|B|2}}</ref>
+
+==Appearances==
+*{{PS}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Señor Paws]]
+[[fr:Mistigri]] 
+[[ru:Мистер Лапка]]
+[[pl:Pazurek]]
+[[Category:Arabella Figg's cats]]
+[[Category:Kneazles]]
+[[Category:Males]]

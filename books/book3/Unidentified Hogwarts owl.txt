@@ -1,0 +1,27 @@
+{{Pet individual infobox
+|image = 
+|name = Unidentified Hogwarts owl
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Tawny owl|Tawny Owl]] (possibly)<ref>{{POA|B|1}} - "Harry didn’t recognise the third owl, a handsome tawny one, but he knew at once where it had come from, because in addition to a third package, it was carrying a letter bearing the Hogwarts crest."</ref>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+This '''[[owl]]''' was the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Owl Postal Service|post owl]] that on [[31 July]] [[1993]] brought [[Harry Potter]] his copy of ''[[The Monster Book of Monsters]]'' and [[Harry Potter's thirteenth birthday|birthday card]] from [[Rubeus Hagrid]], and his [[Hogsmeade permission form]].<ref>{{POA|B|1}}</ref>
+
+==Appearances==
+*{{POA}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Articles with conjectural titles]]
+[[Category:Hogwarts]]
+[[Category:Owls]]

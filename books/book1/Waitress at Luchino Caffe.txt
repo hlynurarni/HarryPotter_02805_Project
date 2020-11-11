@@ -1,0 +1,56 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Waitress DH1 1.jpg|250px]]
+|name = Waitress at Luchino Caffe
+|born = Before [[1997]]
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="DH9"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DH9"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH9"/>
+|gender = Female<ref name="DH9"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Waitress<ref name="DH9"/>
+|house = 
+|loyalty = [[Luchino Caffe]]<ref name="DH9"/>
+}}
+This '''waitress''' was a [[Non-magic people|Muggle]] who worked as an employee at the [[Luchino Caffe]] on [[Tottenham Court Road]], [[London]].<ref name="DH9"/>
+
+==Biography==
+[[File:2017-07-24 (2).png|259x259px|thumb|The Waitress working at the cafe]]
+At the all night [[Luchino Caffe]] on [[Tottenham Court Road]] in [[London]], she served two cappuccinos to [[Hermione Granger]] and [[Ronald Weasley|Ron Weasley]] on the evening of [[1 August]], [[1997]]. [[Harry Potter]] was also with them, but under his [[Cloak of Invisibility|Invisibility Cloak]]. The waitress chewed gum as she worked and shot Ron a nasty look after overhearing him remark that her [[coffee]] was "revolting". She was then affronted when two more customers rudely waved her away when she shuffled over to take their order.<ref name="DH9"/>
+
+These customers were, in fact, the [[Death Eaters]] [[Thorfinn Rowle]], and [[Antonin Dolohov]]; they had tracked Harry, Ron, and Hermione down using the [[Taboo|Taboo curse]]. A [[Luchino Caffe Duel|skirmish]] broke out in the café, and a [[Stunning Spell]] Harry was aiming at Dolohov struck the waitress, making her collapse near the door as she was attempting to flee in terror. Afterwards, Hermione [[Memory Charm|wiped her memory]] of the event, and the the effects of the Stunning Spell wore off once the trio had [[Apparition|Disapparated]].<ref name="DH9">{{DH|B|9}}</ref>
+
+==Behind the scenes==
+*In {{DH|F1}}, the waitress is portrayed by [[Great Britain|British]] actress [[Eva Alexander]].<ref name="IMDb">{{IMDb name|1604904|Eva Alexander}}</ref>
+*In the film, [[Harry Potter]] does not use his [[Cloak of Invisibility|Invisibility Cloak]] and as such the waitress also serves Harry a cappuccino. When the trio is attacked by Rowle and Dolohov, the waitress is not present and does not notice anything amiss as she is listening to music on a [[headset]] in the back room. When she comes out, she is shocked by the devastation, and is told by Hermione to "leave." The Memory Charm is not used on her.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}[[fr:Serveuse de Luchino]]
+[[es:Camarera del Luchino Caffe]]
+[[ru:Официантка из кафе «Лучино»]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Tottenham Court Road]]
+[[Category:Unidentified Muggles‎]]
+[[Category:Waitstaff]]

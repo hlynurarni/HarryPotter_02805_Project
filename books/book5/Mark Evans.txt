@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mark Evans
+|born = c. [[1985]]
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="OOTP1"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP1"/>
+|gender = Male<ref name="OOTP1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|So who've you been beating up tonight? Another ten-year-old? I know you did Mark Evans two nights ago.|[[Harry Potter]] mocking [[Dudley Dursley]]|Harry Potter and the Order of the Phoenix}}
+
+'''Mark Evans''' (born c. [[1985]]) was a [[Non-magic people|Muggle]] who lived in [[Magnolia Crescent]]. He was beaten up by [[Dudley Dursley]] and his [[Dudley Dursley's gang|gang]] during the summer of [[1995]], supposedly for insulting Dudley.<ref name="OOTP1">{{OOTP|B|1}}</ref>
+
+==Behind the scenes==
+{{Quote|Mark Evans is... nobody. ... ... The car with false licence plates is at the door and I've got to glue on my goatee. Goodbye.|J. K. Rowling, tongue-in-cheek, regarding the measures she had to take because of the answer to the question about Mark Evans.}}
+*Mark Evans would not have had any importance whatsoever if not for the fact that [[Lily J. Potter|Lily Potter]]'s maiden name is Evans. Because of this, many people thought that Mark Evans was an important character who would show up in later books. However, [[J. K. Rowling]] admitted on her [[J. K. Rowling's official site|website]] that Mark Evans was a throwaway name she thought of off the top of her head. She jokingly stated that she had to resort to "desperate measures" because she knew that after people read her answer regarding Mark Evans - her original answer joked that Evans was actually the Half-Blood Prince, which she meant ironically but everyone unexpectedly took her seriously - she would have to go into hiding for her own safety.<ref name="evansfaq">[http://web.archive.org/web/20120208051500/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=49 Rowling's explanation about Mark Evans, available via Internet Archive]</ref> She later stated that she regretted giving him the surname.<ref>[https://www.hp-lexicon.org/character/mark-evans/ HP Lexicon - Mark Evans]</ref>
+*In posing a "never asked question" on her website, Rowling coined the term "Mark Evans situation" in referring to a situation in which the actual answer to the question would not give away material that was crucial to the plot of the [[Harry Potter (book series)|series]].<ref name="naq">[http://web.archive.org/web/20110623034950/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=23 Rowling Official Site - NAQ, available via Internet Archive]</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|F}} {{Comment|Indirect mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Evans, Mark}}
+[[de:Mark Evans]]
+[[es:Mark Evans]]
+[[fr:Mark Evans]]
+[[nl:Mark Evers]]
+[[pl:Mark Evans]]
+[[ru:Марк Эванс]]
+[[Category:1980s births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Muggles]]

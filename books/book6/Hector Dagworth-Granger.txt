@@ -1,0 +1,60 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Hector Dagworth-Granger
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]]<ref>In 1996, [[Horace Slughorn]] asked [[Hermione Granger]] if she was related to Dagworth-Granger during their first [[Potions (class)|potions]] lesson in her [[sixth year]]. She replied that she did not believe so, since she was [[Muggle-born]], so Dagworth-Granger was probably not Muggle-born.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Hermione Granger]] (possible distant relative)
+*[[Hermione Granger's father|Mr Granger]] (possible distant relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potioneer]]<ref name="HBP9">{{HBP|B|9}}</ref>
+|house = 
+|loyalty = [[Most Extraordinary Society of Potioneers]]
+}}
+{{Quote|Powerful infatuation can be induced by the skilful [[potioneer]], but never yet has anyone managed to create the truly unbreakable, eternal, unconditional attachment that alone can be called love.|Hector Dagworth-Granger regarding love|The Tales of Beedle the Bard (real)}}
+'''Hector Dagworth-Granger''' was a [[Great Britain|British]] [[Wizardkind|wizard]], the founder of the [[Most Extraordinary Society of Potioneers]].<ref name="HBP9">{{HBP|B|9}}</ref>
+
+==Biography==
+He was known to understand that no such [[Potion|elixir]] has been created to control and create [[love]] (as [[love potion]]s only induce powerful infatuations). Among many other leading potioneers, Hector Dagworth-Granger doubted that it was possible to create such a truly unbreakable and eternal affection.<ref name="TBBE">{{TBB|E}}</ref>
+
+In [[1996]], [[Horace Slughorn]] asked [[Hermione Granger]] if she was related to Dagworth-Granger during their first [[Potions (class)|potions]] lesson in her sixth year. She replied that she did not believe so, since she was [[Muggle-born]].<ref name="HBP9">{{HBP|B|9}}</ref> However, Hermione's closest magical ancestors were probably [[Squib]]s and would have lost all knowledge of [[magic]] from their family. Hence, Hermione could be related to him.
+
+==Etymology==
+*The name "Hector" is the Latinized form of Greek ‘Εκτωρ (''Hektor''), which was derived from ‘εκτωρ (''hektor'') "holding fast", ultimately from εχω (''echo'') meaning "to hold, to possess". In Greek legend Hector was one of the Trojan champions who fought against the Greeks and was the brother of [[Wikipedia:Paris_(mythology)|Prince Paris]]. After he killed Achilles' friend Patroclus in battle, he was himself brutally slain by Achilles, who proceeded to tie his dead body to a chariot and drag it about. Paris then in turn slew Achilles with a poisoned arrow that he shot at Achilles' only vulnerable point, his ankle.
+*The name "Hector" also appears Arthurian legends belonging to King Arthur's foster father. Hector has occasionally been used as a given name since the Middle Ages, probably because of the noble character of the classical hero. It was historically common in Scotland, where it was used as an Anglicised form of Eachann.
+
+==Appearances==
+*{{HBP}} {{Mention}}
+*{{TBB}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{DEFAULTSORT:Dagworth-Granger, Hector}}
+[[de:Hector Dagworth-Granger]]
+[[fr:Hector Dagworth-Granger]]
+[[es:Hector Dagworth-Granger]]
+[[pl:Hektor Dagworth-Granger]]
+[[pt-br:Hector Dagworth-Granger]]
+[[ru:Гектор Дэгворт-Грейнджер]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

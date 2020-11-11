@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mrs Cresswell
+|born = 
+|died = 
+|blood = [[Pure-blood]], [[Half-blood]] or [[Squib]]<ref name="blood">Mrs Cresswell was not imprisoned in Azkaban by the Muggle-Born Registration Commission in 1998, meaning that she was not [[Muggle-born]].</ref>
+|marital = Widowed
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Dirk Cresswell]] (husband) †
+*[[Cresswell brothers|More than one son]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Cresswell family]]
+}}
+{{Quote|...[[Dirk Cresswell]] is ten times the wizard you are. And if he survives [[Azkaban]], you’ll have to answer to him, not to mention his wife, his [[Cresswell brothers|sons]], and his [[Dirk Cresswell's friends|friends]]...|[[Arthur Weasley]] confronts [[Albert Runcorn]] (actually [[Harry Potter]] in disguise)|Harry Potter and the Deathly Hallows}}
+'''Mrs Cresswell''' was the wife of [[Dirk Cresswell]]. She and Dirk had at least [[Cresswell brothers|two sons]] together.<ref name="DH13">{{DH|B|13}}</ref>
+
+In [[1997]], Dirk, as a [[Muggle-born]] wizard, arranged to have his family tree falsified to avoid persecution by the [[Muggle-Born Registration Commission]]. Unfortunately, [[Albert Runcorn]] uncovered the plan, and Dirk was arrested. [[Arthur Weasley]] confronted Runcorn (who, at the time, was actually [[Harry Potter]] under [[Polyjuice Potion]]), suggesting that, if Dirk made it out of [[Azkaban]] alive, Runcorn would have to answer to Dirk's wife and their sons.<ref name="DH13"/>
+
+Dirk managed to escape before being imprisoned, but, after a few months on the run, he was caught and murdered by [[Snatchers]], leaving Mrs Cresswell a widow.<ref name="DH22">{{DH|B|22}}</ref>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cresswell, Dirk's wife}}
+
+[[es:Esposa de Dirk Cresswell]]
+[[ru:Миссис Крессвелл]]
+[[pl:Pani Cresswell]]
+[[Category:British individuals|Cresswell, Mrs]]
+[[Category:Cresswell family]]
+[[Category:Females|Cresswell, Mrs]]
+[[Category:Parents]]
+[[Category:Unnamed family members|Cresswell's wife]]
+[[Category:Widowed individuals|Cresswell's wife]]

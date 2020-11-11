@@ -1,0 +1,71 @@
+{{HogwartsMysterySpoiler}}
+{{Youmay|the Giant Squid that lives in the Black lake|[[Giant Squid|the creature in general]]}}
+{{Individual infobox
+|theme = pet
+|image = [[File:The Giant Squid at the Hogwarts Lake (Concept Artwork for the HP4 film).jpg|250px]]
+|name = Hogwarts Giant Squid
+|born = Early [[1976]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Giant Squid]]<ref name="PM"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Great Lake]]<ref name="PM"/>
+}}
+The '''Giant Squid''' was a [[magic]]al [[beast]] that lived in the [[Great Lake]], on the grounds of [[Hogwarts Castle]]. Despite the generalised fear of it and a [[Chocolate Frog Card]] describing it as "the bane" of Hogwarts students, the Giant Squid was actually semi-domesticated.<ref name="PM">{{WW|the-great-lake}}</ref>
+
+==Biography==
+[[File:Slytherin_Squid.png|200px|thumb|The Squid passes by the [[Slytherin Dungeon|Slytherin Common Room]]]]
+It was very docile and helpful to the students of Hogwarts, such as when [[Dennis Creevey]] fell into the Lake, and he was immediately pushed safely back into the boat.<ref name="GOF12">{{GOF|B|12}}</ref> The squid was also known to have played with students, such as when [[Fred Weasley]], [[George Weasley]], and [[Lee Jordan]] tickled its tentacles as it was lying part way out of the lake,<ref name="PS16">{{PS|B|16}}</ref> and to have accepted food from students, such as when it received toast from [[Harry Potter]].<ref name="GOF18">{{GOF|B|18}}</ref>
+
+Early on in his time at Hogwarts, [[Ronald Weasley]] thought [[Tom Riddle]] may have received his [[Special Award for Services to the School]] for saving a teacher from the squid,<ref name="COS13">{{COS|B|13}}</ref> and in his fourth year, half-jokingly expressed his hope that there was some chance the squid would harm [[Viktor Krum]], who was bathing in the lake.<ref name="GOF24">{{GOF|B|24}}</ref> Needless to say, Riddle's award had nothing to do with Hogwarts' Giant Squid,<ref name="COS13"/> and Viktor was unharmed,<ref name="GOF24"/> as the squid was demonstrably not a threat to anyone.
+
+The squid had been seen as being either red<ref name="POAG">{{POA|G}}</ref> or purple in colour.<ref>[http://www.trollandtoad.com/p247652.html| Troll and Toad: Giant Squid card, Harry Potter Trading Card Game - 040 - uncommon.] The squid, on the card, is purple.</ref> However since squid in the wild can change their colour using cells called chromatophores that lay just below the surface of the skin, it is entirely possible the Giant Squid was also able to change colours and even patterns at will.
+
+==Behind the scenes==
+*[[J. K. Rowling]] once joked that the Squid is [[Godric Gryffindor]], one of the four founders of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. This would make it the world's largest [[Animagus]]. On the eleventh hour of every evening, the Squid would rise from the lake and transform into Gryffindor, who would wander the school grounds before returning at sunrise. She was unexpectedly taken seriously by many fans, before she was forced to clarify this was actually a joke.
+*After the release of ''[[Fantastic Beasts and Where to Find Them (film)|Fantastic Beasts and Where to Find Them]]'', fans speculated the Giant Squid may be the "dangerous creature" [[Newton Scamander|Newt Scamender]] released before being thrown out of Hogwarts. However, promotional material clarified that the creature in question was a [[Jarvey]], shooting down the theory.
+**Before the details of Newt's life were released, others fans had also theorised the Squid had been smuggled into Hogwarts by the [[Marauders]] as part of some prank. Unlike the previous one, this theory has not been debunked by official sources, though it may be in the future.
+[[File:LEGO_Giant_Squid.png|200px|thumb|The Giant Squid in {{LEGO|Y1}}]]
+*The Giant Squid has not appeared in any of the Harry Potter films. However, it was originally set to make a brief appearance in ''[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]]'' during the scene where Harry rides [[Buckbeak]] over Black Lake, as evidenced by an early script.<ref>[http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html ''Prisoner of Azkaban'' script at the Internet Movie Script Database] (archived [http://web.archive.org/web/20090216093016/http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html here] via the Internet Archive's Wayback Machine)</ref>
+[[File:Giant squid.gif|200px|thumb|The [[Giant Squid]]'s [[Chocolate Frog Card]]]]
+*The fact that the Giant Squid is magical may be how it is able to survive in the Black Lake as a normal giant squid is a deep-sea-dwelling creature and cannot live in fresh water that can be found in inland lochs in Scotland as the sunlight, pressure and lack of salinity, space and food would be fatal to it - bread and toast would also be unable to be digested by it, and sticks would break its skin if they tickled it. However, as the Durmstrang ship arrived by underwater portal and it is implied that you can travel to other places via underwater if magical, the giant squid may be able to do the same as the Ship and leave the loch and receive the required levels of space, salt, depth and food whenever it needs to. 
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{COS}} {{Mention}}
+*{{POA}}
+*{{POA|F}} {{C|Cut from final film}}
+*{{GOF}}
+*{{GOF|F}} {{C|Appears in artwork}}
+*{{OOTP}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{LEGO|Y1}}
+*{{PM}}
+*{{WW}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[fr:Calmar géant du lac de Poudlard]]
+[[pt-br:Lula Gigante de Hogwarts]]
+[[Category:Giant Squids]]
+[[Category:Individuals of unknown or undetermined gender]]

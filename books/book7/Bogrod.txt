@@ -1,0 +1,94 @@
+{{WizardsUniteSpoiler}}
+{{Youmay|the Gringotts employee|[[Bodrod the Bearded]], a goblin rebel}}
+{{Individual infobox
+|theme = gringotts
+|image = [[File:BogrodGringotts.jpg|250px]]
+|name = Bogrod
+|born = 
+|died = [[1 May]], [[1998]]<br />[[Gringotts Wizarding Bank]], [[Diagon Alley]], [[London]], [[England]]<ref name="DHF2"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = Black
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Gringotts Wizarding Bank|Gringotts Bank]] teller<ref name="DH26" />
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="DH26" />
+}}
+{{Dialogue a-b|Bogrod|Madam Lestrange! Dear me! How — how may I help you today?|Hermione Granger (as Bellatrix Lestrange)|I wish to enter my vault.|[[Hermione Granger]] in [[Polyjuice Potion|disguise]] as [[Bellatrix Lestrange]] asks Bogrod to permit her to enter Bellatrix' vault|Harry Potter and the Deathly Hallows}}
+'''Bogrod''' (d. [[1 May]], [[1998]]) was a [[Goblin]] and a bank teller at [[Gringotts Wizarding Bank]] in the late [[1990s]]. In [[1998]], during their [[Break-in of Gringotts Wizarding Bank (1998)|break-in]] of [[Gringotts Wizarding Bank]], [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]] put Bogrod under the [[Imperius Curse]] in order to enter [[Lestrange Vault]] undetected. Whilst the trio tried to escape, Bogrod was [[Fire|burnt]] to [[death]] by the [[Gringott's Dragon|security dragon]].
+
+==Biography==
+===Early life===
+Bogrod was apparently an elder [[Goblin]]. At some point in his life, he was employed by [[Gringotts Wizarding Bank]] and worked in the capacity of bank teller at the main offices in [[Diagon Alley]], by the [[1990s]].<ref name="DH26">{{DH|B|26}}</ref>
+
+===1998 Gringotts break-In and death===
+{{Dialogue a-b-a-c|Bogrod|You have… identification?|Hermione Granger (as Bellatrix Lestrange)|Identification? I — I have never been asked for identification before!|Your wand will do, madam.|Harry Potter| ''Imperio''!|Bogrod asks for "Bellatrix"'s identification, and [[Harry Potter]], under the [[Cloak of Invisibility|Invisibility Cloak]], places him under the [[Imperius Curse]]|Harry Potter and the Deathly Hallows}}
+
+[[File:BogrodImperius.png|251x251px|thumb|Harry casting the [[Imperius Curse]] to Bogrod allow them enter inside the vault]]
+
+As part of the [[Albus Dumbledore and Harry Potter's Horcrux Hunt|hunt]] for [[Tom Riddle|Lord Voldemort]]'s [[Horcrux]]es, [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]] had to break into the [[Lestrange Vault]] at [[Gringotts Wizarding Bank]] to retrieve [[Helga Hufflepuff's Cup|Helga Hufflepuff's cup]].<ref name="DH24">{{DH|B|24}}</ref>
+
+[[File:Bogrod_cart.jpg|195x195px|thumb|left|Bogrod driving the [[Mine Cart|mine cart]] to the [[Lestrange Vault]]]]
+
+On [[1 May]], [[1998]], [[Hermione Granger]], disguised as [[Bellatrix Lestrange]]; [[Ronald Weasley]], disguised as "Dragomir Despard"; [[Harry Potter]] and [[Griphook]], both under the [[Cloak of Invisibility|Invisibility Cloak]], set off to [[Diagon Alley]]. Upon their arrival at the bank, they were joined by [[Travers]], a [[Death Eaters|Death Eater]]. Given the [[Skirmish at Malfoy Manor|recent events]] at [[Malfoy Manor]], after which the occupants were confined to the Manor, Bellatrix's presence at the Bank aroused [[Travers]]'s and [[Goblin]]s' suspicion, so [[Harry Potter]] placed him and Bogrod, the clerk who was checking Bellatrix's identification, under the [[Imperius Curse]] so that they cooperated.<ref name="DH26" />
+
+[[File:Hpdh2-08970.jpg|236x236px|thumb|Bogrod, [[Griphook]], and [[Hermione Granger]] at [[Lestrange Vault]] in 1998]]
+While [[Travers]] was sent away, Bogrod escorted them on a [[Mine Cart|cart]] through the underground levels of the bank. The cart went through the [[Thief's Downfall]], after which Bogrod regained his conscious self momentarily before [[Harry Potter]] cast another [[Imperius Curse]] at him.<ref name="DH26" />
+
+[[File:Screen_shot_2011-11-11_at_4.55.06_PM.png|251x251px|thumb|Bogrod's last moments]]
+Bogrod lead them past the [[Gringott's Dragon|security dragon]], and opened the door to the [[Lestrange Vault]] to them. When the treasure inside began to multiply as a result of the [[Doubling Charm|Geminio]] and [[Flagrante Curse|Flagrante]] Curses being placed on it as a security measure, Hermione and Ron had to struggle to keep Bogrod from falling under the tide.<ref name="DH26" /> When [[Griphook]] left the Vault with [[Godric Gryffindor's Sword]] and joined the [[Goblin]]s that tried to stop the trio Bogrod left too and, still confused by the [[Imperius Curse]] cast on him, stood within the [[Gringott's Dragon|security dragon]]'s reach and was subsequently burned to death by a jet of [[fire]] it breathed.<ref name="DHF2">{{DH|F2}}</ref>
+
+===The Calamity===
+During the [[Calamity]] which affected the [[Wizarding world]] in the [[2010s]], a [[Foundable]] [[memory]] of Bogrod could be found trapped in a [[Atmospheric Charm|storm]] [[Confoundable]]. Members of the [[Statute of Secrecy Task Force]] had to free him with ''[[Meteolojinx Recanto]]'', which eradicated the storm cloud and sent the Foundable back to its original place.<ref name="WU">{{WU}}</ref> 
+
+==Behind the scenes==
+[[File:BogrodWU.png|110px|thumb|Bogrod as he appears in {{WU}}]]
+*Bogrod was portrayed by [[Jon Key]] in {{DH|F2}}.<ref>http://www.imdb.com/name/nm1697773/</ref>
+*Despite this line was cut from the final film, the original {{DH|F2}} screenplay included a line in which an [[Imperius Curse|Imperiused]] Bogrod intimidates another Goblin to let "Madam Lestrange" into her vault by saying "''I've run this bank for forty-five years, long before anyone had even heard of a Death Eater. The day may come that they feel they can run this place better than me, but that day has not yet arrived. Am I understood?''"<ref name="script">[http://pt.scribd.com/doc/163084623/HARRY-POTTER-AND-THE-DEATHLY-HALLOWS-PART-2-by-screenplay-Steve-Kloves#scribd ''Harry Potter and the Deathly Hallows - Part 2'' screenplay by Steve Kloves]</ref> The novel implies, however, that even though Bogrod enjoys some seniority (being assisted by a younger goblin on command), he does not run the bank: another goblin reminds him that they are to follow higher instructions regarding [[Bellatrix Lestrange]].
+*In the [[Harry Potter and the Deathly Hallows: Part 2|film adaptation]] of {{DH}}, Bogrod fails to escape with [[Griphook]] and is scorched to death by the dragon. In the book, what happened to Bogrod is unspecified, and we last hear of him when Ron and Hermione struggle to keep him from falling under the tide of multiplying gold at the [[Lestrange Vault]]. His remains were never shown except in {{LEGO|Y2}} where his skeleton appears after getting burned.
+
+==Appearances==
+{{Imagecat|Images of Bogrod}}
+*{{DH}} {{1st}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{LEGO|Y2}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Bogrod]]
+[[es:Bogrod]]
+[[fr:Bogrod]]
+[[it:Bogrod]]
+[[pl:Bogrod]]
+[[ru:Богрод]]
+[[Category:1998 deaths]]
+[[Category:Bankers]]
+[[Category:Black-eyed individuals]]
+[[Category:Break-in of Gringotts Wizarding Bank (1998)]]
+[[Category:British individuals]]
+[[Category:Deaths by creature]]
+[[Category:Deaths by fire]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Imperius Curse victims]]
+[[Category:Males]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Foundables]]

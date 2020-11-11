@@ -1,0 +1,39 @@
+{{Creature infobox
+|image = 
+|name = Blood-Sucking Bugbear
+|skin = 
+|eyes = 
+|hair = 
+|feathers = 
+|related = 
+|native = [[Scotland]]<ref name="COS11"/>
+|alias = 
+|height = 
+|length = 
+|wingspan = 
+|mortality = 
+|distinction = [[Blood]] consuming (presumably)<ref name="COS11"/>
+|affiliation = 
+|class = [[Beast]] (most likely)
+|status = 
+}}The '''Blood-Sucking Bugbear''' is a [[magic]]al [[creature]] apparently found in [[Scotland]].<ref name="COS11"/>
+
+==History==
+In [[1992]], following the killing of two of his roosters, [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] gamekeeper [[Rubeus Hagrid]] suspected that either a Blood-Sucking Bugbear or [[fox]]es from the Forbidden Forest were responsible, implying such creatures inhabited the forest. [[Harry Potter]] caught Hagrid while he was on his way to ask [[Albus Dumbledore]] for permission to place a [[charm]] around the coop in order to protect the chickens from further attacks.<ref name="COS11">{{COS|B|11}}</ref> However, as it turned out, [[Ginevra Weasley|Ginny Weasley]] had killed the chickens while she was possessed by [[Tom Riddle]].<ref name="COS17">{{COS|B|17}}</ref>
+
+==Behind the scenes==
+*The {{wplink|Bugbear}} is an imaginary creature historically used to frighten naughty children into behaving.<ref>"[http://en.wikipedia.org/wiki/Bugbear Bugbear]" on Wikipedia</ref> Today, the term bugbear is used to describe something that is a source of dread, resentment, or irritation.<ref>"[http://en.wiktionary.org/wiki/bugbear Bugbear]" on Wiktionary</ref>
+*Given that bugbear is a regional term for what is also called a [[boggart]], it is possible that the Blood-Sucking Bugbear is a variety or relative of boggart. This may be why [[Newton Scamander]] does not cover the creature in the fifty-second edition of {{FB}} (as boggarts are [[non-being]]s).
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{COS|F}} {{Comment|Mentioned in deleted scene}}
+
+==Notes and references==
+{{Reflist}}[[de:Blutsaugendes Gespenst]]
+[[fr:Gobelin buveur de sang]]
+[[it:Spauracchio Succhia-Sangue]]
+[[Category:Creatures from Scotland]]
+[[Category:Forbidden Forest]]
+[[Category:Muggle-known creatures]]
+[[Category:Uncertain classification]]

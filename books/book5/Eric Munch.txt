@@ -1,0 +1,64 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Eric Munch.jpg|250px]]
+|name = Eric Munch
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Watchwizard]] at the [[British Ministry of Magic]]
+|house = 
+|loyalty = [[British Ministry of Magic]]
+}}
+'''Eric Munch''' was a [[Great Britain|British]] [[Wizardkind|wizard]], who was employed as a [[watchwizard]] at the [[British Ministry of Magic]].<ref name="op14">{{OOTP|B|14}}</ref> He was poorly-shaven and wore peacock blue robes when on duty.<ref name="op7">{{OOTP|B|7}}</ref>
+
+==Biography==
+Much was working for the [[British Ministry of Magic]] by [[August]] [[1995]]. During the day, Munch sat at the [[Ministry of Magic Security Desk|security desk]] on the left side of the Atrium, checking visitors with a [[Probity Probe]] and registering their [[wand]]s before giving them clearance to enter. Munch seemed to find this portion of his job very tedious. When [[Harry Potter]] stopped by the security desk on the way to a hearing on [[12 August]] 1995, Munch went through the check-in protocols mechanically, only noticing the famous [[Harry Potter's scars#The lightning-bolt scar|lightning-bolt scar]] when he had finished. Realising who Harry was, Munch asked him to wait, but [[Arthur Weasley]] dragged Harry away from the security desk.<ref name="op7" />
+
+Munch apparently also worked the night shift on occasion. He caught [[Sturgis Podmore]] trying to break into [[Department of Mysteries]] at one o'clock in the morning on [[31 August]], [[1995]] and arrested him on charges of trespass and attempted robbery.<ref name="op14" />
+
+Sometime in the [[2010]]s, Munch had to be rescued from the [[Department of Mysteries]]' [[Brain Room]] by the more recently hired [[Grim Fawley]].<ref>{{WU}} - [https://wizardsunite.gamepress.gg/foundable/redacted-report Redacted Report]: "A thorough reading of the report shows that Grim Fawley appears to have come to the rescue of Ministry Watchwizard Eric Munch in the Department of Mysteries' Brain Room."</ref>
+
+==Behind the scenes==
+*Munch was featured on a conceptual art for {{OOTP|FA}}. He was not, however, featured in the actual film.
+*Eric Munch's conspicuous absence during the [[Battle of the Department of Mysteries]] is noted by Harry when he arrives, apparently not being on duty that night. Alternatively, unless he was incapacitated by the Death Eaters and put somewhere out of sight as not to arouse the suspicion of those who might pass through the Atrium after their arrival,  it is possible that Lucius Malfoy or one of the other Death Eaters present with ties to the Ministry was able to arrange a distraction that would keep him occupied elsewhere so that the Death Eaters could enter the Department of Mysteries unseen.
+
+==Etymology==
+The name "Eric" comes from the Old Norse name Eiríkr, derived from the elements ei "ever" and ríkr "ruler". A notable bearer was Eiríkr inn Rauda (Eric the Red in English), a 10th-century navigator and explorer who discovered Greenland. This was also the name of several early kings of Sweden, Denmark and Norway.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Munch, Eric}}
+
+
+[[de:Eric Munch]]
+[[es:Eric Munch]]
+[[fr:Éric Munch]]
+[[ru:Эрик Манч]] [[pl:Eryk Munch]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Ministry of Magic employees]]
+[[Category:Security guards]]
+[[Category:Wizards]]

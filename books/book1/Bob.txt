@@ -1,0 +1,63 @@
+{{Youmay|Arthur Weasley's co-worker|[[Bob (disambiguation)|another person with the same name]]}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Bob Ministry.jpg|250px]]
+|name = Bob
+|born = before [[1978]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP7"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP7"/>
+|gender = Male<ref name="OOTP7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Department for the Regulation and Control of Magical Creatures]] employee<ref name="OOTP7"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="OOTP7"/>
+*[[Department for the Regulation and Control of Magical Creatures]]<ref name="OOTP7"/>
+}}
+{{Dialogue a-b-a|Bob|All right, Arthur?|Arthur Weasley|What've you got there, Bob?|We're not sure. We thought it was a bog-standard chicken until it started breathing fire. Looks like a serious breach of the Ban on Experimental Breeding to me.|Bob meeting [[Arthur Weasley]] in the morning of [[12 August]], [[1995]]|Harry Potter and the Order of the Phoenix}}
+'''Bob''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who worked for the [[British Ministry of Magic]], under the [[Department for the Regulation and Control of Magical Creatures]]. He was described as big and bearded.<ref name="OOTP7">{{OOTP|B|7}}</ref>
+
+==Biography==
+[[Arthur Weasley]] and [[Harry Potter]] ran into Bob while waiting for a lift in the Ministry lobby on the [[12 August]] [[1995]], the day of Harry's [[Disciplinary hearing of Harry Potter|disciplinary]] hearing. He was carrying a large cardboard box that contained a [[Fire-breathing chicken]] that he strongly suspected was a serious violation of the [[Ban on Experimental Breeding]]. When the lift arrived, he got on with Arthur and Harry, and exited at the floor of the [[Department for the Regulation and Control of Magical Creatures]], the department in which he worked for.<ref name="OOTP7">{{OOTP|B|7}}</ref>
+
+==Magical abilities and skills==
+*'''[[Magizoology]]''': As an employee for the [[Department for the Regulation and Control of Magical Creatures]] under the [[British Ministry of Magic]], Bob would have been knowledgeable and experienced in the study of [[magic]]al [[creature]]s, such as with the handling and classification of them. He was able to quickly detect that a [[Fire-breathing chicken]] was a [[Wizardkind|wizard]]-bred creature, showing his knowledge in this field.<ref name="OOTP7"/> 
+
+==Behind the scenes==
+*In {{OOTP|FA}}, Bob is played by [[Nicholas Blane]].
+*In {{LEGO|Y2}}, he appears as a generic [[Wizardkind|wizard]] wearing red robes/cape and black pointed hat.<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{LEGO|Y2}}
+*{{HPV|CH}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 4 employees}}
+[[de:Bob]]
+[[es:Bob]]
+[[ru:Боб]]
+[[fr:Bob]]
+[[pl:Bob]]
+[[pt-br:Bob]]
+[[Category:British individuals]]
+[[Category:Department for the Regulation and Control of Magical Creatures personnel]]
+[[Category:Males]]
+[[Category:Wizards]]

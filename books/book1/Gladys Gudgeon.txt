@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Gladys Gudgeon
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COS7"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COS7"/>
+|gender = Female<ref name="COS7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Davey Gudgeon]] (possibly)
+*[[Galvin Gudgeon]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Gilderoy Lockhart]]<ref name="COS7"/><ref name="OOTP23"/>
+*[[Gudgeon family]]
+}}
+{{Quote|I am not forgotten, you know, no, I still receive a very great deal of fan mail... Gladys Gudgeon writes weekly... I just wish I knew why...|An amnesiac [[Gilderoy Lockhart]] about Gladys's continued admiration of him|Harry Potter and the Order of the Phoenix}}
+'''Gladys Gudgeon''' was a [[Wizardkind|witch]] and fan of [[Gilderoy Lockhart]].<ref name="COS7">{{COS|B|7}}</ref><ref name="OOTP23"/> She wrote fan letters to him every week,<ref name="COS7"/> and continued to do so when Lockhart was admitted to [[St Mungo's Hospital for Magical Maladies and Injuries]].<ref name="OOTP23"/> Lockhart once remarked that he had no idea why.<ref name="OOTP23">{{OOTP|B|23}}</ref>
+
+==Etymology==
+The name "Gladys" is from the old Welsh name ''Gwladus'', possibly derived from ''gwlad'' "country".
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Gudgeon, Gladys}}
+[[es:Gladys Gudgeon]]
+[[fr:Gladys Gourdenièze]]
+[[it:Gladys Gudgeon]]
+[[pl:Gladys Gudgeon]]
+[[de:Gladys Gudgeon]]
+[[nl:Gladys Grondel]]
+[[ru:Глэдис Гаджен]]
+[[zh:格拉迪丝·格杰恩]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Gudgeon family]]
+[[Category:Wizards]]

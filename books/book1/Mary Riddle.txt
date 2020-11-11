@@ -1,0 +1,73 @@
+{{Youmay|[[Tom Riddle|The Dark Lord's]] paternal grandmother|[[Mary (disambiguation)|someone else with the same first name]]}}
+{{Individual infobox
+|image = [[File:Mary Riddle grave.png|250px]]
+|name = Mary Riddle
+|born = [[1883]]
+|died = [[August]]<ref>In the Riddle House in the 1990s, there is a calendar -- [[:File:1943RiddleHouseCalendar.png]] -- for 1943, which is still set on August, implying that was the month Thomas, Tom and Mary all died</ref>, [[1943]] (aged 59 - 60)<br />[[Riddle House]], [[Little Hangleton]], [[England]], [[Great Britain]]
+|blood = [[Non-magic people|Muggle]]
+|nationality = [[England|English]]
+|marital = Married
+|species = [[Human]]
+|gender = Female
+|family = *[[Thomas Riddle]] (husband) †
+*[[Tom Riddle Senior|Tom Riddle Snr]] (son) †
+*[[Merope Riddle|Merope Gaunt]] (daughter-in-law) †
+*[[Tom Riddle|Tom Marvolo Riddle]] (grandson) †
+*[[Delphini]] (great-granddaughter)
+|loyalty = [[Riddle family]]
+|theme = muggle
+|hideb = 
+|hidep = 
+|hidef = 
+|hidea = 
+}}
+{{Quote|Nobody wasted their breath pretending to feel very sad about the Riddles, for they had been most unpopular.|Description of Little Hangleton's reaction to the Riddle murders|Harry Potter and the Goblet of Fire}}
+
+'''Mary Riddle''' ([[1883]]–[[1943]]) was an [[England|English]] [[Non-magic people|Muggle]], the wife of [[Thomas Riddle]] and mother of [[Tom Riddle Senior|Tom Riddle]] and thus the paternal grandmother of [[Tom Riddle|Tom Marvolo Riddle]], also known as Lord Voldemort. She was part of the wealthiest family in the village of [[Little Hangleton]]. The [[Riddle family|Riddles]] were very snobbish and elitist who looked down upon most other people in town, in particular the poverty-stricken [[House of Gaunt]] that lived nearby, becoming very unpopular amongst them.
+
+==Biography==
+===Early life===
+Mary was born in [[1883]]. At some point in her life she married [[Thomas Riddle]], a man born into the wealthy [[Riddle family]]. In [[1905]], she gave birth to a son, [[Tom Riddle Senior|Tom Riddle]].
+
+===Son's marriage===
+Mary and [[Thomas Riddle|her husband]] suffered great scandal when [[Tom Riddle Senior|Tom]] abruptly married [[Merope Riddle|Merope Gaunt]], the daughter of "tramp" [[Marvolo Gaunt]]. Merope was one of the [[House of Gaunt|Gaunts]], a wizarding family. She had entranced Tom by means of the [[Imperius Curse]] or, more likely, a [[Love Potion]]. The couple left for [[London]], where Merope became pregnant and stopped giving Tom Riddle with love potions. Coming to his senses, Tom left Merope and returned to his parents' home in [[Little Hangleton]], claiming to have been "hoodwinked" and "taken in" by Merope. Merope would die soon after giving birth to [[Tom Riddle|Tom Marvolo Riddle]], living only long enough to name him.
+
+===Murder===
+In [[1943]], sixteen-year-old [[Tom Riddle|Tom Marvolo Riddle]], who would later take on the alias [[Tom Riddle|Lord Voldemort]], ventured to [[Little Hangleton]] to investigate his heritage. He learned the details of his parents' union from his uncle [[Morfin Gaunt]] (Merope's brother) and sought revenge on what he saw as the man who caused his mother's death. Tom Marvolo Riddle went to the [[Riddle House]] to murder [[Tom Riddle Senior|his father]] and ended up killing Mary and [[Thomas Riddle]] in order to erase his "filthy" [[Non-magic people|Muggle]] heritage, too. The Muggles were baffled at how the Riddles died, autopsies stating they were in perfectly good health at the time of death with no signs of external damage, only a look of terror on all of their faces. Mary was buried in the [[Little Hangleton graveyard]] along with her son and husband, but their deaths were not mourned by the town due to their snobbishness.
+
+==Etymology==
+The name "Mary" is the usual English form of Maria, which was the Latin form of the New Testament Greek names Μαριαμ (Mariam) and Μαρια (Maria) - the spellings are interchangeable - which were from the Hebrew name מִרְיָם (Miryam). The meaning is not known for certain, but there are several theories including "sea of bitterness", "rebelliousness", and "wished for child". However it was most likely originally an Egyptian name, perhaps derived in part from mry "beloved" or mr "love".
+
+==Appearances==
+*{{GOF}} {{C|Name appears on tombstone}}
+*{{GOF|F}} {{1st ID}}
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Riddle, Mary}}
+
+[[de:Thomas und Mary Riddle]]
+[[es:Mary Ryddle]]
+[[fi:Mary Valedro]]
+[[fr:Mary Jedusor]]
+[[nl:Mary Vilijn]]
+[[no:Mary Venster]]
+[[pl:Mary Riddle]]
+[[ru:Мэри Реддл]]
+[[sv:Thomas och Mary Dolder]]
+[[pt-br:Mary Riddle]]
+
+[[Category:1883 births]]
+[[Category:1943 deaths]]
+[[Category:Buried at Little Hangleton graveyard]]
+[[Category:Deaths by Killing Curse]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Riddle family|Mary]]

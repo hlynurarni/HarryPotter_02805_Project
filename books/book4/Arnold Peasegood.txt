@@ -1,0 +1,86 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Arnold Peasegood
+|born = [[1976]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = Arnie
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Abraham Peasegood]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Obliviator]] (formerly)
+*[[Hit Wizard]]
+|house = 
+|loyalty = [[British Ministry of Magic|Ministry of Magic]]
+}}
+'''Arnold "Arnie" Peasegood''' was a wizard who worked at the [[British Ministry of Magic|Ministry of Magic]]. By [[1994]], he worked in the capacity of [[Obliviator]] for the [[Accidental Magic Reversal Squad]]<ref name="GF7">{{GOF|B|7}}</ref> and by [[1999]] worked as a [[Hit Wizard]].<ref name="DP">{{DP}}</ref>
+
+==Biography==
+===1994 Quidditch World Cup===
+Peasegood was one of the Ministry officials stationed at [[Roberts|Mr Roberts]]' [[Mr Roberts's campsite|campsite]] during the final of the four-hundred and twenty-second [[Quidditch World Cup]], in [[1994]].<ref name="GF7" />
+
+===Chipping Clodbury riot===
+Peasegood was present during the infamous [[Chipping Clodbury riot]], in [[1999]]. During the riot, he managed to arrest three [[Goblin]]s and suffered a [[Pimple Jinx|minor attack of boils]].<ref name="DP" />
+
+==Etymology==
+The name "Arnold" comes from a Germanic name meaning "eagle power", derived from the elements arn "eagle" and wald "power". It was brought by the Normans to England, where it replaced the Old English cognate Earnweald. It died out as an English name after the Middle Ages, but it was revived in the 19th century.
+==Behind the scenes==
+===Translations===
+*Bulgarian: ''Арнолд Пийзгуд {{c|Arnold Piizgud}}''
+*Czech: ''Arnold Hrachorád ''
+*Danish: ''Arnold Mnemopax''
+*Dutch: ''Abraham Preiloof'' (''preiloof'' "leek leaves")
+*French:'' Arnold Bondupois''
+*German: ''Arnold Friedlich'' (''friedlich'' "peaceful")
+*Hebrew: ''ארנולד פיזגוד''
+*Japanese: ''アーノルド・ピースグッド''
+*Norwegian: ''Arnold Pesegod''
+*Polish: ''Arnold Peasgood''
+*Ukrainian: ''Арнольд Горошок {{c|Arnol'd Goroshok}}'' (''Goroshok'' "pease")
+The following languages are the same as the original:
+{|
+|
+*Croatian
+|
+*Faroese
+|}
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{DP}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Peasegood, Arnold}}
+
+{{Ministry Level 2 employees}}
+{{Ministry Level 3 employees}}
+
+[[de:Arnold Friedlich]]
+[[es:Arnold Peasegood]]
+[[fr:Arnold Bondupois]]
+[[pl:Arnold Peasegood]]
+[[pt-br:Arnoldo Peasegood]]
+[[ru:Арнольд Миргурд]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals]]
+[[Category:Hit Wizards]]
+[[Category:Males]]
+[[Category:Obliviators]]
+[[Category:Wizards]]

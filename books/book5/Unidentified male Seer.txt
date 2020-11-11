@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Unidentified male Seer
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Seer]]<ref name="OOTP35"/>
+|signature = 
+|species = [[Human]] ([[Seer]])<ref name="OOTP35"/>
+|gender = Male<ref name="OOTP35"/>
+|height = 
+|weight = 
+|hair = Unknown, bearded<ref name="OOTP35"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Seer]]<ref name="OOTP35"/>
+|house = 
+|loyalty = 
+}}
+{{Quote| ''[…] at the Solstice will come a new […]''|The [[Seer]]'s [[prophecy]]|Harry Potter and the Order of the Phoenix}}
+
+This '''unidentified [[Seer]]''' was an elderly, bearded [[Wizardkind|wizard]] who made a little known [[Prophecy at the Department of Mysteries (I)|prophecy]] that was held in the [[Hall of Prophecy]]. His [[Prophecy Record]] was broken during the [[Battle of the Department of Mysteries]].<ref name="OOTP35">{{OOTP|B|35}}</ref>
+
+==Behind the scenes==
+This seer speaks of something occurring on the [[Solstice]]. Both the Winter and Summer Solstice have been recognised and celebrated in many cultures around the world. Perhaps coincidentally, the release date of the final book was announced during Winter Solstice 2006.
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Ghost}}
+
+==Notes and references==
+{{Reflist}}
+{{Divination}}
+
+[[es:Vidente masculino no identificado]]
+[[pt-br:Vidente masculino não identificado]]
+[[Category:British individuals|Seer]]
+[[Category:Males|Seer]]
+[[Category:Seers|male Seer]]
+[[Category:Unidentified individuals|Seer]]
+[[Category:Wizards|Seer]]

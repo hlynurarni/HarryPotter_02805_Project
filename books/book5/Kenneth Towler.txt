@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:KennethTowler.png]]
+|name = Kenneth Towler
+|born = between [[1 September]] [[1977]] and [[31 August]] [[1978]] (probably) 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP12"/>
+|gender = Male<ref name="OOTP12"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="PM">{{PM}}</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]<ref name="PM"/>
+}}
+'''Kenneth Towler''' was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1989]], and was [[Sorting ceremony|sorted]] into [[Gryffindor]].<ref name="PM"/> In his [[fifth year]], [[Fred Weasley]] put [[Bulbadox powder]] in his pyjamas, causing his skin to break out in boils.<ref name="OOTP12">{{OOTP|B|12}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Towler, Kenneth}}
+[[de:Kenneth Towler]]
+[[fr:Kenneth Towler]]
+[[pl:Kenneth Towler]]
+[[ru:Кеннет Таулер]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in 1989]]
+[[Category:Wizards]]

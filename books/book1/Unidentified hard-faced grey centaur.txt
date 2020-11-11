@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = centaur
+|image = [[File:Centaurs.JPG|250px]]
+|name = Unidentified hard-faced grey Centaur
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Centaur]]<ref name="OOTP30"/><ref name="OOTP33"/>
+|gender = Male<ref name="OOTP30"/><ref name="OOTP33"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="OOTP30"/><ref name="OOTP33"/>
+|eyes = 
+|skin = Grey<ref name="OOTP30"/><ref name="OOTP33"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Forbidden Forest Centaur colony]]<ref name="OOTP30"/><ref name="OOTP33"/>
+}}
+{{Quote|We are not all like the traitor [[Firenze]], [[human]] [[Hermione Granger|girl]]|Unidentified hard-faced [[centaur]]|Harry Potter and the Order of the Phoenix}}
+
+This '''centaur''' lived in the [[Forbidden Forest Centaur colony]].<ref name="OOTP30"/><ref name="OOTP33"/>
+
+==Biography==
+by the [[1995-1996 school year]]. He resented the [[centaur]] [[Firenze]] going to work for [[Albus Dumbledore]], and considered it going "into servitude to [[human]]s." After [[Rubeus Hagrid]] saved Firenze, this centaur with the other centaurs kicked both Firenze and Hagrid out, and resented Hagrid's [[giant]] half-brother [[Grawp]].<ref name="OOTP30">{{OOTP|B|30}}</ref>
+
+{{Dialogue a-b|Centaur|What are you doing in our forest? Why are you here?|Umbridge|'Your' forest? I would remind you that you live here only because the [[British Ministry of Magic|Ministry of Magic]] permits you certain areas of land-|hard-faced centaur and [[Dolores Umbridge]]|Harry Potter and the Order of the Phoenix}}
+
+Later that year, the centaur with his allies attacked [[Dolores Umbridge]], when she entered their area of the forest, and took Umbridge when she called centaurs "of near-human intelligence." After ridding themselves of Umbridge, this centaur and [[Unidentified centaur|another]] tried to decide what to do with [[Harry Potter]] and [[Hermione Granger]] who had insulted them, despite the latter's protests. Fortunately, this centaur and the others were scared off by [[Grawp]].<ref name="OOTP33">{{OOTP|B|33}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Centaurs]]
+[[Category:Forbidden Forest]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]

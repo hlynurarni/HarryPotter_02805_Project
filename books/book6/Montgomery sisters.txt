@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Montgomery sisters
+|born = Circa [[1978]]-[[1985]]<ref>They were attending Hogwarts School of Witchcraft and Wizardry in the [[1996–1997 school year]], so circa 11-18</ref> 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Montgomery sisters' mother|Mother]]
+*[[Montgomery]] (brother) †
+*[[Phillip Montgomery]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Montgomery family]]
+}}
+The '''Montgomery sisters''' were two [[Wizardkind|witches]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in [[1997]]. Their five-year old [[Montgomery|brother]] was bitten by the savage [[werewolf]] [[Fenrir Greyback]] when their mother refused to help the [[Death Eaters]]. Their brother later [[Death|died]] at [[St Mungo's Hospital for Magical Maladies and Injuries]], because the [[Healer]]s there were unable to save his life, given the extent of his injuries.<ref name="HBP22">{{HBP|B|22}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Schwestern Montgomery]]
+[[es:Hermanas Montgomery]]
+[[fr:Sœurs Montgomery]]
+[[pl:Siostry Montgomery]]
+[[ru:Сёстры Монтгомери]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Montgomery family]]
+[[Category:Unidentified Hogwarts Students]]
+[[Category:Unknown House]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

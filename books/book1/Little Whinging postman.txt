@@ -1,0 +1,43 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Muggle postman
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Postman
+|house = 
+|loyalty = 
+}}
+This '''individual''' was a [[Non-magic people|Muggle]] postman, whose route in [[Little Whinging]] included [[Privet Drive]]. In the summer of [[1994]], the postman delivered a [[Molly Weasley's letter to Vernon and Petunia Dursley (1994)|letter]] to the [[Dursley family]], although he chose to ring the doorbell and deliver the letter personally instead of leaving it in the mailbox. The letter in question had been sent by [[Molly Weasley]], who chose to use [[Muggle Mail|Muggle post]] instead of an [[owl]], and was absolutely covered in postage stamps save for a small space where she had written their address. The postman had found this as rather amusing, although [[Vernon Dursley]] did not.<ref>{{GOF|B|3}}</ref>
+
+==Appearances==
+*{{GOF}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Cartero de Little Whinging]]
+[[Category:British individuals]]
+[[Category:Males]]
+
+[[Category:Unidentified Muggles‎]]

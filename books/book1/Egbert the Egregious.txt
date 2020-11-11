@@ -1,0 +1,73 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Egbert the Egregious.jpg
+|name = Egbert the Egregious
+|born = [[Middle Ages]]
+|died = Middle Ages
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = *Unknown wand<ref>It is most likely that he owned another wand before the [[Elder Wand]].</ref>
+*[[Elder Wand|Elder, Thestral tail hair core]]
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Egbert the Egregious''' was a [[Wizardkind|wizard]] who lived in the [[Middle Ages]].<ref name="TBBE">{{TBB|E}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref>
+
+He was once the Master of the [[Elder Wand]] after killing [[Emeric the Evil]] in a [[Duel Between Emeric the Evil and Egbert the Egregious|ferocious duel]] (Emeric was "slaughtered"). 
+What became of Egbert after mastering the [[Elder Wand]] is unknown, but Dumbledore suggests Egbert did not last long. Therefore, it is possible that another wizard killed him in order to gain ownership of the legendary [[wand]]. A century later, [[Godelot]] is recorded to have obtained mastery of the wand.<ref name="TBBE">{{TBB|E}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref>
+
+==Magical abilities and skills==
+*'''[[Martial magic]]''': Egbert was notable for being the only known wizard, apart from [[Albus Dumbledore]], to defeat the master of the [[Elder Wand]] in a [[Duel between Emeric the Evil and Egbert the Egregious|duel]], managing to slaughter [[Emeric the Evil]] in a battle for the wand, showing his exceptional proficiency and power as a duellist. Despite this, Dumbledore suspects that he may have lost the Elder Wand in a duel himself.<ref name="TBBE">{{TBB|E}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref> 
+
+==Etymology==
+The name "Egbert" means "bright edge" from the Old English elements ''ecg'' "edge of a sword" and ''beorht'' "bright". This was the name of kings of Kent and Wessex as well as two English saints. The name was rarely used after the Norman conquest but was revived in the 19th century.
+
+==Behind the scenes==
+*Judging by his title ''egregious'' which is defined as outstandingly bad, Egbert was presumably a notorious [[dark wizard]] himself. His activities are unknown, other than his battle for possession of the [[Elder Wand]].
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{TBB|R}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Emeric the Evil]]
+|position=Master of the [[Elder Wand]]
+|years=
+|successor=Unknown, eventually [[Godelot]]
+}}
+{{End box}}
+{{Deathly Hallows Owners}}
+[[de:Egbert der Ungeheuerliche]]
+[[fr:Egbert le Magnifique]]
+[[pl:Egbert Zuchwały]]
+[[pt-br:Egberto, o Notável]]
+[[ru:Эгберт Эгоист]]
+[[Category:British individuals]]
+[[Category:Elder Wand masters]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Wizards]]

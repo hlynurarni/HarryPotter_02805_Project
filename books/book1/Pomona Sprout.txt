@@ -1,0 +1,340 @@
+{{Spoiler|MA|PAS|WU|HM}}
+{{FA}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:HP72-FP-00573.jpg|250px]]<!--Please do not change. This image is the most recent image of Sprout available.-->
+|name = Pomona Sprout
+|born = [[15 May]]<ref name="birthday">{{JKRS}}; [https://twitter.com/pottermore/status/334657953305083904 Pottermore Twitter]</ref>
+|died = 
+|blood = [[Half-blood]] or [[Pure-blood]]<ref name="Blood">She was still employed at Hogwarts when it was under the rule of the [[Death Eaters]], so she obviously was not [[Muggle-born]].</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]<ref name="PS8">{{PS|B|8}}</ref>
+*[[Head of Hufflepuff House|Head of Hufflepuff]]<ref name="GF18"/><ref name="GF36">{{GOF|B|36}}</ref>
+*[[Head of Herbology]]
+*[[Madam]]<ref name="CSf12">{{COS|F}} - Chapter 12 (''Writing on the Wall'')</ref>
+|signature = 
+|species = [[Human]]<ref name="PS8"/>
+|gender = Female<ref name="PS8"/>
+|height = Squat<ref name="PS8"/>
+|weight = 
+|hair = Grey<ref name="GF12">{{GOF|B|12}}</ref>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = [[Pomona Sprout's wand|Unknown length, wood and core]]<ref name="CSf10"/>
+|patronus = Non-corporeal<ref name="LEGOY1"/><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = *[[Herbologist]]<ref name="PS8"/>
+*[[Professor|Head]] of the [[Herbology department]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS8"/> (post [[1955]]-?<ref name="Epilogue">{{DH|B|E}}</ref>
+*[[Head of Hufflepuff House]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="GF36"/> (pre. 1984-pre [[2014]])<ref name="Epilogue"/>
+|house = [[Hufflepuff]]<ref name="House">[http://web.archive.org/web/20100205004653/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=62 "If a teacher is head of a house, can we assume that they were sorted into those houses when they were students at Hogwarts? Is that also true for the house ghosts? So was Snape a Slytherin?"] on [[J. K. Rowling's official site|J.K.Rowling Official Site]]</ref><ref name=POB>[http://www.accio-quote.org/themes/hogwarts.htm|What Jo says about... Hogwarts, including the Houses of Gryffindor, Ravenclaw, Slytherin & Huffelpuff]</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS8"/>
+**[[Herbology department]]
+**[[Hufflepuff]]
+*[[Order of the Phoenix]] (during [[Battle of the Astronomy Tower]] and [[Battle of Hogwarts]])
+*[[Dumbledore's Army]] (during [[Battle of the Astronomy Tower]] and [[Battle of Hogwarts]])
+}}
+{{Quote|I am sure [[Albus Dumbledore|Dumbledore]] would have wanted the school to remain open. I feel that if a single pupil wants to come, then the school ought to remain open for that pupil.|Sprout's view on Hogwarts and education|Harry Potter and the Half-Blood Prince}}
+'''Professor Pomona Sprout''' (b. [[15 May]])<ref name="birthday" /> was a [[Wizardkind|witch]] who worked as [[Head of Hufflepuff House]] and [[Professor|Head]] of the [[Herbology]] [[Herbology department|department]] at [[Hogwarts School of Witchcraft and Wizardry]]. She attended the school in her youth, where she was [[Sorting ceremony|Sorted]] into [[Hufflepuff]] and excelled at [[Herbology]]. Some time after her [[Seventh year|graduation]], Sprout returned to Hogwarts to teach.
+
+Professor Sprout opposed [[Tom Riddle|Lord Voldemort]] during the [[Second Wizarding War]]. In [[1993]], she grew the [[Mandrake]]s that would later be used in the [[Mandrake Restorative Draught]] to cure those who were petrified by [[Salazar Slytherin's Basilisk|Slytherin's Monster]]. She also opposed [[Dolores Umbridge]] and her tyranny over the school in the [[1995-1996 school year]], which the rest of the staff were happy to join her in doing, voted for the school to remain open after the [[Battle of the Astronomy Tower]], and assisted in [[Ousting of Severus Snape|ousting Severus Snape]] in [[1998]]. Sprout took a group of students to the battlements during the [[Battle of Hogwarts]] and threw [[Devil's Snare]] and various other dangerous plants onto the invading [[Death Eaters]].
+
+She ultimately survived the War. By the early [[21st century]], [[Neville Longbottom]] taught Herbology, alongside her.<ref name="MA">{{MA}}</ref>
+
+==Biography==
+===Early life===
+[[File:Hogwarts_boats_1.jpg|251x251px|thumb|left|First years approaching [[Hogwarts Castle]] to begin their magical education]]
+Pomona Sprout was born into a wizarding family of unknown degree<ref name="Blood" /> on [[15 May]]<ref name="birthday" /> in [[Great Britain|Britain]] or [[Ireland]].<ref name="POB" /> She presumably purchased her wand from [[Diagon Alley]] at the age of eleven, prior to attending [[Hogwarts School of Witchcraft and Wizardry]].
+
+She was [[Sorting ceremony|Sorted]] into [[Hufflepuff|Hufflepuff House]]<ref name="House" /> upon her arrival at Hogwarts and excelled at [[Herbology]], which may have been taught by [[Herbert Beery|Professor Herbert Beery]] at the time,<ref name="Prof.Beery">{{TBB|R}} - ''Albus Dumbledore on "''The Fountain of Fair Fortune''"''</ref> and likely achieved a high-graded [[Ordinary Wizarding Level|O.W.L.]] and [[Nastily Exhausting Wizarding Test|N.E.W.T.]] in the subject.
+
+Pomona and [[Minerva McGonagall]]'s student time at Hogwarts overlapped by two years. The two students enjoyed an excellent relationship both then and in later years.<ref name="PM-mcgonagall">{{WW|professor-mcgonagall}}</ref> During her time at Hogwarts, she liked attending Quidditch matches.<ref>{{HM}}, Quidditch Season 1 Chapter 7, information revealed for [[Hufflepuff]] players</ref>
+
+===Career at Hogwarts===
+====Earlier years====
+{{Quote|Four to a tray — there is a large supply of pots here — compost in the sacks over there — and be careful of the Venomous Tentacula, it's teething.|Professor Sprout teaching a class|Harry Potter and the Chamber of Secrets}}
+[[File:Madam_Sprout_2.jpg|245x245px|thumb|Professor Sprout teaching her second-year class how to re-pot [[Mandrake]]s]]
+At some point after her graduation, Sprout returned to Hogwarts as a member of the [[Herbology department]].<ref name="PS8" /> She taught her classes in the [[Hogwarts greenhouses|greenhouses]] at the back of the castle<ref name="PS8" /> and used one of the greenhouses as office.<ref name="PS/gbc">{{PS|G}} - GBC version</ref> At an unknown time, Professor Sprout became Head of Department and [[Head of Hufflepuff House]].
+
+Professor Sprout used to bring the most interesting specimens (some of which could dance and talk) from the [[Hogwarts greenhouses|Herbology greenhouses]] to decorate [[Hufflepuff Basement]]. This was one of the reasons why Hufflepuffs were often very good in her subject.<ref name="pottermorehufflepuffs">{{PM}} introduction for Hufflepuffs (transcription available [http://lady-slytherin-forever.tumblr.com/post/9001123651/hufflepuff-spoilers here])</ref>
+
+Professor Sprout was [[Nymphadora Tonks]]'s [[Head of House]]<ref name="Tonks's house">[http://www.jkrowling.com/textonly/en/faq_view.cfm?id=117 "What houses were Tonks and Myrtle in?"] at [http://www.jkrowling.com/ J.K. Rowling's official site]</ref> in the late [[1980s]] and early [[1990s]]. Sprout did not make her a prefect in her fifth year due to her inability to behave herself.<ref name="OP9">{{OOTP|B|9}}</ref> However, Tonks presumably surprised Sprout after she earned at least five [[Nastily Exhausting Wizarding Test|N.E.W.Ts]] in her seventh year.
+
+Professor Sprout spent the summer holidays of [[1986]] experimenting with [[dragon dung fertiliser]], which she told [[Jacob's sibling]] about during the first Herbology lesson of term. She then set the class to work on tending to the [[Valerian]] Sprig plants, which were a basis for many potions. Towards the end of class Professor Sprout asked [[Penny Haywood]] to fetch her a plant pot, only for the girl to scream in terror when a [[werewolf]] suddenly burst out of the stack. The rest of the class began to panic as well, but Professor Sprout stepped forward and cast the [[Boggart-Banishing Spell]] with her wand, revealing that the supposed werewolf was actually a [[Boggart]]. Professor Sprout explained to the class what a Boggart was before dismissing them to go and speak to Professor Dumbledore, as a Boggart had never appeared in the Herbology Greenhouses before.<ref name="HMy3ch1">{{HM|3|1|h}}</ref>
+
+Sometime in between [[1987]] and [[1990]], [[Gabriel Truman]], a [[third year]] at the time, got into a [[Duelling|duel]] with a [[Ravenclaw]] [[Prefect]] who argued that the famous [[Arithmancer]] [[Bridget Wenlock]] must have been in his own house, not Hufflepuff, as she was in fact. Gabriel felt he deserved a week's worth of detentions for his own actions, but Professor Sprout went easy on him, sending him off with a warning and a box of [[Pink Coconut Ice|coconut ice]].<ref name="pottermorehufflepuffs" />
+
+====[[1991–1992 school year]]====
+{{Quote|Devil's Snare, Devil's Snare... what did Professor Sprout say? — it likes the dark and damp.|Hermione about one of Professor Sprout's Herbology lessons|Harry Potter and the Philosopher's Stone}}
+[[File:Devil's Snare.jpg|250px|thumb|left|Sprout's chamber and obstacle protecting the [[Philosopher's Stone]]]]
+Professor Sprout was still teaching at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] by the [[1991-1992 school year]]. Just before the start of the new school year, [[Albus Dumbledore]] trusted her to contribute to the defences of the [[Philosopher's Stone Chambers]].<ref name="PS14">{{PS|B|14}}</ref> Sprout, being the [[Herbology]] [[professor]], possessed considerable knowledge of plants and thus planted a large amount of [[Devil's Snare]] in her Chamber. The Devil's Snare in the chamber broke the fall of the one trying to get the Stone, but also tried to kill them. As the dangerous plant liked to wrap itself around anyone within the vicinity and strangle them, the trick was to use [[fire]]<ref name="PS16">{{PS|B|16}}</ref> or sunlight<ref name="PSf27">{{PS|F}} - Chapter 27 (''Through the Trapdoor'')</ref> to force the Snare into retreat. If the victim struggled, however, the plant would tighten its grip until they were dead.
+
+[[File:Watching Quidditch.jpg|251x251px|thumb|Sprout attending a Hogwarts Quidditch match between Gryffindor and Slytherin]]
+That year, she taught her first years three times a week in [[Greenhouse One]] and taught them how to care for various herbs and fungi.<ref name="PS8" /> The first lesson focused in recognising plants found in the Hogwarts grounds, using a copy of the ''[[Ingredient Encyclopedia]]'' as a reference.<ref name="PS/gbc" /> Other lessons covered the [[Severing Charm]]<ref name="PSconsole"/> and the [[Fire-Making Spell|Incendio Charm]].<ref name="PS/ps1">{{PS|G}} - PS1 version</ref> Sprout also lectured her students about specific plants, such as Devil's Snare.<ref name="PS16" /> She also attended Quidditch matches.
+
+That year, Sprout met the famous [[Harry Potter]] who was among the first-years she taught.<ref name="PS8" /> She was also present at the End-of-Term Feast where [[Slytherin]] lost the [[House Cup]] to [[Gryffindor]] ending their seven year winning streak, which likely pleased her immensely along with the rest of her House.
+
+====[[1992–1993 school year]]====
+{{Quote|We will be able to cure her, Argus. Professor Sprout recently managed to procure some Mandrakes. As soon as they have reached their full size, I will have a potion made that will revive Mrs Norris.|Sprout growing mandrakes in order to reverse [[Petrification]]|Harry Potter and the Chamber of Secrets}}
+[[File:PruningShrivelfigs.png|250x250px|thumb|left|Sprout teaching her second year students in front of the greenhouses]]
+As the [[Herbology]] teacher, Professor Sprout was in charge of doctoring the damaged [[Whomping Willow]] by wrapping bandages around the broken branches after [[Harry Potter]] and [[Ronald Weasley|Ron Weasley]] drove [[Flying Ford Anglia|a bewitched car]] into it.<ref name="CS6">{{COS|B|6}}</ref> On the first day of term, [[Gilderoy Lockhart]], the new [[Defence Against the Dark Arts]] [[professor|teacher]], gave her useless pointers and arrogantly made out that he was a better [[Herbologist]] than her, which made her look distinctly cross and not at all her usual cheerful self. She was further irritated when Lockhart took Harry out of the lesson to speak to him, rudely closing the door in her face before she could make her opinion known. That day she taught her second years how to re-pot a new growth of Mandrake, whilst also warning them about the teething [[Venomous Tentacula]], giving the plant in question a sharp slap to make it withdraw the long feelers it had been inching over her shoulder.<ref name="CS6" /> This lesson and the Mandrakes would later prove to be very useful.<ref name="CS9" />
+
+[[File:Harry-potter2-professorsprout.jpg|250px|thumb|Sprout and others observing the message written on the wall by the [[Tom Riddle|Heir of Slytherin]]]]
+Sprout and her colleagues were understandably unnerved by the [[Plot to open the Chamber of Secrets|opening]] of the [[Chamber of Secrets]]. After [[Mrs Norris]], the [[cat]] belonging to [[Argus Filch]], was found [[Petrification|petrified]], Professor Dumbledore decided that they were to use a [[Mandrake Restorative Draught]] to cure her.<ref name="CS9">{{COS|B|9}}</ref> Professor Sprout was put in charge of maturing her Mandrakes until they could be chopped up, [[Stewed Mandrake|stewed]], and used by [[Potions Master]] [[Severus Snape]] for the draught.<ref name="CS9" />
+
+Sprout attended the Quidditch match between the [[Gryffindor Quidditch team|Gryffindor]] and [[Slytherin Quidditch team|Slytherin teams]], sat high up in the stands with [[Potions Master]] Severus Snape, [[Charms Master]] [[Filius Flitwick]], [[Hogwarts Library|librarian]] [[Irma Pince]] and [[Hogwarts Board of Governors|Governor]] [[Lucius Malfoy]].<ref name="CSf15">{{COS|F}} - Chapter 15 (''Rogue Bludger'')</ref>
+
+[[File:Dps table.PNG|242x242px|thumb|left|Sprout at the End-of-Term Feast, sitting next to [[Poppy Pomfrey|Madam Pomfrey]]]]
+
+By the end of the year the Mandrakes had reached maturity and the Mandrake Restorative Draught was completed and administered to those who were petrified: [[Mrs Norris]], [[Justin Finch-Fletchley]], [[Colin Creevey]], [[Hermione Granger]], [[Penelope Clearwater]], and the ghost of [[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy Porpington]].<ref name="CS18">{{COS|B|18}}</ref> At the [[End-of-Term Feast]], Professor Dumbledore and the rest of the school applauded Sprout for her contribution in the brewing of the Mandrake Draught.<ref name="CSf36">{{COS|F}} - Chapter 36 (''Welcome Back'')</ref> During the End-the-Term Feast, Gryffindor also won the House Cup for a second year in a row and Hagrid returned from his confinement in [[Azkaban]].
+
+====[[1993–1994 school year]]====
+{{Quote|Careful, Weasley, careful!|Sprout, as [[Ronald Weasley]] drops his Puffapod|Harry Potter and the Prisoner of Azkaban}}[[File:Sprout_HP.jpg|245px|thumb|Sprout at the End-of-Term Feast next to Madam Pomfrey]]
+The next school year was relatively uneventful at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. On [[16 October]], the [[Gryffindor]]s and [[Hufflepuff]]s had [[Herbology]] class together, and Sprout taught them how to harvest [[Puffapod]] beans.<ref name="PA8">{{POA|B|8}}</ref> [[Ronald Weasley|Ron Weasley]] accidentally dropped some of these beans onto the floor of the [[Greenhouse Three|greenhouse]] they were working in and they instantly bloomed, earning him Professor Sprout's disapproval. During the same year, [[Sirius Black]], a "''dangerous mass-murderer''",<ref name="POA3">{{POA|B|3}}</ref> escaped from [[Azkaban]] and tried to get into [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] on two occasions.<ref name="PA8"/><ref name="POA13">{{POA|B|13}}</ref>
+
+On Christmas, Pomona Sprout was one of the thirteen Christmas Feast attendants. During the Christmas feast she was privy to the tense conversation between McGonagall and [[Sybill Trelawney|Trelawney]].<ref name="PA11">{{POA|B|11}}</ref>
+
+====[[1994–1995 school year]]====
+{{Dialogue a-b-a|Sprout|Bubotubers. They need squeezing. You will collect the pus —|Seamus Finnigan|The what?|Pus, Finnigan, pus. And it's extremely valuable, so don't waste it. You will collect the pus, I say, in these bottles.|The first Herbology class of the term|Harry Potter and the Goblet of Fire}}
+[[File:PomonaSprout bologyGreenhouse.jpg|245px|thumb|left|Sprout in her greenhouse teaching students]]
+At the Start-of-Term Feast of the 1994-1995 school year, Professor Sprout sat next to the [[Astronomy (class)|Astronomy]] [[Professor]] [[Aurora Sinistra]], with whom she spoke.<ref name="GF12"/>
+
+In the first lesson of the school year, Sprout taught her fourth year students how to squeeze pus from Bubotubers. Some of these students found this to be disgusting and [[Seamus Finnigan]] was not sure he heard her correctly. By the end of the lesson, each student had collected several pints. Sprout then gave the pints to the school's matron [[Poppy Pomfrey|Madam Pomfrey]], since it could be used to treat acne.<ref name="GF13">{{GOF|B|13}}</ref>
+
+At some point early on in the school year, Professor Sprout told [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] (impersonating the [[Defence Against the Dark Arts]] [[professor|teacher]] [[Bartemius Crouch Junior|Alastor Moody]]) how good [[Neville Longbottom]] was at [[Herbology]]. "Moody" then lent Neville some books on plants and fungi called ''[[Magical Mediterranean Water-Plants and Their Properties]]''<ref name="GOF14">{{GOF|B|14}}</ref> and another called ''[[Magical Water Plants of the Highland Lochs]]''.<ref name="GFf12">{{GOF|F}} - Chapter 12 (''The Hungarian Horntail'')</ref>
+
+[[File:Weird Sisters playing at the Yule Ball.png|250x250px|thumb|The [[Yule Ball]] that Sprout attended in 1994]]
+That school year the [[Triwizard Tournament]] was held at [[Hogwarts Castle|Hogwarts]] and one of the Triwizard Champions was sixth year [[Hufflepuff]] [[Cedric Diggory]],<ref name="GF16">{{GOF|B|16}}</ref> whom Sprout knew very well.<ref name="GF36" /> Cedric was not the only Hogwarts Champion; [[Harry Potter]] had mysteriously been entered into the Tournament.<ref name="GF16" /> As such, Professor Sprout seemed to act somewhat distant towards Harry.<ref name="GF18">{{GOF|B|18}}</ref> On Christmas Day, Professor Sprout attended the Yule Ball where she danced with [[Albus Dumbledore|Professor Dumbledore]].<ref name="GF23">{{GOF|B|23}}</ref>
+
+At the end of the year Cedric Diggory was murdered during the third task of the Triwizard Tournament on [[Tom Riddle|Lord Voldemort]]'s orders.<ref name="GF32">{{GOF|B|32}}</ref> Harry Potter at the risk of his own life brought Cedric's body back to the school grounds. Sprout spoke with [[Amos Diggory]] and his wife, since she knew their son best as [[Head of Hufflepuff House|Head of his House]].<ref name="GF36" /> She attended the [[Memorial feast to Cedric Diggory|Memorial Feast]] in Cedric's memory<ref name="GF37">{{GOF|B|37}}</ref> and believed Harry and Dumbledore's claims that Lord Voldemort had returned.<ref name="OP27">{{OOTP|B|27}}</ref>
+
+===Second Wizarding War {{c|1995-1998}}===
+====[[1995–1996 school year]]====
+{{Quote|The teachers were of course forbidden from mentioning the interview by Educational Decree Number Twenty-Six, but they found ways to express their feelings about it all the same. ''[For instance],'' Professor Sprout awarded Gryffindor twenty points when Harry passed her a watering can.|Professor Sprout after Harry's interview in ''[[The Quibbler]]''|Harry Potter and the Order of the Phoenix}}
+
+The following school year, [[Dolores Umbridge]] was made Professor of [[Defence Against the Dark Arts]] by the [[British Ministry of Magic|Ministry of Magic]] in accordance to the [[Educational Decree Number Twenty-Two]].<ref name="OP15">{{OOTP|B|15}}</ref> Umbridge was despised by the majority of the staff, including Sprout.<ref name="OP27" />
+
+[[File:Pomona_sprout.PNG|241x241px|thumb|left|Professor Sprout doing mock O.W.L.s with [[Harry Potter]]]]
+The [[Gryffindor]] [[Ordinary Wizarding Level|O.W.L.]]-level class was lectured by Professor Sprout on the importance of the examinations during their first Herbology class.<ref name="OP13">{{OOTP|B|13}}</ref> Sprout also had the students make a practical exercise which involved using dragon dung fertiliser. She also set them a long essay for the following lesson.<ref name="OP13" />
+
+Sometime this year, Sprout held career consultations with her [[Hufflepuff]] fifth years.<ref name="OP29">{{OOTP|B|29}}</ref> During this school year, Professor Sprout also held mock O.W.L.s on the Herbology Greenhouses for those wanting to revise for the exams.<ref name="OPg">{{OOTP|G}}</ref>
+
+After Harry Potter took part in an interview for ''The Quibbler'' about the events at [[Little Hangleton]] the previous June, he was put in detention by [[Dolores Umbridge|Professor Umbridge]].<ref name="OP26">{{OOTP|B|26}}</ref> The rest of the teaching staff, however, found the interview an act of bravery on Harry's behalf and, being forbidden of discussing it per the [[Educational Decree Number Twenty-Six]], found other ways to express their feelings; Pomona awarded Harry a large amount of house points for passing her a watering can.<ref name="OP26" />
+
+[[File:Sprout_in_the_game,_Order_of_the_Phoenix.JPG|230x230px|thumb|Pomona Sprout in the [[Hogwarts greenhouses|Herbology Greenhouses]]]]
+
+The teachers' capability of teaching was examined by Umbridge, as part of her duties as High Inquisitor. [[Sybill Trelawney]], the [[Divination (class)|Divination]] Professor, was sacked and almost dragged out of the castle by Umbridge. [[Albus Dumbledore]], finding a loophole in one of the [[Educational Decree]]s, allowed the sacked Trelawney to remain occupying her premises on the North Tower. Trelawney was escorted back to the Castle by Sprout, [[Minerva McGonagall]] and [[Filius Flitwick]].<ref name="OP26" />
+
+Sprout managed to show Professor Umbridge her teaching capability and avoided being sacked herself.<ref name="OP26" /> She was later relieved to have Umbridge removed from the school and welcomed Professor Dumbledore back as Headmaster.
+
+====[[1996-1997 school year]]====
+{{Dialogue a-b|Horace Slughorn|… I do thank you for taking the time, Pomona. Most authorities agree that they are at their most efficacious if picked at twilight.|Sprout|Oh, I quite agree. That enough for you?|A conversation at the vegetable patch|Harry Potter and the Half-Blood Prince}}[[File:Harry-potter2-sprout.jpg|250px|thumb|left|Sprout in her Greenhouse teaching N.E.W.T. students]]
+While giving out the student timetables on [[2 September]], Professor McGonagall remarked that Sprout was going to be delighted to see [[Neville Longbottom]] back with an '[[Outstanding]]' [[Ordinary Wizarding Level|O.W.L.]] in [[Herbology]] that school year.<ref name="HBP9">{{HBP|B|9}}</ref> To start off the year, she taught her sixth years about various extremely dangerous plants. She also permitted them to swear loudly if the [[Venomous Tentacula]] bit them or seized them unexpectedly from behind.<ref name="HBP11">{{HBP|B|11}}</ref>
+
+Not long after, Sprout had her sixth year class harvesting [[Snargaluff]] pods. She chided [[Harry Potter|Harry]], [[Ronald Weasley|Ron]], and [[Hermione Granger|Hermione]] for being slow; as they were still strapping on their protective gear (and talking), while [[Neville Longbottom|Neville]] had already harvested his first pod. The trio's first pod bounced free while they were trying to open it, and rebounded off the glass roof of the greenhouse, knocking Professor Sprout's battered hat off.<ref name="HBP14">{{HBP|B|14}}</ref>
+
+In late April of that school year, Sprout helped the new [[Potions Master]], Horace Slughorn in picking some potion herbs. She left towards her [[Hogwarts greenhouses|Greenhouses]] after she had collected enough for Slughorn's third year class, with some to spare.<ref name="HBP22">{{HBP|B|22}}</ref> Slughorn also proceeded to steal some Venomous Tentacula leaves while Sprout was not around.<ref name="HBPf22">{{HBP|F}} - Chapter 22</ref>
+
+[[File:Funeral of Albus Dumbledore.png|250x250px|thumb|[[Albus Dumbledore]]'s [[Funeral of Albus Dumbledore|funeral]]]]
+At the end of the year, the [[Battle of the Astronomy Tower]] took place, with the [[Death Eaters]] invading [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] and fighting against the students, teachers, [[Auror]]s and the [[Order of the Phoenix]]. Professor Sprout likely participated, as did [[Minerva McGonagall]], [[Filius Flitwick]], and [[Rubeus Hagrid]].<ref name="HBP28">{{HBP|B|28}}</ref>
+
+After Professor Dumbledore's death, Sprout met with fellow staff members Minerva McGonagall, Filius Flitwick, Horace Slughorn, and Rubeus Hagrid to discuss the future of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. She was a staunch advocate of keeping the school open, stating that Dumbledore would have wanted it so. She also supported the suggestion that Dumbledore should be laid to rest at Hogwarts, though no Headmaster has ever received a burial there before.<ref name="HBP29">{{HBP|B|29}}</ref>
+
+Sprout attended Dumbledore's funeral and led the Hufflepuffs down to the grounds where the ceremony was held, looking cleaner than she ever had been before; without a single patch on her usually battered hat.<ref name="HBP30">{{HBP|B|30}}</ref>
+
+====[[1997–1998 school year]]====
+[[File:Harry-potter7-nurses.jpg|245x245px|thumb|left|Sprout in the Great Hall during Snape's reign as Headmaster]]
+On 1 August, 1997 the [[Ministry of Magic]] was taken over by [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]].<ref name="DH8">{{DH|B|8}}</ref> By the next school year, Severus Snape was made Headmaster of Hogwarts while his fellow Death Eaters, [[Alecto Carrow]] and [[Amycus Carrow]] became the [[Muggle Studies]] and [[Defence Against the Dark Arts]] [[professor|teachers]] respectively.<ref name="DH12">{{DH|B|12}}</ref> Despite the school now in the grasp of Lord Voldemort, or perhaps because of it, Professor Sprout returned to the castle to teach and protect the students.<ref name="DH30">{{DH|B|30}}</ref>
+
+The Carrows were put in charge of all discipline and punishments, though Sprout and the staff never sent students to them if they could avoid it. She also, with the other [[Head of House|Heads of House]], tried to protect the pupils from Alecto and Amycus.<ref name="DH29">{{DH|B|29}}</ref>
+
+====Battle of Hogwarts====
+{{Quote|Tentacula. Devil's Snare. And Snargaluff pods… Yes, I'd like to see the Death Eaters fighting those.|Professor Sprout prepares for the upcoming battle|Harry Potter and the Deathly Hallows}}[[File:Harry-potter7-ootp.jpg|244x244px|thumb|Sprout prepares to stand with the Order of the Phoenix and the other defenders of Hogwarts]]
+One night, after being woken up by Minerva McGonagall's [[cat]] [[Patronus Charm|Patronus]], Professors Sprout, [[Filius Flitwick|Flitwick]] and [[Horace Slughorn|Slughorn]], and, still in their night-clothes, went to find out what she wanted. They found [[Minerva McGonagall]] duelling Snape to the death, and, after being defeated, Snape then ran into a classroom, chased by Flitwick, Sprout and McGonagall, and flew out of the window, escaping them.<ref name="DH30" />
+
+Aware that [[Tom Riddle|Lord Voldemort]] would soon attack the castle, Sprout and the other professors set to defend the school and the students.<ref name="DH30" /> Sprout retreated to the greenhouses, collecting various dangerous plants, and, with the help of a dozen of her students (namely [[Neville Longbottom]]), lobbed [[Mandrake]]s and everything else over the battlements and onto the [[Death Eaters]].<ref name="DH30" /> She took a troop of of-age students up to the [[Astronomy Tower]], where they could easily work [[spell]]s and drop plants such as Venomous [[Venomous Tentacula|Tentaculas]] and [[Snargaluff]]s.<ref name="DH30" />
+[[File:Flitwick Sprout Slughorn.jpg|287x287px|thumb|left|Pomona having a cup of tea with Flitwick and Slughorn]]
+
+{{Quote|Oh, come on. What's the matter with you? |Professor Sprout dealing with a student's wounds during the pause in the Battle of Hogwarts. |Harry Potter and the Deathly Hallows: Part 2}}
+During the hour-long break in the Battle, Sprout helped treating wounded fighters in the [[Great Hall]].<ref name="DHpt2">{{DH|F2}}</ref> Sprout also witnessed the duel between [[Harry Potter]] and Lord Voldemort in the Great Hall. During which Voldemort's spell rebounded on him and Harry emerged the victor. After the duel Sprout, Flitwick, and McGonagall all reached to hug Harry at the same time, while everyone else joined in.<ref name="DH36">{{DH|B|36}}</ref> A celebration feast was later held, but no one sat in their proper house tables; teachers, parents and students were all jumbled up and chatting among themselves.<ref name="DH36" /> Sprout sat by Filius Flitwick and Horace Slughorn, chatting and drinking a cup of [[tea]].<ref name="DHpt2" />
+
+===Later life {{c|1998-2014}}===
+Sprout remained teaching at [[Hogwarts School of Witchcraft and Wizardry]] as [[Herbology]] [[professor]]. By [[2014]]; Neville Longbottom had joined the [[Herbology department]] and taught the subject alongside her.<ref name="Epilogue" /> During the [[Calamity]], she was able to give twenty-three six-hours classes regarding everything she knew about Herbology and herbal remedies to members of the [[Statute of Secrecy Task Force]] for increased recovery,<ref name="WU1">[https://wizardsunitehub.info/profession-skill/from-seed-to-tree/]</ref> and co-teach along with Professor Flitwick on how different magical approaches – when combined with teamwork – achieve devastating effects to enhance the efficiency of enchantments cast on a teammate.<ref name="WU2">[https://wizardsunitehub.info/profession-skill/teamwork-makes-the-dream-work/]</ref>
+
+==Physical description==
+{{Quote|Professor Sprout was a squat little witch who wore a patched hat over her flyaway hair; there was usually a large amount of earth on her clothes, and her fingernails would have made [[Petunia Dursley|Aunt Petunia]] faint.|A description of Professor Sprout in [[1992]]|Harry Potter and the Chamber of Secrets}}
+[[File:PSprout.png|150px|thumb|Professor Pomona Sprout]]
+Professor Sprout was described as being a squat little witch with short, grey, wavy hair.<ref name="GF12" /> She usually wore a patched and battered hat.<ref name="CS6" /> Her clothes were noted to almost always be covered in dirt and earth, and her fingernails were noted to be so filthy they would have made prim and proper [[Petunia Dursley]] faint in horror.<ref name="CS6" /> Sprout also almost always had a smile on her face.<ref name="CS6" />
+
+==Personality and traits==
+{{Quote|Quite enough chat over here! You’re lagging behind, everybody else has started, and Neville’s already got his first pod!|Professor Sprout's no-nonsense attitude as a teacher|Harry Potter and the Half-Blood Prince}}
+Professor Sprout was noted to be very cheerful, positive, and loyal,<ref name="CS6" /> but was also very professional and just and would chide her students if necessary.<ref name="HBP14" /> Thus, Sprout possessed all of the virtues and aspects belonging to [[Hufflepuff|Hufflepuff House]]. She was kind and nurturing to the students, and surely encouraged [[Neville Longbottom]]'s penchant for [[Herbology]] because he was anxious to show her his [[Mimbulus mimbletonia]].<ref name="OP10">{{OOTP|B|10}}</ref> Sprout was also the most maternal of all the [[Head of House|Heads of House]], an example being when she calmed and got all of the students back to bed after the [[Battle of the Astronomy Tower]].<ref name="HBP29"/>
+
+She also seemed horrified when she learnt that [[Ginevra Weasley|Ginny Weasley]] had been kidnapped by [[Salazar Slytherin]]'s [[Salazar Slytherin's Basilisk|Basilisk]] and taken into the [[Chamber of Secrets]], clasping her shaking hand over her mouth in shock.<ref name="CS16">{{COS|B|16}}</ref> Professor Sprout was also very brave, always ready to fight for her side. During the Battle of Hogwarts, she did not question McGonagall's decision to defend Hogwarts and immediately sought to provide whatever assistance she could, collecting various dangerous plants to fight Voldemort and his Death Eaters,<ref name="DH30"/> showing her utmost loyalty and dedication for defending her school and standing up for what is right.
+
+==Magical abilities and skills==
+{{Quote|Just been showing Professor Sprout the right way to doctor a Whomping Willow. But I don't want you running away with the idea that I am better at Herbology than she is!|[[Gilderoy Lockhart]] arrogantly underestimating Professor Sprout's abilities in [[1992]]|Harry Potter and the Chamber of Secrets}}
+[[File:Professor Sprout greenhouse 1.jpg|250x250px|thumb|Sprout teaching a second year Herbology class]]
+As the [[Head of Herbology]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], [[Professor]] Sprout was an accomplished and skilful [[Herbologist]], as well as a powerful witch in her own right. Testaments to her considerable abilities were her proficiency in the subject she taught, and her participation of and survival of the legendary [[Battle of Hogwarts]].
+{{Quote|We’ll be repotting Mandrakes today. Now, who can tell me the properties of the Mandrake?|Professor Sprout teaching second year Herbology|Harry Potter and the Chamber of Secrets}}
+*'''[[Herbology]]''': As the [[Professor]] of [[Herbology]] at [[Hogwarts School of Witchcraft and Wizardry]], Sprout was an incredibly skilful [[Herbologist]]. Her talents ranged from taking care of harmless plants, such as [[Umbrella Flower]]s,<ref name="CS6" /> and [[Puffapod]]s,<ref name="PA8" /> to more dangerous ones, such as [[Whomping Willow]]s,<ref name="CS6" /> [[Mandrake]]s,<ref name="CS6" /> [[Snargaluff]]s,<ref name="HBP14" /> [[Venomous Tentacula]]s and even the highly lethal [[Devil's Snare]].<ref name="DH30"/>
+*'''[[Charm]]s''': As the Professor of Herbology, Sprout was well versed in [[Herbology]]-related charms, such as the [[Fire-Making Spell]],<ref name="PSpc">{{PS|G}} - PC version</ref> the [[Incendio Duo Spell]],<ref name="CSps1">{{COS|G}} - PS1 version</ref> the [[Lumos Solem Spell]],<ref name="PSf27" />, the [[Herbivicus Charm]]<ref name="GOFVG">{{GOF|G}}</ref> and even the [[Severing Charm]].<ref name="CSpc">{{COS|G}} - PC version</ref> She was also able to conjure a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOY1" /><ref name="LEGOY2"/> which is an incredibly advanced and powerful piece of protective [[magic]] and concrete evidence of her possessing superior magical ability.
+*'''[[Potion]]s''': As the Professor of Herbology, Sprout was also very skilled in potion-making, as she was highly familiar and accustomed to the various ingredients required for certain potions.<ref name="PS/gbc" /> She also experimented with new ways of making potions, including [[Dragon dung Fertiliser]].<ref name="HMy3ch1">{{HM|3|1|h}}</ref>
+*'''[[Duelling]]''': Sprout was shown to have a considerable level of skill in [[duelling]], given how she fought in the [[Battle of Hogwarts]] and survived. She helped her co-workers, [[Minerva McGonagall|McGonagall]] and [[Filius Flitwick|Flitwick]], to chase [[Severus Snape|Snape]] out of Hogwarts.<ref name="DH30" /> Later on, during the final battle, she took a troop of students up to the [[Astronomy Tower]], which was noted to be a great place to work spells. She eventually survived the battle, showing her excellent skills in [[martial magic]].<ref name="DH36" />
+*'''[[Defence Against the Dark Arts]]''': Sprout was highly capable of fighting the [[Dark Arts|Dark Forces]], as she demonstrated when she bravely and successfully fought in the [[Battle of Hogwarts]] against the [[Death Eaters]], highly dangerous [[Dark Wizard]]s, emerging herself victorious. She was also skilled at dealing with dark creatures, as she successfully repelled a [[Boggart]] when it appeared in one the Herbology greenhouses, with the [[Boggart-Banishing Spell]] for [[Penny Haywood]].<ref name="HMy3ch1">{{HM|3|1|h}}</ref>
+
+==Possessions==
+[[File:ProfPomonaSproutWandNN8256.jpg|thumb|Sprout's wand]]
+*'''[[Pomona Sprout's wand|Wand]]''': Sprout owned a [[wand]] of an unknown length, [[Wand wood|wood]] and [[Wand core|core]] material.<ref name="CSf10">{{COS|F}} - Chapter 10 (''Mandrakes and Ron's Howler'')</ref>
+*'''[[Pomona Sprout's office|Office]]''': While teaching at Hogwarts, she had an office in one of the Greenhouses.<ref name="PS/gbc" />
+*'''[[Pomona Sprout's garden|Garden]]''': Sprout owned a garden near the Herbology greenhouses, which was full of various magical and mundane plants.<ref name="PSpc"/>
+*'''Spellbooks''': She owned several spellbooks for Herbology related [[charm]]s, such as spellbooks on the [[Diffindo spellbook|''Diffindo'']]<ref name="PSconsole">{{PS|G}} - Console versions</ref> and [[Herbivicus spellbook|''Herbivicus'']]<ref name="GOFVG"/> [[spell]]s.
+
+==Relationships==
+===Minerva McGonagall===
+{{Dialogue a-b-c|Filius Flitwick|I suppose you are aware that nothing we do can indefinitely prevent You-Know-Who to enter the school, right? —|Sprout|But we can delay it.|Minerva McGonagall|Thank you, Pomona.|[[Filius Flitwick]], Pomona Sprout and Minerva McGonagall just before the Battle of Hogwarts|Harry Potter and the Deathly Hallows}}
+[[File:Mcgonagall.jpg|226x226px|thumb|left|[[Minerva McGonagall]], her long-time friend]]
+The relationship between [[Minerva McGonagall|Professor McGonagall]] and Professor Sprout dates back to when both attended [[Hogwarts School of Witchcraft and Wizardry]]. The two students maintained an excellent relationship, which was kept well into their adulthood.<ref name="PM-mcgonagall" />
+When [[Dolores Umbridge]] stood to speak during the [[1995]] [[Welcoming Feast]] after her introduction by [[Albus Dumbledore|Headmaster Dumbledore]], the two professors were both taken aback at this, and even exchange glances of disapproval.<ref name="OP11">{{OOTP|B|11}}</ref> Furthermore, during the [[Battle of Hogwarts]] on [[2 May]], [[1998]], Pomona was shown to have similar traits and the same views on protecting the Castle against [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]].<ref name="DH30" />
+
+===Neville Longbottom===
+{{Quote|Apparently, Professor Sprout told Professor Moody I'm really good at Herbology.|[[Neville Longbottom]]|Harry Potter and the Goblet of Fire}}
+[[File:Neville HBP 1996.jpg|236x236px|thumb|[[Neville Longbottom]], Sprout's prize student]]
+Pomona was always friendly with Neville Longbottom; she was quite impressed with his skill in [[Herbology]]. According to [[Alastor Moody]] ([[Death Eaters|Death Eater]] [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] in disguise), Sprout told him that Neville had a natural skill for Herbology.<ref name="GOF14"/>
+
+In return, Neville always respected Sprout as one of his favourite teachers. In [[1995]], Neville became excited in the prospect of showing her his [[Mimbulus mimbletonia]].<ref name="OP10" /> Neville helped Sprout to use [[Devil's Snare]], [[Mandrake]]s, [[Venomous Tentacula]], and [[Snargaluff]] pods to attack the [[Death Eaters]] in the last battle.<ref name="DH30" /> Neville eventually succeeded Professor Sprout as the Herbology teacher or taught alongside her.<ref name="Epilogue" />
+
+===Cedric Diggory===
+{{Dialogue a-b|Harry Potter|Professor, where are Mr and Mrs Diggory?|Albus Dumbledore|They are with Professor Sprout. She was Head of Cedric's house, and knew him best.|[[Harry Potter]] and [[Albus Dumbledore]] after Cedric's murder|Harry Potter and the Goblet of Fire}}
+[[File:Cedric Diggory Profile.png|263x263px|thumb|left|[[Cedric Diggory]], one of her students]]
+Because [[Cedric Diggory]] was a [[Hufflepuff]] student, Professor Sprout knew him well.<ref name="GF36" /> When [[Harry Potter]] became the second [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] champion in [[1994]], he felt that she had became distant with him as she was supporting Cedric.<ref name="GF18" /> After [[Cedric Diggory]] was murdered by Peter Pettigrew on Lord Voldemort's orders, she spoke to his parents, as she knew him best.<ref name="GF36" /> It can also be assumed that during his memorial feast she felt a sense of tragedy in regards to his loss.
+
+===Harry Potter===
+[[File:Harry Potter movies hbp promostills 6.jpg|228x228px|thumb|[[Harry Potter]], one of her students]]
+Pomona was usually kind to Harry Potter (as well as to his friends, [[Hermione Granger]] and [[Ronald Weasley|Ron Weasley]]).
+
+During the [[Triwizard Tournament]], however, Sprout became somewhat distant towards Harry as she thought he was stealing [[Cedric Diggory]]'s protagonism as Hogwarts Champion.<ref name="GF18" /> After Diggory's death, Sprout became friendlier to Harry once again.
+
+Professor Sprout rewarded twenty [[house points]] to [[Harry Potter]] for his bravery in speaking out shortly after the publication of his interview on ''[[The Quibbler]]'' about the [[Return of Lord Voldemort|return]] of [[Tom Riddle|Lord Voldemort]], saying that she was giving them to him for passing her a watering can (defying the [[Campaign to discredit Albus Dumbledore and Harry Potter|position]] of the [[British Ministry of Magic|Ministry of Magic]] and [[Dolores Umbridge]], then-[[Hogwarts High Inquisitor|High Inquisitor]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]])<ref name="OP29" /> In May, [[1998]], Sprout helped defend [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] to give time for [[Harry Potter|Harry]] to find [[Rowena Ravenclaw]]'s [[Rowena Ravenclaw's Diadem|Diadem]].<ref name="DH30" />
+
+===Hogwarts staff===
+Professor Sprout enjoyed a very good and professional relationship with the most of Hogwarts staff. Despite her respective strong friendship with [[Minerva McGonagall]],<ref name="DH30" /> Sprout also very much respected [[Albus Dumbledore]].<ref name="HBP30" /> After the Headmaster's death, Sprout was distraught.<ref name="HBP30" />
+
+She was always friendly with [[Filius Flitwick]], the Head of [[Ravenclaw]] house and [[Charm]]s professor. Both Sprout and Flitwick supported [[Albus Dumbledore]] and the [[Order of the Phoenix]], although they were not official members. After the death of Dumbledore, Flitwick and Sprout (along with others) sat and discussed about it and about [[Severus Snape]]'s disloyalty.<ref name="HBP30" /> The next year, they both tried to protect the students from [[Amycus Carrow|Amycus]] and [[Alecto Carrow]] and fought at the [[Battle of Hogwarts]] and survived.
+
+Sprout also appeared to be friendly with [[Horace Slughorn]], the [[Potions Master]]. In 1997, Sprout helped Slughorn pick some herbs for [[potion]]s. She left towards her Greenhouses after she had collected enough for Slughorn's third year class, with some to spare.<ref name="HBP22"/> Slughorn also proceeded to steal some Venomous Tentacula leaves while Sprout was not around.<ref name="HBPf22"/> However, he fought at the [[Battle of Hogwarts]] with Sprout.<ref name="DHpt2" />
+
+Other Hogwarts staff that she had a good relationship with were: [[Poppy Pomfrey]], the [[Matron]], [[Argus Filch]], the caretaker, [[Rubeus Hagrid]], the [[Care of Magical Creatures]] professor.
+
+==Etymology==
+In Roman mythology, ''Pomona'' was the goddess of fruit trees, gardens and orchards.<ref name="Mythology">''"[[Wikipedia:Pomona|Pomona]]"'' at [[Wikipedia:Main Page|Wikipedia]]</ref> ''Sprout'' is a verb meaning "''to begin to grow, shoot forth, as a plant from a seed''".<ref name="SproutWiktionary">"''[http://en.wiktionary.org/wiki/sprout Sprout]''" at the [http://en.wiktionary.org/wiki/Wiktionary:Main_Page Wiktionary]</ref>
+
+==Behind the scenes==
+[[File:Pomona.PNG|200px|thumb|right|[[Miriam Margolyes]] as Pomona Sprout in {{DH|F2}}]]
+[[File:PomonaSprout WB F1 PomonaSproutCharacterIllustration Illust 080615 Port.jpg|thumb|Pomona Sprout as she appears in {{PM}}]]
+[[File:Professor_Sprout.gif|thumb|Pomona Sprout as illustrated by [[J. K. Rowling]]]]
+*Sprout is portrayed by [[Great Britain|British]] actress [[Miriam Margolyes]] in the [[Harry Potter (film series)|film adaptations]] of ''[[Harry Potter and the Chamber of Secrets (film)|Harry Potter and the Chamber of Secrets]]'' and ''[[Harry Potter and the Deathly Hallows: Part 2|Deathly Hallows: Part 2]]''.
+*The first physical appearance of Professor Sprout in media was in the [[Harry Potter and the Philosopher's Stone (video game)|PC/PS1 video game]] of {{PS}}. This was long before any actress had been cast as Sprout, so her appearance was completely different from the later films and games. On the PC version, Sprout appeared as a short, not-really-overweight witch with straight black hair pulled back in a bun, a cheery face and emerald green robes. On the PS1 version, she was featured as a short witch (just a bit taller than the eleven-year old Harry Potter) wearing her red hair in a long plait down her back. Regardless of how she looked, she was voiced by [[Eve Karpf]], who also voiced McGonagall, Hooch and the Fat Lady in the same game.
+*During most of the first six books, Sprout was the only Head of House whose name was not an [[Wikipedia:Alliteration|alliteration]]. This was changed when Horace Slughorn replaced Severus Snape as Head of Slytherin House in {{HBP}}. Up until the release of ''[[Harry Potter and the Deathly Hallows: Part 1|Harry Potter and the Deathly Hallows, Part 1]]'', she was also the only Head of House (with the exception of Slughorn, who was first introduced in the sixth instalment) who had not appeared in all the films.
+*In the books Professor Sprout is described as having grey, flyaway hair while in the film versions of {{COS}} and {{DH|F2}} she is depicted as having short, curly hair.[[File:Screenshot 710.png|70x70px|thumb]]
+*In {{DH|F2}}, during the time between the first part and the second part of the Battle, Pomona was seen helping [[Poppy Pomfrey|Madam Pomfrey]] taking care of some [[students]] near the tables.
+*In {{DH|F2}}, plants are seen attacking [[giant]]s at the beginning of the battle. This could be a part of Professor Sprout's protection.
+*In {{DH|F2}}, when [[Filius Flitwick]], [[Horace Slughorn]] and [[Molly Weasley]] are placing [[Protective enchantment]]s around [[Hogwarts Castle]], a chain of spells can be seen coming from the Herbology greenhouses. This could be Professor Sprout casting the spell ''[[Protego Maxima]]'' to help protect the school quickly as [[Tom Riddle|Voldemort]] and his Death Eaters are coming to the castle.
+*In early German, Italian and Portuguese translations of the first book, Professor Sprout was accidentally referred to as a male, even though chapter 8 refers to her as a "''dumpy little witch''".
+*As Professor Sprout's name is related to plants, it is possible that a [[Naming Seer]] was consulted when she was born.
+
+==Appearances==
+{{Imagecat|Images of Pomona Sprout}}
+[[File:Prof.png|197px|thumb|Pomona Sprout as a [[LEGO Harry Potter|LEGO]] mini-figure]]
+[[File:Professor Sprout LEGO 2020.jpg|thumb|Pomona Sprout as a LEGO mini-figure (2020 edition)]]
+[[File:Professor_Sprout_Years_1-4.jpg|thumb|Professor Sprout in {{LEGO|Y1}}]]
+[[File:Screenshot 959.png|thumb|Sprout as portrayed in the console versions of {{PS|G}}]]
+[[File:Pomona Sprout from Harry Potter and the Philosopher’s Stone PC.jpeg|thumb|Sprout as portrayed in the PC version of {{PS|G}}]]
+[[File:SproutWU.png|125px|thumb|Sprout as she appears in {{WU}}]]
+*{{PS}} {{1st Mention}}
+*{{PS|G}}
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}}  {{C|Except console versions}}
+*{{POA}}
+*{{GOF}}
+*{{GOF|F}} {{Mention}}
+*{{GOF|G}} {{Mention}}
+*{{OOTP}}
+*{{OOTP|G}}
+*{{HBP}}
+*{{HBP|F}} {{Mention}}
+*{{DH}}
+*{{DH|F2}}
+*{{HPPU}}
+*{{QWC}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO|C}}
+*{{LEGO}}
+*{{HPK}} {{Voice}}
+*{{TCG}}
+*{{PM}}
+*{{WW}}
+*{{MHP}}
+*{{HPV|CH}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*{{MA}}
+*{{PAS}} {{Mention}} {{C|Incorrectly as "Pamona Sprout"}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Herbert Beery]]
+|position=[[Herbology]] [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=?—[[2000s]]/[[2010s]]
+|successor=[[Neville Longbottom]]
+}}
+{{Succession box
+|predecessor=Unknown, eventually [[Helga Hufflepuff]]
+|position=[[Head of Hufflepuff House]]
+|years=?—[[2000s]]/[[2010s]]
+|successor=Unknown
+}}
+{{End box}}
+{{Staff}}
+{{Herbology}}
+{{Order of the Phoenix}}
+
+{{DEFAULTSORT:Sprout, Pomona}}
+
+[[de:Pomona Sprout]]
+[[de2:Pomona Sprout]]
+[[es:Pomona Sprout]]
+[[fi:Pomona Verso]]
+[[fr:Pomona Chourave]]
+[[id:Pomona Sprout]]
+[[it:Pomona Sprite]]
+[[ja:ポモーナ・スプラウト]]
+[[nl:Pomona Stronk]]
+[[no:Pomona Stikling]]
+[[pl:Pomona Sprout]]
+[[pt-br:Pomona Sprout]]
+[[ru:Помона Стебль]]
+[[vi:Pomona Sprout]]
+[[Category:20th century births]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Foundables]]
+[[Category:Heads of House]]
+[[Category:Herbology Professors_at_Hogwarts]]
+[[Category:Hufflepuffs]]
+[[Category:Order of the Phoenix allies]]
+[[Category:Ousting of Severus Snape participants]]
+[[Category:Protectors of the Philosopher's Stone]]
+[[Category:Sorted in the 20th century]]
+[[Category:Wizards]]

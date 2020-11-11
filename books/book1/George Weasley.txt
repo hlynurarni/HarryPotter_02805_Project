@@ -1,0 +1,545 @@
+{{Spoiler|WU|HM}}
+{{FA}}
+{{youmay|[[Fred Weasley]]'s twin|[[George (disambiguation)|another individual with the same name]]}}
+{{Individual infobox
+|theme = phoenix
+|image = [[File:DH promo front closeup George Weasley.jpg|250px]]
+|name = George Weasley
+|born = [[1 April]], [[1978]]<ref>[https://web.archive.org/web/20060316221001/http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=7 "Some Random Facts About The Weasley Family"] on {{JKRS}} (Archived)</ref><br/>[[Great Britain]]
+|died = 
+|blood = [[Pure-blood]]<ref name="PS" />
+|marital = Married
+|nationality = [[England|English]]
+|alias = *[[Fred Weasley|Gred]]<ref name="PS" />
+*Georgie<ref>By [[Molly Weasley]] </ref> (by [[Molly Weasley]])
+*[[Harry Potter]]<ref>{{DH|B|4}} - Fred took Polyjuice potion to be one of the "Seven Potters" </ref> (under disguise of Polyjuice)
+*[[Venomous Tentacula|Tentacula]]<ref name="PWB">[[Fred Weasley|Fred]] called him this, in [[Potterwatch broadcasts#Pals of Potter|this broadcast]] of ''[[Potterwatch]]''.</ref> (''[[Potterwatch]]'')
+|title = [[Beater]]<ref name="PS" />
+|signature = [[File:George Weasley sig.png|150px]]
+|species = [[Human]]
+|gender = Male
+|height = Under 5'9"<ref>Ron's ministry file says he is 5'9". George is of a "shorter, stockier build" than Ron, implying he is ''not'' 5'9" tall</ref>
+|weight = 
+|hair = Red<ref name="PS" />
+|eyes = 
+|skin = White
+|family = *[[Septimus Weasley]]<ref name="OOP"/> (paternal grandfather)
+*[[Cedrella Black]]<ref name="OOP"/> (paternal grandmother) †
+*[[Molly Weasley's father|Mr Prewett]]<ref name="OOP"/> (maternal grandfather)
+*[[Molly Weasley's mother|Mrs Prewett]]<ref name="OOP"/> (maternal grandmother)
+*[[Arthur Weasley]]<ref name="COS"/> (father)
+*[[Molly Weasley]]<ref name="PS" /> (mother) (née [[Prewett family|Prewett]])
+*[[William Weasley|Bill Weasley]]<ref name="PS" /> (older brother)
+*[[Charles Weasley|Charlie Weasley]]<ref name="PS" /> (older brother)
+*[[Percy Weasley]]<ref name="PS" /> (older brother)
+*[[Fred Weasley]]<ref name="PS" /> (older twin brother) †
+*[[Ronald Weasley|Ron Weasley]]<ref name="PS" /> (younger brother)
+*[[Ginevra Weasley|Ginevra Potter]]<ref name="PS" /> (née [[Weasley family|Weasley]]) (younger sister)
+*[[Angelina Johnson|Angelina Weasley]]<ref name="Unwritten" /> (née Johnson) (wife)
+*[[Fred Weasley II]]<ref name="Unwritten" /> (son)
+*[[Roxanne Weasley]]<ref name="Unwritten" /> (daughter)
+*[[Gideon Prewett]]<ref name="OOP"/> (uncle) †
+*[[Fabian Prewett]]<ref name="OOP"/> (uncle) †
+*[[Arthur Weasley's brothers|Paternal uncles]]
+*[[Bilius]]<ref name="POA" /> (uncle) †
+*[[Weasley children's uncle|Uncle]]
+*[[Weasley children's cousin|Cousin]]
+*[[Fleur Delacour|Fleur Weasley]] (née [[Delacour family|Delacour]]) (sister-in-law)
+*[[Victoire Weasley]] (niece)
+*[[Dominique Weasley]] (niece)
+*[[Louis Weasley]] (nephew)
+*[[Audrey Weasley]] (sister-in-law)
+*[[Molly Weasley II]] (niece)
+*[[Lucy Weasley]] (niece)
+*[[Hermione Granger]]<ref name="DH" /> (sister-in-law)
+*[[Rose Granger-Weasley]] (niece)
+*[[Hugo Granger-Weasley]] (nephew)
+*[[Harry Potter]]<ref name="DH" /> (brother-in-law)
+*[[James Potter II]] (nephew)
+*[[Albus Potter]] (nephew)
+*[[Lily Potter]] (niece)
+*[[Weasley family]]
+*[[House of Black|Black family]]<ref name="OOP"/>
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = [[George Weasley's wand|Unknown length, wood and core]]
+|patronus = [[Magpie]]<ref name="magpie">[https://twitter.com/jk_rowling/status/1059936459124367362?lang=en J.K. Rowling on Twitter - "Magpies. I thought I'd said that before? We have a saying about them in the UK, 'one for sorrow, two for joy', as you might know. Plus, they're talkative thieves.]"</ref>
+|job = Co-Owner of [[Weasleys' Wizard Wheezes]]<ref name="HBP" />
+|house = [[Gryffindor]]<ref name="PS" />
+|loyalty = *[[Circle of Khanna]]
+*[[Dumbledore's Army]]<ref name="OOP"/>
+*[[Order of the Phoenix]]<ref name="DH" />
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]<ref name="PS" />
+*[[Weasley family]]<ref name="PS" />
+*[[Prewett family]]<ref name="OOP"/>
+*[[Weasleys' Wizard Wheezes]]<ref name="HBP" />
+}}
+{{Quote|The thing about growing up with [[Fred Weasley|Fred]] and George, is that you sort of start thinking anything's possible if you've got enough nerve.|[[Ginevra Weasley|Ginny Weasley]], about the twins' audacity and boldness|Harry Potter and the Order of the Phoenix}}
+
+'''George Weasley''' (b. [[1 April]], [[1978]]) was an [[England|English]] [[pure-blood]] [[Wizardkind|wizard]], the fifth son and the less dominant among the twins of [[Arthur Weasley]] and [[Molly Weasley]] {{c|née Prewett}}, younger brother of [[William Weasley|Bill]], [[Charles Weasley|Charlie]] and  [[Percy Weasley|Percy]] and older brother to [[Ronald Weasley|Ron]], and [[Ginevra Weasley|Ginny]], and younger twin brother and best friend of the late [[Fred Weasley]]. George's first few years were marked by the height of the [[First Wizarding War]] and [[Tom Riddle|Lord Voldemort]]'s first fall. He attended [[Hogwarts School of Witchcraft and Wizardry]] from [[1989]]-[[1996]] with Fred, and was [[Sorting ceremony|Sorted]] into [[Gryffindor|Gryffindor House]]. He and Fred were popular students, becoming [[Beater]]s for the Gryffindor [[Quidditch]] [[Quidditch team|team]] in their second year, and members of [[Dumbledore's Army]] in their unfinished seventh year. 
+A born prankster and inventor, George left Hogwarts prior to graduation to become a successful entrepreneur, alongside his twin brother, and opened the joke shop [[Weasleys' Wizard Wheezes]] at [[93 Diagon Alley]]. He was a member of the [[Order of the Phoenix]] and fought in the [[Battle of the Seven Potters]] and the [[Battle of Hogwarts]]; in the latter, Fred died, leaving George devastated.
+
+Sometime after the end of the [[Second Wizarding War|Second Wizarding]] war, George married [[Angelina Johnson]], with whom he had a son named [[Fred Weasley II|Fred]], in honour of his late twin, and a daughter named [[Roxanne Weasley|Roxanne]]. He and his brother Ron also turned Weasleys' Wizard Wheezes into a huge money spinner.
+
+==Biography==
+===Early life {{c|1978-1989}}===
+{{Quote|We've been hearing explosions out of their room for ages, but we never thought they were actually making things. We thought they just liked the noise.|[[Ginevra Weasley|Ginny Weasley]] on the twins' experiments|Harry Potter and the Goblet of Fire}}
+
+[[File:The Burrow.png|235x235px|thumb|left|The Burrow, where George grew up along with his family]]
+
+George Weasley was appropriately born [[1 April]], [[1978]], April Fool's Day, as he and his brother [[Fred Weasley|Fred]] were mischievous pranksters. Fred was born first.<ref name="bornfirst">[http://www.christianitydaily.com/articles/3920/20150526/which-weasley-twin-was-born-first-jk-rowling-reveals.htm Christianity Daily - "Which Weasley Twin Was Born First? JK Rowling Reveals!"]</ref><ref name="bornfirst2">[https://twitter.com/jk_rowling/status/602105708511961091 J.K. Rowling on Twitter - "Fred was born first. I always thought that was obvious!"]</ref> George was raised at his [[Weasley family|family]] home of [[the Burrow]], near [[Ottery St Catchpole]] in [[Devon]], [[England]]. He and Fred were younger than siblings [[William Weasley|Bill]], [[Charles Weasley|Charlie]], and [[Percy Weasley|Percy]], and older than siblings [[Ronald Weasley|Ron]] and [[Ginevra Weasley|Ginny]]. Although the family was poor, they were loving and happy.
+
+George and Fred were troublemakers from a young age, delighting in playing clever pranks and in teasing their siblings (especially Percy), and it was a challenge for their mother to try to keep them under control. It was not uncommon for explosions to be heard coming from the bedroom they shared.<ref name="GOF">{{GOF}}</ref> Some of the stunts they pulled as children include setting a [[Dungbomb]] off under their great-aunt [[Muriel]]'s chair during a [[Christmas]] dinner,<ref name="DH">{{DH}}</ref> turning Ron's teddy bear into a giant spider after Ron accidentally broke Fred's toy broomstick,<ref name="COS">{{COS}}</ref> giving Ron an [[Acid Pops|Acid Pop]] which burnt a hole in his tongue,<ref name="HBP" /> and nearly tricking Ron into taking an [[Unbreakable Vow]].<ref name="HBP">{{HBP}}</ref>
+
+===Hogwarts years {{c|1989-1996}}===
+====Early years====
+{{Dialogue|Fred Weasley|Don't worry, Ginny, we'll send you loads of owls.|George|We'll send you a Hogwarts toilet seat.|George and Fred departing for their third year|Harry Potter and the Philosopher's Stone}}
+
+George was educated at [[Hogwarts School of Witchcraft and Wizardry]] from [[1989]]-[[1996]], and was Sorted into [[Gryffindor|Gryffindor House]]. He and his twin brother made very good friends with fellow Gryffindors [[Lee Jordan]], [[Angelina Johnson]], [[Alicia Spinnet]], and [[Oliver Wood]], and became well known for their senses of humour. During their first year at Hogwarts, George and Fred swiped the [[Marauder's Map]] from [[Argus Filch]]'s [[Caretaker's Filing Cabinet|office]], which further aided in their mischief.<ref name="POA">{{POA}}</ref>
+
+[[File:Fred George Quidditch.jpg|250px|thumb|George playing in Quidditch match against Slytherin]]
+
+In his second year, George gained a position on the [[Gryffindor Quidditch team]] as a [[Beater]], as did Fred. They were both extremely skilled players, described by Oliver Wood as being like "human [[Bludger]]s".<ref name="PS">{{PS}}</ref>
+
+It was said to [[Harry Potter]] by their youngest brother, [[Ronald Weasley|Ron]], that Fred and George achieved "''really good marks''", at least in their early years of schooling.<ref name="PS" />
+
+====Third year====
+{{Quote|You haven't got a letter on yours. I suppose he thinks you don't forget your name. But we're not stupid — we know our names are Gred and Forge.|George joking about his Weasley sweater during [[Christmas]] |Harry Potter and the Philosopher's Stone}}
+
+[[File:ColinCE.PNG|251x251px|thumb|left|George in the Great Hall having breakfast with fellow [[Gryffindor]]s]]
+
+George started his third year in 1991, when his younger brother [[Ronald Weasley|Ron]] began his first year, along with [[Harry Potter]], who soon became his best friend. Harry joined the [[Gryffindor Quidditch team]] as its [[Seeker]], and became friendly with George and Fred as well. For Christmas, Harry received a [[Weasley family|Weasley]] jumper along with George, Fred, Ron, and their other brother Percy. The twins' jumpers had their initials on them, prompting George to quip that they knew they were "Gred and Forge".<ref name="PS" /> George also insisted that his older brother [[Percy Weasley|Percy]] wear his jumper and sit with his brothers instead of the other [[Prefect]]s, reminding him that the Christmas holidays were a time for family.<ref name="PS" />
+
+He, along with the rest of the family, was immensely proud of Ron when the latter beat [[Minerva McGonagall|Professor McGonagall]]'s giant chess set. George was also on the [[Gryffindor Quidditch team]] that had the worst loss in 300 years in the Quidditch final without Harry as Seeker because of his encounter with [[Quirinus Quirrell]]. While Harry was unconscious in the hospital wing, George and Fred attempted to send Harry a toilet seat, showing their friendly side toward him.<ref name="PS" />
+
+====Fourth year====
+{{Dialogue a-b-c|Percy Weasley|This is ''no'' laughing matter!|Fred Weasley|Oh, get out of the way, Percy. Harry's in a hurry.|George|Yeah, he's nipping off to the [[Chamber of Secrets]] for a cup of tea with his [[Salazar Slytherin's basilisk|fanged servant]]!|George and Fred demonstrate how they find the rumour of Harry being the heir of Slytherin to be ridiculous|Harry Potter and the Chamber of Secrets}}
+
+[[File:Twins flying ford.jpg|246x246px|thumb|Fred, George, and Ron rescue Harry from the Dursleys]]
+
+In the summer of 1992, Fred, George, and Ron rescued Harry from his [[Dursley family|relatives']] [[4 Privet Drive|home]] after not hearing from him during the previous summer month. They pulled the bars off his window and flew him to the Burrow in their father's [[Flying Ford Anglia|Ford Anglia]]. While at the Burrow George and Fred came to know Harry better as they spent time flying with him. The twins soon began their fourth year at Hogwarts, and took to teasing their younger sister Ginny as she began her first year. They were trying to cheer her up, unaware that her emotional state was fragile due to the influence of [[T. M. Riddle's Diary|Tom Riddle's Diary]].
+
+[[File:Writing on wall students.jpg|250px|thumb|left|Fred, George, and others read the message about the opening of the Chamber of Secrets]]
+
+That year, the Chamber of Secrets was opened and frightening messages were written on the castle walls. Rumours were circulating that Harry was responsible for it, since he spoke [[Parseltongue]] and thus might be the [[Tom Riddle|Heir of Slytherin]]. Neither George nor Fred took these rumours seriously, they found the whole thing laughable and frequently joked about it. They also came to [[Hermione Granger]]'s defence when [[Draco Malfoy]] called her a "''filthy little [[Mudblood]]''", lunging at him, only to be blocked by Captain [[Marcus Flint]].<ref name="COS" /> 
+
+<span style="font-size:14px;font-weight:normal;line-height:22px;">George helped protect Harry form a rogue Bludger during Gryffindor's opening match against Slytherin.</span><span style="font-size:14px;font-weight:normal;line-height:22px;"> </span>After Gryffindor won the Quidditch match, George went to the hospital wing with the rest of the Gryffindor Quidditch team to see Harry, because [[Gilderoy Lockhart]] had removed all his bones, and congratulated him for his unbelievable flying, but not before seeing Marcus Flint yelling at Draco Malfoy for "''having the [[Golden Snitch|Snitch]] on top of his head and not noticing''", of which he informed Harry.<ref name="COS" /> At the end of the school year, George was relieved when his younger sister was saved — and delighted when she revealed that Percy had a secret girlfriend, as this was another opportunity to take the mickey out of him.<ref name="COS" />
+
+[[File:Weasley Wizarding Vacation in Egypt.png|235x235px|thumb|The Weasleys in Egypt]]
+
+Arthur Weasley had won a large amount of gold from a Ministry contest, something that was both a surprise and delight for the family. The Weasleys used the money won that summer, to take a holiday to [[Egypt]], where the oldest son [[William Weasley|Bill]] was working as a [[Curse-Breaker|Curse Breaker]]. While there, Fred and George tried to push Percy, who had been acting even more arrogant and pompous than usual because he learned he had been appointed [[Head Boy or Girl|Head Boy]], into a pyramid. Their mother stopped them and scolded them severely. They and their brothers went in all the pyramids. They also annoyed [[Ginevra Weasley|Ginny]] when she couldn't go in the last one, most likely because her their mother thought her too young.<ref name="POA" />
+
+====Fifth year====
+{{Dialogue a-b-a|George|This, Harry, is the secret of our success.|Fred Weasley|It's a wrench, giving it to you, but we decided last night, your need's greater than ours.|Anyway, we know it off by heart. We bequeath it to you.|George and Fred giving Harry Potter the [[Marauder's Map]]|Harry Potter and the Prisoner of Azkaban}}
+
+[[File:Harry Potter and the Prisoner of Azkaban 0757.jpg|251x251px|thumb|left|[[Fred weasley|Fred]] and George give Harry the [[Marauder's Map|Marauder's map]]]] 
+
+In 1993, George began his fifth year at Hogwarts. Around Christmas, he and Fred decided to give the Marauder's Map to [[Harry Potter]] in order to help him get into [[Hogsmeade]] without permission, as they had already memorised it. They also comforted Harry when he was upset by the presence of [[Dementor]]s at the school that year, and somewhat comforted [[Ronald Weasley|Ron]] after his pet rat [[Peter Pettigrew|Scabbers]] went missing. This was also the year that George and Fred took their [[Ordinary Wizarding Level]] examinations, earning three OWLs each.<ref name="POA" />
+
+In the summer of 1994, George attended the [[Quidditch World Cup]] with his family as well as Harry and [[Hermione Granger]]. They gambled on the outcome, and won a great deal of money because of it. However, [[Ludovic Bagman|Ludo Bagman]] defaulted on the bet. Fred suggested threatening to inform the [[British Ministry of Magic|Ministry of Magic]] of Bagman's activities, but George was against it, arguing that it was blackmail. That year, George and Fred also started trying out the prank devices they invented, starting with the [[Ton-Tongue Toffee]] on [[Dudley Dursley]].<ref name="POA" />
+
+====Sixth year====
+{{Quote|We thought if we just wrote to him, and told him he'd made a mistake, he'd cough up. But nothing doing. Ignored our letter. We kept trying to talk to him about it at Hogwarts, but he was always making some excuse to get away from us.|George talks about how [[Ludovic Bagman|Ludo Bagman]] conned him and Fred out of their savings|Harry Potter and the Goblet of Fire}}
+
+[[File:World cup 1994.jpg|250x250px|thumb|The [[1994 Quidditch World Cup]] that George attended with his family and friends]]
+
+Once at school for their sixth year (before their sixth year they attended the Quidditch World Cup with their family), George and Fred began selling, as well as experimenting with, their inventions. That year, Hogwarts also hosted the [[Triwizard Tournament]], which Fred and George both wanted to enter, despite being underage. They attempted to fool the [[Age Line]] spell that [[Albus Dumbledore]] put around the [[Goblet of Fire]] using an [[Ageing Potion]], but the attempt was unsuccessful, though they both thought their beards were uproariously funny.
+
+[[File:B4C23M1 Weird Sisters playing at the Yule Ball.png|251x251px|thumb|left|The Yule Ball that George attended]]
+
+Later that year, George danced with his chosen partner at the [[Yule Ball]]. At the end of the school year, [[Cedric Diggory]], one of the champions, was murdered by [[Peter Pettigrew]] on the orders of the newly revived [[Tom Riddle|Lord Voldemort]], who was reborn.<ref name="GOF" /> Harry surprised the twins by giving them the one thousand [[Galleon]]s he won in the Tournament in order for them to start up their joke business. They were extremely grateful, and promised Harry free merchandise.<ref name="GOF" />
+
+====Seventh year====
+{{Dialogue a-b|Molly Weasley|I don’t believe it! I don’t believe it! Oh, Ron, how wonderful! A prefect! That’s everyone in the family!|George|What are Fred and I, next-door neighbours?|George after Ron becomes a [[Prefect]]|Harry Potter and the Order of the Phoenix}}
+
+[[File:FredAndGeorge_WB_F5_AtGrimmauldPlace_HP5-FX-00152r.jpg|250px|thumb|Fred and George in 12 Grimmauld Place]]
+
+George spent the summer of 1995 in [[12 Grimmauld Place]], the headquarters of the newly reconstituted [[Order of the Phoenix]], along with most of his family. He and Fred pocketed [[Doxy|Doxies]] while cleaning up in order to use in their experiments, and spied on Order meetings using their [[Extendable Ears]] invention. They had also passed their [[Apparition]] [[Apparition (class)|tests]] "with distinction", and delighted in annoying other inhabitants of the house by frequently Apparating and Disapparating around the house.<ref name="OOP" /> When [[Ronald Weasley|Ron]] and [[Hermione Granger|Hermione]] received news that they were [[Gryffindor]]'s new [[Prefect]]s, George was slightly disgruntled by their mother's overjoyed reaction, and he and Fred both taunted Ron over his accomplishment.<ref name="OOP" />
+
+[[File:DA Luna Fred Ginny George Ron.jpg|240px|thumb|left|Fred and George during a D.A. meeting]]
+
+Although neither George nor Fred were very concerned about completing their educations, they returned to Hogwarts for their seventh year, and continued to develop and sell their joke products. Hermione managed to stop them from testing out their products on younger students after threatening to tell their mother that they had been tricking first-years into trying out treats from the [[Skiving Snackbox]]es, a threat George considered "below the belt".
+
+George and Fred also joined [[Dumbledore's Army]]. They greatly disliked the new Ministry appointed [[Defence Against the Dark Arts]] professor and High Inquisitor Dolores Umbridge and wanted to oppose [[British Ministry of Magic|Ministry]] control at Hogwarts, as well as prepare to fight [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]].<ref name="OOP" />
+
+Later in the year, Umbridge kicked George, Fred, and Harry off the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]] and gave them all lifetime bans from [[Quidditch]] after George and Harry got into a fight with [[Draco Malfoy]] (although their bans were lifted immediately when Umbridge was removed from Hogwarts).<ref name="OOP" /> The [[Slytherin]]s had written the lyrics to the demeaning song ''[[Weasley is Our King]]'', intended to humiliate Ron and undermine the Gryffindor team, and then insulted George's parents and Harry's late mother. Things would get worse for George and his family around Christmas, when their father was attacked by [[Nagini]], Voldemort's snake. The Weasleys split their Christmas holidays between Order headquarters and [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]], although [[Percy Weasley|Percy]] did not visit and sent the jumper his mother sent him back unopened, continuing his estrangement.<ref name="OOP" />
+
+[[File:Screen_Shot_2015-12-15_at_12.23.44_AM.png|250px|thumb|Fred and George during their escape from Hogwarts]]
+
+Later in the school year, the D.A. was discovered, but [[Albus Dumbledore]] took the blame and left Hogwarts. George and Fred decided that they no longer cared about getting into trouble, and started an all-out rebellion against Umbridge. They shoved [[Inquisitorial Squad]] member [[Graham Montague]] into a [[Vanishing Cabinet]] when he attempted to dock House Points from them, set off a spectacular array of fireworks of their own making, and created a [[Portable Swamp]] in a corridor.<ref name="OOP" /> In a flourish of vandalism and chaos, George and Fred flew away from Hogwarts, encouraging other students and [[Peeves]] to follow their examples.<ref name="OOP">{{OOTP}}</ref>
+
+===Career as a shop proprietor {{c|1996-1997}}===
+
+====Weasleys' Wizard Wheezes====
+{{Dialogue|Fred Weasley|We've just developed this more serious line. Funny how it happened...|George|You wouldn't believe how many people, even people who work at the Ministry, can't do a decent Shield Charm... And then we thought we'd get into the whole area of Defence Against the Dark Arts, because it's such a money spinner.|A new line of more serious products revolving around defensive magic|Harry Potter and the Half-Blood Prince}}
+
+[[File:B6C6M1 inside Weasleys' Wizard Wheezes.jpg|250px|thumb|left|The inside of [[Weasleys' Wizard Wheezes]]]]
+
+Initially, Fred and George's ambitions to open a joke shop came as a disappointment to their parents, who had hoped they would seek employment with the [[British Ministry of Magic|Ministry of Magic]] like their father.<ref name="OOP" /> However, the spectacular success of the twins' business, Weasleys' Wizard Wheezes, located at 93 [[Diagon Alley]], immensely impressed his parents and made them proud.<ref name="HBP" /> What had started out as a mail-order experiment<ref name="OOP" /> in entrepreneurialism skyrocketed into a very lucrative undertaking.<ref name="HBP" /> It was so successful, in fact, that in 1996, the twins had moved out of their childhood home and into a flat above the store.<ref name="HBP" /> Later, the twins considered buying [[Zonko's Joke Shop]] in [[Hogsmeade]], which had closed the previous year.<ref name="HBP" />
+
+[[File:Fred&George_WeasleysWizardWheezes.jpg|246x246px|thumb|Fred and George standing in their new store]]
+
+None of this might have been possible without the funding [[Harry Potter]] had given them in 1995.<ref name="GOF" /> For Harry's generosity, the twins allowed him to take any merchandise free of charge. In the summer of 1996, Harry, [[Ronald Weasley|Ron]], and [[Hermione Granger]] visited the shop and Fred showed Harry around. He also offered Hermione a [[Patented Daydream Charm]] for free after she called them "extraordinary magic", but still charged Ron for his purchases. Fred and George also questioned [[Ginevra Weasley|Ginny]] on her love life, much to her irritation.<ref name="HBP" /> That Christmas, the twins stayed at the[[the Burrow| Burrow]] for the holidays. When [[Percy Weasley|Percy]] arrived with [[Minister for Magic|Minister]] [[Rufus Scrimgeour]] and it became clear that the two had only come so that the Minister could question Harry. George threw mashed parsnips at his older brother, along with Fred and Ginny, causing Percy to leave.<ref name="HBP" />
+
+[[File:Harry-potter-half-blood-fred&george.jpg|250px|thumb|left|Fred and George stay at the Burrow for Christmas]]
+
+When [[Harry Potter]], [[Hermione Granger]], as well as their parents and a few of their siblings visited their shop in the summer of 1996, the place was described as "packed with customers" to a degree that it was extremely difficult to get near the shelves. Fred and George had also created a [[Defence Against the Dark Arts]] line of products, such as "Shield Hats" and "Shield Cloaks" that were widely purchased by the Ministry for its staff.<ref name="HBP" /> Throughout the school year of 1996 to 1997, the twins were able to disguise products to be sent into Hogwarts by mail order (even though all their merchandise was banned by [[Argus Filch]]) to the students. One of their services was to have their own line of [[Love Potion]] to be disguised as perfume bottles. They also bred magical animals such as [[Pygmy Puff]]s, which were miniature [[Puffskein]]s.<ref name="HBP" />
+
+===Order of the Phoenix {{c|1997-1998}}===
+====Battle of the Seven Potters====
+{{Dialogue a-b-a|George|Saintlike. . . I'm holey. I'm holey Fred, ya geddit?|Fred Weasley|With the whole wide world of ear-related humour, you go for 'I'm holey'. Pathetic.|Reckon I'm still better looking than you.|George joking about losing his ear in the battle|Harry Potter and the Deathly Hallows}}
+
+[[File:Harry-potter-deathly-hallows molly george.jpg|250px|thumb|George after losing his ear in the sky battle]]
+
+As supporters of Albus Dumbledore, George and Fred both joined the [[Order of the Phoenix]] once they were of age. They participated in the Battle of the Seven Potters, along with their father and their younger brother Ron. Fred and George took [[Polyjuice Potion]] to become one of the "seven Potters". While in Privet Drive they also tried numerous times to lighten the mood. 
+
+Once in the air a large group of Death Eaters attacked the Order members and their charges, this led to a massive sky battle. George flew with [[Remus Lupin]] on a broomstick and lost an ear due to an off-target ''[[Sectumsempra]]'' spell fired by [[Severus Snape]].<ref name="DH" /> There was nothing that could be done about George's ear, as it had been cursed off with Dark magic. However, he took this optimistically, and turned it into a joke, calling himself "holey" and also saying his mother would now be able to tell the difference between them.<ref name="DH" /> 
+
+====Wedding of Bill and Fleur====
+
+[[File:Wedding of William Weasley and Fleur Delacour.jpg|250px|thumb|left|Bill and Fleur's wedding day]]
+
+That same summer, Fred and George eagerly flirted with two "[[Delacour sisters' cousins|pretty French girls]]", who came to the Burrow to attend their brother [[William Weasley|Bill]]'s wedding to Fleur Delacour. It is possible that these girls might have been related to Fleur. Fred also reminisced about his late uncle [[Bilius]], to the entertainment of George, Ron, Harry, and Hermione.<ref name="DH2">{{DH}}</ref> Discussing how Billius used to down a whole bottle of [[Firewhisky|Firewhiskey]], go out on to the dance floor left up his robes and pull out bunches of flowers. It is unknown whether or not George was still present at the wedding when Death Eaters stormed the wedding looking for Harry Potter.
+
+====Potterwatch====
+{{Quote|Point is, people, don’t get lulled into a false sense of security, thinking he’s out of the country. Maybe he is, maybe he isn’t, but the fact remains he can move faster than [[Severus Snape]] confronted with shampoo when he wants to, so don’t count on him being a long way away if you’re planning to take any risks. I never thought I’d hear myself say it, but safety first!|Fred reporting on Voldemort's movements on ''[[Potterwatch]]''|Harry Potter and the Deathly Hallows}}
+
+When the war reached its worst point in late 1997 and 1998, George participated under the code names "Rodent" and later "Rapier" in ''Potterwatch'', a radio programme hosted by his friend Lee that opposed Voldemort's reign of terror. They spread the truth about the [[Death Eaters|Death Eater]] regime that was not being reported by the ''[[Daily Prophet]]'' or other news outlets, and encouraged the public to support [[Harry Potter]] and to protect [[Non-magic people|Muggle]]s and wizards alike who were falling victim to the Death Eaters.<ref name="DH" />
+
+====[[Battle of Hogwarts]]====
+{{Quote|Harry saw Yaxley slammed to the floor by George and Lee Jordan...|George duelling during the second half of the battle|Harry Potter and the Deathly Hallows}}
+
+[[File:HPDH Fred and George.jpg|251x251px|thumb|George with Fred before the battle begins]]
+
+Later in the war, he and his family friends returned to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] to fight the invading Death Eater army; he and Fred were placed in charge of the defence of the castle's secret passages by [[Kingsley Shacklebolt]]. Fred was killed in an explosion while fighting alongside his brother Percy, which deeply devastated George.<ref name="DH" /> George and Lee Jordan were later seen defeating [[Corban Yaxley|Yaxley]].<ref name="DH" /> George also saw Harry Potter defeat Lord Voldemort, thus ending the [[Second Wizarding War|war]].<ref name="DH" />
+
+===Later life {{c|1998-?}}===
+
+[[File:Weasleys after battle.jpg|251x251px|thumb|left|George with his family after the Battle]]
+
+George never truly got over Fred's death. He eventually married [[Angelina Johnson]], and named his first child [[Fred Weasley II|Fred]] in loving memory of the twin brother he lost during the final battle.<ref name="Unwritten" /> The couple also had a daughter named [[Roxanne Weasley|Roxanne]].<ref name="Unwritten" /> George continued to run [[Weasleys' Wizard Wheezes]] to great success; his younger brother [[Ronald Weasley|Ron]] retired from being an Auror after two years and helped him to turn the shop into a real money-spinner.<ref name="Unwritten">[http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article3105517.ece Times Online - The Unwritten Story of Harry's Friends and Their Children]</ref>
+
+During the [[Calamity]], George would meet a member of the responding [[Statute of Secrecy Task Force]] in the Leaky Cauldron and discussed his affinity for [[Pyrotechnics]] with them, resulting in their power increasing when having cast a critical blow.
+
+==Physical appearance==
+George, like the other members of the [[Weasley family]], sported flaming-red hair and freckles, and was shorter than his brothers [[William Weasley|Bill]], [[Percy Weasley|Percy]], and [[Ronald Weasley|Ron]], and somewhat stocky, like his brothers [[Fred Weasley|Fred]] and [[Charles Weasley|Charlie]]. However, he was still fairly tall, as he is mentioned as being taller than [[Harry Potter]].<ref>In his later teenage years, Harry Potter was said to be "within an inch" of his father's height, and [[James Potter I|James Potter]] was described as being tall. When Fred and George took [[Polyjuice Potion]] to take on Harry's appearance during the [[Battle of the Seven Potters]], they shrunk, indicating that they are taller than Harry.</ref> As a result of an injury from [[Severus Snape]]'s ''[[Sectumsempra]]'' during the [[Battle of the Seven Potters]], George has lost one of his ears, briefly distinguishing him from his identical twin until Fred's death.<ref name="DH" />
+
+==Personality and traits==
+{{Dialogue a-b-a|George|What made you see sense, Perce?|Percy Weasley|It’s been coming for a while... I managed to make contact with Aberforth and he tipped me off ten minutes ago that Hogwarts was going to make a fight of it, so here I am.|Well, we do look to our prefects to take a lead at times such as these. Now let’s get upstairs and fight, or all the good [[Death Eaters]]’ll be taken.|George upon reconciling with Percy during the [[Battle of Hogwarts]]|Harry Potter and the Deathly Hallows}}
+
+George was the quieter, gentler of the twins,<ref>[http://www.msnbc.msn.com/id/20026225/%7C MSNBC interview with J.K. Rowling]</ref> George's sense of humour was not harsh, and he was inclined to make fun of himself on occasion as well — even when he was injured and lost an ear.<ref name="DH" /> He also appeared to be slightly more moral, as he was against blackmailing [[Ludovic Bagman|Ludo Bagman]] when the former [[Quidditch]] player defaulted on a bet at the [[Quidditch World Cup]].<ref name="GOF" /> However, he still displayed a slight vindictive streak when it came to dealing with people he loathed; for example, he and his brother [[Fred Weasley|Fred]] had absolutely no compunction in forcing [[Graham Montague]] into a [[Vanishing Cabinet]], an act which nearly killed him, according to [[Draco Malfoy]]. When Draco Malfoy insulted his parents and Harry's mother due to his team losing the Quidditch match, both he and Harry gave him a severe beating and was not at all remorseful of doing it.
+
+[[File:Fred_and_George_drinking_aging_potion.jpg|235x235px|thumb|left|Fred and George's antics before they try to cross the Age Line]]
+
+George's prankster nature was enjoyed by nearly everyone in his family, aside from his brother [[Percy Weasley|Percy]] and his mother, who both considered jokes to be immature and childish. However, his pranks targeted at Percy were usually good-natured, and the only thing that got hurt was Percy's pride. He and Fred particularly enjoyed teasing Percy and their younger brother [[Ronald Weasley|Ron]],<ref name="COS" /> while they were especially close to their sister [[Ginevra Weasley|Ginny]], who was similar to them in temperament.<ref name="HBP" /> However, they were protective of their siblings, and eventually extended this familial protectiveness towards Ron's friends [[Harry Potter]] and [[Hermione Granger]] (who later became their in-laws).
+
+Both he and Fred were renowned for their senses of humour; they were able to make people laugh and relax even in very trying times. Neither George nor Fred took school very seriously, but they were both very talented wizards, and demonstrated their ingenuity in their inventions and their business sense in running a highly lucrative shop. They were also staunchly loyal to their loved ones and very brave, (as evidenced by their been sorted into [[Gryffindor]]) and unafraid to stand up against what they thought was wrong, whether it was [[Dolores Umbridge]]'s tyranny at Hogwarts or [[Death Eaters]].
+
+==Magical abilities and skills==
+{{Quote|E for Exceeds Expectations. And I've always thought Fred and I should've got E in everything, because we exceeded expectations just by turning up for the exams.|George Weasley|Harry Potter and the Order of the Phoenix}}
+Although not a high achiever academically, George was a very clever, talented, and creative wizard. In fact, he and Fred once attempted, before being of age to go to Hogwarts, to cast an advanced spell like the [[Unbreakable Vow]] with their younger sibling Ron (and would have succeeded if their father had not discovered the attempt). [[Harry Potter]] once expressed bewilderment as to how he and Fred received only three [[Ordinary Wizarding Level|O.W.L.s]] each, remarking that they "really know their stuff". When the twins turned seventeen, they were able to use [[magic]] outside of Hogwarts, and took full advantage of this. They did everything by [[magic]] and frequently [[Apparition|Apparated]] around [[12 Grimmauld Place]] and [[the Burrow]], much to their [[Molly Weasley|mother]]'s irritation.<ref name="OOP"/>
+
+{{Quote|We've got two ''unbeatable'' [[Beater]]s.|[[Oliver Wood]] on Fred and George|Harry Potter and the Prisoner of Azkaban}}
+
+*'''[[Flight|Flying]]''': George was a highly talented [[Beater]] for the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]] since his second year. [[Oliver Wood]] described the twins as "unbeatable"<ref name="GOF" /> and [[Harry Potter]] thought that they flew like two "human [[Bludger]]s".<ref name="PS" /> George was an excellent [[Flight|flyer]] with highly precise aim. After the twins left Hogwarts, Harry lamented that he was never able to find replacements as talented as they were for the team.<ref name="HBP" />
+
+{{Quote|...[[Portable Swamp|it]] was a good bit of magic.|[[Filius Flitwick]] on the twins' [[Portable Swamp]]|Harry Potter and the Order of the Phoenix}}
+
+[[File:Fireworks.jpg|250px|thumb|right|[[Weasleys' Wildfire Whiz-bangs]], one of Fred and George's many inventions]]
+*'''[[Charm]]s''': One of the few [[Ordinary Wizarding Level|O.W.L.s]] George bothered to achieve was in [[Charms (class)|Charms]],<ref>Fred and George mentioned having a Charms lesson to be inspected by [[Dolores Umbridge]] in their seventh year.</ref> a subject he and Fred were extremely talented in. Their skilled spellwork was necessary for many of their magical inventions for [[Weasleys' Wizard Wheezes]]. Charms professor [[Filius Flitwick]] was so impressed by their [[Portable Swamp]] that he left a portion of it intact within [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="OOP" /> Furthermore, George was able to produce a fully corporeal [[Patronus Charm|Patronus]] in the form of a [[Magpie]],<ref name="magpie"/> which is proof of his superior talent and proficiency in charm-work given the immense difficulty of performing such an advanced and powerful protective charm.
+
+{{Quote|How do those hats work then? I mean, obviously it's some kind of Invisibility Spell, but it's rather clever to have extended the field of invisibility beyond the boundaries of the charmed object...|[[Hermione Granger]]'s interest in Fred and George's [[Headless Hat]]s|Harry Potter and the Order of the Phoenix}}
+[[File:Portable swamp.jpg|236x236px|thumb|The [[Portable Swamp]], invention of Fred and George's that [[Filius Flitwick]] found impressive]]
+*'''[[Spell creation]]''': George was capable of inventing [[spell]]s, [[potion]]s, and other magical products, a highly advanced and rare skill. Along with Fred, George invented a wide variety of items for their shop. Some notable items include [[Extendable Ears]], which can be used to spy on others, a series of [[Skiving Snackbox|sickness-inducing sweets]],<ref name="OOP" /> and [[Patented Daydream Charm]]s, which [[Hermione Granger]] considered to be "extraordinary magic". The twins also invented items for [[Defence Against the Dark Arts]] rather than pranks, such as [[Decoy Detonator]]s and [[Shield Hat]]s; the latter were purchased by the [[British Ministry of Magic|Ministry of Magic]] itself for its employees as a protection method during the [[Second Wizarding War]].<ref name="HBP" />
+
+{{Quote|...Fred and George mess around a lot, but they still get really good marks and everyone thinks they're really funny...|[[Ronald Weasley|Ron Weasley]] on Fred and George's performance at school|Harry Potter and the Philosopher's Stone}}
+*'''[[Herbology]]''': Along with Fred, George was talented in Herbology. He took the subject in his sixth and seventh year as well. George, along with Fred were both capable of experimenting with [[Venomous Tentacula]] seeds in the production of several of their [[Weasleys' Wizard Wheezes]],<ref name="OOP"/> showing his skill in the subject. 
+*'''[[Potion]]s''': Along with Fred, George was very skilled at brewing and inventing potions. He and Fred invented many [[love potion]]s as part of their [[WonderWitch]] line of products, showing his proficiency in potion-making, as love potions are notably advanced brews.<ref name="HBP"/>
+
+*'''[[Transfiguration]]''': George was skilled in the field of transfiguration; it was one of the few [[Ordinary Wizarding Level|O.W.L.s]] George ever tried to achieve.<ref>[[Minerva McGonagall]], the [[Transfiguration (class)|Transfiguration]] [[professor]], told him to continue transfiguring his racoon in [[1994]], the year after he finished his [[Ordinary Wizarding Level|O.W.L.s]].</ref>
+
+{{Quote|You wouldn't believe how many people, even people who work at the Ministry, can't do a decent [[Shield Charm]]... And then we thought we'd get into the whole area of Defence Against the Dark Arts, because it's such a money spinner.|Fred and George's success in their [[Defence Against the Dark Arts]] products|Harry Potter and the Half-Blood Prince}}
+
+*'''[[Defence Against the Dark Arts]]''': George was highly skilled at [[Defence Against the Dark Arts]]; he achieved an [[Ordinary Wizarding Level|O.W.L.]] in it and further improved his skills in [[Dumbledore's Army]].<ref>George was told off for playing [[Exploding Snap]] in [[Dolores Umbridge]]'s class, year after [[Ordinary Wizarding Level|O.W.L.s]].</ref> George's talent at defence would contribute to his ability to invent protective items with Fred such as [[Decoy Detonator]]s, and to obtain rare and useful defensive items such as [[Peruvian Instant Darkness Powder]].<ref name="HBP" /> The twins also joined the [[Order of the Phoenix]] at a young age, and participated in a number of its operations. He fought in the [[Battle of the Seven Potters]], during which he lost an ear by [[Severus Snape]]; however, Snape was aiming at a [[Death Eaters|Death Eater]]. George also fought in the [[Battle of Hogwarts]], during which he was in charge of guarding the school passages, along with Fred.<ref name="DH" />
+*'''[[Duelling]]''': George was a highly skilled and talented duellist who along with [[Lee Jordan]] defeated the [[Death Eaters|Death Eater]] [[Corban Yaxley|Yaxley]], during the [[Battle of Hogwarts]]. He also fought in [[Battle of the Seven Potters]] where he lost his ear. He survived the Battle of Hogwarts and the war, showing his excellent abilities in [[martial magic]].<ref name="DH"/> 
+
+{{Quote|– or we can ask Fred and George, they know every secret passage out of the castle –|[[Ronald Weasley|Ron Weasley]]|Harry Potter and the Prisoner of Azkaban}}
+
+*'''[[Hogwarts secret passages|Hogwarts secret passageways]] expert''': Ever since the twins swiped the [[Marauder's Map]] from [[Argus Filch]]'s [[Caretaker's Filing Cabinet|office]],<ref name="POA" /> they had a great knowledge of all of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] grounds including the secret passageways. Fred even once commented that the Map had taught him more at school than the professors had. The twins' knowledge of the grounds were second only to the [[Marauders]]. They seemed to have memorised the Map entirely, as they gave it to Harry in his third year and still remembered everything. This knowledge allowed George to tell [[Hermione Granger]] where the [[Hogwarts kitchens]] were,<ref name="GOF" /> and for him and Fred to lead the defence of the school's secret passages during the [[Battle of Hogwarts]].<ref name="DH" />
+
+{{Dialogue a-b|Ron Weasley|It would have taken you about thirty seconds longer to walk down the stairs.|Fred Weasley|Time is [[Galleon]]s, little brother.|Ron and Fred after the latter passed his [[Apparition (class)|Apparition test]]|Harry Potter and the Order of the Phoenix}}
+
+*'''[[Apparition]]''': Fred and George managed to pass their [[Apparition]] tests sometime prior to their final year in Hogwarts, apparently "with distinction". To celebrate their coming of age of being allowed to use magic outside of school, as well as making travelling a close distance easier, they both took to Apparating as often as possible, even over very short distances.<ref name="OOP" />
+
+{{Quote|A lot of wizards think it's a waste of time, knowing this sort of Muggle trick, but we feel they're skills worth learning, even if they are a bit slow.|Fred Weasley on [[lock picking]]|Harry Potter and the Chamber of Secrets}}
+
+*'''Muggle tricks''': Despite being [[pure-blood]]s and raised entirely in the [[wizarding world]], Fred and George recognised the usefulness of certain [[Non-magic people|Muggle]] abilities, and mastered several skills that they found amusing or useful, such as [[lock picking]].<ref name="COS" /> As such, they launched a line of Muggle tricks in their shop, "for freaks like [[Arthur Weasley|Dad]]", according to Fred, even though it was not much of a seller.<ref name="HBP" /> This may have been influenced by their father, [[Arthur Weasley]], who was very interested into Muggles. This also demonstrates Fred and George's ingenuity, as not many people born into the magical world are familiar with Muggle devices or skills.
+*'''Business''': As George co-owned [[Weasleys' Wizard Wheezes]] alongside his brother Fred after leaving Hogwarts, his business skills were quite good, especially as they were able to operate it through Owl Orders before they purchased the main property at Diagon Alley, and when they were on the run before the Battle of Hogwarts. After Fred's death, George continued to operate the business alongside his younger brother Ron, turning it into a bigger "money-spinner".<ref name="HBP"/>
+
+==Possessions==
+[[File:George weasley wand.jpg|thumb|George's wand]]
+*'''[[George Weasley's wand|Wand]]''': The [[Wand wood|wood]] and [[Wand core|core]] of George's [[wand]] was unknown. Most likely, this wand was bought second-hand, as are most of the Weasley possessions. Assuming that it was bought at the age of eleven, before beginning their education at [[Hogwarts School of Witchcraft and Wizardry]], it would've been purchased in [[1989]]. It is probable that George's wand was more suitable for [[Transfiguration]] work, because of his choice in subjects.<ref>The fact that George took an O.W.L. in Transfiguration is known because in [[1994]], the year after he finished his [[Ordinary Wizarding Level|O.W.L.s]], [[Minerva McGonagall]], the Transfiguration [[professor]], told him to continue transfiguring his racoon in class</ref>
+{{Quote|This little beauty's taught us more than all the [[Professor|teacher]]s in this school.|Fred on the [[Marauder's Map]]|Harry Potter and the Prisoner of Azkaban}}
+
+*'''[[Marauder's Map]]''': Along with Fred, George "nicked" the Marauder's Map from a drawer in Filch's office, during their first year.<ref name="POA" /> Sometime between then and [[1993]], he and Fred figured out how to unlock and erase the Map.<ref name="POA" /> He used the map ever since until [[1993]], when he gave the map to [[Harry Potter]] in order to help him sneak into [[Hogsmeade]].<ref name="POA" />
+
+[[File:Cleansweep Five.jpg|226x226px|thumb|right|The Cleansweep Fives]]
+
+*'''[[Cleansweep Five]]''': George and his twin each flew on a Cleansweep Five [[broomstick]] when they played as [[Beater]]s for the [[Gryffindor Quidditch team]].<ref name="COS" /> Their use of such outdated [[broomstick]]s was likely due to [[Weasley family|their family]]'s financial problems.<ref name="COS" /> Despite this, the twins are still very skilled in flying and as Beaters.<ref name="PS" /> [[Draco Malfoy]], "who could always afford the best," insulted Fred and George's vintage brooms by saying that a museum would bid for them.<ref name="COS" /> Their brooms, along with [[Harry Potter]]'s, were confiscated by [[Dolores Umbridge]] when they assaulted Malfoy for insulting their families.<ref name="OOP" /> After the twins released a [[Portable Swamp]] in defiance to the woman, they used a [[Summoning Charm]] to retrieve their brooms from her office, and used them to fly out of Hogwarts as a final act of rebellion.<ref name="OOP" /> The broomsticks created two rather large holes in Umbridge's door.<ref name="OOP" />
+*'''Prank and joke items''': Including the items that he had already made, George owned a large collection of joke items that he had bought from [[Zonko's Joke Shop]] to help with their own development and enjoyment for pranks.<ref name="PS" /> These include [[Dungbomb]]s, [[Dr Filibuster's Fabulous Wet-Start, No-Heat Fireworks]] and [[Stink Pellets]].<ref name="PS" />
+
+==Relationships==
+
+===Family members===
+
+====Weasley family====
+[[File:Fred Weasley Profile.JPG|224x224px|thumb|left|Fred Weasley, his twin]]
+
+[[Fred Weasley]] was George’s twin, best friend, and partner in crime.They were as close as two brothers could ever be. The two would always agree with one another, and never get into any fights or arguments, (at least not real ones.) The two did just about everything together. They often finished each other’s sentences and spoke in a back and forth way that could confuse others at times. They were trouble makers, often pranking their siblings, particularly [[Ronald Weasley|Ron]] and [[Percy Weasley|Percy]], and even sold pranking charms and spells in the boys bathroom. Together, Fred and George designed many ingenious pranks and shared the ambition to found a [[Weasleys' Wizard Wheezes|joke shop]] together. They were also both [[Beater]]s for the [[Gryffindor Quidditch team]] and close friends with [[Lee Jordan]].
+
+George was devastated by the death of his twin in the [[Battle of Hogwarts]], and would never truly get over this loss. He eventually named his [[Fred Weasley II|son]] after Fred. 
+
+[[File:Weasley Wizarding Vacation in Egypt.png|240x240px|thumb|The Weasley family]]
+
+Like his younger siblings, George tended to look up to his older brothers [[William Weasley|Bill]] and [[Charles Weasley|Charlie]]. However, he and Fred delighted in teasing [[Percy Weasley|Percy]], who was closer to their age and rather stuffy.<ref name="COS" /> George was furious with Percy when he fell out with the family over their [[Arthur Weasley|father]]’s support of [[Albus Dumbledore]] and [[Harry Potter]] instead of the [[British Ministry of Magic|Ministry]], but the family reconciled just before the [[Battle of Hogwarts]] began when Percy apologised for his mistakes. 
+
+George and Fred also enjoyed teasing their only younger brother, [[Ronald Weasley|Ron]]. Ron’s phobia of spiders derives from a prank the twins played on him when he was young.In Ron's first year, George teased his younger brother by teaching him a fabricated spell, which in turn led Ron to get embarrassed in front of his friends Harry Potter and Hermione Granger.
+: "''Sunshine, daisies,<br/>butter mellow,<br/>turn this stupid,<br/>fat rat yellow."''
+: ''<nowiki/>''—Ron Weasley casting the fake spell, taught to him by George Weasley
+They also teased him over things such as his embarrassing crush on [[Fleur Delacour]]. After Fred's death, Ron helped George run the joke shop for a time. George was quite close to his sister [[Ginevra Weasley|Ginny]], who was similar to the twins in temperament and also liked to tease Ron. They were protective of her, as well, often disapproving of her love life.
+Like most members of the Weasley family, George got on well with his parents.
+
+Mrs Weasley was often unhappy with the twins' lack of seriousness and commitment to his learning. She was unhappy with both their earning of only three O.W.L.s and desire to own a joke shop. Mrs Weasley was very upset when she first saw George's cut ear, and thanked [[Remus Lupin]], who saved George from Death Eaters.
+
+Mr Weasley was more laid back than his wife. While not overly supportive of George and Fred's wrongdoing, he seemed to encourage the trying of new things. Mr Weasley was excited when informed of George's adventure rescuing Harry Potter from the Dursleys and only pretended to be strict. He was upset by George's injuries after the [[Battle of the Seven Potters]], but also very glad that George survived the battle.
+
+After the war, [[Arthur Weasley|Mr]] and [[Molly Weasley|Mrs Weasley]] had two grandchildren through George and his wife, [[Angelina Johnson]].
+
+====Harry Potter====
+{{Quote|The Marauder's Map was, however, of immense use to the young Weasley twins... It was a mark of their high esteem for Harry Potter, and their belief that he stood in need of assistance with a destiny none of them yet fully understood, that they later gifted the map to him, unwittingly passing it on to the child of one of the creators.|Fred and George giving Harry the [[Marauder's Map]]|Pottermore}}[[File:Harry Potter movies hbp promostills 6.jpg|201x201px|thumb|left|[[Harry Potter]], his schoolmate and future brother-in-law]]
+
+George first met Harry Potter in his [[1991|third year]] at Hogwarts, when Harry was beginning his first year and became friends with [[Ronald Weasley|Ron]]. The twins became friendly with him when he joined the [[Gryffindor Quidditch team]] as their [[Seeker]], giving them hope to win the [[House Cup]].  The [[1992|following year]], George and Fred cheered Harry up when many of the students believed that he might be the [[Tom Riddle|Heir of Slytherin]], which they scoffed at, and the year after that, they gave him the Marauder's Map to help him sneak into [[Hogsmeade]].
+
+The twins also stood up for Harry when others doubted his claim that [[Tom Riddle|Lord Voldemort]] had returned or challenged his authority in [[Dumbledore's Army]], and assisted him in contacting [[Sirius Black]] when he told them and [[Ginevra Weasley|Ginny]] of his desire to speak to his godfather. Both twins risked their lives in the [[Battle of the Seven Potters|operation]] to remove Harry from his [[4 Privet Drive|relatives’ home]] in [[1997]]. They seemed to regard Harry almost as another younger sibling, and were inclined to both be both protective and teasing of him. Harry was very upset by George's injuries after the [[Battle of the Seven Potters]]. He eventually became George's brother-in-law through his marriage to [[Ginevra Weasley|Ginny]].
+
+====Hermione Granger====
+[[File:Hermione Granger HBP promo.jpg|216x216px|thumb|[[Hermione Granger]], his friend and future sister-in-law]]
+
+George became friendly with [[Hermione Granger]] after she became a close friend to his younger brother [[Ronald Weasley|Ron]]. Although Hermione disapproved of some of the twins’ antics, since she was a [[Prefect]], she generally got on fairly well with them. They seem to regard Hermione as somewhat of a sister due to her close relationship with Ron and the fact that she stayed at the Weasley's mutliple times during the holidays. They were outraged when [[Draco Malfoy]] called her a “[[Mudblood]]” in [[1992]], to the point of attempting to physically attack him. Hermione also warned Fred and his twin brother that their [[Ageing Potion]] wouldn't trick the age line protecting the [[Goblet of Fire]] due to the fact that Dumbledore would have thought of a foolish ageing potion in advance. They found out she was right when they were blown backwards and grew long, white beards.
+
+George and Fred also tried to get Hermione to relax, joking around with her about things such as their late uncle [[Bilius]]’s penchant for making mischief at weddings. Hermione also admired the twins’ cleverness and creativity in their spell work, once remarking that they could do some "extraordinary magic", though she did not agree with how they put it to use. George also admired Hermione's magical talents and even bet on her beating Ron in a dual during training for Dumbledore's Army. Hermione was also one of the few people willing to stand up to the twins when she disagreed with them. For example, when she caught them testing sweets from the [[Skiving Snackbox]] on first-year students with [[Lee Jordan]], she was furious, and told them off for what she considered taking advantage of innocent children. George and Fred initially scoffed at her concerns and at her ability to make them stop, but backed down when she threatened to tell their [[Molly Weasley|mother]]. However, the twins did not seem to hold a grudge, as they continued to be friendly. Hermione would eventually become George's sister-in-law through her marriage to [[Ronald Weasley|Ron]].
+
+====Angelina Johnson====
+[[File:GOF promo Angelina Johnson.jpg|205x205px|thumb|left|[[Angelina Johnson]], his wife and mother of his children]] 
+
+George was friendly with [[Angelina Johnson]], a [[Gryffindor]] in his year and fellow [[Quidditch]] player, during their school years. She attended the [[Yule Ball]] with his twin brother Fred in [[1994]]. After Fred’s death and the end of the [[Second Wizarding War]], she and George evidently grew closer, and eventually married and had two children together. One of the children was named after George's late twin.
+
+====Children====
+After the [[Second Wizarding War]], George married Angelina Johnson and together they had two children; [[Fred Weasley II|Fred]], who was named after his [[Fred Weasley|late twin brother]], and [[Roxanne Weasley|Roxanne]]. George possibly had a good relationship with his children, and joked in front of them, as Ron did to his children.
+
+====Nieces and nephews====
+George had also several nieces and nephews through his siblings: [[Victoire Weasley|Victoire]], [[Dominique Weasley|Dominique]] and [[Louis Weasley|Louis]], Bill and Fleur's children; [[Molly Weasley II|Molly]] and [[Lucy Weasley|Lucy]], Percy and his wife, Audrey's children; [[Rose Granger-Weasley|Rose]] and [[Hugo Granger-Weasley|Hugo]], Ron and Hermione's children; [[James Potter II|James]], [[Albus Potter|Albus]] and [[Lily Potter|Lily]], Ginny and Harry's children. It is supposed that George had a good relationship with his nieces and nephews, and that they liked him. James also appeared to act like George, because they both enjoyed pulling pranks and teasing their siblings.  
+
+===Minerva McGonagall===
+[[File:600full-harry-potter-and-the-prisoner-of-azkaban-photo.jpg|204x204px|thumb|Minerva McGonagall, his previous professor]]
+
+[[Minerva McGonagall]] was the [[Transfiguration (class)|Transfiguration]] teacher during George and his brother, Fred's years at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. Although McGonagall was always well known for being strict and stern, she was never shown punishing or even telling off Fred and George for their wild behaviour and many pranks. It was known however that they were good [[Quidditch]] players from a good family, and she was visibly displeased with having the twins and Harry kicked off the [[Gryffindor]] [[Quidditch]] [[Gryffindor Quidditch team|team]]. McGonagall often perceived the twins as naughty but seemed to share their dislike of [[Dolores Umbridge]], who was the [[Defence Against the Dark Arts]] teacher for a small time. McGonagall did not attempt to remove the fireworks that surfaced around the school causing great disruptions. When George made his legendary escape in [[1996]], McGonagall assisted [[Peeves]] to unscrew an overhead chandelier, in an obvious homage to Fred and George.
+
+===Lee Jordan===
+[[File:Leejordan OoTP.PNG|218x218px|thumb|left|Lee Jordan, his good friend]] 
+
+[[Lee Jordan]] was best friends with Fred and George during his time at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], and often got into trouble along with them. In [[1995]] he joined [[Dumbledore's Army]] and helped the twins harass [[Dolores Umbridge]], one incident of which resulted in him being punished by "writing lines", scarring his hand. Lee Jordan also attended Fleur and Bill Weasley's wedding, and danced with [[Ginevra Weasley|Ginny Weasley]] in 1997. On [[2 May]], [[1998]], Lee returned with Fred and George to fight in the [[Battle of Hogwarts]]. After Fred's death, George and Lee both defeated the [[Death Eaters|Death Eater]] [[Corban Yaxley|Yaxley]].
+
+===Hogwarts staff===
+[[File:20100111183429!Flitwick HBPoster Lighter.png|223x223px|thumb|[[Filius Flitwick]], his previous professor]]
+
+Fred and George had a good relationship with most [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] professors. Professor [[Filius Flitwick]], the [[Charms (class)|Charms]] professor, seemed to like them; he was very happy by their spell work. He also thought that they were very talented wizards, and started to support them, becoming against [[Dolores Umbridge]] in [[1995]].  When Fred and George set off fireworks around the ground she spent a day running around putting them out. After she had done Flitwick's classroom, he told her that he could have put them all out easily but was concerned he didn't have the authority to do so. After Easter break, the twins used one of their inventions, a [[Portable Swamp]] to change a corridor into a swamp and then shortly afterwards they departed from school to go into the world of business. Flitwick was seen cheering and supporting them at their departure after they ran rings around Umbridge and Filch.  Flitwick was asked to remove the swamp they created, which he did but left a small patch in the corner as he believed it to be really good magic.
+
+[[File:Rubeus Hagrid promo.png|229x229px|thumb|left|Rubeus Hagrid, his friend and previous professor]]
+
+Fred and George were friends with [[Rubeus Hagrid]], the [[Care of Magical Creatures]] professor, during their time at Hogwarts. Hagrid seemed to be one of their favourite members of the staff, as he was not too serious, unlike many other professors. They were also among the few people who believed that Hagrid was a great person even after they learned that he was a [[half-giant]]. Hagrid also thought that Fred and George were trouble-makers, but very funny. He once compared them with Harry Potter's deceased father [[James Potter I|James]] and his best friend [[Sirius Black]]. Furthermore, they were all among Harry Potter's closest friends. Fred and George fought in the Second Wizarding War along with Hagrid. However, Fred was killed in the Battle of Hogwarts, during an explosion. It is possible that Hagrid was very sad when he learned about that.
+
+[[File:AlbusPOA.jpg|197x197px|thumb|Albus Dumbledore, his previous headmaster]]
+
+Both Fred and George appeared to like the Headmaster [[Albus Dumbledore]] and thought that he was the greatest wizard of all time. He seemed to like them, too, despite that they were trouble-makers, and he knew they were good persons. Along with his twin, George joined the [[Order of the Phoenix]], an organisation founded by Dumbledore, in order to oppose [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]] as well as [[Dumbledore's Army]] to oppose Dolores Umbridge and the Ministry of Magic. Fred and George both showed loyalty to Dumbledore by punishing Umbridge after Umbridge became headmistress.
+
+[[File:Severus Snape Profile.jpg|204x204px|thumb|left|Severus Snape, his previous professor and enemy]]
+
+Fred and George disliked [[Severus Snape]] the potions master. Snape disliked them, too. This could be because of the fact that the Weasley twins were trouble-makers, like Snape's schoolboy rivals the [[Marauders]], especially [[James Potter I]] and [[Sirius Black]]. Snape was eventually charged with being [[Death Eaters|Death Eater]]; however, he was a double agent and working for the [[Order of the Phoenix]]. He accidentally hit George with a [[Sectumsempra]], while aiming at a [[Death Eaters|Death Eater]] during the [[Battle of the Seven Potters]]. George possibly learned that Snape was on their side during the [[Battle of Hogwarts]].
+[[File:Filch and mrs. Norris.png|205x205px|thumb|Argus Filch, an enemy]]
+
+The twins also disliked [[Argus Filch]], the caretaker. Filch had punished them many times during their Hogwarts years, because they were trouble-makers. Fred and George also "nicked" the [[Marauder's Map]] from Filch, while they were in his office. Filch also had a great knowledge of all Hogwarts' secret passages, only less than Fred and George's. When [[Dolores Umbridge]] was appointed at Hogwarts, Filch supported her, and tried to punish the twins again.
+
+[[File:Dolores Umbridge Deathly Hallows promotional image.jpg|191x191px|thumb|left|Dolores Umbridge, his previous DADA professor and enemy]]
+
+Fred and George hated [[Dolores Umbridge]], who was appointed by the [[British Ministry of Magic|Ministry of Magic]] as the [[Defence Against the Dark Arts]] professor in [[1995]]. Umbridge was a sadistic woman who enjoyed punishing and torturing students. Almost every resident of Hogwarts at the time hated Umbridge, but she particularly hated [[Harry Potter]] and Fred and George. When George and Harry attacked [[Draco Malfoy]], Umbridge kicked them off the team, along with Fred (although their bans were lifted immediately following Umbridge's removal from the school). Fred and George were the ones who opposed Umbridge. They also created a [[Portable Swamp]], in order to anger Umbridge. When she attempted to punish them, Fred and George insulted her in front of the whole school and then fled with their broomsticks. After the war, Umbridge was imprisoned in [[Azkaban]], for her crimes against [[muggle-born]]s.
+
+===Dumbledore's Army===
+[[File:Dumbledore's Army.jpg|233x233px|thumb|[[Dumbledore's Army]], his alias]]
+
+In [[1995]], George and Fred joined [[Dumbledore's Army]], an organisation founded and led by [[Harry Potter]], in order to oppose [[Dolores Umbridge]] and teach [[Defence Against the Dark Arts]] to the other students. The twins knew most of them, and they had a good relationship with most members of the army, including Harry Potter, Hermione Granger, Ron Weasley, Ginny Weasley, Lee Jordan and Angelina Johnson.
+
+Some members of the army were also members of the [[Gryffindor Quidditch team]], including [[Alicia Spinnet]] and [[Katie Bell]]. The girls appeared to be close with George, whom they possibly knew since their first year, as well as his brother, Fred. Both of them were very upset when Umbridge kicked Harry and the twins off the team. George met them again when they fought at the [[Battle of Hogwarts]] in [[1998]] and they possibly survived the war.
+
+Other members of the army were [[Neville Longbottom]], [[Luna Lovegood]], [[Dean Thomas]], [[Seamus Finnigan]], [[Lavender Brown]], [[Padma and Parvati Patil|Parvati and Padma Patil]], [[Colin and Dennis Creevey]], [[Ernest Macmillan|Ernie Macmillan]], [[Hannah Abbott]], [[Justin Finch-Fletchley]], [[Susan Bones]], [[Cho Chang]], [[Anthony Goldstein]], [[Michael Corner]], [[Terry Boot]], [[Marietta Edgecombe]] and [[Zacharias Smith]]. George was friendly with them, although not very close; however, he disliked Zacharias Smith, who didn't believe that Voldemort had returned, and did not fight at the Battle of Hogwarts, as did Marietta Edgecombe, who betrayed the army to Umbridge. However, the rest of them fought for Dumbledore's Army, and at least one of them, Colin Creevey, was killed by Death Eaters.
+
+===The Marauders===
+{{Quote|We owe them so much.|George on the Marauders|Harry Potter and the Prisoner of Azkaban (film)}}
+
+[[File:Marauders 1997.jpg|220x220px|thumb|James Potter, Sirius Black, Remus Lupin, and Peter Pettigrew]]
+
+George and his brother [[Fred Weasley|Fred]] regarded the [[Marauders]] with a kind of idolatry and they believed that they owed a lot to them, as their invention, the [[Marauder's Map]], helped them to achieve a lot of their aims. Although they owned the map for many years, they did not refer to them as the Marauders, but instead they called them by their nicknames: [[Remus Lupin|Moony]], [[Peter Pettigrew|Wormtail]], [[Sirius Black|Padfoot]], and [[James Potter I|Prongs]]. 
+
+While they were in possession of the map, the twins did not, however, work out that two of the Marauders were two of their friends in the [[Order of the Phoenix]]: [[Remus Lupin]] and [[Sirius Black]]. Neither were they aware that Prongs was in fact [[Harry Potter|Harry]]'s father, [[James Potter I|James]], and that Wormtail was actually [[Death Eaters|Death Eater]] [[Peter Pettigrew]].
+
+He and Fred were both friends of Sirius Black after they both learnt of his innocence. Sirius was friendly with them, but he argued with the twins (for example: when he told them to wait at home while their father was in danger). Sirius was killed by [[Bellatrix Lestrange]] during the [[Battle of the Department of Mysteries]] in [[1996]]. The twins were saddened by his death, but tried not to remind Harry about it.
+
+They were also friends of Remus Lupin, whom they first met in [[1993]], when he was [[Defence Against the Dark Arts]] professor. They considered him among the best teachers of this lesson they had ever had. Lupin fought with the twins in many battles of the Second War, and was killed in the final battle, along with Fred. Their bodies were put near each other's in the [[Great Hall]].
+
+It is unknown if the twins ever learnt the true identities of the Marauders, although it is possible they did eventually learn the truth after Voldemort's return considering that Sirius mentioned Pettigrew's nickname Wormtail in front of them while explaining Voldemort's intentions to them without them questioning that. It is also unknown if Lupin and Sirius ever learnt that the twins both had the Marauders Map in their possession during their time in Hogwarts.
+
+===Order of the Phoenix===
+[[File:Order of the Phoenix – first generation.jpg|251x251px|thumb|left|The original [[Order of the Phoenix]], his alias]]
+
+George also became a member of the Order of the Phoenix during the [[Second Wizarding War]]. The Order was an organisation led by [[Albus Dumbledore]] in order to fight [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. George had a good relationship with most members of the order. Some notable relationships include Remus Lupin, Sirius Black, his other family members (excluding Percy who had fallen out with the other Weasleys, and Ginny who was underage) and some of the Hogwarts professors.
+
+Another member of the Order that they knew was [[Nymphadora Tonks]]. Tonks and the twins were close in age, and they were friendly. They fought together in the [[Battle of the Seven Potters]] and the [[Battle of Hogwarts]].Tonks was killed during the final battle, too. Her body was put near Fred's, as well as Lupin's, after their death.
+
+The twins also knew [[Alastor Moody]] and [[Kingsley Shacklebolt]]. They appeared to have a good relationship, although they were not very close. When Moody was killed by Voldemort, everyone was sad. Before the twins learned about it, they were joking with each other. They immediately stopped talking once they heard Moody died, and their expressions immediately switched to sadness. Kingsley survived the war and became Minister for Magic.
+
+==Media==
+<gallery width="200" position="center" spacing="small" captionalign="center" hideaddbutton="true">
+File:Harry Potter and the Chamber of Secrets (Clip) Harry escapes the Dursley's|Rescuing Harry
+</gallery>
+
+==Etymology==
+''[[Wikipedia:George (given name)|George]]'' is a popular male given name derived from the Greek word γεωργος (''georgos''), meaning "farmer" or "earthworker". [[Wikipedia:Saint George|Saint George]] was a third-century martyr who became a patron saint of England after the Crusades. Six kings of Britain have borne the name George. Other famous bearers include the composer George Frideric Händel, first American president George Washington, two kings of Greece, and explorer George Vancouver. It was also the pen name of English writers George Eliot and George Orwell.<ref>[http://www.behindthename.com/name/george Behind the Name: George]</ref>  [[J. K. Rowling]] has stated that she chose the name for liking and and finding it fitting with the "old-fashioned" theme of the other Weasley brothers.<ref>[http://web.archive.org/web/20070724184310/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=72 F.A.Q. question] at [[J. K. Rowling's official site]] (archived)</ref>
+
+==Behind the scenes==
+[[File:George Weasley.png|252x252px|thumb|George Weasley as a [[LEGO Harry Potter|LEGO]] minifigure]][[File:GeorgeWPOP.jpg|thumb|George Weasley as a [[POP! Vinyl]]]]
+[[File:George_Weasley_Yule_Ball_pop_vinyl.jpg|thumb|George Weasley (in his [[Yule Ball]] robes) as a [[POP! Vinyl]]]]
+*George is portrayed by [[Great Britain|British]] actor [[James and Oliver Phelps|Oliver Phelps]] in the [[Harry Potter (film series)|film adaptations]] of ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Philosopher's Stone]]'', ''[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]]'', ''[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]]'', ''[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]]'', ''[[Harry Potter and the Order of the Phoenix (film)|Order of the Phoenix]]'', ''[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]]'' and ''[[Harry Potter and the Deathly Hallows: Part 1|Deathly Hallows: Part 1]]'' and ''[[Harry Potter and the Deathly Hallows: Part 2|Part 2]]'' and so is one of the 13 characters to appear in all 8 film adaptations.
+*There has been some suggestion that George and Fred are named after their maternal uncles, [[Fabian Prewett|Fabian]] and [[Gideon Prewett]], who were killed in the [[First Wizarding War]], and who share George and Fred's first initials.
+*It is possible that he and Fred were the basis for Kaoru and Hikaru Hitachiin, a pair of mischievous, red-haired twins from the shojo manga, "Ouran Highschool Host Club."
+*[[Daniel Radcliffe]] plays George in the "Seven Potters" scene.
+*George and [[Fred Weasley|Fred]] earned fewer [[Ordinary Wizarding Level|O.W.Ls]] combined than each of the rest of their brothers separately.
+*George and Fred were the only sons of Arthur and Molly Weasley who did not become [[prefect]]s during their education at Hogwarts.
+*In the novels, [[J. K. Rowling]] described the twins as "shorter and stockier" and Percy and Ron as "long and lanky", but in the film, Fred and George were a lot taller and lankier than Percy and Ron.
+*George Weasley's O.W.L. results have not been specifically stated by name; he had mentioned in {{OOTP}} that he had an inspected [[Charms (class)|Charms]] lesson, and that he and his brother Fred were going to sell extendable ears before [[Herbology]]. [[Lee Jordan]] also mentioned that they played Exploding Snap in [[Defence Against the Dark Arts]]. Since they only passed three subjects, these are most likely the subjects they passed (although it is also possible that the twins chose different subjects to take beyond OWL level and purposely failed other courses to free up their schedules).
+*Rowling has said that George and Fred are among her favourite characters.<ref>[http://www.jkrowling.com/textonly/en/faq_view.cfm?id=8 F.A.Q.: Favourite Characters] at {{JKRS}}</ref>
+*Unlike [[Ronald Weasley|Ron]], his younger brother, George never got mad at [[Harry Potter]] for dating and romancing with George's sister, [[Ginevra Weasley|Ginny]]. However, George was protective of Ginny.
+*The Weasley twins were born April Fools' Day - April 1. It's traditional to play a prank on someone on this day, which seems to be a particular hobby of Fred and George's.
+*In {{DH|F1}} it is George who walks in on Harry and Ginny kissing in the kitchen on Harry's birthday, instead of Ron bursting in on them in Ginny's bedroom.
+*It is interesting to note that the only times Fred or George have been injured were when they were apart. They were split up at the time of Fred's death and when George lost his ear.
+*Unsurprisingly, losing his ear barely affected George at all, joking only minutes after having it cut off. By the morning he's even using his ear as a place to hold things.
+
+===Author's comments===
+*J. K. Rowling described Fred and George as "the risk-takers in the family... who just take a totally different life path and were prepared to risk everything".<ref>[http://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-3.htm 16 July 2005 Leaky Cauldron and MuggleNet Interview]</ref>
+
+==Appearances==
+{{Imagecat|Images of Fred and George Weasley}}
+[[File:George_WeasleyWU.png|150px|thumb|George Weasley as seen in {{WU}}]]
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{GOF|G}} {{Mention}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}}
+*{{HBP|F}}
+*{{HBP|G}} {{Mention}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}} {{Voice}}
+*{{DH|F2}}
+*{{HPPU}} {{Mention}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{QWC}}
+*''[[J.K. Rowling: A Year in the Life]]'' {{Mention}}
+*{{LEGO}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO|D}}
+*{{HPFW}}
+*{{TCG}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+*{{HM}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Argus Filch]]
+|position=Owner of the [[Marauder's Map]] (along with [[Fred Weasley|his brother]])
+|years=c. [[1989]]-[[1993]]
+|successor=[[Harry Potter]]
+}}
+{{Succession box
+|predecessor=[[Albus Dumbledore]]
+|position=Secret-Keeper of [[12 Grimmauld Place]] (along with members of the Order of the Phoenix who knew where was 12 Grimmauld Place)
+|years=[[1997]]-?
+|successor=Unknown
+}}
+{{End box}}
+
+{{Dumbledore's Army}}
+{{Order of the Phoenix}}
+{{Charms}}
+{{Hogwarts quidditch positions}}
+{{Diagon Alley}}
+{{DEFAULTSORT:Weasley, George}}
+[[de2:George Weasley]]
+[[es:George Weasley]]
+[[fr:George Weasley]]
+[[it:George Weasley]]
+[[ru:Джордж Уизли]]
+[[fi:George Weasley]]
+[[nl:George Wemel]]
+[[pl:George Weasley]]
+[[pt-br:Jorge Weasley]]
+[[no:Frank Wiltersen]]
+[[Category:1978 births]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:2014 Quidditch World Cup attendees]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Battle of the Seven Potters participants]]
+[[Category:Beaters]]
+[[Category:Blood traitors]]
+[[Category:Boggart forms]]
+[[Category:Bullies]]
+[[Category:Circle of Khanna]]
+[[Category:Dumbledore's Army]]
+[[Category:English individuals]]
+[[Category:Foundables]]
+[[Category:Gryffindors]]
+[[Category:Hogwarts dropouts]]
+[[Category:House of Black descendants]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Prewett family descendants]]
+[[Category:Pure-bloods]]
+[[Category:Second Order of the Phoenix]]
+[[Category:Sectumsempra victims]]
+[[Category:Shop owners]]
+[[Category:Sorted in 1989]]
+[[Category:Spell inventors]]
+[[Category:Twins]]
+[[Category:Weasley family|George]]
+[[Category:Wizards]]

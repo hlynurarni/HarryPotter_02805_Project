@@ -1,0 +1,81 @@
+{{Individual infobox
+|theme = wizard
+|image = Euphemia Potter - HPM.jpg
+|name = Euphemia Potter
+|born = 
+|died = Pre-[[31 July]], [[1980]]<ref name="death">{{WW|the-potter-family}}: "''Fleamont and Euphemia lived long enough to see [[Wedding of James Potter I and Lily Evans|James marry a Muggle-born girl called Lily Evans]], but not to meet their grandson, [[Harry Potter|Harry]].''"</ref>
+|blood = [[Pure-blood]]<ref name="blood">We know Euphemia's son [[James Potter I|James]] is a pure-blood ({{HBP|chapter=12}}), which means [https://web.archive.org/web/20100526160148/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=58 none of his parents or grandparents are Muggles or Muggle-borns]. This implies that James's parents are either pure-blood or half-blood, same for his grandparents.</ref>
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = <!--Only list family within 2 generations, except if only known family is more distant -->
+*[[Fleamont Potter]] (husband) †
+*[[Henry Potter]] (father-in-law) †
+*[[James Potter I|James Potter]] (son) †
+*[[Lily J. Potter|Lily Potter]] {{c|née [[Evans family|Evans]]}} (daughter-in-law) †
+*[[Harry Potter]] (grandson)
+*[[Ginevra Weasley|Ginny Potter]] {{c|née [[Weasley family|Weasley]]}} (granddaughter-in-law)
+*[[James Potter II]] (great-grandson)
+*[[Albus Potter]] (great-grandson)
+*[[Lily L. Potter|Lily Potter]] (great-granddaughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Potter family]]
+}}
+'''Euphemia Potter'''<ref name="PotterFamilyPottermore">{{WW|the-potter-family}}</ref> (died c. [[1979]]) was a [[pure-blood]] [[Wizardkind|witch]]. She was married to [[Fleamont Potter]], with whom she had one son, [[James Potter I|James]], thus making her the paternal grandmother of the famous [[Harry Potter]], and the great-grandmother of [[James Potter II|James Sirius]], [[Albus Potter|Albus Severus]], and [[Lily L. Potter|Lily Luna Potter]].
+
+==Biography==
+Little is known about Euphemia's early life. She and her husband [[Fleamont Potter|Fleamont]] lived a comfortable life due to his wealth. They had trouble having children and eventually gave up the hope of ever having a son or daughter of their own.<ref name="PotterFamilyPottermore" /> However, in [[1959]], to the couple's shock and delight, Euphemia discovered she was [[pregnancy|pregnant]], and gave birth to a son, [[James Potter I|James]], on [[27 March]] [[1960]].<ref name="DH16">{{DH|B|16}}</ref> Due to her late-in-life pregnancy, James was an only child, and was doted on quite a lot.<ref name="TLC">[http://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-3.htm The Leaky Cauldron and Mugglenet interview, 16th July 2005]</ref>
+
+When James's best friend, [[Sirius Black]], ran away from [[12 Grimmauld Place|home]] at age sixteen, he found refuge in the [[Potter family|Potter]] household. Euphemia and her husband came to regard Sirius as something of a second son. After Sirius moved into his own flat, he kept in touch with the [[Potter family|Potters]], and was always welcome to have lunch with them on Sundays.<ref name="op6">{{OOTP|B|6}}</ref>
+
+Advancing in age, both Euphemia and her husband Fleamont succumbed to [[Dragon Pox]] shortly after the marriage of their son James to [[Lily J. Potter|Lily Evans]], in [[1978]]-[[1979]], dying within days of each other.<ref name="PotterFamilyPottermore" /><ref name="TLC" /> Euphemia never got a chance to meet her grandson, who would only be born after his grandparents' deaths, on [[31 July]], [[1980]], but she was among the relatives who Harry saw when he looked into the [[Mirror of Erised]] in [[1991]].<ref>{{PS|B|13}}</ref>
+
+==Etymology==
+
+Euphemia is a name of Greek origin. "Eu" means 'good', and "phemi" means 'to speak'; its full meaning is usually translated to mean "well-spoken, auspicious speech or good repute".<ref>http://www.behindthename.com/name/euphemia</ref>
+==Behind the scenes==
+*The name "Euphemia" is not unusual to see in British and Scottish ancestral trees, and has been the name of several European queens. A common nickname for those with the name is "Effie". 
+*It was once presumed that [[Charlus Potter]] and [[Dorea Black]], who appeared on the [[House of Black|Black family tree]], might have been James's parents (since it was known that Charlus and Dorea also had [[Charlus Potter's son|one son]]). However, [[J. K. Rowling]] revealed via {{PM}} that that was not the case. It is still more than likely, however, that Charlus Potter is somehow related to Fleamont.
+*Euphemia Potter shares the same first name with [[Euphemia Rowle]]. Whilst they share the same name, they can be considered polar opposites to each other. Euphemia Potter took in a recently-disowned [[Sirius Black]] and was a mother figure to him, whereas Euphemia Rowle was abusive and only took [[Delphini]] in for gold. 
+*Harry's view of his paternal grandparents was the polar opposite of Voldemort's. Whereas Tom Riddle had hatred for both sides of his family, particularly his patrilineal descent, Harry, who lost his father at a young age, was also saddened by never getting the chance to meet his father's parents. The Mirror of Erised showing Harry having a family reunion reflected his love for the idea of grandparents, and of a caring family in general. As Harry knew nothing about them, whether this feeling of love and respect for Fleamont and Euphemia Potter would have born out had he known them is likely, but debatable.
+*Euphemia's actions in taking in a young [[Sirius Black]] and becoming a mother-figure in his life would later be echoed with her grandson [[Harry Potter|Harry]] being taken in by [[Molly Weasley]] and treated like a son in the absence of his own family. Ironically, Molly is the maternal grandmother of Euphemia's great-grandchildren [[James Potter II|James]], [[Albus Potter|Albus]] and [[Lily L. Potter|Lily]]. 
+
+==Appearances==
+*{{PS}} {{Flashback}} {{Comment|Appears in [[Mirror of Erised]]}}
+*{{OOTP}} {{Mention}}
+*{{OOTP|F}} {{Mention}}
+*{{PM}} {{1stID}}
+*{{WW}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Potter, Euphemia}}
+[[de:Euphemia Potter]]
+[[fr:Mrs Potter]]
+[[ru:Юфимия Поттер]]
+[[pl:Euphemia Potter]]
+[[Category:20th century deaths]]
+[[Category:British individuals]]
+[[Category:Deaths from dragon pox]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Potter family]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

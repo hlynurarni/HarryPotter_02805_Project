@@ -1,0 +1,55 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mrs Abbott
+|born = 
+|died = Autumn [[1996]]<ref name="HBP11"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP11"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP11"/>
+|gender = Female<ref name="HBP11"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Hannah Abbott]] (daughter)<ref name="HBP11"/>
+*[[Neville Longbottom]] (son-in-law)
+*[[Giffard Abbott]] (possible distant relative)
+*[[Abbott]] (possible distant relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Abbott family]]<ref name="HBP11"/>
+}}
+{{Quote|There had been a horrible incident the day before, when Hannah Abbott had been taken out of Herbology to be told her mother had been found dead. They had not seen Hannah since.|News of Mrs Abbott's death|Harry Potter and the Half-Blood Prince}}
+'''Mrs Abbott''' (d. [[1996]]) was the mother of [[Hufflepuff]] student [[Hannah Abbott]]. During the [[Second Wizarding War]], Mrs Abbott was found dead in her home. She was murdered by [[Death Eaters]], followers of [[Tom Riddle|Lord Voldemort]]. When Hannah was informed of this during a [[sixth year]] [[Herbology]] class, she was removed from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="HBP11">{{HBP|B|11}}</ref>
+
+==Behind the scenes==
+*Mrs Abbott may have been a [[Non-magic people|Muggle]] or [[Muggle-born]], as the Abbott family is a known [[pure-blood]] family yet Hannah was a [[half-blood]], which would explain why she was killed by Death Eaters. However, it is possible that it was instead one of Hannah's grandparents that had the Muggle ancestry.
+**Alternatively, she may have been a supporter of Muggles or refused to assist the Death Eaters.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Abbott, Hannah's mother}}
+[[de:Mrs Abbott]][[fr:Mère d'Hannah Abbot]]
+[[pl:Pani Abbott]]
+[[Category:1996 deaths]]
+[[Category:Abbott family]]
+[[Category:British individuals]]
+[[Category:Females|Abbott]]
+[[Category:Murder victims|Abbot, Mrs]]
+[[Category:Parents]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Unnamed family members]]

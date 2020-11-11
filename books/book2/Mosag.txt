@@ -1,0 +1,63 @@
+{{Pet individual infobox
+|image = 
+|name = Mosag
+|born = c. [[1942]]
+|died = 
+|alias = 
+|title = 
+|species = [[Acromantula]]
+|gender = Female
+|height = Around 15 feet
+|hair = Brown
+|feathers = 
+|eyes = Black
+|skin = 
+|family = *[[Aragog]] (husband) †
+*[[Aragog and Mosag's children|Unnamed children]]
+|loyalty = [[Forbidden Forest Acromantula colony|Acromantula colony]]
+}}
+{{Quote|[[Rubeus Hagrid|He]] even found me a wife, Mosag...|Aragog|Harry Potter and the Chamber of Secrets}}
+'''Mosag''' was a female [[Acromantula]], and the wife of [[Aragog]]. Sometime before [[1993]], Mosag gave birth to hundreds of baby acromantulas and co-founded the [[Forbidden Forest Acromantula colony|acromantula colony]] located in the [[Forbidden Forest]] near [[Hogwarts School of Witchcraft and Wizardry]]. Her husband died later in [[1997]]. Their colony and descendants took part in the [[Battle of Hogwarts]] in [[1998]].
+
+==Biography==
+===Family life===
+[[File:Aragog.jpg|150px|thumb|left|Aragog, Mosag's husband]]
+
+{{Quote|...and you see how our family has grown, all through Hagrid's goodness...|Aragog|Harry Potter and the Chamber of Secrets}}
+Sometime before [[1993]], Mosag was born and found by [[Rubeus Hagrid]]. Hagrid already owned one acromantula, [[Aragog]], who needed a wife to start a colony. Hagrid brought Mosag to the [[Forbidden Forest]] near the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] school grounds and the two reproduced and began a large colony of Acromantulas. These acromantulas quickly grew to form a large colony that would attack any fresh meat. It is likely that she, like Aragog, liked Hagrid, and ordered her sons and daughters not to attack him.<ref name="COS15">{{COS|B|15}}</ref>
+
+[[File:Spiders.JPG|150px|thumb|The colony of Aragog and Mosag]]
+In [[1997]], Aragog died.<ref name="HBP22">{{HBP|B|22}}</ref> Later, when [[Tom Riddle|Voldemort]] attacked Hogwarts castle during the [[Battle of Hogwarts]] in 1998, Aragog and Mosag's many sons and daughters were forced by the [[Death Eaters]] to fight for their side. However, this fight was won by the [[Order of the Phoenix]], the side opposing the Death Eaters.<ref name="DH">{{DH}}</ref>
+
+==Etymology==
+*Mosag is a Scottish Gaelic word which means "dirty female" or "filthy" according to [[J. K. Rowling]].<ref>[http://www.accio-quote.org/articles/2002/1002-sixtymin-stahl-reedit.html 60 Minutes interview from 3 October, 2002]</ref> ''A Dictionary of the Gaelic Language'' (Norman Macleod and Daniel Dewar, 1839) defines ''mosag'' as "a tawdry, drabbish woman; a worthless woman; a mean or avaricious woman."
+
+==Behind the scenes==
+*Mosag was only mentioned passively in {{COS}},<ref name="COS15">{{COS|B|15}}</ref> and is not mentioned in the [[Harry Potter and the Chamber of Secrets (film)|film version]].<ref>{{COS|F}}</ref>
+*It is unknown if Mosag fought in the Battle of Hogwarts. Because she never actually appears and is only briefly mentioned once, it is possible that she died sometime before Aragog. This seems likely, as she likely held the same respect for Hagrid as her husband, considering that Hagrid was responsible for her getting a mate to start a colony, and she likely would have stopped her children from attacking Hagrid if she were still around.
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+==See also==
+*[[Rubeus Hagrid's pets]]
+[[de:Mosag]]
+[[es:Mosag]]
+[[fr:Mosag]]
+[[fi:Myhäk]]
+[[nl:Mosag]]
+[[no:Mosag]]
+[[pl:Mosag]]
+[[pt-br:Mosag]]
+[[Category:Acromantulas]]
+[[Category:Black-eyed individuals]]
+[[Category:Females]]
+[[Category:Forbidden Forest]]
+[[Category:Hagrid's pets]]
+[[Category:Married individuals]]
+[[Category:Parents]]

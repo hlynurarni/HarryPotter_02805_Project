@@ -1,0 +1,89 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Terrance Higgs.png|250px]]
+|name = Terence Higgs
+|born = [[31 August]] [[1979]] or earlier
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Seeker]]<ref name="PS11"/>
+|signature = 
+|species = [[Human]]<ref name="PS11"/>
+|gender = Male<ref name="PS11"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Bertie Higgs]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="PS11"/>
+|loyalty = *[[Higgs family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS11"/>
+**[[Slytherin]]<ref name="PS11"/>
+**[[Slytherin Quidditch team]]<ref name="PS11"/>
+}}
+{{Quote|Harry saw it. In a great rush of excitement he dived downward after the streak of gold. Slytherin Seeker Terence Higgs had seen it, too. Neck and neck they hurtled toward the Snitch — all the Chasers seemed to have forgotten what they were supposed to be doing as they hung in midair to watch.|Terrence playing Quidditch against Harry Potter in 1991|Harry Potter and the Philosopher's Stone}}
+'''Terence Higgs''' (b. [[1970s]]) was a [[Wizardkind|wizard]] and a [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PS11"/>
+
+==Biography==
+He was the [[Slytherin Quidditch team]] [[Seeker]] during the [[1991–1992 school year|1991–1992]] season and in the first game of the year, raced [[Harry Potter]] for the [[Golden Snitch]]. Like [[Adrian Pucey]], he appeared to be one of the more decent Slytherin players, as he seemed to play by the rules of Quidditch and did not resort to cheating.<ref name="PS11">{{PS|B|11}}</ref> 
+
+But in the [[1992–1993 school year]], he was replaced by [[Draco Malfoy]].<ref name="COS7">{{COS|B|7}}</ref>  However, it is unknown if he was still attending [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] at that time, or if he had already graduated.
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': As the [[Seeker]] for the [[Slytherin Quidditch team]], Higgs was evidently a talented [[broomstick]] flyer and [[Quidditch]] player, as he was deemend good enough to be Seeker for the team.<ref name="PS11"/>
+
+==Behind the scenes==
+*Terence Higgs was portrayed by [[Great Britain|British]] actor [[Will Theakston]], with the credits incorrectly stating he was played by [[Scot Fearn]]. Fearn's name was also misspelled as Fern.
+*In {{PS|FA}} Terence Higgs used the [[cobbing]] foul against [[Harry Potter]], although he could have done it simply in retaliation, since Harry cobbed him first. It is unclear if this was the case, as Terence ended up cobbing Harry four times as opposed to twice.
+
+==Etymology==
+Terentius was a Roman family name. It may mean "tender" or "gracious". Higgs is variation of Hicks, from old English Hicke, a nickname for the Norman French name Richard. The early English substituted an "H" because they had trouble saying the letter "R".
+
+==Appearances==
+{{Imagecat|Images of Terence Higgs}}
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{PM}}
+*{{TCG}}
+*{{LEGO|Y1}}
+*{{HPK}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Regulus Black]]
+|position=[[Seeker]] of the [[Slytherin Quidditch team]]
+|years=?-[[1992]]
+|successor=[[Draco Malfoy]]
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+{{DEFAULTSORT:Higgs, Terence}}
+{{Character-stub}}
+
+[[de:Terence Higgs]]
+[[fr:Terence Higgs]]
+[[it:Terence Higgs]]
+[[ru:Теренс Хиггс]]
+[[es:Terence Higgs]]
+[[pl:Terence Higgs]]
+[[pt-br:Terence Higgs]]
+[[Category:1970s births]]
+[[Category:British or Irish individuals]]
+[[Category:Higgs family]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

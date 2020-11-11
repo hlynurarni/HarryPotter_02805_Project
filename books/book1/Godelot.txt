@@ -1,0 +1,63 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=dark-wizard
+|image=Godelot.jpg
+|name=Godelot
+|hideb=hide
+|born=[[Middle Ages]]
+|died=Middle Ages
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Hereward]] (son)
+|hidem=
+|animagus=
+|boggart=
+|wand=*Unknown wand<ref>It is most likely that he owned another wand before the [[Elder Wand]].</ref>
+*[[Elder Wand|Elder, Thestral tail hair core]]
+|patronus=
+|hidea=
+|job=Author
+|house=
+|loyalty=
+}}
+{{Quote|My moste wicked and subtle friend, with bodie of Ellhorn, who knowes ways of magick moste evile.|An entry on Godelot's notebook regarding the [[Elder Wand]]|The Tales of Beedle the Bard (real)}}
+
+'''Godelot''' was a [[Middle Ages|medieval]] [[Dark Wizard|dark wizard]] who once owned the [[Elder Wand]].<ref>{{DH|B|21}}</ref> Described as an "''unpleasant character''", Godelot considered the Elder Wand to be an instructor, and used his knowledge of the wand's powers to write ''[[Magick Moste Evile]]'', a book that contained information on [[Dark Arts|dark magic]]. Despite his affinity towards dark magic, he refused to discuss [[Horcrux]]es, deeming them and the ritual involved too dark even for him. Godelot perished in his own cellar, after he was locked in by his son, [[Hereward]], who did this to gain ownership of the [[Elder Wand]].<ref>{{TBB|R}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref>
+
+==Appearances==
+*{{DH}} {{Mention}}
+*{{TBB|R}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Egbert the Egregious]]
+|position=Master of the [[Elder Wand]]
+|years=
+|successor=[[Hereward]]
+}}
+{{End box}}
+{{Deathly Hallows Owners}}
+[[de:Godelot]]
+[[fr:Godelot]]
+[[ru:Годелот]]
+[[pl:Godelot]]
+[[pt-br:Godelot]]
+[[Category:Authors]]
+[[Category:Dark wizards]]
+[[Category:Elder Wand masters]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Murder victims]]

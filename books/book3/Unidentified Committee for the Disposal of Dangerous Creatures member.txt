@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = [[File:OldCommitteeMember.png]]
+|name = Unidentified Committee for the Disposal of Dangerous Creatures member
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Member of the [[Committee for the Disposal of Dangerous Creatures]]
+|house = 
+|loyalty = *[[British Ministry of Magic|Ministry of Magic]]
+*[[Committee for the Disposal of Dangerous Creatures]]
+}}
+This '''[[Wizardkind|wizard]]''' was an elderly member of the [[Committee for the Disposal of Dangerous Creatures]] assigned to come to [[Hogwarts Castle]] for the execution of the [[hippogriff]], [[Buckbeak]], in [[1994]], with [[Walden Macnair]].<ref>{{POA|B|16}}</ref> He was noted for having a feeble, reedy voice.<ref>{{POA|B|21}}</ref>
+
+==Behind the scenes==
+*This wizard is omitted from {{POA|FA}}.
+
+==Appearances==
+*{{POA}} {{1st}}
+*{{PM}} {{fact}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry Level 4 employees}}
+[[es:Miembro no identificado del Comité de Exterminación de Criaturas Peligrosas]]
+[[pl:Staruszek z Komisji Likwidacji Niebezpiecznych Stworzeń]]
+[[Category:British individuals|Committee for the Disposal of Dangerous Creatures member]]
+[[Category:Committee for the Disposal of Dangerous Creatures members]]
+[[Category:Males|Committee for the Disposal of Dangerous Creatures member]]
+[[Category:Unidentified individuals|Committee for the Disposal of Dangerous Creatures member]]
+[[Category:Wizards|Committee for the Disposal of Dangerous Creatures member]]

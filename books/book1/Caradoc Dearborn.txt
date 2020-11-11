@@ -1,0 +1,67 @@
+{{Individual infobox
+|theme = phoenix
+|image = [[File:CaradocDearbornPM.png|250px]]
+|name = Caradoc Dearborn
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP9"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP9"/>
+|gender = Male<ref name="OOTP9"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *Dearborn family
+*[[Order of the Phoenix]]<ref name="OOTP9"/>
+}}
+{{Quote|Caradoc Dearborn, disappeared six months after the photograph, we didn't ever find his body...|Caradoc's disappearance|Harry Potter and the Order of the Phoenix}}
+'''Caradoc Dearborn''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and member of the original [[Order of the Phoenix]]. He fought in the [[First Wizarding War]] and was presumably murdered by [[Death Eaters]] before the end of the war. His body was never found.<ref name="OOTP9"/>
+
+==Biography==
+During the [[First Wizarding War]], Caradoc became a member of the [[Order of the Phoenix]], an organisation led and founded by [[Albus Dumbledore]], in order to oppose the [[Tom Riddle|Dark Lord Voldemort]] and his [[Death Eaters]].<ref name="OOTP9"/>
+
+During the height of the conflict, Caradoc vanished and was never heard from afterwards. According to [[Alastor Moody]], he disappeared six months after the photograph of the original Order was taken. His body was never found and he was presumed dead.<ref name="OOTP9">{{OOTP|B|9}}</ref>
+
+==Magical abilities and skills==
+*'''[[Magic]]al skills''': To be a member of the [[Order of the Phoenix]], it is highly likely that Caradoc was a talented wizard and most likely used his magical ability in a number of battles against the [[Death Eaters]] before his untimely death.<ref name="OOTP9" />
+
+==Etymology==
+[[Wikipedia:Caradoc|Caradoc]], sometimes known as ''Caradog'', was one of the Knights of the Round Table in Arthurian legend. He was also a semi-legendary ancestor of the mediaeval kings of the Welsh [[Wikipedia:Kingdom of Gwent|Kingdom of Gwent]]. ''Caractacus'' is the Latinized form of Caradoc.<ref>[http://webspace.webring.com/people/ge/edgarbook/names/frames.html Edgar's Name Pages]</ref>
+
+==Appearances==
+{{Imagecat|Images of Caradoc Dearborn}}
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|F}} {{Comment|Possible appearance in [[Order of the Phoenix]] photograph}}
+*{{DH|G1}} {{Mention}}
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dearborn, Caradoc}}
+
+{{Order of the Phoenix}}
+[[de:Caradoc Dearborn]]
+[[es:Caradoc Dearborn]]
+[[fr:Caradoc Dearborn]]
+[[pl:Caradoc Dearborn]]
+[[ru:Карадок Дирборн]]
+[[Category:British individuals]]
+[[Category:First Order of the Phoenix]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Passwords]]
+[[Category:Wizards]]

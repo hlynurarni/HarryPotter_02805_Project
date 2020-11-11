@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=mom
+|image=[[File:Archie Aymslowe.png]]
+|name=Ministry of Magic wizard
+|blood=
+|hideb=y
+|born=
+|died=
+|height=
+|hair=
+|eyes=
+|skin=
+|species=[[Human]]
+|gender=Male
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|patronus=
+|wand=
+|job=Security at the [[Quidditch World Cup]]
+|house=
+|loyalty=[[British Ministry of Magic|Ministry of Magic]]
+}}
+{{Dialogue a-b-a|Archie|I bought this in a Muggle shop. Muggles wear them.|Ministry wizard|Muggle ''women'' wear them, Archie, not the men; they wear these.|I’m not putting them on. I like a healthy breeze ’round my privates, thanks.|Archie and the wizard at the [[1994]] [[Quidditch World Cup]]|Harry Potter and the Goblet of Fire}}
+
+This '''Ministry of Magic wizard''' was an employee of the [[British Ministry of Magic]]. In [[1994]], he was working at the [[Quidditch World Cup]], helping to keep up security to prevent drawing attention from [[Non-magic people|Muggle]]s. He was seen attempting to persuade a wizard named [[Archie Aymslowe]] to change out of his flowery nightgown and into a pair of trousers.<ref>{{GOF|B|7}}</ref>
+
+==Appearances==
+*{{GOF}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry employees of unknown Department}}
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals]]
+[[Category:Males|Ministry of Magic Wizard at the 1994 Quidditch World Cup]]
+[[Category:Ministry of Magic employees]]
+[[Category:Unidentified individuals|Ministry of Magic Wizard at the 1994 Quidditch World Cup]]
+[[Category:Wizards|Ministry of Magic Wizard at the 1994 Quidditch World Cup]]

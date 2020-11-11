@@ -1,0 +1,84 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Mary Cattermole 2.jpg|250px]]
+|name = Mary Elizabeth Cattermole
+|born = 
+|died = 
+|blood = [[Muggle-born]]<ref name="DH13">{{DH|B|13}}</ref>
+|marital = Married<ref name="DH13"/>
+|nationality = [[Great Britain|British]]<ref name="DH13"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH13"/>
+|gender = Female<ref name="DH13"/>
+|height = 
+|weight = 
+|hair = Dark Brown<ref name="LE"/>
+|eyes = Blue<ref name="LE">{{HPLE}} (See [[:File:MaryCattermoleTrialPaperwork2.png|this image]])</ref>
+|skin = Fair<ref name="LE"/>
+|family = *[[Mary Cattermole's father|Father]]<ref name="DH13"/>
+*[[Mary Cattermole's mother|Mother]]<ref name="DH13"/>
+*[[Reginald Cattermole]] (husband)<ref name="DH13"/>
+*[[Maisie Cattermole]] (daughter)<ref name="DH13"/>
+*[[Ellie Cattermole]] (daughter)<ref name="DH13"/>
+*[[Alfred Cattermole]] (son)<ref name="DH13"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Mary Cattermole's wand|Cherry, 8¾", unicorn hair]]<ref name="DHF1"/>
+|patronus = Non-corporeal<ref name="LHP5-7">{{LEGO|Y2}}</ref>
+|job = 
+|house = 
+|loyalty = [[Cattermole family]]<ref name="DH13">{{DH|B|13}}</ref>
+}}
+{{Dialogue a-b|Mary Cattermole|I don't understand.|Harry Potter|You're going to leave here with us. Go home, grab your children, and get out, get out of the country if you've got to. Disguise yourselves and run. You've seen how it is, you won't get anything like a fair hearing here.|Mary Cattermole after [[Harry Potter]] and [[Hermione Granger]] disrupt her trial|Harry Potter and the Deathly Hallows}}
+
+'''Mary Elizabeth Cattermole''' (fl. 1997) was a [[Great Britain|British]] [[Muggle-born]] [[Wizardkind|witch]]. She lived at [[27 Chislehurst Gardens|27]] [[Chislehurst Gardens]], [[Great Tolling]], [[Evesham]] with her husband and children. She was described as small with dark hair that she wore in a neat bun.<ref name="DH13">{{DH|B|13}}</ref>
+
+==Biography==
+She was the daughter of a [[Non-magic people|Muggle]] [[Mary Cattermole's father|greengrocer]] and [[Mary Cattermole's mother|his wife]]. She married [[British Ministry of Magic|Ministry of Magic]] employee [[Reginald Cattermole]], with whom she had two daughters, [[Maisie Cattermole|Maisie]] and [[Ellie Cattermole|Ellie]], and one son, [[Alfred Cattermole|Alfred]].<ref name="DH13">{{DH|B|13}}</ref>
+
+[[File:Trial1.jpg|thumb|left|251x251px|Dolores Umbridge interrogates Mary in the ''[[Muggle-Born Registration Commission]]'' court room]] In [[1997]], Mary was accused of stealing the [[Mary Cattermole's wand|wand]] of a [[pure-blood]] or [[half-blood]] witch or wizard, and was brought before a trial by the Muggle-Born Registration Commission. She was interrogated by [[Dolores Umbridge]] and [[Corban Yaxley|Yaxley]], and would have been convicted and sent to [[Azkaban]] if not for the help of Harry and Hermione (disguised as [[Albert Runcorn]] and [[Mafalda Hopkirk]] respectively). Harry, Hermione and Ron (disguised as her husband Reginald Cattermole) assisted her and a group of Muggle-borns who had been in for questioning escape the Ministry. Harry advised Mary and Reg to take their children and flee the country while [[Tom Riddle|Voldemort]] was still in power.<ref name="DH13">{{DH|B|13}}</ref>
+
+It is unknown if Mary and Reginald managed to escape successfully, or what happened to them and their children after the war.
+
+==Behind the scenes==
+*Mary Cattermole was portrayed by [[Kate Fleetwood]] in {{DH|F1}}.<ref>[http://www.snitchseeker.com/harry-potter-news/kate-fleetwood-cast-mary-cattermole-deathly-hallows-71696/ Kate Fleetwood cast as Mary Cattermole in Deathly Hallows]</ref>
+*In the film, it was Ron, not Harry, who warned Mary to take her family and flee the country, though she thought he was her husband at the time, and proceeded to kiss him.<ref name="DHF1">{{DH|F1}}</ref>
+*Mary does not wear her hair in a bun in the film.
+
+==Etymology==
+"Mary" is the English form of Maria, which was the Latin form of the New Testament Greek names Μαριαμ (''Mariam'') and Μαρια (''Maria'') (the spellings are interchangeable) which in turn come from the Hebrew name מִרְיָם (''Miryam''). The meaning is not known for certain, but there are several theories including "sea of bitterness", "rebelliousness", and "wished for child". It is also possible that the source of the name lies in ancient Egyptian, and was derived from ''mry'' "beloved" or ''mr'' "love".
+
+==Appearances==
+{{imagecat|Images of Mary Cattermole}}
+[[File:LEGO_Mary.png|thumb|Mary in {{LEGO|Y2}}]] 
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cattermole, Mary}}
+
+[[de:Mary Cattermole]]
+[[es:Mary Cattermole]]
+[[fi:Mary Kissimyyr]]
+[[fr:Mary Cattermole]]
+[[nl:Maria Malkander]]
+[[pl:Mary Cattermole]]
+[[ru:Мэри Кроткотт]]
+[[pt-br:Maria Cattermole]]
+[[Category:20th century births]]
+[[Category:Blue-eyed individuals]]
+[[Category:British individuals]]
+[[Category:Cattermole family|Mary]]
+[[Category:Dementor victims]]
+[[Category:Females]]
+[[Category:Infiltration of the Ministry of Magic]]
+[[Category:Married individuals]]
+[[Category:Muggle-Born Registration Commission]]
+[[Category:Muggle-borns]]
+[[Category:Parents]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Summers
+|born = between [[1 November]] [[1977]] and [[31 August]] [[1983]]<ref>As he wasn't 17 yet at the start of the 1994-1995 school year.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+'''Summers''' was a [[Wizardkind|wizard]] and [[Hufflepuff]] student at [[Hogwarts School of Witchcraft and Wizardry]]. In [[1994]], he tried to cross over the [[Age Line]] surrounding the [[Goblet of Fire]] to enter his name in the [[Triwizard Tournament]], despite being underage at the time. He was unsuccessful, and ended up in the [[Hospital Wing]] with a long white beard.<ref>{{GOF|B|16}}</ref>
+
+==Appearances==
+*{{GOF}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Summers]]
+[[fr:Summers]]
+[[ru:Саммерс]]
+[[pl:Summers]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

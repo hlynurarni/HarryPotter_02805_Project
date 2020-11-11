@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Montgomery
+|born = before [[1969]] (most likely)
+|died = 
+|blood = [[Magic]]al to unknown extent
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP22"/>
+|gender = Female<ref name="HBP22"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Montgomery sisters|Two daughters]]<ref name="HBP22"/>
+*[[Montgomery]]† (son)<ref name="HBP22"/>
+*[[Phillip Montgomery]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+This '''[[Wizardkind|witch]]''' was a the mother of the [[Montgomery sisters]] and their [[Montgomery|younger brother]]. When she refused to help the [[Death Eaters]] in [[1997]] and support their [[Pure-blood supremacy|cause]], her then five-year-old son was attacked by the bloodthirsty [[werewolf]] [[Fenrir Greyback]], on the Death Eaters' orders. The boy later died in [[St Mungo's Hospital for Magical Maladies and Injuries]] from his injuries, as the [[Healer]]s there were unable to save his life given the grave extent of his injuries.<ref name="HBP22">{{HBP|B|22}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Madre de los niños Montgomery]]
+[[fr:Mère des sœurs Montgomery]]
+[[ru:Миссис Монтгомери]]
+[[pl:Pani Montgomery]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Montgomery family]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

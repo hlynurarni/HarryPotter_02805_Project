@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mr Chang
+|born = before [[1962]] (most likely)
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cho Chang's grandfather|Father]]
+*[[Cho Chang's mother|Madam Chang]] (wife)
+*[[Cho Chang]] (daughter)<ref name="OOTP18"/>
+*[[Cho Chang's spouse|Child-in-law]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Chang family]]
+}}
+{{Dialogue a-b-a|Cho Chang|[[Marietta Edgecombe|Her]] parents have forbidden her to do anything that might upset Umbridge, you see — her mum works for the Ministry.|[[Harry Potter]]|What about your parents?|Well, they've forbidden me to get on the wrong side of Umbridge too. But if they think I'm not going to fight [[Tom Riddle|You-Know-Who]] after what happened to [[Cedric Diggory|Cedric]] —|Cho Chang talks about her parents' views.|Harry Potter and the Order of the Phoenix}}
+'''Mr Chang''' was the father of [[Cho Chang]]. He and his [[Cho Chang's mother|wife]] wanted their daughter to stay on [[Dolores Umbridge]]'s good side in her [[sixth year]] at [[Hogwarts School of Witchcraft and Wizardry]], but Cho joined [[Dumbledore's Army]] against their wishes.<ref name="OOTP18">{{OOTP|B|18}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Père de Cho Chang]]
+[[pl:Pan Chang]]
+[[Category:British individuals|Chang]]
+[[Category:Chang family]]
+[[Category:Males|Chang]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎|Chang]]

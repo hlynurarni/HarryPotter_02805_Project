@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Octavius Pepper
+|born = 
+|died = Spring, [[1997]] (possibly)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Octavius Pepper''' was a [[Wizardkind|wizard]] who was reported to have disappeared in the early spring of [[1997]] by the ''[[Daily Prophet]]''. His disappearance was believed to be connected to the [[Death Eaters]].<ref>{{HBP|B|21}}</ref>
+
+==Etymology==
+The name "Octavius" is a Roman family name meaning "eighth" from Latin octavus. This was the original family name of the emperor Augustus (born Gaius Octavius).
+
+==Appearances==
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pepper, Octavius}}
+
+
+[[de:Octavius Pepper]]
+[[es:Octavius Pepper]]
+[[fr:Octavius Pepper]]
+[[pl:Oktawiusz Pepper]]
+[[ru:Октавий Перчик]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Missing individuals]]
+[[Category:Wizards]]

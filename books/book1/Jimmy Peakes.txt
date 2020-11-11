@@ -1,0 +1,84 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[Image:Jimmy Peakes.png|250px]]
+|name = Jimmy Peakes
+|born = between [[1 September]] [[1982]] and [[31 August]] [[1983]]<br/>[[Great Britain]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">He was able to attend Hogwarts during the [[1997–1998 school year]], when [[Muggle-born]] students could not, which means he was of [[Wizardkind|wizarding]] ancestry.</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Glanmore Peakes]] (possible relative)
+*[[Sean Peakes]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="HBP11"/>
+|loyalty = *[[Peakes family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+**[[Gryffindor Quidditch team]]
+}}
+{{Quote|You shut up and leave her alone!|Peakes standing up to [[Ronald Weasley|Ron Weasley]]|Harry Potter and the Half-Blood Prince}}
+'''Jimmy Peakes''' (c. [[1983]]) was a [[Wizardkind|wizard]] and student of [[Hogwarts School of Witchcraft and Wizardry]] chosen by [[Harry Potter]] to be one of the new [[Beater]]s for the [[1996–1997 school year|1996-1997]] [[Gryffindor Quidditch team]]. Together with [[Ritchie Coote]] he replaced [[Jack Sloper]] and [[Andrew Kirke]].
+
+==Biography==
+===Hogwarts years===
+====Early years====
+Jimmy started his education at [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. Upon his arrival at Hogwarts Jimmy was sorted into [[Gryffindor|Gryffindor House]], a house renowned for bravery. He was three years below the famous [[Harry Potter]].
+
+====Third year====
+{{Quote|Jimmy Peakes, a short but broad-chested third-year boy who had managed to raise a lump the size of an egg on the back of Harry's head with a ferociously hit Bludger...|Harry Potter's assessment of the new Gryffindor Beaters|Harry Potter and the Half-Blood Prince}}In the [[1996–1997 school year]] Jimmy tried out and became the new Beater for Gryffindor in the [[1996–1997 school year|1996-1997 Quidditch season]] replacing [[Fred Weasley|Fred]] and [[George Weasley]] with [[Ritchie Coote]]. Neither of them gave the team the same charisma, but were almost as good in game. During tryouts Jimmy caused Harry to receive a swelling on his head the size of an egg after hitting him with a Bludger.<ref name="HBP11">{{HBP|B|11}}</ref>
+
+During the Gryffindor vs. Hufflepuff match it was mentioned by [[Hermione Granger]] that he and [[Ritchie Coote]] apparently caught Harry after he was knocked out by a Bludger to the head that [[Cormac McLaggen]] accidentally hit to him.<ref name="HBP20">{{HBP|B|20}}</ref>
+
+====Fourth year====
+After the death of former [[Headmaster]] Dumbledore, Snape took to the position of Head. The school was corrupt and being ran by [[Tom Riddle|Lord Voldemort]] indirectly with puppet teachers and [[Death Eaters]] [[Amycus Carrow]] and [[Alecto Carrow]] being employed this year. Attendance to Hogwarts was compulsory for all [[Pure-blood]] and [[Half-blood]] students.
+
+====Battle of Hogwarts====
+{{Quote|Absolutely not, Creevey, go! And you, Peakes!|McGonagall ordering Peakes to leave|Harry Potter and the Deathly Hallows}}[[file:Battle6.jpg|250x250px|thumb|left|Students fleeing Hogwarts castle as it falls under attack]]
+When Hogwarts fell under attack from [[Death Eaters]] in [[1998]], Peakes was one of the students, along with [[Colin Creevey]] that had to be forcibly pushed out of the [[Great Hall]] by [[Minerva McGonagall]] as he wanted to stay and fight in the [[Battle of Hogwarts]], but was too young.<ref name="DH30">{{DH|B|30}}</ref> It is unknown whether or not Peakes sneaked back into the castle to fight but his friend who was also made to leave, Colin, did sneak back into the castle to fight and was subsequently killed.
+
+==Physical description==
+Jimmy was described to be short but broad-chested. Peakes did not have the "old brilliance" of [[Fred Weasley|Fred]] and [[George Weasley]] (whom he and fellow new Beater Ritchie Coote replaced), but during the tryouts, he was strong enough to hit a [[Bludger]] hard enough to cause a lump about the size of an egg on Harry's head.<ref name="HBP11"/>
+
+==Appearances==
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+*{{DH}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Peakes, Jimmy}}
+[[de2:Jimmy Peakes]]
+[[de:Jimmy Peakes]]
+[[es:Jimmy Peakes]]
+[[fr:Jimmy Peakes]]
+[[he:ג'ימי פיקס]]
+[[nl:Jimmy Postelijn]]
+[[pl:Jimmy Peakes]]
+[[ru:Джимми Пикс]]
+[[sv:Jimmy Peakes]]
+[[zh:吉米·珀克斯]]
+[[Category:1980s births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Peakes family]]
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

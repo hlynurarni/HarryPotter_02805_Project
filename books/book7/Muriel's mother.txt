@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Muriel's mother
+|born = Before [[2 August]], [[1890]]<ref>2 August, 1890 is the latest date Muriel could be born on, so her mother had to have been born before that date.</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]] (possibly)<ref name="blood"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH8"/>
+|gender = Female<ref name="DH8"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Muriel]] (daughter)<ref name="DH8"/>
+*[[Molly Weasley's father|Mr Prewett]] (possible grandson)
+*[[Molly Weasley's mother|Mrs Prewett]] (possible granddaughter-in-law)
+*[[Tessie]] (possible daughter)
+*[[Molly Weasley]] (possible great-granddaughter)<ref name="PM">[https://www.pottermore.com/features/aunt-muriel-vs-aunt-marge Pottermore -] states that Muriel is "technically Mrs Weasley's great aunt" making Muriel's mother Molly's great-grandmother and by extension, making her Fabian and Gideon's great-grandmother and the Weasley children her great-great grandchildren</ref>
+*[[Fabian Prewett]] (possible great-grandson)<ref name="PM" />
+*[[Gideon Prewett]] (possible great-grandson)<ref name="PM" />
+*[[Weasley family|Weasley children]] (possible great-great-grandchildren<ref name="PM" />)
+*[[Lancelot (Healer)|Lancelot]] (nephew)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''mother''' of [[Muriel]] was a [[pure-blood|pure]] or [[half-blood]] [[Wizardkind|witch]]<ref name="blood">It is mentioned that Molly is pure-blood, so that her family has to be. However, it is unknown if this woman is Molly's great-grandmother; Muriel may have married a great-uncle of Molly's. If this is the case, then Muriel's mother is no blood relation of Molly or her family.</ref> and also close friends with [[Bathilda Bagshot]]. During a conversation with Bathilda, she learned of the altercation between brothers [[Albus Dumbledore|Albus]] and [[Aberforth Dumbledore]], which had occurred at their sister Ariana's funeral. Unknown to her, [[Muriel]] was listening to the discussion from behind the door.<ref name="DH8">{{DH|B|8}}</ref>
+
+==Behind the scenes==
+*Muriel is Molly's great-aunt. If Muriel was the grandmother of Mr or Mrs Prewett, this woman is Molly's great-grandmother and the Weasley children's great-great-grandmother.<ref name="PM" />
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Mère de Muriel]]
+[[pl:Matka Muriel]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

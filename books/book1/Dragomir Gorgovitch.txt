@@ -1,0 +1,43 @@
+{{Individual infobox
+|name = Dragomir Gorgovitch
+|title = [[Chaser]]
+|species = [[Human]]
+|gender = Male
+|skin = Light
+|job = [[Chaser]] for the [[Chudley Cannons]]
+|loyalty = [[Chudley Cannons]]
+|theme = quidditch-player
+|hideb = 
+|hidep = 
+|hidef = yes
+|hidem = yes
+|broom = 
+|hidea = 
+}}'''Dragomir Gorgovitch''' was a [[Wizardkind|wizard]] who played as a [[Chaser]] for the [[Chudley Cannons]].
+
+==Biography==
+Gorgovitch transferred to the Cannons in [[1995]] for a "''record fee,''" and held the record for the most [[Quaffle]] drops in a season. [[Ronald Weasley|Ron Weasley]] tried not to think about him if he could, probably because his favourite team was the Cannons.<ref name="DH7">{{DH|B|7}}</ref>
+
+In [[1997]], after [[Harry Potter]] had a vision about [[wandmaker]] [[Mykew Gregorovitch|Gregorovitch]], Ron wondered if he was referring to Gorgovitch instead; as, at the time, Harry didn't know who Gregorovitch was, the only hint he had to go on was that he may have been somehow connected to [[Quidditch]].<ref name="DH7">{{DH|B|7}}</ref>
+
+When selecting an alias for himself, during the [[Break-in of Gringotts Wizarding Bank (1998)]], Ron named himself Dragomir Despard, most likely an allusion to Dragomir Gorgovitch.<ref name="DH26">{{DH|B|26}}</ref>
+
+==Etymology==
+The name "Dragomir" means "precious and peaceful" from the Slavic element ''dorgu'' meaning "precious" combined with ''mir'' "peace".
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Gorgovitch, Dragomir}}
+
+[[de:Dragomir Gorgowitsch]]
+[[fr:Dragomir Gorgovitch]]
+[[pl:Dragomir Gorgovitch]]
+[[Category:Chasers]]
+[[Category:European individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,40 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Workmen at Tottenham Court Road
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=
+|job=Workmen
+|loyalty=
+}}
+{{Quote|All right, darling? Fancy a drink? Ditch ginger and come and have a pint!|One of the men shouting to [[Hermione Granger]]|Harry Potter and the Deathly Hallows}}
+
+A group of [[Non-magic people|Muggle]] '''workmen''' were out drinking at pubs on [[Tottenham Court Road]] on the night of [[1 August]], [[1997]]. They spotted [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] that night, just after the trio [[Apparition|Disapparated]] from [[the Burrow]] after the [[Death Eaters]] [[Fall of the Ministry of Magic|took over]] the [[British Ministry of Magic|Ministry of Magic]]. The men wolf-whistled at Hermione, and one drunkenly asked her to go get a drink with him. She ignored him, and entered a [[Luchino Caffe|café]] with Harry and Ron.
+
+==Behind the scenes==
+*After the trio unwittingly triggered the [[Taboo|Taboo curse]] on [[Tom Riddle|Lord Voldemort]]'s name, they were tracked by Death Eaters [[Antonin Dolohov]] and [[Thorfinn Rowle]], who disguised themselves as workmen and followed Harry, Ron, and Hermione into the café, where a brief [[Luchino Caffe Duel|skirmish]] ensued. It is possible that they incapacitated or killed the drunk workers in order to obtain the disguises, a theory which is supported by the detail of their existence being added at all.<ref>{{DH|B|9}}</ref>
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Tottenham Court Road]]
+[[Category:Unidentified Muggles‎]]

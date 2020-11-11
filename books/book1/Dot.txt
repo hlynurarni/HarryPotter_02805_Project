@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Dot
+|born = Before [[1917]]
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="GOF1" />
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="GOF1" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF1" />
+|gender = Female<ref name="GOF1" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|'S far as I'm concerned, he killed them, and I don't care what the [[police]] say. And if he had any decency, he'd leave, knowing as how we knows he did it.|Dot on [[Frank Bryce]]'s actions after the [[Riddle family|Riddle]] murders|Harry Potter and the Goblet of Fire}}
+'''Dot''' (fl. [[1943]]) was a [[Non-magic people|Muggle]] woman who lived in [[Little Hangleton]]. She knew [[Frank Bryce]] since he was a child.<ref name="GOF1" />
+
+==Biography==
+===Early life===
+Dot was born to a [[Non-magic people|Muggle]] family sometime before [[Frank Bryce]] was born. She was probably born in [[Little Hangleton]], since she remembers seeing him when he was a child, when he showed he had a "horrible temper."<ref name="GOF1">{{GOF|B|1}}</ref>
+
+===The Riddle Murders===
+She was one of the many town residents who gathered at [[The Hanged Man]] to gossip on the night that the [[Riddle family]] was found murdered in their home in [[1943]]. When it was announced that [[Frank Bryce]] had been arrested, Dot said she thought Frank had always had a fierce temper, and that she had seen evidence of it when he was a child. The police later released Frank for lack of evidence, but Dot remained convinced of his guilt, remarking that he should leave, as all the villagers of [[Little Hangleton]] "knew" he had done it.<ref name="GOF1" /> In all actuality [[Frank Bryce]] was innocent, as the one who slain the [[Riddle family|Riddles]] that night was [[Tom Riddle|Tom Marvolo Riddle]].
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[de:Dot]]
+[[es:Dot]]
+[[fr:Dot]] 
+[[pl:Dot]]
+[[ru:Дот]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Little Hangleton]]
+[[Category:Muggles]]

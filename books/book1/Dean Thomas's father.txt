@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Dean Thomas's father
+|born = 
+|died = c. [[1980]]
+|blood = [[Pure-blood]] or [[half-blood]] (likely)<ref name="BLOOD">Given that he was killed by Death Eaters for refusing to join them, it's highly unlikely that he was a muggle-born. However, there is a small possibily. In rare cases, muggle-borns like Lily Potter were asked to join.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Dean Thomas's mother|Mrs Thomas]] (widow)
+*[[Dean Thomas]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''biological father of [[Dean Thomas]]''' was a [[Wizardkind|wizard]] who abandoned his [[Non-magic people|Muggle]] [[Dean Thomas's mother|wife]] and infant son in a courageous effort to protect them from the [[Death Eaters]]. He was soon after murdered by the Death Eaters when he refused to join their cause. His widow, who was never told that her husband was a wizard, eventually remarried a [[Dean Thomas's stepfather|Muggle man]], who raised Dean as his own son.<ref>[http://web.archive.org/web/20040605120307/http://www.jkrowling.com:80/textonly/extrastuff_view.cfm?id=2 Dean Thomas's background] (Internet Archive of {{JKRS}})</ref>
+
+When Dean realised he was a wizard at age eleven, his mother suspected that her first husband might have also been a wizard; however, not knowing for certain, [[Dean Thomas's mother|Mrs Thomas]] left Dean to grow up believing he may be [[Muggle-born]].<ref name="DH15">{{DH|B|15}}</ref>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{JKRS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Thomas, Dean's father}}
+[[pl:Ojciec Deana Thomasa]]
+[[Category:20th century deaths]]
+[[Category:Blood traitors]]
+[[Category:British individuals]]
+[[Category:First Wizarding War casualties]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

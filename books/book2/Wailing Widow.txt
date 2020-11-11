@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme=spirit
+|image=[[File:WailingWidow.png|250px]]
+|name=Wailing Widow
+|hideb=
+|born=
+|died=Before [[1992]]
+|blood=
+|marital=Widowed
+|alias=
+|title=
+|hidep=
+|species=*[[Human]] (formerly)
+*[[Ghost]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|Not a bad turnout. The Wailing Widow came all the way up from Kent… It's nearly time for my speech, I'd better go and warn the orchestra…|[[Nicholas de Mimsy-Porpington]] to [[Harry Potter]], [[Ronald Weasley]], and [[Hermione Granger]] during his [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party|five-hundredth Deathday Party]]|Harry Potter and the Chamber of Secrets}}
+The '''Wailing Widow''' was a female [[ghost]] from [[Kent]]. She was a close friend of [[Nicholas de Mimsy-Porpington|Sir Nicholas de Mimsy-Porpington]] as she attended [[Nicholas de Mimsy-Porpington's five-hundredth Deathday Party|his five-hundredth Deathday Party]], having had to travel all the way from [[Kent]] to [[Scotland]].<ref>{{COS|B|8}}</ref>
+
+==Behind the scenes==
+*In the Danish dub of the Disc 2 of {{COS|FA}}, the title for ''[[Travels with Trolls]]'' was mistranslated as ''Danser med Den Hvide Dame'', which means ''Dacing with the White Lady'', and Den Hvide Dame are coincidentally also the Danish translation for "''the Wailing Widow",'' meaning it was both mistranslated as well as using the same words to describe two different things.
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|F}} {{C|Mentioned only in Disc 2 in Danish dub}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Klagende Witwe]]
+[[de2:Klagende Witwe]]
+[[fr:Veuve pleureuse]]
+[[pl:Jęcząca Wdowa]]
+[[ru:Плачущая вдова]]
+[[vi:Góa phụ Than khóc]]
+[[zh:哭喊的寡妇]]
+[[Category:English individuals]]
+[[Category:Females]]
+[[Category:Ghosts]]
+[[Category:Widowed individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,85 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Malcolm Baddock
+|born = between [[1 September]] [[1982]] and [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF12"/>
+|gender = Male<ref name="GOF12"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="GOF12"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF12"/>
+**[[Slytherin]]<ref name="GOF12"/>
+}}
+'''Malcolm Baddock''' (born c. [[1982]]-[[1983]]) was a [[Wizardkind|wizard]] and [[Slytherin]] student at [[Hogwarts School of Witchcraft and Wizardry]] three years below [[Harry Potter]]. His arrival at the Slytherin table immediately after being [[Sorting ceremony|Sorted]] in [[1994]] was met with applause from [[Draco Malfoy]], but [[Fred Weasley|Fred]] and [[George Weasley]] hissed at him, and Harry privately wondered if Malcolm was aware of Slytherin House's sinister reputation.<ref name="GOF12">{{GOF|B|12}}</ref>
+
+==Etymology==
+Malcolm means "disciple of St Columba," a sixth century Irish saint who established a convent on the island of Iona. This was the name of four kings of [[Scotland]] starting in the 10th century, including Malcolm III, who became king after killing Macbeth, the usurper who had murdered his father.
+
+==Behind the scenes==
+===Translations===
+*Afrikaans: ''Malcolm Basana''
+*Bulgarian: ''Малкълм Бадук''
+*Chinese (PRC): ''马尔科姆·巴多克''
+*Chinese (Taiwan): ''馬康·巴達克''
+*Danish: ''Malcolm Slemmer'' (''Slem'' "bad")
+*Dutch: ''Melchior Beulsvreugd''
+*Hebrew: ''מלקולם בדוק''
+*Japanese: ''マルコム・バドック''
+*Lithuanian: ''Malkolmas Blogulis''
+*Norwegian: ''Hugo Balleram''
+*Portuguese: ''Malcom Baddock''
+*Serbian: ''Малколм Бaдок {{c|Malkolm Badok}}''
+
+The following languages are the same as the original:
+{|
+|
+*Croatian
+*Faroese
+|
+*French
+*German
+|
+*Polish
+*Spanish
+|
+*Swedish
+|}
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Baddock, Malcolm}}
+[[de:Malcolm Baddock]]
+[[de2:Malcolm Baddock]]
+[[es:Malcolm Baddock]]
+[[et:Malcolm Baddock]]
+[[fr:Malcolm Baddock]]
+[[pl:Malcolm Baddock]]
+[[ru:Малькольм Бэддок]]
+[[zh:马尔科姆·巴多克]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

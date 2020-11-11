@@ -1,0 +1,79 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Harper.png|250px]]
+|name = Harper
+|born = between [[1 September]] [[1980]] and [[31 August]] [[1981]]
+|died = 
+|blood = [[Pure-blood]] (most likely)<ref name="HBP14"/>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Seeker]]<ref name="HBP14"/>
+|signature = 
+|species = [[Human]]<ref name="HBP14"/>
+|gender = Male<ref name="HBP14"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="HBP14"/>
+|loyalty = *Harper family
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP14"/>
+**[[Slytherin]]<ref name="HBP14"/>
+**[[Slytherin Quidditch team]]<ref name="HBP14"/>
+}}
+{{Quote|Thinks he's something special, doesn't he...Your [[blood traitor]] pal...|Harper to [[Harry Potter]]|Harry Potter and the Half-Blood Prince}}
+'''Harper''' was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1992]], and was sorted into [[Slytherin]]. He was described by [[Ginevra Weasley]] as ''"an idiot"''. During the [[1996–1997 school year]], he was the reserve [[Seeker]] for the [[Slytherin Quidditch team]], and played against [[Gryffindor]] when [[Draco Malfoy]] pulled out of the squad.<ref name="HBP14"/>
+
+==Biography==
+Harper was born in the early [[1980s]].
+
+In the early [[1990s]], Harper began attending [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|Sorted]] into [[Slytherin]] by the [[Sorting Hat]], and was shown to share the beliefs of his peers.<ref name="HBP14"/>
+
+In [[1996]], he became a [[Seeker]] for the [[Slytherin Quidditch team]]. He was a dirty player, deliberately ramming the opposing Seeker [[Harry Potter]] during the first [[Quidditch]] match of [[1996]] and making snide comments about [[Ronald Weasley|Ron Weasley]]. He quickly spotted the [[Golden Snitch]] before Harry did, possibly because Harry was furious about [[Zacharias Smith]] and he was distracted. However, when it seemed that he was about to catch it, he was put off by Harry's desperate taunt, implying that [[Draco Malfoy]] had paid Harper to play instead. Harper, in his distraction, fumbled the Snitch, costing his team the game.<ref name="HBP14">{{HBP|B|14}}</ref>
+
+==Personality and traits==
+Harper appeared to share the [[Pure-blood supremacy|pure-blood supremacist]] beliefs of fellow [[Slytherin]]s, as shown by his snide comments about [[Ronald Weasley|Ron Weasley]] being a [[blood traitor]]. He also lacked good sportsmanship and took part in foul play, deliberately ramming Harry Potter during the first [[Quidditch]] match of [[1996]].<ref name="HBP14"/>
+
+==Magical skills and abilities==
+*'''[[Flight|Flying]]''': As a [[Quidditch]] player, Harper was a reasonably proficient [[broomstick]] flyer. Harper appeared to have a keen eyesight, spotting the Snitch before even [[Harry Potter]] did, but being unable to catch it first.<ref name="HBP14"/>
+
+==Appearances==
+*{{HBP}} {{1st}}
+*{{HBP|F}} {{C|Cut from the final edit}}
+*{{HBP|G}}<ref>The Slytherin Seeker which Harry plays against is unnamed, but can be assumed to be Harper.</ref>
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Draco Malfoy]]
+|position=[[Seeker]] of the [[Slytherin Quidditch team]]
+|years=[[1996]]
+|successor=Unknown
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+[[de:Harper]]
+[[es:Harper]]
+[[fr:Harper]] 
+[[pl:Harper]]
+[[ru:Харпер]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Bullies]]
+[[Category:Males]]
+[[Category:Pure-blood supremacists]]
+[[Category:Seekers]]
+[[Category:Slytherins]]
+[[Category:Sorted in 1992]]
+[[Category:Wizards]]

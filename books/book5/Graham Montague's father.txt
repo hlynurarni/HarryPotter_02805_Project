@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Montague
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Graham Montague's mother|Wife]]
+*[[Graham Montague]] (son)
+*[[Maud Montague]] (possible relation)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Montague family]]
+}}
+'''Mr Montague''' was the father of [[Graham Montague]]. 
+
+==Biography==
+He and his wife, [[Graham Montague's mother|Mrs Montague]], visited [[Hogwarts School of Witchcraft and Wizardry]] in [[1996]] after their son was finally freed from a prolonged entrapment inside a [[Vanishing Cabinet]] in [[1996]] by [[Fred and George Weasley]]. [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] saw them arrive at the school looking furious through the window of the [[Charms (class)|Charms]] [[Charms Classroom|classroom]].<ref name="OOTP30">{{OOTP|B|30}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Montague, Graham's father}}
+
+[[es:Padre de Graham Montague]]
+[[fr:Parents de Graham Montague]]
+[[ru:Мистер Монтегю]]
+[[pl:Pan Montague]]
+[[Category:British or Irish individuals|Montague's father]]
+[[Category:Males|Montague's father]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

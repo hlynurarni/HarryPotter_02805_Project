@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Fudge
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cornelius Fudge]] (husband)
+*[[Rufus Fudge]] (nephew)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[British Ministry of Magic|Ministry of Magic]] (indirectly)
+*[[Fudge family]]
+}}
+{{Quote|Thank you, [[Percy Weasley|Weatherby]], and when you have done that, I would like a cup of tea. My wife and son will be arriving shortly, we are attending a concert tonight with Mr and Mrs Fudge.|[[Bartemius Crouch Senior|Bartemius Crouch Snr]] in a state of delirium|Harry Potter and the Goblet of Fire}}
+'''Mrs Fudge''' was the wife of former [[Minister for Magic]], [[Cornelius Fudge]]. [[Bartemius Crouch Senior|Barty Crouch Snr]] once suffered an attack of delirium in which he mentioned that his [[Bartemius Crouch Jnr's mother|wife]] and [[Bartemius Crouch Junior|son]] were to attend a concert with the couple.<ref>{{GOF|B|28}}</ref>
+
+==Behind the scenes==
+*As Barty Crouch Snr was delirious at the time he mentioned Mrs Fudge, it is possible that she does not exist any more than as a figment of Crouch's delusions.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Esposa de Cornelius Fudge]]
+[[fr:Épouse de Cornelius Fudge]]
+[[pl:Pani Knot]]
+{{DEFAULTSORT:Fudge, Cornelius's wife}}
+[[Category:British individuals|Fudge, Mrs]]
+[[Category:Females|Fudge, Mrs]]
+[[Category:Fudge family]]
+[[Category:Married individuals|Fudge, Mrs]]
+[[Category:Unnamed family members|Fudge, Mrs]]
+[[Category:Wizards|Fudge, Mrs]]

@@ -1,0 +1,66 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Mr.Mason.jpg|250px]]
+|name = Mr Mason
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="COS1"/>
+|marital = Married<ref name="COS2"/>
+|nationality = [[Great Britain|British]]<ref name="COS1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COS1"/>
+|gender = Male<ref name="COS1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Mason's wife|Mrs Mason]] (wife)<ref name="COS1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Builder<ref name="COS1"/>
+|house = 
+|loyalty = [[Mason family]]<ref name="COS1"/>
+}}
+{{Quote|Vernon tells me you're a ''wonderful'' golfer, Mr Mason...|[[Petunia Dursley]] practising compliments for Mr Mason.|Harry Potter and the Chamber of Secrets}}
+'''Mr Mason''' was a rich builder from whom [[Vernon Dursley]] was hoping to get a big drill order in [[1992]].<ref name="COS1">{{COS|B|1}}</ref>
+
+==Biography==
+On [[31 July]], Mr Mason and his [[Mason's wife|wife]] were dinner guests at the [[4 Privet Drive|Dursley home]]. The evening was nearly ruined when the dessert [[Petunia Dursley]] had made crashed to the floor (an incident blamed on [[Harry Potter]], though it was actually [[Dobby]]'s fault). The evening could have been rescued were it not for the barn [[owl]] that flew through the open window and dropped a letter on Mrs Mason’s head. Mr Mason then informed the [[Dursley family|Dursleys]] that his wife was mortally afraid of [[bird]]s. He then left their home quickly following after his screaming wife.<ref name="COS2">{{COS|B|2}}</ref>
+
+==Etymology==
+The English word "''mason",'' meaning a craftsmen, normally a stoneworker, and originally leaders of teams of builders. This is likely a reference to Mr Mason's position as head of a building company.
+
+==Behind the scenes==
+[[File:Mr._Mason_LEGO.jpg|215px|thumb|Mr Mason as seen in {{LEGO|Y1}}]]
+*Mr Mason was portrayed by [[Jim Norton]] in {{COS|FA}}.
+*In {{COS|FA}}, the pudding, levitated by [[Dobby]], crashed down on Mrs Mason's head, ruining the dinner party and causing [[Vernon Dursley]] to lock Harry in his bedroom. Also, instead of the Ministry owl dropping a letter on Mrs Mason, Petunia said: "Would you like some ice cream, Mr and Mrs Mason?"
+*In a deleted scene, Mr Mason was said that he was a wonderful golfer and he says that he plays occasionally. This was his only line in the film but was cut out from the theatre version.
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{LEGO|Y1}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}[[de:Mr und Mrs Mason]]
+[[es:Mason]]
+[[fr:Mr Mason]]
+[[it:Signor Mason]]
+[[nl:Meneer Bouwmeester]]
+[[no:Murpus]]
+[[pl:Pan Mason]]
+[[ru:Мистер Мейсон]]
+[[Category:British individuals|Mason, Mr]]
+[[Category:Foremen]]
+[[Category:Males|Mason, Mr]]
+[[Category:Married individuals|Mason, Mr]]
+[[Category:Mason family]]
+[[Category:Muggles|Mason, Mr]]

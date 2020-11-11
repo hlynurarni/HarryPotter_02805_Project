@@ -1,0 +1,269 @@
+{{Spoiler|HL|MA|PAS|WU|HM}}
+{{Object infobox
+|name = Sorting Hat
+|image = Sorting Hat.png
+|location = [[Hogwarts School of Witchcraft and Wizardry]], [[Headmaster's Office]]<ref name="COS12"/> or [[Great Hall]]<ref name="PS7"/>
+|manufacturer = *[[Godric Gryffindor]]<ref name="Sorting Hat PM" />
+*[[Helga Hufflepuff]]<ref name="Sorting Hat PM" />
+*[[Rowena Ravenclaw]]<ref name="Sorting Hat PM" />
+*[[Salazar Slytherin]]<ref name="Sorting Hat PM" />
+|made = Founder's era (c. 993 AD)
+|usage = Sorts the students (of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]) into one of the four [[Hogwarts Houses]] ([[Gryffindor]], [[Hufflepuff]], [[Ravenclaw]] and [[Slytherin]])<ref name="PS7"/>
+|owners = *[[Godric Gryffindor]]<ref name="Sorting Hat PM" />
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS7"/>
+}}
+{{Quote|Oh you may not think I'm pretty, but don't judge on what you see, I'll eat myself if you can find a smarter hat than me.|The Sorting Hat's opening lines of the [[1991 Sorting Hat's song]]|Harry Potter and the Philosopher's Stone}}
+The '''Sorting Hat''' is a sentient hat at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] that [[magic]]ally determines which of the four school Houses each new student belongs most to. These four Houses are [[Gryffindor]], [[Hufflepuff]], [[Ravenclaw]], and [[Slytherin]].<ref name="PS7"/> The Sorting Hat originally belonged to [[Godric Gryffindor]], one of the four founders of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. It normally stays in the [[Headmaster's office]] until it is needed.<ref name="COS12"/>
+
+==Overview==
+The famous Hogwarts Sorting Hat gives an account of its own genesis in a series of songs.<ref name="Sorting Hat PM" /> During the opening banquet at the beginning of each school year, the first-year students are lined up and their names read aloud alphabetically. Each then takes a seat on a stool and the hat is placed on his or her head.<ref name="PS7"/>
+
+The hat is battered and old; it's patched, frayed, and extremely dirty. In order to speak and sing, a tear along the brim opens like a mouth. It speaks to the wearer inside of the hat with a small, quiet voice, using [[Legilimency]] to interpret their thoughts and respond to them. After a time of consideration, the hat announces its choice aloud for all to hear, and the student joins the selected house.<ref name="Sorting Hat PM" /> The moment of consideration varies in time period from less than a second to over five minutes (known as "[[hatstall]]").<ref name="Hatstall" />
+
+The Sorting Hat is notorious for refusing to admit it has made a mistake in its sorting of a student. On those occasions when [[Slytherin]]s behave altruistically or selflessly, when [[Ravenclaw]]s flunk all their exams, when [[Hufflepuff]]s prove lazy yet academically gifted, and when [[Gryffindor]]s exhibit cowardice, the Hat steadfastly backs its original decision. On balance, however, the Hat has made remarkably few errors of judgement over the many centuries it has been at work.<ref name="Hatstall" />
+
+==History==
+{{main|Sorting ceremony}}
+{{Quote|Sings a different [song] every year. It's got to be a pretty boring life, hasn't it, being a hat? I suppose it spends all year making up the next one.|Ron Weasley's opinion of the Sorting Hat's existence|Harry Potter and the Goblet of Fire}}
+
+[[File:Sorting.jpg|250px|thumb|left|The Sorting Hat, Sorting students into their respective houses at the ceremony]]
+
+Legend has it that the Sorting Hat was sewn roughly one thousand years ago and began as a normal hat belonging to [[Godric Gryffindor]]. When Gryffindor, along with [[Salazar Slytherin]], [[Rowena Ravenclaw]] and [[Helga Hufflepuff]], wondered how they would continue to [[Sorting ceremony|sort]] the students when the four were dead, Gryffindor pulled his hat from his head and, along with the other founders, enchanted it with their combined intelligence. All four founders wanted to ensure that students would be sorted into their eponymous houses, which would be selected according to each founder's particular preferences in students.<ref name="Sorting Hat PM" />
+
+[[File:B2C12M1 Sorting Hat in Dumbledore's office.png|250px|thumb|The Sorting Hat on a shelf in the [[Headmaster's office]]]]
+
+The Sorting Hat, now animated, was able to sort and divide the students into the [[Hogwarts Houses]], and continued to do so for a millennium, passed down to each new [[Hogwarts Headmaster|Headmaster or Headmistress]] of the school. When not in use, it is placed on a shelf in the current Headmaster's or Headmistress's office.<ref name="COS12"/>
+
+The hat continues to carry out its duty each September at the beginning of the start-of-term feast, when it is placed on a three-legged (sometimes four-legged) stool at the front of the [[Great Hall]].
+
+In 1858, [[Angus Buchanan]], an eleven-year old Scottish Squib managed to sneak into the feast with the help of his wizard brother and put the Sorting Hat on his head. The Sorting Hat then kindly said he was a good-hearted chap but no wizard.
+
+[[Godric Gryffindor]]'s [[Godric Gryffindor's Sword|Sword]], one of the founder's only other known relics, can be magically pulled out of the hat by any Gryffindor considered worthy, no matter how secure the sword's location.<ref name="COS17">{{COS|B|17}}</ref> It is unknown why this is possible, but is linked to loyalty of the highest regard in relation to Hogwarts. There are two known instances of this happening within the seven years of Harry's adventures, once when Harry was in the Chamber of Secrets,<ref name="COS17"/> and once when Neville refused to join Voldemort during the Battle of Hogwarts.<ref name="DH36">{{DH|B|36}}</ref>
+
+==The Sorting Hat's songs==
+Before sorting the students each year, the hat recites a new introductory song. These songs vary in length and content though they generally introduce the hat and its role in sorting new students. [[Ronald Weasley|Ron Weasley]] expressed the opinion that the Hat spends the entire school year making up its next song.<ref name="PS7"/>
+
+They also occasionally warn of danger to come, as in its [[1995]] song,<ref name="OOTP11">{{OOTP|B|11}}</ref> though it is not known how the Hat is aware of upcoming events. It was suggested that the Hat picks up some of its information from [[Albus Dumbledore]], though it is not known whether it would have done so before such an influential figure in the wider wizarding world was in office.
+
+===1991 Song===
+{{main|1991 Sorting Hat's song}}
+
+===1994 Song===
+{{main|1994 Sorting Hat's song}}
+
+===1995 Song===
+{{Main|1995 Sorting Hat's song}}
+
+===Early 2000s Song===
+<poem>Welcome, welcome, one and all
+the show is about to start
+I'm the Hogwarts Sorting Hat
+and it's time to play my part
+You may call me worn and ragged
+if that's all you truly see
+But listen close and I will tell
+where you're supposed to be!
+Go ahead and try me on
+there's nothing left to fear
+I'll find right where you belong
+by looking between your ears!</poem><ref>{{MA}} ([https://youtu.be/GB2hCrV9YPI?t=490 see video])</ref>
+
+===2017 Song===
+<poem>I've done this job for centuries
+On every student's head I've sat
+Of thoughts I take inventories
+For I'm the famous Sorting Hat.
+
+I've sorted high, I've sorted low,
+I've done the job through thick and thin
+So put me on and you will know
+Which house you should be in...</poem><ref name="CC1-4">{{CC|B|1|4}}</ref>
+
+===2019 Song===
+<poem>Are you afraid of what you'll hear?
+Afraid I'll speak the name you fear?
+Not Slytherin! Not Gryffindor!
+Not Hufflepuff! Not Ravenclaw!
+Don't worry, child, I know my job,
+You'll learn to laugh, if first you sob.</poem><ref name="CC1-4" />
+
+==Relationship with students==
+===Harry Potter===
+{{Dialogue a-b-a|Sorting Hat|Hmm. Difficult. Very difficult. Plenty of courage, I see. Not a bad mind either. There's talent, oh my goodness, yes — and a nice thirst to prove yourself, now that's interesting... So where shall I put you?|Harry Potter|Not Slytherin, not Slytherin.|Not Slytherin, eh? Are you sure? You could be great, you know, it’s all here in your head, and Slytherin will help you on the way to greatness, no doubt about that — no? Well, if you’re sure — better be ''GRYFFINDOR''!|The Sorting and Harry discussing the latter's future house|Harry Potter and the Philosopher's Stone}}
+[[File:Harry-potter1-disneyscreencaps.com-5582.jpg|250px|thumb|Harry Potter being sorted]]
+The Sorting Hat appeared to have a [[Hatstall|difficult time]] in the sorting of [[Harry Potter]]. It suggested that Harry would have great fame and glory by joining [[Slytherin|Slytherin House]]. As Harry possessed Slytherin qualities such as, cunning and determination. Harry requested specifically to be spared that fate. Instead, based upon this choice, the Hat placed him in [[Gryffindor]], where both his parents had also been Sorted.<ref name="PS7">{{PS|B|7}}</ref> When Harry spoke to the Hat in his second year, it repeated its earlier declarations - that Harry would have done well in Slytherin.<ref name="COS12">{{COS|B|12}}</ref> This was possibly due to the fragment of Voldemort's soul which lived inside Harry during his sorting; the hat would have registered its presence, as well, noticing Harry's potential.
+
+{{Dialogue a-b-a-b|Sorting Hat|Bee in your bonnet, Harry Potter?|Harry Potter|Er, yes. Er — sorry to bother you — I wanted to ask —|You’ve been wondering whether I put you in the right House. Yes... you were particularly difficult to place. But I stand by what I said before — you would have done well in Slytherin —|You're wrong.|Harry Potter speaking to the Sorting Hat in [[1992]]|Harry Potter and the Chamber of Secrets}}
+
+In the next year at Hogwarts, the Hat also played a critical role in Harry's success against the [[Salazar Slytherin's Basilisk|Basilisk]]. [[Fawkes]] had brought the Sorting Hat to Harry's aid in the [[Chamber of Secrets]]. This provided him with [[Godric Gryffindor's Sword]], which Harry used to slay Slytherin's Basilisk. The sword and hat together are the only two known relics of that [[Godric Gryffindor|wizard]].<ref name="COS17">{{COS|B|17}}</ref>
+
+Almost two decades after the [[Battle of Hogwarts]], [[Albus Potter|Albus Severus Potter]] expressed worry over his own Sorting. He indicated that the Sorting Hat might put him in the Slytherin House, and that its judgement may be faulty after being repaired. However, as the hat is said to be old and patched from its first appearance, it would seem this worry is needless. Harry also reassured him that Albus' middle name was named after [[Severus Snape]], a Slytherin head master, and Harry would had no hard feelings towards Albus, Slytherin House or the Hat if he was to be sorted to there.<ref name="DHE">{{DH|B|E}}</ref>
+
+===Hermione Granger===
+{{Dialogue a-b|Minerva McGonagall|Granger, Hermione!|Sorting Hat|GRYFFINDOR!|Hermione being sorted|Harry Potter and the Philosopher's Stone}}
+
+[[File:Harry-potter1-sorting1.jpg|250px|thumb|left|Hermione Granger being sorted]]
+The Sorting Hat also appeared to have had a disagreement in the sorting of [[Hermione Granger]], as her expansive intelligence made her well suited for [[Ravenclaw]], but it decided to place her in [[Gryffindor]].<ref name="OOTP19">{{OOTP|B|19}}</ref> However, it can be argued that Hermione saw a greater challenge in herself in becoming bold and courageous, some of the traits of Gryffindor House. This can be clearly seen when Hermione doubted books and cleverness as the traits of a great witch and instead shows that friendship and bravery are more important. Hermione also stated that she thought Gryffindor House was by far the best of the four.
+
+===Ron Weasley===
+{{Quote|Then it was Ron’s turn. He was pale green by now. Harry crossed his fingers under the table and a second later the hat had shouted, “GRYFFINDOR!” Harry clapped loudly with the rest as Ron collapsed into the chair next to him.|Ron being sorted|Harry Potter and the Philosopher's Stone}}
+[[File:Ron And The Sorting Hat.png|250px|thumb|Ron Weasley being sorted]]
+It was not hard for the Sorting Hat to place [[Ronald Weasley|Ron Weasley]], as all the [[Weasley family]] have been placed into [[Gryffindor|Gryffindor House]]. Ron was afraid that he would be the only Weasley not to make it into [[Gryffindor]]. Mere moments after the Hat touched his head it announced his house.<ref name="PS7">{{PS|B|7}}</ref> A year later his little sister Ginny was also sorted into Gryffindor.<ref name="COS5">{{COS|B|5}}</ref>
+
+===Draco Malfoy===
+[[File:SortingHat WB F1 DracoMalfoyInTheSortingHat Still 100615 Land.jpg|250px|thumb|left|Draco Malfoy being sorted]]
+
+The moment the Sorting Hat was placed on [[Draco Malfoy]], the hat instantaneously declared Draco would join the house of [[Slytherin]].<ref name="PS7">{{PS|B|7}}</ref> In addition to being selfish and cunning, Malfoy was a [[pure-blood]], like most Slytherins. Almost all of his family was sorted into that house, including his parents [[Lucius Malfoy|Lucius]] and [[Narcissa Malfoy]], and aunt [[Bellatrix Lestrange]], as well as a long line of his ancestors from the House of Black.
+
+===Tom Riddle===
+According to Albus Dumbledore, the Sorting Hat declared [[Tom Riddle]] a Slytherin almost instantly after it touched his head. He had many of the qualities associated with the Slytherin house, and he was the last surviving descendant of [[Salazar Slytherin]].<ref name="HBP17">{{HBP|B|17}}</ref>
+
+===Neville Longbottom===
+[[File:Neville being Sorted.jpg|250px|thumb|Neville Longbottom being sorted]]
+The Sorting Hat took a long time to decide upon where to put [[Neville Longbottom]]. During his sorting Neville argued with the hat, saying he was best in Hufflepuff. The Hat argued otherwise, and declared Neville to do greatly in Gryffindor. Neville was intimidated by Gryffindor's reputation, however his persistence did not work and the hat successfully sorted him into Gryffindor.<ref>[http://pottercast.the-leaky-cauldron.org/transcript/show/156?ordernum=2 PotterCast #122]</ref> Considering the bravery Neville showed in his seventh year,<ref name="DH36"/> and standing up to Draco, Harry, Ron, and Hermione in his first year, this choice ws not regretted.<ref name="PS13">{{PS|B|13}}</ref><ref name="PS16">{{PS|B|16}}</ref><ref name="PS17">{{PS|B|17}}</ref>
+
+In addition, during the [[Battle of Hogwarts]], Neville was able to draw Gryffindor's sword from the Hat (if done so, the person was considered a true Gryffindor), despite Voldemort attempting to destroy it, and then used it to behead the snake [[Nagini]].<ref name="DH36"/>
+
+===Minerva McGonagall===
+Minerva McGonagall was what is considered a [[Hatstall]], meaning the Sorting Hat took over five minutes to decide where to put her. Hatstalls are very rare. The Sorting Hat considered sorting Minerva McGonagall into Ravenclaw before choosing Gryffindor. Later, she became a teacher at Hogwarts and head of her old house. It is her job to place the Sorting Hat on the heads of new students.<ref name="Hatstall"/>
+
+===Filius Flitwick===
+The Sorting Hat considered Sorting Filius Flitwick into Gryffindor before choosing Ravenclaw. Later, he became a teacher at Hogwarts and head of his house, and joked with Minerva McGonagall about the fact that they had the opposite experiences and if things had gone another way, they could have had each others' jobs.<ref name="Hatstall"/>
+
+===Gilderoy Lockhart===
+The Sorting Hat considered Sorting Gilderoy Lockhart in Slytherin, but, in the end, decided to place him in Ravenclaw.<ref name="Lockhart">{{WW|gilderoy-lockhart}}</ref>
+
+===Peter Pettigrew===
+The Sorting Hat needed more than five minutes to decide if Peter Pettigrew should be Sorted into Slytherin or Gryffindor. He was, thus, a true Hatstall. It chose Gryffindor. This decision was considered a mistake by many, though the Sorting Hat itself never considered it a mistake afterwards.<ref name="Hatstall">{{WW|hatstall}}</ref>
+
+==Personality and traits==
+Though it is a hat, the Sorting Hat is sentient and has its own personality. At the beginning of every term, the hat sings a new song (which [[Ronald Weasley|Ron Weasley]] speculated it spent the rest of the year thinking up) describing each of the four houses of Hogwarts.<ref name="PS7"/> Despite its use in the purposes of "sorting," the Hat has been known to urge students to maintain a united front in the face of adversity and danger. Its songs can be used in warning of troubles to come, and ultimately the hat represents the unity of the four houses under the Hogwarts school.<ref name="OOTP11"/>
+
+The hat also appears to have a sense of humour and expansive memory (as in the cases of the Weasleys all being in [[Gryffindor]], and the Malfoys all being in [[Slytherin]]).<ref name="PS7"/>
+
+==Author's comments==
+*In an interview, when asked about the Sorting Hat, [[J. K. Rowling]] stated that it had never been wrong and asked for theories, though no specific character was mentioned.<ref>[http://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-2.htm The Leaky Cauldron and MuggleNet interview Joanne Kathleen Rowling: Part Two] - [[Leaky Cauldron|The Leaky Cauldron]], 16 July 2005</ref> In exclusive content released for {{PM}}, however, she was a bit more shrewd, stating that it "has made remarkably few errors of judgement over the many centuries it has been at work." She also stated that in those cases where students did not exhibit the qualities traditionally associated with their house, or were noted for those associated with others, "the Hat steadfastly backs its original decision."<ref name="Sorting Hat PM">{{WW|the-sorting-hat}}</ref>
+*According to Rowling, Sorting Hat wasn't her first idea of how new Hogwarts student shall be sorted into Houses. She wrote:
+
+{{Quote|The Sorting Hat does not appear in my earliest plans for Hogwarts. I debated several different methods for sorting students (because I knew on early from that there would be four houses, all with very different qualities). The first was an elaborate Heath Robinson-ish machine that did all kind of magical things before reaching a decision, but I did not like it: it felt at once too complicated, and too easy. Next I placed four statues of the four founders in the [[Entrance Hall]], which came alive and selected students from the throng in front of them while the school watched. This was better, but still not quite right. Finally, I wrote a list of the ways in which people can be chosen: eeny-meeny-miny-mo, short straws, chosen by team captains, names out of a hat - names out of a talking hat - putting on a hat - the Sorting Hat!|[[J. K. Rowling]]'s thought.|Pottermore}}
+
+==See also==
+*[[Godric Gryffindor's Sword]]
+*[[Helga Hufflepuff's Cup]]
+*[[Rowena Ravenclaw's Diadem]]
+*[[Salazar Slytherin's Locket]]
+
+==Behind the scenes==
+[[File:Sorting_Hat_LEGO.jpg|215px|thumb|The Sorting Hat in {{LEGO}} form]]
+[[File:L_MAGICALWORLD_Headwear_Novelty_HarryPotter_Headwear_SortingHat_1219098.jpg|thumb|The Sorting Hat at {{WWHP}}]]
+[[File:Sorting Hat WU.png|thumb|The Sorting Hat as seen in {{WU}}]]
+[[File:HermioneSortingHatPOP.jpg|thumb|Hermione Granger (wearing the Sorting Hat) as a [[POP! Vinyl]]]]
+[[File:Ron_with_Sorting_Hat_pop_vinyl.jpg|thumb|[[Ronald Weasley|Ron Weasley]] (wearing the Sorting Hat) as a [[POP! Vinyl]]]]
+*It seems that the Sorting Hat tends to place students based on qualities they value rather than qualities they personify. This is never more apparent than with [[Peter Pettigrew]], who was Sorted into [[Gryffindor]] but ultimately turned out to be quite cowardly, self-serving and corruptible. He was probably placed there because at the time, he admired strong, brave individuals like [[James Potter I|James Potter]] and [[Sirius Black]]. Though it is possible Pettigrew was placed in Gryffindor because he aspired to these qualities.
+*The Sorting Hat can detect nascent qualities in a student and place them in the House that will challenge them the most and put their character to the test. Case in point, [[Neville Longbottom]] is Sorted into [[Gryffindor]] because the Hat sensed that he was capable of demonstrating bravery and leadership during his time at Hogwarts. However, these qualities do not fully surface until he learns to believe in himself. He also places [[Hermione Granger]] in the same House, presumably because he realises just how much she will need Harry and Ron in the future.
+*The Hat also appeared to take each student's wishes into account. Just because someone is placed in a certain House does not mean that they can not possess characteristics of other Houses. Dumbledore claimed that choices can show just as much, if not more, about who someone is as their abilities. [[Harry Potter]], for instance, embodies many of the traits that are appreciated by [[Salazar Slytherin]]. He is clever, resourceful and cunning, yet the Sorting Hat made him a [[Gryffindor]] because he didn't feel like he belonged there. However, the hat denied Neville from being in Hufflepuff even though he begged for it.
+*Another prime example of this happening is [[Severus Snape]]. At one point, [[Albus Dumbledore]] said that his loyal, courageous nature was much more befitted to [[Gryffindor]]. However, as a child, Snape's ambition, social-climbing behaviour and secret inclination towards sadism made him an obvious [[Slytherin]] when he first came to Hogwarts.
+*In {{PS|FA}}, the Sorting Hat appears to speak so all the students can hear, whereas in the book the Sorting Hat speaks so only the wearer can hear.
+*In the first two and final [[Harry Potter (film series)|Harry Potter films]], it is voiced by actor [[Leslie Phillips]].
+*Songs are only featured in books 1, 4, and 5, and are omitted entirely from the films. This is because the books are exclusively from Harry's point of view. In Book 2, he was preoccupied with the [[Whomping Willow]], in Book 3, with [[Dementor]]s, in Book 6, with [[Draco Malfoy]]'s antics, and in Book 7, with [[Horcrux]]es.
+*Harry was not physically present for the Sorting Hat's songs in books two, three, six and seven. Harry was, however, present for the song and [[Sorting ceremony]] in the third movie.
+*According to Rowling, the hat detected the piece of Voldemort's soul in Harry which strongly tempted it to put Harry in Slytherin.<ref>http://www.the-leaky-cauldron.org/2007/12/23/transcript-of-part-1-of-pottercast-s-jk-rowling-interview/</ref>
+*In [[Harry Potter and the Philosopher's Stone|''Harry Potter and the Sorcerer's Stone'']], Harry saw that "there were only three people left to be sorted," but then Professor [[Minerva McGonagall|McGonagall]] read off four more names ([[Dean Thomas]], [[Lisa Turpin]], [[Ronald Weasley|Ron Weasley]] and [[Blaise Zabini]]). Dean Thomas did not appear in the British edition. It is possible, however, that Harry did not see one of the first-years ahead of him.
+*The Sorting Hat bears a certain resemblance to The [http://wiki.lspace.org/wiki/Archchancellor%27s_Hat Archchancellor's Hat] from Terry Pratchett's Discworld novel ''{{w|Sourcery}}''.
+*It is possible that the Sorting Hat, or general nature of the sorting, is not generally mentioned in books of wizarding history for some reason. In ''Harry Potter and the Philosopher's Stone'', when the students are nervous about what sort of test they will face to be sorted, Hermione Granger is said to be whispering very fast about all the spells she'd learned and which one she would need. This is despite having read a number of books about wizarding history prior to entering the school.
+*A [[LEGO Harry Potter|LEGO]] version of the Sorting Hat was released, entitled 4701 Sorting Hat. It featured a dial with the four house symbols on it that could be spun to land on one and sort the figures.
+*One of the possible choices on the [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] aptitude test was that the hat was stolen and substituted by delinquent students in [[1325]], and the whereabouts of the real hat remain unknown.
+*One can purchase a copy of the Sorting Hat at {{WWHP}}.
+*Prior to creating the Sorting Hat, Rowling considered using a [[Magical Gateway]], [[founder statues]], a [[Ghost Court]], or a [[Selection Committee]]. 
+**However, the idea of the founder statues was recycled into the [[Ilvermorny School of Witchcraft and Wizardry]] sorting. 
+*Just before the {{HPFJ}} ride at {{WWHP}}, the Sorting Hat makes an appearance and delivers a final safety spiel, in the manner of one of his [[Sorting ceremony|Sorting]] songs:
+::''"Your journey is about to start, but safely you must go,''
+::''And so the Hogwarts Sorting Hat tells all you need to know.''
+::''These benches are not safe for you if you are still too small.''
+::''You must be more than goblin-sized, 48 inches tall.''
+::''Now rid yourself of objects that might poke or scratch or fall.''
+::''Take jewellery, cell phones, all loose change and stow them, one and all.''
+::''To keep your treasures safe and sound, Smart Lockers are supplied.''
+::''Gringotts-made and wizard-proofed, for all you need to hide.''
+::''And now, a warning; do not ride if flying makes you queasy.''
+::''If pregnant or else sore in back or neck, then leave, it's easy!''
+::''You've travelled far, you’re very near, the waiting’s been long,''
+::''But smoking, drinking, eating, one and all, are very wrong.''
+::''Now thank you for listening. My safety lesson's done.''
+::''We hope you live to tell the tale, and most of all, have fun!"''
+
+===The Sorting Hat on ''Pottermore''===
+{{Main|Hogwarts sorting quiz}}
+The Sorting Hat on {{PM}} uses a set of question to determine the house of a user. The questions vary in style and do not necessarily have four answers (one for each house). There are 27 questions in all, and each user can be asked a maximum of 7, or 8 if the hat can not decide between houses and asks your opinion. Generally, a set of a few questions can be given to a user for each question, there are, of course, occasional exceptions to the order.
+<gallery widths="232">
+h1.JPG|Q: How would you most like to be known to history? A: The Wise, The Good, The Great, The Bold
+h5.JPG|Q: What kind of instrument most pleases your ear? A: The violin, The trumpet, The piano, The drum
+</gallery>
+
+==Appearances==
+{{Imagecat|Images of the Sorting Hat}}
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}} {{C|Voice only}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}} {{Mention}}
+*{{GOF}}
+*{{GOF|F}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{HBP|F}}
+*{{HBP|G}} {{Mention}}
+*{{DH}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{CC}}
+*{{CC|P}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{WWHP}}
+*{{HPS}}
+*{{LEGO}}
+*{{TCG}}
+*{{PM}}
+*{{WW}}
+*{{HPK}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+*{{HM}}
+*{{WU}}
+*{{MA}}
+*{{HL}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+[[cs:Moudrý Klobouk]]
+[[da:Fordelings hatten]]
+[[de:Sprechender Hut]]
+[[es:Sombrero Seleccionador]]
+[[et:Sõõlamiskübar]]
+[[fi:Lajitteluhattu]]
+[[fr:Choixpeau magique]]
+[[he:מצנפת המיון]]
+[[it:Cappello Parlante]]
+[[nl:Sorteerhoed]]
+[[no:Valghatten]]
+[[pl:Tiara Przydziału]]
+[[pt-br:Chapéu Seletor]]
+[[ru:Распределяющая шляпа]]
+[[sv:Sorteringshatten]]
+[[uk:Сортувальний Капелюх]]
+[[zh:分院帽]]
+[[ja:組分け帽子]]
+[[Category:Foundables]]
+[[Category:Founder relics]]
+[[Category:Godric Gryffindor's possessions]]
+[[Category:Legilimens]]
+[[Category:Objects with Personality]]
+[[Category:Speaking objects]]

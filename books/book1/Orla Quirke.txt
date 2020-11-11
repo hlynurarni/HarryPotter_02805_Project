@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Orla Quirke
+|born = between [[1 September]] [[1982]] and [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = 
+}}
+'''Orla Quirke''' (born c. [[1983]]) was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]], and was [[Sorting ceremony|sorted]] into [[Ravenclaw]].<ref>{{GOF|B|12}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Quirke, Orla}}
+
+
+[[de:Orla Quirke]]
+[[ru:Орла Свирк]]
+[[fr:Orla Quirke]]
+[[pl:Orla Quirke]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

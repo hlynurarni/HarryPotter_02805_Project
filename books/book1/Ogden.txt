@@ -1,0 +1,24 @@
+{{Individual infobox
+|theme=wizard
+|name=Ogden
+|hideb=y
+|species=[[Human]]
+|family=*[[Bob Ogden]] (possibly)
+*[[Tiberius Ogden]] (possibly)
+|hidem=y
+|job=Brewer of [[Ogden's Old Firewhiskey]]
+}}
+'''Ogden''' was a [[Wizardkind|wizard or witch]] who brewed [[Ogden's Old Firewhiskey]].<ref name="COS6">{{COS|B|6}}</ref><ref name="GOF10">{{GOF|B|10}}</ref> They may have been a relation of [[Bob Ogden]] and [[Tiberius Ogden]].
+
+==Etymology==
+The name "Ogden" comes from a surname which was derived from a place name meaning "oak valley" in Old English. A famous bearer was the humorous poet Ogden Nash (1902-1971).
+
+==Appearances==
+*{{COS}} {{1st mention}}
+*{{GOF}} {{Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Ogden family]]
+[[Category:Wizards]]

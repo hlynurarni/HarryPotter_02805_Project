@@ -1,0 +1,57 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=veela
+|name=Apolline Delacour's mother
+|image=
+|bgcolor1=
+|bgcolor2=
+|hideb=1
+|nationality=[[France|French]]
+|species=[[Veela]]
+|gender=Female
+|eyes=
+|hair=
+|height=
+|skin=
+|born=
+|died=
+|family=*[[Apolline Delacour]] (daughter)
+*[[Delacour sisters' father|Monsieur Delacour]] (son-in-law)
+*[[Fleur Delacour]] (granddaughter)
+*[[Gabrielle Delacour]] (granddaughter)
+*[[William Weasley|Bill Weasley]] (grandson-in-law)
+|title=
+|alias=
+|hidem=1
+|wand=
+|boggart=
+|patronus=
+|animagus=
+|hidea=
+|job=
+|loyalty=[[Delacour family]]
+}}
+{{Dialogue a-b|Garrick Ollivander|Yes, nine and a half inches... inflexible... rosewood... and containing...dear me...|Fleur Delacour|An 'air from ze 'ead of a Veela. One of my grandmuzzer's.|[[Garrick Ollivander|Ollivander]] and [[Fleur Delacour]] on Fleur's wand|Harry Potter and the Goblet of Fire}}
+The '''mother''' of [[Apolline Delacour]] was a [[Veela]]. Her daughter, a [[half-Veela]], married [[Delacour sisters' father|Monsieur Delacour]], a [[Wizardkind|wizard]], and had two daughters; [[Fleur Delacour|Fleur]] and [[Gabrielle Delacour|Gabrielle]]. When it came time for Fleur to have her [[Fleur Delacour's wand|first wand]], she donated one of her [[Veela hair|hairs]] to serve as its [[wand core|core]].<ref name="Wand">{{GOF|B|18}} - '''Garrick Ollivander''': Yes, nine and a half inches... inflexible... rosewood... and containing...dear me... / '''Fleur Delacour''': An 'air from ze 'ead of a Veela. One of my grandmuzzer's.</ref>
+==Appearances==
+*{{GOF}} {{1st Mention}} {{Comment|Possible appearance}}
+*{{GOF|F}} {{Comment|Possibly}}
+*{{DH}} {{Comment|Possibly}}
+*{{DH|F1}} {{Comment|Possibly}}
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Delacour, Apolline's mother}}
+
+[[de2:Apolline Delacours Mutter]]
+[[es:Madre de Apolline Delacour]]
+[[fr:Grand-mère de Fleur Delacour]]
+[[pl:Matka Apoloni Delacour]]  
+[[ru:Бабушка Флёр и Габриэль Делакур]]
+[[vi:Mẹ của Apoline Delacour]]
+[[zh:阿波琳·德拉库尔的母亲]]
+[[pt-br:Mãe de Apolline Delacour]]
+[[Category:Delacour family]]
+[[Category:Females]]
+[[Category:French individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Veela]]

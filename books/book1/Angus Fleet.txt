@@ -1,0 +1,47 @@
+{{Individual infobox
+|theme=muggle
+|image=
+|name=Angus Fleet
+|hideb=
+|born=
+|died=
+|blood=[[Non-magic people|Muggle]]
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+'''Angus Fleet''' was a [[Non-magic people|Muggle]] who lived in [[Wikipedia:Peebles|Peebles]], [[Scotland]]. On [[1 September]], [[1992]], the ''[[Daily Prophet]]'' reported that Fleet spotted a [[Flying Ford Anglia|Ford Anglia]] in flight, and informed the police of the sighting.
+
+==Behind the scenes==
+*Angus Fleet was presumably one of the [[Non-magic people|Muggle]]s that [[Molly Weasley]] mentioned to her son [[Ronald Weasley|Ron]], saying that he caused [[Arthur Weasley]] to face an inquiry at [[British Ministry of Magic|work]].<ref>{{COS}}</ref>
+*In the Norwegian translation of {{COS}} he's from [[Glasgow]].
+
+==Etymology==
+The name "Angus" possibly means "one strength" derived from Irish óen "one" and gus "force, strength, energy". Aonghus (sometimes surnamed Mac Og meaning "young son") was the Irish god of love and youth. The name was also borne by an 8th-century Pictish king and several Irish kings.
+
+==Appearances==
+*{{COS}} {{Mention}}
+*{{COS|F}} {{C|Name appears in ''[[Daily Prophet]]''}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Fleet, Angus}}
+[[de:Angus Fleet]]
+[[fr:Angus Fleet]]
+[[pl:Angus Fleet]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Scottish individuals]]

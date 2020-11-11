@@ -1,0 +1,28 @@
+{{Individual infobox
+|name = Wagga Wagga Werewolf
+|nationality = [[Australia]]n<ref name="COS10"/>
+|species = [[Werewolf]]<ref name="COS10"/>
+|gender = Male<ref name="COS10"/>
+|theme = individual
+}}The '''Wagga Wagga Werewolf''' was a [[werewolf]], likely from [[Wagga Wagga]] in New South Wales, [[Australia]].<ref name="COS10"/>
+
+==Biography==
+He was believed to have been vanquished by [[Gilderoy Lockhart]] by means of the [[Homorphus Charm]], returning him to [[human]] form after letting out a piteous moan.<ref name="COS10">{{COS|B|10}}</ref> It was actually an [[Armenian warlock]] who performed this feat, though Lockhart used a [[Memory Charm]] on him and took all the credit for the werewolf’s defeat himself.<ref name="COS16">{{COS|B|16}}</ref>
+
+This werewolf was likely the subject of Lockhart's book ''[[Wanderings with Werewolves]]'' and was discussed by Lockhart during a second-year class during his time as [[Defence Against the Dark Arts]] teacher at [[Hogwarts School of Witchcraft and Wizardry]]. Lockhart asked [[Harry Potter]] to reenact the "defeat" of the werewolf as part of a lecture, in which Harry only reluctantly agreed to participate in order to have Lockhart sign a permission form for him to get a [[Moste Potente Potions|library book]] from the [[Restricted Section]]. For a homework assignment, he asked students to compose a poem about the werewolf's defeat, and would give signed copies of ''[[Magical Me]]'' to the best writers.<ref name="COS10"/>
+
+==Behind the scenes==
+*The town Wagga Wagga is only 65km from a town called "Lockhart".<ref>https://www.google.com/maps/dir/Lockhart,+New+South+Wales+2656/Wagga+Wagga,+New+South+Wales+2650/@-35.1205403,146.362266,9z/data=!4m14!4m13!1m5!1m1!1s0x6b21f3ec93c777bf:0x40609b49043cd10!2m2!1d146.717338!2d-35.2224975!1m5!1m1!1s0x6b18999d3a78b677:0x50609b4904426f0!2m2!1d147.3598323!2d-35.1081689!3e0</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[ru:Оборотень из Вага-Вага]]
+[[pl:Wilkołak Wagga Wagga]]
+[[fr:Loup-garou de Wagga Wagga]]
+[[pt-br:Lobisomem de Wagga Wagga]]
+[[Category:Australian individuals]]
+[[Category:Males]]
+[[Category:Werewolves]]

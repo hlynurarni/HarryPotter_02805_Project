@@ -1,0 +1,472 @@
+{{Spoiler|PAS|WU|HM}}
+{{FA}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Flitwickarmourbattle.png|250px]]
+|name = Filius Flitwick
+|born = [[17 October]]<ref name="birthday">[http://web.archive.org/web/20130503151005/http://www.mugglenet.com/jkrcom/birthdayarchive.shtml Birthday Archive]</ref><ref name="BD">{{PM}} - [https://www.pottermore.com/explore-the-story/filius-flitwick Filius Flitwick fact file]</ref> [[1958]] or earlier<ref name="birthyear">Flitwick is seen supervising James and Sirius's OWLs, so was at least 17 by 1975.</ref>
+|died = 
+|blood = [[Half-Goblin|Part-Goblin]]<ref>He cannot have been [[Muggle-born]] because he was at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] during the [[1997–1998 school year]], but he could not have been [[pure-blood]] because of his goblin ancestor.</ref>
+|marital = 
+|nationality = {{GBorIE}}<ref>[http://www.accio-quote.org/themes/hogwarts.htm What Jo says about... Hogwarts, including the Houses of Gryffindor, Ravenclaw, Slytherin & Hufflepuff]</ref>
+|alias = 
+|title = *[[Professor]]
+*Doctor<ref name = "PS draft"> (possibly)[http://images2.wikia.nocookie.net/__cb20100928184753/harrypotter/images/3/30/Very_early_draft_of_Philosophers_Stone_%28Page_1%29.jpg "''Very early draft of Philosopher's Stone (Page 1)''"], by [[J. K. Rowling]]</ref>
+*[[Charms Master]]
+*Maestro 
+*[[Head of Ravenclaw House|Head of Ravenclaw]]<ref name="JKR">[http://web.archive.org/web/20110623034445/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=15 F.A.Q. Question on J.K.R. Official Site]</ref> 
+*[[Duelling]] Champion<ref name="duelling">{{COS|B|11}} - "“I wonder who’ll be teaching us?” said Hermione as they edged into the chattering crowd. “Someone told me Flitwick was a duel-ing champion when he was young — maybe it’ll be him.”"</ref> (formerly)
+|signature = 
+|species = [[Human]]<ref name="PS8"/> ([[Goblin]] ancestry)
+|gender = Male<ref name="PS8"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Filius Flitwick's goblin ancestor|Goblin ancestor]]
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LHP">{{LEGO|Y1}}</ref>
+|wand = [[Filius Flitwick's wand|Unknown length, wood and core]]
+|patronus = Non-corporeal<ref name="LHP">{{LEGO|Y1}}</ref><ref name="LHP5-7">{{LEGO|Y2}}</ref>
+|job = *[[Charms Master]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (pre [[1975]]-?)<ref name="PS8"/>
+*[[Head of Ravenclaw House]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (pre [[1984]]-?)
+*[[Choir Master|Conductor]] of the [[Frog Choir]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (pre [[1987]]-?)
+|house = [[Ravenclaw]]<ref name="HBP29"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS8"/>
+**[[Ravenclaw]]<ref name="HBP29"/>
+**[[Frog Choir]]<ref name="POAF"/><ref name="GOFF"/><ref name="OOTPF"/><ref name="HBPF"/>
+*[[Flitwick family]]
+*[[Order of the Phoenix]] (during the [[Battle of the Astronomy Tower]]<ref name="HBP29"/> and the [[Battle of Hogwarts]])<ref name="DH31"/>
+*[[Dumbledore's Army]] (during the [[Battle of the Astronomy Tower]]<ref name="HBP29"/> and the [[Battle of Hogwarts]])<ref name="DH31"/>
+}}
+{{Quote|Speaking of eccentrics, you'll like our Head of house, Professor Filius Flitwick. People often underestimate him, because he's really tiny (we think he's part elf, but we've never been rude enough to ask) and he's got a squeaky voice, but he's the best and most knowledgeable Charms master alive in the world today. His office door is always open to any Ravenclaw with a problem, and if you're in a real state he'll get out these delicious little cupcakes he keeps in a tin in his desk drawer and make them do a little dance for you. In fact, it's worth pretending you're in a real state just to see them jive.|Description of Professor Flitwick|Pottermore}}
+
+'''Professor Filius Flitwick''' (b. [[17 October]]<ref name="birthday" /> [[1958]] or earlier<ref name="birthyear" />) was a [[Half-Goblin|Part-Goblin]] [[Wizardkind|wizard]]<ref>JKR stated that Flitwick has a "dash" of goblin blood.</ref> who attended [[Hogwarts School of Witchcraft and Wizardry]] and was [[sorting ceremony|sorted]] into [[Ravenclaw]] [[Hogwarts Houses|House]],<ref>In order to be a Head of House, that person must have been a member of that House, so Flitwick attended Hogwarts as a Ravenclaw.</ref> being an intelligent young man and a model student. Some time after his graduation, Flitwick returned to Hogwarts and became the [[Charms Master]], as well as the [[Head of Ravenclaw House]].<ref name="JKR" />
+
+During the [[First Wizarding War|First]] and [[Second Wizarding War]]s, Flitwick opposed [[Tom Riddle|Lord Voldemort]]. In [[1995]], he also opposed [[Dolores Umbridge]], the [[Hogwarts High Inquisitor|High Inquisitor of Hogwarts]], and, in [[1997]], fought at the [[Battle of the Astronomy Tower]], after which he attended the [[Funeral of Albus Dumbledore]]. He also protected the students from the [[Alecto and Amycus Carrow|Carrows]] in the 1997-1998 school year. On [[2 May]] [[1998]], he partook in the [[Battle of Hogwarts]] and defeated many Death Eaters.
+
+He survived the war, and likely continued to teach [[Charms (class)|Charms]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] to future generations of students.
+
+==Biography==
+===Early life===
+Filius Flitwick was born somewhere in the British Isles into [[Flitwick family|a wizarding family]] with the distant descent of a [[Filius Flitwick's goblin ancestor|goblin]], which accounted for his short stature. Prejudged and foredoomed from an early age because of his ancestral connection to a different breed of being that was both regarded and treated as second-class citizens by much of the [[Wizarding world|wizarding]] community,
+===Hogwarts Years===
+{{Quote|Dumbeldore and Flitwick those model students...|A brief description of Flitwick's time in Hogwarts...|Harry Potter and the Deathly Hallows}}By the time young Filius began attending [[Hogwarts School of Witchcraft and Wizardry]], he was already used to being judged by strangers.
+
+Brave in the face of adversity, however, whilst Flitwick once admitted to having been subjected to scrutiny from those around him from the minute he set his foot inside the castle,<ref name="HM42">{{HM|4|2}}</ref> the future professor carried his burden remarkably well: Wise beyond his years and rather thick-skinned, he eventually came to regard those who judged him as ignorant rather than malevolent, reasoning that most people simply want those around them to be simple so that they would be easier to understand, as opposed to simply acknowledge the fact that people are complex. In this, he indirectly proved himself to be correct: During his [[Sorting Ceremony]], when the [[Sorting Hat]] wavered between putting him in [[Ravenclaw]] or [[Gryffindor]] before it ultimately chose the former. As the decision took less than five minutes, though, Flitwick was not a true [[Hatstall]].<ref name="PMdh">{{WW|hatstall}}</ref>
+
+At some point, he asked the [[Helena Ravenclaw|Grey Lady]] about the whereabouts of [[Rowena Ravenclaw's Diadem]], which was rumoured to grant the wearer wisdom. However, she denied revealing the information. To his unknowing that she had already revealed it to a teenage [[Tom Riddle]] in the [[1940s]], It was also mentioned that Flitwick, being a model student with nothing to hide, never entered or used the [[Room of Requirement|Room of Hidden Things]] in the [[Room of Requirement]].<ref name="DH31">{{DH|B|31}}</ref>
+
+It is likely that he achieved a high graded [[Ordinary Wizarding Level|O.W.L.]] and [[Nastily Exhausting Wizarding Test|N.E.W.T.]] in [[Charms (class)|Charms]]. He also may have taken exams in [[Defence Against the Dark Arts]], as he became a [[Duelling|Master Duellist]] sometime after leaving the school.
+
+===Duelling Champion===
+{{Quote|Flitwick was a duelling champion when he was young...|Flitwick's impressive duelling skills|Harry Potter and the Chamber of Secrets}}
+After completing his [[Nastily Exhausting Wizarding Test]]s in his seventh year, Flitwick graduated from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] and then proceeded to become a [[Duelling|Master Duellist]] and earned the title of "Duelling Champion" at some point,<ref name="duelling"/> and has a shelf full of trophies to prove it.<ref name="HM">{{HM}}</ref> It is also likely Flitwick studied further into magic, becoming an accomplished [[Wizardkind|wizard]], masterful in spells, charms, and defensive magic, and even possibly earning the title of "Doctor", and becoming a fully-fledged and educated sorcerer before beginning his teaching career back at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] sometime in or before the early [[1970s]].<ref>As he was teaching by the seventies.</ref>
+
+===Career at Hogwarts {{c|pre 1971-1995}}===
+====Early years====
+{{Quote|Now, don’t forget that nice wrist movement we’ve been practising! Swish and flick, remember, swish and flick. And saying the [[Incantation|magic words]] properly is very important, too —Never forget Wizard [[Baruffio]], who said 's' instead of 'f' and found himself on the floor with a [[buffalo]] on his chest.|Professor Flitwick using rhymes to teach|Harry Potter and the Philosopher's Stone}}[[File:Harry-potter1-hooch.jpg|250px|thumb|left|Flitwick at the Start-of-Term Feast next to Madam Hooch]]
+Now back at his old school, Professor Flitwick took up the post of [[Charms Master]]. His classroom was [[Charms Classroom|Classroom 2E]], which was located in the [[Charms corridor]], on the third floor of the [[Training Grounds tower|Training Grounds Tower]].
+
+Whilst to some degree still scrutinised for his short stature, he proved a gifted educator whom the students came to greatly respect, even if his teaching style was regarded as more "laid-back" than that of some other teachers at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], such as [[Minerva McGonagall]] or [[Severus Snape]]. He, unlike them, allowed his students to play games during the lessons before the [[Christmas]] holidays, but he was not a bad teacher as [[Fred Weasley]] commented that he "''couldn't see old Flitwick getting marked down and he usually gets everyone through their exams alright''". He did not hand out many detentions or deduct points often, even for lateness.
+
+He also got along rather well with his colleagues, and came to learn that the circumstance of his sorting occurred to [[Minerva McGonagall]] as well, which the two professors found amusing. This was because, had the Sorting Hat chosen Gryffindor for Filius and Ravenclaw for Minerva, they may have exchanged positions as Heads of House.
+
+Known for his rich sense of humour, Filius was always fair with his students, even those who are not in [[Ravenclaw]]. Due to his heritage and the judgement he sometimes experienced because of it, Flitwick did not discriminate against those of different backgrounds and was inclined to allow people the benefit of the doubt. He also encouraged students to experiment with their own [[magic]] and did not generally give detentions for slack work; instead he preferred to give students homework so they could catch up. The only punishment he did give was lines, such as when [[Seamus Finnigan]] accidentally knocked him off of his stack of books by letting go of his wand in the air.<ref name="HBP17"/>
+
+====First Wizarding War and aftermath====
+{{Quote|Quills down, please! That means you too, Stebbins! Please remain seated while I collect your parchment! ''Accio''!|Professor Flitwick overseeing the DADA O.W.L.|Harry Potter and the Order of the Phoenix}}
+[[File:Charms class in 1991.jpg|250x250px|thumb|Flitwick teaching a Charms lesson]]
+
+Flitwick lived through the [[First Wizarding War]] that raged during the [[1970s]], during which he was teaching at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="OOTP28"/>
+
+In [[1971]], Flitwick taught charms to: [[Lily J. Potter|Lily Evans]], [[Sirius Black]], [[James Potter I|James Potter]], [[Remus Lupin]], [[Peter Pettigrew]], and [[Severus Snape]]. He also taught many others during this time as well.<ref name="OOTP28"/>
+
+In [[1976]], Flitwick administered the [[Defence Against the Dark Arts|Theory of Defence Against the Dark Arts]] [[Ordinary Wizarding Level|O.W.L.]] He walked between the hundreds of small desks in the [[Great Hall]] during the exam and, once their time was up, ordered the students to put down their quills, but had to tell a pupil named [[Stebbins (Marauder-era)|Stebbins]] twice before they put their down. Flitwick then used a [[Summoning Charm]] to collect in the papers, but was knocked over onto the floor when the hundred scrolls of parchments zoomed into his outstretched arms.<ref name="OOTP28">{{OOTP|B|28}}</ref>
+
+During the war, one of his most gifted and rebellious students, a young man by the name of [[Jacob (Hogwarts student)|Jacob]] began searching for [[Cursed Vaults|five fabled rooms]] concealed in the school alleged by myths and rumours to be housing ancient treasure, and began breaking all sorts of school rules and endangering his fellow pupils to prove their existence, resulting in his [[Discipline at Hogwarts#Expulsion|expulsion]]. Prior to Jacob's departure from the school, Professor Flitwick, like the rest of the faculty, had to protect his charges from various powerful [[curse]]s that were unleashed upon the school due to Jacob's meddling.<ref name="HM">{{HM}}</ref>
+
+At the end of the war, his former students Lily and James Potter were murdered, while protecting their infant son. Despite these dark times (or perhaps because of them) Flitwick continued to teach at the school.
+====Mystery of the Cursed Vaults====
+During the [[1980s]], Professor Flitwick taught [[Jacob's sibling]], who was met with a lot of whispers of their brother's misdemeanours and sudden disappearance shortly after he was sent away from Hogwarts. Accustomed to be judged by strangers, Professor Flitwick was sympathetic with their situation, and admittedly worried about how their peers would treat them.
+
+When they expressed an interest in duelling, he agreed to teach them the [[Disarming Charm]] to teach them how to defend themselves, on the condition that they agreed to only use it defensively. He carefully warned them that duelling on school grounds was forbidden and grounds for expulsion.<ref name="HM">{{HM}}</ref>
+
+After Flitwick and Professor [[Severus Snape|Snape]] subsequently caught Jacob's sibling duelling [[Merula Snyde]], Flitwick initially refused to teach them the [[Knockback Jinx]], and excused them from that class. However their response convinced him that they had learned from the experience, and he relented.
+
+The following school year, Jacob's sibling asked him, prior to a lesson, if the spell in question, the [[Shrinking Charm]], was safe to use on sentient beings. Flitwick was suspicious and asked them if they were up to something. He sternly warned that such a thing would be extremely difficult and dangerous and should not be done.<ref>{{HM|2|2}}</ref>
+
+====Protecting the Philosopher's Stone====
+{{Quote|Professor Flitwick... took the register, and when he reached Harry's name he gave an excited squeak and toppled out of sight.|[[Harry Potter]]'s first Charms lesson|Harry Potter and the Philosopher's Stone}}
+[[File:Filius_teaching.jpg|250px|thumb|left|Flitwick teaching a Charms lesson on the [[Levitation Charm]]]]
+
+Professor Flitwick, now in his elderly years, was still teaching at Hogwarts during the [[1991–1992 school year]]. Just before the start of the new school year, [[Albus Dumbledore]] trusted him to contribute to the defences of the [[Philosopher's Stone Chambers]]. Flitwick, being the [[Charms Master]], enchanted a considerable amount of [[Winged Keys]] to fly through the air.<ref name="PS16">{{PS|B|16}}</ref> At the start of his first lesson of the school year, he took the register and, upon seeing Harry Potter's name on his register, squeaked excitedly and fell off of his stack of books.<ref name="PS8">{{PS|B|8}}</ref> Also, Flitwick was very impressed when [[Minerva McGonagall]], his long-time friend and fellow colleague, told him that she was giving a [[Harry Potter's Nimbus 2000 broomstick|Nimbus 2000]] to Harry after being chosen to play as the [[Seeker]] for the [[Gryffindor Quidditch team]].<ref name="PS9">{{PS|B|9}}</ref>
+
+Professor Flitwick did not allow his [[first year]] class to actually perform any [[magic]] until [[Hallowe'en]], and, after some coaching, he gave each of his pupils a [[feather]] which they were to [[Levitation|levitate]] using the [[Levitation Charm]]; ''Wingardium Leviosa''. The class had been anxious to try this since Flitwick used the charm on [[Neville Longbottom]]'s toad, [[Trevor]]. Hermione Granger, who was paired with [[Ronald Weasley]], performed the spell perfectly and Professor Flitwick happily announced her success to the class.<ref name="PS10">{{PS|B|10}}</ref>
+
+[[File:PDVD flitwick.jpg|250x250px|thumb|Flitwick at a Quidditch Match]]
+
+Professor Flitwick also attended the first [[Quidditch]] match of the season; [[Gryffindor Quidditch team|Gryffindor]] vs. [[Slytherin Quidditch team|Slytherin]]. He sat high up in the stands near [[Severus Snape]] and [[Quirinus Quirrell]]. He looked extremely shocked and worried when Harry seemingly lost control of his broom, as well as when Snape's cloak caught fire, but applauded merrily when Harry regained control and caught the [[Golden Snitch|Snitch]].<ref name="PS11">{{PS|B|11}}</ref>
+
+
+On Christmas Eve, Professors Flitwick and [[Minerva McGonagall|McGonagall]] were in charge of decorating the [[Great Hall]]. Flitwick used a charm, possibly ''[[Baubillious]]'', to create golden bubbles to adorn the Christmas trees' branches. He also used live fairies to decorate, which he was rather fond of doing. The hall was noted to look absolutely spectacular. He also attended the Feast on Christmas Day and pulled a cracker with [[Albus Dumbledore|Professor Dumbledore]]. The [[Headmaster]] exchanged his pointed wizard hat for a flowery bonnet and Flitwick read a joke to him, which made him chuckle merrily.<ref name="PS12">{{PS|B|12}}</ref>
+
+[[File:Flitwick at feast.jpg|250px|thumb|left|Flitwick attending the feast in the Great Hall]]
+
+As the first year exams approached, Professor Flitwick set the first years homework to learn various spells and charms off by heart. When it finally was time for the tests, Flitwick called his students one-by-one into his classroom and asked them to make a [[pineapple]] [[Dancing Feet Spell|tap-dance]] across his desk. He presumably also set theoretical papers, which were to be completed in a swelteringly hot classroom. Once the exams were over, [[Hermione Granger]] visited Flitwick in the staffroom, saying that she was worried that she got a question wrong in the theory test. He, unable to help himself, told her in confidentiality that she had gotten one hundred and twelve percent.<ref name="PS16">{{PS|B|16}}</ref> He also attended the [[End-of-Term Feast]] during which Gryffindor won the House cup breaking Slytherin's seven year winning streak.<ref name="PS17">{{PS|B|17}}</ref>
+
+====Re-opening of the Chamber of Secrets====
+{{Quote|Yes, didn’t you tell me you were sure you knew what was inside it?|Flitwick goading [[Gilderoy Lockhart]] about the Chamber of Secrets|Harry Potter and the Chamber of Secrets}}
+Professor Flitwick continued to teach during the [[1992–1993 school year]]. During a Charms class, [[Ronald Weasley|Ron Weasley's]] [[Ronald Weasley's first wand|wand]] flew out of his hand and hit Flitwick squarely in between his eyes, leaving a great green boil there, which he presumably vanished.<ref name="COS9">{{COS|B|9}}</ref> He also set a piece of homework for his second years to do, which involved using [[The Standard Book of Spells|''The Standard Book of Spells'', Grade 2]]. One of the first lessons that Professor Flitwick taught during the first term was revising the [[Levitation Charm]]. He also taught the second years the [[Skurge Charm]], which cleans away [[Ectoplasm]], and the [[Fire-Making Spell]].<ref name="COSG">{{COS|G}}</ref>
+[[File:Writing on wall.png|250x250px|thumb|"''The Chamber of Secrets has been opened. Enemies of the heir... beware''"]]
+Later on in the year, [[Mrs Norris]], [[Argus Filch]]'s cat, was found Petrified on the first floor. Professor Flitwick was amongst the crowd of students and teachers who saw her there, hanging from one of the torches.<ref name="COS9">{{COS|B|9}}</ref> Not long after, [[Colin Creevey]], [[Justin Finch-Fletchley]], and [[Gryffindor|Gryffindor House]] Ghost [[Nicholas de Mimsy-Porpington|Nearly Headless Nick]], were also petrified. Professor Flitwick and the rest of the staff arrived at the scene shortly after the discovery and he, assisted by [[Aurora Sinistra|Professor Aurora Sinistra]] of the [[Astronomy department]], took Justin to [[Poppy Pomfrey|Madam Pomfrey]] in the hospital wing for treatment.<ref name="COS11">{{COS|B|10}}</ref>
+
+[[File:Harry-potter2-teachers in hallway.jpg|250x250px|thumb|left|The professors moments after Ginny Weasley was kidnapped by the monster]]
+
+Near the end of the year, Professor Flitwick, along with the rest of the staff, were called to the staffroom by [[Minerva McGonagall|Professor McGonagall]]. McGonagall told them that [[Salazar Slytherin's Basilisk|Slytherin's Monster]] had kidnapped a student and taken them to the [[Chamber of Secrets]]. Flitwick immediately let out a squeal. McGonagall told them that the Heir of Slytherin had left another message right under the first, which read; ''Her skeleton will lie in the Chamber forever.'' Flitwick burst into tears at hearing the news. It had, in fact, been Ginny Weasley, one of Flitwick's students, and, when [[Gilderoy Lockhart|Lockhart]] entered the room, the whole staff turned against him. While all the teachers told him his comments of knowing what was in the Chamber and so forth, Flitwick piped in and said that he had told that he was quite sure he knew what was inside it.<ref name="COS16">{{COS|B|16}}</ref>
+
+The next day, Professor Flitwick was to send his [[Ravenclaw]]s home on the [[Hogwarts Express]]. However, [[Harry Potter]] had slain the monster, sealed the Chamber and saved Ginny, so Hogwarts remained open. Instead, Flitwick attended the [[End-of-Term Feast]] and applauded happily when [[Rubeus Hagrid]] returned from [[Azkaban]], being wrongfully sent there on suspicion of the Chamber openings.<ref name="COS17">{{COS|B|17}}</ref>
+
+Had the Chamber of Secrets not been opened during the year, Professor Flitwick would have had to administer the [[Second year exams|Second Year Exams]]. However, at the [[End-of-Term Feast]], [[Albus Dumbledore|Professor Dumbledore]] cancelled all examinations as a special school treat.<ref name="COS17">{{COS|B|17}}</ref>
+
+====Sirius Black's escape====
+{{Quote|An immensely complex spell, involving the magical concealment of a secret inside a single, living soul. The information is hidden inside the chosen person, or SecretKeeper, and is henceforth impossible to find — unless, of course, the Secret-Keeper chooses to divulge it. As long as the Secret-Keeper refused to speak, You-Know-Who could search the village where Lily and James were staying for years and never find them, not even if he had his nose pressed against their sitting room window!|Filius explaining the nature of the [[Fidelius Charm]]|Harry Potter and the Prisoner of Azkaban}}
+[[File:FiliusFlitwick_conducting.jpg|240px|thumb|Professor Flitwick conducting the [[Frog Choir|choir]]]]
+
+Prior to the beginning of the [[1993–1994 school year]], Sirius Black escaped from [[Azkaban]] and [[Dementor]]s were placed outside [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] for the students' safety (particularly Harry Potter's). Regardless, Professor Flitwick continued his tenure as [[Charms Master]] and the Conductor of the Hogwarts choir. During the [[Welcoming Feast]], Flitwick led a reciting of ''[[Double Trouble|Something Wicked This Way Comes]]''.<ref name="POAF">{{POA|F}}</ref> He was later seen carrying the [[Sorting Hat]] and its three-legged stool out of the great hall after the [[Sorting ceremony]] had taken place. During the [[Start-of-Term Feast]], he sat next to the new [[Defence Against the Dark Arts]] [[Professor]] [[Remus Lupin]], where the two talked amicably together.<ref name="POA5">{{POA|B|5}}</ref>
+
+[[File:Hogsmeade.png|250x250px|thumb|left|Flitwick meeting with McGonagall, Hagrid, Madam Rosmerta, and Cornelius Fudge in Hogsmeade]]
+
+Near Christmas, Professor Flitwick went to the [[Three Broomsticks Inn]] with [[Minerva McGonagall|McGonagall]], [[Rubeus Hagrid|Hagrid]], [[Rosmerta|Madam Rosmerta]] and [[Cornelius Fudge]]. Together, they discussed James and Lily Potter's murders, as well as the escape of Sirius Black. It was said that the Potters used the [[Fidelius Charm]], that was most likely cased by Dumbledore himself, to protect their home in [[Godric's Hollow]]. Flitwick then explained and described the operation of the charm and the position of [[Secret-Keeper]].<ref name="POA10">{{POA|B|10}}</ref>
+
+{{Quote|Come along, quickly, wands out, we’re experimenting with Cheering Charms today, we’ve already divided into pairs —|Filius Flitwick teaching his third years Cheering Charms|Harry Potter and the Prisoner of Azkaban}}
+During the snowy season, Professor Flitwick taught his third years the [[Seize and Pull Charm|Carpe Retractum]] charm. While explaining the spell's uses to the class, [[Hermione Granger]] arrived late from a [[Study of Ancient Runes]] class with [[Bathsheda Babbling|Professor Babbling]], having used a [[Time-Turner]] to go back in time.<ref name="POAG">{{POA|G}}</ref> This happened again after the Easter holidays when Hermione overslept and missed the Charms class on [[Cheering Charm]]s.<ref name="POA15">{{POA|B|15}}</ref>
+
+[[File:Harry-potter3-break_in.jpg|250px|thumb|Professor Flitwick standing with Dumbledore after inspecting the castle]]
+
+Soon after, Professor McGonagall confiscated a Firebolt broomstick that [[Harry Potter]] received as an anonymous Christmas present, and she handed it over to Professor Flitwick and [[Rolanda Hooch|Madam Rolanda Hooch]], the [[Flying Instructor]]. The two examined it to see if there were any malicious or unfriendly spells cast upon it, since they thought it possible that [[Sirius Black]] had sent it to him in the hope of killing him.<ref name="POA11">{{POA|B|11}}</ref>
+
+Later on in the year, Sirius Black successfully broke into the castle and infiltrated the boys' dormitory in [[Gryffindor Tower]]. As a defence mechanism, Professor Flitwick taught the oak front-doors to recognise a picture of Black so as to not grant him access.<ref name="POA14">{{POA|B|14}}</ref> Also around this time, Flitwick set the Third Year Exams, which involved casting the [[Cheering Charm]].<ref name="POA16">{{POA|B|16}}</ref>
+
+Nearer the end of the school year, Black was finally captured and locked inside [[Filius Flitwick's office|Professor Flitwick's office]] on the seventh floor near the base of the [[West Tower]]. However, Black vanished that night and escaped from the castle.<ref name="POA21">{{POA|B|21}}</ref>
+
+====Triwizard Tournament====
+{{Quote|Owing to the potential for nasty accidents when objects kept flying across the room. Professor Flitwick had given each student a stack of cushions on which to practise, the theory being that these wouldn't hurt anyone if they went off target. It was a good theory, but it wasn't working very well. Neville's aim was so poor that he kept accidentally sending much heavier things flying across the room — Professor Flitwick, for instance.|Students practising the [[Banishing Charm]]|Harry Potter and the Goblet of Fire}}
+[[File:Hagrid and Flitwick at the High Table.jpg|246x246px|thumb|left|Flitwick during the welcoming feast after the arrival of the foreign students]]
+Professor Flitwick continued his career in 1994 at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] when the [[Triwizard Tournament]] was being held.<ref name="GOF12">{{GOF|B|12}}</ref> When the Beauxbatons Academy of Magic and Durmstrang Institute students arrive, he applauded them at their entrances, and, after that, both he and Dumbledore led a presentation of ''[[Hoggy Warty Hogwarts]]'' by the whole school. At the High Table, Hagrid accidentally stabbed his hand with a fork.<ref name="GOFF">{{GOF|F}}</ref>
+
+He taught the [[Summoning Charm]] to his fourth year students shortly before [[Hallowe'en]] and assigned three books worth of reading before actually starting.<ref name="GOF15">{{GOF|B|15}}</ref> It was this charm that [[Harry Potter]] used during the [[Triwizard Tournament#The First Task|first task]] of the [[Triwizard Tournament]], which earned him first place.<ref name="GOF20">{{GOF|B|20}}</ref>
+
+Professor Flitwick later taught his fourth year class the Banishing Charm. He started to ease off his lessons in the week before [[Christmas]] and the Yule Ball and instead spent his time talking about the [[Summoning Charm]] that Harry had used in the First Task, being a proud [[Charms Master]].<ref name="GOF22">{{GOF|B|22}}</ref>
+
+[[File:Flitwick yule ball.jpg|246x246px|thumb|The [[Yule Ball]] which Flitwick attended]]
+
+During the Yule Ball, Professor Flitwick conducted the [[Frog Choir|Hogwarts school choir]] in playing waltzes. The choir played several waltzes over the course of the evening, giving students a chance to slow dance with their partners. However, once the dances "heated up" and the [[Weird Sisters]] arrived to perform, Flitwick was passed over the heads of all the dancers, imitating what [[Non-magic people|Muggles]] call a mosh-pit, yelling at them to let him down.<ref name="GOFF"/>
+
+[[File:Flitwick mourning Cedric.jpg|250px|thumb|left|Professor Flitwick, Professor McGonagall, and Filch at the Cedric Diggory's memorial service]]
+
+In the Third Task, Professor Flitwick, along with [[Minerva McGonagall]], [[Rubeus Hagrid]], and [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] disguised as [[Alastor Moody]], was appointed one of the marshals to patrol around the Maze. He wore a shining star on his wizard hat and had to respond to any of the champions cries for help (via the [[Red Sparks]] spell).<ref name="GOF31">{{GOF|B|31}}</ref> At the end of the task, [[Cedric Diggory]] was murdered, and [[Tom Riddle|Lord Voldemort]] was declared to have risen to power again,<ref name="GOF35">{{GOF|B|35}}</ref> and thus the Second Wizarding War began.<ref name="GOF37">{{GOF|B|37}}</ref> Flitwick attended the [[Memorial feast to Cedric Diggory|Memorial Feast]] to Cedric Diggory at the end of the year.<ref name="GOFF"/>
+
+===Second Wizarding War {{c|1995-1998}}===
+====Ministry interference at Hogwarts====
+{{Quote|Umbridge just lurked in the corner making notes on a clipboard. You know what Flitwick's like, he treated her like a guest, didn't seem to bother him at all.|The Weasley twins on [[Dolores Umbridge|Umbridge]]'s inspection of Flitwick's Charms class|Harry Potter and the Order of the Phoenix}}
+The next year, Dolores Umbridge became the new [[Defence Against the Dark Arts]] [[professor|teacher]].<ref name="OOTP11">{{OOTP|B|11}}</ref> She quickly arose to become the [[Hogwarts High Inquisitor|High Inquisitor of Hogwarts]], gaining the power to inspect the teaching standards of her fellow colleagues.<ref name="OOTP15">{{OOTP|B|15}}</ref>
+
+During Umbridge's inspection of Professor Flitwick's [[Charms (class)|Charms Class]], she sat in the corner of the classroom making notes on her clipboard while he taught his [[Seventh year|N.E.W.T. students]]. He treated her like a guest and did not seem to be distracted by her at all, since she hardly spoke, though she did ask [[Alicia Spinnet]] what the classes were like. Satisfied with what she had heard and seen, Umbridge left Flitwick to continue his lesson.<ref name="OOTP15"/>
+
+[[File:Umbridge inspecting Flitwick.jpg|245x245px|thumb|Umbridge inspecting Flitwick]]
+
+When Umbridge inspected Professor Flitwick's class with the [[Frog Choir|school choir]], she seemed impressed and pleased, but pulled out a tape measure and measured Flitwick's height. He seemed really discontented and looked rather offended, finding this gesture insulting, especially since he was part-goblin, which he inherited from his ancestor.<ref name="OOTPF">{{OOTP|F}}</ref>
+
+Once Professor Umbridge had banned ''[[The Quibbler]]'' from the school after an interview of [[Harry Potter]] was printed, all the teachers were proud of him standing up to her. Professor Flitwick, not allowed to talk about anything not relating to his subject, secretly gave a box of Sugar Mice to Harry during one of his classes, before saying "shh!" and hurrying away.<ref name="OOTP26">{{OOTP|B|26}}</ref>
+
+Later on in the year, Professor Umbridge became the new [[Headmaster|Headmistress]] after [[Albus Dumbledore|Professor Dumbledore]] left the school. On her first day in office, Fred and George Weasley released fireworks into [[Hogwarts Castle]] and some sparklers managed to find themselves in [[Charms Classroom|Classroom 2E]], Flitwick's classroom. He, wanting to annoy Umbridge like the rest of the staff, ran for her help. Once she had extinguished the fireworks, he revealed that he could have gotten rid of them himself, but he wasn't sure that he had the "authority", before slamming the door in her face.<ref name="OOTP28"/>
+
+[[File:Flitwick cheering for Fred and George.jpg|251x251px|thumb|left|Flitwick during the flight of Fred and George Weasley]]
+
+After Easter break, [[Fred and George Weasley|Fred and George]] used one of their inventions, a [[Portable Swamp]], to change a corridor into a bog and then departed from school to go into the world of business.<ref name="OOTP29">{{OOTP|B|29}}</ref> Professor Flitwick was seen cheering and supporting them at their departure after they ran rings around Umbridge and [[Argus Filch]].<ref name="OOTPF"/> Flitwick was asked to remove the swamp they created at the end of the year, which he did, but he claimed to be unable to remove a small patch under a window. He actually left it there as a tribute to what he saw as a demonstration of rather advanced magical capabilities.<ref name="OOTP38">{{OOTP|B|38}}</ref>
+
+====Protecting Hogwarts from Death Eaters====
+{{Quote|Now, now, boys. A little less talk, a little more action... Let me see you try...|Professor Flitwick teaching sixth year Charms|Harry Potter and the Half Blood Prince}}
+[[File:Harry-potter-half-blood-movie-screencaps.com-3279.jpg|245px|thumb|Professor Flitwick at the school gates with Harry Potter and [[Luna Lovegood]]]]
+
+In 1996, [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] was put under the protection of a group of [[Auror]]s. Professor Flitwick, together with the caretaker, [[Argus Filch]], was appointed to check off every student entering the school at the entrance gates on a register and take their belongings to be searched for any dark artefacts or weapons.<ref name="HBP8">{{HBP|B|8}}</ref><ref name="HBPF">{{HBP|F}}</ref>
+
+One of the [[Nastily Exhausting Wizarding Test|N.E.W.T.]]-level charms he taught to his sixth year students that year was how to cast the [[Water-Making Spell]].<ref name="HBP11">{{HBP|B|11}}</ref> During a lesson regarding the practising of this spell, [[Seamus Finnigan]] whilst daydreaming, accidentally flicked his [[Seamus Finnigan's wand|wand]] a little too hard and [[Conjuration|conjured]] such a powerful jet of [[water]] from his wand that he knocked Flitwick flat on his face, after it richoted from the ceiling. He set Seamus lines as punishment, asking him to write "“I am a wizard, not a [[baboon]] brandishing a stick”.<ref name="HBP17">{{HBP|B|17}}</ref>
+
+He later taught them how to [[Vinegar to wine spell|turn vinegar into wine]]. He approached [[Harry Potter|Harry]], [[Ronald Weasley|Ron]], and [[Hermione Granger|Hermione]] during the lesson and asked them to perform the spell. Hermione cast it perfectly the first time, while Harry [[Freezing Spell|turned his to ice]] and Ron blew his up. Flitwick gave the two boys homework based on their performance, to practise for next lesson.<ref name="HBP24">{{HBP|B|24}}</ref>
+
+[[File:Flitwick and Slughorn at Hogsmeade.jpg|250px|thumb|left|Flitwick meets Horace on his way back to the [[Hogwarts Castle|castle]], during a trip to Hogsmeade]]
+
+During one of the students' trips to [[Hogsmeade]], Professor Flitwick also visited the village, possibly for security reasons. On his way back to the castle [[Horace Slughorn]] (the current [[Potions Master]]) invited him to have a drink at the [[Three Broomsticks Inn]], but Flitwick claimed to have "''emergency choir practice''" and left him.<ref name="HBPF"/> It is not clear if this is true or not. He very well could have been leaving Hogsmeade because he knew Slughorn would want to reminisce at the Three Broomsticks.
+
+====Battle of the Astronomy Tower====
+{{Quote|It was nearly midnight when Professor Flitwick came sprinting down into the dungeons. He was shouting about Death Eaters in the castle, I don't think he really registered that Luna and I were there at all, he just burst his way into Snape's office and we heard him saying that Snape had to go back with him and help and then we heard a loud thump and Snape came hurtling out of his room and he saw us and — and — he said Professor Flitwick had collapsed and that we should go and take care of him while he — while he went to help fight the Death Eaters. We went into his office to see if we could help Professor Flitwick and found him unconscious on the floor... and, oh, it's so obvious now, Snape must have Stupefied Flitwick....|[[Hermione Granger]] describing what happened when Flitwick went for Snape's help|Harry Potter and the Half-Blood Prince}}
+Later on in the year, Flitwick was in the [[Great Hall]] with the Hogwarts choir<ref name="HBPF"/> when [[Death Eaters]] invaded [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] and [[Minerva McGonagall]] ordered him to get [[Severus Snape]]. When inside [[Severus Snape's office|Snape's office]], Snape Stupefied him, and told [[Hermione Granger]] and [[Luna Lovegood]] that he had collapsed and that they should tend to him till he regained consciousness.<ref name="HBP29">{{HBP|B|29}}</ref>
+
+[[File:Students at the base of the tower.jpg|251x251px|thumb|Flitwick, McGonagall, Hagrid, and students at the base of the tower after Dumbledore's death]]
+
+Shortly after knocking Flitwick out, Snape killed [[Albus Dumbledore|Professor Dumbledore]]. Once recovering from his attack by Snape, Flitwick insisted on looking after the Ravenclaws. He also took part in the conversation of whether or not Hogwarts should remain open or be closed, as having the [[Headmaster]] killed by one of the staff was a "terrible stain on Hogwarts history." Flitwick insisted that the decision should be made by the school governors, which Minerva McGonagall, the new Headmistress, was inclined to agree with. He also argued that Dumbledore should be buried in the grounds, which had never happened to any Headmaster or Mistress.<ref name="DH29"/> Professor Flitwick, with the rest of the staff and students, later attended the [[Funeral of Albus Dumbledore|funeral]] of [[Albus Dumbledore]] at the end of the year in the grounds near the Hogwarts Lake.<ref name="HBP30">{{HBP|B|30}}</ref>
+
+====Voldemort's infiltration of Hogwarts====
+Prior to the start of the 1997–1998 school year, [[Severus Snape]] was made [[Headmaster]] of Hogwarts while his fellow [[Death Eaters]], [[Alecto and Amycus Carrow]], became the [[Muggle Studies]] and [[Defence Against the Dark Arts]] [[professor|teachers]] respectively. Despite the school now in the grasp of [[Tom Riddle|Lord Voldemort]], or perhaps because of it, Professor Flitwick returned to the castle to teach and protect the students.<ref name="DH12">{{DH|B|12}}</ref>
+
+The Carrows were put in charge of all discipline and punishments, although Flitwick and the staff never sent students to them if they could avoid it, as the new professors' idea of punishment included such horrors as the [[Cruciatus Curse]].<ref name="DH29">{{DH|B|29}}</ref>
+
+====[[Battle of Hogwarts]]====
+{{Quote|No! You'll do no more murder at Hogwarts!|Professor Flitwick duelling [[Severus Snape]] shortly before the Battle of Hogwarts|Harry Potter and the Deathly Hallows}}
+[[File:Protegomaximaff.png|251x251px|thumb|left|Filius Flitwick casting ''[[Protego Maxima]]'' to protect Hogwarts]]
+
+Near the end of the 1997–1998 school year, [[Alecto Carrow|Alecto]] ordered Professor Flitwick to let her into [[Ravenclaw Tower]]. He did so, answering the riddle required to enter. When she failed to come out, [[Amycus Carrow|Amycus]] told [[Minerva McGonagall|McGonagall]] to make Flitwick open the door for him too, but she did it herself.<ref name="DH30">{{DH|B|30}}</ref>
+
+That night, Flitwick, with Professors [[Pomona Sprout|Sprout]] and [[Horace Slughorn|Slughorn]], was awoken by Minerva McGonagall's cat patronous, and, still in their night-clothes, went to find out what she wanted. They found McGonagall duelling Snape to the death, and, after squeaking her name in shock, told Snape he would not commit any more murder in the [[Hogwarts Castle|castle]]. He proceeded to cast a spell which animated the [[suit of armour]] that Snape was using to shield himself from McGonagall. Snape then ran into a classroom, chased by Flitwick, Sprout and McGonagall, and [[Unsupported flight|flew]] out of the window, escaping them.<ref name="DH30"/>
+
+[[File:Filius_Flitwick_battle.jpg|234x234px|thumb|Flitwick [[duelling]] during the Battle of Hogwarts]]
+
+Aware that [[Tom Riddle|Lord Voldemort]] would soon attack the castle, Flitwick and the other Professors set to defend the school and the students. He pointed his wand out of the window and cast several intricate protective spells, including ''[[Protego horribilis]]''. Then, he was quizzed over the [[Rowena Ravenclaw's Diadem|Lost Diadem of Rowena Ravenclaw]] by [[Harry Potter]], whom he was shocked to see, under the circumstances. He told Harry that the diadem was long since lost and that it wouldn't really help anyway, unaware that it was a [[Horcrux]].<ref name="DH30"/>
+
+After a brief discussion of how to fight the [[Death Eaters]], it was agreed that Flitwick, McGonagall and Sprout would take groups of over-age fighters up to [[Ravenclaw Tower]], [[Gryffindor Tower]] and the [[Astronomy Tower]]. Flitwick presumably took his group up to [[Ravenclaw Tower]], since it was a good place to work spells and enchantments.<ref name="DH31">{{DH|B|31}}</ref>
+
+Professor Flitwick was seen fighting [[Corban Yaxley|Yaxley]] close to the front doors in the [[Entrance Hall]],<ref name="DH32">{{DH|B|32}}</ref> just before Voldemort ordered everyone to cease duelling and offered peace in return for Harry Potter.<ref name="DH33">{{DH|B|33}}</ref> However, battle soon resumed after Harry was thought to be murdered by Voldemort. In the [[Great Hall]], [[Antonin Dolohov]] was seen falling to the ground with a scream at Flitwick's hands, defeated and possibly killed.<ref name="DH36">{{DH|B|36}}</ref>
+
+[[File:Flitwick Sprout Slughorn.jpg|251x251px|thumb|left|Sprout, Flitwick, and Slughorn after the battle in the Great Hall]]
+
+Flitwick also witnessed the duel between Harry and Voldemort in the Great Hall and after Voldemort's spell rebounded on him, Flitwick, Sprout, and McGonagall all reached to hug Harry at the same time while everyone else joined in.<ref name="DH36"/>
+
+A celebration feast was later held, but no one sat in their proper places; teachers, parents and students were all jumbled up. It is likely that Professor Flitwick sat by the [[Ravenclaw]]s, since he was their [[Head of House]]. He was seen talking with Horace Slughorn and Pomona Sprout after the battle.<ref name="DHF2">{{DH|F2}}</ref>
+
+===Later life {{c|1998-2020}}===
+Following the Battle of Hogwarts, Professor Flitwick continued his long tenure as [[Charms Master]], and diligently proceeded to educate the next generations of young witches and wizards on the subject he had devoted his life to teach. On [[14 December]] during the [[2018–2019 school year]], however, slightly more than half a year following the twenty-year anniversary of their victory over the Dark Forces at the legendary battle, a Muggle speed camera captures blurry footages of several out-of-control riderless [[Nimbus 2000]] broomsticks, speeding on a motorway in Sydney, Australia. This incident would soon thereafter be followed by a series of outbreaks of chaotic magic, culminating in arguably the greatest ever breach of the [[International Statute of Wizarding Secrecy]] in the magical history. Never one to stand idly by when disaster strikes, however, he would soon join [[Headmaster|Headmistress]] [[Minerva McGonagall]] in doing whatever he could to help the then recently established [[Statute of Secrecy Task Force]]. In addition to donating his personal, annotated copy of the [[The Book of Charms & Spells]] to those of its members who pursued [[Professor]]ship to help them improve their casting of charms to address the events of the [[Calamity]],<ref name="wu-book">{{WU}} ([https://youtu.be/Mc5_6YJXVvQ?t=485 see video])</ref> along with showing them the secrets of his exceptionally powerful Protection Charm to allow them to enhance an ally's defence, imparting to them the importance of specificity in your spell casting and footwork to increase defensive power and co-teaching along with Professor Sprout how different magical approaches – when combined with teamwork – achieve devastating effects, he also ministered [[Flitwick Method|weekend seminars]] on [[Martial magic]] for members of the [[Auror Office]] that wanted to join the aforementioned task force,<ref name="WU">{{WU}}([https://youtu.be/eMg4E84XeCE?t=1320 see video])</ref>.
+
+==Physical description==
+{{Quote|Professor Flitwick, the Charms teacher, was a tiny little wizard who had to stand on a pile of books to see over his desk.|Description|Harry Potter and the Philosopher's Stone}}
+
+Flitwick, due to his goblin blood, was particularly short and frequently described as "tiny little Professor Flitwick". He had a shock of white hair in his elderly years and brown when he was younger. Also when he was young, he usually wore black clothes and suits as opposed to the green robes that he wore in his later years.
+
+==Personality and traits==
+{{Quote|Thank you so much, Professor! I could have got rid of the sparklers myself, of course, but I wasn’t sure whether I had the authority....|Professor Flitwick mocking [[Dolores Umbridge]]|Harry Potter and the Order of the Phoenix}}
+
+[[File:HP1 promo Filius Flitwick.jpg|220x220px|thumb|Professor Flitwick carrying a pile of books]]
+
+Flitwick was an emotional fellow, who seemed to have a gentle spirit. During the [[1992–1993 school year]] when [[Ginevra Weasley]] was taken into the [[Chamber of Secrets]], he burst into tears, and in [[1993]]'s [[Valentine's Day]], when [[Gilderoy Lockhart]] called him a "sly old dog", he buried his face in his hands. He was also shown to have a sense of mischief and fun. He sarcastically remarked to Dolores Umbridge that, while he easily had the ability to remove Fred and George's rampaging fireworks, he wasn't sure if he had the ''authority''. He also discretely cheered the Weasley Twins' escape from the school, and left a small patch of the twin's [[Portable Swamp]] under the window, which Ron believed he had done as a monument to Fred and George. He also covertly sneaked Harry a box of [[Sugar Mice]] so as to reward him for speaking out about Voldemort in the ''[[The Quibbler|Quibbler]] ''because he couldn't talk about it aloud, murmuring a little 'shush' to Harry afterwards.
+
+[[File:Proflitwick.PNG|140px|thumb|Professor Flitwick sat reading]]
+Flitwick was considerably more tolerant of disobedience than most of his fellow professors, known for rarely handing out detentions and deducting House Points, his more laid-back and forgiving teaching attitude making him particularly liked and respected by the students. This has been shown many times during his [[Charms (class)|Charms lessons]]: when Ron, due to his broken wand, accidentally cast a spell that hit Flitwick square in the face, Flitwick was not known to punish him as Ron got away with only cursing his broken wand. Neither did he punish Hermione for not showing up in class to learn the [[Cheering Charm]], only warning her that it would appear in the exam. Additionally, when [[Neville Longbottom]], while fumbling with attempts at casting a [[Banishing Charm]], ended up sending Flitwick sailing across the room; Flitwick accepted this resignedly and let Neville off. Rather than punishing Seamus with detention after he accidentally hit Flitwick with the [[Water-Making Spell]], Flitwick instead had him do lines. He was also shown to be much more generous than the other teachers even in normal occasions, as he allowed his students to play games in class when Christmas was near and did the same during the approach to the [[Yule Ball]] in 1994 when he saw their minds were elsewhere. Rather than punish those who slacked in their studies, Flitwick preferred to give homework for students to catch up and he also encouraged them to experiment with magic.
+
+A wise man even at his youth, despite having been discriminated in his early life due to his small stature and goblin ancestry, Flitwick saw those who discriminated him not as hateful but instead ignorant. He was eminently fair and never discriminated anyone regardless of their origin or whether they were of different house and treated all students the same. This is shown by how despite the wrongdoings [[Jacob (Hogwarts student)|one of his students]], Flitwick was quick to favour and develop a close relationship with [[Jacob's sibling|his sibling]], teaching them several advanced spells and forgiving their misdeeds.
+
+Nevertheless, he commanded respect in spite of his sensitive nature and small stature. When he encountered [[Harry Potter]] and [[Draco Malfoy]] on the stairs discussing [[Harry Potter's Nimbus 2000 broomstick|Harry's new Nimbus 2000]], Malfoy treated him just like any other teacher with no hint of the sarcasm he used with [[Remus Lupin]].
+
+==Magical abilities and skills==
+{{Quote|You may have heard that I was a Duelling Champion!|Professor Flitwick drawing his wand on misbehaving students|Harry Potter and the Order of the Phoenix (video game)}}
+As a former Duelling Champion and as the Hogwarts Professor of Charms, Flitwick was a powerful and formidable wizard. Testaments to his considerable magical skills were his proficiency in the subject he taught, and his later participation in and surviving the Battle of Hogwarts.
+*'''Intellectual giftedness''': As the Head of [[Ravenclaw|Ravenclaw House]], Flitwick was a highly shrewd and knowledgeable man. During the preparations for the [[Battle of Hogwarts]], he was the one who realistically pointed out that even the combined efforts of the entire Hogwarts staff was insufficient to keep Voldemort out indefinitely.
+*'''[[Charm]]s''': Arguably the best and most knowledgeable [[Charms (class)|Charms]] teachers in the world,<ref>[[Pottermore Introductions to Hogwarts Houses#Ravenclaw]]</ref> he was capable of effectively casting numerous charms and enchantments, ranging from standard charms to the most [[Protego horribilis|advanced Shield Charms]].<ref name="DH30"/> He was also able to conjure a non-corporeal [[Patronus Charm|Patronus]],<ref name="LHP">{{LEGO|Y1}}</ref><ref name="LHP5-7">{{LEGO|Y2}}</ref> which is an incredibly advanced and powerful piece of protective [[magic]] as well as concrete evidence of superior magical ability, given the immense difficulty of performing the said charm.
+*'''[[Duelling]]''': An immensely accomplished duellist, Flitwick was rich in both learning and experience where the study and practice of duelling techniques and strategies were concerned. He participated professionally in a number of competitions and championships after his graduation from Hogwarts. Ultimately, he carved out a impressive reputation for himself as a Duelling Champion, earning himself a whole shelf full of trophies to boot.<ref name="HM"/> Though he had not duelled in some time, it was later shown that he had retained his considerable skill. Flitwick was able to help fellow Professors McGonagall and Sprout chase [[Severus Snape]] out of the castle and emerged and survived the legendary Battle of Hogwarts. During the battle, he had duelled the powerful [[Corban Yaxley|Yaxley]] to a draw and even single-handedly defeated the extremely skilled [[Antonin Dolohov]], who had previously defeated [[Alastor Moody]] and murdered [[Remus Lupin]], showing his remarkable proficiency in [[martial magic]]. Later still, he [[Flitwick Method|supplemented]] the [[Auror training|training]] that [[Auror]]s had received before joining the department, showing that he maintained his skill, knowledge and dexterity in professional wizard's duelling even well into his elderly years.<ref name="WU" />
+*'''[[Defence Against the Dark Arts]]''': Flitwick had outstanding defensive abilities against even the greatest [[Dark Arts|Dark magic]], having lead the extremely powerful defences put around the castle that was only broken by Voldemort himself, a feat which caused the Dark Lord some backlash.<ref name="DH30">{{DH|B|30}}</ref><ref name="DHF2">{{DH|F2}}</ref> Flitwick was also capable of examining [[Harry Potter]] [[Harry Potter's Firebolt|Firebolt]] for [[Dark charm]]s with the help of [[Rolanda Hooch]] in a [[Stripping-down]] process, showing he was knowledgeable in the field of defensive magic.<ref name="POA11">{{POA|B|11}}</ref>
+*'''[[Transfiguration]]''': Flitwick was shown to be highly proficient in the transfiguration branches of [[Conjuration]] and [[Vanishment]], [[Bubble Spell|creating baubles]] from his wand to decorate the [[Christmas tree]]s and being able to swiftly [[Vanishing Spell|vanish]] a [[Portable Swamp]].
+*'''[[Wandless magic|Wandless]] and [[Nonverbal spell|non-verbal magic]]''': Flitwick was also highly skilful in [[Nonverbal spell|non-verbal magic]]. In [[1996]], once every student was inside [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] grounds, he cast a protective barrier on the school gate without saying the [[incantation]]. As non-verbal magic is very difficult, this testifies to him being a truly powerful wizard. Furthermore, Flitwick was shown to be able to conjure [[Bluebell Flames|blue flames]] without using his wand.<ref name="COSG">{{COS|G}}</ref> This is yet another testament to his formidable [[magic]]al talents, given that wandless magic was seen to be a feat that only wizards of the highest level (such as Dumbledore and Voldemort) were able to successfully accomplish.
+*'''[[Music|Conducting]]''': Flitwick became the [[Choir Master|Conductor of the Hogwarts Choir]] during the [[1993–1994 school year]], and taught the choir how to sing ''[[Double Trouble|Something Wicked This Way Comes]]'' and ''[[In Noctem]]''. He also led the orchestra during the [[Yule Ball]].
+
+==Possessions==
+[[File:ProfFiliusFlitwickWandNN8262.jpg|thumb|Flitwick's wand]]
+*'''[[Filius Flitwick's wand|Wand]]''': Professor Flitwick owned a [[wand]], which was of an unknown length, [[wand wood]] and [[wand core]]. He presumably obtained it from [[Ollivanders]] in [[Diagon Alley]] prior to starting his [[first year]] at [[Hogwarts School of Witchcraft and Wizardry]].
+*'''[[Filius Flitwick's office|Office]]''': While teaching at Hogwarts, Flitwick owned an office on the castle's seventh floor, which is where he stayed and slept during the school terms.
+*'''[[Filius Flitwick's tin|Tin]]''': This tin was kept inside a [[Filius Flitwick's desk|desk]] in his office.
+*'''[[Filius Flitwick's trophies|Duelling trophies]]''': Flitwick owned various prestigious trophies, earned from his days as a [[Duelling]] champion.<ref name="HM"/>
+*'''Spellbooks''': Flitwick owned numerous different spellbooks on various different [[charm]]s, such as the [[Spongify spellbook]], [[Incendio spellbook]] and [[Carpe Retractum spellbook]], which he used heavily whilst teaching. 
+*'''[[The Book of Charms & Spells]]''': In the [[21st century]], Flitwick gave his personal annotated copy of the book to members of the [[Statute of Secrecy Task Force]] who pursued a [[Professor]]ship profession to help them improve their casting of charms to address the events of the [[Calamity]].<ref name="wu-book" />
+
+==Relationships==
+===Harry Potter===
+{{Dialogue a-b-a-c|Flitwick|Not arguing, I hope, boys?|Draco Malfoy|Potter’s been sent a broomstick, Professor.|Yes, yes, that’s right. Professor McGonagall told me all about the special circumstances, Potter. And what model is it?|Harry Potter|A Nimbus Two Thousand, sir. And it’s really thanks to Malfoy here that I’ve got it.|Flitwick enquiring about Harry Potter's [[Harry Potter's Nimbus 2000|Nimbus 2000]]|Harry Potter and the Philosopher's Stone}}
+
+[[File:Harry Potter.jpg|220x220px|thumb|Harry Potter, his student]]
+
+Professor Flitwick was kind to [[Harry Potter]] and had a good relationship with him. He was so excited to see Harry's name on his register that he fell off of his stack of books with a squeak. He allowed Harry and his friends to talk during classes, as well as play games sometimes. 
+
+In [[1994]] he spent the majority of a lesson discussing the "perfect" [[Summoning Charm]] Harry used in order to obtain his Firebolt for the first task. In [[1998]] he helped defend [[Hogwarts Castle]] to give time for Harry to find [[Rowena Ravenclaw's Diadem]], casting ''[[Protego horribilis]]'' on the school grounds. He was among the first ones to run and hug him after he defeated [[Tom Riddle|Lord Voldemort]].
+
+===Hermione Granger and Ron Weasley===
+{{Quote|Oh, well done! Everyone see here, Miss Granger’s done it!|Professor Flitwick congratulating [[Hermione Granger]], one of his best students|Harry Potter and the Philosopher's Stone}}
+
+[[File:The-trio-Harry-Potter-and-the-chamber-of-secrets-potterhead-29266030-365-400.jpg|223x223px|thumb|left|Ron and Hermione, his students]]
+
+Flitwick also had a good relationship with [[Hermione Granger]] and [[Ronald Weasley|Ron Weasley]]. Hermione was a very good student and thus Flitwick liked her. Flitwick was thoroughly impressed when Hermione managed to successfully cast the [[Levitation Charm]], announcing her feat to the class. He was also friendly with [[Ronald Weasley|Ron Weasley]], who was a friend of Hermione and Harry. Ron liked Flitwick's method of teaching, as he usually let them talk during his lessons. Flitwick fought alongside Ron and Hermione at the [[Battle of Hogwarts]] and they all survived the battle.
+
+===Ravenclaw students===
+{{Quote|Professor Flitwick was knocked out, but… he insisted on going off to look after the Ravenclaws.|Description|Harry Potter and the Half-Blood Prince}}
+
+[[File:Luna Lovegood profile Deathly Hallows.jpg|220x220px|thumb|Luna Lovegood, one of his [[Ravenclaw]] students]]
+
+Professor Flitwick was very caring and protective of the members of his House, [[Ravenclaw]], as he was [[Head of Ravenclaw House]].<ref name="JKR" /> In [[1997]], when [[Death Eaters]] invaded [[Hogwarts Castle]] by use of a [[Vanishing Cabinet]], Flitwick was knocked out, but left the [[Hospital Wing]] in a hurry in order to look after the Ravenclaws, despite still being shaky from his attack. At the end of the year, after [[Albus Dumbledore]]'s death, Flitwick, as well as [[Minerva McGonagall]], [[Pomona Sprout]], [[Rubeus Hagrid]], and [[Horace Slughorn]] had to decide whether the school should re-open the following year. He could not decide where his students would be safer, at Hogwarts or at their homes, and wanted to leave the decision to the [[Hogwarts Board of Governors|board of governors]], which Professor McGonagall was inclined to agree to.
+
+The school did indeed reopen for the [[1997–1998 school year]], but McGonagall had been replaced as [[Headmaster|Head]] by [[Severus Snape]]. [[Alecto and Amycus Carrow]], the new [[Defence Against the Dark Arts]] and [[Muggle Studies]] [[professor]]s, treated all of the school's students brutally and horribly, aside from the [[Slytherin]]s of course. Because of this, Flitwick protected the Ravenclaws, as well as the other students, from the Carrows, as did McGonagall, Sprout and Slughorn. Once [[Tom Riddle|Lord Voldemort]] declared war on the Castle, Flitwick fought in the [[Battle of Hogwarts]] and survived, so he likely continued to teach and care for the next generation of Ravenclaws.
+
+===Hogwarts professors===
+
+{{Dialogue a-b-c|Rubeus Hagrid|No other headmaster or headmistress ever gave more to this school.|Flitwick|Hogwarts should be Dumbledore's final resting place.|Pomona Sprout|Absolutely.|Professors Flitwick, [[Rubeus Hagrid|Hagrid]], and [[Pomona Sprout|Sprout]] in [[1997]]|Harry Potter and the Half-Blood Prince}}
+
+[[File:Harry_Potter_Movie_Pictures-Professors.jpg|239x239px|thumb|left|Some of his colleagues]]
+
+Flitwick seemed to have a good relationship with most of his colleagues at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. Some of them were [[Minerva McGonagall]] and [[Pomona Sprout]]. All three were [[professor]]s at Hogwarts, while [[Head of House|Heads of House]]. Prior to the [[Battle of Hogwarts]], McGonagall and Flitwick, watched by Sprout and [[Horace Slughorn]], duelled Professor Snape, who had taken hold of the school, ultimately forcing him to flee. Both Sprout and Flitwick exhibited yells of shock at [[Harry Potter]] when he unexpectedly arrived at the school, and Sprout and McGonagall fought alongside Flitwick in the [[Battle of Hogwarts]] and survived the [[Second Wizarding War]]. After the duel between [[Harry Potter]] and [[Tom Riddle|Lord Voldemort]], the three of them hurried to Harry to congratulate him and celebrate.
+
+After Severus Snape murdered Dumbledore, he and his fellow professors turned on him. He protected Minerva McGonagall from Snape when both of them were duelling, and warned him that he wouldn't commit another murder in Hogwarts. It is likely that he learnt Snape's true loyalty after the Second Wizarding War, and the true reason he murdered Dumbledore, not to mention that he was protecting the students all along, albeit discreetly. Following this, it is assumed that he forgave Snape and even admired his courage. 
+
+Flitwick may have also been friendly with, or at least unusually persuasive to, [[Poppy Pomfrey]], the school matron, as the strict nurse very rarely let people out of the [[Hospital Wing]] until they made a full recovery, but she let Flitwick out after he was hit by a stunner by [[Severus Snape]], despite still being shaky. This may, however, just be because he was the [[Charms Master]] and a [[professor]].
+
+[[Horace Slughorn]], the [[Potions Master]] and [[Head of Slytherin House]], seemed to believe that he was friendly with Professor Flitwick. However, the latter seemed to try to avoid him during a trip to [[Hogsmeade]] after he invited him to the [[Three Broomsticks Inn]]. Flitwick declined, saying that he had "emergency choir practice" with the [[Frog Choir|Hogwarts choir]] back at the school.
+
+Professor Flitwick, like all the other professors at the school, disliked the [[Defence Against the Dark Arts]] [[professor|teacher]] of the [[1992–1993 school year]]; [[Gilderoy Lockhart]]. Despite Lockhart being a former [[Ravenclaw]], and one of his old students, Flitwick did not have a very good relationship with him, as Gilderoy was always an attention-seeking, vanity-rich troublemaker who never took his studies seriously. On [[Valentine's Day]], Lockhart suggested to the students that they ask Professor Snape to brew them [[Love Potion]]s and said that Flitwick knew more about [[Entrancing Enchantments]] than anyone he knew. Flitwick responded by burying his face in his hands, while Snape looked like he would force-feed poison to the first person to ask him for a love potion. When Lockhart walked into the staff meeting regarding [[Ginerva Weasley|Ginny Weasley's]] alleged demise in a rather oblivious and cheerful manner, Flitwick was among the staff to look at him with remarkable hatred, and also did not hesitate to send him to the [[Chamber of Secrets]] as a means to scare him away.
+
+During the [[1995–1996 school year]], [[Dolores Umbridge]], the [[Defence Against the Dark Arts]] [[Professor|teacher]], was made [[Hogwarts High Inquisitor|High Inquisitor of Hogwarts]]. When Umbridge inspected Professor Flitwick's [[Nastily Exhausting Wizarding Test|N.E.W.T.]] [[Charms (class)|Charms Class]], he treated her like a guest and was very polite. But when she inspected his rehearsal with the [[Frog Choir|Hogwarts choir]], Umbridge measured his height, which he found insulting. When she became [[Headmaster|Headmistress]] of the school, Flitwick, along with the rest of the staff and the students, was against her. After [[Fred and George Weasley]] released fireworks into the corridors, Umbridge spent an entire day running around putting them out, and Flitwick later said that he could have easily put them all out, but was not sure that he "had the authority" to do so, and then wrapped the conversation up by smilingly slamming the door in her snarling face. The twins also released a [[Portable Swamp]] into another one of the corridors, and, once Umbridge had been suspended, Flitwick vanished it in a second, but left a small patch since he considered it to be a good piece of magic.
+
+==Etymology==
+*''[[Wikipedia:Filius|Filius]]'' is Latin for "son", and the ''filius philosophorum'', meaning "the philosophers' son" is a symbol in alchemy, sometimes associated with the philosopher's stone.
+*The surname ''Flitwick'' may come from the Charms professor's own advice for wand movement: "swish and flick". Flitwick is also the name of an English town, pronounced "Flittick". To flit is to move quickly from location to another. A wick is a loosely woven strand of fabric or fibres, often used in a candle or oil lamp.
+==Media==
+<gallery widths="300" position="center" spacing="small" captionalign="center" hideaddbutton="true">
+File:Harry Potter Magic Spell - Wingardium Leviosa|Charms Class
+</gallery>
+
+==Behind the scenes==
+{{Quote|I must admit, I was taken aback when I saw the film Flitwick, who looks very much like a goblin/elf (I’ve never actually asked the film-makers precisely what he is), because the Flitwick in my imagination simply looks like a very small old man.|J.K. Rowling|J.K.Rowling Official Site}}
+[[File:FiliusFlitwickHPHW.png|150px|thumb|Filius Flitwick in {{HM}}]]
+[[File:LEGOFlitwick.jpg|202x202px|thumb|Filius Flitwick as a LEGO minifigure]] 
+[[File:FiliusFlitwick WB F3 FiliusFlitwickCharacterIllustration Illust 080615 Port.jpg|160px|thumb|Filius Flitwick as he appears on {{PM}}]]
+[[File:FlitwickWU.png|thumb|Filius Flitwick as he appears in {{WU}}]]
+[[File:PAS Filius Flitwick.png|thumb|right|Filius Flitwick as seen in {{PAS}}]]
+[[File:Screenshot 810.png|96x96px|thumb|Flitwick teaching Charms]]
+*Flitwick is portrayed by British actor [[Warwick Davis]] in the [[Harry Potter (film series)|film adaptations]]. He also provided the character's voice in {{HM}}.<ref>https://twitter.com/HogwartsMystery/status/981864182957166597</ref>
+*Davis also provided the voice of [[Griphook]] the Goblin in {{PS|FA}}, and portrayed him again (both physical form and voice) in the [[Harry Potter (film series)|film adaptations]] of {{DH|F1}} and ''[[Harry Potter and the Deathly Hallows: Part 2|Part 2]]''. Therefore, Davis is one of the 14 actors to appear in all [[Harry Potter (film series)|eight film adaptations]].
+*Flitwick's goblin ancestry explains not only why the Professor is so small, but also his great wit and intelligence, which were the reasons for his being sorted into [[Ravenclaw]].
+*Flitwick decorates with live [[Fairy|fairies]] quite a bit, especially during Christmas in the Great Hall.
+*Flitwick's favourite drink is cherry syrup and soda with ice and an umbrella.<ref>{{POA}}</ref>
+*In the [[Harry Potter and the Chamber of Secrets (video game)|video game adaptation]] of {{COS}}, the [[Chamber of Secrets]] speech is given by Flitwick instead of [[Cuthbert Binns]], the [[History of Magic]] [[professor]].
+*Strangely, despite her hatred of "Half-breeds", [[Dolores Umbridge]] did not seem to hate Professor Flitwick, as the Weasley twins stated that she gave him a good review. However, this may be due to the fact that his "half-breed" ancestry comes from a distant relative or it could be she simply saw him as a man with dwarfism. In the film, though, Umbridge is seen patronisingly measuring his height.
+*The line "Dr Flitwick" appears (crossed out) in a page from an early draft of {{PS}}.<ref name="PS draft" />
+*The new look of Flitwick has an item on merchandise, a minifigure by [[LEGO Harry Potter|LEGO]].<ref>http://lego.wikia.com/wiki/Professor_Flitwick</ref>
+*In a deleted scene from {{DH|F2}}, Flitwick battles [[Nagini]] in the [[Marble Staircase]] during the [[Battle of Hogwarts]].
+*Curiously, in the U.S. edition of {{HBP}}, no mention is made of Flitwick insisting on going off to look after the Ravenclaws or him having been knocked out, only that he was "hurt."<ref name="HBPdifferences">[http://www.hp-lexicon.org/about/books/hbp/differences-hbp.html Harry Potter Lexicon - "''Harry Potter and the Half-Blood Prince'' - Differences"]</ref>
+*[[J. K. Rowling]] once stated that Professor Flitwick had a background story that would ultimately be left out of the books due to low relevance to the plot - something she compared to [[Dean Thomas]].<ref>[http://web.archive.org/web/20060316221526/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=95 F.A.Q. Section] on [[J. K. Rowling's official site|J.K.Rowling Official Site]] (archived 16 March 2006). ''"Just like Dean Thomas [...], Flitwick has a background that I now realise will never see its way into the books because it is not relevant to the plot."''</ref>
+
+===Portrayal in the films===
+{{Quote|When it came to the third film, of course the looks of the whole films had changed. Alfonso really wanted to put his mark on the films. And then a lot of things altered: anything from character looks, to the actual layout of Hogwarts itself. And another thing was happening at the same time. There wasn't really anything for Flitwick in the script at all, and I got a call one day from the producer, saying basically, "There's nothing for you, but we'd love you to be in the film all the same. How do you fancy coming in and doing a kind of cameo in the film as somebody else?" And I said, "Well, that's great, thanks for asking. I'm always thrilled to be part of all of this, anyway." So, I went in for a meeting with Alfonso, the director, and Nick Dougland, who's the make-up supervisor, and we came up with this new look for this character who would be basically the conductor of the Frog Chorus in the Great Hall. And so, we went with that.|[[Warwick Davis]] in an interview.|http://www.mugglenet.com/mugglecast/transcripts/47a.php}}[[File:Flitwick-film.jpg|140px|thumb|Flitwick as depicted in the first two film adaptations and the first three video games]]
+
+Flitwick's appearance in the film adaptations is sporadic. His only major scene in {{PS|FA}} is during the [[Charms (class)|Charms]] lesson where he teaches the spell ''[[Levitation Charm|Wingardium Leviosa]]''. Flitwick was written out of {{POA|FA}}; however, Warwick Davis was offered a small part as the conductor of the Hogwarts chorus appearing as a small man with brown hair and moustache, identified in the credits only as "wizard". Despite Warwick's appearance as a conductor in the film of ''Prisoner of Azkaban'', in the [[Harry Potter and the Prisoner of Azkaban (video game)|video game version]] of {{POA}} Flitwick appears as a teacher, and his physical appearance is as it was for the first two films and first two video games. This same character reappeared in {{GOF|FA}} although now identified as Professor Flitwick. Warwick Davis jokingly suggested he crowd surf during the Yule Ball scene. He admits he now knows to never make such jokes again.
+
+[[File:Dibujo.png|128px|thumb|left|Younger appearing Flitwick from the fourth film and fifth video game onwards]]
+
+According to interviews, director [[Mike Newell]] liked the look of a younger Flitwick. In {{OOTP|FA}}, he is seen in a Chorus Class in the [[Great Hall]]. He is seen again cheering when [[Fred and George Weasley]] depart Hogwarts. In the [[Harry Potter and the Order of the Phoenix (video game)|video game adaptation]] of ''Order of the Phoenix'', Filius Flitwick is seen with his new look in his class. Filius, with his post-''Chamber'' look, is finally confirmed on-screen in {{HBP|FA}}. He also displays a far more prickly demeanour than in ''Philosopher's Stone''. Flitwick's physical appearance in the first two films is credited as the teacher and his physical appearance in ''Harry Potter and the Half-Blood Prince'' merchandise (The Annual 2009 Poster Sticker Book) also uses the elder Flitwick, although the packaging of the LEGO figure uses the younger Flitwick. Also, [[Warwick Davis]] who plays Flitwick believes himself that the two characters (Conductor and Teacher) are different people but perhaps related. However despite Warwick Davis believing this, in {{HBP|FA}}, Harry confirms them both to be the same character in a conversation with Flitwick, and in {{DH|F2}}, [[Minerva McGonagall|Professor McGonagall]] calls him "Filius", as does [[Horace Slughorn|Professor Slughorn]] in {{HBP|FA}}. Flitwick slightly turns back to his previous appearance during the Snape's memories scene, in which he is seen clapping in the [[Sorting ceremony]].
+
+Popular in-universe explanations for the change in appearance are that he decided to get a makeover, or that he was involved in a magical accident resulting in his change in appearance. However, without any on-screen or in-print confirmation, the discrepancy remains a mystery and it has caused confusion amongst viewers and a rather large inconsistency.
+
+It has also been noticed that Flitwick's role as from the fourth film, has been used for comic relief, due to his snappy personality and unexpected, comical behaviour (e.g. his contribution to the cheering when the Weasley twins left Hogwarts; the conversation between him, Harry and Luna in the sixth film and his flight from the [[Viaduct]] when the [[Giant]]s close in during the [[Battle of Hogwarts]] in the second part of the seventh film).
+
+==Appearances==
+{{Imagecat|Images of Filius Flitwick}}
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|F}} {{Comment|credited as "''Wizard''"}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}}
+*{{HBP|F}}
+*{{HBP|G}}
+*{{DH}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{QWC}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{HPK}}
+*{{LEGO}}
+*{{PM}} 
+*{{WW}} 
+*{{TCG}}
+*{{MHP}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+*{{HM}}
+*{{WU}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Fortinbras]]
+|position=[[Charms Master]]
+|years=c. 1970 - ?
+|successor=Unknown
+}}
+{{Succession box
+|predecessor=Unknown, eventually [[Rowena Ravenclaw]]
+|position=[[Head of Ravenclaw House]]
+|years=pre 1984 - ?
+|successor=Unknown
+}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Choir Master|Conductor of the Hogwarts Choir]]
+|years=pre 1987 - ?
+|successor=Unknown
+}}
+{{End box}}
+{{Hogwarts}}
+{{Staff}}
+{{Charms}}
+{{Order of the Phoenix}}
+
+{{DEFAULTSORT:Flitwick, Filius}}
+
+[[cs:Filius Kratiknot]]
+[[de:Filius Flitwick]]
+[[de2:Filius Flitwick]]
+[[es:Filius Flitwick]]
+[[et:Filius Flitwick]]
+[[fi:Filius Lipetit]]
+[[fr:Filius Flitwick]]
+[[he:פיליוס פליטיק]]
+[[id:Filius Flitwick]]
+[[it:Filius Flitwick]]
+[[ja:フィリウス・フリットウィック]]
+[[nl:Filius Banning]]
+[[no:Filius Pirrevimp]]
+[[pl:Filius Flitwick]]
+[[pt-br:Fílio Flitwick]]
+[[ru:Филиус Флитвик]]
+[[sv:Filius Flitwick]]
+[[tr:Filius Flitwick]]
+[[uk:Філіус Флитвік]]
+[[vi:Filius Flitwick]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Charms Masters at Hogwarts]]
+[[Category:Conductors]]
+[[Category:Duelling Trophy recipients]]
+[[Category:Duellists]]
+[[Category:Flitwick family]]
+[[Category:Half-breeds]]
+[[Category:Heads of House]]
+[[Category:Males]]
+[[Category:Order of the Phoenix allies]]
+[[Category:Ousting of Severus Snape participants]]
+[[Category:Protectors of the Philosopher's Stone]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]
+[[Category:Foundables]]

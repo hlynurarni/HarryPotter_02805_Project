@@ -1,0 +1,97 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme=mom
+|image=[[File:Ulick Gamp.png]]
+|name=Ulick Gamp
+|nationality=[[Great Britain|British]]
+|born= in or before [[1690]] (most likely)<ref name="age">He was most likely of age before becoming minister.</ref>
+|died=
+|blood=[[Pure-blood]] or [[half-blood]]<ref name="blood">{{WW|minister-for-magic}} - Nobby Leach (Minister for Magic between 1962 and 1968) was the first Muggle-born wizard ever to be appointed to the office.</ref>
+|alias=
+|title=*[[Chief Warlock]] of the [[Wizengamot]]
+*[[Minister for Magic]]
+|hidep=
+|species=[[Human]]<ref name="HBP1"/>
+|gender=Male<ref name="HBP1"/>
+|height=
+|hair=Black<ref name="FBC2.3"/>
+|eyes=Brown<ref name="FBC2.3"/>
+|skin=Dark<ref name="FBC2.3"/>
+|hidef=
+|family=*[[Hesper Gamp|Hesper Black]] (possibly)
+*[[Gamp]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=*[[Chief Warlock]] of the [[Wizengamot]] (before [[1707]])
+*[[Minister for Magic]] ([[1707]] - [[1718]])<ref name="PM">{{WW|ministers-for-magic}}</ref>
+|house=
+|loyalty=*[[Wizengamot]]
+*[[British Ministry of Magic]]
+*[[Great Britain|British Government]]
+*[[Gamp family]]
+}}
+'''Minister Ulick Gamp'''<ref name="PM"/> was the first [[Minister for Magic]]. He held the office from [[1707]] to [[1718]].<ref name="PM"/> 
+
+==Biography==
+===Early life===
+Ulick Gamp likely was born sometime before [[1690]].
+
+===Ministry career===
+After graduating, he joined the [[Wizard's Council]] and became a member of [[Wizengamot]]. In 1707. after the abolishment of the Council, he bacame the first British Minister of Magic. Gamp had the onerous job of policing a fractious and frightened community adjusting to the imposition of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]]. His greatest legacy was to found the [[Department of Magical Law Enforcement]]. During Gamp's term, the Ministry outlawed the use of the [[Cruciatus Curse|Cruciatus]], [[Imperius Curse|Imperius]] and [[Killing Curse]]s, dubbing them [[Unforgivable Curses|"unforgivable"]].<ref name="TBBR">{{TBB|R}} - Albus Dumbledore on ''Babbitty Rabbitty and her Cackling Stump''</ref> During the early years of the [[International Statute of Wizarding Secrecy]], when the fate of the popular wizarding pub The [[Leaky Cauldron]] was uncertain, Gamp agreed to bestow the landlord the responsibility of letting people into [[Diagon Alley]], being sensitive to the needs of the patrons. To honour Gamp’s protection of the pub, the landlord created a new brand of [[beer]] in his name, [[Gamp's Old Gregarious]].<ref name="leaky cauldron"/> In [[1707]], he was elected as the first [[Ministry of Magic]]. 
+
+Gamp was elected Minister at least twice before resigning or being voted out of office in 1718.
+
+===Legacy===
+He was depicted in a portrait hung at the [[Prime Minister]]'s office at [[Prime Minister's office|10 Downing Street]] and, most likely, at the office of the [[Minister for Magic]] at the [[British Ministry of Magic|Ministry of Magic]]. It is highly probable that a [[Permanent Sticking Charm]] was placed on it, as the Muggle Prime Minister could never get the portrait off his wall, even with a builder to help. It served as a messenger between the [[Minister for Magic]] and the [[Non-magic people|Muggle]] [[Prime Minister]].<ref name="HBP1">{{HBP|B|1}}</ref>
+
+There was also a portrait of Ulick Gamp at the [[Leaky Cauldron]],<ref name="FBC2.3">{{FBC|2|3}}</ref> presumably as an honour for ensuring protection of the pub as a safe haven for wizards.<ref name="leaky cauldron">{{WW|the-leaky-cauldron}}</ref> After a [[Mountain Troll|mountain troll]] that had been kept in [[Percival Shacklehorn]]'s [[Percival Shacklehorn's tent|charmed tent]] escaped and smashed much of the pub, the [[Leaky Cauldron bartender|bartender]] mistakenly hit the portrait with a [[Confundus Charm]]. The charred painting was subsequently retrieved and restored during the Ministry investigation that followed the disturbance, by [[Mathilda Grimblehawk]] and [[Mathilda Grimblehawk's partner|her partner]].<ref name="FBC2.3">{{FBC|2|3}}</ref>
+
+==Physical appearance==
+[[File:Ulick Gamp cropped.png|140px|thumb|right|Gamp was a little, froglike man]]
+Gamp was described as ''"little"'', ''"froglike"'' and wore purple robes and a silver curly wig.<ref name="HBP1" />
+
+==Etymology==
+Ulick is the Anglicised form of the [[Ireland|Irish]] names Uilleac and Uilleag. There have been [[Wikipedia:Ulick|several Irish politicians and noblemen named Ulick]].
+
+==Appearances==
+*{{HBP}} {{Portrait}}
+*{{PM}} {{1st ID}}
+*{{WW}} {{Mention}}
+*{{FBC}} {{Painting}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=None (position created)
+|position=[[Minister for Magic]]
+|years=[[1707]]-[[1718]]
+|successor=[[Damocles Rowle]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+{{DEFAULTSORT:Gamp, Ulick}}
+
+[[de:Ulick Gamp]]
+[[de2:Ulick Gamp]]
+[[es:Ulick Gamp]]
+[[fr:Ulick Gamp]]
+[[pl:Ulick Gamp]]
+[[pt-br:Ulick Gamp]]
+[[ru:Улик Гамп]]
+[[uk:Улік Гамп]]
+[[Category:British Ministers for Magic]]
+[[Category:Brown-eyed individuals]]
+[[Category:Gamp family]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]
+[[Category:Wizengamot members]]

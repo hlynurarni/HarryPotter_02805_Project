@@ -1,0 +1,149 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:CharityBurbage.png|250px]]
+|name = Charity Burbage
+|born = Before [[1976]]<ref name="Birth">As Charity was employed at Hogwarts by 1993, she must have been of age (17) by then.</ref>
+|died = Late [[July]],<ref name="DH1">{{DH|B|1}}</ref> [[1997]]<br />[[Malfoy Manor]], [[Wiltshire]], [[England]], [[Great Britain]]
+|blood = [[Pure-blood]] or [[Half-blood]] (possibly)<ref name="Blood">Voldemort made no reference to Burbage herself being a "thief of knowledge and magic", which he would likely have done had she been a Muggle-born. However, this is not a concrete confirmation on her blood status.</ref>
+|marital = Single<ref name="marital status">Voldemort referred to her as "''Miss'' Charity Burbage", meaning that she was born Burbage and never married.</ref>
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Professor]]<ref name="DH1"/>
+|signature = 
+|species = [[Human]]<ref name="DH1"/>
+|gender = Female<ref name="DH1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = [[Professor]] of [[Muggle Studies]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (after [[1993]] - [[1997]])<ref name="DH1"/>
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH1"/> <br>
+}}
+{{Quote|[[Wizardkind|Wizards]], she says, must accept these [[Muggle-born|thieves]] of their knowledge and [[magic]]. The dwindling of the [[pure-blood]]s is, says Professor Burbage, a most desirable circumstance... She would have us all mate with [[Non-magic people|Muggles]] ''[...]'' |[[Tom Riddle|Lord Voldemort]] tormenting Charity Burbage|Harry Potter and the Deathly Hallows}}
+'''Professor Charity Burbage''' (d. [[July]], [[1997]]) was a [[Great Britain|British]] [[Wizardkind|witch]] and the [[Professor]] of [[Muggle Studies]] at [[Hogwarts School of Witchcraft and Wizardry]], after the departure of [[Unidentified male Muggle Studies teacher|the wizard]] who formerly held the post. Her career lasted from [[1993]] to [[1997]].
+
+She believed that [[Non-magic people|Muggle]]s were not so different from [[wizardkind|wizards and witches]], and used this viewpoint in her teaching. It would eventually lead to her [[death]] as [[Tom Riddle|Lord Voldemort]] [[Killing Curse|murdered]] her personally for writing a [[Daily Prophet]] article about her views during the [[Second Wizarding War]].<ref name="DH1"/>
+
+==Biography==
+===Early life===
+Charity was born to Mr and Mrs Burbage<ref name="marital status" /> somewhere in [[Great Britain]]. Her parentage is unknown, but it is possible that she was [[half-blood]] or [[pure-blood]].<ref name="Blood" />
+
+Burbage probably studied magic at [[Hogwarts School of Witchcraft and Wizardry]]. It is likely that she achieved high [[Ordinary Wizarding Level|O.W.L.]] and [[Nastily Exhausting Wizarding Test|N.E.W.T.]] marks in [[Muggle Studies]], as she secured a job teaching the subject later. She may have also studied [[Muggle Art]] and [[Muggle Music]].
+
+===Career as a professor===
+{{Quote|It'll be fascinating to learn about Muggles from a wizard's point of view.|Hermione Granger awaiting Professor Burbage's class|Harry Potter and the Prisoner of Azkaban}}
+[[File:Hogwarts castle (Concept Artwork) 07.JPG|250x250px|thumb|left|Hogwarts school where Burbage taught Muggle Studies]]
+Burbage took up the post of [[Muggle Studies]] [[professor]] after a male teacher left. Her office was located on the first floor (indicated as where Hermione took her Muggle Studies exam). It was full of Muggle toys and instruments, suggesting that it was possibly used for [[Muggle Music]] classes as well. She also kept a [[Lumos Duo spellbook]] there.<ref name="POAG">{{POA|G}}</ref>
+
+Her class was described as a "soft" option, as opposed to [[Minerva McGonagall]]'s [[Transfiguration (class)|Transfiguration]] classes. However, [[Percy Weasley]] proposed that her classes were very useful for students who were planning careers in Muggle relations. She apparently gave quite a bit of homework, such as essays on why Muggles need [[electricity]].<ref name="POA"/>
+
+Third-years [[Hermione Granger]] and [[Ernest Macmillan|Ernie Macmillan]] both took her class and found her teaching fascinating. However, Hermione dropped the class at the end of the year, feeling a need to have an easier schedule.<ref name="POA">{{POA}}</ref>
+
+===Death===
+{{Quote|Avada Kedavra. Nagini, dinner.|Lord Voldemort's killing of Burbage|Harry Potter and the Deathly Hallows}}
+
+[[File:Burbage at manor.jpg|246x246px|thumb|Burbage during the Death Eater meeting at Malfoy Manor]]
+
+During the summer holidays of [[1997]], Burbage was abducted by [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. An official statement claimed that she had 'resigned,' although many who knew her were suspicious about her disappearance. She was suspended over a table at [[Malfoy Manor]] while the Death Eaters were [[Meeting at Malfoy Manor|having a meeting there]]. Voldemort accused her of polluting the minds of young witches and wizards with pro-muggle ideas. He vilified her Muggle-friendly beliefs, claiming that she wanted to encourage more magical people to "mate" with Muggles.<ref name="DH1">{{DH|B|1}}</ref>
+
+[[File:DH1_Charity_Burbage_and_Wormtail.jpg|244x244px|thumb|left|Charity hung up in the air guarded by [[Peter Pettigrew|Wormtail]] during the Death Eaters' meeting]]
+
+Burbage, noticing that [[Severus Snape]] was among the Death Eaters, begged him to save her. This caused amusement among some of the Death Eaters present, such as Bellatrix Lestrange. However, as he was serving as a undercover agent and could not risk blowing his cover, he could do nothing. He sat and watched with mostly concealed remorse as his supposed master cruelly taunted her and then murdered her with the [[killing curse]], afterwards feeding her corpse to [[Nagini]].<ref name="DH1"/>
+
+===Post-mortem===
+{{Quote|Alecto, Amycus's sister, teaches Muggle Studies, which is compulsory for everyone. We've all got to listen to her explain how Muggles are like animals, stupid and dirty, and how they drive wizards into hiding by being vicious toward them, and how the natural order is being re-established. I got this one for asking her how much Muggle blood she and her brother have got.|[[Neville Longbottom]] on Burbage's sucessor, Alecto Carrow|Harry Potter and the Deathly Hallows}}
+[[File:Voldemort kills Burbage.gif|220x220px|thumb|Voldemort murdering Charity]]
+No one knew of Burbage's whereabouts after her death. Sometime before [[27 July]], Charity Burbage's alleged resignation from [[Hogwarts School of Witchcraft and Wizardry]] was briefly mentioned of the front page of the ''[[Daily Prophet]]''.<ref name="DH2">{{DH|B|2}}</ref> However, members of the [[Order of the Phoenix]] did not believe it, such as [[Molly Weasley]], as they were unable to locate her anywhere after the summer.<ref name="DH6">{{DH|B|6}}</ref>
+
+Sometime after the [[Fall of the Ministry of Magic]], an editorial was published on the ''Daily Prophet'' disregarding Burbage's previous editorial and informing the public she was reported in hiding.<ref name="DHG1">{{DH|G1}}</ref>
+
+[[File:DH1_Charity_Burbage_has_been_killed.jpg|250x250px|thumb|left|Charity's lifeless body]]
+
+On [[1 September]] 1997, under the tenure of [[Headmaster]] [[Severus Snape]], attendance of [[Muggle Studies]] class was made mandatory by the Death Eater-controlled [[British Ministry of Magic|Ministry of Magic]], under professor [[Alecto Carrow]].<ref name="DH12">{{DH|B|12}}</ref> It is unknown whether Burbage's true fate was ever uncovered and revealed to the [[wizarding world]] after the [[Second Wizarding War]].
+
+====The Calamity====
+During the 2010s, Charity Burbage appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free her, allowing Charity to return to her original time.<ref name="WU">{{WU}}</ref>
+
+==Personality and traits==
+Charity Burbage held very strong and passionate views in favour of the rights of [[Non-magic people|Muggles]] and Muggle-borns. She held very tolerant attitudes towards Muggles, believing them to be fully equal to [[Wizardkind]] and that the decline of [[pure-blood]]s was beneficial to [[Wizarding world|wizarding society]], most likely based on the belief that it would lead to greater acceptance of Muggles among wizards and the decline of [[pure-blood supremacy]].<ref name="DH1"/> She also had a highly deep and thorough knowledge of the [[Muggle world]] in general, including Muggle ways of living, [[science]] and technology. She also appeared to be a highly competent and talented teacher of her subject [[Muggle Studies]] whilst she was a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Professor]], as several students described her lessons as being fascinating, showing her to have been very devoted to her career and an expert in her field.<ref name="POA"/>
+
+==Magical abilities and skills==
+*'''[[Muggle Studies]]''': Charity had immense knowledge of [[Non-magic people|Muggles]] and their ways of living considering that she was the professor of Muggle Studies at [[Hogwarts School of Witchcraft and Wizardry]]. She incorporated her highly advanced and sophisticated knowledge of Muggles and their ways into her teaching philosophy of promoting tolerance and understanding between Muggles and [[Wizardkind]].<ref name="DH1"/>
+*'''[[Charm]]s''': Charity could produce a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOY2"/> a mark of superior [[magic]]al ability given the immense difficulty of performing the highly advanced protective charm.
+
+==Relationships==
+===Severus Snape===
+{{Quote|Severus … please … please …|Burbage pleading to Severus Snape|Harry Potter and the Deathly Hallows}}
+[[File:Severus_Snape.jpg|thumb|[[Severus Snape]], her colleague]]
+During her employment at [[Hogwarts Castle|Hogwarts]], she apparently considered herself to be friends with [[Severus Snape]]. She begged him to save her during the [[Death Eaters|Death Eater]] meeting at [[Malfoy Manor]] in the summer of [[1997]].<ref name="DH1"/> Despite his apparent murder of [[Albus Dumbledore]] (unbeknownst to most people, Dumbledore had planned his death with Snape), she called him a friend.<ref name="DHF1">{{DH|F1}}</ref> She may have suspected that the circumstances surrounding Dumbledore's "murder" were not what they appeared to be. However, it is also possible that she did not actually see Snape as a friend and was simply making a last ditch attempt to save herself by appealing to the only person in the room she had some semblance of a relationship with, having both been faculty members at Hogwarts.
+
+Unfortunately he could do nothing to help her, as he needed to pretend that he was truly loyal to Voldemort. Any attempt to save Charity would have resulted in both of them being killed. Nevertheless, he seemed to feel a level of remorse for it, not looking as glad as the rest of the Death Eaters when Charity was about to be killed.<ref name="DH1"/>
+
+==Etymology==
+'Charity' is from the English word ''charity'', ultimately derived from Late Latin ''caritas'' meaning "generous love", from Latin ''carus'' 'dear, beloved.' Caritas was in use as a Roman Christian name. The English name Charity came into use among the Puritans after the Protestant Reformation.
+
+==Behind the scenes==
+[[File:Charity.PNG|105px|thumb|Charity Burbage in {{LEGO|Y2}}]]
+*Burbage is portrayed by [[Great Britain|British]] actress [[Carolyn Pickles]] in {{DH|F1}}.<ref>[http://www.the-leaky-cauldron.org/2009/6/12/deathly-hallows-movie-updates-charity-burbage-cast-possible-historic-home-for-exterior-shots-and-more Deathly Hallows Movie Updates: Charity Burbage Cast, Possible Historic Home for Exterior Shots and More]</ref>
+*Charity says the same last words that Albus Dumbledore did, except she adds another 'please'.
+*One of Charity Burbage's predecessors and her immediate successor were professors who served [[Tom Riddle|Lord Voldemort]], though [[Quirinus Quirrell|Professor Quirrell]] only fell to Voldemort during his year off after leaving the job; she herself was murdered by Lord Voldemort.
+*In {{LEGO|Y2}}, she has grey hair and she appears to be older.
+
+==Appearances==
+{{Imagecat|Images of Charity Burbage}}
+[[File:Brilliant_Professor_Burbage_WU.png|250px|thumb|Professor Burbage as she appears in {{WU}}]]
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{LEGO|Y2}}
+*{{PM}} {{Mention}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor = [[Unidentified male Muggle Studies teacher|Male Muggle Studies teacher]]
+|position = [[Muggle Studies]] [[Professor]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years = [[1993]]-[[1997]]
+|successor = [[Alecto Carrow]]
+}}
+{{End box}}
+{{Staff}}
+
+{{Muggle Studies}}
+
+{{DEFAULTSORT:Burbage, Charity}}
+
+[[de:Charity Burbage]]
+[[es:Charity Burbage]]
+[[fi:Amore Burbage]]
+[[fr:Charity Burbage]]
+[[it:Charity Burbage]]
+[[nl:Clothilde Bingel]]
+[[pl:Charity Burbage]]
+[[ru:Чарити Бербидж]]
+[[uk:Чаріті Бербідж]]
+[[Category:1997 deaths]]
+[[Category:Blood traitors]]
+[[Category:British or Irish individuals]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Females]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Meeting at Malfoy Manor participants]]
+[[Category:Muggle experts]]
+[[Category:Muggle Studies Professors at Hogwarts]]
+[[Category:Murder victims]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

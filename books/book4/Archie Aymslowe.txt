@@ -1,0 +1,52 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = Archie Aymslowe.png
+|name = Archie Aymslowe
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF7"/>
+|gender = Male<ref name="GOF7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Activist<ref name="WW"/>
+|house = 
+|loyalty = [[Fresh Air Refreshes Totally]] (F.A.R.T.)<ref name="WW"/>
+}}
+{{Quote|I'm not putting them on. I like a healthy breeze around my privates, thanks.|Archie to a [[British Ministry of Magic|Ministry of Magic]] official at the [[1994 Quidditch World Cup]]|Harry Potter and the Goblet of Fire}}
+'''Archie Aymslowe''' was a [[Wizardkind|wizard]] and president of the [[Fresh Air Refreshes Totally]] (F.A.R.T.) movement, a fringe group whose members, in direct violation of the [[International Statute of Wizarding Secrecy]], refuse to wear [[Non-magic people|Muggle]] trousers in public, insisting that they "stem the [[magic]]al flow at source."<ref name="WW">{{WW|clothing}}</ref>
+
+Archie attended the [[1994 Quidditch World Cup]]. Since the event was a large gathering of wizards, the [[British Ministry of Magic|Ministry of Magic]] wanted them to dress as Muggles. Archie himself wore a flowery female nightdress without realising that what he had chosen was inappropriate. However, he resisted all efforts by a [[Unidentified Ministry of Magic Wizard at the 1994 Quidditch World Cup|Ministry official]] to get him to change into a pair of pin-striped trousers, insisting that he preferred a "healthy breeze" around his "privates." [[Hermione Granger]] found this amusing, having a fit of giggles and having to duck out of the area, waiting until Archie had left to return to the others.<ref name="GOF7">{{GOF|B|7}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{PM}}
+*{{WW}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Aymslowe, Archie}}
+[[de:Archie]]
+[[es:Archie Aymslowe]]
+[[fr:Archie Aymslowe]]
+[[pl:Archie Aymslowe]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Activists]]
+[[Category:Males]]
+[[Category:Wizards]]

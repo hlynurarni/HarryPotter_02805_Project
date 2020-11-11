@@ -1,0 +1,228 @@
+{{Spoiler|HL|PAS|MA|WU|HM}}
+{{Youmay|wizardkind in general|[[Filius Flitwick|the character merely credited as "Wizard" in the film adaptation of ''Harry Potter and the Prisoner of Azkaban'']]}}
+{{Creature infobox
+|image = Wizardspic.png
+|name = Wizardkind
+|skin = Varies
+|eyes = Varies
+|hair = Varies
+|feathers = 
+|related = *[[Non-magic people|Muggle]]s<ref name="COS7">{{COS|B|7}}</ref>
+*[[Squib]]s<ref name="COS9">{{COS|B|9}}</ref>
+|native = Worldwide
+|alias = *Wizards & Witches
+*Sorcerers<ref name="COS17">{{COS|B|17}}</ref> & Sorceresses<ref name="COSG">{{COS|G}}</ref>
+*Magicians
+|height = Varies
+|length = 
+|wingspan = 
+|mortality = [[Mortality|Mortal]]
+|distinction = *Typically wear long robes and pointed hats
+*Carry [[wand]]s and [[broomstick]]s
+*Possess and capable of using [[magic]]
+*Generally abstain from using modern [[technology]]
+|affiliation = *[[Muggle-born]]s
+*[[Half-blood]]s
+*[[Pure-blood]]s
+*[[Wizarding world]]
+|class = [[Being]]s
+|status = Extant
+}}
+{{Quote|Wizards represent all that the true '[[Non-magic people|Muggle]]' most fears: They are plainly outcasts and comfortable with being so. Nothing is more unnerving to the truly conventional than the unashamed misfit!|[[J. K. Rowling]]'s overview of Wizardkind}}
+'''[[Wizardkind]]'''<ref name="COS6">{{COS|B|6}}</ref><ref name="OOTP6">{{OOTP|B|6}}</ref><ref name="OOTP12">{{OOTP|B|12}}</ref><ref name="OOTP27">{{OOTP|B|27}}</ref> are [[human]]s that are born with the ability to perform [[magic]]. An individual male human with magical ability is known as a '''wizard''' (plural: '''wizards'''), and an individual female human with magical ability is known as a '''witch''' (plural: '''witches'''), though "wizard" is sometimes used as a gender-neutral singular noun like "man". There are three statues of wizardkind, [[Pure-blood]], [[Half-Blood]] and [[Muggle-borns]] and they are relative to [[Squib]]s and [[Non-magic people|Muggles]].
+
+It is said that most of the greatest wizards do not have an ounce of logic, suggesting their complete reliance of powerful magic led them to neglect other aspects of their mind.<ref name="PS16">{{PS|B|16}}</ref>
+
+==Origins==
+The origins of wizardkind are unknown. Whether, in ancient times, some humans randomly discovered they had magic, or there was some sort of ritual or potion or pact, their origins remain a mystery. However, if it was the first, then some Muggle-borns may not be the descendants of Squibs (as is most often theorised) but entirely new wizards, like the very first members of wizardkind.
+
+==Performing magic==
+In childhood, wizards and witches may exhibit [[Underage magic|random bursts of magic]], called accidental magic, which are honed and controlled as they progress to maturity.<ref name="PS"/><ref name="POA"/>
+
+To perform controlled magic, almost all wizards/witches need to use a [[wand]], although the skill of [[wandless magic]] may be mastered in later life. A few highly advanced wizards can do controlled magical acts [[Wandless magic|without a wand]], such as [[Albus Dumbledore]], who demonstrated the ability at the close of [[Harry Potter]]'s first year at [[Hogwarts School of Witchcraft and Wizardry]],<ref name="PS">{{PS}}</ref> and [[Tom Riddle|Lord Voldemort]], who once demonstrated this ability during the [[Battle of the Seven Potters]] in 1997.<ref name="DH">{{DH}}</ref>
+
+==Heredity==
+{{Main|Blood status}}
+{{Quote|Most wizards these days are half-blood anyway. If we hadn’t married Muggles we’d’ve died out.|Ron Weasley discussing [[Blood status|blood purity]]|Harry Potter and the Chamber of Secrets}}
+[[File:Trio ootp 2007 2.jpg|250px|thumb|left|The trio (left to right): [[Ronald Weasley|Ron Weasley]]: pure-blood; [[Harry Potter]]: half-blood; [[Hermione Granger]]: Muggle-born]] 
+Magical ability is an [[Magic genes|inherited trait]] usually passed from parent to child. Wizards and witches are classified by [[blood status]].<ref name="PM">{{PM}}</ref>
+
+[[Pure-blood]]s are born of two wizarding parents and at the very least, four wizarding grandparents. However, many believe a pure-blood family tree should have no Muggle ancestors despite the fact that every family tree has at least one Muggle ancestor by the [[1990s]].<ref name="PM"/>
+
+[[Half-blood]]s are mainly born of one wizard and one Muggle or [[Muggle-born]] parent.<ref name="PM"/>
+
+Muggle-born wizards and witches are distantly descended from a [[Squib]] who had married into a [[Non-magic people|Muggle]] family. The magical gene resurfaces many years later in a Muggle-born descendant when that branch of the wizarding family has usually lost all traces of its wizarding legacy.<ref name="PM"/>
+
+==Physiology==
+The physiology of wizards is subtly different from that of non-wizards. As such, wizards would react differently to the effects of contact with a magical creature, such as being attacked by a [[murtlap]].<ref name="FBS">{{FB|S}}</ref> Wizards also by nature could not be fooled by certain types of magic or magical barriers. It was, for example, possible to hide certain magic from Muggles via [[Muggle-Repelling Charm]]s, which naturally would have no effect on wizards.<ref name="DH15">{{DH|B|15}}</ref>
+
+Wizards have the power to cure 'mundane' illnesses and injuries, and contact with non-magical creatures that Muggles cannot. However, they can struggle to repair any damage caused by magical means such as the [[Memory Charm]] and [[Unforgivable Curses]].<ref name="illness">{{WW|illness-and-disability}}</ref>
+
+Despite their science and living conditions being almost Medieval, wizards are, ironically, probably healthier than Muggles, presumably due to their inherent magic protecting them from most mundane illnesses.<ref name="illness"/>
+
+===Life span===
+{{see also|List of oldest wizards}}
+Wizard life expectancy in [[Great Britain|Britain]] reached an average 137¾ years in the mid-[[1990s]], according to the [[Ministry of Divine Health]],<ref>{{MHP}} - {{see image|File:DailyProphetMakingOfHP1.jpg}}.</ref> although [[Barry Winkle|the oldest wizard on record]] reached the age of 755 in late [[1991]];<ref name="PSf">{{PS|F}} - {{see image|File:DPpropPSback.jpg}}.</ref> wizards in general have a much longer life expectancy than [[Non-magic people|Muggles]],<ref>[http://www.accio-quote.org/articles/2000/1000-scholastic-chat.htm J. K. Rowling interview with Scholastic]</ref> usually living two or three times as long as their non magical counterparts, some living even longer than that depending on circumstances.
+
+===Physical appearance===
+Most wizards look no different from Muggles, although some wizards bear unusual physical characteristics. [[Rolanda Hooch]], for instance, had yellow eyes.<ref name="PS"/> This is consistent with some magic being shown to affect bodily appearance, especially the eyes (as, for instance, [[Tom Riddle]]'s eyes turned bright red after his constant use of the [[Dark Arts]]).<ref name="HBP"/> In other cases, this may simply be a cosmetic application of [[Human Transfiguration|self-transfiguration]] or [[charm]] work to alter the colour of one's eyes or hair to reflect the wizard's personal preferences.
+
+==Sub-types==
+{{Quote|I am a wizard, not a baboon brandishing a [[Wand|stick]].|[[Filius Flitwick]] sets [[Seamus Finnigan]] lines|Harry Potter and the Half-Blood Prince}}Some wizards exhibit special inborn (or acquired) attributes which mark them as unique amongst their kind. They are listed as follows:
+===Inborn Attributes===
+These often hereditary traits mark subdivisions within wizardkind.
+
+====Seers====
+{{Main|Seer}}[[File:Trelawney first prophecy.jpg|250px|thumb|[[Sybill Trelawney]] is a Seer and Professor of [[Divination]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]]]
+Some wizards are born with abilities beyond those of the average wizard. Seers, for example, have the skill of insight into future events. They may garner this insight through visions and dreams or through scrying physical objects like tea dregs, tarot cards, and crystal balls. Some seers include Sybill Trelawney and her ancestor Cassandra.<ref name="POA">{{POA}}</ref><ref name="OOTP">{{OOTP}}</ref>
+====Metamorphmagi====
+{{Main|Metamorphmagus}}[[File:Tonks morph.gif|frame|[[Nymphadora Tonks]] changing her appearance at will]]
+Other wizards may have the ability to change only their physical appearance rather than their bodily form. This type of wizard is termed a Metamorphmagus. Such a wizard can change the shape of their noses, hair colour, and other physical attributes. Nymphadora Tonks and [[Edward Lupin|Teddy Lupin]] were known Metamorphmagi.<ref name="OOTP"/><ref name="PM"/>
+
+====Parselmouths (and other animal communication)====
+{{Main|Communicating with animals}}[[File:Speaking Parseltongue.gif|250px|thumb|Harry unknowingly speaking parseltongue to a snake at the [[Zoo]]]]
+
+Some wizards and witches have the ability to talk to animals. For instance, a [[Parseltongue|Parselmouth]] can speak to [[snake]]s. This ability is extremely rare. [[Salazar Slytherin]] was an infamous Parselmouth,<ref name="COS">{{COS}}</ref> and [[House of Gaunt|his descendants]],<ref name="HBP">{{HBP}}</ref> such as Lord Voldemort, inherited this trait. [[Harry Potter]] also acquired this ability when part of Voldemort's [[soul]] bonded with him the night he tried to kill Harry.<ref name="DH"/>
+
+[[Rubeus Hagrid]] has demonstrated an uncanny ability to communicate and bond with all kinds of animals,<ref name="PS"/><ref name="COS"/> though this may not be a true magical trait but merely a gift, a mere knack at interpreting animal behaviour, that some Muggles show. [[Animagus|Animagi]] have also demonstrated being able to subtly influence animals while assuming their animal forms.<ref name="POA"/>
+
+====Maledictuses====
+{{Main|Maledictus}}[[File:Nagini human.jpeg|thumb|Nagini, prior to succumbing to her blood malediction]]
+Some witches are the carriers of a [[Blood malediction|blood curse]], one that would eventually lead them turning into a [[beast]] permanently.<ref>[https://www.pottermore.com/features/everything-you-need-to-know-about-nagini Everything you need to know about Nagini] at {{PM}}</ref> The curse is carried from birth and is passed down from parents to children. The beast form of a Maledictus individuals depends on the individual curse cast.<ref>[https://twitter.com/jk_rowling/status/1044585525196144642 @gabifcr: Is always a snake? @jk_rowling: No, they can be other creatures. Depends on the curse.] by [https://twitter.com/jk_rowling J.K. Rowling on Twitter]</ref>
+
+====Half-Veela====
+{{Main|Half-Veela}}[[File:REB_FLEUR_VEELA.jpg|thumb|left|Fleur Delacour, a quarter-Veela]]
+Veela have been known to marry wizards, and wizarding children of these unions are [[Half-Veela]], and they will inherit magical ability from their wizarding parent, as well as the beauty, charm, and seductive dance from their Veela parent. Veela traits seem to persist for at least a few generations (examples being [[Apolline Delacour]], and her daughters [[Fleur Delacour|Fleur]], and [[Gabrielle Delacour|Gabrielle]]). It is unknown whether half-blooded Veela can throw [[fire]] or transform into [[harpy]]-like creatures as their full-blooded relatives can.<ref name="GOF">{{GOF}}</ref>
+
+====Late-bloomers====
+{{Main|Late-bloomer}}There exist some individuals that continue to exhibit a lack of magical power past age 11 and yet spontaneously — in desperate circumstances — manage to perform magic later on in life. However, this is rare, possibly more so than squibs.<ref name="late-bloomers">[http://www.accio-quote.org/articles/1999/0399-barnesandnoble.html#magic Accio Quote - J.K. Rowling's 1999 Barnes and Noble Interview]</ref>
+===Acquired Traits===
+
+====Animagi====
+{{Main|Animagus}}[[File:1mcgonagall.gif|250px|thumb|[[Minerva McGonagall]], a registered Animagus with the form of a [[cat]]]]
+
+While some wizards have the ability to turn into animals, it is not an inherent power, but rather a trained technique. This type of wizard is called an Animagus (plural '''Animagi'''). [[Babbitty Rabbity|Babbitty Rabitty]] was said to be an Animagus with the ability to transform into a rabbit. [[Minerva McGonagall]] was an Animagus who could turn into a [[cat]].<ref name="PS"/><ref name="POA"/> The first recorded Animagus was [[Falco Aesalon]], who could turn into a [[falcon]].<ref name="POAG">{{POA|G}}</ref>
+
+The Animagi have to register themselves at the [[British Ministry of Magic|Ministry of Magic]], because human Transfiguration can go horribly wrong. However, there are some unregistered Animagi. Examples are [[James Potter I|James Potter]], who turned into a large red Stag; [[Sirius Black]], who turned into a large black [[dog]]; [[Peter Pettigrew]], who turned into a small grey rat;<ref name="POA"/> and [[Rita Skeeter]], who could turn into a [[beetle]] to gather information for her articles.<ref name="GOF"/> In the case of the first three, they turned into Animagi to assist [[Remus Lupin]] to transform into a [[werewolf]] in a place where there are no humans. Peter also turned into a [[rat]] to convince people that Sirius killed him, while masquerading as "Scabbers", [[Percy Weasley]]'s and [[Ronald Weasley]]'s former pet.<ref name="POA"/>
+
+====Werewolves====
+{{Main|Werewolf}}[[File:RemusLupin WB F3 Concept of Lupin In Forest As A Werewolf Illustration.jpg|thumb|Remus Lupin, in his werewolf form]]
+Some wizards are permanently infected with [[lycanthropy]] (also known as werewolfry)<ref name="PAF">{{POA|F}}</ref> when bitten by a werewolf, which forces the infected wizard to become a fearsome and deadly near-[[wolf]] upon the complete rising of the [[Wolf Moon|full moon]]. Werewolves appear in the form of a [[wolf]] but, there are distinctions between them and regular wolves.<ref name="POA"/>
+
+====Legilimens====
+[[File:Tumblr mv0xoiWzPj1qeijvdo1 250.gif|250px|thumb|Lord Voldemort using Legilimency on Harry Potter]]
+
+Legilimens are wizards who can perform [[Legilimency]]. These wizards can tune into other people's minds, but have difficulty reading the minds of those people who can perform [[Occlumency]]. The act of Legilimens is referred to as "[[mind-reading]]" in the [[Non-magic people|Muggle]] world.<ref name="OOTP"/> It is also possible to be born as a Legilimens, as [[Queenie Goldstein]] was noted to be a natural at the skill.<ref name="FBS"/>
+
+====Occlumens====
+Some wizards have the ability to protect their minds from others who can perform [[Legilimency]]. This ability is called [[Occlumency]]. [[Severus Snape]] tried teaching Occlumency to [[Harry Potter]] during Harry's [[fifth year]] in [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="OOTP"/>
+
+====Obscurials====
+{{Main|Obscurial}}[[File:Obscurial.gif|thumb|Credence transforming into his Obscurus form]]
+An Obscurial is a witch or wizard who, due to being raised in an environment where their magic is viewed negatively, develops an Obscurus; a [[Dark Arts|dark]] parasitic force resulting from their own magic being suppressed and tainted by negative emotion. Obscurials hardly ever live beyond the age of ten, the only verified case being that of [[Credence Barebone]].<ref name="FBS"/>
+
+Due to the extensive time spent suppressed, their magic, when unleashed as an Obscurus, can perform feats far more powerful than that of the average witch or wizard (indeed, the power of [[Credence Barebone|Credence]]'s Obscurus impressed even [[Gellert Grindelwald]]), though usually only for short spans of time, as the user's death often follows soon after. At this point, the magic is in the control of the Obscurus itself, and cannot be directed by the Obscurial's will.<ref name="FBS" />
+
+==Society==
+{{main|Wizarding world}}[[File:Wands_of_Hogwarts'_students_and_staff_04.JPG|250px|thumb|left|Wizards and witches raising their wands in a salute]]
+
+As decreed by the [[International Statute of Wizarding Secrecy]], wizards maintain a society entirely separate from [[Non-magic people|Muggle]] society, with their own culture and traditions.<ref name="PS"/> Wizards populate areas all over the globe. At the [[1994 Quidditch World Cup]], over 100,000 wizards were in attendance.<ref name="GOF"/> At [[Hogwarts School of Witchcraft and Wizardry]], there are several hundred students in residence at any given time. About 30 million wizards attended [[Barry Winkle]]'s 755th birthday party in [[1991]].<ref name="PSF">{{PS|F}}</ref>
+
+It is not clear how many witches and wizards are in the entire world, but some hints are given. It is stated that there are ten times more Muggles than wizards in the world. If the global Muggle population was about 5 billion in the 1990s, it would mean that the wizard population was 500 million. However, it is also said that the British wizard population is about 3,000, one third being Hogwarts students. This would indicate a very low birth rate (although wizarding families are big, they live more than their Muggle counterparts) and mean that other countries are much more populous than Britain or that there is somewhere in the world where a very large concentration of wizards occur (one much larger than Britain's). In all likelihood, however, the former is a dramatic overestimate, the latter something of an underestimate.
+
+[[File:Hogsmeade High St.jpg|250px|thumb|Hogsmeade village]]
+
+Wizards may live together in communities such as [[Godric's Hollow]]<ref name="DH"/> or [[Hogsmeade]].<ref name="POA"/> Other wizards live in solitary locations such as [[Spinner's End]]<ref name="HBP"/> or [[12 Grimmauld Place]].<ref name="OOTP"/> The first wizarding communities are said to have come up in [[India]]<ref name="PM"/> and the Middle East. More sophisticated communities would come up in Western Europe during the Middle Ages. Most wizards maintain little if no contact with Muggle society and find Muggles strange and unpleasant. They are somewhat ignorant to the Muggle world but in a different manner than Muggles as of the Wizarding World. While Muggles are completely unaware of wizards, wizards appear to be ignorant of certain aspects of the Muggle world, such as electricity and other modern technologies that become redundant and, at times, non-sensical when one is able to use magic. While certain aspects of Muggle society are evident in the wizarding one, wizards seem to be a number of decades if not centuries behind Muggles in other areas. In addition, wizards are sometimes just as progressive, if not more, on certain issues than their Muggle counterparts, such as women's rights.<ref name="PM"/>
+
+Some wizards do not like to talk about their Muggle relatives, or even deny their existence altogether. Other wizards, such as [[Tom Riddle|Lord Voldemort]], have even killed some of their Muggle relatives altogether.<ref name="HBP"/> Other wizards, like [[Arthur Weasley]] find Muggles to be highly intriguing and ingenious.<ref name="COS"/> [[Hermione Granger]], a [[Muggle-born]] witch, took up [[Muggle Studies]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] because she felt it would be fascinating to think about Muggles from a wizarding perspective.<ref name="POA"/>
+
+[[Non-magic people|Muggles]] who perform illusions or tricks to make it look as real magic is known as a [[magician]]. A true wizard being called magician is a grave insult to them, as [[Vernon Dursley]] did to [[James Potter I]].<ref name="PM">{{PM}}</ref>
+
+==See also==
+*[[Wizarding world]]
+*[[Blood status]]
+*[[Half-breed]]
+*[[Dark Wizard]]
+*[[Non-magic people]]
+*[[Squib]]
+*[[Chocolate Frog Card]]s
+
+==Behind the scenes==
+*Wizards are mentioned to be male members of wizardkind, while witches are mentioned to be female members. This is technically incorrect, as the male version of a witch is called a warlock.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{GOF|G}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}}
+*{{HBP|F}}
+*{{HBP|G}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{CC}}
+*{{CC|P}}
+*{{QTA|R}}
+*{{FB|R}}
+*{{FB|S}}
+*{{FB|F}}
+*{{COG|S}}
+*{{COG}}
+*{{FB3}}
+*{{FBC}}
+*{{TBB|R}}
+*{{QTA}}
+*{{HPPU}}
+*{{LEGO|C1}}
+*{{LEGO|C2}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO|C1}}
+*{{LEGO|C2}}
+*{{QH}}
+*{{QWC}}
+*{{HPK}}
+*{{WWHP}}
+*{{DH|ME}}
+*{{LEGO}}
+*{{TCG}}
+*{{PM}}
+*{{WW}}
+*''[[Untitled charity auction story|Harry Potter Prequel]]''
+*{{HPK}}
+*{{WBS}}
+*{{WBP}}
+*{{HPV|CH}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*{{MA}}
+*{{PAS}}
+*{{HL}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Zauberer]]
+[[de2:Zaubererschaft]]
+[[es:Magos y brujas]]
+[[fr:Sorcier]] 
+[[ja:魔女]]
+[[pl:Czarodziej]]
+[[ru:Маг]]
+[[Category:Wizards]]

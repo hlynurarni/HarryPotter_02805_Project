@@ -1,0 +1,44 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Band at Bill Weasley and Fleur Delacour's wedding
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Musicians
+|house = 
+|loyalty = 
+}}
+A '''band''' wearing golden jackets played music at the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]] at [[the Burrow]] on [[1 August]], [[1997]].
+
+==History==
+Before the ceremony began, they smoked pipes under a tree near the tent with the [[Waiters at Bill Weasley and Fleur Delacour's wedding|waiters]]. Once the reception started, the band moved to the podium, and played music for the guests to dance to.<ref name="DH8">{{DH|B|8}}</ref> After everyone at the wedding was informed of the [[Fall of the Ministry of Magic|Fall]] of the [[British Ministry of Magic]] by the [[Lynx]] [[Patronus Charm|Patronus]] of [[Kingsley Shacklebolt]], they presumably fled the Wedding following the [[Attack at the Burrow|arrival]] of [[Death Eaters]].<ref name="DH9">{{DH|B|9}}</ref>
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Musical groups]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = st-mungo-employee
+|image = 
+|name = Hippocrates Smethwyck
+|born = before [[1977]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = Healer-in-charge
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Elliot Smethwyck]] (possibly)
+*[[Leopoldina Smethwyck]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]
+|house = 
+|loyalty = *[[St Mungo's Hospital for Magical Maladies and Injuries]]
+*[[Smethwyck family]]
+}}
+'''Hippocrates Smethwyck''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and [[Healer]] at [[St Mungo's Hospital for Magical Maladies and Injuries]]. He was the healer-in-charge of the 'Dangerous' Dai Llewellyn Ward.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+==Biography==
+After the [[British Ministry of Magic]] employee [[Arthur Weasley]], was attacked when guarding the [[Department of Mysteries]] by [[Tom Riddle|Lord Voldemort's]] pet [[snake]] [[Nagini]] in the [[18 December]] [[1995]], he was immediately sent to [[St Mungo's Hospital for Magical Maladies and Injuries]] for his injuries to be treated. At some point during his stay, in either late [[1995]] or early [[1996]], he successfully found the [[antidote]] for the highly [[poison]]ous [[Nagini's venom|venom]] which her fangs had infected him with, which healed Arthur Weasley's wounds, fully curing him and allowing him to return home.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+==Magical abilities and skills==
+*'''[[Healing magic]]''': As a professional [[Healer]] employed at [[St Mungo's Hospital for Magical Maladies and Injuries]], Smethwyck was highly accomplished in the art of medical [[magic]], meaning he would have been able to heal his patients with [[healing spell]]s, healing [[potion]]s and other magical remedies. His impressive knowledge of and skill with [[antidote]]s for various [[poison]]s allowed him to find the correct antidote for Arthur Weasley, saving his life from [[Nagini's venom|highly potent snake venom]]. Furthermore, in order to train as a Healer, he would have had [[Nastily Exhausting Wizarding Test|N.E.W.T.s]] in [[Potions (class)|Potions]], [[Herbology]], [[Charms (class)|Charms]], [[Transfiguration (class)|Transfiguration]] and [[Defence Against the Dark Arts]], all at least "[[Exceeds Expectations]]" or "[[Outstanding]]" level.<ref name="OOTP29">{{OOTP|B|29}}</ref>
+
+==Etymology==
+The name "Hippocrates" is the Latinized form of the Greek name ‘Ιπποκρατης (Hippokrates) which meant "horse power", derived from the elements ‘ιππος (hippos) "horse" and κρατος (kratos) "power". This was the name of a 5th-century BC Greek doctor who is known as the Father of Medicine.
+
+==Appearances==
+*{{OOTP}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Smethwyck, Hippocrates}}
+
+{{St Mungo's}}
+
+[[de:Hipokrates Smethwyck]]
+[[es:Hipócrates Smethwyck]]
+[[fr:Hippocrate Smethwyck]]
+[[he:היפוקראטס סמית'וויק]]
+[[pl:Hipokrates Smethwyck]]
+[[pt-br:Hipócrates Smethwyck]]
+[[ru:Гиппократ Сметвик]]
+[[Category:British individuals]]
+[[Category:Healers]]
+[[Category:Males]]
+[[Category:Smethwyck family]]
+[[Category:St Mungo's employees]]
+[[Category:Wizards]]

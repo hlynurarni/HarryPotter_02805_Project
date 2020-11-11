@@ -1,0 +1,45 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Bertha Jorkins' second cousin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Bertha Jorkins]] (second cousin)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+A '''second cousin''' of [[Bertha Jorkins]] lived in [[Albania]]. Bertha visited this person's home on a trip to Albania in [[1994]]. Afterward, she intended to go see an [[Bertha Jorkins' aunt|aunt]] who lived south of the second cousin, but never made it there.<ref>{{GOF|B|24}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Jorkins, Bertha's second cousin}}
+
+[[fr:Cousin de Bertha Jorkins]]
+[[pl:Kuzynka Berty Jorkins]]
+[[Category:Albanian individuals|Jorkins's second cousin]]
+[[Category:Humans|Jorkins's second cousin]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unnamed family members‎|Jorkins's second cousin]]

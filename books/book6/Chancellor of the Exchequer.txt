@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Chancellor of the Exchequer
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = Chancellor
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Chancellor of the Exchequer
+|house = 
+|loyalty = 
+}}
+'''Chancellor of the Exchequer''' is the title held by the British Cabinet minister who is responsible for all economic and financial matters. 
+
+[[Alistair Darling]] was the Chancellor of the Exchequer by [[July]] [[1996]], and had been one of several people who tried unsuccessfully remove the portrait of [[Ulick Gamp]] from the wall in the [[Prime Minister's office]].<ref>{{HBP|B|1}}</ref>
+
+==Behind the scenes==
+*[[:File:TheGuardian.png|A prop version]] of ''[[The Guardian]]'' made for the [[Harry Potter and the Half-Blood Prince (film)|film version]] of ''[[Harry Potter and the Half-Blood Prince|Half-Blood Prince]]'' establishes that Alistair Darling was Chancellor in 1996 rather than 2007-2010, and thus the real-world Chancellors are not be the same as in the ''Harry Potter'' universe.
+
+==Appearances==
+*{{HBP}} {{Mention}}
+*{{HBP|F}} {{Mention}}
+*{{HPLE}} {{Mention|newspaper}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Muggles]]
+[[Category:Politicians]]

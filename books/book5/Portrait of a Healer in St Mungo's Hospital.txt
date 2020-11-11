@@ -1,0 +1,27 @@
+{{Individual infobox
+|theme=portrait
+|name=Portrait of a Healer in St Mungo's Hospital
+|born=[[Middle Ages]]
+|died=[[Middle Ages]]
+|title=[[Healer]]
+|gender=Male
+|species=[[Human]]
+|hidef=1
+|hidem=1
+|job=[[Healer]]
+|loyalty=[[St Mungo's Hospital for Magical Maladies and Injuries]]
+}}
+This '''portrait of a Healer''' was hanging in the fourth floor in [[St Mungo's Hospital for Magical Maladies and Injuries]]. He diagnosed [[Ronald Weasley|Ron Weasley]] with [[Spattergroit]] during a visit to the hospital on [[Christmas]] in [[1995]], given the "unsightly blemishes" on his skin that would leave him uglier than he already was. The portrait suggested that Ron "take the liver of a [[toad]], bind it tight about his throat and stand naked by the full [[moon]] in a barrel of [[Eel eye|eels' eyes]]". Ron took this diagnosis as a great offence, and countered that they were only freckles.<ref>{{OOTP|B|22}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+[[pl:Portret uzdrowiciela w Klinice Magicznych Chorób i Urazów Szpitala Świętego Munga]]
+
+==Notes and references==
+{{Reflist}}
+[[Category:Deceased individuals]]
+[[Category:Healers]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

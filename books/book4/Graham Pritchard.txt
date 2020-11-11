@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Graham Pritchard
+|born = between [[1 September]] [[1982]] and [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Graham Pritchard''' (born c. [[1983]]) was a [[Wizardkind|wizard]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]]. He was [[Sorting ceremony|sorted]] into [[Slytherin]] [[Hogwarts Houses|House]].<ref>{{GOF|B|12}}</ref>
+
+==Etymology==
+Graham was originally a Scottish last name that meant "grey home" or "gravel homestead." Pritchard is Welsh and derived from Richard, a Germanic name meaning "brave power" and a popular name in Wales before the 15th century.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Pritchard, Graham}}
+[[de:Graham Pritchard]]
+[[fr:Graham Pritchard]]
+[[pl:Graham Pritchard]]
+[[ru:Грэхэм Причард]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

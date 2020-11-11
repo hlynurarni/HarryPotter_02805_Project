@@ -1,0 +1,54 @@
+{{Youmay|the guard|[[Marius Black]]}}
+{{Individual infobox
+|theme = gringotts
+|image = [[File:DeathlyHallowsChapter26Colour.png|250px]]
+|name = Marius
+|born = 
+|died = 
+|blood = [[Magic]]al to unknown extent
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Guard at [[Gringotts Wizarding Bank]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+'''Marius''' was a [[Wizardkind|wizard]] who was assigned to [[Gringotts Guards|guard the entrance]] of [[Gringotts Wizarding Bank]] in [[1998]] during the [[Death Eaters]]' reign over the [[wizarding world]]. He and [[Unidentified Gringotts guard (I)|another guard]] used [[Probity Probe]]s to search anyone attempting to enter. Both guards were [[Confundus Charm|Confunded]] by [[Harry Potter]] on [[1 May]], [[1998]] when he and his friends [[Break-in of Gringotts Wizarding Bank (1998)|broke into the bank]] to steal one of [[Tom Riddle|Voldemort]]'s [[Horcrux]]es from the [[Lestrange Vault]].<ref>{{DH|B|26}}</ref>
+
+==Etymology==
+The name "Marius" was a Roman family name which was derived either from Mars, the name of the Roman god of War, or else from the Latin root mas, maris meaning "male". Gaius Marius was a famous Roman consul of the 2nd century BC.
+
+==Appearances==
+*{{DH}}
+*{{DH|F2}} {{Possible}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+
+[[de:Marius]]
+[[es:Marius]]
+[[fr:Marius]]
+[[ru:Мариус]]
+[[pl:Mariusz]]
+[[Category:British individuals]]
+[[Category:Death Eater allies]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Security guards]]
+[[Category:Wizards]]

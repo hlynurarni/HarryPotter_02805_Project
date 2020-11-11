@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ciceron Harkiss
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Ciceron Harkiss''' was a [[Wizardkind|wizard]], who gave [[Ambrosius Flume]] his first job after an introduction by [[Horace Slughorn]].
+
+==Appearances==
+*{{HBP}} {{Mention}}
+
+==Etymology==
+: "a local guide in Italy," 1726, from Italian cicerone, from Latin Ciceronem, from the name of the great Roman orator.<ref>http://www.etymonline.com/index.php?term=cicerone</ref>
+: "eloquent," a reference to Roman statesman and orator Marcus Tullius Cicero (106-43 B.C.E.); also often known as Tully in early Modern English writers; Cicero being a cognomen of the genus Tullia.<ref>http://www.etymonline.com/index.php?term=Ciceronian&allowed_in_frame=0</ref>
+
+==Notes and references==
+{{Reflist}}
+[[de:Ciceron Harkiss]]
+[[es:Ciceron Harkiss]]
+[[fr:Cicéron Harkiss]]
+[[nl:Clemens Leidsman]]
+[[ru:Цицерон Харкисс]]
+[[pl:Cyceron Harkiss]]
+{{DEFAULTSORT:Harkiss, Ciceron}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

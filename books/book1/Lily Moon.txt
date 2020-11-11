@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Lily Moon
+|born = [[2 September]], [[1979]] - [[1 September]], [[1980]]<ref>Lily has to have been born during these dates, otherwise she would be too old, if born before, or too young, if born after, to be starting Hogwarts in 1991.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Dennis Moon]] (possible relative)
+*[[Leonard Spencer-Moon]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]], [[Hufflepuff]], or [[Slytherin]]<ref name=house>J. K. Rowling's original list of forty students contains five males and five females from each house. As all five Ravenclaw females are known, the remaining females whose houses are unknown must be in one of the other three houses.</ref>
+|loyalty = *[[Moon family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{quote|‘Moon’ … ‘Nott’ … ‘Parkinson’ … then a pair of twin girls, ‘Patil’ and ‘Patil’ … then ‘Perks, Sally-Anne’ … and then, at last –|Harry waiting for his name to be called.|Harry Potter and the Philosopher's Stone}}
+'''Lily Moon''' (c. [[1979]]-[[1980]]) was a witch who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]] and was Sorted into either [[Gryffindor]], [[Hufflepuff]], or [[Slytherin]].<ref name="PS7">{{PS|B|7}}</ref><ref name=house />
+
+==Behind the scenes==
+*Only Lily's surname was revealed during the [[Sorting ceremony]] in {{PS}}, but on the student list shown on {{HPM}}, the first three letters of her first name could be made out as either "Lil-" or "Lib-". Her full first name was finally revealed by [[J. K. Rowling]] as supplementary content on the {{PM}} website.<ref name="pottermore">{{PM}} (transcription available [http://lady-slytherin-forever.tumblr.com/post/8979923935/the-original-forty-off-pottermore here])</ref> According to Rowling, this character was named before she settled on the name of [[Harry Potter]]'s [[Lily J. Potter|mother]], and was the "first intimation of [[Luna Lovegood]]," giving her the idea for a "fey, dreamy girl."<ref name="pottermore" />
+*During a practical examination, for their [[Ordinary Wizarding Level|O.W.L.s]], Lily was not called to take her test. She would usually appear after [[Draco Malfoy]] but before [[Theodore Nott]]. This could just be a mistake of [[J. K. Rowling]]'s, or Lily may have been unable to attend her test. It is possible that she had failed her exams at a point between first and fourth year, forcing her to repeat the year.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{HPM}} {{Mention}}
+*{{PM}} {{1st ID}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Moon, Lily}}
+[[de:Lily Moon]]
+[[fr:Lily Moon]]
+[[ru:Лили Мун]]
+[[pl:Lily Moon]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Moon family]]
+[[Category:Sorted in 1991]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

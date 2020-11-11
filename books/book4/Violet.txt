@@ -1,0 +1,61 @@
+{{Youmay|the portrait|[[Violet (disambiguation)|a different Violet]]}}
+{{Individual infobox
+|theme=portrait
+|image=[[File:Violet.png|250px]]
+|name=Violet
+|hideb=
+|born=
+|died=Before [[1994]]<ref name="EBF">[http://www.accio-quote.org/articles/2004/0804-ebf.htm J.K. Rowling at the Edinburgh Book Festival (15 August, 2004)]</ref>
+|blood=
+|alias=Vi<ref name="GOF23"/>
+|title=
+|hidep=
+|species=[[Human]]<ref name="GOF17"/>
+|gender=Female<ref name="GOF17"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF17"/>
+}}
+{{Quote|I really must pay Violet a visit...|The Fat Lady talking about visiting her friend|Harry Potter and the Half-Blood Prince (video game)}}
+
+'''Violet''' was a [[Wizardkind|witch]] in who had a [[portrait]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="GOF17"/>
+
+==Biography==
+Her [[portrait]] hung in a small chamber off of the [[Great Hall]]. Because of this, she witnessed when [[Harry Potter]] and the other [[Triwizard Tournament]] participants were given the information about the tournament. She was friends with the [[Fat Lady]] and is known to go to her painting as well as going other places to find things to gossip about.<ref name="GOF17">{{GOF|B|17}}</ref> Violet and the Fat Lady were known to drink too much on special occasions such as [[Christmas]].<ref name="GOF23">{{GOF|B|23}}</ref> She also gave [[William Weasley|Bill Weasley]] a wink during the Triwizard Tournament.<ref name="GOF31">{{GOF|B|31}}</ref>
+
+==Behind the scenes==
+*It is possible this is [[Violet Tillyman]].
+
+==Etymology==
+The name "Violet" comes from the English word violet for the purple flower, ultimately derived from Latin viola. It was common in Scotland from the 16th century, and it came into general use as an English given name during the 19th century.
+
+==Appearances==
+*{{GOF}} {{1st}} {{Portrait}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{HBP|G}} {{Mention}}
+*{{PM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+[[de:Violet]]
+[[fr:Violette]]
+[[pl:Violet]]
+[[ru:Виолетт]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Portraits]]
+[[Category:Wizards]]

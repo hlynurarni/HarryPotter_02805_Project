@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Veronica Smethley
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COS7"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COS7"/>
+|gender = Female<ref name="COS7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Gilderoy Lockhart]]<ref name="COS7"/>
+}}
+{{Quote|Harry moved his aching hand over what felt like the thousandth envelope, writing out Veronica Smethley's address.|Description.|Harry Potter and the Chamber of Secrets}}
+'''Veronica Smethley''' was a [[wizardkind|witch]], who was a fan of [[Gilderoy Lockhart]]. She wrote to him at least once, in the early [[1990s]].<ref name="COS7"/>
+
+During the course of a detention in the [[1992-1993 school year]], while Lockhart was the [[Defence Against the Dark Arts]] professor at [[Hogwarts School of Witchcraft and Wizardry]], [[Harry Potter]] was tasked with helping him answer his fan mail. As he was writing out Veronica Smethley's address on an envelope, he heard a [[Serpent of Slytherin|disembodied voice]] calling "''Come… come to me… Let me rip you… Let me tear you… Let me kill you…''". Lockhart did not hear the voice, but Harry gave a huge jump on his seat and smeared a large lilac blot across the envelope and it covered her street name.<ref name="COS7">{{COS|B|7}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Smethley, Veronica}}
+[[de:Veronica Smethley]]
+[[fr:Veronica Smethley]]
+[[it:Veronica Smethley]]
+[[pl:Weronika Smethley]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Gilderoy Lockhart's fans]]
+[[Category:Wizards]]

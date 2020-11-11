@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Laura Madley
+|born = between [[1 September]] [[1982]] and [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry|Hogwarts School of Witchcraft and Wizardy]]
+**[[Hufflepuff]]
+}}
+'''Laura Madley''' (born c. [[1983]]) was a [[Wizardkind|witch]] that started attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]], and was [[Sorting ceremony|sorted]] into [[Hufflepuff]].<ref>{{GOF|B|12}}</ref> Laura would share a dormitory with [[Eleanor Branstone]] who was also sorted into Hufflepuff that year.
+
+==Etymology==
+Laura is the feminine form of the Late Latin name ''Laurus'', which meant "laurel". This name was favourable, because in ancient Rome the leaves of laurel trees were used to create victors' garlands.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Madley, Laura}}
+[[de:Laura Madley]]
+[[fr:Laura Madley]]
+[[no:Laura Mandelblom]]
+[[pl:Laura Madley]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

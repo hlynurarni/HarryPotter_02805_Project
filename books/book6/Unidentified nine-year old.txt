@@ -1,0 +1,42 @@
+{{Conjecture}}
+{{Individual infobox
+|image=
+|theme=individual
+|name=Nine-year old boy
+|hideb=
+|born=c. [[1988]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="HBP21"/>
+|gender=Male<ref name="HBP21"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Unidentified nine-year old's grandparents|Grandparents]]<ref name="HBP21"/>
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+In [[1997]], the [[Daily Prophet]] reported that a '''nine-year old boy''' had tried to kill his [[Unidentified nine-year old's grandparents|grandparents]]; he was believed to have acted under the influence of an [[Imperius Curse]].<ref name="HBP21">{{HBP|B|21}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Garçon de neuf ans]]
+[[Category:Humans|Nine-year old]]
+[[Category:Imperius Curse victims|Nine-year old]]
+[[Category:Males|Nine-year old]]
+[[Category:Unidentified individuals|Nine-year old]]

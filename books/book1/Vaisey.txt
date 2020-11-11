@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:Vaisey.jpg|250px]]
+|name = Vaisey
+|born = [[31 August]] [[1984]] or earlier<ref>He must have at least been in his [[second year]] in [[1996]].</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *Vaisey family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin Quidditch team]]
+**[[Slytherin]]
+}}
+'''Vaisey''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] and who [[Sorting ceremony|sorted]] into the [[Slytherin]] house. He played [[Chaser]] for the [[Slytherin Quidditch team]] during the [[1996–1997 school year]]. The day before Slytherin's match against Gryffindor, Vaisey was hit in the head by a [[bludger]] and was unable to play.<ref>{{HBP|B|14}}</ref>
+
+==Behind the scenes==
+*In the [[Harry Potter and the Half-Blood Prince (film)|film adaption]], Vaisey is only seen during the [[Quidditch]] match (the first Slytherin who tries to score a goal by hitting the [[Quaffle]] into the hoop).<ref>{{HBP|F}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+*{{HBP|G}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+
+[[fr:Vaisey]]
+[[pl:Vaisey]]
+[[de:Vaisey]]
+[[es:Vaisey]]
+[[nl:Valom]]
+[[ru:Вэйси]]
+[[zh:瓦赛]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

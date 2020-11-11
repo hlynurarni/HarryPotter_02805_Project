@@ -1,0 +1,86 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = 
+|name = Dilys Derwent
+|born = Pre [[1705]]<ref name="OP22">{{OOTP|B|22}}</ref> {{c|most likely}}
+|died = [[1768]]<ref name="OP22" />
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = *[[Healer]]<ref name="OP22" />
+*[[Professor]]<ref name="OP22" />
+*[[Headmaster|Headmistress]]<ref name="OP22" />
+|signature = 
+|species = [[Human]]<ref name="OP22" />
+|gender = Female<ref name="OP22" />
+|height = 
+|weight = 
+|hair = Silver<ref name="OP22" />
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Healer]]<ref name="OP22" />
+*[[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]<ref name="OP22" />
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OP22" />
+*[[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OP22" />
+}}
+'''Professor Dilys Derwent''' (d. [[1768]]<ref name="OP22"/>) was a [[Wizardkind|witch]] who worked as a [[Healer]] at [[St Mungo's Hospital for Magical Maladies and Injuries]] and was a celebrated [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]]. Her [[portrait]] hangs not only in the [[Headmaster's office|Headmaster's Office]] along with the [[Headmaster portraits|portraits of previous headmasters and headmistresses]], but also in [[St Mungo's Hospital for Magical Maladies and Injuries]]' main admitting area.<ref name="OP22" />
+
+==Biography==
+===As a Healer and Headmistress===
+Derwent started working at [[St Mungo's Hospital for Magical Maladies and Injuries]] in [[1722]].
+
+Derwent left the job in [[1741]] and became the [[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry]] that same year. She proved very popular among students and teachers, gaining her the status of one of the "most celebrated [[Headmaster|Heads]]" among Dumbledore and Everard. She died in the post in 1768.<ref name="OP22" />
+
+===Post-mortem===
+When [[Arthur Weasley]] was attacked by Voldemort's snake [[Nagini]] in the [[Department of Mysteries]] in late [[1995]], [[Albus Dumbledore]], then-[[Headmaster]], asked Derwent to go to her portrait at [[St Mungo's Hospital for Magical Maladies and Injuries]]'s main admitting area in order to keep Dumbledore apprised on Mr Weasley's condition.<ref name="OP22" />
+
+When [[Harry Potter]] went to the [[Headmaster's office]], shortly after [[Tom Riddle|Lord Voldemort]]'s defeat and the end of the [[Second Wizarding War]], Dilys Derwent joined the ovation made by the previous Hogwarts Headmasters, sobbing unashamedly.<ref name="DH36">{{DH|B|36}}</ref>
+
+==Etymology==
+The name "Dilys" means "genuine" in Welsh. Derwent may be from the name of an English lake in Cumbria, in the Lake District called "Derwent Water".
+
+==Appearances==
+*{{OOTP}} {{Portrait}}
+*{{DH}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Derwent, Dilys}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Vindictus Viridian]]
+|position=[[Headmaster|Headmistress]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1741]]-[[1768]]
+|successor=Unknown, eventually [[Eupraxia Mole]]
+}}
+{{End box}}
+
+{{Staff}}
+{{Hogwarts towers}}
+{{St Mungo's}}
+
+[[de: Dilys Derwent]]
+[[es:Dilys Derwent]]
+[[fr:Dilys Derwent]]
+[[pl:Dilys Derwent]]
+[[ru:Дайлис Дервент]]
+[[pt-br:Dilys Derwent]]
+[[Category:1768 deaths]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Healers]]
+[[Category:Historical figures|Derwent]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Portraits]]
+[[Category:St Mungo's employees]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=giant
+|image=
+|name=Karkus's wife
+|hideb=1
+|born=
+|died=
+|blood=
+|marital=Widowed
+|alias=
+|title=
+|hidep=
+|species=[[Giant]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Karkus]] (husband)
+|hidea=1
+|job=
+|loyalty=
+}}
+'''Karkus's wife''' was a [[giant]]ess who lived in the last remaining [[Giant colony|colony of giants]] in [[Europe]]. As of [[1995]], [[Karkus|her husband]] was the [[Gurg]] of the colony, who regularly demanded the other giants to bring food for the two of them. However, that year Karkus was killed by [[Golgomath]], who took over the position as Gurg.<ref>{{OOTP|B|20}}</ref>
+
+It is unknown what happened to Karkus's wife afterwards.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Order of the Phoenix}}
+
+{{Giants}}
+
+[[es:Esposa de Karkus]]
+[[pl:Żona Karkusa]]
+[[Category:Females]]
+[[Category:Giants]]
+[[Category:Order of the Phoenix allies]]
+[[Category:Royalty]]
+[[Category:Unnamed family members]]
+[[Category:Widowed individuals]]

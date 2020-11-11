@@ -1,0 +1,73 @@
+{{Individual infobox
+|theme = st-mungo-employee
+|image = [[File:MungoBonham.png|250px]]
+|name = Mungo Bonham
+|born = [[1560]]
+|died = [[1659]] (aged 98-99)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = Saint
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = Dark
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]
+|house = 
+|loyalty = [[St Mungo's Hospital for Magical Maladies and Injuries]]
+}}
+'''Saint Mungo Bonham''' ([[1560]] – [[1659]]) was a [[Wizardkind|wizard]] and [[Healer]] who founded [[St Mungo's Hospital for Magical Maladies and Injuries]] in the [[1600s]].
+==Behind the scenes==
+*In reality, Saint Mungo is the commonly used name for [[Wikipedia:Saint Mungo|Saint Kentigern]] of the [[Wikipedia:Catholic|Catholic church]] who lived in the sixth century [[Scotland]] and [[England]]. He was also known as a founder of the [[Wikipedia:Glasgow Cathedral|Glasgow Cathedral]]. A Feast day for St Mungo, also known as St Mungo's Day,<ref>'''[http://www.the-leaky-cauldron.org/myleaky/events/503 The-Leaky-Cauldron.org]''': ''St Mungo's Day''</ref> is observed on the [[13 January|13th of January]] every year after he was canonised.
+*Interestingly, Lula Landry, the victim in [[J. K. Rowling|Robert Galbraith]]'s first Cormoran Strike novel ''[[Wikipedia:The Cuckoo's Calling|The Cuckoo's Calling]]'', lives in the fictional Kentigern Gardens, in [[Wikipedia:Mayfair|Mayfair]]. Kentigern, as noted above, in the real name of the real-life Saint Mungo.
+*Mungo also shares part of his name with [[Helena Bonham Carter]], the actress who portrays [[Bellatrix Lestrange]] in the [[Harry Potter (film series)|Harry Potter films]].
+
+==Etymology==
+The name "Mungo" is possibly derived from Welsh ''mwyn'' "gentle, kind". This was a nickname of the 6th-century Saint Kentigern.
+
+The surname "Bonham" is an Anglicisation of the French surname "Bonhomme", which itself is derived from the Old French "bon homme" meaning "good man".
+
+==Appearances==
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{OOTP}} {{Mention}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}} {{Mention}}
+*''[[Wizard of the Month]]''
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bonham, Mungo}}
+
+
+{{St Mungo's}}{{Chocolate Frog Cards}}[[de:Mungo Bonham]]
+[[fi:Mungo Bonham]]
+[[es:Mungo Bonham]]
+[[fr:Mangouste Bonham]]
+[[it:Mungo Bonham]]
+[[pl:Mungo Bonham]]
+[[ru:Мунго Бонам]]
+[[Category:1560 births]]
+[[Category:1659 deaths]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Brown-eyed individuals]]
+[[Category:Healers]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Saints]]
+[[Category:St Mungo's employees]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

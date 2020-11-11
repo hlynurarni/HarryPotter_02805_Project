@@ -1,0 +1,55 @@
+{{Youmay|[[Cormac McLaggen]]'s uncle|[[Tiberius Ogden]]}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Tiberius
+|born = c. [[1970]] or earlier<ref name="age">Slughorn resigned from his teaching position in 1981, meaning Tiberius would have been a member of the Slug Club by at least then.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP7"/>
+|gender = Male<ref name="HBP7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cormac McLaggen]] (nephew)<ref name="HBP7"/>
+*[[Cormac McLaggen's father|Mr McLaggen]] (brother or brother-in-law)<ref name="DHF1">{{DH|F1}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Slug Club]] (formerly)<ref name="HBP7"/>
+*[[British Ministry of Magic]]<ref name="HBP7"/>
+*[[McLaggen family]]<ref name="HBP7"/>
+}}
+'''Tiberius''' (fl. [[1970]]) was a [[Wizardkind|wizard]] and the uncle of [[Cormac McLaggen]]. Tiberius worked at the [[British Ministry of Magic|Ministry of Magic]], and according to [[Draco Malfoy]] was highly influential there. He was close with the [[Minister for Magic]], [[Rufus Scrimgeour]], and would often go hunting [[Nogtail]]s with him and [[Bertie Higgs]]. When he attended [[Hogwarts School of Witchcraft and Wizardry]], he was a member of [[Horace Slughorn]]'s [[Slug Club]].<ref name="HBP7">{{HBP|B|7}}</ref>
+
+==Etymology==
+The name "Tiberius" is a Roman praenomen, or given name, meaning "of the Tiber" in Latin. The Tiber is the river that runs through Rome. Tiberius was the second Roman emperor, the stepson of emperor Augustus. He was a paranoid and sadistic emperor who ordered mass arrests whilst spending most of his time in his palace on the Isle of Capri, engaging in all manners of sexual immorality.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{HBP|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Tiberius]]
+[[es:Tiberius]]
+[[ru:Тиберий Маклагген]]
+[[pl:Tyberiusz]]
+[[fr:Tiberius]]
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:McLaggen family]]
+[[Category:Ministry of Magic employees]]
+[[Category:Slug Club]]
+[[Category:Wizards]]

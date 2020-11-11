@@ -1,0 +1,96 @@
+{{Family infobox
+|image=[[File:NEW-DH-STILLS-harry-potter-16323056-566-600.jpg|250px]] 
+|name=Lovegood family
+|hideh=|blood=[[Pure-blood]] or [[Half-blood]]<ref>Both Xenophilius Lovegood and his wife were magical, their daughter was allowed to attend Hogwarts during the 1997-98 school year, and Xenophilius was not rounded up with other Muggle-borns.</ref>
+|family members=*[[Xenophilius Lovegood]]
+*[[Pandora Lovegood]] †
+*[[Luna Lovegood]]
+|status=Extant in the female line
+|hider=
+|related=[[Scamander family]]
+|hidea=
+|house=[[Ravenclaw]]
+|loyalty=*''[[The Quibbler]]''
+*[[Dumbledore's Army]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+'''Lovegood''' was the surname of a [[Magic|wizarding]] family. They lived in a [[Lovegood House|house]] near [[Ottery St Catchpole]] in [[Devon]], [[England]], and thus close to the [[Weasley family|Weasley]], [[Fawcett family|Fawcett]], and [[Diggory family|Diggory]] families. It is unknown if they were [[pure-blood]] or had [[Non-magic people|Muggle]] as well as wizarding heritage.
+
+The Lovegoods were generally regarded as unusual by mainstream wizarding society, as they tended to hold and espouse belief in things most others do not believe in, often published in the family magazine, ''[[The Quibbler]]''. The Lovegoods are related by marriage to the [[Scamander family]], as [[Luna Lovegood]] married [[Rolf Scamander]] and had two children, [[Lorcan Scamander|Lorcan]] and [[Lysander Scamander|Lysander]], with him.
+
+==Family history==
+The Lovegood family did not become well known until the late 20th century. They were still considered [[Pure-blood|Pure]] or [[Half-Blood]]. They became very well known through their eccentric beliefs and by their role in the [[Second Wizarding War]].
+
+[[Xenophilius Lovegood]] married [[Pandora Lovegood]] sometime before [[1981]], when their daughter and only child, [[Luna Lovegood]], was born. They lived in a [[Lovegood House|house]] which looked like a rook chess piece by [[Ottery St Catchpole]] in [[Devon]]. In about [[1990]], Pandora died when she was hit with one of her own spells. Xenophilius then looked after Luna alone, and she began attending [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1992]] where she was placed in [[Ravenclaw]] house.
+[[File:The Quibbler - 1996.jpg|240x240px|thumb|left|An issue of the [[The Quibbler|Quibbler]]]]
+Xenophilius was the editor of [[The Quibbler]], which was considered strange even by wizarding standards. Luna became friends with [[Harry Potter]] in [[1995]], and she helped him get an interview to be published in The Quibbler entitled "HARRY POTTER SPEAKS OUT AT LAST: THE TRUTH ABOUT [[Lord voldemort|HE-WHO-MUST-NOT-BE-NAMED]] AND THE NIGHT I SAW HIM RETURN". It was brave considering at the time, no one believed him including the [[Daily Prophet]].
+
+Luna went on to help at the [[Battle of the Department of Mysteries]] in [[1996]]. By [[1997]], when the [[Ministry of Magic]] fell to the [[Death Eaters]], The Quibbler continued to show support for Harry Potter. Eventually, the Death Eaters decided to put a stop to it, and took Luna to [[Malfoy Manor]] where she stayed for several months. When Xenophilius was visited by Harry, [[Hermione Granger]] and [[Ronald Weasley]], he told the Death Eaters in the hope of getting Luna back. When they got away, Xenophilius was sent to [[Azkaban]] by the Death Eaters. Luna was later saved by the trio, and went on to survive the [[Battle of Hogwarts]]. Xenophilius left Azkaban soon after. Luna became a [[Magizoologist]] and married [[Rolf Scamander]], with who she had two children, [[Lorcan Scamander|Lorcan]] and [[Lysander Scamander|Lysander]].
+
+==Family members==
+
+===Main family===
+{| class="wikitable" border="1" width="95%"
+|-
+! scope="col" width="20%" |Wizard(s)
+! scope="col" |Notes
+|-
+|[[Xenophilius Lovegood]]
+|Editor of The Quibbler, husband of Pandora and father of Luna, grandfather of Lorcan and Lysander Scamander, father-in-law of Rolf Scamander
+|-
+|[[Pandora Lovegood]]
+|Died when her own spell hit her. Wife of Xenophilius and mother of Luna, grandmother of Lorcan and Lysander Scamander
+|-
+|[[Luna Lovegood]]
+|Daughter of Pandora and Xenophilius, wife of Rolf Scamander and mother of Lorcan and Lysander Scamander, granddaughter-in-law of Newt and Porpentia Scamander
+|}
+
+===Lovegood relatives===
+{| class="wikitable" border="1" width="95%"
+|-
+! scope="col" width="20%" |Wizard(s)
+! scope="col" |Notes
+|-
+|[[Rolf Scamander]]
+|Husband of Luna and father of Lorcan and Lysander, son-in-law of Xenophilius and Pandora Lovegood, grandson of Newt and Porpentia Scamander
+|-
+|[[Lorcan Scamander|Lorcan]]
+|Elder child of Luna Lovegood and Rolf Scamander, grandson of Xenophilius and Pandora
+|-
+|[[Lysander Scamander|Lysander]]
+|Younger child of Luna Lovegood and Rolf Scamander, grandson of Xenophilius and Pandora
+|}
+
+==Family tree==
+{{LovegoodFamilyTree}}
+==Etymology==
+''Lovegood'' is a compound word and a real English surname.
+==Behind the scenes==
+*The Lovegoods were first mentioned to be at the [[1994 Quidditch World Cup]].<ref>{{GOF|B|6}}</ref>
+*﻿In the [[Harry Potter (film series)|film adaptations]], the Lovegoods appear to be Irish. This is largely because [[Evanna Lynch]], who plays Luna, is Irish. Xenophilius, played by Welsh actor [[Rhys Ifans]], used an Irish accent for the film to match her own.
+*Both Luna<ref>{{OOTP|B|10}}</ref> and Xenophilius<ref>{{DH|B|20}}</ref> had a chapter with their name as the title.
+*Both known female members of the Lovegood family are named after figures from mythology. Luna was the Roman goddess of the moon, Pandora was, in Greek mythology, the first human woman created by the gods.
+*Luna is the only known member whose name is not of Greek origin.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{OOTP}}
+*{{OOTP|F}} 
+*{{HBP}} 
+*{{HBP|F}} 
+*{{DH}} 
+*{{DH|F1}}
+*{{DH|F2}} 
+*{{PM}} 
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Lovegood]]
+[[es:Familia Lovegood]]
+[[fr:Famille Lovegood]]
+[[pl:Rodzina Lovegood]]
+[[pt-br:Família Lovegood]]
+[[ru:Лавгуды]]
+[[Category:Lovegood family|Lovegood family]]

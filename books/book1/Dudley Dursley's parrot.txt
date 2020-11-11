@@ -1,0 +1,28 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Dudley Dursley's parrot
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Parrot]]<ref name="PS3"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Dudley Dursley]] (formerly)<ref name="PS3"/>
+}}
+At some time in or before [[1991]], [[Dudley Dursley]] possessed a '''[[parrot]]''', which he swapped for a real live [[Gun|air rifle]]. The birdcage in which the parrot was kept was moved to [[Smallest Bedroom|The Smallest Bedroom]].<ref name="PS3">{{PS|B|3}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[pl:Papuga Dudleya Dursleya]]
+[[Category:Dursley family possessions]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Parrots]]

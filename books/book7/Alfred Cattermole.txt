@@ -1,0 +1,61 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Alfred Cattermole
+|born = c. Between [[1987]] and [[1994]] (possibly)
+|died = 
+|blood = [[Half-blood]] or [[Squib]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Reginald Cattermole]] (father)
+*[[Mary Cattermole]] (mother)
+*[[Maisie Cattermole]] (sister)
+*[[Ellie Cattermole]] (sister)
+*[[Mary Cattermole's father|Maternal grandfather]]
+*[[Mary Cattermole's mother|Maternal grandmother]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Cattermole family]]
+}}
+'''Alfred Cattermole''' (fl. 1997) was the only son of [[Mary Cattermole|Mary]] and [[Reginald Cattermole]]. He had two sisters: [[Maisie Cattermole|Maisie]] and [[Ellie Cattermole|Ellie]]. He lived at [[27 Chislehurst Gardens|27]] [[Chislehurst Gardens]], [[Great Tolling]], [[Evesham]] with his parents and sisters.<ref name="DH13">{{DH|B|13}}</ref>
+
+[[Mary Cattermole]] said that Alfred and his sisters were frightened during her interrogation by the [[Muggle-Born Registration Commission]]. They believed that their mother would not return home.<ref name="DH13"/>
+
+Her mother told the [[British Ministry of Magic|Ministry]] that Alfred and his sisters were at home. They were probably not attending Hogwarts yet, because Ron Weasley told her and her husband to pick up the children and run away.
+
+==Etymology==
+"Alfred" is derived from the Old English name ''Ælfræd'', composed of the elements ''ælf'' "elf" and ''ræd'' "counsel". Alfred the Great was a 9th-century king of Wessex who fought unceasingly against the Danes living in the northeast of England. He was also a scholar, and he translated many Latin books into Old English. His fame helped to ensure the usage of this name even after the Norman conquest, when most Old English names were replaced by Norman ones. It became rare by the end of the Middle Ages, but was revived in the 18th century. A famous bearer was the British poet Alfred Lord Tennyson (1809–1892).
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{DH|F1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cattermole, Alfred}}
+
+[[de:Alfred Cattermole]]
+[[de2:Alfred Cattermole]]
+[[fr:Alfred Cattermole]]
+[[pl:Alfred Cattermole]]
+[[ru:Альфред Кроткотт]]
+[[pt-br:Alfred Cattermole]]
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Cattermole family]]
+[[Category:Males]]

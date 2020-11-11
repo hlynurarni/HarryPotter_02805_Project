@@ -1,0 +1,78 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Paracelsus Chocolate Frog Card (WWHP).png|250x]]
+|name = Phillipus Aureolus Theophrastus Bombastus von Hohenheim
+|born = [[1493]]
+|died = [[1541]] (aged 47-48)
+|blood = 
+|marital = 
+|nationality = 
+|alias = Paracelsus
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White<ref name="PSGC"/>
+|eyes = Blue<ref name="PSGC"/>
+|skin = White<ref name="PSGC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Alchemy|Alchemist]]
+*[[Doctor|Physician]]
+|house = 
+|loyalty = 
+}}
+{{Quote|Contemporary of [[Nicolaus Copernicus|Copernicus]] and [[Leonardo Da Vinci]]. A medical genius whose bold theories challanged ''[sic]'' medieval thought. Credited with discovering [[Parseltongue]].|[[Chocolate Frog Card]]|Harry Potter and the Chamber of Secrets (video game)}}
+
+'''Phillipus Aureolus Theophrastus Bombastus von Hohenheim'''<ref>[http://harrypotter.scholastic.com/glossary/ Glossary at harrypotter.scholastic.com]</ref> ([[1493]]—[[1541]]), more commonly known as '''Paracelsus''', was a [[Wizardkind|wizard]] and [[Alchemy|alchemist]] about whom very little is known. In addition to his work on [[alchemy]], he made significant contributions to the field of medicine, having been a notable [[Doctor|physician]].<ref name="PSGC">{{PS|G}} - Console version</ref> Paracelsus's bold theories challenged medieval thought. Paracelsus was credited with the discovery of [[Parseltongue]].<ref name="PSGPC">{{PS|G}} - PC version</ref>
+
+==Biography==
+In his lifetime, Paracelsus contributed heavily to the field of medicine, with his bold theories challenging [[Middle Ages|medieval]] thought.<ref name="PSGC"/> Paracelsus was credited with the discovery of [[Parseltongue]].<ref name="PSGPC"/>
+
+[[File:Paracelsus.jpg|thumb|left|Paracelsus brewing a [[potion]]]]
+For his contributions to multiple magical fields, he was featured on a [[Chocolate Frog Card]]. [[Harry Potter]] received this card from a [[Chocolate Frog]] on his first ride aboard the [[Hogwarts Express]] in [[1991]].<ref name="PS6">{{PS|B|6}}</ref>
+
+There was a bust of Paracelsus in a corridor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. In [[1995]], while on his way to the [[Owlery]], Harry Potter ran into [[Nicholas de Mimsy-Porpington|Nearly Headless Nick]], who warned him that [[Peeves]] was planning to drop the bust on the head of the next person who walked down the corridor. Harry thus chose to take an alternate route to the Owlery.<ref name="OOTP14">{{OOTP|B|14}}</ref>
+
+==Behind the scenes==
+*The real life [[Wikipedia:Paracelsus|Paracelsus]] was born Phillip Von Hohenheim, in 1493 in [[Switzerland]]. He later changed his name to Philippus Theophrastus Aureolus Bombastus von Hohenheim, then to Paracelsus. He has made many contributions to medicine. He believed every human needed a balance of minerals and metals in their body and he was the first to use minerals and metals as medicine. Paracelsus also studied psychotherapy, and was the first to understand the subconscious.
+*Although he made several important contributions to the sciences of medicine and chemistry, he also wrote several treatises in [[Astrology]] and [[Divination]], which has led to him being portrayed as a magician, or a "pseudo-scientist" in later popular culture, in several works besides the Harry Potter universe.
+
+==Appearances==
+*{{PS}} {{1st Mention}} {{FWC}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{OOTP}} {{Statue}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts unknown locations}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Hohenheim, Phillipus von}}
+
+[[de:Paracelsus]]
+[[el:Παράκελσος]]
+[[fi:Phillipus von Hohenheim]]
+[[fr:Paracelse]]
+[[pl:Paracelsus]]
+[[pt-br:Philippus von Hohenheim]]
+[[ru:Парацельс]]
+[[Category:1493 births]]
+[[Category:1541 deaths]]
+[[Category:Alchemists]]
+[[Category:Blue-eyed individuals]]
+[[Category:Busts]]
+[[Category:Gold Chocolate Frog Cards]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Physicians]]
+[[Category:Wizards]]

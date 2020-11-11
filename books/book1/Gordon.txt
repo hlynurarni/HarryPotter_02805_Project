@@ -1,0 +1,60 @@
+{{Youmay|[[Dudley Dursley]]'s friend|[[Gordon Pummell (disambiguation)|Gordon Pummell]]}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Gordon.png|250px]]
+|name = Gordon
+|born = c. [[1979]] or [[1980]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Gordon's parents|Parents]]<ref name="OOTP1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dudley Dursley's gang]]<ref name="PS3"/><ref name="OOTP1"/>
+}}
+{{Quote|Round at my place, my parents are out|Gordon to his fellow gang members|Harry Potter and the Order of the Phoenix}}
+'''Gordon''' was a [[Non-magic people|Muggle]] who was a friend of [[Dudley Dursley]] and was a member of [[Dudley Dursley]]'s [[Dudley Dursley's gang|gang]].<ref name="PS3">{{PS|B|3}}</ref> In [[1995]], after bullying [[Mark Evans]], he told his friends to come to his house the next day when [[Gordon's parents|his parents]] were out.<ref name="OOTP1">{{OOTP|B|1}}</ref>
+
+==Etymology==
+The name "Gordon" comes from a Scottish surname which was originally derived from a place name meaning "great hill". It was originally used in honour of Charles George Gordon (1833-1885), a British general who died defending the city of Khartoum in Sudan.
+
+==Behind the scenes==
+[[File:GordonLEGO.png|thumb|Gordon as a LEGO minifigure]]
+*Though he appeared in {{OOTP|FA}} alongside the rest of the gang, he and [[Dennis]] weren't listed in the credits.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+{{Dudley's gang}}
+[[de:Gordon]]
+[[es:Gordon]]
+[[fr:Gordon]]
+[[nl:Gordon]]
+[[pl:Gordon]]
+[[ru:Гордон]]
+[[Category:1980s births]]
+[[Category:British individuals]]
+[[Category:Dudley Dursley's gang]]
+[[Category:Males]]
+[[Category:Muggles]]

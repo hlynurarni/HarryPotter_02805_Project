@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Wizard who claimed to be a dragon killer
+|hideb=Hide
+|born=
+|died=
+|blood=
+|marital=
+|alias=
+|title=
+|signature=
+|hidep=
+|species=[[Human]]<ref name="GOF9"/>
+|gender=Male<ref name="GOF9"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=Hide
+|family=
+|hidem=Hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=*[[British Ministry of Magic]] (claimed)<ref name="GOF9"/>
+**[[Committee for the Disposal of Dangerous Creatures]] (claimed)<ref name="GOF9"/>
+*Dishwasher at the [[Leaky Cauldron]]<ref name="GOF9"/>
+|house=
+|loyalty=[[Leaky Cauldron]]<ref name="GOF9"/>
+}}
+{{Dialogue a-b|Unidentified wizard #1|I pull down about a hundred sacks of [[Galleon]]s a year! "I'm a [[dragon killer]] for the [[Committee for the Disposal of Dangerous Creatures]].|[[Wizard who claimed to be a Vampire Hunter|Unidentified wizard #2]]|No, you're not! You're a dishwasher at the [[Leaky Cauldron]]… but I'm a [[Vampire Hunter]], I've killed about ninety so far -|A group of wizards fighting over the affections of a group of Veela|Harry Potter and the Goblet of Fire}}
+This '''individual''' was a [[Wizardkind|wizard]] who attended the [[1994]] [[Quidditch World Cup]] between [[Bulgaria]] and [[Ireland]]. He claimed that he was a [[dragon killer]] in an attempt to impress a group of [[Veela]], but [[Wizard who claimed to be a Vampire Hunter|his friend]] stated that he was actually a dishwasher at the [[Leaky Cauldron]].<ref name="GOF9">{{GOF|B|9}}</ref> It is extremely unlikely that the "dragon killer"'s claim was true.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Sorcier qui prétend être un tueur de dragons]]
+[[ru:Посудомойщик из «Дырявого котла»]]
+[[Category:British individuals]]
+[[Category:Leaky Cauldron employees]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

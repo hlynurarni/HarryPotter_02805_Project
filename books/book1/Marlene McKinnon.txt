@@ -1,0 +1,84 @@
+{{Individual infobox
+|theme = phoenix
+|image = [[File:Marlene McKinnon PM.png|250px]]
+|name = Marlene McKinnon
+|born = 
+|died = July, [[1981]]<ref name="death">In {{DH|B|10}}, we see that [[Lily J. Potter|Lily Potter]] wrote a [[Lily Potter's letter|letter]] not long after [[Harry Potter]]'s birthday. She stated that [[Peter Pettigrew]] visited "last weekend" and appeared to be "down, but that was probably the news about the McKinnons", implying that they had died not that long ago in July 1981.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[McKinnon family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Order of the Phoenix]]
+*[[McKinnon family]]
+}}
+{{Quote|Marlene McKinnon, she was killed two weeks after this was taken, they got her whole family.|Marlene and her family's murders|Harry Potter and the Order of the Phoenix}}
+'''Marlene McKinnon''' (d. [[July]], [[1981]]) was a [[Wizardkind|witch]] and member of the original [[Order of the Phoenix]]. She fought in the [[First Wizarding War]] and was murdered by [[Death Eaters]], along with her [[McKinnon family|family]]. The McKinnons were described as being one of the families Voldemort and his followers completely wiped out.
+
+==Biography==
+
+Marlene was a member of the wizarding [[McKinnon family]].<ref>In {{PS}}, Hagrid explicitly states "the McKinnons"; this means there was more than one McKinnon, but it is never stated as to whether it was a sibling of Marlene or a husband.</ref>
+
+[[File:L'Ordre du Phénix Originale.jpg|240x240px|thumb|left|Marlene in a picture of the original Order of the Phoenix, two weeks before her death]]
+
+During the [[First Wizarding War]], Marlene McKinnon became a member of the [[Order of the Phoenix]], an organisation led and founded by [[Albus Dumbledore]], in order to oppose [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. She fought in several battles of the First Wizarding War. The McKinnons were said to be one of the families killed off by Voldemort, as [[Rubeus Hagrid]] told Harry in his first year, when pushed to discuss the matter.
+
+Marlene and her whole family were murdered by [[Death Eaters]] in July 1981.<ref name="death" /> [[Igor Karkaroff]] implicated [[Travers]] as one of the people who was involved.<ref>{{GOF|B|30}}</ref> "[[Mad-Eye Moody|Mad-Eye" Moody]] pointed Marlene out to [[Harry Potter]] in a photo of the Order that was taken two weeks before her death.<ref name="ootp9">{{OOTP|B|9}}</ref>
+
+==Magical abilities and skills==
+*'''[[Magic]]al skills''': To be a member of the [[Order of the Phoenix]], it is highly likely that Marlene was a talented [[Wizardkind|witch]] who most likely used her magical ability in a number of battles against the [[Death Eaters]] before her untimely death.<ref name="ootp9" />
+
+==Etymology==
+"Marlene" is a name of Germanic origin, and is a blend of the names "Maria" and "Magdaline"; which mean "star of the sea" and "of Magdala" respectively. The name "McKinnon" is Scottish, an Anglicised version of the Gaelic name "Mac Fhionghuin", meaning "fair born" or "fair son." It is also translated as "love."{{Fact}}
+
+==Behind the scenes==
+*Although the [[McKinnon family]] is mentioned throughout the book series, as well in {{OOTP|FA}}, Marlene is the only member of the family who has been identified as working for the Order.
+*[[Lily J. Potter]] says in [[Lily Potter's letter|her letter]] to [[Sirius Black]] that she cried all night when she heard about the McKinnons' deaths, and she attributes [[Peter Pettigrew]]'s melancholy to the same reason, which might suggest that Lily and the [[Marauders]] were close to Marlene and/or her family.
+*It is unknown why the McKinnons were all together when they were killed or how they were related to each other. It is possible that they were a nuclear family living in one household and consisting of parents and young children (in which case, Marlene might have been either a mother or an older daughter to the family) or that they were brought to one location by an unidentified family event, known to the Death Eaters who killed them.
+
+==Appearances==
+{{Imagecat|Images of Marlene McKinnon}}
+*{{PS}} {{Comment|Mentioned, not by name}}
+*{{GOF}} {{1st Mention}}
+*{{OOTP}} {{Photograph}}
+*{{OOTP|F}} {{Photograph}}
+*{{DH}} {{Mention}}
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Order of the Phoenix}}
+
+{{DEFAULTSORT:McKinnon, Marlene}}
+
+[[de:Marlene McKinnon]]
+[[es:Marlene McKinnon]]
+[[fr:Marlene McKinnon]]
+[[fi:Marlene McKinnon]]
+[[pl:Marlena McKinnon]]
+[[ru:Марлин МакКиннон]]
+[[Category:1981 deaths]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:First Order of the Phoenix]]
+[[Category:First Wizarding War casualties]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:McKinnon family]]
+[[Category:Murder victims]]
+[[Category:Wizards]]

@@ -1,0 +1,72 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Madam Puddifoot HM.jpg|250px]]
+|name = Puddifoot
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP25"/>
+|alias = 
+|title = [[Madam]]<ref name="OOTP25"/>
+|signature = 
+|species = [[Human]]<ref name="OOTP25"/>
+|gender = Female<ref name="OOTP25"/>
+|height = 
+|weight = 
+|hair = Black<ref name="OOTP25"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Madam Puddifoot's Tea Shop]]<ref name="OOTP25"/>
+|house = 
+|loyalty = [[Madam Puddifoot's Tea Shop]]<ref name="OOTP25"/>
+}}
+{{Quote|What can I get you, m'dears?|Madam Puddifoot|Harry Potter and the Order of the Phoenix}}
+'''Madam Puddifoot''' (fl. 1980s-1996) was a [[Great Britain|British]] [[Wizardkind|witch]] who ran [[Madam Puddifoot's Tea Shop]] in [[Hogsmeade]].<ref name="OOTP25"/>
+
+==Biography==
+[[File:MadamPuddifoot.png|thumb|left|Madam Puddifoot working in her shop]]
+In the [[1980s]], Puddifoot was introduced to [[Jacob's sibling]] by [[William Weasley|Bill Weasley]] and [[Nymphadora Tonks]].<ref name="HM">{{HM}}</ref>
+
+In 1996, [[Valentine's day]], Puddifoot decorated her shop by placing several golden [[cherub]]s around and had them throw confetti over visiting couples every so often. She served coffee to the couple [[Harry Potter]] and [[Cho Chang]].<ref name="OOTP25">{{OOTP|B|25}}</ref>
+
+By at least the [[2010s]], during the [[Calamity]], volunteer members of the [[Statute of Secrecy Task Force]] met with Madam Puddifoot to try to convince her to join the SOS Task Force officially. She enthusiastically agreed and informed all staff to do whatever necessary to help support the [[British Ministry of Magic|Ministry]]'s efforts.<ref name="WU">{{WU}}</ref>
+
+==Physical appearance==
+Puddifoot was a very stout woman with brown eyes and a shiny black bun.<ref name="OOTP25"/>
+
+==Behind the scenes==
+*In {{LEGO|Y2}}, Madam Puddifoot is depicted with blonde hair rather than black. She is not playable under normal circumstances, but may be temporarily controlled with the [[Imperius Curse]] in the level "Dumbledore's Army" in order to collect the [[Slytherin|Slytherin House]] Crest for that level.<ref name="LEGOy2">{{LEGO|Y2}}</ref>
+*It is possible she, alongside her fellow [[Hogsmeade]] residents, participated in the [[Battle of Hogwarts]], as [[Horace Slughorn]] was recruiting them and [[Tom Riddle|Lord Voldemort]] declared a final stand for the entire [[Second Wizarding War]].<ref name="DH36">{{DH|B|36}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Madam Puddifoot}}
+[[File:PuddifootLEGO.png|thumb|right|Madam Puddifoot in {{LEGO|Y2}}]]
+*{{OOTP}} {{1st}}
+*{{HBP}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{LEGO|Y2}}
+*{{PM}} 
+*{{HM}} 
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogsmeade}}
+[[de:Madam Puddifoot]]
+[[es:Madame Tudipié]]
+[[fr:Madame Pieddodu]]
+[[pl:Pani Puddifoot]]
+[[ru:Мадам Паддифут]]
+[[Category:British individuals|Puddifoot, Madam]]
+[[Category:Females|Puddifoot, Madam]]
+[[Category:Shop owners|Puddifoot, Madam]]
+[[Category:Wizards|Puddifoot, Madam]]

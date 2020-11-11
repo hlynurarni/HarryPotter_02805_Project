@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Unidentified Obliviator stationed at Roberts' campsite
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="GOF7"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF7"/>
+|gender = Male<ref name="GOF7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Obliviator]] for the [[Department of Magical Accidents and Catastrophes]]<ref name="GOF7"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="GOF7"/>
+**[[Department of Magical Accidents and Catastrophes]]<ref name="GOF7"/>
+}}
+{{Quote|Been having a lot of trouble with him. Needs a Memory Charm ten times a day to keep him happy. And Ludo Bagman's not helping. Trotting around talking about Bludgers and Quaffles at the top of his voice, not a worry about anti-Muggle security! Blimey, I'll be glad when this is over. See you later, Arthur.|The [[Obliviator]]|Harry Potter and the Goblet of Fire}}
+This '''[[Wizardkind|wizard]]''' worked in the [[British Ministry of Magic|Ministry of Magic]] as an [[Obliviator]] in the [[1990s]].<ref name="GOF7"/>
+
+==History==
+In [[1994]] he was stationed at [[Roberts|Mr Roberts]]' [[Quidditch World Cup Campsite|campsite]]. He is described as wearing plus fours, and he looked extremely exhausted, as there were purple shadows under his eyes and his chin was blue with stubble. He used a [[Memory Charm]] on Roberts when he questioned incessantly about the [[wizarding world]] such as [[Unidentified man who tried to pay Mr Roberts with Galleons|a man]] that tried to pay him with [[Galleon|big gold coins]] or [[Archie Aymslowe|a "weirdo" wearing a dress]]. He told [[Arthur Weasley]] that the [[Charm]] had to be used ten times a day to keep Roberts from realising the [[Wizardkind|true nature]] of the "foreigners" in his campsite.<ref name="GOF7">{{GOF|B|7}}</ref>
+
+==Magical abilities and skills==
+*'''[[Apparition]]''': Like most accomplished adult wizards, he was capable of apparating at will.<ref name="GOF7"/>
+*'''[[Charm]]s''': Being an [[Obliviator]], he was highly proficient with the casting of the [[Memory Charm]].<ref name="GOF7"/>
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 3 employees}}
+
+[[es:Desmemorizador no identificado en el Campamento del Señor Roberts]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals|Obliviator stationed at Roberts's campsite]]
+[[Category:Males|Obliviator stationed at Roberts's campsite]]
+[[Category:Obliviators]]
+[[Category:Wizards|Obliviator stationed at Roberts's campsite]]

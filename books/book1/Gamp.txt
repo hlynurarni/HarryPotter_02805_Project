@@ -1,0 +1,26 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|name = Gamp
+|species = [[Human]]
+|family = *[[Hesper Gamp]] (possibly)
+*[[Ulick Gamp]] (possibly)
+|job = [[Magic]]al theoretician 
+|loyalty = [[Gamp family]]
+|theme = wizard
+}}
+'''Gamp''' was the [[Wizardkind|wizard or witch]] after whom [[Gamp's Law of Elemental Transfiguration]] was named.<ref name="DH15">{{DH|B|15}}</ref>
+
+==Behind the scenes==
+*It is unclear if Gamp formulated the law or if it was simply named after this individual.
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Gamp]]
+[[ru:Гэмп]]
+[[Category:Gamp family]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Theoreticians]]
+[[Category:Wizards]]

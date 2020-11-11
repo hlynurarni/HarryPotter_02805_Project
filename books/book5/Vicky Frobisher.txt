@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Vicky Frobisher
+|born = c. Pre [[31 August]] [[1984]]<ref name="age">As [[first year]]s were not allowed to try out, she must have been in at least her second year in 1995.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP13"/>
+|gender = Female<ref name="OOTP13"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="OOTP13"/>
+|loyalty = *Frobisher family<ref name="OOTP13"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP13"/>
+**[[Gryffindor]]<ref name="OOTP13"/>
+**[[Charms Club]]<ref name="OOTP13"/>
+}}
+'''Vicky Frobisher''' was a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1990s]] and was [[Sorting ceremony|sorted]] into [[Gryffindor]] house.<ref name="OOTP13"/>
+
+==Biography==
+In [[1995]], she tried out for the [[Gryffindor Quidditch team]], but was denied the position of [[Keeper]] because she admitted she would put the [[Charms Club]], to which she belonged, before [[Quidditch]]. Being unable to attend some practises was the reason [[Ronald Weasley|Ron Weasley]] was picked, despite the fact that Vicky played better. According to Angelina, Vicky was also involved in other Hogwarts clubs and societies, besides Charms.<ref name="OOTP13">{{OOTP|B|13}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Frobisher, Vicky}}
+
+{{Hogwarts quidditch positions}}
+[[Category:20th century births]]
+[[de:Vicky Frobisher]]
+[[fr:Vicky Frobisher]]
+[[ru:Викки Фробишер]]
+[[pl:Vicky Frobisher]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gryffindors]]
+[[Category:Wizards]]

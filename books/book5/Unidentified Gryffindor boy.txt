@@ -1,0 +1,49 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Unidentified Gryffindor boy
+|born = between [[1 September]] [[1982]] and [[31 August]] [[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP17"/>
+|gender = Male<ref name="OOTP17"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="OOTP17"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP17"/>
+**[[Gryffindor]]<ref name="OOTP17"/>
+}}
+{{Quote|Does [[Educational Decree|this]] mean [[British Ministry of Magic|they]]'re going to shut down the [[Gobstones|Gobstones Club]]?|Unidentified Gryffindor boy, upon reading [[Educational Decree Number Twenty-Four]]|Harry Potter and the Order of the Phoenix}}
+
+This '''unidentified [[Gryffindor]] [[Wizardkind|boy]]''' was in the [[Gobstones|Gobstones Club]] in his [[second year]] in [[1995]], and was worried that Gobstones might be shut down, when the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts High Inquisitor|High Inquisitor]] [[Dolores Umbridge]] set up [[Educational Decree Number Twenty-Four]].<ref name="OOTP17">{{OOTP|B|17}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts Gobstones}}
+[[Category:1980s births|Gryffindor]]
+[[Category:British or Irish individuals|Gryffindor]]
+[[Category:Gobstones players|Gryffindor]]
+[[Category:Gryffindors|Boy]]
+[[Category:Sorted in 1994|Gryffindor]]
+[[Category:Unidentified Hogwarts Students|Gryffindor]]
+[[Category:Wizards|Gryffindor]]

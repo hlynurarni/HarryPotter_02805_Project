@@ -1,0 +1,36 @@
+{{Event infobox
+|name = Harry Potter's twelfth birthday
+|image = [[File:DobbyHarryBedroom.PNG|250px]]
+|location = [[4 Privet Drive]]<ref name="COS1"/>
+|date = [[31 July]], [[1992]]
+|participants = *[[Harry Potter]]<ref name="COS1"/><ref name="COS2"/>
+*[[Dobby]]<ref name="COS2"/>
+|description = [[Dobby]] warns Harry not to go back to [[Hogwarts School of Witchcraft and Wizardry]]<ref name="COS2"/>
+}}
+{{Quote|Today's your birthday, how come you haven't got any cards? Haven't you even got friends at that freak place?|[[Dudley Dursley]] mocks [[Harry Potter]]|Harry Potter and the Chamber of Secrets}}
+'''[[Harry Potter]]'s twelfth birthday''' was wildly ignored by his [[Vernon Dursley|uncle]], [[Petunia Dursley|aunt]], and [[Dudley Dursley|cousin]], although Dudley ''did'' remember his birthday and mocked him for it.<ref name="COS1">{{COS|B|1}}</ref> On this day, [[Dobby]] the [[house-elf]] arrived and warned Harry not to return to [[Hogwarts School of Witchcraft and Wizardry]]. When Harry refused, Dobby took it upon himself to try and keep Harry safe, using a [[Hover Charm]] to smash a [[Petunia Dursley's pudding|pudding]] in the Dursleys' kitchen.<ref name="COS2">{{COS|B|2}}</ref>
+
+==Behind the scenes==
+In the film version, Dobby drops the cake on the head of Mrs Mason, to the same effect as in the book.
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{OOTP}} {{Mention}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Harry Potter's eleventh birthday]]
+|position=Birthday boy, [[Harry Potter]]
+|years=[[1992]]
+|successor=[[Harry Potter's thirteenth birthday]]
+}}
+{{End box}}
+
+[[ru:Двенадцатый день рождения Гарри Поттера]]
+[[pt-br:Décimo segundo aniversário de Harry Potter]]
+[[Category:Harry Potter's birthdays]]
