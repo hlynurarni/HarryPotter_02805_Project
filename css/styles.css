@@ -10086,7 +10086,7 @@ p.lead {
   font-size: 3rem;
 }
 
-section.resume-section {
+section.topic-section {
   display: flex;
   align-items: center;
   padding-left: 1rem;
@@ -10095,17 +10095,17 @@ section.resume-section {
   padding-bottom: 5rem;
   max-width: 75rem;
 }
-section.resume-section .resume-section-content {
+section.topic-section .topic-section-content {
   width: 100%;
 }
 
 @media (min-width: 768px) {
-  section.resume-section {
+  section.topic-section {
     min-height: 100vh;
   }
 }
 @media (min-width: 992px) {
-  section.resume-section {
+  section.topic-section {
     padding-left: 3rem;
     padding-right: 3rem;
     padding-top: 5rem;
