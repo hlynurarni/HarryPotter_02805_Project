@@ -1,0 +1,106 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Madamrosmertiee.PNG|250px]]
+|name = Rosmerta
+|born = Before [[1959]]<ref name="age">Rosmerta was at least working at the Three Broomsticks during the Marauders' time at Hogwarts; however, it is not known when she started working there. The most that can be said with certainty is that she is older than they are.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POA10"/>
+|alias = 
+|title = [[Madam]]<ref name="POA10"/>
+|signature = 
+|species = [[Human]]<ref name="POA10"/>
+|gender = Female<ref name="POA10"/>
+|height = 
+|weight = 
+|hair = Blonde<ref name="HM">{{HM|4|12}}</ref>
+|eyes = Green<ref name="HM">{{HM|4|12}}</ref>
+|skin = White<ref name="HM">{{HM|4|12}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOY1">{{LEGO|Y1}}</ref><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = Landlady of the [[Three Broomsticks Inn]]<ref name="POA10"/>
+|house = 
+|loyalty = *[[Three Broomsticks Inn]]<ref name="POA10"/>
+*[[Draco Malfoy]] (while under the [[Imperius Curse]])<ref name="HBP12"/><ref name="HBP27"/>
+}}
+{{Quote|Landlady of the [[Three Broomsticks Inn|Three Broomsticks]], famed for her good looks and [[mulled mead]]|Description|Pottermore}}'''Madam Rosmerta''' (fl. 1950 -1997) was a [[Great Britain|British]] [[Wizardkind|witch]] who was the landlady of [[Three Broomsticks Inn|the Three Broomsticks]] pub in the village of [[Hogsmeade]].<ref name="POA10"/> Rosmerta was put under the [[Imperius Curse]], cast by [[Draco Malfoy]] in [[1997]]. After being placed under the [[curse]], she helped Malfoy against her will to smuggle cursed items into [[Hogwarts Castle]].<ref name="HBP12"/><ref name="HBP27"/> It is likely she later redeemed herself by fighting in the [[Battle of Hogwarts]].
+
+==Biography==
+===Bartender at The Three Broomsticks===
+{{Quote|Naturally. Never saw one without the other, did you? The number of times I had them in here — ooh, they used to make me laugh. Quite the double act, Sirius Black and James Potter!|Rosmerta mentions that she was a barmaid |Harry Potter and the Prisoner of Azkaban}}Rosmerta was older than the Marauders, as she was the barmaid whilst they were all still at school. Rosmerta lived in and was the barmaid of the Three Broomsticks during the [[First Wizarding War]]; she was a listener of gossip and believed the rumours that [[Sirius Black]] had turned his friends, the [[Potter family]], over to [[Tom Riddle|Lord Voldemort]] to be true when news broke out they had been murdered and that the war was over.<ref name="POA10">{{POA|B|10}}</ref> It remains unknown how she reacted when the true story was told to her, (that it was [[Peter Pettigrew]] who betrayed the Potters) or, indeed, if she ever found out.
+
+She continued to tend bar during the [[1980s]].
+
+====[[1986–1987 school year]]====
+During [[1986]], Rosmerta was introduced to [[Jacob's sibling]] by [[Rubeus Hagrid]] in the [[Three Broomsticks Inn|Three Broomsticks]] during the student's first outing to [[Hogsmeade]]. They requested for information regarding [[Jacob (disambiguation)|their brother]] and his search for the [[Cursed Vaults]] from Rosmerta, in which they learnt from her recount that Jacob had [[Transfiguration|Transfigured]] [[Jacob's notebook|a secret notebook of his]] into a [[Black Quill]], the whereabouts of which were unknown then. Jacob's sibling beseeched Rosmerta to find it for them, promising to do anything for her in return, an offer she promptly accepted. While she was preoccupied in searching for the Black Quill in the pub's back room, Jacob's sibling proceeded to help her out by serving her customers their orders, an activity they found moderatly easy, with the exception of them having nearly dropped a mug of [[Butterbeer]] that was Tranfigured into a mongoose by the timely intervention of a helpful wizard. Acknowledging that her search for the desired quill would take longer, Rosmerta requested that Jacob's sibling help her concoct an extra-sweet brew of Butterbeer by fetching its various ingredients from the [[Hogwarts Castle]] for her. By the time they had managed to fulfil her request and returned back to the Three Broomsticks, Rosmerta had managed to successfully retrieve the Black Quill, which she then gave to Jacob's sibling.<ref>{{HM|3|3}}</ref>
+
+====[[1987–1988 school year]]====
+Rosmerta was interrogated by [[Patricia Rakepick]] regarding the possible whereabouts of [[Jacob (disambiguation)|Jacob]]'s notebook and map. She claimed to know nothing and threatened to inform some of her best customers from the [[Department of Magical Law Enforcement]] regarding Rakepick's behaviour, which made the Curse-Breaker back down quickly.<ref name="HM">{{HM|4|12}}</ref>
+
+====[[1993–1994 school year|1993-1994]]====
+[[File:004HPA Julie Christie 001.jpg|240x240px|thumb|Rosmerta, Cornelius Fudge, and Minerva McGonagall meeting outside her pub]]
+[[File:Prisoner-of-azkaban-rosmerta.jpg|250px|thumb|Rosmerta talking with Fudge and McGonagall]]
+In [[1993]], Madam Rosmerta was angered when [[Dementor]]s were in Hogsmeade to catch Sirius Black because their presence was scaring away many of her customers, not least when they searched her pub twice. She hosted an informal meeting between [[Minerva McGonagall]], [[Cornelius Fudge]], [[Filius Flitwick]], and [[Rubeus Hagrid]] discussing Sirius Black and his friends. They discussed how Sirius Black had been named Harry Potter's godfather before the Potters' demise.<ref name="POA10">{{POA|B|10}}</ref>
+
+====[[1996–1997 school year|1996-1997]]====
+{{Quote|There's one thing you should know before the Ministry gets here, though. Madam Rosmerta's under the Imperius Curse, she was helping Malfoy and the Death Eaters, that's how the necklace and the poisoned mead —|Harry regarding Rosmerta being under the [[Imperius Curse]]|Harry Potter and the Half-Blood Prince}}
+In 1997, it emerged that Rosmerta had become an unwilling agent of the [[Death Eaters]]. In order to fulfil his mission to assassinate Albus Dumbledore, [[Draco Malfoy]] had managed to place Rosmerta under the [[Imperius Curse]]. He used her to pass on a cursed [[Opal Necklace]] to Hogwarts student [[Katie Bell]], who accidentally touched the necklace and was subjected to the very harmful curse intended for the Headmaster.<ref name="HBP12">{{HBP|B|12}}</ref> Rosmerta also [[poison]]ed [[mead]] that was intended to be given to Dumbledore through [[Horace Slughorn]] in the guise as a Christmas present, but it was unintentionally drunk by [[Ronald Weasley|Ron Weasley]], who was saved by Harry Potter; Harry had shoved a [[Bezoar]] down Ron's throat to save his life.<ref name="HBP18">{{HBP|B|18}}</ref> Malfoy communicated with Rosmerta through fake [[Wizarding currency|galleons]], copying the idea from 'the [[Mudblood]] [[Hermione Granger|Granger]]' and [[Dumbledore's Army]].<ref name="HBP27">{{HBP|B|27}}</ref>
+
+[[Argus Filch]] did not suspect anything provided by Rosmerta, hence allowing the poisoned mead to sneak past security.<ref name="HBP27"/>
+
+After Harry and Dumbledore had been to [[the Cave|the cave]] to retrieve a [[Salazar Slytherin's Locket|locket]], they believed to be one of [[Tom Riddle|Voldemort]]'s [[Horcrux]]es, they [[Apparition|apparated]] to [[Hogsmeade]], where Madam Rosmerta alerted them to the presence of the [[Dark Mark]] above the school and gave them [[Broomstick|brooms]] on which they could travel rapidly back to Hogwarts, where Draco's plan could be brought to completion.<ref name="HBP27">{{HBP|B|27}}</ref> Harry Potter eventually cleared her name as he felt that that investigation on Albus Dumbledore's death may link to her.<ref name="HBP29">{{HBP|B|29}}</ref>
+
+====1998====
+{{Quote|They heard uproar from the distant boundary of the school as what sounded like hundreds of people came swarming over the out-of-sight walls and pelted toward the castle, uttering loud war cries.|Reinforcements arriving during the [[Battle of Hogwarts]]|Harry Potter and the Deathly Hallows }}It is unknown if Rosmerta was part of the reinforcements from Hogsmeade during the [[Battle of Hogwarts]] or if she participated in the war. This battle resulted in the end of the [[Second Wizarding War]].
+
+====2010s====
+During the [[Calamity]], Rosmerta instructed a panel of [[Magizoologist]]s on a basic [[Reviving Spell|Revive Charm]]. <ref name="WU">{{WU}}</ref>
+
+==Physical appearance==
+{{Dialogue a-b-a|Hermione Granger|Ron, what are you looking at?|Ron Weasley|Nothing|I expect 'nothing's' in the back getting more [[Firewhisky|firewhiskey]]|Ron trying to catch Madam Rosmerta's eye|Harry Potter and the Half-Blood Prince}}Rosmerta was an attractive woman, described as "a curvy sort of woman with a pretty face". On one occasion, she was seen wearing glittery open-toed high-heels. Several Hogwarts pupils, including [[Ronald Weasley|Ron Weasley]], have fancied her.<ref name="POA10"/><ref name="HBP12">{{HBP|B|12}}</ref>
+
+==Etymology==
+[[Wikipedia:Rosmerta|Rosmerta]] was the Romano-Celtic goddess of fertility and abundance, known as the "Great Provider". In Latin, it means "good purveyor" or "great provider".
+==Behind the scenes==
+*Madam Rosmerta was portrayed by [[Great Britain|British]] actress [[Julie Christie]] in {{POA|FA}}. She only appears twice in the film; once at the Three Broomsticks and again, on close observation, when Harry and Hermione go back in time. Her role was reduced to this film alone as she did not appear in any of the subsequent film adaptations of the novels.
+
+==Appearances==
+{{Imagecat|Images of Madam Rosmerta}}
+[[File:Madam_Rosmerta.png|thumb|Madam Rosmerta in {{LEGO|Y1}}]]
+*{{POA}} {{1st}}
+*{{POA|F}}
+*{{GOF}}
+*{{HBP}}
+*{{HBP|F}} {{Comment|Flashback on Disc 2}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{HM}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+[[de:Madam Rosmerta]]
+[[es:Madam Rosmerta]]
+[[fi:Matami Rosmerta]]
+[[fr:Madame Rosmerta]]
+[[nl:Madame Rosmerta]]
+[[pl:Madame Rosmerta]]
+[[ru:Мадам Розмерта]]
+[[ja:ロスメルタ]]
+[[Category:British individuals|Rosmerta, Madam]]
+[[Category:Females|Rosmerta, Madam]]
+[[Category:Green-eyed individuals]]
+[[Category:Imperius Curse victims]]
+[[Category:Plot to assassinate Albus Dumbledore participants]]
+[[Category:Pub landlords and landladies|Rosmerta, Madam]]
+[[Category:Three Broomsticks Inn Employees]]
+[[Category:Wizards|Rosmerta, Madam]]

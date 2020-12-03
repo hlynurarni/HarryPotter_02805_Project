@@ -1,0 +1,31 @@
+{{Conjecture}}
+{{Individual infobox
+|name = Waiters at Bill Weasley and Fleur Delacour's wedding
+|nationality = [[Great Britain|British]]
+|species = [[Human]]s
+|gender = Males
+|job = Waiters
+|theme = wizard
+|hideb = y
+|hidep = 
+|hidef = y
+|hidem = y
+|hidea = 
+}}
+A host of '''waiters''' served food at the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]] on [[1 August]], [[1997]] at [[the Burrow]].
+
+==History==
+They wore white robes and arrived at two o'clock; while guests were arriving, they sat with the [[Band at Bill Weasley and Fleur Delacour's wedding|band]] under a tree close to the main tent, smoking pipes. After the vows were completed and the reception began, the waiters filled the tent and carried silver trays of [[Pumpkin Juice|Pumpkin juice]], [[Butterbeer]], and [[Firewhisky]], others tottering piles of tarts and sandwiches.<ref name="DH8">{{DH|B|8}}</ref>
+
+When the reception was [[Attack at the Burrow|attacked]] by [[Death Eaters]] that evening following the [[Fall of the Ministry of Magic|fall]] of the [[British Ministry of Magic|Ministry of Magic]], the waiters presumably fled, along with most of the guests.<ref name="DH9">{{DH|B|9}}</ref>
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Waitstaff]]
+[[Category:Wizards]]

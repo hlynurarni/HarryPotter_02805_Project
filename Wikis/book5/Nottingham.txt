@@ -1,0 +1,27 @@
+{{Location infobox
+|name=Nottingham
+|image=
+|bgcolor1=
+|bgcolor2=
+|location=[[Nottinghamshire]], [[England]], [[Great Britain]]
+|owner=
+|residents=*Goblin family (formerly)
+|affiliation=
+|first={{OOTP}} {{Mention}}
+|latest=
+|last=
+|cause=
+}}
+'''Nottingham''' is a city in [[England]]. A goblin family was killed by [[Tom Riddle|Lord Voldemort]] near this city during his first reign of terror over the wizarding world.<ref name="OP5">{{OOTP|B|5}}</ref>
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Nottingham]]
+[[fr:Nottingham]]
+[[pl:Nottingham]]
+[[Category:Cities and towns]]
+[[Category:England]]

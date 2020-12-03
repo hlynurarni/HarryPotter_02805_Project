@@ -1,0 +1,166 @@
+{{FA}}
+{{Individual infobox
+|theme = death-eater
+|image = Dolohov-0.jpg
+|name = Antonin Dolohov
+|born = 
+|died = 1998 (possibly)
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">The [[Death Eaters]] as an organisation were known for their strong hatred of all [[Muggle-born]]s and [[Non-magic people|Muggles]], in particular Dolohov.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark<ref name="hair">In {{DH|B|9}}, Dolohov is referred to as "the darker Death Eater", in comparison to blond Death Eater [[Thorfinn Rowle]]. As his complexion is described as "pale", this must have been referring to his hair.</ref>
+|eyes = 
+|skin = Pale<ref name="skin">{{OOTP|B|25}} - "Antonin Dolohov, read the legend beneath a wizard with a long, pale, twisted face who was sneering up at Harry, convicted of the brutal murders of Gideon and Fabian Prewett."</ref><ref name="skin2">{{OOTP|B|35}} - "Harry twisted around, his own wand held high, and saw that the Death Eater had ripped off his mask and was pointing his wand directly at Harry, who recognised the long, pale, twisted face from the Daily Prophet: Antonin Dolohov, the wizard who had murdered the Prewetts."</ref><ref name="skin3">{{OOTP|B|35}} - "Dolohov, his long pale face twisted with glee."</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+|job = 
+|house = 
+|loyalty = *[[Death Eaters]]
+**[[Tom Riddle|Lord Voldemort]]
+}}
+{{Quote|There was Antonin Dolohov. I — I saw him torture countless [[Non-magic people|Muggles]] and — and non-supporters of the Dark Lord.|Dolohov's sadistic nature|Harry Potter and the Goblet of Fire}}
+'''Antonin Dolohov''' was a [[Dark Wizard]] and one of the [[Death Eaters]] of [[Tom Riddle|Lord Voldemort]]. Dolohov was a powerful [[Wizardkind|wizard]], and among all the Death Eaters, only [[Bellatrix Lestrange]] and [[Severus Snape]] could equal him in magical ability. He fought in the [[First Wizarding War]], during which he tortured many [[Non-magic people|Muggles]], and [[wizardkind|wizards and witches]] who were not supporters of the Dark Lord. Along with four other Death Eaters, he participated in the murders of [[Fabian Prewett|Fabian]] and [[Gideon Prewett]]. Dolohov was caught, convicted of these crimes, and sentenced to life imprisonment in [[Azkaban]].
+
+He escaped from prison after Voldemort's [[Return of Lord Voldemort|return]] during the [[Azkaban escapes#1996|mass break-out]] of [[1996]], and participated in the [[Battle of the Department of Mysteries]], where he was re-captured and incarcerated. By the summer of [[1997]], Dolohov was at large again. He and [[Thorfinn Rowle]] attacked [[Harry Potter]], [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]] at [[Tottenham Court Road]], but they were defeated and his memory was wiped. In [[1998]], Dolohov fought in the [[Battle of Hogwarts]], during which he murdered [[Remus Lupin]] and possibly some others. At the climax of the battle, he engaged [[Filius Flitwick]] in a duel and was defeated.
+
+==Biography==
+===First Wizarding War {{c|1970s-1981}}===
+In [[1970]], Dolohov's master began open hostilities against the rest of the [[wizarding world]], beginning the [[First Wizarding War]].
+
+According to [[Igor Karkaroff]], Dolohov was among the most important Death Eaters and tortured many [[Non-magic people|Muggles]] and non-supporters of [[Tom Riddle|Lord Voldemort]] during the [[First Wizarding War]].<ref name="GF30">{{GOF|B|30}}</ref> He murdered [[Fabian Prewett|Fabian]] and [[Gideon Prewett]], the brothers of [[Molly Weasley]].<ref name="OP25">{{OOTP|B|25}}</ref> He was not the only participant in the act, though, since "[[Alastor Moody|Mad-Eye" Moody]] informed [[Harry Potter]] years later that it took five Death Eaters to kill the two wizards,<ref name="OP9">{{OOTP|B|9}}</ref> whose murders were described as "brutal."<ref name="OP25" /> Karkaroff also stated that Dolohov was among Voldemort's most important followers.<ref name="GF30"/>
+
+===Between the wars {{c|1981-1995}}===
+====Imprisonment====
+[[File:Order-of-the-phoenix-movie-screencaps.com-9446.jpg|245px|thumb|left|Dolohov in his high-security cell in Azkaban]]
+
+In the year before the fall of Voldemort on [[31 October]] [[1981]], Dolohov was captured and sent to [[Azkaban]] prison for his crimes.<ref>{{GOF|B|27}} - "“Rosier and Wilkes — they were both killed by Aurors the year before Voldemort fell." {{GOF|B|30}} - “Rosier is dead,” said Crouch. “He was caught shortly after you were too. He preferred to fight rather than come quietly and was killed in the struggle.”" "“We have already apprehended Dolohov,” said Crouch. “He was caught shortly after yourself.”" Karakaroff and Dolohov are captured about the same time as Rosier was killed the year before Voldemort fell.</ref> His name was the first one that [[Igor Karkaroff]] revealed to the [[Council of Magical Law]] in an attempt to get himself freed from Azkaban, only to be informed that Dolohov had been captured around the same time as him.<ref name="GF30" /> Dolohov then spent the next 14 years in his maximum security cell surrounded by Dementors. His cell was close to that of Bellatrix Lestrange's.
+
+===Second Wizarding War {{c|1995-1998}}===
+Early in [[1996]], Dolohov, along with the [[Lestrange family|Lestranges]] and several other [[Death Eaters|Death Eater]] convicts, [[Azkaban escapes#1996|escaped Azkaban]] and rejoined Voldemort. It was speculated in the ''[[Daily Prophet]]'' that the escape was aided by [[Sirius Black]],<ref name="OP25" /> but that was refuted in the aftermath of the [[Battle of the Department of Mysteries]].
+
+====Battle of the Department of Mysteries====
+{{Main|Battle of the Department of Mysteries}}
+{{Quote|...the Death Eater had ripped off his mask and was pointing his wand directly at Harry, who recognised the long, pale, twisted face from the ''Daily Prophet'': Antonin Dolohov, the wizard who had murdered the [[Prewett family|Prewett]]s.|Description of Dolohov's confrontation with Harry Potter|Harry Potter and the Order of the Phoenix}}
+
+[[File:Battle in the Death Chamber GIF.gif|241x241px|thumb|The Order of the Phoenix and Death Eaters duel in the Death Chamber]]
+
+On [[18 June]] [[1996]] [[Tom Riddle|Lord Voldemort]] lured Harry Potter to the [[British Ministry of Magic|Ministry of Magic]] precipitating the Battle of the Department of Mysteries. During the battle, Dolohov was paired with [[Jugson]] as the [[Death Eaters]] searched for the five students who had come to the Ministry with Harry Potter. They tracked [[Harry Potter]], [[Hermione Granger]], and [[Neville Longbottom]] to a room off the [[Time Room]], hitting the three of them with [[Impediment Jinx]]es. When Dolohov began to alert the other Death Eaters as to their location, Hermione used [[Silencing Charm]] on him to prevent it. He retaliated with an [[Antonin Dolohov's curse|unnamed curse]] which, despite being weaker than normal, because it was cast [[nonverbal spell|non-verbally]], severely injured Hermione. With a kick, Dolohov broke Neville's wand and nose and then cornered Harry, wordlessly threatening him. However, he was momentarily distracted, giving Harry the chance to [[Full Body-Bind Curse|Body-Bind]] him.<ref name="OOTP35">{{OOTP|B|35}}</ref>
+
+Before several [[Order of the Phoenix]] members arrived, Dolohov recovered, and he was able to defeat [[Alastor Moody]] in a duel. He placed [[Neville Longbottom]] under [[Dancing Feet Spell]] and attacked Harry with the same spell he used on Hermione, but most of the harm was blocked by Harry's [[Shield Charm]]. Then he tried used [[Summoning Charm]] on the [[prophecy]] in Harry's hand, but he was pushed by [[Sirius Black]]. He duelled Black where he seemed to get the upper hand but was again incapacitated by Harry with Body-Bind before he could hit Sirius with his signature spell.<ref name="OOTP35" />
+
+Presumably, Dolohov was captured in the aftermath of the battle by [[Auror]]s and returned to [[Azkaban]].
+
+====Death Eater plans====
+[[File:Meeting at Malfoy Manor.jpg|252x252px|thumb|left|Death Eater [[Meeting at Malfoy Manor]], during the height of the Second Wizarding War]]
+
+In [[July]] of [[1997]], Dolohov was again at large following another [[Azkaban escapes#1997|Azkaban break-out]]. He attended the [[Death Eaters|Death Eater]] meeting at [[Malfoy Manor]] that summer and was seated between [[Corban Yaxley]] and [[Severus Snape]]. He was also impressed when Yaxley announced that he had placed [[Pius Thicknesse]], the head of the [[Department of Magical Law Enforcement]], under the [[Imperius Curse]]. He along with other Death Eaters, laughed when [[Tom Riddle|Voldemort]] insulted [[Bellatrix Lestrange]] and the Malfoy family, regarding [[Nymphadora Tonks]] marrying werewolf [[Remus Lupin]].<ref name="DH1">{{DH|B|1}}</ref>
+
+====Luchino Caffe Duel====
+{{Main|Luchino Caffe Duel}}
+{{Quote|More, Rowle, or shall we end it and feed you to [[Nagini]]? Lord Voldemort is not sure that he will forgive this time... You called me back for this, to tell me that Harry Potter has escaped again? Draco, give Rowle another taste of our displeasure... Do it, or feel my wrath yourself!|Lord Voldemort punishing Rowle after he failed to capture Harry Potter|Harry Potter and the Deathly Hallows}}
+
+[[File:Antonin_Dolohov_and_Thorfinn_Rowle.JPG|250x250px|thumb|Dolohov and Thorfinn Rowle before attacking the trio in a [[Tottenham Court Road]] café]]
+
+Shortly after the Death Eaters took over the [[British Ministry of Magic|Ministry of Magic]] and placed the [[Taboo|Taboo curse]] on Voldemort's name, Dolohov and [[Thorfinn Rowle]] tracked the trio to a [[Luchino Caffe|café]] on Tottenham Court Road. Harry noticed their presence right away, including them reaching for their wands and mirrored the movement. The duel that followed was short but fierce. During the skirmish that ensued, Dolohov nonverbally bound [[Ronald Weasley|Ron Weasley]] with [[Incarcerous Spell|conjured ropes]] and slammed an invisible Harry Potter into a wall with ''[[Expulso Curse|Expulso]]'', but just before Harry dropped his wand, Hermione Granger hit Dolohov with a [[Full Body-Bind Curse]]. Dolohov's and Rowle's memories were then [[Memory Charm|modified]] by Hermione shortly after.<ref name="DH9">{{DH|B|9}}</ref>
+
+[[File:Hermione dueling.gif|250x250px|thumb|left|Dolohov being hit with ''Petrificus Totalus ''by Hermione Granger]]
+[[File:2017-07-24 (3).png|264x264px|thumb|left|A paralysed Dolohov]]
+
+This spell seemed to work well enough at the time, but it actually had not been very effective, as the three friends found out later when Harry had a vision of Voldemort forcing [[Draco Malfoy]] to torture Rowle; it is implied that Dolohov was subjected to the same punishment for their failure (and possibly also for summoning Voldemort unnecessarily when he was occupied with his search for the [[Elder Wand]]) by being subjected to the [[Cruciatus Curse]].<ref name="DH9">{{DH|B|9}}</ref> Dolohov may have been among the Death Eaters assigned to keep an eye out for [[12 Grimmauld Place]], former headquarters of the [[Order of the Phoenix]] and temporary hide-out for Harry, Ron and Hermione, as one of the Death Eaters mentioned watching the gap between houses 11 and 13 on the first of September was "the man with the twisted face", a characteristic often used to identify Dolohov.<ref name="DH12">{{DH|B|12}}</ref> The [[Death Eaters]] were able to find out Harry, Ron and Hermione's location because Lord Voldemort's name was [[Taboo]]ed.
+
+====[[Battle of Hogwarts]]====
+{{Dialogue a-b|Corban Yaxley|Definitely heard something. Animal, d’you reckon?|Dolohov|That head case Hagrid kept a whole bunch of stuff in here… Time’s nearly up. Potter’s had his hour. He’s not coming.|Discussion regarding Voldemort's ultimatum |Harry Potter and the Deathly Hallows}}During the Battle of Hogwarts on [[2 May]] [[1998]], Dolohov was seen fighting against [[Dean Thomas]] and [[Parvati Patil]]; Parvati shot a [[Full Body-Bind Curse]] at him in defence of Dean.<ref name="DH32">{{DH|B|32}}</ref> Dolohov also murdered [[Remus Lupin]] in a duel.<ref name="JKR">[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html Bloomsbury Webchat with J.K. Rowling, 30 July 2007]</ref> The nature of Remus's death was not revealed, but his body was peaceful-looking,<ref name="DH33">{{DH|B|33}}</ref> suggesting that Dolohov used the [[Killing Curse]] or [[Antonin Dolohov's Curse|his own curse]], as neither left visible marks. After [[Tom Riddle|Voldemort]] called a retreat and gave [[Harry Potter]] one hour to turn himself over, Dolohov and Yaxley stood guard in the [[Forbidden Forest]]. Harry followed them to the Death Eater camp to confront Voldemort.<ref name="DH34">{{DH|B|34}}</ref> When the battle later resumed, Dolohov was defeated by [[Filius Flitwick]],<ref name="DH36">{{DH|B|36}}</ref> a former duelling champion.
+
+His fate following the battle is unknown, though it is possible that he was killed by Flitwick. It is also likely that he was sent back to [[Azkaban]].
+
+==Physical description==
+[[File:Dolohov Pottermore.png|thumb|Antonin Dolohov]]
+Dolohov was described as having a "''long, pale, twisted face''" and as "burly," although not as large as the "huge" [[Thorfinn Rowle]].<ref name="DH9" /> He had also dark hair.<ref name="hair" /> As a Death Eater, he bore the [[Dark Mark]] on his left inner forearm.
+
+==Personality and traits==
+Dolohov was extremely loyal to [[Tom Riddle|Lord Voldemort]] and was a merciless Death Eater willing to commit various atrocities without hesitation or regret. He showed no remorse about wounding sixteen-year-old Hermione Granger; in fact, he was grinning about it as he tried to persuade Harry Potter to hand over the prophecy they were fighting over. Dolohov was very proud when he defeated [[Alastor Moody]] in a duel, as Moody was a highly skilled wizard.<ref name="OOTP35"/> Dolohov also displayed a highly arrogant and self-confident attitude and had developed a habit of engaging more than one opponent at a time or challenging powerful wizards such as the Prewett brothers, Moody, [[Sirius Black]], [[Remus Lupin]], and [[Filius Flitwick]].
+
+Dolohov was on friendly terms with his fellow Death Eaters, as he seemed to consider [[Corban Yaxley|Yaxley]] and [[Thorfinn Rowle]] as close friends. When Voldemort spoke of how [[Charity Burbage]] supported [[Non-magic people|Muggle]] rights and would permit breeding with them, Dolohov smiled in a confused fashion as if he literally thought that the idea of doing such a thing was disgusting, showing that he, like other Death Eaters, hated Muggles, [[Muggle-born]]s and most likely people who were [[half-blood]]s and [[blood traitor]]s.<ref name="DH1"/> Ironically, however, his master was in fact half-blood. It is not mentioned if Dolohov knew or not about Voldemort`s true [[blood status]].
+
+==Magical abilities and skills==
+{{Quote|But the Death Eater Hermione had just struck dumb made a sudden slashing movement with his wand from which flew a streak of what looked like purple flame. It passed right across Hermione’s chest; she gave a tiny “oh!” as though of surprise and then crumpled onto the floor where she lay motionless.|Dolohov [[Antonin Dolohov's curse|cursing]] [[Hermione Granger]] during the [[Battle of Hogwarts]]|Harry Potter and the Order of the Phoenix}}
+Dolohov was a highly powerful and dangerous [[Death Eaters|Death Eater]]. His immense [[magic]]al skills allowed him to go up against and defeat many powerful wizards and witches, including many [[Auror]]s and [[Order of the Phoenix]] members. It is likely that he was one of the most powerful Death Eaters.
+[[File:OOTP Death Chamber Sirius Harry Antonin Lucius.gif|thumb|Dolohov and [[Lucius Malfoy]] duelling [[Sirius Black]] and [[Harry Potter]] during the [[Battle of the Department of Mysteries]]]]
+*'''[[Duelling]]''': Antonin Dolohov was an extremely skilful duellist, highly proficient in [[martial magic]] and was one of the most dangerous and feared [[Death Eaters]]. He participated in the murders of [[Gideon Prewett|Gideon]] and [[Fabian Prewett]], both highly accomplished wizards, during the [[First Wizarding War]].<ref name="OP25" /> During the [[Battle of the Department of Mysteries]], he duelled [[Harry Potter]], [[Hermione Granger]], and [[Neville Longbottom]] single-handedly, despite a [[Silencing Charm]] forcing him to use all [[nonverbal spell|nonverbal magic]] to do so. He incapacitated Hermione and broke Neville's nose, and Harry only managed to defeat him because he was momentarily distracted. Shortly afterwards, he defeated and injured [[Alastor Moody|Alastor "Mad-Eye" Moody]], widely considered to be one of the best [[Auror]]s in recent times (and still highly respected even though he had retired), in a [[Duelling|duel]], although Moody had grown rusty due to his retirement. He then went on to duel [[Sirius Black]], with Sirius being unable to defeat Dolohov until Harry knocked him out from behind.<ref name="OOTP35"/> When he and fellow Death Eater [[Thorfinn Rowle]] ambushed Harry, Ron and Hermione in 1997, Dolohov lasted longer than his partner, defeating Harry and Ron in the process, and was only defeated by Hermione Granger due to a sneak attack.<ref name="DH9" /> In the [[Battle of Hogwarts]], Dolohov duelled and killed [[Remus Lupin]],<ref name="JKR" /> a powerful wizard who was an expert in [[Defence Against the Dark Arts]] and capable of [[wandless magic]], although it must be noted that Remus was not at the height of his duelling skills as he had spent two months not duelling due to having to constantly watch over his pregnant wife and thus his reflexes had been dulled, which contributed to Dolohov's ability to defeat and kill him. However, although he put up a good fight, Dolohov proved to be unable to defeat the former duelling champion [[Filius Flitwick]] and was defeated and even possibly killed by the superior duellist.<ref name="DH36"/>
+*'''[[Dark Arts]]''': Being a sadistic Death Eater, Dolohov was highly proficient and talented in dark magic and the casting of [[dark charm]]s, making him a formidable [[Dark Wizard]]. Dolohov could cast the [[Unforgivable Curses]] (which require ability and genuine malice to perform) as he attempted to cast the [[Killing Curse]] on Hermione before he was stopped by Harry Potter.<ref name="OOTP35"/> He was arrested for torturing Muggles and other enemies so it can be assumed that he was very competent with the [[Cruciatus Curse]].<ref name="GF30"/> He was also highly skilful with other [[dark charm]]s, most notably the [[Antonin Dolohov's curse|purple curse]] that he favoured on multiple occasions,<ref name="OOTP35"/> as well as the [[Expulso Curse]]<ref name="DH9"/> and [[Impediment Jinx]].<ref name="OOTP35"/>
+*'''[[Transfiguration]]''': Dolohov was able to [[Incarcerous Spell|conjure ropes]] from his wand,<ref name="DH9"/> which implied he was highly proficient in this notably complicated branch of [[magic]], as [[conjuration]] is an advanced form of transfiguration.
+[[File:Dolohov spell.JPG|251x251px|thumb|right|Dolohov casting a nonverbal spell]]
+*'''[[Nonverbal spell|Non-verbal magic]]''': Dolohov was highly skilled at nonverbal magic as shown during the [[Battle of the Department of Mysteries]] when he was hit with a Silencing Charm cast by Hermione Granger. Despite being unable to speak, he fought Hermione, Harry, and Neville all at once, incapacitating Hermione with [[Antonin Dolohov's curse|his signature spell]] (although its effects were not as powerful). He was also able to cast the [[Incarcerous Spell]] non-verbally. Furthermore, he attempted to kill Hermione with a non-verbal [[Killing Curse]] which is said to be highly difficult.<ref name="OOTP35"/>
+*'''[[Charm]]s''': Dolohov appeared to be skilled with charms, as he was able to cast the [[Summoning Charm]] in a failed attempt to get the prophecy from Harry Potter in 1996,<ref name="OOTP35"/> as well as the [[Dancing Feet Spell]], which he successfully used on [[Neville Longbottom]] during the Battle of the Department of Mysteries.<ref name="OOTP35"/>
+*'''[[Spell creation]] (possibly)''': [[Antonin Dolohov's Curse|Dolohov's signature spell]] involved using a slashing movement with his wand which would shoot purple [[fire]] at his victim. He used this spell several times during the battle of the Department of Mysteries ([[Hermione Granger|Hermione]] was the only one to be struck).<ref name="OOTP35" /> Dolohov was the only known practitioner of this unidentified spell and may have even invented it himself.
+
+==Media==
+<gallery width="200" position="center" spacing="small" captionalign="center" hideaddbutton="true">
+File:Harry Potter and the Order of the Phoenix - Bellatrix escapes from Azkaban (HD)|Azkaban Breakout
+File:Harry Potter and the Deathly Hallows part 1 - the Death Eaters at Malfoy Manor part 1 (HD)|Meeting at Malfoy Manor
+</gallery>
+
+==Etymology==
+*Dolohov is a surname of Russian origin. It is the name of a character in ''[[Wikipedia:War and Peace|War and Peace]]'', by Leo Tolstoy. This Dolohov is brave, but cruel and vindictive, though he is caring towards his mother and sister. [[J. K. Rowling]] has indirectly stated that she got the surname from this book.<ref>[https://twitter.com/jk_rowling/status/638106223993311233 @SSandrigon And I hope you've noticed where I got 'Dolohov'.] by [https://twitter.com/jk_rowling J. K. Rowling on Twitter]</ref>
+*Antonin is the French or Czech version of the name "Anthony". The name is derived from the Latin ''[[Wikipedia:Antonius|Antonius]]'' and ''[[Wikipedia:Antoninus|Antoninus]]''. Antonius was the name of a prominent Roman family whose members included soldier and politician Marcus Antonius, more commonly known as [[Wikipedia:Mark Antony|Mark Antony]]. Antoninus was the name of another prominent Roman family whose members included Emperors [[Wikipedia:Antoninus Pius|Antoninus Pius]] and [[Wikipedia:Marcus Aurelius|Marcus Aurelius Antoninus]].
+
+==Behind the scenes==
+[[File:LEGO Dolohov.png|thumb|Dolohov as depicted in {{LEGO|Y2}}]]
+*In {{HBP}}, it is mentioned that "Dolohov" was among [[Tom Riddle|Tom Marvolo Riddle]]'s followers when he asked [[Albus Dumbledore]] for the [[Defence Against the Dark Arts]] position sometime prior to the [[First Wizarding War]].<ref name="HBP20">{{HBP|B|20}}</ref> Since this individual's given name is not stated, it is not known whether he is Antonin Dolohov or a relative.
+*[[Arben Bajraktaraj]] portrayed Antonin Dolohov in {{OOTP|FA}} (although he is listed in the credits as "Azkaban Death Eater") and reprises the role in the [[Harry Potter and the Deathly Hallows: Part 1|first instalment]] of {{DH}}.<ref>See [[Forum:Incorrectly identified Death Eaters]]</ref>
+*In the book, {{DH|F1}}, [[Ronald Weasley|Ron Weasley]] suggests killing Dolohov and [[Thorfinn Rowle]] after evading their attack on [[Tottenham Court Road]], but reluctantly, and is relieved when Harry decides it is better to [[Memory Charm|obliviate]] them. In the film, however, Ron appears eager to kill Dolohov, partly out of anger for [[Luchino Caffe Duel|their recent attack]], and possibly due to Dolohov's hand in the deaths of his uncles, [[Fabian Prewett|Fabian]] and [[Gideon Prewett]]. Hermione is appalled by the suggestion, but Ron accedes to Harry's order to use the Memory Charm on him instead.
+*Dolohov tends to be subject to the [[Full Body-Bind Curse]], being hit by it twice during the [[Battle of the Department of Mysteries]], once during the [[Luchino Caffe Duel]] and once during the [[Battle of Hogwarts]].
+*Dolohov has no lines in the films aside from "''[[Expulso Curse|Expulso]]''" but he can be heard grunting in the seventh movie.
+*In the film adaptation of ''Harry Potter and the Order of the Phoenix'', Dolohov participated in the Battle of the Department of Mysteries, during which he is seen holding [[Hermione Granger]] hostage, which did not happen in the book.
+*Dolohov appeared in the [[Harry Potter and the Deathly Hallows: Part 2|second film adaptation]] of ''Harry Potter and the Deathly Hallows'', during which he is seen standing alongside all the Death Eaters when Voldemort announces that Harry Potter is “dead”.
+
+==Appearances==
+{{Imagecat|Images of Antonin Dolohov}}
+*{{GOF}} {{1st mention}}
+*{{OOTP}} {{1st}}
+*{{OOTP|F}} {{Comment|Credited as "Azkaban Death Eater"}}
+*{{HBP}} {{Comment|Mentioned in flashback}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{PM}}
+*{{WW}}
+*{{LEGO|Y2}}
+*{{HPK}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+{{DEFAULTSORT:Dolohov, Antonin}}
+[[de:Antonin Dolohow]]
+[[pt:Antônio Dolohov]]
+[[es:Antonin Dolohov]]
+[[fr:Antonin Dolohov]]
+[[fi:Antonin Dolohov]]
+[[nl:Antonin Dolochov]]
+[[ru:Антонин Долохов]]
+[[pl:Antonin Dołohow]]
+[[Category:Azkaban escapees]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Battle of the Department of Mysteries participants]]
+[[Category:Cruciatus Curse victims]]
+[[Category:Death Eaters]]
+[[Category:European individuals]]
+[[Category:Males]]
+[[Category:Meeting at Malfoy Manor participants]]
+[[Category:Murderers]]
+[[Category:Pure-blood supremacists]]
+[[Category:Unforgivable curse users]]

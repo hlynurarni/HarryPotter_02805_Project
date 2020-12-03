@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Landlord of The Hanged Man
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Landlord of [[The Hanged Man]]
+|house = 
+|loyalty = 
+}}
+{{Quote|War turned him funny, if you ask me.|The landlord on [[Frank Bryce]]|Harry Potter and the Goblet of Fire}}
+The '''landlord of The Hanged Man '''(fl. [[1943]]) was a [[Non-magic people|Muggle]] man who ran [[the Hanged Man]] pub in [[Little Hangleton]].
+
+==Biography==
+===The Riddle murders===
+The night the [[Riddle family|Riddles]] were murdered, in the summer of [[1943]], his pub was filled with villagers who wanted to gossip about the murders. After the [[Riddles' cook]] entered the pub, bringing the news of the arrest of [[Frank Bryce]], the landlord commented that the war turned Bryce funny, perhaps hinting that he believed the gardener was guilty of the murders of his employers.<ref name="GoF">{{GOF|B|1}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Właściciel Gospody Pod Wisielcem]]
+[[fr:Patron du Pendu]]
+[[Category:British individuals]]
+[[Category:Little Hangleton]]
+[[Category:Males]]
+[[Category:Pub landlords and landladies]]
+[[Category:Unidentified Muggles‎]]

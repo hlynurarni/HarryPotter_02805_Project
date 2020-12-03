@@ -1,0 +1,64 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Eldred Worple.png|250px]]
+|name = Eldred Worple
+|born = between [[1914]] and [[1970]] or earlier,<ref>[[Horace Slughorn]] resigned from his [[Professor|teaching position]] in [[1981]], meaning Worple would have been a member of the [[Slug Club]] by at least then. Slughorn began teaching in 1931.</ref> 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP15"/>
+|gender = Male<ref name="HBP15"/>
+|height = Short<ref name="HBP15"/>
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="HBP15"/>
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP15"/>
+**[[Slug Club]]<ref name="HBP15"/>
+}}
+{{Dialogue a-b|Worple|[[Harry Potter]], I am simply delighted! I was saying to [[Professor]] [[Horace Slughorn|Slughorn]] only the other day, ‘Where is the biography of Harry Potter for which we have all been waiting?’... But seriously, I would be delighted to write it myself — people are craving to know more about you, dear boy, craving! If you were prepared to grant me a few interviews, say in four- or five-hour sessions, why, we could have the book finished within months... My dear boy, the gold you could make, you have no idea —|Harry|I'm definitely not interested, and I've just seen a friend of mine, sorry.|Eldred Worple trying to convince [[Harry Potter]] to let him write his biography|Harry Potter and the Half-Blood Prince}}
+
+'''Eldred Worple''' (fl. [[1970]]-[[1997]]) was a [[Wizardkind|wizard]] and writer who was once a favourite student of [[Horace Slughorn]]. He studied [[vampire]]s, even becoming friends with one named [[Sanguini]], and wrote ''[[Blood Brothers: My Life Amongst the Vampires]]''. Worple was described as "small, stout, and bespectacled."<ref name="HBP15"/>
+
+==Biography==
+In [[1996]], Worple attended a [[Slug Club]] [[Slug Club Christmas party|Christmas party]] at [[Hogwarts School of Witchcraft and Wizardry]] and brought Sanguini as a guest. There, Professor Slughorn introduced them to [[Harry Potter]]. Worple tried to convince Harry to let him write his biography citing the money to be made, but Harry who was not fond of fame and already had money, declined, and quickly went to speak to his friend [[Hermione Granger]]. Worple also tried to distract Sanguini from some young women's necks by shoving a pasty in his hand.<ref name="HBP15">{{HBP|B|15}}</ref>
+
+==Behind the scenes==
+*Eldred Worple was portrayed by English actor [[Paul Ritter]] in {{HBP|FA}}. He looks quite different from his book counterpart, as he is rather tall (rather than stout) and does not wear glasses.<ref>''[http://www.imdb.com/name/nm0728795/ Paul Ritter as Eldred Worple in Harry Potter and the Half-Blood Prince (2009)]''</ref>
+
+==Etymology==
+The name "Eldred" is from an English surname which was derived from EALDRÆD. The name itself means "Old Advisor".
+
+==Appearances==
+{{Imagecat|Images of Eldred Worple}}
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+*{{HPV|CH}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Worple, Eldred}}
+[[de:Eldred Worple]]
+[[fr:Eldred Worpel]]
+[[nl:Elias Mier]]
+[[pl:Eldred Worple]]
+[[pt-br:Eldred Worple]]
+[[ru:Элдред Уорпл]]
+[[Category:Biographers]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Slug Club]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

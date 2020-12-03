@@ -1,0 +1,93 @@
+{{Individual infobox
+|theme = phoenix
+|image = [[File:Gideon Prewett.jpg|250px]]
+|name = Gideon Prewett
+|born = 
+|died = [[1981]]<ref>Gideon appeared in a photograph with [[Marlene McKinnon]] that was taken two weeks before Marlene's death in the summer of 1981. This indicates Gideon was alive in the summer of 1981 and must have been killed sometime between then and Voldemort's fall (31 October, 1981).</ref>
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Muriel's mother|Grandmother]]
+*[[Molly Weasley's father|Mr Prewett]] (father)
+*[[Molly Weasley's mother|Mrs Prewett]] (mother)
+*[[Muriel]] (great-aunt<ref>[https://www.pottermore.com/features/aunt-muriel-vs-aunt-marge Pottermore] states that she was "technically Mrs Weasley's great aunt" making Gideon her great-nephew</ref>)
+*[[Tessie]] (possible aunt)
+*[[Ignatius Prewett]] (uncle)
+*[[Lucretia Black|Lucretia Prewett]] (aunt)
+*[[Fabian Prewett]] (brother) †
+*[[Molly Weasley]] (sister)
+*[[Bilius]] (possible brother)
+*[[Molly Weasley's second cousin|Second cousin]]
+*[[Arthur Weasley]] (brother-in-law)
+*[[Weasley family|Various nephews and niece]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Prewett family]]
+*[[Order of the Phoenix]]
+}}
+{{Quote|Gideon Prewett, it took five Death Eaters to kill him and his brother Fabian, they fought like heroes…|[[Alastor Moody]] regarding the Prewett brothers deaths|Harry Potter and the Order of the Phoenix }}
+
+'''Gideon Prewett''' (d. [[1981]]) was an [[England|English]] [[pure-blood]] [[Wizardkind|wizard]], the brother of both [[Fabian Prewett|Fabian]] and [[Molly Weasley|Molly]]. Gideon was a member of the original [[Order of the Phoenix]]. He fought in the [[First Wizarding War]] and was murdered by five [[Death Eaters]] before war's end, along with his brother.
+
+==Biography==
+Gideon was born into the wizarding [[Prewett family]], with his two ''known ''siblings: [[Fabian Prewett|Fabian]] and [[Molly Weasley|Molly]].<ref>{{HBP}}</ref> During the [[First Wizarding War]], [[Molly Weasley|Molly]], Gideon's sister, married [[Arthur Weasley]], and the couple eventually had seven children. He also may have had a big nose.<ref>[http://e-card.51.net/movie.scripts/Harry.Potter/Harry-Potter-and-the-Prisoner-of-Azkaban.htm| Harry Potter and the Prisoner of Azkaban (script)]: Fred states that George's nose looks "positively massive" and is corrected that it is his - he says it is a family trait from Molly, implying that Gideon and Fabian may have had a big nose too.</ref>
+
+During the [[First Wizarding War]], Gideon and his brother decided to join the ranks of the [[Order of the Phoenix]] to fight against [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. Their sister does not appear to have been an official member, probably because she had young children to take care of.
+
+Eventually, however, Gideon and Fabian were attacked by five Death Eaters, one of whom was [[Antonin Dolohov]]. They were described as having "''fought like heroes''" by fellow Order member [[Alastor Moody|Alastor "Mad-Eye" Moody]], though both were ultimately killed. Following Voldemort's fall from power, Dolohov, and perhaps others involved in the Prewetts' "brutal" murders, were imprisoned in [[Azkaban]] for the crime.<ref>{{OOTP}}</ref>
+
+===Post-mortem===
+It has never been shown how Molly coped with the deaths of her brothers. She rarely mentions them, perhaps indicating that she took their loss hard, but when she does, she speaks fondly of them indicating her love for her brothers.
+
+==Magical abilities and skills==
+*'''[[Magic]]al mastery''': Along with his brother [[Fabian Prewett|Fabian]], Gideon was a highly-respected member of the [[Order of the Phoenix]], implying that he was proficient in many areas of magic. [[Alastor Moody]] noted that it took five [[Death Eaters]], including the particularly sadistic [[Antonin Dolohov]], to kill Gideon and his brother.<ref>{{OOTP|B|9}}</ref>
+
+==Etymology==
+[[Wikipedia:Gideon (Bible)|Gideon]] is a Hebrew name, possibly meaning "mighty warrior". There is a figure in the Bible known as Gideon who is a judge known for his faith and sense of justice.
+
+==Behind the scenes==
+*While Fabian and Gideon are mentioned as having been members of the [[Order of the Phoenix|Order]], their sister [[Molly Weasley|Molly]] was not, most likely because she was raising her children, Gideon's nephews, during the [[First Wizarding War]].
+*It is possible Gideon's sister honoured Fabian and Gideon with the naming of her twin sons, Fred and George, who have the same initials, 'F' and 'G'. Fabian and Gideon may also have been twins themselves, though it has yet to be confirmed or denied. Contrary to popular belief, identical twins (unlike fraternal twins) do not run in families so the fact that two of their nephews, Fred and George, are identical twins does not give any more weight to this speculation.
+
+==Appearances==
+{{Imagecat|Images of Gideon Prewett}}
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|F}} {{Photograph}}
+
+==Notes and references==
+{{Reflist}}
+{{Order of the Phoenix}} 
+
+{{DEFAULTSORT:Prewett, Gideon}}
+[[de:Gideon Prewett]]
+[[es:Gideon Prewett]]
+[[ru:Гидеон Пруэтт]]
+[[fr:Gideon Prewett]]
+[[nl:Gideon Protser]]
+[[pl:Gideon Prewett]]
+[[Category:1981 deaths]]
+[[Category:Blood traitors]]
+[[Category:English individuals]]
+[[Category:First Order of the Phoenix]]
+[[Category:First Wizarding War casualties]]
+[[Category:Killed by Antonin Dolohov]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Prewett family]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

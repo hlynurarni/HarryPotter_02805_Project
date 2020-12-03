@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = 
+|name = Bradley
+|born = [[31 August]] [[1984]] or earlier<ref>He had to have been at least in his first year in 1995. Although as first years aren't generally selected for the Quidditch team, it's more likely he was at least in his second year which would make him born 1983 or earlier.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]
+|loyalty = [[Ravenclaw Quidditch team]]
+}}
+{{Quote|Well, I mean, I'd already let in that one of Davies's, so I wasn't feeling all that confident, but I dunno, when Bradley came towards me, just out of nowhere, I thought — you can do this! And I had about a second to decide which way to fly, you know, because he looked like he was aiming for the right goalhoop — my right, obviously, his left — but I had a funny feeling that he was feinting, and so I took the chance and flew left — his right, I mean — and — well — you saw what happened.|[[Ronald Weasley]]|Harry Potter and the Order of the Phoenix}}
+'''Bradley''' was a [[Ravenclaw]] [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry]] and was a [[Chaser]] in the [[Ravenclaw]] [[Quidditch]] Team during the [[1995–1996 school year]].
+
+==Etymology==
+"Bradley" is from a surname which originally came from a place name that meant "broad clearing" in Old English.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts quidditch positions}}
+[[de:Bradley]]
+[[es:Bradley]]
+[[fr:Bradley]]
+[[pl:Bradley]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

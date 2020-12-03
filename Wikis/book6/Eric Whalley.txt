@@ -1,0 +1,28 @@
+{{Individual infobox
+|name = Eric Whalley
+|born = [[1920s]] - [[1930s]]
+|nationality = [[Great Britain|British]]<ref name="HBP13"/>
+|species = [[Human]]<ref name="HBP13"/>
+|gender = Male<ref name="HBP13"/>
+|loyalty = [[Wool's Orphanage]]<ref name="HBP13"/>
+|theme = muggle
+}}'''Eric Whalley''' was a [[Non-magic people|Muggle]] orphan, living in [[Wool's Orphanage]], in [[London]], as well as [[Tom Riddle|Tom Marvolo Riddle]]. At the time Tom was eleven, Eric and [[Billy Stubbs]] had the [[chicken pox]] and were being cared for by [[Martha (disambiguation)|Martha]].<ref name="HBP13">{{HBP|B|13}}</ref>
+
+==Etymology==
+The name "Eric" is from the Old Norse name Eiríkr, derived from the elements ei, meaning "ever" and ríkr, meaning "ruler".
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Whalley, Eric}}
+[[de:Eric Whalley]]
+[[fr:Eric Whalley]]
+[[pl:Eryk Whalley]]
+[[Category:20th century births|Whalley, Eric]]
+[[Category:British individuals|Whalley, Eric]]
+[[Category:Males|Whalley, Eric]]
+[[Category:Muggles|Whalley, Eric]]
+[[Category:Orphans|Whalley, Eric]]
+[[Category:Wool's Orphanage residents]]

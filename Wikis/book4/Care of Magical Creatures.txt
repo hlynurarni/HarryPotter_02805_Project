@@ -1,0 +1,193 @@
+{{Spoiler|WU|HM}}
+{{Class infobox
+|name=Care of Magical Creatures
+|image=CoMCHPCard.jpg
+|professor=*[[Silvanus Kettleburn]] {{c|formerly}}<ref name="POA5">{{POA|B|5}}</ref>
+*[[Rubeus Hagrid]]<ref name="POA5"/>
+*[[Wilhelmina Grubbly-Plank]] {{c|substitute}}<ref name="GOF24"/><ref name="OOTP13"/><ref name="OOTP15"/>
+|classroom=*[[Rubeus Hagrid's cabin]]<ref name="POA6"/>
+*[[Hogwarts Castle|Hogwarts grounds]]<ref name="POA6"/>
+*[[Forbidden Forest]]<ref name="POA6"/>
+*[[Care of Magical Creatures classroom]] {{c|formerly}}<ref name="PSG">{{PS|G}} - {{C|PS1 version}}</ref>
+|required textbooks=*''[[The Monster Book of Monsters]]'' by [[Edwardus Lima]]<ref name="POA4"/>
+*{{FB}} by [[Newton Scamander|Newt Scamander]]<ref name="FBR"/>
+|required equipment=*[[Book]]s
+*[[Parchment]]
+*[[Quill]]
+}}
+{{Quote|C'mon, now, get a move on! Got a real treat for yeh today! Great lesson comon' up! Everyone here? Right, follow me!|[[Rubeus Hagrid|Hagrid]]'s first Care of Magical Creatures lesson in [[1993]]|Harry Potter and the Prisoner of Azkaban}}
+'''Care of Magical Creatures''',<ref name="COS14"/> also known as '''Creature Care''',<ref name="nygCC">{{See image|File:The New York Ghost FB2.png}}</ref> is an elective course at [[Hogwarts School of Witchcraft and Wizardry]] that can be chosen by students in their [[third year]]. [[Ilvermorny School of Witchcraft and Wizardry]] introduced this course in [[1927]].<ref name="nygCC"/>
+
+In the class, students learn about a wide range of [[magic]]al [[creature]]s,<ref name="POA6"/> from [[flobberworm]]s,<ref name="POA8"/> [[hippogriff]]s,<ref name="POA6"/> [[unicorn]]s<ref name="GOF24"/> and even [[thestral]]s.<ref name="OOTP21"/> Students are taught about feeding, maintaining, breeding, and proper treatment of these creatures and many more.
+
+The [[Wizardkind|witches and wizards]] who succeeded in achieving an [[Ordinary Wizarding Level|O.W.L.]] in the subject can later become [[Magizoologist]]s. Some well-known Magizoologists are [[Newton Scamander|Newt Scamander]],<ref name="FBR"/> his grandson [[Rolf Scamander]], and his wife [[Luna Lovegood]].
+
+==Class information==
+{{Quote|My brother Charlie was the outdoors type, so he went for Care of Magical Creatures.|[[Percy Weasley]] on choosing subjects in third year|Harry Potter and the Chamber of Secrets}}[[File:B3C6M3.jpg|250px|thumb|left|A third year hippogriff lesson in 1993]]
+Care of Magical Creatures is a subject taught only to those in their [[third year]] or above who choose to take it as an elective course.<ref name="COS14">{{COS|B|14}}</ref><ref name="POA6"/>
+
+In a students' [[fifth year]] they take the [[Ordinary Wizarding Level]] examination in the subject, where they sit both a written portion and a practical portion, were they demonstrate their knowledge of the subject. On their Care of Magical Creatures practical they have to identify a [[knarl]] hidden among a dozen hedgehogs; demonstrate correct handling of a [[bowtruckle]]; feed and clean out a [[fire crab]] without sustaining serious burns; choose from a wide selection of food the diet they would give a sick [[unicorn]].<ref name="OOTP31"/>
+
+It is unknown how many of [[Harry Potter]]'s fellow students chose to continue Care of Magical Creatures in their [[Nastily Exhausting Wizarding Test|N.E.W.T.]] year; however, Harry, [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] left the subject after completing their [[Ordinary Wizarding Level|O.W.L.s]].<ref name="HBP8">{{HBP|B|8}}</ref>
+
+As of the late 20th century, many students have earned good grades in this class, something [[Albus Dumbledore]] attributed to the use of {{FB}} as a textbook.<ref name="FBR">{{FB|R}}</ref>
+
+===Staffing===
+{{Quote|I hope she stays, that woman! That’s more what I thought Care of Magical Creatures would be like... proper creatures like unicorns, not monsters....|[[Parvati Patil]] praising [[Wilhelmina Grubbly-Plank|Professor Grubbly-Plank]]'s teaching skills, compared to Hagrid's|Harry Potter and the Goblet of Fire}}
+[[File:Rubeus Hagrid promo.png|200px|thumb|Rubeus Hagrid, current professor of Care of Magical Creatures]]
+[[Silvanus Kettleburn]] taught Care of Magical Creatures until [[1993]], when he retired "''to enjoy more time with his remaining limbs''." He was succeeded by [[Rubeus Hagrid]], whose lessons became controversial after [[Draco Malfoy]] was injured by a [[hippogriff]], [[Buckbeak]].<ref name="POA6"/> After Malfoy was injured, Hagrid was more restrained and cautious in the creatures he showed to the class for the remainder of the [[1993–1994 school year]], although Hagrid occasionally brought creatures that were illegal to class. Hermione Granger attempted to organise Hagrid's classes in order to make him a better teacher and prevent him from being fired. In his [[1994–1995 school year|second year]] of teaching the subject, Hagrid introduced the his [[fourth year]] class to [[Blast-Ended Skrewt]]s during his lessons, a species of illegally bred creatures.<ref name="GOF13"/>
+
+During the [[1994–1995 school year]] and also the [[1995–1996 school year]], for a short time, Hagrid was substituted by [[Wilhelmina Grubbly-Plank]], who gave lessons on [[unicorn]]s<ref name="GOF24"/> and [[bowtruckle]]s.<ref name="OOTP13"/>
+
+==Class location==
+Care of Magical Creatures classes typically take place outside of [[Hagrid's Hut]],<ref name="POA6"/> but some lessons occasionally take place in the [[Forbidden Forest]], such as the [[Thestral]] lesson.<ref name="OOTP21"/>
+
+==Curriculum==
+
+===Third year===
+{{Quote|Harry could sort of see what Hagrid meant. Once you had got over the first shock of seeing something that was half-horse, half-bird, you started to appreciate the Hippogriffs’ gleaming coats, changing smoothly from feather to hair, each of them a different colour: stormy grey, bronze, a pinkish roan, gleaming chestnut and inky black.|Harry's first Care of Magical Creatures class in [[1993]]|Harry Potter and the Prisoner of Azkaban}}
+*[[Hippogriff]]<ref name="POA6">{{POA|B|6}}</ref>
+*[[Flobberworm]]<ref name="POA8">{{POA|B|8}}</ref>
+*[[Fire Dwelling Salamander|Salamander]]<ref name="POA12">{{POA|B|12}}</ref>
+
+===Fourth year===
+{{Quote|Boys keep back! They prefer the woman’s touch, unicorns. Girls to the front, and approach with care, come on, easy does it....|[[Wilhelmina Grubbly-Plank|Professor Grubbly-Plank]] teaching [[fourth year]]s about to handle [[Unicorn]]s properly|Harry Potter and the Goblet of Fire}}
+{| width="100%"
+| valign="top" width="33%"|
+*[[Blast-Ended Skrewt]]<ref name="GOF13">{{GOF|B|13}}</ref><ref name="GOF15">{{GOF|B|15}}</ref><ref name="GOF18">{{GOF|B|18}}</ref><ref name="GOF21">{{GOF|B|21}}</ref>
+*[[Fire crab]]<ref>{{HM|4|1|cmc}}</ref>
+*[[Kneazle]]<ref>{{HM|4|13|cmc}}</ref>
+*[[Murtlap]]<ref>{{HM|4|8|cmc}}</ref>
+| valign="top" width="33%"|
+*[[Niffler]]<ref name="GOF28">{{GOF|B|28}}</ref>
+*[[Streeler]]<ref>{{HM|4|11|cmc}}</ref>
+*[[Unicorn]]<ref name="GOF24">{{GOF|B|24}}</ref><ref name="GOF26">{{GOF|B|26}}</ref>
+|}
+
+===Fifth year===
+{{Quote|Professor Grubbly-Plank stood waiting for the class some ten yards from Hagrid’s front door, a long trestle table in front of her laden with twigs.|Harry's first Care of Magical Creatures class in [[1995]]|Harry Potter and the Order of the Phoenix}}
+{| width="100%"
+| valign="top" width="33%"|
+*[[Bowtruckle]]<ref name="OOTP13">{{OOTP|B|13}}</ref>
+*[[Thestral]]<ref name="OOTP21">{{OOTP|B|21}}</ref>
+*[[Knarl]]<ref name="OOTP31">{{OOTP|B|31}}</ref>
+*[[Kneazle]] {{C|Revision}}<ref name="OOTP15"/>
+*[[Chimaera]]<ref>{{HM|5|33|cmc}}</ref>
+| valign="top" width="33%"|
+*[[Crup]]<ref name="OOTP25">{{OOTP|B|25}}</ref>
+*[[Porlock]]<ref name="OOTP15">{{OOTP|B|15}}</ref>
+*[[Fairy]]<ref>{{HM|5|6|cmc}}</ref>
+*[[Puffskein]]<ref name="HM518">{{HM|5|18|cmc}}</ref>
+*[[Flobberworm]]<ref name="HM531">{{HM|5|31|cmc}}</ref>
+|}
+
+===Sixth year===
+{| width="100%"
+| valign="top" width="33%"|
+*[[Glumbumble]]<ref>{{HM|6|3|cmc}}</ref>
+*[[Diricawl]]<ref name="HM68">{{HM|6|8|cmc}}</ref>
+*[[Fwooper]]<ref name="HM613">{{HM|6|13|cmc}}</ref>
+*[[Moke]]<ref name="HM617">{{HM|6|17|cmc}}</ref>
+*[[Jackalope]]<ref>{{HM|6|25|cmc}}</ref>
+| valign="top" width="33%"|
+*[[Thestral]]<ref name="HM620">{{HM|6|20|cmc}}</ref>
+*[[Knarl]]<ref name="HM630">{{HM|6|30|cmc}}</ref>
+*[[Doxy]]<ref name="HM634">{{HM|6|34|cmc}}</ref>
+*[[Golden Snidget]]<ref name="HM639cmc">{{HM|6|39|cmc}}</ref>
+|}
+
+===Other===
+Other [[creature]]s shown to classes across the years include:
+*[[Yeti]]<ref name="HM1CH">{{HM|1|The Christmas Holidays}}</ref>
+
+==Known Professors==
+<gallery widths="105" spacing="medium" orientation="portrait">
+Silvanus_Kettleburn HM.png|[[Silvanus Kettleburn]]<br />(? - 1993)<ref name="POA5"/>
+Rubeus Hagrid.jpg|[[Rubeus Hagrid]] (1993-?)<ref name="POA5"/>
+Wilhelmina Grubbly-Plank.jpg|[[Wilhelmina Grubbly-Plank]] (1994 - ?)<ref name="GOF24"/><ref name="OOTP13"/><ref name="OOTP15"/>
+</gallery>
+
+==Required textbooks==
+{{Quote|Hasn' anyone bin able ter open their books? Yeh've got to ''stroke'' 'em.|Hagrid in his first lesson of magical creatures; he thought the books were funny|Harry Potter and the Prisoner of Azkaban}}<gallery orientation="portrait" widths="105" spacing="large">
+The Monster Book of Monsters.gif|''[[The Monster Book of Monsters]]''<ref name="POA4">{{POA|B|4}}</ref><ref name="POA6"/>
+Fantastic-beasts-and-where-to-find-them-pottermore.png|{{FB}}<ref name="FBR"/>
+</gallery>
+
+==Grades==
+{| width="100%"
+| valign="top" width="23%" |
+===Passing Grades===
+*[[Outstanding]] [O]
+*[[Exceeds Expectations]] [E]
+*[[Acceptable]] [A]
+| valign="top" width="23%" |
+===Fail Grades===
+*[[Poor]] [P]
+*[[Dreadful]] [D]
+*[[Troll (grade)|Troll]] [T]
+|}
+
+==Known O.W.L.s==
+<gallery position="center" spacing="small" orientation="portrait" widths="105" >
+GOF promo Angelina Johnson.jpg|[[Angelina Johnson]]<ref name="OOTP31"/>
+HBP_promo_side_Harry_cropped.jpg|[[Harry Potter]]<ref name="HBP5">{{HBP|B|5}}</ref>
+Hermione Granger Half Blood Prince.jpg|[[Hermione Granger]]<ref name="HBP5"/>
+Percy.jpg|[[Percy Weasley]]
+Ron Weasley Half Blood Prince.jpg|[[Ronald Weasley|Ron Weasley]]<ref name="HBP5"/>
+Charlie_PM.jpg|[[Charles Weasley|Charlie Weasley]]
+ Luna Lovegood.jpg|[[Luna Lovegood]] (likely)
+Newton Scamander Profile crop.png|[[Newton Scamander]]
+Silvanus_Kettleburn_HM.png|[[Silvanus Kettleburn]]
+Wilhelmina_Grubbly-Plank.jpg|[[Wilhelmina Grubbly-Plank]]
+</gallery>
+*[[Rolf Scamander]] (likely)
+
+==Behind the scenes==
+*As revealed in {{PM}}, [[J. K. Rowling]] had originally devised this class to be called "Beasts", and to be compulsory from the [[first year]].<ref name="Pottermore">{{WW|hogwarts-school-subjects}}</ref>
+*The year in which creatures are covered seems to depend on the teacher. Silvanus Kettleburn covered salamanders with [[Fred Weasley|Fred]] and [[George Weasley]] in their [[fourth year]], while Rubeus Hagrid taught about salamanders in Harry Potter's third year. Hermione Granger stated that a person like Wilhelmina Grubbly-Plank probably wouldn't have covered Thestrals until reaching NEWT-level, whereas Rubeus Hagrid taught about Thestrals in Harry's fifth year.
+*In {{HM}}, the class is not available until Year 4. If players take [[Jacob's sibling]] to the O.W.L. through an optional side quest, they will definitely gain at least an A, even if they fail to answer every question and care for any creatures.
+
+==Appearances==
+*{{PS|G}} {{Mention}}
+*{{COS}} {{1st Mention}}
+*{{POA}} {{1st}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}} {{C|Danish version only}}
+*{{GOF|G}}
+*{{OOTP}}
+*{{OOTP|F}} {{Mention}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{HBP|G}} {{Mention}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{FB|R}} {{Mention}}
+*{{LEGO|B}} {{Mention}}
+*{{LEGO|Y1}}
+*{{TCG}} {{Mention}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Care of Magical Creatures}}
+{{Ilvermorny}}
+{{Hogwarts subjects}}
+[[de:Pflege magischer Geschöpfe]]
+[[de2:Pflege Magischer Geschöpfe]]
+[[es:Cuidado de Criaturas Mágicas]]
+[[fi:Taikaolentojen hoito]]
+[[fr:Soins aux créatures magiques]]
+[[it:Cura delle Creature Magiche]]
+[[nl:Verzorging van Fabeldieren]]
+[[pl:Opieka nad magicznymi stworzeniami]]
+[[ru:Уход за магическими существами]]
+[[uk:Догляд за магічними істотами]]
+[[zh:保护神奇生物]]
+[[Category:Care of Magical Creatures]]

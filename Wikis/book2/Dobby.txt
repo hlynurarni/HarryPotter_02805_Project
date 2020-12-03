@@ -1,0 +1,327 @@
+{{Spoiler|PAS|WU|HM}}
+{{Semiprotected}}
+{{FA}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Dobby.jpg|250px]]
+|name = Dobby
+|born = [[28 June]],<ref name=lexicon>[http://www.hp-lexicon.org/about/sources/jkr.com/jkr-com-timeline.html J.K.Rowling - Official Site Timeline]</ref> unknown year
+|died = Late [[March]], [[1998]]<br/>[[Shell Cottage]], [[Tinworth]], [[Cornwall]], [[England]], [[Great Britain]]<ref name="DH23"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COS2"/>
+|alias = 
+|title = Free elf<ref name="DH23"/>
+|signature = 
+|species = [[House-elf]]<ref name="COS2"/>
+|gender = Male<ref name="COS2"/>
+|height = 3 feet<ref name="COS2"/>
+|weight = 
+|hair = 
+|eyes = Green<ref name="eyes">{{COS|B|2}} - "The little creature on the bed had large, bat-like ears and bulging green eyes the size of tennis balls."</ref>
+|skin = 
+|family = <!-- Do NOT establish any family relationship with Winky without stating your references. -->
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = 
+|patronus = 
+|job = *[[Malfoy family]]'s [[house-elf]] (? - [[1993]])<ref name="COS18"/>
+*[[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] kitchens worker (December [[1994]] - [[1998]])<ref name="GoF"/>
+|house = 
+|loyalty = *[[Malfoy family]] {{c|formerly}}<ref name="COS18"/>
+*[[Harry Potter]]
+*[[Ronald Weasley]]
+*[[Hermione Granger]]
+*[[Dumbledore's Army]]<ref name="OOTP18"/><ref name="OOTP27"/>
+*[[Order of the Phoenix]]<ref name="DH23"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Society for the Promotion of Elfish Welfare|S.P.E.W.]]
+}}
+{{Quote|Dobby has no master! Dobby is a free elf, and Dobby has come to save Harry Potter and his friends!|Dobby's pride of being a free elf, and his loyalty towards [[Harry Potter]]|Harry Potter and the Deathly Hallows}}
+
+'''Dobby''' ([[28 June]] {{C|year unknown}} – [[March]], [[1998]]) was a male [[house-elf]] who served the [[Malfoy family]]. His masters were [[Dark Wizard]]s who treated him cruelly. In [[1992]] he disobeyed his masters and tried to warn [[Harry Potter]] of the plot to have the [[Chamber of Secrets]] reopened. He came to know this via the contact between his masters and [[Tom Riddle|Lord Voldemort]].  At the end of that school year, after Harry had vanquished the memory of [[Tom Riddle]] and slayed the [[Salazar Slytherin's Basilisk|basilisk]] in the Chamber of Secrets, he [[Harry Potter's sock|tricked]] [[Lucius Malfoy]] into freeing Dobby. Harry accomplished this by placing [[T. M. Riddle's Diary]] inside his own sock.<ref name="sock">{{COS|B|18}} - "Harry took off one of his shoes, pulled off his slimy, filthy sock, and stuffed the diary into it."</ref> Lucius disgustedly ripped the sock off the book and threw the sock into the air, where Dobby caught it.
+
+Dobby suffered a period of unemployment, during which he was often ostracised for having no "proper shame" in regards to being out of work. He was generally pleased to be free, although he did enjoy working as a hobby. Dobby was ecstatic to be out of the abusive hands of the Malfoys, but equally pleased to join the Hogwarts staff. At Hogwarts he could come and go as he liked, did not have many tasks, and those he did have were fairly simple. Dobby requested some compensations for his work and eventually he and Dumbledore came to an agreement. Dobby went on to work in the kitchens at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], for which he was paid one [[Galleon]] a week and got one day off each month. He had been accompanied to Hogwarts by his friend [[Winky]] (who had recently been dismissed) and so began Dobby's new happy life nearby his closest friends: Harry, [[Ronald Weasley|Ron]], and [[Hermione Granger|Hermione]].
+
+In [[1997]] Dobby helped Harry spy on [[Draco Malfoy]] along with [[Kreacher]]. In [[1998]] he went on [[Aberforth Dumbledore]]'s orders to save the lives of Harry and his companions from [[Death Eaters]] at [[Malfoy Manor]]. During this rescue he was fatally wounded by [[Bellatrix Lestrange's knife]], but successfully apparated Harry and Griphook to safety at Shell Cottage. Harry dug Dobby's grave without magic, in the gardens of [[Shell Cottage]] and carved into the headstone of the grave "''HERE LIES DOBBY, A FREE ELF.''"
+
+==Biography==
+===Serving the Malfoy family {{c|?-1993}}===
+{{Dialogue a-b-a-b|Harry Potter|Do they know you’re here?|Dobby|Oh, no, sir, no... Dobby will have to punish himself most grievously for coming to see you, sir. Dobby will have to shut his ears in the oven door for this. If they ever knew, sir —|But won’t they notice if you shut your ears in the oven door?|Dobby doubts it, sir. Dobby is always having to punish himself for something, sir. They lets Dobby get on with it, sir. Sometimes they reminds me to do extra punishments...|Dobby telling Harry Potter about his miserable life with the Malfoys|Harry Potter and the Chamber of Secrets}}
+
+Dobby was the resident [[house-elf]] of [[Malfoy Manor]], serving [[Lucius Malfoy]], his wife [[Narcissa Malfoy|Narcissa]], and their only son [[Draco Malfoy|Draco]].<ref name="COS18"/> They treated Dobby with unkindness and cruelty, often reminding him to perform extra punishments on himself when he did something disagreeable to [[Malfoy family|them]].<ref name="COS2"/> The Malfoys were harsh and abused Dobby often.  Dobby was threatened many times during his time serving the Malfoy family and told [[Harry Potter]] that he was accustomed to death threats, because he received them 'five times a day' from the Malfoys.<ref name="COS10">{{COS|B|10}}</ref> Though he always did as he was told, he knew that their behaviour was wrong and he longed to be free of them.<ref name="COS2">{{COS|B|2}}</ref><ref name="COS18">{{COS|B|18}}</ref>
+
+During the [[1985–1986 school year]], Dobby befriended [[Jacob's sibling]].<ref name="HM">{{HM|2|MEET THE MALFOYS}}</ref>
+
+====Re-opening of the Chamber of Secrets====
+{{Quote|Harry Potter must NOT go back to Hogwarts School of Witchcraft and Wizardry this year!|Dobby warning [[Harry Potter|Harry]] not to return to Hogwarts|Harry Potter and the Chamber of Secrets}}[[File:DobbyHarryBedroom.PNG|292px|thumb|Dobby trying to persuade Harry]]
+
+Dobby knew of the plan to reopen the [[Chamber of Secrets]] during Harry Potter's [[1992–1993 school year|second year]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. Presumably, this was because the [[Malfoy family|Malfoys]] saw Dobby as an insignificant slave, and because they knew that [[house-elf|house-elves]] were not able to break the commands of their masters, never believing he would try to interfere.<ref name="COS2"/>
+
+Dobby went to the [[4 Privet Drive|Dursley house]] to warn Harry not to go back to school, revealing that he had been intercepting his mail. Harry adamantly refused to comply, so Dobby performed a [[Hover Charm]] on Aunt Petunia's pudding, which was detected by the [[British Ministry of Magic|Ministry of Magic]] through [[Trace|the Trace]].<ref name="COS2"/>
+
+[[Mafalda Hopkirk]] of the [[Improper Use of Magic Office]] sent Harry a warning letter for the apparent transgression by an under-age wizard, informing the Dursleys that Harry was not allowed to use magic outside of school.<ref name="COS2"/> Harry was then locked in his room;<ref name="COS2"/> however [[Ronald Weasley|Ron]], [[Fred and George Weasley]] came in their dad's [[Flying Ford Anglia|enchanted flying car]] to free him.<ref name="COS3">{{COS|B|3}}</ref> Unfazed, Dobby covertly watched Harry Potter and magically sealed the barrier to [[Platform Nine and Three-Quarters]], preventing Harry and Ron from reaching the [[Hogwarts Express]].<ref name="COS10"/> This too failed, as the two used the flying car again to catch up the [[Hogwarts Express]]; this however almost caused Harry's and Ron's expulsion from Hogwarts, due to their damaging the [[Whomping Willow]] after arriving late at the school.<ref name="COS5">{{COS|B|5}}</ref> Dobby was so shocked to hear that they managed to return to Hogwarts that he accidentally allowed the Malfoy's dinner to burn, for which he was punished.<ref name="COS10"/>
+
+[[File:Harry-potter-and-dobby-gallery.jpg|250x250px|thumb|left|Dobby and Harry in the hospital wing, after Harry injured his right arm during a [[Quidditch]] match]]
+
+Lastly, Dobby tried his most risky and dangerous plan by making [[Dobby's Bludger|a Bludger]] attack Harry during a Quidditch match, hoping to send him back to Privet Drive injured, but alive. This plan could not have been too well thought-out, because under normal circumstances Madam Pomfrey, the school nurse, would have been able to mend Harry's injuries instantly. However, an unfortunate blunder by Professor Gilderoy Lockhart resulted in Harry losing all the bones in his right arm. Madam Pomfrey was able to regrow the bones by using [[Skele-Gro]] but it took an entire night. While Harry was in the [[Hospital Wing]] recovering, Dobby appeared and admitted his acts, enraging Harry to the point that he threatened to strangle him. Dobby implored Harry to leave, accidentally admitting that the [[Chamber of Secrets]] had been opened before. Harry demanded to know who had opened it last time, but Dobby refused to reveal any more information and [[Apparition|disapparated]] when he heard someone coming.<ref name="COS10"/>
+
+===A Free Elf {{c|1993-1998}}===
+{{Dialogue a-b-a-b|Lucius Malfoy|Come, Dobby. I said come.|Dobby|Master has given a sock, Master gave it to Dobby.|What's that? What did you say?|Got a sock, Master threw it, and Dobby caught it, and Dobby — Dobby is free!|Dobby's liberation|Harry Potter and the Chamber of Secrets}}[[File:Dobby's sock.png|237x237px|thumb|Dobby achieves his freedom]]
+
+Near the end of Harry's second year, Lucius Malfoy came to the school with Dobby to see if it was true that [[Headmaster]] [[Albus Dumbledore]] had returned. Here, realising that Dobby belonged to the Malfoys, Harry placed one of his socks inside Tom Riddle's Diary and handed it to Lucius Malfoy, accusing him of being the one that planted the diary at Hogwarts. In the book, Lucius opened the diary and found Harry's sock inside. He then threw it only for it to be caught by Dobby.<ref name="COS18"/> This act freed Dobby from the Malfoys.<ref name="sock" /> When Lucius tried to attack Harry in retaliation, Dobby blasted him backwards down a flight of stairs. Although house elves are treated as low-class slaves, they have [[House-elf magic|very powerful magic]], and even some beyond [[Wizardkind|wizard]] ability. Harry's only request in return for granting Dobby freedom was for Dobby never to try to save his life again.<ref name="COS18"/>
+
+====Working in the kitchens====
+{{Quote|Professor Dumbledore offered Dobby ten Galleons a week, and weekends off, but Dobby beat him down, miss... Dobby likes freedom, miss, but he isn't wanting too much, miss, he likes work better.|Dobby explains to Hermione how he negotiated his salary|Harry Potter and the Goblet of Fire}}
+After becoming a free elf, Dobby struggled to find work, as he wanted to be paid, which was uncommon for house-elves. Eventually, he was hired by [[Albus Dumbledore]] to work in the kitchens of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] for a [[Galleon]] a week and one day a month off. [[Hermione Granger]] was initially indignant at the amount of pay, but Dobby explained that he requested that amount, as Dumbledore had offered ten Galleons a week and weekends off. It was just before this time that Hermione formed the organisation called [[Society for the Promotion of Elfish Welfare|S.P.E.W]], which Ron often derisively called "''spew''".<ref name="GoF" />
+
+[[File:House-elves in Hogwarts kitchens.png|250x250px|thumb|left|Dobby introduces the trio to [[Winky]]]]
+
+When [[Winky]], [[Bartemius Crouch Senior|Barty Crouch Snr]]'s house-elf, was given clothes and freed of her servitude, she did not accept it as a reward, as Dobby had, but rather as punishment and a shameful failure in the fashion of most house-elves.<ref name="GoF">{{GOF}}</ref> She took up work at Hogwarts as well, but she became a heavy drinker of [[butterbeer]], and Dobby took care of her. For a time, Dobby was the only Hogwarts house-elf who would clean [[Gryffindor Tower]], because Hermione had hidden woollen hats and socks in with the rubbish with the intention of freeing them. The Hogwarts house-elves refused thereafter to clean the common room, as they viewed the hidden clothes to be insulting. This was a delight for Dobby, though, because it allowed him to see Harry Potter and his friends, including [[Ronald Weasley|Ron Weasley]], whom he called [[Harry Potter]]'s "Wheezy."<ref name="GoF"/>
+
+During the second task of the [[Triwizard Tournament]], [[Bartemius Crouch Junior|Bartemius Crouch Jnr]], who was disguised as [[Alastor Moody]], tricked Dobby into stealing a helping of [[gillyweed]] to give to Harry Potter. This allowed Harry to breathe underwater and retrieve [[Ronald Weasley|Ron Weasley]] and [[Gabrielle Delacour]] from the lake.<ref name="GoF" /> 
+
+====Friendship with Aberforth Dumbledore====
+Dobby continued to work in the kitchens at Hogwarts, but was an outsider among the other elves in the castle. Over the course of his employment at Hogwarts, Dobby became close friends with [[Aberforth Dumbledore]] and spent much time at Aberforth's home in [[Hogsmeade]]. Aberforth seemed to have a close attachment to Dobby, since he felt very sorry when he learned he died<ref name="DH28">{{DH|B|28}}</ref>
+
+====Dumbledore's Army====
+{{Quote|Dobby knows the perfect place, sir! Dobby heard tell of it from the other house-elves when he came to Hogwarts, sir. It is known by us as the Come and Go Room, sir, or else as the Room of Requirement!|Dobby telling Harry Potter of the Room of Requirement|Harry Potter and the Order of the Phoenix}}
+In [[1995]], when [[Dolores Umbridge]] banned all clubs at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], Harry Potter half-heartedly asked Dobby if he knew of a secret place in which they could have meetings for Dumbledore's Army; Dobby subsequently told him of the [[Room of Requirement]] and how to get into it. He knew of this secret room, because he had used it frequently to hide Winky after she became drunk from Butterbeer. Harry Potter successfully made use of the room and thus was able to start holding Dumbledore's Army meetings.<ref name="OOTP18">{{OOTP|B|18}}</ref>
+
+[[File:Dumbledore's Army in the Room of Requirement.png|250px|thumb|Dobby alerts Harry that Dolores Umbridge found out about [[Dumbledore's Army]]]]
+
+When [[Marietta Edgecombe]] betrayed Dumbledore's Army to Professor Umbridge, Dobby immediately warned Harry that the [[Inquisitorial Squad]] was going to attack, even though the house-elves had been forbidden to tell anyone, but he told Harry as he was far more loyal to Harry Potter than to Umbridge or Hogwarts in general and also a free elf that was not forced to obey. When he heard, Harry ordered Dobby not to punish himself for disobeying a direct order from Umbridge. Despite Dobby's warning Harry and the other members were still caught and punished.<ref name="OOTP27">{{OOTP|B|27}}</ref>
+
+====Spying on Draco Malfoy====
+{{Dialogue a-b-a|Harry Potter|I want you to tail Draco Malfoy. I want to know where he's going, who he's meeting and what he's doing. I want you to follow him around the clock.|Dobby|Yes, Harry Potter! And if Dobby does it wrong, Dobby will throw himself off the topmost tower, Harry Potter!|There won’t be any need for that.|Harry gives Dobby and Kreacher a long-term task|Harry Potter and the Half-Blood Prince}}[[File:B6C19 Peeves Dobby Kreacher Hospital Wing.png|thumb|
+Kreacher and Dobby fight, while being encouraged by Peeves
+|240x240px|left]]
+
+On Harry's orders, Dobby, along with [[Kreacher]], formerly the [[House of Black]]'s house-elf who now belonged to [[Harry Potter|Harry]], tailed Draco Malfoy and helped Harry learn that Draco was using the [[Room of Requirement]]. Kreacher insulted Harry and stated that Draco would be a better master. Dobby fought him and knocked out several of his teeth and tearfully told him that Harry was a great wizard and that the Malfoys were not good masters for a house-elf. Dobby felt that helping Harry was an honour and didn't even sleep on his job until Harry (not knowing this) said he could.<ref name="HBP19">{{HBP|B|19}}</ref>
+
+====Malfoy Manor and death====
+{{Main|Skirmish at Malfoy Manor}}
+{{Quote|You must not hurt Harry Potter.|Dobby threatening [[Bellatrix Lestrange]]|Harry Potter and the Deathly Hallows}}
+
+Captured by a group of [[Snatchers]] led by [[Fenrir Greyback]], [[Harry Potter|Harry]], [[Ronald Weasley|Ron]], [[Hermione Granger|Hermione]], [[Dean Thomas]], and the goblin [[Griphook]] were taken to [[Malfoy Manor]]. There, [[Bellatrix Lestrange]] saw that they were carrying the [[Sword of Gryffindor]], and she stopped [[Lucius Malfoy]] from summoning [[Tom Riddle|Voldemort]], afraid they had been in her Gringotts vault. Keeping Hermione upstairs for interrogation and torture, Bellatrix had the others imprisoned in the locked cellar, where they encountered [[Luna Lovegood]] and [[Garrick Ollivander]], who were also being held there. Though the new arrivals were tied up, Luna found a nail with which she was able to cut their bonds.<ref name="DH23">{{DH|B|23}}</ref>
+
+[[File:Dobby apparate.gif|220x220px|thumb|Dobby apparating out of Malfoy Manor]]
+
+Desperate at hearing Hermione's cries of [[Cruciatus Curse|pain]] from above, Harry frantically fidgeted with the fragment of the [[two-way mirror]] [[Sirius Black|Sirius]] had given him years before and saw a sky-blue eye looking out of it at him. Harry pleaded for help from the owner of the eye, [[Aberforth Dumbledore]], and shortly Dobby, sent by Aberforth, Apparated into the cellar. As he was able to Disapparate to and from the Manor, Harry instructed him to first take Luna Lovegood, Dean Thomas, and Mr Ollivander from the cellar, then return. He did so, bringing the three to [[Shell Cottage]], the home of [[William Weasley|Bill Weasley]] and his wife [[Fleur Delacour]]. From upstairs, where she was now questioning Griphook about whether or not the sword was the real one, Bellatrix heard the noise of Dobby Disapparating and sent Peter Pettigrew to investigate. Harry and Ron managed to overpower Pettigrew when he hesitated, reminded of his life debt to Harry, and his own magical [[Peter Pettigrew's silver hand|silver hand]] gifted to him by Voldemort strangled him to death.<ref name="DH23"/>
+
+Attempting to rescue Hermione and [[Griphook]], Harry and Ron were forced to surrender when a disarmed Bellatrix threatened to cut Hermione's throat with a silver knife. Dobby announced his return by causing a chandelier to fall on Bellatrix. Harry seized the wands Draco Malfoy was holding and used a stunning spell on Greyback. Ron grabbed Hermione and they Disapparated to Shell Cottage. Meanwhile Harry similarly grabbed Griphook and Disapparated.<ref name="DH23"/>
+
+[[File:Dobby death.gif|250x250px|thumb|left|Dobby dying with a smile on his face in Harry's arms]]
+
+As Harry disapparated, Bellatrix threw her silver [[Bellatrix Lestrange's knife|knife]] at him. Harry, not knowing where he was heading, was relieved to find in the midst of his Disapparition, that he could feel Dobby alongside, his fingers gripped tightly in his hand. Arriving at Shell Cottage, Harry discovered that Dobby had been fatally wounded by Bellatrix's thrown knife, which was protruding from the elf's chest. Dobby died moments later in Harry's arms, a peaceful smile on his face, his final words being Harry's name.<ref name="DH24">{{DH|B|24}}</ref>
+
+===Post mortem===
+{{Quote|HERE LIES DOBBY, A FREE ELF.|Epitaph on Dobby's grave marker|Harry Potter and the Deathly Hallows}}[[File:B7C24M1 Dobby's funeral.png|250x250px|thumb|Dobby's funeral]]
+
+Harry, deeply grieving, decided to dig [[Dobby's grave]] by hand without using magic. [[Ronald Weasley|Ron Weasley]] and [[Dean Thomas]] joined [[Harry Potter|Harry]] and laboured with him in digging the grave. They placed Dobby's body in the grave and gave him socks, shoes, and a hat. Standing over Dobby, [[Luna Lovegood]] gently closed his eyes and thanked him for rescuing her and the others. [[William Weasley|Bill Weasley]] filled in the grave, while Harry used Draco's former wand and carved "''HERE LIES DOBBY, A FREE ELF''" on a flat rock he placed on the burial mound.<ref name="DH24"/>
+
+[[Griphook]] was positively affected by Harry's display of humility and [[love]] for the house-elf, aiding him in his decision to help Harry retrieve a [[Helga Hufflepuff's Cup|Horcrux]] from [[Gringotts Wizarding Bank]].<ref name="DH25">{{DH|B|25}}</ref> His death also helped close Harry's mind from Voldemort and gave him greater control over when he could access the Dark Lord's thoughts. [[Kreacher]], Harry Potter's own inherited house-elf, led the house-elves of Hogwarts in the [[Battle of Hogwarts]], moved by Harry's good treatment of house-elves. Dobby's death was avenged when [[Molly Weasley]] killed Bellatrix.<ref name="DH36">{{DH|B|36}}</ref>
+
+==Physical description==
+{{Quote|The little creature on the bed had large, [[bat]]-like ears and bulging green eyes the size of tennis balls.|Dobby's physical appearance|Harry Potter and the Chamber of Secrets}}
+Dobby was a house-elf, much shorter in stature than humans, standing only about 3 and a half feet (1.06 m). He had large, tennis-ball-like green eyes,<ref name="eyes" /> a pencil-like nose and long,<ref>{{GOF|B|21}} - "He looked almost exactly as Harry remembered him; the pencil-shaped nose, the batlike ears, the long fingers and feet —"</ref> bat-like pointed ears.<ref name="eyes" /> Before he was given freedom, he wore a body-covering pillowcase. Later at Hogwarts, he wore a mismatched variety of jumpers, shorts, and socks.
+
+Socks became his favourite clothing after he was freed by Harry's sock. He preferred colourful, mismatched socks. When [[Hermione Granger]] began hiding clothes she made around the Gryffindor Common Room in an attempt to free the Hogwarts house-elves, Dobby kept the clothes and began wearing them, as the other elves thereafter refused to clean Gryffindor Tower.
+
+==Personality and traits==
+{{Quote|Harry Potter, Dobby has come to rescue you.|Dobby's loyalty to Harry Potter|Harry Potter and the Deathly Hallows}}
+
+Dobby was a brave, loyal house-elf, willing to put himself in dangerous situations when he knew it to be the right thing to do.<ref name="COS2"/><ref name="DH23"/> He was also very loyal to the few friends he had. He considered himself to be a good house-elf, though other house-elves seemed to find his desires and proclamations of being a free house-elf to be shameful. Despite this, he was still a hard worker. When he went to work at Hogwarts he refused Dumbledore's original offer of ten Galleons a week and weekends off, opting instead for one Galleon a week and one day off per month. He explained to Harry, Ron, and Hermione that he liked freedom very much, but he liked work better. Dobby thought of Harry as his best friend.
+
+{{Quote|You shall not harm Harry Potter!|Dobby defending Harry from being attacked by [[Lucius Malfoy]]|Harry Potter and the Chamber of Secrets}}
+[[File:Dobby_protecting_Harry.jpg|229x229px|thumb|left|Dobby protecting Harry in [[1993]]]]
+
+Because of his loyalty to his friends, Dobby tried everything he could to save them if they were in danger, even if it hurt them (this led to Harry asking Dobby to never try to save him again after setting him free), and once attempted to seriously injure Harry Potter, hoping that if he was hurt badly enough he would be sent home. He did not make the rogue bludger chase Harry out of malicious intent, but because he was trying to save him from Lucius Malfoy's plot to open the Chamber of Secrets.<ref name="COS10"/> When Harry found out, he was furious but Dobby explained why he had tampered with the bludger,<ref name="COS10"/> and by the end of the year Harry had forgiven him.<ref name="COS18"/>
+
+One most noticeable trait was his capacity to self-harm whenever he believed he had done something wrong, usually using something to hit his head or going as far as to iron his own hands. Dobby clearly had a strong conscience, and punished himself even when he had done "wrong" things that house elves should not do, even if they were for the right reasons.<ref name="COS2"/>
+
+Dobby's favourite gift to receive was socks, likely because he was freed from his enslavement to the Malfoys with a sock.<ref name="COS18"/> He would get confused when he would get two of the same style as he preferred to have two brightly coloured or patterned mismatched socks and would often give socks as gifts as well.
+
+Dobby referred to himself in the third person and tended to get his verb conjugations mixed up. Examples of his strange speech pattern include "I has seven now sir" or "Dobby must punish himself most grievously for coming sir". Dobby also referred to Ron as Harry's "Wheezy."
+
+He was extremely devoted to Harry Potter after Harry freed him in [[1993]],<ref name="COS18"/> helping him out on several occasions, ultimately at the cost of his own life.<ref name="DH23"/> He also tried to help Winky after she was dismissed by [[Bartemius Crouch Senior|Crouch]], getting her a job at Hogwarts as well, and looking after her whenever she became drunk on [[butterbeer]].<ref name="GoF"/>
+
+==Magical abilities and skills==
+{{Quote|With a crack like a whip, Dobby vanished.|Dobby apparating|Harry Potter and the Chamber of Secrets}}
+[[File:Tumblr n4b06pMvhJ1qdsqclo5 250.gif|241x241px|frame|Dobby using his magic to [[Apparition|Apparate]]]]
+*'''[[Apparition]]''': Because he was a house-elf, Dobby was able to apparate even inside places that normally forbade Apparition such as Hogwarts.
+*'''[[Levitation]]''': Dobby displayed the ability to levitate a cake when trying to stop Harry from returning to Hogwarts. The Ministry referred to this as the [[Hover Charm]], mistakenly believing that Harry cast the charm.<ref name="COS2"/>
+*'''Tampering magic''': Dobby also displayed a talent for magically tampering with objects. This was shown when he tampered with a bludger forcing it to chase Harry hoping that if it hurt him badly enough he'd be sent home. Naturally Dobby was not intending to kill Harry; in fact he was trying to save him from Lucius Malfoy's plan to open the Chamber of Secrets. Also, he tampered with the barrier that leads to Platform Nine and Three-Quarters, a very powerful magical barrier.<ref name="COS10"/>
+{{Quote|There was a loud bang, and Mr Malfoy was thrown backward. He crashed down the stairs, three at a time, landing in a crumpled heap on the landing below. He got up, his face livid, and pulled out his wand, but Dobby raised a long, threatening finger.|Dobby using magic to assault Lucius Malfoy|Harry Potter and the Chamber of Secrets}}
+*'''Magical blasts''': By clicking his fingers, Dobby can release powerful blasts of magic at other creatures or wizards and witches. He performed this ability in [[1993]], when he magically blasted his former master [[Lucius Malfoy]] away from attacking [[Harry Potter]], sending him flying down several flights of stairs.<ref name="COS18"/>
+*'''Disarming''': Dobby displayed the ability to disarm wizards and witches of their wands with a snap of his fingers, much like the [[Disarming Charm|charm]] itself.<ref name="DH23"/>
+[[File:DobbyDH.jpg|thumb|Dobby disarming Narcissa Malfoy with a snap of his fingers]]
+*'''Overall ability''': Overall, Dobby had a ''very'' great amount of [[magic]]al skill. Although house-elves are generally treated very poorly as slaves, they ''do'' have very [[House-elf magic|powerful magic]], perhaps even beyond that of witches and wizards. House-elves do not need possession of a [[wand]] to cast [[spell]]s or perform magical actions, as most wizards and witches do. In addition, boundaries are put on the apparition of witches and wizards in certain areas, but this does not apply to house-elves, so in this sense, they have much greater power than that of wizards (as far as apparition goes). They also can do magic [[Wandless magic|without wands]], something only the most powerful witches and wizards can do. Dobby could disarm with a snap of his fingers, send strong blasts to stun and disable opponents, and very efficiently perform [[charm]]s like those of witches and wizards such as levitation and also tamper with magical objects. Dobby even managed to save Garrick Ollivander, Griphook the Goblin, Luna Lovegood, Dean Thomas, Ron Weasley, Hermione Granger, and Harry Potter from a mansion full of some of the most powerful Death Eaters, even if it was at the cost of his own life—Dobby sacrificed himself in order to get Harry and his friends out of a situation in which they surely otherwise would have died. Without Dobby, Harry would not have lived, and Voldemort never would have been defeated. That being said, Dobby played a very significant role in the defeat of Voldemort, although sadly he was hardly ever recognised, probably partially due to the fact that he is a house-elf. Although quite small and humble, when put into perspective, Dobby was extremely powerful and was very heroic in his contributions to the [[wizarding world]]. 
+
+==Possessions==
+{{Quote|He was holding up Harry’s disgusting, slimy sock, and looking at it as though it were a priceless treasure.|Dobby being freed with Harry's sock|Harry Potter and the Chamber of Secrets}}
+*'''[[Harry Potter's sock]]''' :This sock once belonged to [[Harry Potter]] and was given to Dobby by [[Lucius Malfoy]] (his master). Harry tricked Lucius by presenting him with [[Tom Riddle's diary]], having shoved the diary inside his sock.<ref name="sock" /> When Lucius took the diary out of the sock, he threw the small and dirty piece of clothing away and Dobby caught it, rendering him free.<ref name="COS18"/> Dobby kept that sock on until the [[Skirmish at Malfoy Manor|day he died]].<ref name="DH23"/>
+*'''[[Harry Potter's sock|A second sock of Harry Potter's]]''': Another sock of Harry's was used to hold his [[Sneakoscope]] and also later given to Dobby.
+*An old pair of mustard yellow socks from Harry Potter during Christmas 1994.
+*A pair of violet socks from Ron Weasley during Christmas 1994.
+*A jumper from Ron Weasley during Christmas 1994.
+*Many scarves, socks, and hats made by Hermione Granger.
+
+==Relationships==
+===Harry Potter===
+{{Quote|Harry... Potter...|Dobby's last words to Harry Potter, as he died in his arms|Harry Potter and the Deathly Hallows}}
+[[File:Harry Potter.jpg|220x220px|thumb|left|[[Harry Potter]], his best friend]]
+
+Dobby and Harry Potter had a very strong relationship. Dobby loved and respected him very much to the point where he considered Harry to be his best friend. When Harry first met Dobby, he was a bit confused by the elf's devotion to keeping him safe from harm.<ref name="COS2"/> Harry was furious when he found out Dobby was intercepting all of his friends' letters to him, and demanded them back while refusing to promise him to stay out of Hogwarts.<ref name="COS10"/> Throughout the year, when Dobby made attempts to drive Harry away from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], causing some rather unpleasant results on the way, Harry made some threats that were never followed through.<ref name="COS10"/> Near the end of the [[1992–1993 school year]], Harry freed Dobby from the slavery of the [[Malfoy family]]. Lucius became angry and intended to attack Harry but Dobby protected him by using a defensive spell. Dobby may have realised that he underestimated Harry Potter, when Harry managed to stop Lucius' plot and survive the [[Chamber of Secrets]].<ref name="COS18"/>
+{{Quote|Harry Potter freed Dobby! Harry Potter set Dobby free!|Dobby's gratitude towards Harry for liberating him from the Malfoys|Harry Potter and the Chamber of Secrets}}
+Dobby was appointed to work at the kitchen of Hogwarts Castle in the paid service of Headmaster [[Albus Dumbledore]], though even as a free elf, his loyalty always laid foremost with Harry. When Harry visited the kitchens and therefore Dobby, Dobby hugged him so tightly that Harry felt as though his ribs might crack. Dobby also asked if it would be alright if he visited Harry from time-to-time, with Harry responding with an of course. Dobby visited Harry on Christmas day and presented him with a present, socks and when Harry tried them on Dobby's eyes misted with tears. In 1994, Dobby also provided Harry with gillyweed for the second task of the Triwizard Tournament.<ref name="GoF"/>
+
+{{Quote| ''[...]'' something small hurtled toward him from the middle of the room, squealing, "''Harry Potter, sir! Harry Potter!''" Next second all the wind had been knocked out of him as the squealing elf hit him hard in the midriff, hugging him so tightly he thought his ribs would break.|Dobby greeting Harry in 1994|Harry Potter and the Goblet of Fire}}
+
+In [[1995]], Dobby told Harry about the [[Room of Requirement]] and how to get inside. It is a secret room inside Hogwarts castle and cannot be seen even on the [[Marauder's Map]]. Harry and his friends used the room in [[Dumbledore's Army]]'s meetings and practises.<ref name="OOTP18"/> When [[Marietta Edgecombe]] betrayed Dumbledore's Army to Professor [[Umbridge family|Umbridge]], Dobby immediately warned Harry that the [[Inquisitorial Squad]] was going to attack, even though the house-elves had been forbidden to tell anyone, as he was far more loyal to Harry Potter than to Umbridge or Hogwarts in general. When he heard, Harry ordered Dobby not to punish himself for disobeying a direct order from Umbridge.<ref name="OOTP27"/>
+[[File:Dobby dies1.gif|245x245px|thumb|Dobby dying in the arms of his best friend]]
+
+{{Quote|Dobby will do it, Harry Potter. Dobby would be honoured to help Harry Potter!|Dobby's willigness to help his friend Harry Potter|Harry Potter and the Half-Blood Prince}}
+In [[1996]], Dobby had a fight with another house-elf, [[Kreacher]] after Kreacher insulted Harry.<ref name="HBP19"/> In [[1998]], when Harry, Ron, Hermione, Luna, [[Dean Thomas]], Mr [[Garrick Ollivander]] and the goblin [[Griphook]] were captured and taken hostage at the [[Malfoy Manor]], Dobby [[Apparition|apparated]] there to rescue them. As they attempted to [[Apparition|disapparate]] to [[Shell Cottage]], [[Bellatrix Lestrange]] threw her silver dagger, mortally wounding Dobby in the chest.<ref name="DH23"/> Arriving at [[Shell Cottage]], the house of the newly-wed [[William Weasley|Bill Weasley]] and [[Fleur Delacour]], Harry discovered Dobby's wound and cried out for help as Dobby died in Harry's arms. Harry was devastated by  Dobby's death. He dug a grave without using magic and held a small [[Funeral of Dobby|funeral]] for him in the garden of [[Shell Cottage]]. Dobby's epitaph read "''HERE LIES DOBBY, A FREE ELF''".<ref name="DH24"/>
+
+===Malfoy family===
+{{Quote|You've lost me my servant, boy!|Lucius Malfoy to Harry Potter, after he freed Dobby|Harry Potter and the Chamber of Secrets}}
+[[File:Malfoyfamily.jpg|250x250px|thumb|The [[Malfoy family]], Dobby's former masters]]
+Dobby was the [[house-elf]] of the Malfoy family.<ref name="COS18"/> [[Lucius Malfoy|Lucius]], [[Narcissa Malfoy|Narcissa]], and [[Draco Malfoy]] treated Dobby cruelly and were very sadistic to him.<ref name="COS2"/> He frequently had to punish himself and received death threats several times a day.<ref name="COS10"/> Dobby feared them, but did everything they ordered him to. In [[1993]], [[Harry Potter]] freed Dobby by tricking Lucius into unknowingly giving Dobby a sock. Lucius became angry and attempted to attack Harry, but Dobby blasted him down a flight of stairs and forcefully told him to leave, with Dobby finally getting revenge on his former cruel master.<ref name="COS18"/> The last time Lucius saw Dobby was in [[1998]], when Dobby came to [[Malfoy Manor]] to rescue Harry Potter and his friends. Dobby was eventually killed by [[Bellatrix Lestrange]].<ref name="DH23"/> It is unknown how the Malfoys reacted when they learned of it.
+
+===Ron Weasley===
+{{Dialogue a-b|Dobby|Sir is very kind!... Dobby knew sir must be a great wizard, for he is Harry Potter's greatest friend, but Dobby did not know that he was also as generous of spirit, as noble, as selfless —|Ron Weasley|They're only socks...|Dobby thanking a modest Ron for his Christmas present|Harry Potter and the Goblet of Fire}}
+[[File:Ron Weasley.jpg|219x219px|thumb|left|[[Ronald Weasley|Ron Weasley]], a good friend]]
+ 
+Dobby first met Ron Weasley in [[1994]] in the Hogwarts kitchens, where Dobby worked. When Dobby talked with Harry and Ron about his life as a free elf, Ron started to like Dobby, and offered him a maroon sweater [[Molly Weasley|his mother]] had made, making the house-elf excited. When Ron was used as a "hostage" for the [[Triwizard Tournament]], Dobby who had learned of the [[Triwizard Tournament#The Second Task|Second Task]] from [[Bartemius_Crouch_Junior#Disguised_as_Alastor_Moody|the fake Mad-Eye Moody]], became fearful of Harry losing his "Wheezy" (Dobby's name for Ron) to the [[merpeople]] and was manipulated by the fake Moody into stealing [[gillyweed]] for Harry.<ref name="GoF"/> Ron and Dobby met again three years later, in [[1997]], when both Harry and Ron were at the hospital wing; Harry wanted Dobby to spy on [[Draco Malfoy]] because he believed he was a [[Death Eaters|Death Eater]]. However, Ron didn't agree with this. In [[1998]], Harry, Ron, [[Hermione Granger]] and others were imprisoned at Malfoy Manor and Dobby came for their rescue. However, he was killed during the battle by [[Bellatrix Lestrange]]. Ron then respected Dobby very much and thanked him for saving his life. He also gave Dobby his shoes and socks to be buried in.<ref name="DH24"/>
+
+His death seemed to finally drive home to Ron the sorry life that house-elves lived, as during the [[Battle of Hogwarts]], Ron voiced the opinion that they should evacuate the house-elves, or else risk another death like Dobby's. Dobby, as an inadvertent result, thus helped Ron and Hermione begin their relationship. Overcome by his thoughtfulness towards elves, Hermione kissed Ron for the first time.<ref name="DH31">{{DH|B|31}}</ref>
+
+===Hermione Granger===
+[[File:Hermione-granger-gallery.jpg|216x216px|thumb|[[Hermione Granger]], a good friend]]
+Hermione Granger also met Dobby for the first time at the Hogwarts kitchens, where the latter worked. Hermione appeared to like Dobby, because he loved his freedom and because he wanted to make the other house-elves want freedom too. During her fifth year at Hogwarts, Hermione spent most of her time making clothes and hiding them in many places of the [[Gryffindor]] Common Tower. However, the house-elves stopped cleaning those places once they found the first of the clothes, as they didn't want to take them. Thus, Dobby cleaned Gryffindor Tower by himself, taking and wearing all of Hermione's knitted clothes.<ref name="GoF""/>
+
+Dobby and Hermione didn't meet again until [[1997]], when Harry had sent Dobby to spy on Draco Malfoy. When Dobby came to the Malfoy Manor to rescue them, Hermione was being tortured by [[Bellatrix Lestrange]]. Dobby then brought them to [[Shell Cottage]] but was killed by Bellatrix by her throwing a knife and stabbing Dobby during the Apparition.<ref name="DH23"/>
+
+===Winky===
+[[File:Winky.jpeg|thumb|Winky, a good friend and fellow house-elf]]
+Dobby was first seen with Winky, a female [[house-elf]], in [[1994]]. Earlier that same year, Harry had mistaken Winky for Dobby at the Quidditch World Cup. Winky excitedly told Harry that she knew Dobby, too; they evidently were friends previous to [[1994]] even though their relationship was only first displayed that year. It is likely that they met in the company of their masters, as Winky's master [[Bartemius Crouch Senior|Barty Crouch]] was a high-ranking ministry official and Dobby's former masters the [[Malfoy family]] were well-connected and influential socialites.<ref name="GoF"/>
+
+Unlike Dobby, who loved his freedom, Winky was depressed and thought she was useless. When Dobby expressed his opinion that his life as a free elf was better than as a servant, he made her believe that he was a “bad house-elf”. So, Dobby tried in vain to convince her that she could live without serving the [[Crouch family]] by finding them both jobs at Hogwarts.<ref name="GoF"/> It is known that Winky eventually managed to get over the fact that she was fired, although Dobby had died by then.
+
+===Kreacher===
+{{Quote|Kreacher will not insult [[Harry Potter]] in front of Dobby, no he won't, or Dobby will shut Kreacher's mouth for him!|Dobby threatening Kreacher with violence after he spoke ill of Harry|Harry Potter and the Half-Blood Prince}}
+[[File:Kreacher OotP SF.png|215x215px|thumb|left|[[Kreacher]], whom he disliked and fought with]]
+
+Dobby presumably met Kreacher, another [[house-elf]], in late 1996 when Harry sent Kreacher to work in the kitchens of Hogwarts, and they did not have a good relationship. Firstly, Kreacher strongly disliked Harry because he was a friend of many Muggle-borns and “blood-traitors" and because Harry initially wasn't very nice to Kreacher. Dobby loved and respected Harry very much for a variety of reasons; these differing viewpoints on Dobby's hero/best friend was mostly the reason why the two house-elves often fought with each other.<ref name="HBP19"/>
+
+In [[1996]], they fought in the hospital wing because Kreacher had badmouthed Harry. Harry attempted to make them stop, but then [[Peeves]] appeared and encouraged them to hit each other. During the scuffle, Dobby managed to hit Kreacher in the mouth hard enough to knock out half his teeth– it is unknown how Kreacher grew them back or if he ever did. Furthermore, Harry told both Dobby and Kreacher to go and spy on [[Draco Malfoy]]; even then, they argued: When they reappeared to give a report, Dobby was angry that Kreacher hadn't informed him that he was going to Harry. Dobby didn't want it to seem like he hadn't been helping, as Kreacher was trying to make it out.<ref name="HBP19"/> However, Kreacher later started to respect Harry and be less prejudiced in general. It is possible that, since Kreacher had contact with the Hogwarts kitchen house-elves, he had contact with Dobby, too, and their common ground caused a release of the bad blood, but it is unknown. Dobby might not have learned about Kreacher's change before he was killed in [[1998]]. Kreacher looked like Dobby in appearance, but was angry and antagonistic in character.
+
+===Hogwarts Kitchens House-elves===
+Dobby started his work at the Hogwarts Kitchens in [[1994]], a year after he was freed by [[Harry Potter]]. He loved his life as a free elf, something that the other house-elves who worked at the kitchens did not. They believed Dobby was mad and there was a great difference between their ideology and Dobby's, about a house-elf's life. Thus, he didn't have such a good relationship with his co-workers, as they believed that a house-elf should not have any personal life when they had to work and serve their masters. However, their opinion about Dobby might have changed during their later years at Hogwarts.<ref name="GoF"/> During the [[Battle of Hogwarts]] all the house-elves, with Kreacher as a leader, fought against the [[Death Eaters]], without anyone ordering them to do so.<ref name="DH36"/> This indicates that they learned a house-elf can have a personal opinion, and that they should have as many rights as the humans. Unfortunately, Dobby had died by then.
+
+===Albus Dumbledore===
+{{Quote|Dobby likes Professor Dumbledore very much, sir, and is proud to keep his secrets and our silence for him.|Dobby's opinion of Dumbledore|Harry Potter and the Goblet of Fire}}
+[[File:600full-Albus-Dumbledore-the-prisoner-of-azkaban-photo.jpg|223x223px|thumb|[[Albus Dumbledore]], his employer at Hogwarts]]
+
+Albus Dumbledore, the Headmaster of [[Hogwarts School of Witchcraft and Wizardry]], was considered by many people (including Dobby) as the greatest wizard of all time. Dobby always admired Dumbledore, because he was kind to everyone, even to the [[house-elf|house-elves]], and because he opposed [[Tom Riddle|Lord Voldemort]]. Dumbledore met Dobby in [[1993]], when he was still the servant of the [[Malfoy family]]. In [[1994]], Dobby asked Dumbledore for a job at the Hogwarts Kitchens and the headmaster gave him the job, offering a much higher salary than Dobby expected and gaining the house-elf's respect. He also permitted Dobby to call him as he wanted (such as "a barmy old codger"). Dobby was very fond of Dumbledore and knew he would never insult him, but he was awed by Dumbledore's gift of freedom of speech.<ref name="GoF"/> Dumbledore died in [[1997]]; it is unknown how Dobby reacted, or whether he attended his funeral, but he was likely very upset by his death.
+
+===Aberforth Dumbledore===
+{{Quote|I’m sorry to hear it. I liked that elf.|Aberforth's sadness after hearing about Dobby's death|Harry Potter and the Deathly Hallows}}
+[[File:Aberforth Dumbledore.jpg|217x217px|thumb|left|[[Aberforth Dumbledore]], a good friend]]
+Over the course of his employment at Hogwarts, Dobby became close friends with [[Aberforth Dumbledore]], and spent much time at Aberforth's home in [[Hogsmeade]], getting to and from the school through a secret tunnel. As Aberforth was an old and grumpy person, he didn't have a good relationship with many people. However, Dobby offered friendship and someone to talk too. Aberforth himself stated that he liked Dobby. In [[1998]], [[Harry Potter]] and his friends were captured by [[Snatchers]] and imprisoned at the [[Malfoy Manor]] cellar. Harry asked for help while looking at a two-way mirror; Aberforth had the other mirror. He sent Dobby to rescue them; the house-elf did so, stating that "he would always be there for Harry Potter", but was killed by [[Bellatrix Lestrange]]. After that, Aberforth told Harry, Ron and Hermione that he was really sorry, as he liked Dobby.<ref name="DH28"/>
+
+===Luna Lovegood===
+[[File:Luna Lovegood.jpg|135px|thumb|[[Luna Lovegood]], who respected him greatly for saving her life]]
+{{Quote|Thank you so much, Dobby, for rescuing me from that cellar.  It's so unfair that you had to die, when you were so good and so brave.  I'll always remember what you did for us.  I hope you're happy now.|[[Luna Lovegood]] at Dobby's funeral|Harry Potter and the Deathly Hallows}}
+In [[1998]], Dobby saved [[Luna Lovegood]], along with [[Garrick Ollivander]] and [[Griphook]], from [[Malfoy Manor]].<ref name="DH23"/> She attended at his funeral later at [[Shell Cottage]], where she expressed much gratitude for him saving her life.<ref name="DH24"/> 
+
+==Etymology==
+According to the [[Wikipedia:Oxford English Dictionary|Oxford English Dictionary]], a "dobby" is an old English word for a benevolent elf that would perform household tasks secretly in the night, like the elves in tales of the elves and the shoemaker. However, just as those elves disappeared when the shoemaker made them shoes, so the dobbies were said to disappear when offered clothing. Also called a Brownie. A dobby is also a small mechanical part in a loom that enables the weaver to create small geometric patterns.
+
+==Behind the scenes==
+[[File:Dobby-illustration.jpg|thumb|Dobby as illustrated by [[Mary GrandPré]]]]
+[[File:DH Dobby puppet artwork.jpg|thumb|right|Puppets heads for Dobby]]
+[[File:Normal_lhp_charrend_dobby_01.jpg|150px|thumb|right|Dobby as LEGO mini-figure in {{LEGO|Y1}}]]
+[[File:Funko-Dobby.jpg|thumb|Dobby as a POP! Vinyl]]
+[[File:Dumbledore’s Army Brilliant Event Dobby.png|thumb|Dobby as he appears in {{WU}}]]
+*Dobby appears in {{COS|FA}} and {{DH|F1}},<ref name="Dobby">''[http://www.the-leaky-cauldron.org/2009/1/9/toby-jones-to-provide-voice-of-dobby-the-house-elf-again-for-deathly-hallows Dobby comes back for the Deathly Hallows]''</ref>, being voiced by [[Toby Jones]] in both films.<ref>http://www.imdb.com/title/tt0295297/fullcredits#cast</ref><ref>http://www.imdb.com/title/tt0926084/fullcredits</ref>
+*Dobby's favourite article of clothing appears to be socks. This may be because Dobby was freed when Harry tricked Lucius Malfoy into giving Dobby a sock.
+*The magic Dobby used to fend off [[Lucius Malfoy]] to protect Harry resembles the [[Knockback Jinx]].
+*In {{DH|F1}}, it appears that instead of a rock to mark Dobby's grave, there is a more conventionally-shaped tombstone.
+*In {{LEGO|Y1}}, Dobby throws Harry's school books in the bin, because he thinks this will prevent Harry from returning to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+*In {{COS|FA}}, Dobby's eyes are bright green. However, in {{DH|F1}}, Dobby's eyes appear to be darker blue-green.
+*In {{DH|F1}}, Dobby is still wearing his pillow case instead of the clothes he wears in the books but he is also wearing shoes.
+*In {{DH|F1}} Dobby speaks in first person, even though he and Kreacher had always spoken in the third person.
+*In {{DH|F1}}, during the [[Skirmish at Malfoy Manor]], Dobby snaps his fingers and disarms [[Narcissa Malfoy]].
+*In the second book, Harry asks Dobby to promise to not save his life again, but 5 books later Dobby does because he is the last hope of getting out of Malfoy Manor. He loses his life by doing so because of Bellatrix Lestrange throwing a knife into his chest. According to Harry, Dobby also saved his life with the Gillyweed.
+*The first and last thing Dobby ever said to Harry was, "''Harry Potter''." In the film they expanded this line, but still making "''Harry Potter''" the last words said.
+*Dobby appears in five of the books but only appeared in two of the films.
+*In {{DH|F1}} Dobby appears with Kreacher when he is bringing [[Mundungus Fletcher]] to the trio, something he doesn't do in the book.
+*In the {{COS|FA}}, Dobby is wrinkled and is barefoot, and {{DH|FA}}, he looks smooth and wears brown shoes on his feet (instead of the bunches of mismatched clothing he is described to wear in the novels).
+*Series author [[J. K. Rowling]] owned a model of Dobby as he appears in the ''Harry Potter'' films. She gifted it to the Marcliffe at Pitfodels in [[October]] of [[2013]], along with a personalised letter, as a thank-you present for the service they had provided her during the several months she stayed in the hotel while her father was undergoing treatment at Aberdeen Royal Infirmary.<ref>[http://www.eveningexpress.co.uk/Article.aspx/3436948 Harry Potter elf Dobby staying at Aberdeen hotel - Evening Express]</ref>
+*On {{PM}}, there was a feature: "5 friendship lessons we learned from Dobby".
+*Series author [[J. K. Rowling]] has hinted that she picked Dobby's birthday date to match with her sister's, Dianne Rowling, who is fond of the character.<ref>[https://twitter.com/jk_rowling/status/747927607409270784 J.K. Rowling via Twitter,] 28 June 2016</ref>
+*Dobby is possibly one of the few characters known to be killed with a non magical item, as the [[Bellatrix Lestrange's knife|knife]] [[Bellatrix Lestrange]] threw at him was not known to have any magical properties.
+*In the TV series ''Blindspot'', recurring antagonist Rich Dotcom pretends that his lover has recently died when trying to convince the protagonists in the FBI to save him from an assassin, but his lie is seen through as the death scene Dotcom described was copied from Dobby's demise, prompting his lover to express disbelief at Rich's choice of lie when the FBI reveal how they uncovered the truth.
+
+==Appearances==
+{{Imagecat|Images of Dobby}}
+<!--[[File:Dobby WU.png|thumb|Dobby as seen in {{WU}}]]-->
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}} {{C|Not in home console version}}
+*{{POA}} {{Mention}}
+*{{GOF}}
+*{{GOF|F}} {{Possible}}
+*{{OOTP}}
+*{{HBP}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}} {{Mention}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{TCG}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Staff}}
+{{Order of the Phoenix}}
+
+[[de:Dobby]]
+[[es:Dobby]]
+[[fr:Dobby]]
+[[it:Dobby]]
+[[ru:Добби]]
+[[fi:Dobby]]
+[[nl:Dobby]]
+[[pl:Zgredek]]
+[[ja:ドビー]]
+[[Category:1998 deaths]]
+[[Category:British individuals]]
+[[Category:Deaths by stabbing]]
+[[Category:Dumbledore's Army]]
+[[Category:Green-eyed individuals]]
+[[Category:Hogwarts employees]]
+[[Category:House-elves]]
+[[Category:Killed by Bellatrix Lestrange]]
+[[Category:Knitters]]
+[[Category:Lucius Malfoy's possessions]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Plot to open the Chamber of Secrets participants]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Skirmish at Malfoy Manor participants]]
+[[Category:Society for the Promotion of Elfish Welfare]]

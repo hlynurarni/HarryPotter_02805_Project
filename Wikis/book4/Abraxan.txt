@@ -1,0 +1,80 @@
+{{Spoiler|WU|HM}}
+{{Creature infobox
+|image = [[File:Abraxan.jpg|250px]]
+|name = Abraxan
+|skin = Palomino
+|eyes = Red
+|hair = White
+|feathers = Blue
+|related = *[[Winged horse]]<ref name="FBR"/>
+**[[Aethonan]]<ref name="FBR"/>
+**[[Granian]]<ref name="FBR"/>
+**[[Thestral]]<ref name="FBR"/>
+|native = 
+|alias = [[Horse]]
+|height = Larger than normal horse-size; similar to an elephant
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = Large and winged<ref name="FBR"/>
+|affiliation = *[[Olympe Maxime]]<ref name="GOF15"/><ref name="HBP30"/>
+*[[Beauxbatons Academy of Magic]]<ref name="GOF15"/><ref name="HBP30"/>
+|class = [[Beast]] <br/> [[XX]], [[XXX]], or [[XXXX]]<ref name="FBR">{{FB|R}}</ref>
+|status = Extant
+}}
+{{Dialogue a-b-a|Olympe Maxime|My steeds require — er — forceful ’andling. Zey are very strong....|Albus Dumbledore|I assure you that [[Rubeus Hagrid|Hagrid]] will be well up to the job.|Very well. Will you please inform zis ’Agrid zat ze ’orses drink only single-malt whisky?|A discussion of how to handle Abraxans|Harry Potter and the Goblet of Fire}}
+The '''Abraxan''' is a breed of [[Winged horse]]. They are gigantic and extremely powerful and have an appearance akin to that of a palomino [[horse]].<ref name="FBR"/> [[Abraxan hair]] is white in colour, and is used as an ingredient in [[Potion|Potion-making]].<ref name="WU">{{WU}}</ref> An Abraxan is a rare possible corporeal form of the [[Patronus Charm]].<ref name="Patronus">{{See image|File:AbraxanWingedHorse-patronus.jpg}}</ref>
+
+==History==
+[[File:Abraxan_Pottermore.png|250px|thumb|left|Maxime's Abraxans on the grounds of Hogwarts]]
+[[Olympe Maxime|Madame Olympe Maxime]], Headmistress of [[Beauxbatons Academy of Magic]], bred them and used them to pull her carriage. Her horses drank only [[single malt whiskey]] and required forceful handling; it is unknown if this is true for the entire breed.<ref name="GOF15">{{GOF|B|15}}</ref>
+
+In the [[1980s]] and early [[1990s]], [[Jacob's sibling]] took care of an Abraxan in the [[Magical Creatures Reserve]].<ref name="HM">{{HM}}</ref> One time, [[Rubeus Hagrid]] asked Jacob's sibling to help him with research on Abraxans. Jacob's sibling introduced their friend [[Penny Haywood]] to the Abraxan. However, when the two brought the Abraxan to the [[Training Grounds]], it escaped.<ref name="HM Horsing Around">{{HM|?|Horsing Around}}</ref>
+
+Madame Maxime used the Abraxans to travel to [[Hogwarts School of Witchcraft and Wizardry]] in the [[1985–1986 school year]], when she came to the school alongside Beauxbatons student [[Aurélie Dumont]]. During the visit, Jacob's sibling and Penny helped Madame Maxime take care of the Abraxans as Hagrid and [[Silvanus Kettleburn]] were unavailable for help at that time.<ref name-"HM2HTB">{{HM|2|Hosting the Beauxbatons}}</ref>
+
+In [[1994]], the Abraxans came to Hogwarts with Madame Maxime and Beauxbatons students who wanted to compete in the [[Triwizard Tournament]], including [[Fleur Delacour]].<ref name="GOF15">{{GOF|B|15}}</ref>
+
+In [[1997]] after the death of [[Albus Dumbledore]] the Abraxans returned to Hogwarts flying their powder-blue [[Beauxbatons Carriage|carriage]] with them, in which Olympe Maxime was travelling in to attend the [[Funeral of Albus Dumbledore]].<ref name="HBP30">{{HBP|B|30}}</ref>
+
+During the [[Calamity]] which affected the [[Wizarding world]] in the [[2010s]], Abraxans were some of the magical creatures that were affected by this strange event.<ref name="WU">{{WU}}</ref>
+
+==Etymology==
+Their name is probably derived from '''Abraxas''', one of the horses of Aurora, the Dawn, in Roman mythology.
+
+==Behind the scenes==
+*[[Rubeus Hagrid]] once claimed to have a friend who bred Abraxan horses, though this was likely only part of a story that he made up to distract [[Dolores Umbridge]].<ref name="op20">{{OOTP|B|20}}</ref> Alternatively, he may have been referring to [[Olympe Maxime]].
+*In the film adaptation, they had grey coats instead of palomino coats.
+*The Abraxan is one of the nine possible Patronus forms for [[Jacob's sibling]]. It can be achieved by having a higher Knowledge stat or choosing the option "discover truth" and later, choosing "equine" as the Patronus form.<ref>{{HM|4|Conjure a Patronus}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Abraxans}}
+[[File:Abraxan Wizards United.png|140px|thumb|An Abraxan as depicted in {{WU}}]]
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{GOF|G}} {{Comment|Seen on Game Cover}}
+*{{OOTP}} {{Mention}}
+*{{HBP}}
+*{{FB|R}}
+*{{HPPU}}
+*{{LEGO|Y1}}
+*{{LEGO}}
+*{{PM}} 
+*{{WW}}
+*{{HM}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Creatures by classification}}
+[[de:Abraxaner]]
+[[de2:Abraxaner]]
+[[es:Abraxan]]
+[[fr:Abraxan]]
+[[pl:Abraksan]]
+[[ru:Абраксанский крылатый конь]]
+[[pt-br:Abraxano]]
+[[Category:Beauxbatons]]
+[[Category:Foundables]]
+[[Category:Patronus forms]]
+[[Category:Winged horses]]

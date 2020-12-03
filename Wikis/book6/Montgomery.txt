@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Montgomery
+|born = Between [[April]] [[1991]] and [[April]] [[1992]]
+|died = [[April]] [[1997]] (aged 5)
+|blood = [[Pure-blood]] or [[half-blood]]<ref name="BLOOD">As he was killed because his mother refused to help the Death Eaters rather than due to her blood status is an indication that she is not Muggle-born, and hence he is either half-blood or pure-blood.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Montgomery sisters' mother|Mother]]
+*[[Montgomery sisters|Two elder sisters]]
+*[[Phillip Montgomery]] (possible relative)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Montgomery]]
+}}
+{{Quote|Well, their brother was attacked by a [[Fenrir Greyback|werewolf]]. The rumour is that their [[Montgomery sisters' mother|mother]] refused to help the [[Death Eaters]]. Anyway, the boy was only five and he [[Death|died]] in [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]], they couldn't save him.|[[Hermione Granger]] discussing Montgomery's death|Harry Potter and the Half-Blood Prince}}
+
+'''Montgomery''' (c. [[1992]] – [[April]] [[1997]]) was a [[Wizardkind|wizard]] and a member of the [[Montgomery family]].
+
+==Biography==
+Born in c. [[1992]] to [[Montgomery sisters' mother|a pure-blood or half-blood witch]] somewhere in [[Ireland]] or [[Great Britain]],<ref name="HOME">As his sisters attended Hogwarts and Hogwarts only admits Irish and British students.</ref>, Montgomery had at least [[Montgomery sisters|two sisters]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] sometime from [[1990]] to [[1996]].<ref name="SISTERS">As they were still at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in the [[1996-1997 school year]], they could have been in any year from [[First year|first]] to [[Seventh year|seventh]]; if they were in their first year they'd have begun that year, in [[1996]]; if they were in their seventh they'd have started in [[1990]].</ref>
+
+When he was five years old, his [[Montgomery sisters' mother|mother]] supposedly refused to aid the [[Death Eaters]] in their [[Pure-blood supremacy|cause]] and hence they ordered the [[werewolf]] [[Fenrir Greyback]] to attack the little boy.<ref name="HBP22" /> Although he was taken to [[St Mungo's Hospital for Magical Maladies and Injuries]], the [[healer]]s there could not save him and he [[Death|died]].<ref name="HBP22">{{HBP|B|22}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+{{St Mungo's}}
+
+{{DEFAULTSORT:Montgomery}}
+
+[[de:Montgomery]]
+[[es:Montgomery]]
+[[fr:Frère Montgomery]]
+[[pl:Montgomery]]
+[[ru:Монтгомери]]
+[[Category:1990s births]]
+[[Category:1997 deaths]]
+[[Category:British individuals]]
+[[Category:Deaths by creature]]
+[[Category:Killed by Fenrir Greyback]]
+[[Category:Males]]
+[[Category:Montgomery family]]
+[[Category:Murder victims]]
+[[Category:Second Wizarding War casualties]]
+[[Category:St Mungo's patients]]
+[[Category:Unidentified individuals]]
+[[Category:Unnamed family members]]
+[[Category:Werewolf attacks]]
+[[Category:Wizards]]

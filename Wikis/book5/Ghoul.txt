@@ -1,0 +1,92 @@
+{{Spoiler|MA|HM}}
+{{Youmay|magical beast|[[Ghoul Studies|the subject]]}}
+{{Creature infobox
+|image = [[File:Ghoul HM.png|300px|thumb]]
+|name = Ghoul
+|skin = Greyish green
+|eyes = Green
+|hair = 
+|feathers = 
+|related = *[[Hidebehind]]<br/>
+*[[Chameleon Ghoul]]
+|native = 
+|alias = 
+|height = 
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = *Slimy
+*Buckteeth
+*Ugly
+*Humanoid
+*Generally harmless
+*Resembles [[Ogre]]s
+|affiliation = 
+|class = [[Beast]]<br/>[[XX]]
+|status = Extant
+}}
+{{Quote|...in wizarding families the ghoul often becomes a talking point or even a family pet.|[[Newton Scamander|Newt Scamander]] on the roles ghouls play in wizarding homes|Fantastic Beasts and Where to Find Them (real)}}
+A '''ghoul''' is a [[magic]]al [[beast]] that resembles a slimy, buck-toothed [[ogre]].<ref name="FBR">{{FB|R}}</ref> 
+
+==Description==
+[[File:GhoulFBE.png|thumb|A Ghoul occupying an attic]]
+They tend to live in the attics or barns of [[Wizardkind|wizards and witches]]. They are relatively harmless creatures and are just seen as nuisances because of the noise they make. They are relatively dimwitted, and live off of bugs and other household pests. At most, they will groan and throw objects.<ref name="FBR">{{FB|R}}</ref>
+
+A [[Ghoul Task Force]] exists at the [[British Ministry of Magic|Ministry of Magic]], under the [[Department for the Regulation and Control of Magical Creatures]]. The Task Force is used to remove unwanted ghouls from houses that have passed in to [[Non-magic people|Muggle]] ownership. There is a variety of ghoul, called the [[Chameleon Ghoul]].<ref name="FBR">{{FB|R}}</ref>
+
+==History==
+The attic in the [[Weasley family]]'s home, [[The Burrow]], was also home to a [[Weasley family ghoul|ghoul]] who occasionally banged on the pipes, when it felt that the house was too quiet.<ref name="COS3">{{COS|B|3}}</ref> In [[1997]], [[Ronald Weasley|Ron]]'s family [[Transfiguration|transfigured]] their Ghoul to look more like Ron. The idea was to make the ghoul look like Ron to replace him when he, [[Harry Potter|Harry]] and [[Hermione Granger|Hermione]] [[Albus Dumbledore and Harry Potter's Horcrux Hunt|set off to find]] the [[Horcrux]]es in case any Ministry workers were suspicious of Ron not attending school. The Ghoul had a contagious look to him so when the Ministry workers went to the The Burrow to check, the family said that he had a highly contagious disease called [[Spattergroit]].<ref name="DH6">{{DH|B|6}}</ref>
+
+During the [[1993–1994 school year]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], [[Draco Malfoy]], with the help of [[Gregory Goyle]] and [[Vincent Crabbe]] released a [[Ghoul in the Muggle Studies Classroom|ghoul]] to attack [[Neville Longbottom]] in the [[Muggle Studies Classroom]] as a cruel prank. Thankfully, [[Harry Potter]] and [[Ronald Weasley]] managed to rescue Neville from the fearsome ghoul.<ref name="POAG">{{POA|G}}</ref>
+
+[[File:Gadding With Ghouls.png|thumb|''Gadding with Ghouls'' by Gilderoy Lockhart]]
+There was a "[[Ghoul in Grimmauld Place|murderous old ghoul]]" in a toilet in [[12 Grimmauld Place]], which was encountered by Ron, Harry, Hermione, and Tonks when they were cleaning the house in [[1995]].<ref name="OOTP6">{{OOTP|B|6}}</ref>
+
+Ghouls are taught about at [[Hogwarts School of Witchcraft and Wizardry]] in [[Ghoul Studies]] classes. The subject is taught in [[Ghoul Studies classroom|a classroom]] off the [[Serpentine Corridor]]. In the [[1988–1989 school year]] at Hogwarts, ghouls were taught in a [[fifth year]] [[Defence Against the Dark Arts]] class by the then [[Professor]] [[Patricia Rakepick]].<ref>{{HM|5|1|dada}}</ref>
+
+The wizarding celebrity author [[Gilderoy Lockhart]] authored a book about Ghouls, titled ''[[Gadding with Ghouls]]'', about his supposed encounters and experience with these [[creature]]s.<ref name="COS3">{{COS|B|3}}</ref><ref name="PM">{{PM}}</ref>
+
+==Known ghouls==
+<gallery widths="158" orientation="portrait" position="center" captionalign="left">
+Weasley Ghoul.jpg |[[Weasley family ghoul]]
+NevilleandtheGhoul.jpg |[[Ghoul in the Muggle Studies Classroom]]
+</gallery>
+*[[Ghoul in Grimmauld Place|Black family ghoul]]
+
+==Behind the scenes==
+*The {{wplink|Ghoul}}, originally spelled ''ghūl'', originates from Arabic folklore, in which it is a type of {{Wplink|Djinn}} that dwells in burial grounds and feeds on [[human]] [[flesh]].
+
+==Appearances==
+{{Imagecat|Images of Ghouls}}
+[[File:Ghoul.png|thumb|The [[Weasley family ghoul]] (disguised as [[Ronald Weasley]]) in {{LEGO|Y2}}]]
+*{{COS}} {{1st}}
+*{{COS|F}} {{Comment|Mentioned on book}} {{Comment|Disc 2}}
+*{{COS|G}}
+*{{POA|G}}
+*{{GOF}}
+*{{OOTP}}
+*{{DH}}
+*{{FB|R}}
+*{{PM}}
+*{{WW}} {{Mention}}
+*{{LEGO|Y2}}<ref name="LHP">A ghoul is available in the "Downloadable Character Pack" [[Wikipedia:Downloadable content|DLC]] for {{LEGO|Y2}}. The ghoul is called "Ron Weasley (Ghoul)" because it is the [[Weasley family]] ghoul, which was transfigured to look like Ron in [[1997]].</ref>
+*{{TCG}}
+*{{HM}}
+*{{MA}}
+
+==Notes and references==
+{{Reflist}}
+{{Creatures by classification}}
+{{Defence Against the Dark Arts}}
+[[de:Ghul]]
+[[es:Ghoul]]
+[[fr:Goule]]
+[[pl:Ghul]]
+[[ru:Упырь]]
+[[pt-br:Ghoul]]
+[[no:Ghûl]]
+[[Category:Defence Against the Dark Arts]]
+[[Category:Folio Bruti entries]]
+[[Category:Ghouls|Ghouls]]
+[[Category:Muggle-known creatures]]
+[[Category:Pets]]

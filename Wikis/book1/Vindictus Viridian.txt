@@ -1,0 +1,101 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:VindictusProfile.jpg|250px]]
+|name = Vindictus Viridian
+|born = Pre [[1686]] (most likely)
+|died = In or before [[1994]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Viridian must have died sometime in or before [[1994]], given his portrait's appearance at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in {{POA|FA}}.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]
+*[[Headmaster]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = *Black (formerly)
+*Grey
+|eyes = Dark
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Potioneer]]
+*Author<ref name="PS5"/>
+*[[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]]
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|And if wishes grew on trees, life would be a breeze. Please pester someone else!|Viridian's portrait, refusing to open to [[Harry Potter]]|Harry Potter and the Order of the Phoenix (video game)}}
+
+'''Professor Vindictus Viridian''' was a [[Wizardkind|wizard]] who was a [[potioneer]], author and [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] in the early [[18th century|eighteenth century]].
+
+==Biography==
+===Lifetime===
+Based on his portrait, Viridian was a [[potioneer]]. At some point in his life, he was named [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]].<ref name="WWHP">{{WWHP}} - see [[:File:Dumbledore's office portraits.jpg|this image]]</ref> Also during his lifetime, he published a famous book on [[dark charm]]s: ''[[Curses and Counter-Curses|Curses and Counter-Curses (Bewitch your Friends and Befuddle your Enemies with the Latest Revenges: Hair Loss, Jelly-Legs, Tongue-Tying and much, much more)]]''.<ref name="PS5"/> He also published the book ''[[How to Tame Tigers]]''.<ref name="csf">{{COS|F}} {{see image|File:HowtoTameTigers.jpg}}</ref>
+
+===Post-mortem===
+[[File:Dumbledore's office portraits.jpg|200px|thumb|left|Professor Viridian's portrait in the [[Headmaster's office]]]]
+Professor Viridian died sometime in or prior to [[1994]].<ref name="DOD"/> Two [[Headmaster portraits|portraits]] of him hung at Hogwarts: one was painted in [[1703]]<ref>See [[:File:VindictusViridian3.jpg|this image]].</ref> and hung in the Headmaster's office along with the portraits of other Headmasters and Headmistresses,<ref name="WWHP"/> and the other hung in the [[Grand Staircase]].<ref name="OPg">{{OOTP|G}}</ref>
+
+In the [[1995-1996 school year]], Viridian's portrait at the [[Grand Staircase]] was used to conceal the entrance to the [[Room of Rewards]]. He was frequently annoyed by all the hustle and bustle of the students' school life. In order to gain entry to the Room of Rewards, [[Hermione Granger]] threatened to convince [[Myrtle Warren]] to haunt the landing where the portrait hung. Disliking Myrtle, Viridian let [[Harry Potter]] and his friends through.<ref name="OPg"/>
+
+==Magical abilities and skills==
+[[File:VindictusViridian3.jpg|150px|thumb|right|Portrait of an older Vindictus Viridian]]
+*'''[[Dark Arts]]''': Professor Viridian was highly proficient with [[curse]]s, [[hex]]es and [[jinx]]es, and wrote [[Curses and Counter-Curses|a book]] which included such [[dark charm]]s as the: [[Full Body-Bind Curse]], [[Jelly-Legs Curse]], [[Leg-Locker Curse]], [[Pimple Jinx]], [[Stickfast Hex]], [[Tickling Hex]], [[Tongue-Tying Curse]] and [[Hair Loss Curse]].<ref name="PS5">{{PS|B|5}}</ref>
+*'''[[Potion]]s''': Professor Viridian was a highly accomplished and skilful [[Potioneer]], as evidenced by several portraits of him brewing various [[potion]]s.
+
+==Etymology==
+The name Vindictus is derived from the Latin ''vindicta'' ("revenge") and the surname Viridian from the Latin ''viridis'' ("green").
+
+==Behind the scenes==
+*{{HPLE}} confirms that his surname was misspelled "Veridian" in the [[Harry Potter (film series)|film series]].
+
+==Appearances==
+{{Imagecat|Images of Vindictus Viridian}}
+*{{PS}} {{1st Mention}}
+*{{POA|F}} {{Portrait}}<ref>DVD 2 - Special Features (''The Quest of Sir Cadogan'')</ref>
+*{{POA|G}} {{Portrait}}
+*{{OOTP|G}} {{Portrait}}
+*{{LEGO|Y1}} {{Portrait}}
+*{{LEGO|Y2}} {{Portrait}}
+*{{WWHP}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+*{{PM}} {{Mention}}
+*{{HM}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Everard]]
+|position=[[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=Before [[1703]]
+|successor=Unknown, eventually [[Dilys Derwent]]
+}}
+{{End box}}
+
+{{Staff}}
+{{Potions}}
+{{Hogwarts sixth floor}}
+{{DEFAULTSORT:Viridian, Vindictus}}
+
+[[de:Vindictus Viridian]]
+[[fr:Vindictus Viridian]]
+[[es:Vindictus Viridian]]
+[[pl:Vindictus Viridian]]
+[[ru:Виндиктус Виридиан]]
+[[pt-br:Vindicto Viridiano]]
+[[Category:Authors]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Potioneers]]
+[[Category:Wizards]]

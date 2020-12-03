@@ -1,0 +1,80 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:Hengist of Woodcroft.jpg|thumb]]
+|name = Hengist of Woodcroft
+|born = [[First millennium A.D.|982]] or later<ref name="birthdate">Given Hogwarts was founded in around 993 A.D. and that Hengist attended it, he must have been eleven by or after the school's founding. So, the earliest date he could have possibly been born is 982.</ref><br/>[[Woodcroft]], {{Wplink|Gloucestershire}}
+|died = 
+|blood = 
+|marital = 
+|nationality = [[England|English]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Red
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref name="pottermore">{{PM}} introduction for Hufflepuffs (transcription available [http://lady-slytherin-forever.tumblr.com/post/9001123651/hufflepuff-spoilers here])</ref>
+|loyalty = *[[Hogsmeade]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+'''Hengist of Woodcroft''' was a [[Middle Ages|Medieval]] [[England|English]] [[Wizardkind|wizard]], best known as the founder of the village of [[Hogsmeade]] in [[Scotland]], the only all-wizarding village in [[Great Britain]].
+
+==Biography==
+Hengist was born in the [[Middle Ages]], no earlier than [[First millennium A.D.|982]],<ref name="birthdate" /> in [[Woodcroft]], [[England|Gloucestershire]]. In his youth, Hengist attended [[Hogwarts School of Witchcraft and Wizardry]], where he was [[Sorting ceremony|sorted]] into [[Hufflepuff]].<ref name="pottermore" /> He might have been taught by Helga Hufflepuff herself.
+
+[[File:Hengist of Woodcroft USAcard.jpg|thumb|left|Hengist founding Hogsmeade]]
+
+Hengist is traditionally credited with the founding of the village of [[Hogsmeade]] after being driven from his home by [[Non-magic people|Muggle]] persecutors. According to popular lore, Hengist used the [[Three Broomsticks Inn]] as a home.<ref name="PSvg">{{PS|G}}</ref>
+
+Hengist died at some point during the [[Middle Ages]]. Remembered for his founding of [[Hogsmeade]], he was immortalised in a [[Chocolate Frog Card]]<ref name="PSvg" /> Hengist of Woodcroft's Chocolate Frog Card was one of the very first collected by [[Harry Potter]].<ref name="ps6">{{PS|B|6}}</ref> There was also a bust of Hengist on the [[Fourth-floor corridor|Fourth Floor Corridor]] of [[Hogwarts Castle]].<ref name="POAG">{{POA|G}}</ref>
+
+On [[1 September]], [[1991]], [[Prefect]] [[Gabriel Truman]] welcomed the [[Hufflepuff]] [[first year]]s to [[Hufflepuff Basement]] with a short speech in which he mentioned Hengist of Woodcroft as one of the many notable Hogwarts students who were [[Sorting ceremony|sorted]], like them, into Hufflepuff.<ref name="pottermore" />
+
+==Etymology==
+The name "Hengist" means "stallion" in Germanic. Hengist and his brother Horsa were the leaders of the first Germanic settlers in Britain. Hengist established a kingdom in [[Kent]] in the [[First millennium A.D.|5th century]].
+
+==Appearances==
+{{Imagecat|Images of Hengist of Woodcroft}}[[File:Chocolate_Frog_Card_Hengist_of_Woodcroft.jpg|thumb|Hengist as depicted on his [[Chocolate Frog Card]]]]
+*{{PS}} {{1st Mention}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Statue}}
+*{{PM}} {{Mention}}
+*{{WWHP}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+{{Hogwarts fourth floor}}
+{{Chocolate Frog Cards}}
+
+{{DEFAULTSORT:Woodcroft, Hengist of}}
+
+[[de:Hengist von Woodcroft]]
+[[es:Hengist de Woodcroft]]
+[[fi:Woodcroftin Hengist]]
+[[fr:Hengist de Woodcroft]]
+[[nl:Hengist de Heksenziener]]
+[[pl:Hengist z Woodcroft]]
+[[pt-br:Hengisto de Woodcroft]]
+[[ru:Энгист из Вудкрофта]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Busts]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Hogsmeade]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

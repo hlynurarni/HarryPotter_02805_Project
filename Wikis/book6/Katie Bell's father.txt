@@ -1,0 +1,47 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mr Bell
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Katie Bell's mother|Mrs Bell]] (wife)
+*[[Katie Bell]] (daughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Bell family]]
+}}
+{{Quote|They let me out of St Mungo's on Monday, I had a couple of days at home with Mum and Dad and then came back here this morning.|[[Katie Bell|Katie]]|Harry Potter and the Half-Blood Prince}}
+'''Mr Bell''' (fl.[[1997]]) was the father of [[Katie Bell]]. After being discharged from [[St Mungo's Hospital for Magical Maladies and Injuries]] in [[1997]], Katie spent a couple of days at home with her parents before returning to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="HBP24">{{HBP|B|24}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Bell, Katie's father}}
+[[fr:Parents de Katie Bell]]
+[[pl:Państwo Bell]]
+[[Category:Bell family]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

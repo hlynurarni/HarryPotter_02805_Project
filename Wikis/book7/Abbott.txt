@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Abbott
+|born = 
+|died = Before [[24 December]], [[1997]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = 
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Hannah Abbott]] (possibly)
+*[[Hannah Abbott's mother]] (possibly)
+*[[Giffard Abbott]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Abbott family]]
+}}
+{{Quote|Look at this, it's an Abbott, could be some long-lost relation of Hannah's!|Harry Potter checking names on headstones|Harry Potter and the Deathly Hallows}}
+'''Abbott''' was buried in the cemetery at [[Godric's Hollow]]. They were a possible ancestor of [[Hannah Abbott]], since wizarding families tended to live close together in certain villages after the [[International Statute of Wizarding Secrecy]] was effected in [[1689]]. Harry noticed Abbott's tombstone while searching for [[Potter family|his parents']] own in the Godric's Hollow graveyard on [[24 December|Christmas Eve]] of [[1997]].<ref>{{DH}}</ref>
+
+Abbott was part of the Abbott family, which was one of the [[pure-blood]] families listed in the [[Sacred Twenty-Eight]] directory in the [[1930s]].<ref name="pottermore">{{WW|pure-blood}}</ref> However, Abbott's actual blood-status was unknown and may have been a [[half-blood]] individual within the pure-blood family, like some Malfoys, or even a [[Non-magic people|muggle]] or [[muggle-born]] that was not acknowledged or joined the family after the publication of the Sacred Twenty-Eight directory.<ref>{{WW|the-malfoy-family}}</ref>
+
+==Appearances==
+*{{DH}} {{Mention}}
+*{{DH|G1}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Abbott]]
+[[fr:Abbot]]
+[[pl:Abbott]]
+[[Category:Abbott family]]
+[[Category:British individuals]]
+[[Category:Buried at Godric's Hollow graveyard]]

@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = 
+|name = Rose Zeller
+|born = Between [[1 September]] [[1983]] and [[31 August]] [[1984]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}
+'''Rose Zeller''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1995]] and was sorted into [[Hufflepuff]] house, as the last person.
+
+==Etymology==
+The name "Rose" was originally a Norman form of a Germanic name, which was composed of the elements hrod "fame" and heid "kind, sort, type". It was introduced to England by the Normans in the forms Roese or Rohese. From an early date it was associated with the word for the fragrant flower rose (derived from Latin rosa). When the name was revived in the 19th century, it was probably with the flower in mind.
+
+The name Rose Zeller is pronounced similarly to "rosella", one of six species of native Australian parrot.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}} {{Comment|Possibly}}<ref>The French wikipedia names another cast named [[Jena Wilhelmson]], playing Rose Zeller, in this film adaption. But it is unclear if this is a real cast.</ref>
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Zeller, Rose}}
+[[de:Rose Zeller]]
+[[fr:Rose Zeller]]
+[[ru:Роза Целлер]]
+[[pl:Rose Zeller]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hufflepuffs]]
+[[Category:Sorted in 1995]]
+[[Category:Wizards]]

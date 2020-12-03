@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:HassanMostafa.png|250px]]
+|name = Hassan Mostafa
+|born = Before [[1977]], (most likely) [[Egypt]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Egypt]]ian
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = Small<ref name="appearance">{{GOF|B|8}} - "A small and skinny wizard, completely bald but with a moustache to rival Uncle Vernon’s, wearing robes of pure gold to match the stadium, strode out onto the field."</ref>
+|weight = 
+|hair = Bald<ref name="appearance"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch referee]]
+|house = 
+|loyalty = *[[Egypt]]
+*[[International Association of Quidditch]]
+}}
+'''Hassan Mostafa''' was an [[Egypt]]ian [[Wizardkind|wizard]] and a [[Quidditch referee]] from [[Egypt]]. Physically, his appearance was that of a small, skinny [[Wizardkind|wizard]], with a large moustache and a bald head. Mostafa was an acclaimed Chairwizard of the [[International Association of Quidditch]].
+
+==Biography==
+In [[1994]], he served as the referee for the [[1994 Quidditch World Cup|Quidditch World Cup of that year]] after travelling all the way from [[Egypt]]. Halfway through the finals, however, he was entranced by the [[Veela]], the Bulgarian mascots. After recovering from the shock, he wanted them sent off the pitch.<ref name="GOF8">{{GOF|B|8}}</ref>
+
+==Behind the scenes==
+*In [[2000]], an Egyptian, [[Wikipedia:Hassan Moustafa|Hassan Moustafa]], was elected head of the [[Wikipedia:International Handball Federation|International Handball Federation]].
+
+==Etymology==
+The name "Hassan" means "beautifier" in Arabic. "Mostafa" means "chosen" in Arabic, and it is a common name.
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Mostafa, Hassan}}
+
+[[de:Hassan Mostafa]]
+[[fr:Hassan Mostafa]]
+[[pl:Hassan Mustafa]]
+[[ru:Хасан Мустафа]]
+[[pt-br:Hassan Mostafa]]
+[[Category:Egyptian individuals]]
+[[Category:Males]]
+[[Category:Quidditch referees]]
+[[Category:Wizards]]

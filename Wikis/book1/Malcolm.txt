@@ -1,0 +1,62 @@
+{{Youmay|Dudley Dursley's friend|[[Malcolm (disambiguation)|another person with the same name]]}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Malcolm.png|250px]]
+|name = Malcolm
+|born = c. [[1980s]]
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dudley Dursley's gang]]<ref name="OOTP1"/>
+}}
+{{Quote|squealed like a pig, didn’t he?|The gang's bullying behaviour|Harry Potter and the Order of the Phoenix}}
+'''Malcolm''' was a [[Non-magic people|Muggle]] who was a friend of [[Dudley Dursley]] and became a member of [[Dudley Dursley's gang]].<ref name="OOTP1">{{OOTP|B|1}}</ref> It is unknown if he learned that [[Dudley Dursley]] had started to show a little kindness to Harry or if he went into hiding when the [[Death Eaters]] attacked.
+
+==Etymology==
+The name "Malcolm" comes from Scottish Máel Coluim which means "disciple of Saint Columba". This was the name of four kings of Scotland starting in the 10th century, including Malcolm III, who became king after killing Macbeth, the usurper who had murdered his father. The character Malcolm in Shakespeare's tragedy ''Macbeth'' (1606) is based on him.
+
+==Behind the scenes==
+[[File:MalcomLEGO.jpg|thumb|Malcolm as seen in {{LEGO|Y2}}]]
+*Malcolm was potrayed by [[Richard Macklin]] in {{OOTP|FA}}.
+*In the consoles versions of {{LEGO|Y2}} he is called as "Dudley's Gang Member" and the only gang member to be playable. However [[Gordon]] and [[Dennis]] are playable in the 3DS versions of the game.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{OOTP|G}} {{Comment|Heard}}
+*{{LEGO|Y2}} 
+
+==Notes and references==
+{{Reflist}}
+{{Dudley's gang}}
+{{Character-stub}}
+[[de:Malcolm (Muggel)]]
+[[es:Malcolm]]
+[[fr:Malcolm]]
+[[nl:Mark]]
+[[pl:Malcolm]]
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Dudley Dursley's gang]]
+[[Category:Males]]
+[[Category:Muggles]]

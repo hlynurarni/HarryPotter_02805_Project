@@ -1,0 +1,58 @@
+{{Youmay|the Quidditch player|[[Barry (disambiguation)|someone of the same name]]}}
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Irish National Quidditch team.jpg|250px]]
+|name = Barry Ryan
+|born = before [[1977]], Ireland
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Keeper]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Irish National Quidditch team]] (formerly)
+|house = 
+|loyalty = [[Irish National Quidditch team]]
+}}
+'''Barry Ryan''' was an Irish [[wizardkind|wizard]] who played as the [[keeper]] for the [[Irish National Quidditch team]] during the [[1994]] [[Quidditch World Cup]]. He was one of the team members that [[Harry Potter]] got to see in the [[Top Box]] during the 1994 [[Quidditch World Cup]].
+
+After the [[1994 Quidditch World Cup|World Cup]], Ryan did a spectacular save with his boot against [[Poland]]'s top [[Chaser]], which was accidentally copied by [[Ronald Weasley|Ron Weasley]] in his [[fifth year]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+
+As of [[2014]], Barry Ryan did not play for the [[Irish National Quidditch team]] any more.<ref>[http://insider.pottermore.com/2014/03/history-of-quidditch-world-cup-part-two.html "History of the Quidditch World Cup, Part Two to be released tomorrow"] at [http://insider.pottermore.com/ Pottermore Insider]</ref>
+
+==Appearances==
+*{{GOF}}
+*{{GOF|F}}
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+{{DEFAULTSORT:Ryan, Barry}}
+{{Character-stub}}
+[[de:Barry Ryan]]
+[[de2:Barry Ryan]]
+[[es:Barry Ryan]]
+[[fr:Barry Ryan]]
+[[pl:Barry Ryan]]
+[[ru:Барри Райан]]
+[[zh:巴里·瑞安]]
+[[Category:Irish individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

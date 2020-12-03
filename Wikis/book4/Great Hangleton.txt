@@ -1,0 +1,24 @@
+{{Location infobox
+|name=Great Hangleton
+|image=
+|bgcolor1=
+|bgcolor2=
+|location=[[England]], [[Great Britain]]
+|residents=
+|affiliation=
+}}{{Quote|By the following morning, hardly anyone in Little Hangleton doubted that Frank Bryce had killed the Riddles. But over in the neighbouring town of Great Hangleton, in the dark and dingy police station, Frank was stubbornly repeating, again and again, that he was innocent, and that the only person he had seen near the house on the day of the Riddles' deaths had been a teenage boy, a [[Tom Riddle|stranger]], dark-haired and pale.|[[Frank Bryce]]'s interrogation in the police station in Great Hangleton|Harry Potter and the Goblet of Fire}}'''Great Hangleton''' is a town located in [[England]], six miles away from [[Little Hangleton]], and as its name would suggest, it is somewhat larger than the latter, housing a dark and dingy [[police]] station, whereas Little Hangleton does not.  Being close to Little Hangleton, it is about 200 miles away from [[Little Whinging]]. In [[1943]], [[Frank Bryce]] was taken to this town for questioning by the police about the murders of [[Thomas Riddle|Thomas]], [[Mary Riddle|Mary]] and [[Tom Riddle Senior|Tom Riddle Snr]]<ref>{{GOF|B|1}}</ref>. The police let him go though, because they did not have enough evidence to arrest him.
+
+In 1926, when [[Bob Ogden]] went to the [[Gaunt Shack|Gaunt shack]] to serve a warrant to [[Morfin Gaunt]], he passed a road sign that said "Great Hangleton, 5 miles" and "[[Little Hangleton]], 1 mile".
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Great Hangleton]]
+[[es:Gran Hangleton]]
+[[fr:Great Hangleton]]
+[[it:Great Hangleton]]
+[[pl:Great Hangleton]]
+[[Category:Cities and towns]]

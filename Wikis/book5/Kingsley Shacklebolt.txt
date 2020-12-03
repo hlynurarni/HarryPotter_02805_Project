@@ -1,0 +1,260 @@
+{{WizardsUniteSpoiler}}
+{{FA}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Kingsley Shacklebolt 2.jpg|250px]]
+|name = Kingsley Shacklebolt
+|born = In or before [[1960s]]<ref name=Auror>Kingsley was said to be a more high-ranking Auror than Nymphadora Tonks, who was born around 1973 and graduated from Auror training in 1994. However, he also saw similarities between Harry and James, meaning he must have met James sometime between James's birth in 1960 and his death in 1981, implying he was around the same age as James.</ref>
+|died = 
+|blood = [[Pure-blood]]<ref name="HPLE">{{HPLE}} (see [[:File:KingsleyFile.png|this image]])</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = [[Potterwatch|Royal]]<ref name=DH>{{DH}}</ref> (''[[Potterwatch]]'')
+|title = [[Minister for Magic|Minister]]<ref name=DH />
+|signature = 
+|species = [[Human]]<ref name=OP>{{OOTP}}</ref>
+|gender = Male<ref name=OP />
+|height = 6'2.5"<ref name="HPLE"/>
+|weight = 183 lbs<ref name="HPLE"/>
+|hair = Bald<ref name=OP />
+|eyes = Black<ref name=OP />
+|skin = Dark brown<ref name=OP />
+|family = [[Shacklebolt family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Kingsley Shacklebolt's wand|Unknown length, wood and core]]
+|patronus = [[Lynx]]<ref name=DH />
+|job = *[[Auror]]<ref name=OP /> {{c|formerly}}
+*Personal guard/"secretary" for [[Prime Minister]] {{c|formerly}}<ref name="HP" />
+*[[Minister for Magic]]<ref name=DH /> {{c|formerly}}
+|house = 
+|loyalty = *[[Shacklebolt family]]
+*[[British Ministry of Magic]]<ref name=OP />
+**[[Auror Office|Auror Department]] {{c|formerly}}
+*[[Order of the Phoenix]]<ref name=OP />
+**[[Advance Guard]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+*''[[Potterwatch]]''
+}}
+{{Quote|I'm not getting rid of Kingsley Shacklebolt, if that's what you're suggesting! He's highly efficient, gets through twice the work of the rest of them —|[[British Prime Minister in 1996]]|Harry Potter and the Half-Blood Prince}}
+'''Minister Kingsley Shacklebolt''' was a [[Great Britain|British]] [[pure-blood]] [[Wizardkind|wizard]]<ref name="HPLE" /> in the employment of the [[British Ministry of Magic|Ministry of Magic]]. He worked for the Ministry as an [[Auror]], but joined the reconstituted [[Order of the Phoenix]] in [[1995]] after being convinced of the return of [[Tom Riddle|Lord Voldemort]]. Working undercover within the Ministry, he fed the Order with information, and misdirected the Ministry's efforts to locate [[Sirius Black]] by saying he was spotted in [[Tibet]].  
+
+In [[1996]], he fought in the [[Battle of the Department of Mysteries]], and was later assigned to guard the [[Non-magic people|Muggle]] [[Prime Minister]], posing as his secretary. Forced into running away following the fall of the Ministry to Lord Voldemort in [[1997]], Kingsley continued to oppose the new regime. In [[1998]], he fought in the [[Battle of Hogwarts]], and was named Acting [[Minister for Magic]] in the aftermath. 
+
+When he was eventually officially confirmed in the position of Minister for Magic, he, along with [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]], worked hard to change the Ministry. They eventually succeeded in greatly reducing the corruption and pure-blood bias within the organisation. By [[2019]], Kingsley was succeeded as Minister for Magic by Hermione.
+
+==Biography==
+===Early life {{c|pre 1970s-1995}}===
+Not much has been revealed about Kingsley's life before becoming an Auror. All that is known is that he was born into a [[pure-blood]] wizarding family at a point in 1973 or earlier<ref name="Auror" /> and that he attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, although it is unknown into which [[Hogwarts Houses|House]] he was sorted.<ref name="HPLE" /> He also apparently met with [[James Potter I|James Potter]], as he saw the physical similarities between him and his son Harry.
+
+===Second Wizarding War {{c|1995-1998}}===
+====Work as an Auror====
+{{Quote|We've managed to convince a couple of people, though. Tonks here, for one — she's too young to have been in the Order of the Phoenix last time, and having Aurors on our side is a huge advantage — Kingsley Shacklebolt's been a real asset, too; he's in charge of the hunt for Sirius, so he's been feeding the Ministry information that Sirius is in Tibet.|Discussion of the oncoming second war|Harry Potter and the Order of the Phoenix}}
+[[File:Advance Guard.jpg|220x220px|thumb|left|The Advance Guard]]
+Kingsley worked as a high-ranking [[Auror]] in the [[British Ministry of Magic|Ministry of Magic]], and was assigned to lead the task force for the recapture of the [[Azkaban]]-escapee [[Sirius Black]]. When rumour of [[Tom Riddle|Lord Voldemort's]] return was denied by the Ministry, Kingsley was convinced of his return, and subsequently joined the [[Order of the Phoenix]]. Along with [[Nymphadora Tonks]], he worked as a covert operative, keeping the Order supplied with information. In addition, since joining the reactivated Order, Kingsley was informed of Black's innocence as a fellow member of the Order, and so he sidetracked the investigation by feeding the Ministry disinformation that indicated Black was hiding in Tibet.<ref name="OP" /> In the August of 1995, after [[Harry Potter]] was attacked by two dementors Kingsley volunteered to be a member of the Advance Guard. The Advance Guard were to escort Harry to the Order's Headquarters at [[12 Grimmauld Place]] in London.
+
+[[File:Harry Order meeting.jpg|246x246px|thumb|Kingsley at headquarters with other Order members]]
+
+Kingsley was also present at many dinners that took place at Grimmauld place. He was also at the Ministry on the day of Harry's hearing to answer the charge of using a [[Patronus Charm]] in front of his [[Non-magic people|Muggle]] cousin, on [[12 August]], and staged an argument with fellow Order member [[Arthur Weasley]] to protect their covers as [[Rufus Scrimgeour]] was asking questions. During the argument, he slipped Arthur a copy of ''[[The Quibbler]]'' containing an article that he thought Sirius would find amusing — an [[SIRIUS - Black As He's Painted?|article]] that claimed Sirius was actually [[Stubby Boardman]]. He later attended the party at Grimmauld Place to celebrate [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]]'s appointment as Prefects.<ref name="OP" />
+
+[[File:Kingsleywithfudge1.JPG|240x240px|thumb|left|Kingsley in Albus Dumbledore's office with John Dawlish, Dolores Umbridge, and [[Cornelius Fudge]]]]
+
+In April of 1996, Kingsley accompanied Cornelius Fudge, Auror [[John Dawlish]], and Fudge's assistant [[Percy Weasley]] to Hogwarts School of Witchcraft and Wizardry to confront [[Albus Dumbledore]] over [[Dolores Umbridge]]'s discovery of [[Dumbledore's Army]]. Despite his loyalty to the Order, Kingsley was forced to play along with the Minister, although he was able to place a [[Memory Charm]] on [[Marietta Edgecombe]] to stop her divulging any more secrets regarding Dumbledore's Army, and to agree with Dumbledore's version of events; upon Umbridge attacking Marietta for her sudden change in testimony, Kingsley stood forward to warn Dolores. During Dumbledore's escape, Kingsley was incapacitated along with the Minister, Dawlish and Umbridge to maintain his cover, an action that Albus regretted but deemed necessary.<ref name="OP" />
+
+====Battle of the Department of Mysteries====
+{{Main|Battle of the Department of Mysteries}}
+
+{{Quote|Then, high above them, two more doors burst open and five more people sprinted into the room: [[Sirius Black|Sirius]], [[Remus Lupin|Lupin]], [[Alastor Moody|Moody]], [[Nymphadora Tonks|Tonks]], and Kingsley.|The Order arrives in the Death Chamber|Harry Potter and the Order of the Phoenix}}
+
+[[File:Tumblr_mrdww6TW8y1qag66no2_250.gif|241x241px|frame|Kingsley and "Mad-Eye" Moody apparate into the Department of Mysteries]]
+
+On [[18 June]] 1996, Harry was duped into going to the [[Department of Mysteries]] on the pretence that Sirius Black was being held captive. Kingsley, along with Nymphadora Tonks, Alastor Moody, Remus Lupin, and Sirius Black, travelled to the Ministry to rescue Harry and several of his friends after being informed about this by [[Severus Snape]]. In the ensuing battle in the [[Death Chamber]], Kingsley began duelling two [[Death Eaters]] at once, then faced [[Augustus Rookwood]]. Late in the battle, Kingsley duelled with [[Bellatrix Lestrange]] just after she had sent Sirius through the [[Veil]]. Kingsley was injured in the duel, falling to the ground with a scream, but recovered from his injuries.<ref name="OP" />
+
+====Guarding the Prime Minister====
+{{Quote|An extraordinary assortment of people had already settled into half of the chairs: shabby and smart, old and young. Most Harry did not recognise, but there were a few that he did, including members of the [[Order of the Phoenix]]: Kingsley Shacklebolt, Mad-Eye Moody, Tonks....|Kingsley and others attend Dumbledore's funeral|Harry Potter and the Half-Blood Prince}}
+
+With the return of [[Tom Riddle|Lord Voldemort]] now publicly acknowledged, [[Rufus Scrimgeour]] replaced [[Cornelius Fudge]] as [[Minister for Magic]]. Fudge was overthrown by the outraged wizarding public after they learned the truth. Following the unsuccessful attempt to place the [[Imperius Curse]] on Muggle Junior Minister [[Herbert Chorley]], it was decided that the Muggle Prime Minister needed protection.<ref name="HP" /> 
+[[File:Dumbledore funeral.jpg|220x220px|thumb|left|Funeral of Albus Dumbledore]]
+In 1996 Kingsley was assigned to the [[Prime Minister]] as a bodyguard, posing as his new secretary. Kingsley's portrayal of a [[Non-magic people|Muggle]] convinced the Prime Minister, who was shocked to learn the truth from Scrimgeour several days later. The Prime Minister considered him an excellent secretary, capable of doing twice the work of his predecessor.<ref name="HP">{{HBP}}</ref> Despite his assignment to the Muggle Prime Minister, Kingsley did attend the funeral of [[Albus Dumbledore]] in July 1997.<ref name="HP" />
+
+====Battle of the Seven Potters====
+{{Main|Battle of the Seven Potters}}
+{{Dialogue a-b|Harry Potter|Kingsley, I thought you were looking after the Muggle Prime Minister?|Kingsley|He can get along without me for one night, you're more important.|Kingsley and Harry before the sky battle|Harry Potter and the Deathly Hallows}}
+[[File:Harry-potter-deathly-hallows1-seven potters.jpg|220x220px|thumb|Kingsley and other Order members preparing for transporting Harry to safety]] 
+With Dumbledore's death, and the [[Second Wizarding War]] in full swing, the Order's attention turned to protecting [[Harry Potter]]. With the protection he had at the [[4 Privet Drive]] due to expire on his seventeenth birthday, a plan was formed to break the protection early and escort him to safety at the Burrow. Although still assigned to protect the Muggle [[Prime Minister]], Kingsley was chosen to speak with the [[Dursley family|Dursleys]], as his ability to act and dress like a [[Non-magic people|Muggle]] would offend them less, and he informed them that they too would have to go into hiding for their protection.<ref name="DH" />
+
+On [[27 July]], Kingsley was part of the Order task force sent to escort Harry to safety. Acting as a protector, he rode a [[Thestral]] with [[Hermione Granger]] disguised as Harry by way of the [[Polyjuice Potion]]. During the subsequent battle, Kingsley and Hermione were chased by five [[Death Eaters]], injuring two and possibly killing one. They were also briefly chased by [[Tom Riddle|Lord Voldemort]] himself after he murdered [[Alastor Moody]], but he broke off the pursuit once the real Harry was located. His house was one of a dozen safe houses used to confuse the Death Eaters, so that they would be less likely to figure out the real destination to which Harry was being spirited away.<ref name="DH" />
+
+[[File:Kingsley after sky battle.jpg|244x244px|thumb|left|Kingsley safely at [[The Burrow]] after participating in the sky battle earlier that night]]
+
+Kingsley and Hermione finally made it back to the Burrow, and Kingsley believed that their plan had been betrayed, challenging [[Remus Lupin]] with a personal question to ensure his identity. Satisfied, he relayed his news — including the fact that Lord Voldemort could fly unaided — to the rest of the [[Order of the Phoenix|Order]] that had returned, and waited anxiously for the others. Eventually, though, Kingsley was forced to leave the Burrow and return to his duty guarding the Prime Minister.<ref name="DH" /> He was unable to help Remus and Bill search for Mad-Eye's body, as he needed to report back to the [[British Ministry of Magic|Ministry]] straight away.
+
+====The Fall of the Ministry of Magic====
+{{Quote|The Ministry has fallen. Scrimgeour is dead. [[Death Eaters|They]] are coming.|Kingsley's Patronus warning|Harry Potter and the Deathly Hallows}}
+[[File:Kingley's Patronus.jpg|220x220px|thumb|Kingsley's Patronus warns of the [[Fall of the Ministry of Magic|Ministry's downfall]]]]
+On 1 August, 1997, the [[British Ministry of Magic|Ministry of Magic]] fell to [[Tom Riddle|Lord Voldemort]] and his Death Eaters. Where Kingsley was on that day, either at the Ministry or still guarding the Prime Minister, is unknown. However, he was aware of the events, and sent his [[lynx]] [[Patronus Charm|Patronus]] to the Burrow to warn the guests at [[William Weasley|Bill Weasley]] and [[Fleur Delacour]]'s [[Wedding of William Weasley and Fleur Delacour|wedding]] of what had occurred. His warning allowed Harry, Hermione, and [[Ronald Weasley|Ron Weasley]] to escape the reception without notice.<ref name="DH" />
+
+Kingsley appeared to continue to work for the Ministry of Magic following the death of [[Rufus Scrimgeour]], much like other members of the Order such as [[Arthur Weasley]]. However, he was forced on the run after he broke the [[Taboo]] about saying Lord Voldemort's name, and had to fight off several Death Eaters. He went into hiding, but remained active in the resistance effort, contributing to the ''[[Potterwatch]]'' radio broadcast under the alias of Royal, urging Wizards to help protect [[Non-magic people|Muggle]] neighbours and to keep faith during dark times.<ref name="DH" />
+
+====Battle of Hogwarts====
+{{Main|Battle of Hogwarts}}
+{{Dialogue a-b-a|Kingsley Shacklebolt|We’ve only got half an hour until midnight, so we need to act fast! A battle plan has been agreed between the teachers of Hogwarts and the Order of the Phoenix. [[Professor]]s [[Filius Flitwick|Flitwick]], [[Pomona Sprout|Sprout]] and McGonagall are going to take groups of fighters up to the three highest Towers – [[Ravenclaw Tower|Ravenclaw]], [[Astronomy Tower|Astronomy]] and [[Gryffindor Tower|Gryffindor]] – where they’ll have a good overview, excellent positions from which to work spells. Meanwhile, Remus, Arthur, and I will take groups into the grounds. We’ll need somebody to organise defence of the entrances of the passageways into the school –|Fred Weasley|– sounds like a job for us.|All right, leaders up here and we’ll divide up the troops!|Kingsley and [[Fred Weasley]] before the start of the Battle of Hogwarts|Harry Potter and the Deathly Hallows}}
+
+[[File:Orderbattle.jpg|250x250px|thumb|left|Kingsley and the Order arrive just before the start of the Battle of Hogwarts]]
+
+In May of 1998, Kingsley was alerted to the coming battle at [[Hogwarts School of Witchcraft and Wizardry]], [[Apparition|Apparated]] to the [[Hog's Head]], and travelled to the school through the secret tunnel joining it to the [[Room of Requirement]]. Arriving in the [[Great Hall]], he consulted with [[Minerva McGonagall]] and took charge of the situation, dividing the available fighters into groups and assigning them to defend certain areas of the school.
+[[File:Momentum-reversing spell.gif|220x220px|thumb|Kingsley blasting off a [[Death Eaters|Death Eater]] during the Battle of Hogwarts]]
+He, along with [[Arthur Weasley]] and [[Remus Lupin]], led groups of fighters into the school grounds to intercept the enemy.<ref name="DH" /> Shortly before the [[Acromantula]] entered Hogwarts, Kingsley duelled a masked Death Eater while Flitwick duelled Yaxley beside him. Remus was last seen battling [[Antonin Dolohov|Dolohov]]. Kingsley also fended off [[Dementor]]s after they entered the battle having allied with Lord Voldemort and his army.
+[[File:DH2 Kingsley Shacklebolt Protego.gif|220x220px|thumb|left|Kingsley's Shield Charm against Voldemort]]
+Towards the end of the battle, after [[Tom Riddle|Lord Voldemort]] displayed an apparently dead Harry to the defenders of the castle and [[Neville Longbottom]] had slayed [[Nagini]], Kingsley, along with [[Minerva McGonagall]] and [[Horace Slughorn]], duelled Voldemort in the Great Hall. After Molly Weasley killed [[Bellatrix Lestrange]], Voldemort screamed in rage and blasted all three of them backwards. When Voldemort attempted to kill Molly, Harry cast a [[Shield Charm]] then revealed himself, took up the battle, and killed Voldemort for good. In the aftermath of the battle, Kingsley was named as acting [[Minister for Magic]].<ref name="DH" />
+
+===Later life {{c|post 1998}}===
+Kingsley was eventually made permanent Minister for Magic, and set about ridding the Ministry of corruption and discrimination. He banned the use of [[Dementor]]s to guard [[Azkaban]], and made sure they would not be used to torment the opponents of the Ministry. He appointed Harry Potter as the head of the [[Auror]] Department, and made [[Percy Weasley]] a high-ranking official,<ref>[http://www.the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript J.K. Rowling Web Transcript]</ref> reshuffling the Ministry thoroughly and becoming instrumental in the repairs of the wizarding world following Voldemort's reign of terror. He managed to revolutionise the way that the ministry worked, and with the assistance of [[Hermione Granger]], eradicated the pro-pureblood laws. 
+
+Kingsley was still Minister in 2018, as Mathilda Grimblehawk wrote a letter to him.<ref>[https://www.macobserver.com/news/hogwarts-wizards-unite-letter/ ''Hogwarts Mystery Letter deciphered'']</ref>
+
+When a sudden outbreak of a piece of chaotic magic cut through all of time, space and memory in [[2019]] and began whisking away artefacts, creatures, people, and even memories to mysteriously appear in the Muggle world, Kingsley, who was still Minister for Magic at the time, entered a partnership with the [[International Confederation of Wizards]] and worked with said organisation to establish an [[International Task Force]] whose job it would be to counteract the surges of magical activity.<ref name="WU" /> He also set up a new [[Calamity Management Team|office]] in the [[Department of Magical Accidents and Catastrophes]], whom he charged with the task of monitoring the [[Calamity]] and report any new surges to the [[Statute of Secrecy Task Force]].<ref name="WU">{{WU}} ([https://docs.google.com/document/d/1ELhhd8chAYcH5rllFpIC5EdHkg8fpkNO46WwCVsAYq8/edit# ALL BRILLIANT DIALOGUE])</ref> Kingsley was also credited with modifying [[Dark Detector]]s to help the Calamity Investigators in tracking [[Aura|traces]] of the [[Calamity]]. He also helped instruct members of the [[Statute of Secrecy Task Force]] who pursued an Auror career on focusing their mind, to help improve their skills in addressing said event.<ref>{{WU}} - ([https://youtu.be/eMg4E84XeCE?t=1492 see video])</ref> 
+
+==Physical appearance==
+[[File:Kingsley-shacklebolt-1.jpg|223x223px|thumb|A middle-aged Kingsley]]
+
+Kingsley was a tall black wizard and was described as broad shouldered. He was bald, and wore a single gold hoop earring. He had a slow, deep voice that was said to be reassuring.<ref name="OP" /> In contrast with many other wizards, he was capable of dressing properly as a Muggle, to the point that the Muggle Prime Minister could not tell the difference.<ref name="HP"/>
+
+==Personality and traits==
+{{Dialogue a-b|Lee Jordan|And what would you say, [[Potterwatch|Royal]], to those listeners who reply that in [[Second Wizarding War|these dangerous times]], it should be 'Wizards first'?|Kingsley Shacklebolt|I'd say that it's one short step from 'Wizards first' to '[[pure-blood]]s first,' and then to '[[Death Eaters]]'. We're all human, aren't we? Every human life is worth the same, and worth saving.|Kingsley Shacklebolt's belief in the equality of [[human]]ity|Harry Potter and the Deathly Hallows}}
+Kingsley was calm and controlled, with a deep reassuring voice and commanding stature. Unlike many wizards, Kingsley mastered the knack of dressing and acting like a [[Non-magic people|Muggle]], leading to his assignment to guard the Muggle [[Prime Minister]] during the [[Second Wizarding War]].<ref name="DH" /><ref name="HP" /> Kingsley was known to be level-headed, though his calm demeanour belied his incredible power and quiet fury, as seen after the Battle of the Seven Potters, he displayed his rarely witnessed temper when interrogating Remus Lupin in order to make sure it was him. This impressive example of his control over his very justifiable suspicions and anger were likely exacerbated by Mad Eye Moody's death at Voldemort's hands. This also showed Kingsley's respect of the legendary Auror.<ref name="DH"/>
+
+Kingsley was also a good judge of character, and trusted individuals regardless of age, on the basis of his knowledge of their character and abilities. He trusted [[Fred Weasley|Fred]] and [[George Weasley]] with the defence of the secret passages during the [[Battle of Hogwarts]],<ref name="DH" /> and allowed [[Harry Potter]] into the [[Auror]] Department at the age of seventeen.<ref>Wizard of the Month, October 2007, http://www.jkrowling.com</ref> When the corrupt Ministry was deeming Harry and Dumbledore as crackpots for claiming Voldemort's return, Kingsley instead sided with the Order of the Phoenix as he could see the sincerity in Harry's and Dumbledore's statements, and even believed that Sirius was innocent, to the point of misleading the hunting squad to a faraway location.<ref name="OP" />
+
+The opposite of the [[Pure-blood supremacy|pure-blood advocates]], Kingsley believed in equality and fairness for all wizards and [[Non-magic people|Muggle]]s. He was also brave enough to call Voldemort by his name, though this resulted in him getting discovered by a group of Death Eaters.<ref name="DH" />
+
+Although a faithful and devoted individual, Kingsley was not a blindly loyal man, as he acted on his own judgement instead of waiting for orders (contrary to his colleague [[John Dawlish]]), and was not afraid to speak his mind. He joined the Order of the Phoenix despite the Ministry's oppression, swiftly acting to modify [[Marietta Edgecombe]]'s memories in secret simply by looking at the situation at hand, and stood forward to warn [[Dolores Umbridge]] not to manhandle students. At the same time, he was skilled in maintaining a facade to the corrupt Ministry to hide his own agenda from them, such as giving the appearance of devoting himself to hunt down Sirius, or speaking rather condescendingly with [[Arthur Weasley]] to appear they have no dubious allegations, an act that Arthur returned (though the two would quietly exchange friendly comments in between).<ref name="OP" />
+
+==Magical abilities and skills==
+As a high ranking [[Auror]] and eventual leader of the [[Order of the Phoenix]], Kingsley was a very powerful wizard with a well balanced set of abilities. His exceptional skills were looked highly upon by his fellow Order members, including fellow Auror [[Nymphadora Tonks]]. Even [[Tom Riddle|Lord Voldemort]] himself seemed to regard Kingsley as a powerful wizard.
+*'''[[Magic]]al mastery''': Kingsley Shacklebolt was an exceptionally powerful and formidable wizard, and, as a [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] student, he excelled in his studies enough to meet the qualifications for [[Auror training]] at the [[British Ministry of Magic]], becoming an illustrious [[Auror]], trusted with some of the most important missions. Kingsley was skilled enough to temporarily engage [[Bellatrix Lestrange]] and survive, despite being defeated, and later even showed himself to be powerful enough to aid [[Minerva McGonagall]] and [[Horace Slughorn]] in duelling against [[Tom Riddle|Lord Voldemort]] himself, surviving the duel. It must be noted, however, that Kingsley and his two allies were swiftly defeated when Voldemort's rage had amplified the Dark Lord's magic.
+*'''[[Auror]] skills''': Kingsley Shacklebolt was an exceptionally skilled Auror, more than likely completing the [[Concealment and Disguise]], as well as the [[Stealth and Tracking]] portions of [[Auror training]] with excellence. Indeed, [[Nymphadora Tonks]] stated that Kingsley was a high-ranking [[Auror]], and her claim was fully backed up by Kingsley's natural cunning, outstanding duelling ability, and unique talent in defensive magic. Kingsley was well-respected by his colleagues and superiors, since he was trusted by the [[British Ministry of Magic]] and the [[Order of the Phoenix]] with many important missions, such as acting as the Muggle [[Prime Minister]]'s undercover bodyguard (without said Prime Minister ever suspecting Kingsley being a wizard), leading the wizardhunt for [[Sirius Black]] (secretly diverting the Ministry's efforts from capturing Sirius), assisting [[Cornelius Fudge|Minister for Magic Fudge]] in the attempt to arrest [[Albus Dumbledore]] (while secretly on Dumbledore's side), escorting [[Harry Potter]] with the [[Advance Guard]], protecting a disguised [[Hermione Granger]] during the [[Battle of the Seven Potters]], and leading the Order members during the [[Battle of Hogwarts]]. Kingsley also successfully pretended to be loyal to the corrupt administration of Cornelius Fudge during the [[Campaign to discredit Albus Dumbledore and Harry Potter]]. Finally, Kingsley deduced the [[Fall of the Ministry of Magic]] quickly enough to warn all of the attendees of [[Wedding of William Weasley and Fleur Delacour|Bill and Fleur's wedding]], giving Harry, Ron, and Hermione enough time to escape.   
+*'''[[Duelling]]''': Kingsley was an outstandingly skilled duellist, being able to defeat two [[Death Eaters]] at once, and to duel against the highly skilled [[Augustus Rookwood]]. During the [[Battle of the Seven Potters]], Kingsley was chased by five [[Death Eaters]], and even though he was on a [[Thestral]] and had to protect [[Hermione Granger]] at the same time, he stunned two of them (one of them being [[Travers]]), and possibly killed another. He was also able to hold off Lord Voldemort himself during the same battle, though Voldemort quickly lost interest in Kingsley and Hermione when the real Harry was found. Later, when cornered by several Death Eaters after triggering the [[Taboo]], Kingsley single-handedly fought them off. While Kingsley was unable to defeat [[Bellatrix Lestrange]] during the [[Battle of the Department of Mysteries]], he did hold his ground for a time and survived, albeit injured. During the [[Battle of Hogwarts]], he was seen engaging a masked Death Eater in a fierce duel in which he most likely won due to his unscathed appearance later. During the second part of the same battle Kingsley engaged Lord Voldemort a second time in a prolonged duel, alongside two other masterful duellists: [[Minerva McGonagall]] and [[Horace Slughorn]], and survived. Indeed, Kingsley and his two allies were only defeated when Voldemort's magic was briefly amplified by the rage he felt over Belatrix's death.<ref name="DH" /> 
+*'''[[Defence Against the Dark Arts]]''': As an Auror, Kingsley received at least an [[Exceeds Expectations]] in his [[Ordinary Wizarding Level|O.W.L.]] and [[Nastily Exhausting Wizarding Test|N.E.W.T.]] for this subject,<ref name="OOTP29">{{OOTP|B|29}}</ref> making him highly accomplished in defending against the [[Dark Arts]]. He demonstrated his exceptional defensive abilities as both an Auror and a member of the Order of the Phoenix, with him being very accomplished in fighting the Dark Arts and [[Dark Wizard]]s.  
+{{Quote|At that moment, something large and silver came falling through the canopy over the dance floor. Graceful and gleaming, the lynx landed lightly in the middle of the astonished dancers. Heads turned, as those nearest it froze, absurdly, in mid-dance. Then the Patronus’s mouth opened wide and it spoke in the loud, deep, slow voice of Kingsley Shacklebolt.|Kingsley's corporeal lynx Patronus|Harry Potter and the Deathly Hallows}}
+[[File:Kingsley_Patronus_PM.png|thumb|Kingsley's corporeal Lynx Patronus]]
+*'''[[Charm]]s''': Kinglsey was highly capable in charms, since as an Auror, he received at least an Exceeds Expectations in his O.W.L. and N.E.W.T. for this [[Charms (class)|subject]],<ref name="OOTP29" /> given that he cast a powerful spell on a [[Death Eaters|Death Eater]], causing the latter fly backwards out of a window that had just been broken, but resealed itself. Kingsley was also very proficient with the [[Memory Charm]], shown when he altered [[Marietta Edgecombe]]'s memory to prevent her from telling [[Cornelius Fudge]], [[John Dawlish]] and [[Dolores Umbridge]] that [[Dumbledore's Army]] had been meeting in secret for several months. Moreover, Kingsley was able to conjure the extremely complex talking corporeal [[Patronus Charm]] - a method of communication invented by [[Albus Dumbledore]], which took the form of a [[lynx]].<ref name="DH" /> He was also the one who came up with the idea of re-purposing [[Dark Detector]]s to assist the [[Statute of Secrecy Task Force]] by modifying and attuning them to find hidden [[Aura|Traces]] created by the [[Calamity]]; a feat he pulled off in only a couple of hours.<ref name="WU"/>
+*'''[[Transfiguration]]''': As an Auror, Kingsley was skilled in Transfiguration, as he had to have received at least an Exceeds Expectations in his O.W.L. and N.E.W.T. for this subject.<ref name="OOTP29" />
+*'''[[Potion]]s''': As an Auror, Kingsley was skilled in Potions, as he had to have received at least an Exceeds Expectations in his O.W.L. and N.E.W.T. for this subject.<ref name="OOTP29" />
+*'''[[Herbology]]''': As an Auror, Kingsley was skilled in Herbology, as he had to have received at least an Exceeds Expectations in his O.W.L. and N.E.W.T. for this subject.<ref name="OOTP29" />
+*'''[[Muggle Studies]]''': Kingsley was extremely skilled in this subject, evident from his expertise in flawlessly blending in with [[Non-magic people|Muggle]]s, to the point that the [[Dursley family]] treated Kingsley better than most wizards, and with even the Muggle [[Prime Minister]] being unaware of Kingsley being a wizard until [[Cornelius Fudge]] revealed it. 
+*'''[[Apparition]]''': Kingsley, like most accomplished adult wizards, was capable of apparating at will.<ref name="DH"/>
+{{Quote|Kingsley Shacklebolt swooped around him, bald pate and earring gleaming slightly in the [[moon]]light....|Kingsley's masterful flying in 1995|Harry Potter and the Order of the Phoenix}}
+*'''[[Flight|Flying]]''': Kingsley was a highly accomplished [[broomstick]] flyer, successfully escorting [[Harry Potter]] to [[12 Grimmauld Place]] on a broom alongside his other [[Order of the Phoenix]] comrades.<ref name="OP"/>
+*'''[[Nonverbal spell|Nonverbal magic]]''': Kingsley was highly proficient in nonverbal spells, since in the battles of the [[Department of Mysteries]] and [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], Kingsley duelled many opponents, including [[Bellatrix Lestrange]] and [[Tom Riddle|Lord Voldemort]] himself, without saying a word. Given the high level of difficulty required in the casting of [[spell]]s non-verbally, this is further testament to his formidable magical skills as a wizard. 
+*'''Leadership skills''': Kingsley was a highly effective leader, evident from his status as a very prominent [[Auror]] in the [[British Ministry of Magic]], leading the Ministry wizard hunt for [[Sirius Black]] astray (convincingly claiming that Sirius was hiding in [[Tibet]]), being the one to lead the [[Order of the Phoenix]] following the deaths of [[Albus Dumbledore]] and [[Alastor Moody]], and being an effective [[Minister for Magic]] following the [[Second Wizarding War]], helping purge the Ministry of corruption, thereby making the British wizarding community a better, more tolerant and happier place for all wizards and witches.
+
+==Possessions==
+[[File:Kingsley Shacklebolt wand.jpg|145px|thumb|Kingsley's wand]]
+*'''[[Kingsley Shacklebolt's wand|Wand]]''': Kingsley's [[wand]] was of unknown length, wood, and core. It can be assumed that the wand was manufactured by [[Garrick Ollivander]].
+*'''[[Kingsley Shacklebolt's house|House]]''': Kingsley's house was located somewhere in [[England]] and was his residence during the [[Second Wizarding War]].
+
+==Relationships==
+===Order of the Phoenix===
+{{Dialogue a-b|Alastor Moody|I’m just telling the [[Harry Potter|boy]] the plan. Our job’s to deliver him safely to [[12 Grimmauld Place|headquarters]] and if we die in the attempt —|Kingsley Shacklebolt|No one’s going to die.|Kingsley reassuring [[Alastor Moody]] as part of the [[Advance Guard]]|Harry Potter and the Order of the Phoenix}}
+[[File:Order of the Phoenix.png|251x251px|thumb|left|The original [[Order of the Phoenix]]]]
+
+Kingsley had a good relationship with all the members of the Order of the Phoenix and their allies, including [[Harry Potter]], [[Hermione Granger]], the [[Weasley family]], [[Alastor Moody]], [[Nymphadora Tonks]], and [[Albus Dumbledore]]. Because of his beliefs, Kingsley was highly regarded by most members.
+
+He also seemed to be a friend of [[Remus Lupin]] and [[Sirius Black]]. After Sirius was killed by [[Bellatrix Lestrange]], Kingsley fought against Bellatrix, although he was defeated. He also appeared to be on good terms with [[Elphias Doge]], [[Dedalus Diggle]], [[Emmeline Vance]], and [[Sturgis Podmore]], as they were all members of the [[Advance Guard]] in [[1995]]. He also supposedly knew [[James Potter I|James Potter]] personally, as he mentioned that his son (Harry) looked like James.
+
+Several members of the Order were killed during battles. It is unknown how Kingsley reacted when he learned about their deaths. After the [[Second Wizarding War]], Kingsley and the remaining members of the Order likely remained in contact.
+
+As with the other members of the Order, he originally trusted [[Severus Snape]], who was a [[Death Eaters|Death Eater]] turned to a double-agent on the Order's behalf. When Snape killed Dumbledore, under Dumbledore's secret request to die peacefully and not let [[Draco Malfoy]] damage his [[soul]] by being the murderer, Kingsley lost his respect and trust in Snape. After Snape's true allegiance was revealed, this was most likely restored.
+
+==Media==
+<gallery width="200" position="center" spacing="small" captionalign="center" hideaddbutton="true">
+File:Harry Potter and the Order of the Phoenix - Albus Dumbledore's big escape (HD)|Dumbledore Escapes
+File:Harry Potter and the Deathly Hallows part 2 - Kingsley and Remus preparing for battle (HD)|Preparing for Battle
+</gallery>
+==Etymology==
+Both "shackle" and "bolt" refer to means of imprisonment. Specifically, a ''shacklebolt'' is the threaded pin of a shackle allowing the linking of multiple chains and metal cables. This also hints at the reason his patronus is a ''lynx'' (links).
+
+His first name, "Kingsley" suggests royalty, note the "King" in it. This may be the reason that in ''Potterwatch'' he was known as "Royal".
+
+==Behind the scenes==
+[[File:Kingsley_5-7.png|thumb|Kingsley Shacklebolt in {{LEGO|Y2}}]]
+[[File:Kingsley Shacklebolt LEGO mini-figure.jpg|thumb|Kingsley Shacklebolt as a LEGO mini-figure]]
+*Kingsley was portrayed by [[George Harris]] in the [[Harry Potter and the Order of the Phoenix (film)|film adaptation]] of ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]'' and the [[Harry Potter and the Deathly Hallows (film)|film adaptations]] of {{DH}}.
+*It is never mentioned if Kingsley was a member of the first Order of the Phoenix or not, as he is not in the original Order photograph. However, in {{OOTP}}, he calls [[James Potter I|James Potter]] by his first name and compares Harry to him, indicating he knew him personally. This may indicate he was a member of the first Order, but this has never been officially stated. Since his age has not been declared officially, another possibility is that he may have also attended Hogwarts at the same time as James and his friends.
+*Kingsley also shows a good sense of humour in ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]''. He is given [[Phineas Nigellus Black]]'s line concerning Dumbledore and how he has got style shortly after the Headmaster's escape from the [[Minister for Magic]] and several [[Auror]]s.
+*It is unknown which House Kingsley was [[Sorting ceremony|Sorted]] into during his time at Hogwarts, even to ministry records.
+*While not explicitly mentioned, it's possible that after [[Dolores Umbridge]] was imprisoned in [[Azkaban]], Kingsley repealed her [[anti-werewolf legislation]], given his friendship with the late [[Remus Lupin]].
+*Kingsley is the inspiration for the New York-based Wizard Rock band, Kingsley and the Shacklebolts.
+*Kingsley's role of becoming the next Minister for Magic is omitted from {{DH|F2}}, but it can be assumed that he did become the next Minister for Magic.
+*From all the members of the [[Order of the Phoenix]] who aided [[Dumbledore's Army]] in the [[Battle of the Department of Mysteries]], Kingsley is the only one to survive the [[Second Wizarding War]].
+*Kingsley may have been of Nigerian descent, as he wore Nigerian robes in the films, described in {{HPV|CH}}.
+
+==Appearances==
+{{Imagecat|Images of Kingsley Shacklebolt}}
+[[File:KingsleyWU.png|thumb|Kingsley Shacklebolt as he appears in {{WU}}]]
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}} {{Voice}}
+*{{DH|F2}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{HPV|CR}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Pius Thicknesse]]
+|position=Acting [[Minister for Magic]]
+|years=[[2 May]], [[1998]] - Later in [[1998]]
+|successor=Himself, as Minister for Magic
+}}
+{{Succession box
+|predecessor=Himself, as Acting Minister for Magic
+|position=[[Minister for Magic]]
+|years=[[1998]] - c. [[2019]]
+|successor=[[Hermione Granger]]
+}}
+{{End box}}
+{{Ministry Level 2 employees}}
+{{Minister for Magic}}
+{{Order of the Phoenix}}
+
+{{DEFAULTSORT:Shacklebolt, Kingsley}}
+[[ca:Kingsley Shacklebolt]]
+[[de:Kingsley Shacklebolt]]
+[[de2:Kingsley Shacklebolt]]
+[[es:Kingsley Shacklebolt]]
+[[fi:Kingsley Kahlesalpa]]
+[[fr:Kingsley Shacklebolt]]
+[[nl:Romeo Wolkenveldt]]
+[[pl:Kingsley Shacklebolt]]
+[[pt-br:Quim Shacklebolt]]
+[[ru:Кингсли Бруствер]]
+[[vi:Kingsley Shacklebolt]]
+[[Category:Advance Guard]]
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Battle of the Department of Mysteries participants]]
+[[Category:Battle of the Seven Potters participants]]
+[[Category:Black-eyed individuals]]
+[[Category:British Ministers for Magic]]
+[[Category:Broadcasters]]
+[[Category:Foundables]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Shacklebolt family]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

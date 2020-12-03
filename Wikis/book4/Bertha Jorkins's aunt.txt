@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|image=
+|theme=individual
+|name=Bertha Jorkins' aunt
+|hideb=y
+|born=
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Female
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Bertha Jorkins]] (niece)
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+An '''aunt''' of [[Bertha Jorkins]] lived in [[Albania]].
+
+== Biography ==
+Bertha planned to visit her on an Albanian vacation in [[1994]], right after she saw a [[Bertha Jorkins' second cousin|second cousin]], who resided to the north.<ref>{{GOF|B|24}}</ref> However, on the way to her aunt's, Bertha stopped at an inn. She ran into [[Peter Pettigrew]] there, and, after being convinced to take a walk with him, she was kidnapped and taken to [[Tom Riddle|Lord Voldemort]], who eventually murdered her.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Tante de Bertha Jorkins]]
+[[pl:Ciotka Berty Jorkins]]
+[[Category:Albanian individuals|Jorkins's aunt]]
+[[Category:Females|Jorkins's aunt]]
+[[Category:Humans|Jorkins's aunt]]
+[[Category:Unnamed family members‎|Jorkins's aunt]]

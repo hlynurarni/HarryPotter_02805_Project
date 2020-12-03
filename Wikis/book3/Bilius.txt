@@ -1,0 +1,86 @@
+{{Youmay|an uncle of the [[Weasley family|Weasley]] children|an [[Bilius Finbok|employee]] of the [[Department of Intoxicating Substances]]}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:UncleBilius.png|250px]]
+|name=Bilius
+|hideb=
+|born=
+|died=Between [[1 March]], [[1980]] and [[September]], [[1993]]<ref>Fred and George know of his death, as does Ron, meaning that he died some time after Ron, at least, was born and was deceased by 1993 for Ron, Fred and George to tell the story.</ref>
+|blood=[[Pure-blood]]
+|marital=Unmarried
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Muriel's mother|Possible great-grandmother]]
+*[[Arcturus Black III]] (possible grandfather)
+*[[Lysandra Yaxley]] (possible grandmother)
+*[[Septimus Weasley]] (possible father)
+*[[Cedrella Black]] (possible mother)
+*[[Molly Weasley's father|Mr Prewett]] (possible father)
+*[[Molly Weasley's mother|Mrs Prewett]] (possible mother)
+*[[Arthur Weasley]] (brother or brother-in-law)
+*[[Molly Weasley]] (sister or sister-in-law)
+*[[Fabian Prewett]] (brother or brother-in-law) †
+*[[Gideon Prewett]] (brother or brother-in-law) †
+*[[William Weasley]] (nephew)
+*[[Charles Weasley]] (nephew)
+*[[Percy Weasley]] (nephew)
+*[[Fred Weasley]] (nephew) †
+*[[George Weasley]] (nephew)
+*[[Ronald Weasley]] (nephew)
+*[[Ginevra Weasley]] (niece)
+*[[House of Black|Black family]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=*[[Weasley family]]
+*[[Prewett family]]
+}}
+{{Dialogue a-b|Fred Weasley|...before he went loopy he was the life and soul of the party. He used to down an entire bottle of firewhisky, then run on to the dance floor, hoist up his robes and start pulling bunches of flowers out of his –|Hermione Granger|Yes, he sounds a real charmer.|[[Fred Weasley]] on his uncle Bilius|Harry Potter and the Deathly Hallows}}
+
+'''Bilius''' (surname '''Weasley''' or '''Prewett''') was a [[pure-blood]] [[Wizardkind|wizard]] and a brother of either [[Arthur Weasley]] or [[Molly Weasley|Molly Weasley née Prewett]]. A lifelong bachelor, he was fun-loving and lively, but was prone to eccentric behaviour.<ref name="dh8">{{DH|B|8}}</ref> He reportedly died twenty-four hours after seeing a [[Grim]].<ref name="poa6">{{POA|B|6}}</ref>
+
+==Biography==
+Bilius was a brother of either [[Arthur Weasley]] or [[Molly Weasley|Molly Weasley née Prewett]] and an uncle to the couple's [[Weasley family|seven children]], as well as the namesake for the youngest son, [[Ronald Weasley|Ronald Bilius Weasley]] .
+
+Bilius never married and presumably had no children.<ref name="dh8" /> According to his nephews, [[Fred Weasley|Fred]] and [[George Weasley]], he was always a joker, and was fun to have at weddings and parties. On more than one occasion, he was said to have consumed an entire bottle of [[firewhisky]] and then run to the dance floor, where he lifted his robes and began to pull bouquets of flowers out of an alarming part of his body.<ref name="dh8" />
+
+Bilius was said to have gone "loopy" towards the end of his life.<ref name="dh8" /> According to his nephew Ron, he died twenty-four hours after having seen a [[Grim]] sometime in or prior to September [[1993]].<ref name="poa6" />
+
+==Etymology==
+"Bilious" is the adjective for 'bile,' a yellowish-green secretion of the liver. The word "bilious" goes back to the old belief that there were four bodily humours (black bile, yellow bile, phlegm, and blood) and these four humours determined a person's temperament. "Bilious" was the personality type associated with an excess of yellow bile, and indicates a peevish, ill-natured disposition.<ref>MedicineNet.com</ref>
+
+==Behind the scenes==
+*It is often presumed that Bilius was [[Arthur Weasley]]'s brother, as [[J. K. Rowling]] revealed that Arthur was "one of three brothers,"<ref>[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=7 Weasley family trivia] on J.K. Rowling Official Site</ref> but did not give the names of the other [[Arthur Weasley's brothers|two brothers]]. However, it is still possible that Bilius was a brother of [[Molly Weasley|Molly Weasley née Prewett]], as although Rowling has confirmed that [[Fabian Prewett|Fabian]] and [[Gideon Prewett]] were Molly's brothers,<ref>[http://www.jkrowling.com/textonly/en/rumours_view.cfm?id=27 Gideon and Fabian Prewett] on J.K. Rowling Official Site</ref> she has not stated that they were Molly's only brothers.
+*Bilius seemed prone to outrageous behaviour, and is hinted to have been an [[alcohol]]ic.
+*If Bilius was the brother of Molly, then he would distantly link to the [[House of Black]], for Molly's aunt by marriage is [[Lucretia Black|Lucretia Prewett née Black]]. If he was the brother of Arthur, he would be closer, as his possible (and Arthur's) mother&nbsp;would be [[Cedrella Black|Cedrella Weasley née Black]].
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{DH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Bilius (Rons Onkel)]]
+[[pl:Bilius]]
+[[fi:Bilius]]
+[[fr:Bilius]]
+[[ru:Билиус]]
+[[Category:20th century deaths]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Pure-bloods]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,87 @@
+{{Spoiler|PAS|HM}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Ambrosius Flume.jpg|250px]]
+|name = Ambrosius Flume
+|born = between [[1914]] and   [[1970]]<ref>Slughorn became Potions Master in 1931 and resigned from his teaching position in 1981, meaning Flume would have been a member of the Slug Club by at least then.</ref>
+|died = 
+|blood = 
+|marital = Married
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Bald<ref name="PA10"/>
+|eyes = 
+|skin = White
+|family = [[Ambrosius Flume's wife|Mrs Flume]] (wife)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Co-owner of [[Honeydukes]]
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Slug Club]]
+*[[Honeydukes]]
+}}
+'''Ambrosius Flume''' was a [[Wizardkind|wizard]] who, by the [[1990s]], ran [[Honeydukes|Honeydukes Sweetshop]] in [[Hogsmeade]], a very popular shop among Hogwarts students during the [[Hogsmeade weekend trips|school's weekend trips]] to [[Hogsmeade|the village]], with [[Ambrosius Flume's wife|his wife]].
+
+==Biography==
+===Early life===
+Ambrosius Flume attended [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] in his youth and was taught [[Potions (class)|Potions]] by [[Horace Slughorn]]. Ambrosius became a member of the [[Slug Club]].<ref name="HBP4">{{HBP|B|4}}</ref>
+
+===Employment===
+As he was a member of the [[Slug Club]], [[Horace Slughorn]] introduced Ambrosius to [[Ciceron Harkiss]] and thus had him employed. As repayment for Horace's kindness, Flume sent a hamper of Slughorn's favourite sweets ([[Crystallised Pineapple|Crystallised pineapple]]) to him annually on his birthday.<ref name="HBP4" />
+
+===Marriage and Honeydukes===
+At some point in his life, Ambrosius married [[Ambrosius Flume's wife|Mrs Flume]].<ref name="HBP4" /> By [[1993]], the couple lived in a flat above [[Honeydukes|Honeydukes Sweetshop]] and together ran said shop. In [[1993]], during one of the weekend trips to Hogsmeade, [[Ambrosius Flume's wife|Mrs Flume]] asked Ambrosius to get some [[Jelly Slug]]s, as the shop was filled with Hogwarts students.<ref name="PA10">{{POA|B|10}}</ref>
+
+===Battle of Hogwarts===
+It is most likely that as a former Hogwarts student Ambrosius participated in the [[Battle of Hogwarts]] alongside his [[Ambrosius Flume's wife|wife]], and fellow [[Hogsmeade]] residents [[Aberforth Dumbledore]], [[Rosmerta|Madam Rosmerta]] and [[Puddifoot|Madam Puddifoot]].
+
+==Etymology==
+''Ambrosius'' comes from the Greek word "ambrosia" meaning food or drink of the deities. It is also referred as nectar, which is sweet and bestows immortality. A flume is an artificial channel for the flow of [[water]].
+
+==Behind the scenes==
+*Flume may have been the one who told [[Tom Riddle]] that [[Horace Slughorn]] was quite fond of [[Crystallised Pineapple]]. Tom used this sweet as a casual bribe the night he asked Slughorn on the method and effects of creating [[Horcrux]]es.
+*It is possible, as he was a former [[Slug Club]] member, that he attended the [[Slug Club Christmas party|Christmas party]] in [[1996]].
+*On {{HBP|FA}} Ambrosius only appears in a flashback on disc 2 from {{POA|F}} and is mentioned on the original script.<ref>[http://www.imsdb.com/Movie%20Scripts/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20Script.html ''Half-Blood Prince'' script] on the Internet Movie Script Database (archived [http://web.archive.org/web/20110101193134/http://www.imsdb.com/scripts/Harry-Potter-and-the-Half-Blood-Prince.html here])</ref>
+**Also in the novel Slughorn said that Ambrosius sent a hamper of his favourite sweets, which were [[Crystallised Pineapple]], every birthday, while on the original script from the film Slughorn said that Ambrosius sent him a hamper of chocolate each birthday. This is possibly why it was cut from the film, as it contradicts the novel and would totally ruin later events, such as Slughorn's memory about the [[Slug Club]] dinner with [[Tom Riddle]], in which Tom gave Slughorn crystallised pineapple.
+
+==Appearances==
+*{{POA}} {{1st}}
+*{{POA|F}}
+*{{HBP}} {{1st ID}}
+*{{HBP|F}} {{Comment|Mentioned on script only}}
+*{{DH}}
+*{{LEGO|Y1}} {{Comment|Mentioned only in DS version}}
+*{{HM}} {{Mention}}
+*{{PAS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogsmeade}}
+{{DEFAULTSORT:Flume, Ambrosius}}
+
+[[de:Ambrosius Flume]]
+[[de2:Ambrosius Flume]]
+[[es:Ambrosius Flume]]
+[[fr:Ambrosius Flume]]
+[[nl:Ambrosius Flier]] 
+[[ru:Амброзий Флюм]]
+[[pl:Ambrozjusz Flume]]
+[[Category:British or Irish individuals]]
+[[Category:Confectioners]]
+[[Category:Flume family]]
+[[Category:Honeydukes]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Shop owners]]
+[[Category:Slug Club]]
+[[Category:Wizards]]

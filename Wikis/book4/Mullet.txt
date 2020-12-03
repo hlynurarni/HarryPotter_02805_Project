@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Irish National Quidditch team.jpg|250px]]
+|name = Mullet
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Irish National Quidditch team]]
+|house = 
+|loyalty = [[Irish National Quidditch team]]
+}}
+'''Mullet''' was an Irish [[wizardkind|witch]] who played as the [[Chaser]] for the [[Irish National Quidditch team]] during the [[1994 Quidditch World Cup]]. She played during the [[1994 Quidditch World Cup]] final against [[Bulgarian National Quidditch team|Bulgaria]], which the Irish team won. She won her side a penalty when Bulgarian [[Keeper]], [[Lev Zograf]] fouled her by [[cobbing]].<ref>{{GOF|B|8}}</ref>
+
+==Etymology==
+A "mullet" is a hairstyle and a kind of fish.
+
+==Appearances==
+*{{GOF}}
+*{{GOF|F}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Quidditch positions}}
+
+[[de:Mullet]]
+[[es:Mullet]]
+[[fr:Mullet]]
+[[pl:Mullet]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Irish individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,26 @@
+{{Conjecture}}
+{{Individual_infobox
+|image = [[File:Spinner's_End_fox.png|250px]]
+|name = Fox near Spinner's End
+|born = Before or in [[1996]]
+|died = Summer, [[1996]]<ref name="HBP2"/>
+|species = [[Fox]]<ref name="HBP2"/>
+|hair = Red<ref name="HBP2"/>
+|theme = individual
+}}
+This '''[[fox]]''' lived by the river near [[Spinner's End]], the erstwhile home of [[Severus Snape]].<ref name="HBP2"/>
+
+==Biography==
+The fox was apparently underfed, as it was described as scrawny, and was scavenging amongst rubbish for food. The fox was present when [[Narcissa Malfoy]] and her sister [[Bellatrix Lestrange]] [[Apparition|Apparated]] to Spinner's End to meet with [[Severus Snape]]. The fox attempted to flee the area, but was killed by Bellatrix via a [[Nonverbal spell|nonverbal]] [[Killing Curse]] when it ran, as she thought it may have been an [[Auror]], in her fear of getting caught.<ref name="HBP2">{{HBP|B|2}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1996 deaths]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Foxes]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Killed by Bellatrix Lestrange]]
+[[Category:Second Wizarding War casualties]]

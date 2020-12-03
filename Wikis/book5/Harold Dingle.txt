@@ -1,0 +1,53 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Harold Dingle
+|born = Late [[1970s]] or early [[1980s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP31"/>
+|gender = Male<ref name="OOTP31"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OOTP31"/>
+}}
+'''Harold Dingle''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] during the [[1990s]].<ref name="OOTP31"/>
+
+==Biography==
+In [[1996]], he tried to sell a substance that he claimed was powdered [[dragon claw]] to students studying for their [[Ordinary Wizarding Level|O.W.L.s]]. In truth, the substance was dried [[Doxy]] droppings, which [[Hermione Granger]] confiscated as a school [[Prefect]].<ref name="OOTP31">{{OOTP|B|31}}</ref> Harold later offered to sell [[Firewhisky|Firewhiskey]] to [[Dean Thomas]] and [[Seamus Finnigan]].<ref name="OOTP32">{{OOTP|B|32}}</ref>
+
+==Etymology==
+*The name "Harold" is from the Old English name ''Hereweald'' meaning "leader of the army", derived from the elements ''here'' "army" and ''weald'' "leader, ruler". The Old Norse cognate Haraldr was also common among Scandinavian settlers in England. This was the name of five kings of Norway and three kings of Denmark. It was also borne by two kings of England, both of whom were from mixed Scandinavian and Anglo-Saxon backgrounds, including Harold II who lost the Battle of Hastings (and was killed in it), which led to the Norman conquest. After the conquest the name died out, but it was eventually revived in the 19th century.
+*A "dingle" is a small wooded valley; a dell.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dingle, Harold}}
+[[fr:Harold Dingle]]
+[[ru:Гарольд Дингл]]
+[[pl:Harold Dingle]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Con artists]]
+[[Category:Males]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

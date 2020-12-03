@@ -1,0 +1,299 @@
+{{Spoiler|PAS|HM}}
+{{Individual infobox
+|theme = daily-prophet
+|image = Rita Skeeter 2.jpg
+|name = Rita Skeeter
+|born = Between [[January]] and [[November]] [[1951]]<ref name="PM">{{PM}}</ref>
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="Blood">As Rita was not imprisoned in Azkaban by the [[Muggle-Born Registration Commission]] in [[1997]], it is most likely that she was not a [[Muggle-born]] witch.</ref> {{c|possibly}}
+|marital = Single<ref>Newt Scamander refered to Rita as Miss Skeeter in {{FB|2017}}.</ref>
+|nationality = [[Great Britain|British]]
+|alias = Queen of the Quills<ref name="DHpt1">{{DH|F1}} - see [[:File:DH1 The Life and Lies of Albus Dumbledore book cover.jpg|this picture]].</ref>
+|title = 
+|signature = [[File:Rita Skeeter sig.png|80px]]
+|species = [[Human]]<ref name="GOF10"/>
+|gender = Female<ref name="GOF10"/>
+|height = 
+|weight = 
+|hair = Blonde<ref>{{GOF|B|30}} - "She had short blonde hair, was wearing magenta robes, and was sucking the end of an acid-green quill. It was, unmistakably, a younger Rita Skeeter."</ref>
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = [[Beetle]] (unregistered)<ref name="GOF37">{{GOF|B|37}}</ref>
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = Unknown length, wood and core<ref name="GOF18"/>
+|patronus = Non-corporeal<ref name="LEGOY1"/><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = *Biographical author
+*Gossip Correspondent for the ''[[Daily Prophet]]''<ref name="DA_QWC">{{PM}} - [[DUMBLEDORE'S ARMY REUNITES AT QUIDDITCH WORLD CUP FINAL]] (Archived)</ref>
+|house = 
+|loyalty = *''[[Daily Prophet]]''<ref name="GOF18"/>
+*''[[Witch Weekly]]''
+*''[[The Quibbler]]''<ref name="OP25"/>
+*[[Order of the Phoenix]] (indirectly)<ref name="OP25"/>
+}}
+{{Quote|You horrible woman. You don't care, do you, anything for a story, and anyone will do, won't they?|Rita's horrid personality|Harry Potter and the Goblet of Fire}}
+'''Rita Skeeter''' (b. [[1951]])<ref name="PM" /> was a [[Great Britain|British]] [[Wizardkind|witch]] and journalist who specialised in writing poison-pen stories. These stories tended to be based on false information and misreported interviews while she worked for the ''[[Daily Prophet]]'', as well authoring a few tell-all biographies. Skeeter preferred writing for the sake of publicity and wrote what she thought people would "like to read" rather than what they "ought to read" and which was the truth.
+
+[[Albus Dumbledore]] described her writing as "''enchantingly nasty''" after she wrote an unfavourable article about him.<ref name="GOF18"/>
+
+Notable stories Rita covered include the trials of various [[Death Eaters]] after the [[First Wizarding War]], the [[Triwizard Tournament]], and (albeit reluctantly) [[Harry Potter]]'s account of [[Tom Riddle|Lord Voldemort]]'s [[Return of Lord Voldemort|return to power]] in [[1995]] for ''[[The Quibbler]]''. She also wrote biographies of: [[Armando Dippet]], [[Albus Dumbledore]], [[Severus Snape]], and Harry Potter.
+
+Rita's writing tended to be sensationalist and sometimes outright dishonest. Her [[biography]] of Harry Potter for instance, is only one-quarter factual with the remaining three-quarters being pure fabrication.<ref>[http://www.the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript 30 July, 2007 chat transcription] at The Leaky Cauldron</ref> Her ability to acquire information was assisted by her status as an unregistered beetle [[Animagus]].
+
+==Biography==
+===Early life===
+Skeeter was born into a [[half-blood]] or [[pure-blood]] family in [[1951]].<ref name="PM" />
+
+Skeeter spent time training to become an [[Animagus]] and, at some point prior to 1986, she was finally able to transform into a [[beetle]] at will. Skeeter aspired to be a journalist and an author, and used this ability to spy and eavesdrop for her articles.<ref name="PM" />
+
+===Career as a journalist/author===
+====Early years====
+[[File:Harry-potter-goblet-of-fire_rita_camera_man.jpg|250px|thumb|left|Rita standing with her camera man preparing for an interview]]
+During her early days as an author, Skeeter wrote a biography on [[Armando Dippet]], entitled ''[[Armando Dippet: Master or Moron?]]''. It was presumably an exaggerated history of him to gain controversy and by extension, popularity and fame. This book turned out to be a best-seller, with numerous copies sold. Also sometime in her early career, Skeeter provided a quote for the critical acclaim for {{QTA}} by [[Kennilworthy Whisp]], when she wrote "''I've read worse.''" as a review.
+
+====First Wizarding War====
+[[File:Rita at trail.jpg|250px|thumb|A younger Rita Skeeter as a court reporter at the trial of [[Igor Karkaroff]]]]
+
+Skeeter was a journalist at the time of the [[First Wizarding War]] when [[Tom Riddle|Lord Voldemort]] was in power. In 1981, at the fall of Voldemort and end of the War, Skeeter reported on the [[Death Eaters|Death Eater]] trials before the [[Council of Magical Law]], of people such as [[Igor Karkaroff]] and [[Ludovic Bagman]].<ref name="GOF30">{{GOF|B|30}}</ref>
+
+====Guest speaker at Hogwarts====
+[[File:SkeeterHM.png|170px|thumb|left|Rita Skeeter at Hogwarts during the [[1986–1987 school year]]]]
+Rita was a guest speaker at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1986–1987 school year]]. Prior to the reveal, the identity of the speaker generated quite a buzz throughout the school, with [[Rowan Khanna]]'s guess being an [[Auror]], the [[Minister for Magic]], or a random [[Arithmancer]], while [[Jacob's sibling]] thought to perhaps be [[Unidentified Curse-Breaker|the person]] [[Albus Dumbledore]] had been searching for throughout the school year. Professor [[Minerva McGonagall]] introduced her to the school in the [[Great Hall]], with Rita adding a bit more detail, stating herself to be "a widely popular writer for the ''[[Daily Prophet]]''." She then gave a speech about the [[wizarding world]] being curious about the happenings within Hogwarts; [[Cursed Vaults]] aside, there apparently were talks about Hogwarts having the most promising assemblage of students in years, and that, in order to find out who the brightest student was, Professor Dumbledore had given the Prophet permission to observe and conduct a friendly competition, with the winner featuring on a front page article in the Prophet to start. Rita then observed [[Potions (class)|Potions]], [[Transfiguration (class)|Transfiguration]], [[Flying (class)|Flying]], and [[Charms (class)|Charms]] classes, much to most of the instructors' annoyance.<ref name="HM3">{{HM|3|Wizarding World Famous}}</ref>
+
+====Book researcher====
+Subsequent to her guest speaker role, Rita returned to Hogwarts to interview the staff as research for a book she was writing. She was particularly interested in uncovering Hogwarts dark and dangerous secrets in the hopes her book would force the headmaster to step down. Jacob's sibling was assigned as a chaperone while she interviewed Hagrid, [[Torvus]] the [[Centaur]], [[Silvanus Kettleburn]], and inspected the [[Restricted Section]] of the [[Hogwarts Library]]. Jacob's sibling reported her questions and motivations to Albus Dumbledore, who revealed to him that Rita was an unregistered Animagus who was using her abilities to eavesdrop at the time. Dumbledore convinced her to return to human form and they all came to an agreement to not expose Rita's abilities in exchange for her not publishing her book critical of Hogwarts.<ref name="HM4">{{HM|4|Rita Returns}}</ref>
+
+====International Confederation of Wizard's Conference====
+Rita covered the [[International Confederation of Wizards' Conference]] during the summer of [[1994]], describing [[Albus Dumbledore]] as an "obsolete dingbat".<ref name="GOF18">{{GOF|B|18}}</ref>
+
+====1994 Quidditch World Cup====
+{{Quote|Ministry blunders. . . culprits not apprehended. . . lax security. . . [[Dark wizard]]s running unchecked... national disgrace. . .|Rita's savage and sensationalist reporting|Harry Potter and the Goblet of Fire}}
+Following the [[Reappearance of the Dark Mark]] after the [[1994 Quidditch World Cup]], Skeeter penned a scathing report of the [[British Ministry of Magic]]'s handling over the riots, accusing the Ministry of incompetence over their failure to catch any of the [[Death Eaters|culprits]]. These articles particularly angered [[Arthur Weasley]] for her obviously biased reporting, and he along with his son and fellow Ministry employee [[Percy Weasley]] had to head to the Ministry to help sort out the controversy, as she had mentioned Arthur in her article.<ref name="GOF10">{{GOF|B|10}}</ref>
+
+====Triwizard Tournament====
+{{Quote|I wonder if I could have a little word with Harry before we start? The youngest champion, you know. . . to add a bit of colour?|Rita Skeeter requesting she interview Harry Potter|Harry Potter and the Goblet of Fire}}
+[[File:Interview with Skeeter.png|250px|thumb|left|Rita interviewing [[Harry Potter]]]]
+That year, Rita was given the opportunity to interview the Triwizard Tournament contestants for an article in the ''Daily Prophet''. Under the guise of interviewing all four champions, she confronted Harry Potter in a broom cupboard where she took his "um"s and "er"s and invented her own quotes. Eventually, her "interview of the contestants" turned out to be a highly falsified story of Harry himself.<ref name="GOF18">{{GOF|B|18}}</ref>
+
+{{Dialogue a-b-a-b-a-b-a|Rita Skeeter|Testing.... my name is Rita Skeeter, Daily Prophet reporter. Lovely. So, Harry.... what made you decide to enter the Triwizard Tournament?|Harry Potter|Er —|Ignore the quill, Harry. Now — why did you decide to enter the tournament, Harry?|I didn't. I don’t know how my name got into the Goblet of Fire. I didn’t put it in there.|Come now, Harry, there’s no need to be scared of getting into trouble. We all know you shouldn’t really have entered at all. But don’t worry about that. Our readers love a rebel.|But I didn’t enter. I don’t know who —|How do you feel about the tasks ahead? Excited? Nervous?|Rita Skeeter interviewing Harry Potter|Harry Potter and the Goblet of Fire}}
+The article painted Harry as a tragic hero who cried himself to sleep over his [[Potter family|late parents]] and who had a romantic relationship with [[Hermione Granger]]. The article was mostly taken negatively by Harry's schoolmates, who assumed he was craving attention, although [[Molly Weasley]] seemed to take it very seriously, to the point that she was particularly cool towards Hermione for a time until Harry assured her that the article was lying and he and Hermione had never dated. At some point after the first task, Albus Dumbledore had banned Rita from entering [[Hogwarts Castle]].<ref name="GOF21">{{GOF|B|21}}</ref>
+
+{{Dialogue a-b-a|Rita Skeeter|What are these fascinating creatures called?|Rubeus Hagrid|Blast-Ended Skrewts.|Really? I’ve never heard of them before... where do they come from?|Rita Skeeter interviewing Hagrid about his strange creatures|Harry Potter and the Goblet of Fire}} 
+[[File:Rita gof.jpg|250px|thumb|Rita watching a [[Care of Magical Creatures]] lesson focused on Blast-Ended Skrewts]]
+Rita then interviewed [[Rubeus Hagrid]], asking many questions about Harry that Hagrid refused to answer.<ref name="GOF21">{{GOF|B|21}}</ref> Her subsequent article described Hagrid as a ferocious-looking man who used his authority to terrify his students, but was otherwise mostly true. The article also revealed to the world that Hagrid was actually [[half-giant]], which prompted letters from parents frightened by the idea of having a dangerous giant teaching their children and greatly upset Hagrid, subjecting him to ridicule and fear, although his mood was rallied when Harry, [[Ronald Weasley|Ron]], Hermione, and Dumbledore visited him and assured him that they didn't care about his family being the vicious monsters everyone believed them to be. [[Giant]]s really were vicious and brutal, but Hagrid obviously wasn't, so Professor Dumbledore insisted Hagrid deny any insults and return to work, as Harry and his friends didn't care about Hagrid's family due to their knowledge of him as a person.<ref name="GOF24">{{GOF|B|24}}</ref>
+
+Harry, Ron, and Hermione overheard her discussing the possibility of writing an embarrassing story about Ludo Bagman, head of Magical Games and Sports.
+
+[[File:Tumblr mrtmk4u7no1r1d9g4o7 r1 250.gif|250px|thumb|left|''HARRY POTTER'S SECRET HEARTACHE'', an article published in ''[[Witch Weekly]]'' by Rita]]
+When Rita encountered Harry, Ron, and Hermione in [[Hogsmeade]], Hermione insulted her for her libel. Rita, in retaliation, then wrote a nasty story about the "''devious Miss Granger''" based on false rumours provided by [[Pansy Parkinson]], making her out to be a plain but skilled witch who used [[Love Potion]]s to satisfy her ''"taste for famous wizards.''" Rita implied that Hermione was toying with the affections of both Harry and Krum.<ref name="GOF27">{{GOF|B|27}}</ref> Although Hermione was more disdainful than upset about the article, she unfortunately started receiving angry mail from people who believed Rita's lies. Some of the hate mail even came with [[jinx]]es and [[curse]]s; even Molly Weasley was upset with Hermione until Harry set her straight.
+
+[[File:Harry-potter-goblet-rita,_harry,_and_hermione.jpg|250px|thumb|Rita with Harry Potter and Hermione Granger in the tent during the first task]]
+Rita's last defaming article stated that Harry was "''disturbed and dangerous''," and used comments from Draco and his [[Slytherin]] cronies as its basis.<ref name="GOF31">{{GOF|B|31}}</ref> Ultimately, Hermione discovered the means by which Rita spied on others and forced her to "''keep her quill to herself for a full year''" by catching her in her beetle form while she was perched on the [[Hospital Wing]] window and trapping her in a jar imbued with an [[Unbreakable Charm]] so she couldn't transform. Hermione blackmailed Rita by threatening to report her to the authorities as an illegal [[Animagus]] to the [[British Ministry of Magic|Ministry of Magic]], which would have severe legal consequences. Rita was forced to comply, and suffered financial strain as a result.<ref name="GOF37">{{GOF|B|37}}</ref> Unfortunately her last article would discredit Harry and serve as the basis for [[Cornelius Fudge]] to refuse to believe Harry's story about Voldemort's return that would start the Ministry's [[Campaign to discredit Albus Dumbledore and Harry Potter|smear campaign]] against Harry and Dumbledore.
+
+====The Quibbler====
+{{Dialogue a-b-a|Rita|But of course, Little Miss Perfect wouldn't want that story out there, would she?|Hermione Granger|As a matter of fact, that's exactly what Little Miss Perfect does want.|You want me to report what he says about He-Who-Must-Not-Be-Named?|Discussion of Rita reporting Voldemort's return|Harry Potter and the Order of the Phoenix}}
+[[File:Marygrandpre harry interview.jpg|200px|thumb|Rita Skeeter interviewing Harry Potter in the Three Broomsticks Inn]]
+In [[1995]], Harry Potter's story that Lord Voldemort had [[Return of Lord Voldemort|returned]] was not believed by much of the wizarding world, as the ''Daily Prophet'' portrayed him as either a delusional boy or an attention-seeking liar. Hermione Granger wanted to get the truth to the public, and thus instructed Rita to meet her and [[Luna Lovegood]] in [[Hogsmeade]] on [[14 February]] [[1996]], in the [[Three Broomsticks Inn]]. As it was Rita who laid the foundation for the ''Prophet's'' defamation of Harry, with her initial stories about him, Hermione wanted her to be the one to set the record straight. They were joined by Harry after his date with [[Cho Chang]]. Harry thought that Hermione and Rita were "''the unlikeliest pair of drinking mates he could ever have imagined.''"<ref name="OP25"/>
+
+Rita was initially taken aback that Hermione wanted her to interview Harry, and then resentful, since Hermione demanded that she only write exactly what Harry said and not portray him as the rest of the press was. Rita claimed the ''Prophet'' would not buy the story, reluctantly admitting that the Ministry of Magic was influencing it. Hermione told her that the interview would be printed in ''[[the Quibbler]]'', which [[Xenophilius Lovegood|Luna's father]] edited, and although Rita responded with disdain, she "eyed Hermione shrewdly" for a few moments and then agreed. However, when she learned she was expected to conduct the interview free of charge, she was furious. Because Hermione was able to blackmail Rita with the threat of reporting her unregistered Animagus status to the Ministry, Rita grudgingly complied and wrote the article.<ref name="OP25">{{OOTP|B|25}}</ref>
+
+The interview was subsequently printed in the ''Quibbler'', and became its best-selling issue of all time. It was banned at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] by High Inquisitor [[Dolores Umbridge]], which seemed to only increase its popularity.<ref name="OP26">{{OOTP|B|26}}</ref> Editor [[Xenophilius Lovegood]] sold the article to the ''Prophet'' after the [[Battle of the Department of Mysteries]], when Voldemort's return became public, and he and his daughter Luna used the money to travel to [[Sweden]] in search of the [[Crumple-Horned Snorkack]].<ref name="OP38">{{OOTP|B|38}}</ref>
+
+===The Life and Lies of Albus Dumbledore===
+{{Quote|Harry next recognised Rita Skeeter, who, he was infuriated to see, had a notebook clutched in her red-takmed hand.|Rita makes an appearance at Dumbldore's funeral|Harry Potter and the Half-Blood Prince}}[[File:B6C30M1 funeral of Albus Dumbledore.png|250px|thumb|Rita was present at the funeral of Albus Dumbledore]]
+Rita made a brief appearance at the end of the [[1996–1997 school year]], where Harry was infuriated to notice her clutching a notebook at [[Funeral of Albus Dumbledore|Dumbledore's funeral]] in [[June]] [[1997]].<ref name="HBP30">{{HBP|B|30}}</ref> It was, perhaps, her being present at the funeral that prompted her to write a biography of Albus Dumbledore, as within four weeks Skeeter wrote a 900-page tell-all biography about him, ''[[The Life and Lies of Albus Dumbledore]]'', which also included authentic old photos of the famed Hogwarts headmaster. Rita was interviewed by [[Betty Braithwaite]], a fellow Daily Prophet reporter in her [[Rita Skeeter's home|home]], whom she treated very warmly, serving her tea and [[Pound cake]] and informing her of much gossip surrounding the book's release.<ref name="DH2">{{DH|B|2}}</ref>
+
+[[File:RitaSkeeterBookSigning.png|250px|thumb|left|Rita promoting her new book]]
+The book depicted the former headmaster in an extremely negative light but was mostly based on truth, much to Harry's horror. It was implied that she got some of her information in unethical or illegal ways, as much of the book's content was obtained through an interview Rita conducted with [[Bathilda Bagshot]], a very elderly historian, where Skeeter used [[Veritaserum]] to gain information about Dumbledore’s childhood. Skeeter stole photographs from Bagshot as well, and the subsequent novel sensationalised everything, implying that Dumbledore had dabbled in the [[Dark Arts]] and contributed to the death of his sister.<ref name="DH18">{{DH|B|18}}</ref>
+
+It turned out that Rita got at least some of her facts straight for once, but had no idea of the true story, such as claiming that [[Ariana Dumbledore]] was a [[Squib]],<ref name="DH18"/> when in reality she suffered from uncontrollable bursts of magic due to a highly traumatic experience when she was around six.
+
+===Later life===
+{{Quote|Naturally, what could stop Rita ''[from still reporting]''? I imagine she immediately dashed off a biography of Harry after he defeated Voldemort. One quarter truth to three quarters rubbish.|[[J. K. Rowling]] regarding Rita's later life}}[[File:Rita quill.jpg|155px|thumb|Rita standing with her infamous acid green quill]]
+
+Following Voldemort's death, Skeeter wrote a biography of [[Harry Potter]] that was only about one-quarter true,<ref>[http://www.bloomsbury.com/harrypotter/content.asp?sec=3&sec2=1 30 July, 2007 chat transcription] at Bloomsbury site</ref> as well as one about [[Severus Snape]] titled ''[[Snape: Scoundrel or Saint?]]''. The latter added to her series of hatchet jobs on former headmasters of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], along with ''[[The Life and Lies of Albus Dumbledore]]'' and ''[[Armando Dippet: Master or Moron?]]''
+
+In [[April]], [[2014]], just before the opening matches of the [[2014 Quidditch World Cup|427th Quidditch World Cup]], Brazilian manager [[José Barboza]] called the Welsh Chasers "''talentless hags''" over drinks with Rita Skeeter. These remarks became public, and Welsh manager [[Gwenog Jones]] promptly threatened to "''curse'' [his] ''face off''".<ref name="bra-v-wal">{{PM}} - [[BRAZIL VERSUS WALES]] (Archived)</ref><ref name="PM-QWC">{{PM}} - [[Quidditch World Cup 1990 - 2014]] (Archived)</ref> This created a large tension between Jones and Barboza, culminating in a brawl between the two following the [[Brazilian National Quidditch team|Brazil]] vs. [[Welsh National Quidditch team|Wales]] match of the quarter-finals, on 4 June: Gwenog Jones attempted to keep her promise to curse off Barboza's face in full view of the packed stadium — the Welsh manager was dragged from the pitch by her own [[Beater]]s, and was later put in custody; and the ''[[Daily Prophet]]'' later reported that [[Healer]]s confirmed Barboza's skin had almost regrown.<ref name="bra-v-wal" />
+
+Rita Skeeter wrote a gossip column in ''The Daily Prophet'' about the Quidditch World Cup on [[8 July]], [[2014]], in which she mentioned that she was about to publish a new book about [[Dumbledore's Army]] on [[31 July]] called ''[[Dumbledore's Army: The Dark Side of the Demob]]''.
+
+Rita Skeeter reported live from the final of the 2014 Quidditch World Cup in the [[Patagonian Desert]], on 11 July 2014. Instead of focusing on the players, she spent the match spying on VIP Box Two in which the most prominent members of Dumbledore's Army were watching the game. [[Ginevra Weasley|Ginny Potter]], with Rita at the journalists' enclosure, repeatedly made corrections to her reports, until, shortly after the match ended, Rita remarked that her husband Harry Potter was "''publicity-hungry''" — just as Ginny was approaching, Rita was taken "unaccountably ill" with what some called "''a jinx to the solar plexus''".<ref name="the-qwc2014-final">{{PM}} - [[2014 Quidditch World Cup final]] (Archived)</ref>
+
+In 2017, Rita published a new book: [[Man or Monster? The TRUTH about Newt Scamander]]; like the rest of her books, most of it was rubbish with one claim being that Newt Scamander broke [[Seraphina Picquery]]'s heart in 1926, something which he revealed was untrue in his own book.
+
+==Physical appearance==
+{{Quote|Attractive blonde Rita Skeeter, forty-three, whose savage quill has punctured many inflated reputations…|[[Quick-Quotes Quill]] transcription|Harry Potter and the Goblet of Fire}}[[File:Rita skeeter 1.png|273x273px|thumb|Rita Skeeter]]
+Skeeter was described as having blonde hair set in elaborate curls that contrasted oddly with her heavy-jawed face. She wore jewelled spectacles studded with rhinestones, and had thick fingers ending in two-inch nails, painted crimson. Her blonde curls were curiously rigid, suggesting it was styled with the magical equivalent of hairspray. In addition, she had pencilled-on eyebrows and three gold teeth, as well as large, masculine hands. Her bright scarlet painted fingernails and toenails were usually likened to claws or talons.
+
+She was known to carry with her a crocodile-skin handbag, inside of which she carried her acid green Quick-Quotes Quill. She usually wore magenta-coloured robes but also wore clothes of green leather with maroon furs at the collar and sleeves.<ref name="GOF18" />
+
+Apparently, unemployment did not serve Rita well, as when she showed up during the [[1996|year]] she was blackmailed by Hermione not to write, Rita's nails were chipped, she was missing fake stones in her glasses, and her hair was lank and unkempt.<ref name="OP25"/> As in her unregistered [[Animagus]] beetle form, her antennas were curled to resemble her curls in her hair and she had marking around her antennas resembling her jewelled glasses.<ref name="GOF37"/>
+
+==Personality and traits==
+{{Quote|Rita Skeeter goes out of her way to cause trouble, Amos! I would have thought you'd know that, working at the Ministry!|[[Molly Weasley]] remarking on Rita's tendency to exaggerate|Harry Potter and the Goblet of Fire}}
+[[File:Harry-potter-goblet-of-fire_rita1.jpg|250px|thumb|right|Rita getting the latest scoop]]
+Rita was an unregistered [[Animagus]], wherein she took the form of a beetle and was able to slip around undetected and spy on unsuspecting company so she could obtain gossip for her articles which she later exaggerated and exploited to gain the attention of the masses. Her ability to turn into a beetle also reflected how irritating and bothersome she was to other people, particularly [[Harry Potter]] and [[Albus Dumbledore]], and it also displayed her dishonest and cunning characteristics. Rita also wrote primarily for the ''[[Daily Prophet]]'', though some of her articles have also appeared in other sources, such as ''[[Witch Weekly]]'' and ''[[The Quibbler]]''. Skeeter worked closely alongside [[Bozo]], her photographer.<ref name="GOF18">{{GOF|B|18}}</ref>
+
+{{Quote|You don't want to go upsetting Rita Skeeter. I'm serious, [[Hermione Granger|Hermione]], she'll dig up something on you —|Rita and her tendency for revenge|Harry Potter and the Goblet of Fire}}
+Rita was extremely nosy and willing to do anything for a good story — from spying on people in her [[Animagus]] form of a beetle to sensationalising or outright inventing stories. She also took advantage of elderly [[Bathilda Bagshot]]'s possibly fragile state of mind (even giving her [[Veritaserum]])<ref name="DH18"/> in order to dig up dirt on the late [[Albus Dumbledore]] for her extremely critical [[The Life and Lies of Albus Dumbledore|biography]]. She did this despite the use of such a powerful truth serum being heavily controlled by the Ministry. Rita tended to portray the people she wrote about poorly, presumably because it sold more stories.
+
+However, she could also be very vindictive and spiteful towards those she disliked. For example, after Hermione Granger insulted her, Rita printed a completely false story about Hermione using [[Love Potion|love potions]] and toying with the hearts of both [[Harry Potter]] and [[Viktor Krum]]. This resulted in Hermione receiving [[Witch Weekly readers' hate mail to Hermione Granger|hate mail]], but she eventually got her revenge and blackmailed Rita into refraining from writing for a year. After this time period was up, Rita returned to her writing with as much gusto and as little scruples as before.
+
+Despite her inaccuracies and biased articles, Rita seemed to be a fast writer and researcher, as she managed to finish a nine-hundred-page book in four weeks.
+
+Rita seemed to have a somewhat low opinion of the intelligence of her average reader, based on her style of reporting. In a previous article she once referred to Hermione Granger as being "''stunningly pretty''," only to then describe her in an [[HARRY POTTER'S SECRET HEARTACHE|article]] published just a few months later as "''a plain, but ambitious girl''." She also stated regarding the ''Daily Prophet'' that it "''exists to sell itself''."
+
+While she had a huge disregard for her interviewee's reputations and journalistic integrity, Rita deeply feared her own status as an unregistered animagus being revealed to the world. She gave up a year's worth of article writing when blackmailed by Hermione Granger (her main means of making a living) as she knew the alternate consequences would be a sentence in Azkaban. However, while Hermione thought this one year of abstinence would curb Skeeter's ill-habit of writing hurtful articles, she was wrong, as once the deal has reached its end, she swiftly and shamelessly returned to her old ways of writing sensationalist and dishonest journalism.
+
+==Magical abilities and skills==
+{{Quote|Oh not electronic bugs. No, you see... Rita Skeeter — is an unregistered Animagus. She can turn — into a beetle.|[[Hermione Granger]] exposing Rita's abilities as an Animagus|Harry Potter and the Goblet of Fire}}
+[[File:GF 37.jpg|200px|thumb|right|Rita's Animagus form]]
+*'''[[Animagus]]''': Rita had mastered an incredibly complex branch of [[Transfiguration]], becoming an unregistered beetle [[Animagus]]. She did this to get information and gossip without being detected.<ref name="GOF37"/> However, Dumbledore has caught her when she, in her Animagus form, was eavesdropping on Dumbledore and Jacob's sibling's conversation.<ref name="HM4"/>
+*'''[[Potion]]s''': Being an unregistered Animagus, she would have needed to have successfully brewed an [[Animagus potion]], in order to gain the ability to transform, a highly advanced and complex potion which requires a high level of skill to concoct correctly. Rita was also likely capable of brewing [[Veritaserum]].
+*'''[[Charm]]s''': Rita had the ability to conjure at least a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOY1"/><ref name="LEGOY2"/> a highly advanced and powerful protective charm and a mark of superior magical skill. She could also effortlessly cast simple charms, such as the [[Fire-Making Spell]] and [[Levitation Charm]], which she also could cast non-verbally.<ref name="GOF18"/>
+{{Quote|She unsnapped her crocodile-skin handbag and pulled out a handful of candles, which she lit with a wave of her wand and magicked into midair, so that they could see what they were doing.|Rita using non-verbal magic|Harry Potter and the Goblet of Fire}}
+*'''[[Nonverbal spell|Nonverbal magic]]''': Skeeter [[Fire-Making Spell|lit]] several [[candle]]s from her handbag and [[Levitation Charm|levitated]] them into the air, with her wand without saying the incantation.<ref name="GOF18"/> This implies she was a powerful witch, given the difficulty of casting nonverbal [[spell]]s. Dumbledore had acknowledged her skills in Nonverbal magic as 'ironic' given her irritatingly talkative personality.<ref name="HM4"/>
+*'''Journalistic skills''': As one of the main editors for the [[Daily Prophet]], she was a very talented journalist and had years of experience in the field, having taken part in assessing the Death Eater trials after the first Wizarding War ended.<ref name="GOF30"/> Her primary work, ''the Life and Lies of Albus Dumbledore'', was mostly based on true information, much to the disdain of many such as Harry Potter,<ref name="DH18"/> showing her to be a skilled researcher and writer as well.
+
+==Possessions==
+{{Quote|You won’t mind, Harry, if I use a Quick-Quotes Quill? It leaves me free to talk to you normally. . . .|Rita's preference for her Quick-Quotes Quill|Harry Potter and the Goblet of Fire}}
+[[File:Rita Skeeter's Quill.png|thumb|Rita's magical quill]]
+*'''[[Wand]]''': Rita owned a wand of an unknown length, [[wand wood]] and [[Wand core|core]] material.<ref name="GOF18"/>
+*'''[[Quick-Quotes Quill]]''': Rita owned a Quick Quotes Quill, for which she used for writing her sensationalist and fabricated newspaper articles.<ref name="GOF18"/>
+*'''[[Rita Skeeter's home|House]]''': Rita owned a house in which she resided in her as her home, which was described as being cosy.<ref name="DH2"/>
+
+==Published works==
+<gallery widths="110" orientation="portrait">
+The Life and Lies of Albus Dumbledore - Mina Lima cover.jpg|''[[The Life and Lies of Albus Dumbledore]]'' ([[1997]])
+Dumbledores-army-the-dark-side-of-the-demob-lrg.png|''[[Dumbledore's Army: The Dark Side of the Demob]]'' ([[31 July]], [[2014]])
+</gallery>
+*''[[Armando Dippet: Master or Moron?]]''
+*[[Rita Skeeter's biography of Harry Potter|Biography of Harry Potter with unknown title]] ([[1998]])
+*''[[Snape: Scoundrel or Saint?]]''
+*''[[Man or Monster? The TRUTH about Newt Scamander]]''
+
+===Articles===
+*A piece about the International Confederation of Wizards' Conference, describing [[Albus Dumbledore]] as an "''obsolete dingbat''".<ref name="GOF18"/>
+*A piece about [[Gringotts Wizarding Bank|Gringotts]] [[Curse-Breaker]] in which she referred to [[William Weasley|Bill Weasley]] as a "''long-haired pillock.''"<ref name="GOF10"/>
+*[[SCENES OF TERROR AT THE QUIDDITCH WORLD CUP|One]] about the [[Quidditch World Cup]] aftermath.<ref name="GOF10"/>
+*[[FURTHER MISTAKES AT THE MINISTRY OF MAGIC|One]] about the mistakes made by the [[British Ministry of Magic|Ministry of Magic]] concerning the disappearance of [[Bertha Jorkins]] as well as the attack on [[Alastor Moody]].<ref name="GOF13">{{GOF|B|13}}</ref>
+*One about [[Harry Potter]] being a [[Triwizard Tournament|Triwizard Champion]] who supposedly cried himself to sleep over his late parents.<ref name="GOF19">{{GOF|B|19}}</ref>
+*[[DUMBLEDORE'S GIANT MISTAKE|One]] about [[Rubeus Hagrid]], portraying him as a ferocious [[half-giant]].<ref name="GOF24"/>
+*[[HARRY POTTER'S SECRET HEARTACHE|One]] about [[Hermione Granger]] allegedly dating both Harry Potter and [[Viktor Krum]].<ref name="GOF27"/>
+*[[HARRY POTTER "DISTURBED AND DANGEROUS"|One]] about [[Harry Potter]] supposedly being dangerous (before the Third Task).<ref name="GOF31"/>
+*An interview with Harry Potter in which he described [[Tom Riddle|Lord Voldemort]]'s return. This was likely Skeeter's most accurate article, since [[Hermione Granger]] arranged it and would have informed the Ministry of Skeeter's status as an unregistered [[Animagus]] had she lied.<ref name="OP25"/>
+*[[DUMBLEDORE'S ARMY REUNITES AT QUIDDITCH WORLD CUP FINAL|One]] about the reunion of some [[Dumbledore's Army]] members at the [[2014 Quidditch World Cup]], telling what they become along with false insinuations about them.
+
+==Relationships==
+===Harry Potter===
+{{Dialogue|Rita Skeeter|Congratulations, Harry! I wonder if you could give me a quick word? How you felt facing that dragon? How do you feel now about the fairness of the scoring?|Harry Potter|Yeah you can have a word, Goodbye.|Rita trying to get an interview with [[Harry Potter]] after defeating a dragon in the First Task|Harry Potter and the Goblet of Fire}}[[File:Harry_Potter_movies_hbp_promostills_6.jpg|165px|thumb|[[Harry Potter]], whom she publicly shamed]]
+
+Rita Skeeter first met Harry Potter in 1994 when [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] was housing the [[Triwizard Tournament]], which Harry's name shot surprising from the [[Goblet of Fire]]. She immediately tried to get an interview with Harry Potter, but did not get the chance until the the [[Wand weighing ceremony|Weighing of the Wands]], which she did inside a small broom cupboard. After the interview she dedicated a whole page of the ''[[Daily Prophet]]'' for his interview, which greatly annoyed [[Amos Diggory]], the father of [[Cedric Diggory|Cedric]], another Hogwarts champion.
+
+Shortly before the [[Dragon Challenge|First Task]] she tried to get another interview but was interrupted by [[Viktor Krum]] and [[Hermione Granger]] and was told to leave, Skeeter ended up getting her revenge on Hermione several times after this in ''[[Witch Weekly]]'' and the ''Daily Prophet''. After Harry defeated the [[Hungarian Horntail]] and retrieved his egg, Rita tried to get another interview to which Harry refused. Harry did not see Rita Skeeter again until the next year where he gave her an interview for ''[[The Quibbler]]'' announcing the return of [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]], which she did bitterly.
+
+===Hermione Granger===
+{{Dialogue a-b|Rita Skeeter|I'm supposed to do this ''for free''?|Hermione Granger|Well yes. Other as you very well know, I will inform the authorities that you are an unregistered Animagus. Of course, the ''Prophet'' might give you rather a lot for an insider's account of life in [[Azkaban]]|Hermione forcing Rita to do an interview of Harry Potter about the return of [[Tom Riddle|Lord Voldemort]]|Harry Potter and the Order of the Phoenix}}[[File:Hermione Granger Half Blood Prince.jpg|165px|thumb|left|[[Hermione Granger]], whom she disliked and publicly shamed]]
+
+Rita Skeeter clashed with Hermione several times during both The Triwizard Tournament, and during the denial of Lord Voldemort's return. She publicly shamed Hermione for her relationship with Viktor Krum and her supposed relationship with Harry Potter. When Hermione confronted and insulted Rita for having written horrible untruths about her friends, Rita vindictively responded by writing an article that painted Hermione as a "scarlet woman" who used her intellect and charm to toy with the affections of famous wizards. This caused Hermione to receive a large amount of hate mail, at least two of which were intended to cause significant harm to her, and be treated coldly by Molly Weasley who otherwise was very nice to her.
+
+In return, Hermione furiously vowed to get revenge on Rita if it was the last thing she ever did. After researching for half a year about how Rita could possibly be getting her information despite being nowhere near, and an unintentionally helpful hint from Harry, Hermione deduced that she was an unregistered Anigmagus and blackmailed her into keeping quiet for a whole year under threat of being exposed, which would otherwise land her in severe trouble.<ref name="GOF37"/> Hermione used this as leverage to get Rita to do an interview with Harry for ''The Quibbler'' without any charge. She called Hermione "Miss Prissy" and "Little Miss Perfect" due to her dislike of her.<ref name="OP25"/>
+
+After the death of [[Albus Dumbledore]], Rita made her own biography about him called ''[[the Life and Lies of Albus Dumbledore]]'', which infuriated Hermione further.<ref name="DH18"/>
+
+===Bathilda Bagshot===
+{{Quote|Dear Batty, Thanks for your help. Here's a copy of the book; hope you like it. You said everything, even if you don't remember it. Rita.|Rita Skeeter's note to Bathilda|Harry Potter and the Deathly Hallows}}[[File:Bathilda Bagshot profile.jpg|thumb|[[Bathilda Bagshot]]]]
+In [[1997]] Rita Skeeter travelled to [[Godric's Hollow]] to meet Bagshot and used [[Veritaserum]] to get vital information for her book on Albus Dumbledore, after her little interview she left a small note and her own copy of ''the Life and Lies of Albus Dumbledore''. Which was later taken by Hermione Granger and Harry Potter,<ref name="DH18"/> and it is unknown to whether Harry or Hermione kept the book, and it is unlikely that they did.
+
+==Etymology==
+*''[[Wikipedia:Rita|Rita]]'' is a short form of the name ''Margarita'',<ref>[http://www.behindthename.com/name/rita Behind the Name: Rita]</ref> a Latinate form of the name ''Margaret''. The name is derived from the Greek μαργαρίτης, ''margarites'', meaning "pearl."<ref>[http://www.behindthename.com/name/margaret Behind the Name: Margaret]</ref>
+*''Skeeter'' is a slang term for a "mosquito." This could be a reference to her [[Animagus]] form, which is an insect, her irritating personality, or to her career in tabloid journalism. The word ''paparazzi'' is derived from an Italian word for "mosquito."<ref>{{Wikilink|Paparazzi}}</ref> "Skeet" is also an Anglo-Manx colloquialism for gossip or an act of nosiness.<ref>{{Wikilink|Manx_English#Manx_loanwords|Manx loanwords}}</ref> Skeeter could also be a pun off of how annoying Skeeter's lies tend to be, as people tend to find mosquitoes annoying and attempt to swat them away.
+*The character is similar to the "poison pen" biographer {{wplink|Kitty Kelley}}. Both have a semi-rhyming name with an animal reference, and each is known for writing scandalous unauthorised biographies that largely consist of publishing every available, unsubstantiated rumour about an individual. There is an interesting similarity in phrases used to describe the two authors. Skeeter was called "enchantingly nasty" by [[Albus Dumbledore]] in ''[[Harry Potter and the Goblet of Fire|Goblet of Fire]]'', and Kelley was called "encyclopedically vicious", by the [http://news.bbc.co.uk/2/hi/entertainment/6179623.stm ''New York Times''] while reviewing her biography of [http://news.bbc.co.uk/2/hi/entertainment/6179623.stm Nancy Reagan].
+
+==Behind the scenes==
+[[File:RitaSkeeter WB F4 RitaSkeeterCharacterIllustration V4 Illust 080615 Port.jpg|180px|thumb|Rita as she appears on {{PM}}]]
+[[File:RitaSkeeter WB F4 RitaSkeeterCharacterIllustration V1 Illust 080615 Port.jpg|180px|thumb|Rita as she appears on {{PM}}]]
+[[File:RitaSkeeter WB F4 RitaSkeeterCharacterIllustration V2 Illust 080615 Port.jpg|180px|thumb|Rita as she appears on {{PM}}]]
+*According to Skeeter herself, the [[British Ministry of Magic]] have told her exactly 514 times that it does not comment on the top-secret work of the [[Auror Office]].<ref name="DA_QWC" /> Whether this is just under [[Kingsley Shacklebolt]] or throughout Skeeter's entire career is unknown.
+*Rita may have been a classmate of [[Bellatrix Lestrange]], as both witches were born in [[1951]]. But even if they both went to Hogwarts, it cannot be guaranteed they were in the same year because of their unspecified birth months. It was also never confirmed if Rita attended Hogwarts.
+*As of the end of the [[Second Wizarding War]], Rita is the only known living unregistered [[Animagus]].
+*During an interview on BBC Radio 4, Rowling admitted that Rita was originally called Bridget and appeared in the first draft of {{PS}}, trying to interview [[Harry Potter]] in the [[Leaky Cauldron]] on [[Harry Potter's eleventh birthday|his 11th birthday]]. She later cut the character from the final draft, wanting Rita to appear in Harry's fourth year, just when his fame starts to oppress him.<ref name="desertisland">[http://www.bbc.co.uk/radio4/features/desert-island-discs/castaway/e0ee3d65#p00949j1 Desert Island Discs Podcast]</ref><ref name="Accio Quote">[http://www.accio-quote.org/articles/2004/0804-ebf.htm "J.K.Rowling at the Edinburgh Book Festival (15/08/2004)"] at [http://www.accio-quote.org/index.html Accio Quote]</ref>
+*In the German audio books, Rita speaks with an American accent.
+*Rita's tendency to write sensationalised and untrue stories about high profile members of the wizarding community is similar to (and may be a direct parody of) tabloid magazines stirring up stories about celebrities, politicians, and the economic elite. This can be seen in her shock-jock style of writing and purposeful misrepresentation of people's character in order to garner readership that prove to be consistently untrue and slanderous, with her interview with Harry about Voldemort's return being the only verified and totally accurate publication of hers to date.
+*Rita is voiced by [[Annette Badland]] in the audiobook version of {{QTA|R}}.<ref name="QTAaudio">[https://www.pottermore.com/news/andrew-lincoln-to-narrate-new-digital-audio-book-of-jk-rowling-quidditch-through-the-ages News: "Andrew Lincoln will narrate new digital audiobook of Quidditch Through the Ages"] at {{PM}}</ref>
+*In {{HM}}, Rita appears as the side quest Daily Prophet cover competition, where she set competition in Potions, Transfiguration, Charms and duelling. As [[Jacob's sibling]]'s house has been trailing in the House competition for some time, despite carrying the house all year, it is a good chance to praise the professors after the lesson to gain points in Charms and Transfiguration. In the duelling portion, you can choose to duel against Merula again, or against [[Penny Haywood]] (the second-weakest Charms student after Rowan when they were in Year 3) or [[William Weasley|Bill Weasley]], the strongest duellist of the three.
+
+===In films===
+*Rita Skeeter was portrayed by [[England|English]] actress [[Miranda Richardson]] in {{GOF|FA}} and {{DH|F1}}, who portrayed Mrs Melisha Tweedy in ''Chicken Run'', Queen Elizabeth I in'' Blackadder'', Mrs Rose Arbutnot in ''Enchanted April'', Lady Mary Van Tassel in ''Sleepy Hollow'' (who is also a witch, albeit an evil one), and Madame Giry in ''The Phantom Of The Opera''.<ref>http://www.snitchseeker.com/harry-potter-news/miranda-richardson-reprise-rita-skeeter-role-deathly-hallows-70121/</ref>
+*In {{GOF|FA}}, Rita uses a spiral-bound [[Non-magic people|Muggle]] legal pad to conduct Harry's "interview." She is also seen using a Muggle ink pen during [[Igor Karkaroff]]'s trial. It is established in the literary [[canon]] that the wizarding world uses loose parchment and quills for writing.
+*Skeeter was not revealed to be an animagus in {{GOF|FA}}, and thus it did not include Hermione's later blackmailing of her.
+*In {{GOF|FA}}, when Harry points out that they're in a broom cupboard, Rita points out that he should "feel right at home", referring to the fact that Harry in his earlier life lived in the cupboard under the stairs at the [[Dursley family|Dursley]] house, hinting she knew about his childhood. Alternatively, she could have been alerting to the fact that it contained brooms, referring to his love of flying and quidditch; or otherwise hinting that Harry, like a number of students before him, is used to spending time kissing in broom cupboards, despite the fact that he didn't have his first kiss until his fifth year in the [[Room of Requirement]].
+*Although Rita has three gold teeth in the books, she does not in {{GOF|FA}}. Miranda Richardson and director [[Mike Newell]] both felt that they were not right for Rita, with Miranda pointing out that gold teeth would make Rita appear 'unapproachable'. Instead, she chose to have a diamond in one of her teeth, saying that it was "the perfect embellishment for... an amalgam of sparkling brilliance and total hardness".
+*Rita does not appear in {{OOTP|FA}}.
+*In {{HPLE}} it is described that in the films, it was conceived by [[Jany Temime]] that Rita would always dress for the story that she was reporting on.
+
+==Gallery==
+<gallery>
+Rita_Skeeter_LEGO.png|Rita Skeeter as she appears in {{LEGO|Y1}}
+Rita Skeeter LEGOY2.png|Rita Skeeter as she appears in {{LEGO|Y2}}
+RitaSkeeterPOP.png|Rita Skeeter as a [[POP! Vinyl]]
+PAS_Rita_Skeeter.png|Rita Skeeter as seen in {{PAS}}
+Rita Skeeter Turnaround.jpg|Concept art of Rita Skeeter from {{HM}}
+</gallery>
+
+==Appearances==
+{{Imagecat|Images of Rita Skeeter}}
+[[File:]]
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{GOF|G}} {{Comment|Appears on the collectable card}}
+*{{OOTP}}
+*{{HBP}}
+*{{DH}} {{Mention}}
+*{{DH|F1}} {{Comment|Appears in photograph}}
+*{{DH|G1}} {{Mention}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{FB|2017}} {{c|Mentioned in forward}}
+*{{QTA|R}} {{Mention}} {{c|appears in audiobook version<ref name="QTAaudio"/>}}
+*{{HM}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+{{Daily Prophet}}
+{{Order of the Phoenix}}
+{{Animagi}}
+
+{{DEFAULTSORT:Skeeter, Rita}}
+
+[[pt:Rita Skeeter]]
+[[es:Rita Skeeter]]
+[[fr:Rita Skeeter]]
+[[de:Rita Kimmkorn]]
+[[it:Rita Skeeter]]
+[[pl:Rita Skeeter]]
+[[ru:Рита Скитер]]
+[[nl:Rita Pulpers]]
+[[no: Rita Slita]]
+[[cs:Rita Holoubková]]
+[[Category:1951 births]]
+[[Category:2014 Quidditch World Cup attendees]]
+[[Category:Biographers]]
+[[Category:British individuals]]
+[[Category:Bullies]]
+[[Category:Conspiracy theorists]]
+[[Category:Daily Prophet staff]]
+[[Category:Females]]
+[[Category:Journalists]]
+[[Category:Order of the Phoenix allies]]
+[[Category:Unmarried individuals]]
+[[Category:Unregistered Animagi]]
+[[Category:Wizards]]

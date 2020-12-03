@@ -1,0 +1,56 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Magical Menagerie saleswoman.png|250px]]
+|name = Magical Menagerie saleswoman
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Grey (formerly black)
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Saleswoman at [[Magical Menagerie]]
+|house = 
+|loyalty = [[Magical Menagerie]]
+}}
+{{dialogue a-b-a-b-a-b-a-b-a-b-a-b|Ron Weasley|It’s my rat. He’s been a bit off-colour ever since I brought him back from [[Egypt]].|Saleswoman|Bang him on the counter. Hm. How old is this rat?|Dunno. Quite old. He used to belong to my [[Percy Weasley|brother]].|What powers does he have?|Er –|He’s been through the mill, this one.|He was like that when Percy gave him to me.|An ordinary, common or garden [[rat]] like this can’t be expected to live longer than three years or so. Now, if you were looking for something a bit more hard-wearing, you might like one of these ...|Show-offs.|Well, if you don’t want a replacement, you can try this [[Rat Tonic]].|OK. How much – OUCH!|NO, [[Crookshanks]], NO!|[[Ronald Weasley|Ron Weasley]] seeking treatment for [[Peter Pettigrew|Scabbers]] at the [[Magical Menagerie]]|Harry Potter and the Prisoner of Azkaban}}This '''saleswoman''' was a [[Great Britain|British]] [[Wizardkind|witch]] and the proprietor of [[Magical Menagerie]], which is one of two major pet shops in [[Diagon Alley]]. 
+
+==Biography==
+
+In [[1991]], she was willing to give [[Harry Potter]] some [[Giant Purple Toad wart|warts]] from a [[Giant Purple Toad]] if he could catch it.<ref>{{PS|G}}</ref> In [[1992]], she was absent, possibly on vacation, and a [[Magical Menagerie salesman|man]] had to do her job.<ref>{{COS|G}}</ref> She advised a [[Double-ended-newt wizard|customer]] on how to take care of a [[Double-ended Newt|double-ended newt]], sold [[Ronald Weasley|Ron Weasley]] a bottle of [[rat tonic]] for [[Peter Pettigrew|Scabbers]] during the summer of [[1993]], and sold [[Crookshanks]] to [[Hermione Granger]] at that time as well.<ref name="PA4">{{POA|B|4}}</ref>
+
+==Behind the scenes==
+*The Magical Menagerie saleswoman is omitted from {{POA|FA}}, since Hermione already has Crookshanks with her by the time Harry was reunited with her and Ron.
+
+==Appearances==
+*{{POA}}{{1st}}
+*{{PS|G}} 
+*{{LEGO|Y1}} {{Comment|DS and IPhone version}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Diagon Alley}}
+
+[[es:Vendedora de la Casa de Fieras Mágicas]]
+[[fr:Vendeuse de la Ménagerie magique]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Shop owners]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

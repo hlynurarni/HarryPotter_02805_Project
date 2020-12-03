@@ -1,0 +1,46 @@
+{{Location infobox
+|image = The Triwizard Maze PM.jpg
+|name = Triwizard Maze
+|location = [[Hogwarts Castle|Hogwarts]] [[Quidditch pitch]]<ref name="GOF31"/>
+|affiliation = [[Triwizard Tournament]]<ref name="GOF31"/>
+}}
+{{Dialogue|Harry|They're hedges!|Bagman|Growing nicely, aren't they? Give them a month and Hagrid'll have them twenty feet high.|Harry and [[Ludovic Bagman|Ludo Bagman]] regarding the hedges|Harry Potter and the Goblet of Fire}}
+On [[24 June]], [[1995]], the '''Triwizard Maze''' was grown on the [[Hogwarts Castle|Hogwarts]] [[Quidditch pitch]] for the [[Triwizard Tournament#The Third Task|Third Task]] of the [[Triwizard Tournament]] for the four champions to navigate.<ref name="GOF31"/>
+
+The maze was populated by various obstacles and dangers that each Champion had to overcome. [[Bartemius Crouch Junior|Bartemius Crouch Jr]], as Professor [[Alastor Moody|Moody]], was entrusted with placing the [[Triwizard Cup]] at the centre of the maze. While doing this, he enchanted the Cup to become a [[Portkey]] that would be activated by touching the object.<ref name="GOF31"/>
+
+==History==
+
+===Obstacles===
+[[File:Triwizard Maze GIF.gif|frame|left|Harry Potter and Cedric Diggory in the maze]]Harry and Cedric, tying for first place after two tasks, were to enter the maze first, followed by [[Viktor Krum|Viktor]], and then [[Fleur Delacour|Fleur]]. The first Champion to successfully navigate the maze and reach the Cup would be declared the winner. During the task, Cedric encountered a [[Blast-Ended Skrewt]], which he barely escaped from. Harry had to deal with a [[Boggart]] in the form of a [[Dementor]], and overcame an odd [[Limbo Mist|golden mist]] which turned things upside-down. Crouch Jr, however, was leaving nothing to chance. Using Moody's magical eye, he watched events unfold in the maze, keeping the more dangerous obstacles out of Harry's path. He also [[Stunning Spell|Stunned]] Fleur, and placed the [[Imperius Curse]] on Viktor. He used Viktor to attack Cedric with the [[Cruciatus Curse]] in order to clear Harry's path to the Cup.<ref name="GOF31"/>
+
+===The Blast-Ended Skrewt and the Sphinx===
+Harry encountered the [[Blast-Ended Skrewt]] that had attacked Cedric, then heard Cedric being tortured, and rescued him by Stunning Viktor. Cedric and Harry parted company, and Harry had to answer a riddle from a [[Sphinx]] to continue on into the maze.<ref name="GOF31"/>
+
+===Conclusion of the Third Task===
+Cedric and Harry joined forces to defeat an [[Acromantula]], before they both arrived at the Cup together. After an argument over who deserved to win more, they decided to take the Cup together, since it would still be a Hogwarts victory. Touching the Cup at the same moment, they activated it as a Portkey, and were transported out of the maze.<ref name="GOF31">{{GOF|B|31}}</ref> This led them to [[Little Hangleton]] where Harry witnessed the [[Return of Lord Voldemort|Return of the Dark Lord]] and participated in the [[Duel in Little Hangleton]]. Cedric was killed by [[Peter Pettigrew]],<ref name="GOF32">{{GOF|B|32}}</ref> but Harry was able to escape by touching the cup again, and taking Cedric's body back. He appeared again at the start of the maze.<ref name="GOF35">{{GOF|B|35}}</ref>
+
+==Behind the scenes==
+*In {{GOF|FA}}, the maze lacks all of the obstacles in the book. Instead, the hedge maze ''itself'' is the obstacle, as it seems to be alive: it contracts and moves at random patterns, as well as reacting to and attacking the champions, especially if they stand still for too long. Also, the maze seems to occupy all the valley next to the Castle, instead of just the Quidditch Pitch.
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{GOF|G}}
+*{{OOTP|F}} {{Flashback}}
+*{{CC}}
+*{{CC|P}}
+*{{PM}}
+*{{LEGO|Y1}}
+*{{HPK}}
+*{{HPV|CH}}
+
+==Notes and references==
+{{Reflist}}
+{{Triwizard}}
+
+[[de:Magisches Labyrinth]]
+[[pt-br:Labirinto Tribruxo]]
+[[pl:Zaczarowany żywopłot]]
+[[Category:Hogwarts locations]]
+[[Category:Triwizard Tournament]]

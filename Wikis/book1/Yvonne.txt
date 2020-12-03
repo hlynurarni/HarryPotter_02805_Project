@@ -1,0 +1,35 @@
+{{Youmay|[[Petunia Dursley]]'s friend|[[Yvonne Bampton]]}}
+{{Individual infobox
+|theme=muggle
+|name=Yvonne
+|image=
+|blood=[[Non-magic people|Muggle]]
+|gender=Female
+|species=[[Human]]
+|hideb=
+|born=
+|died=
+|hidef=1
+|family=
+|title=
+|alias=
+|hidea=1
+|loyalty=
+}}
+'''Yvonne''' was a friend of [[Petunia Dursley]]. In [[1991]], she was considered as a replacement babysitter for [[Harry Potter]] when [[Arabella Figg]] broke her leg. Unfortunately for the [[Dursley family|Dursleys]], she was on holiday in [[Majorca]] at the time and they were forced to take Harry to the [[Zoo]] on [[Dudley Dursley's eleventh birthday]].<ref>{{PS|B|2}}</ref>
+
+==Appearances==
+*{{PS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Yvonne]]
+[[es:Yvonne]]
+[[fr:Yvonne]]
+[[nl:Yvonne]]
+[[pl:Yvonne]]
+[[ru:Ивонн]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Muggles]]

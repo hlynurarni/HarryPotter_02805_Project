@@ -1,0 +1,35 @@
+{{Individual infobox
+|name = Agatha Timms
+|species = [[Human]]<ref name="GOF7"/>
+|gender = Female<ref name="GOF7"/>
+|job = Eel farmer<ref name="GOF7"/>
+|theme = wizard
+}}
+{{Quote|...little Agatha Timms has put up half shares in her eel farm on a week-long match.|[[Ludovic Bagman|Ludo Bagman]] telling [[Arthur Weasley]] of the bets on the [[Quidditch World Cup]]|Harry Potter and the Goblet of Fire}}
+'''Agatha Timms''' was a [[Wizardkind|witch]] who owned an eel farm.
+
+==Biography==
+At the [[Quidditch World Cup]] in [[1994]], she bet [[Ludovic Bagman|Ludo Bagman]] that the match would last a week, wagering 50% co-ownership of her farm.<ref name="GOF7">{{GOF|B|7}}</ref>
+
+[[Ludovic Bagman|Ludo]] referred to her as ''"little Agatha Timms,"'' presumably indicating that she was either diminutive in stature, or much younger than him.<ref name="GOF7"/>
+
+==Behind the scenes==
+*In the early German translation, Agatha owns an [[owl]] farm, in later editions corrected to eel farm.
+
+==Etymology==
+The name "Agatha" is the Latinized form of the Greek name Αγαθη (Agathe), derived from Greek αγαθος (agathos) meaning "good". Saint Agatha was a 3rd-century martyr from Sicily who was tortured and killed after spurning the advances of a Roman official. The saint was widely revered in the Middle Ages, and her name has been used throughout Christian Europe (in various spellings). The mystery writer Agatha Christie (1890-1976) was a famous modern bearer of this name.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Agatha Timms]]
+[[es:Agatha Timms]]
+[[fr:Agatha Timms]]
+[[pl:Agata Timms]]
+[[de2:Agatha Timms]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Females|Timms, Agatha]]
+[[Category:Wizards|Timms, Agatha]]

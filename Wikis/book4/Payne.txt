@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Payne
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Campsite manager
+|house = 
+|loyalty = 
+}}
+'''Mr Payne''' was a [[Non-magic people|Muggle]] who ran one of the campsites close to the place the [[Quidditch World Cup]] was held in [[1994]]. The [[Diggory family]] stayed on Mr Payne's site, while [[Harry Potter]], [[Hermione Granger]], and the [[Weasley family|Weasleys]] stayed on the adjacent campground owned by [[Roberts|Mr Roberts]].<ref>{{GOF|B|7}}</ref>
+
+==Appearances==
+*{{GOF}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Mr Payne]]
+[[ru:Мистер Пэйн]]
+[[pl:Payne]]
+[[fr:Mr Payne]]
+[[Category:British individuals|Payne, Mr]]
+[[Category:Males|Payne, Mr]]
+[[Category:Muggles|Payne, Mr]]

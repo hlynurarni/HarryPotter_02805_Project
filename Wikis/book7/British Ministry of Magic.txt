@@ -1,0 +1,800 @@
+{{Spoiler|WU|HM}}
+{{Youmay|the organisation|[[British Ministry of Magic Headquarters|the physical structure]]}}
+{{Organisation infobox
+|bgcolor1 = 9966CC
+|bgcolor2 = C9A0DC
+|image = [[File:MinistryOfMagicLogo - Cursed Child.svg|250px]]
+|name = Ministry of Magic
+|founder = 
+|founded = [[1707]]<ref name="PMministers" />
+|dissolved = 
+|leader = British [[Minister for Magic]]
+*[[Hermione Granger|Hermione Jean Granger]] (c. [[2019]] -)
+|members = 
+|headquarters = [[Whitehall]], [[London]], [[England]], [[Great Britain]] (Scotland Pl, Westminster, London SW1A 2BD, UK)
+|intentions = [[Great Britain|British]] and [[Ireland|Irish]] [[Wizardkind|wizarding]] government
+|affiliation = *[[International Confederation of Wizards]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+|enemies = *Under [[Hector Fawley|Fawley]]
+**[[Gellert Grindelwald]]
+**[[Gellert Grindelwald's army]]
+*Under [[Millicent Bagnold|Bagnold]], [[Cornelius Fudge|Fudge]], and [[Rufus Scrimgeour|Scrimgeour]]
+**[[Tom Riddle|Lord Voldemort]]
+**[[Death Eaters]]
+*Under [[Cornelius Fudge|Fudge]] and [[Pius Thicknesse|Thicknesse]]
+**[[Dumbledore's Army]]
+**[[Order of the Phoenix]]
+*Under [[Pius Thicknesse|Thicknesse]]
+**[[Muggle-born]]s
+}}
+{{Dialogue a-b-a-b-a-b-a|Rubeus Hagrid|Ministry o' Magic messin' things up as usual.|Harry Potter|There's a Ministry of Magic?|Course. They wanted [[Albus Dumbledore|Dumbledore]] fer Minister, o' course, but he'd never leave [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], so old [[Cornelius Fudge]] got the job. Bungler if ever there was one. So he pelts Dumbledore with owls every morning, askin' fer advice.|But what does a Ministry of Magic do? |Well, their main job is to keep it from the [[Non-magic people|Muggles]] that there's still [[Wizardkind|witches an' wizards]] up an' down [[Great Britain|the country]].|Why?|Why? Blimey, Harry, everyone'd be wantin' [[magic]] solutions to their problems. Nah, we're best left alone.|Purpose of the Ministry|Harry Potter and the Philosopher's Stone}}
+The '''Ministry of Magic''' ('''M.o.M.''') was the main [[Ministry of Magic|governing body]] of the [[Wizarding world|magical community]] of [[Great Britain]] (''i.e.'' [[England]], [[Scotland]] and [[Wales]]) and [[Ireland]], with the intention of preservation of [[magic]]al law. The Ministry connected the British government to the [[wizarding world]]. The [[British Ministry of Magic Headquarters|headquarters]] of the Ministry was in [[Whitehall]],<ref>[http://harrypotter.ea.com/UK/?p=931 "Challenge mode tests wizarding skills"] at the [http://harrypotter.ea.com/UK/? ''Harry Potter and the Deathly Hallows: Part 1 (video game)'' official site]</ref> in central [[London]], deep underground.<ref name="OOP7">{{OOTP|B|7}}</ref>
+It was headed by the [[Minister for Magic]]. By [[2019]], the [[Minister for Magic]] was [[Hermione Granger]]. Each Prime Minister of Great Britain was visited by the Minister for Magic. During the height of the [[Dark Wizard|Dark Lord]]'s power, the Minister for Magic worked with the [[Prime Minister|Muggle Prime Minister]] to ensure protection for the Muggle world.
+
+The Ministry of Magic was formed as a successor to the earlier [[Wizards' Council]] and came into being in [[1707]].<ref name="PMministers" /> It was involved, in some capacity before its actual formation, in the [[International Confederation of Wizards]]' decision to enact the [[International Statute of Wizarding Secrecy|Statute of Secrecy]] in [[1692]], which took the responsibility of enforcing said Statute in the United Kingdom. The laws against magic-use by underage wizards and against wand use by non-wizard folk were also enforced by the Ministry, in part to maintain secrecy.
+
+Other countries, such as [[Norway]], [[France]], [[Germany]], [[Bulgaria]], etc.,<ref name="GOF5">{{GOF|B|5}}</ref> had their own Ministries of Magic. The [[United States of America]] was one of the exceptions, given that its governing magical body was instead referred to as a "[[Magical Congress of the United States of America|Magical Congress]]" (MACUSA).
+
+==Headquarters==
+{{Main|British Ministry of Magic Headquarters}}The headquarters of the Ministry of Magic was located in the heart of [[London]]. The actual structure was all underground, although magical windows showed whatever weather [[Magical Maintenance Department|Magical Maintenance]] had chosen for the day, from bright sunshine to hurricanes.
+
+===Visitors’ Entrance===
+Visitors to the Ministry of Magic came to a broken-down red telephone box on a dingy street which had several shabby offices, a pub, and a wall covered with graffiti. When the telephone in the box was dialled (62442, the word M-A-G-I-C), the welcome witch’s voice answered, not from the phone, but from the air, as if the person was standing right there. Visitors had to state their business, upon which a silver badge popped out with the visitor’s name and purpose of visit. Then the telephone box dropped down like a lift for about one minute, after which the visitor would be in the Atrium.
+
+===The Atrium===
+[[File:Atrium.jpg|239x239px|thumb|left]]
+The [[Atrium]] was on level 8. It was a large hall with fireplaces up and down both long walls. Down the left-hand side of the hall were gilded fireplaces which witches and wizards used to arrive at the Ministry. The right-hand side contained gilded fireplaces as well, and these were used for departures. The floor was polished dark wood. The ceiling was peacock blue with golden symbols moving across it. The [[Fountain of Magical Brethren]] was halfway down the Atrium. A group of golden statues, depicting a [[Wizardkind|wizard]], a [[Wizardkind|witch]], a [[centaur]], a [[goblin]], and a [[house-elf]], spouted water into the surrounding pool of water. At the end of the Atrium was a set of golden gates, next to which was a security stand. [[Eric Munch]] was usually on duty here. He registered the wands of visitors. Another smaller hall was beyond the gates, where there was a series of lifts. The lifts provided access to the other levels, except the tenth.
+
+===Levels===
+On level one were the offices of the [[Minister for Magic and Support Staff]].
+
+On level two was the [[Department of Magical Law Enforcement]].
+
+On level three was the [[Department of Magical Accidents and Catastrophes]].
+
+On level four was the [[Department for the Regulation and Control of Magical Creatures]].
+
+On level five was the [[Department of International Magical Cooperation]].
+
+On level six was the [[Department of Magical Transportation]].
+
+On level seven was the [[Department of Magical Games and Sports]].
+
+On level eight was the [[Atrium]].
+
+On level nine was the [[Department of Mysteries]].
+
+Level ten could only be reached by the stairs to the left of the door which led to the [[Department of Mysteries]] on level nine. [[Courtroom Ten]] was first seen during Harry’s first forays into Dumbledore’s Pensieve, when he witnessed various Death Eater trials. Dungeon-like corridors led to Courtroom Ten. The walls of the courtroom were dark stone. In the centre of the room was a chair covered in chains that stood below rows of high benches on which the [[Wizengamot]] sat.
+
+==History==
+===Early years===
+
+====18th Century====
+[[File:Ulick Gamp.png|185x185px|thumb|[[Ulick Gamp]], the first Minister for Magic]]
+The Ministry of Magic was founded in [[1707]] to succeed the earlier [[Wizards' Council]], with Head of the [[Wizengamot]] [[Ulick Gamp]] serving as the first [[Minister for Magic]], from [[1707]]-[[1718]]. Gamp had the onerous job of policing a fractious and frightened community adjusting to the imposition of the International Statute of Secrecy. His greatest legacy was to found the [[Department of Magical Law Enforcement]].<ref name="PMministers" />
+
+In [[1717]], the Ministry classified the [[Imperius Curse|Imperius]], [[Cruciatus Curse|Cruciatus]], and [[Killing Curse|Avada Kedavra]] curses as the [[Unforgivable Curses]], with the strictest of penalties attached to their use.<ref>{{TBB|B}} - Footnotes</ref> By the 1990s, their use would command a life sentence in [[Azkaban]].
+
+[[Damocles Rowle]] was the Minister for Magic from [[1718]]-[[1726]]. He was elected on a platform of being 'tough on [[Non-magic people|Muggles]]'. When the Ministry proposed a purpose-built wizarding prison on a remote [[Hebrides|Hebridean]] island, Rowle swiftly scrapped the plans and insisted on using [[Azkaban]] instead, which was carried through despite protests. Censured by the [[International Confederation of Wizards]], he was eventually forced to step down.<ref name="PMministers" />
+
+[[Perseus Parkinson]] was the Minister for Magic from [[1726]]-[[1733]]. He tried to pass a bill making it illegal to marry a Muggle. This proved to be against the public mood; the wizarding community, tired of anti-Muggle sentiment and wanting peace, voted him out at the first opportunity.<ref name="PMministers" /> Parkinson was also pro-Azkaban.
+
+[[Eldritch Diggory]] was the Minister for Magic from [[1733]]-[[1747]]. He was a popular Minister who first established an [[Auror]] recruitment programme. While visiting Azkaban, Diggory realised what conditions inside were like. Prisoners were mostly insane and a graveyard had been established to accommodate those that died of despair. He established a committee to explore alternatives to Azkaban, or at least to remove the Dementors as guards. Before they could reach any decision, however, Diggory caught [[Dragon Pox]] and died.<ref name="PMministers" />
+
+[[Albert Boot]] was the Minister for Magic from [[1747]]-[[1752]]. He was considered a likeable but inept Minister, resigning after a mismanaged [[18th century goblin rebellion|goblin rebellion]].<ref name="PMministers" />
+
+[[Basil Flack]] was the Minister for Magic for two months in [[1752]]. He was the shortest serving Minister, having resigned after the rebelling goblins joined forces with [[Werewolf|werewolves]].<ref name="PMministers" />[[File:Ministry of Magic Logo.jpg|170x170px|thumb|left|Ministry seal]]
+
+[[Hesphaestus Gore]] was the Minister for Magic from [[1752]]-[[1770]]. One of the earliest Aurors, he successfully put down a number of revolts by magical beings, although historians felt his refusal to contemplate rehabilitation programmes for [[werewolf|werewolves]] ultimately led to more attacks. He renovated and reinforced the prison of Azkaban.<ref name="PMministers" />
+
+[[Maximilian Crowdy]] was the Minister for Magic from [[1770]]-[[1781]]. Father of nine, he was a charismatic leader who routed out several extremist pure-blood groups planning Muggle attacks. When the [[Revolutionary War]] began in [[1775]], the Ministry of Magic were asked by [[Magical Congress of the United States of America|MACUSA]] to decide whether they were to intervene and help their Muggle neighbours. In [[1777]], MACUSA [[President of the Magical Congress of the United States of America|President]] [[Elizabeth McGilliguddy]] asked Crowdy what they had decided. He replied with a simple four-word letter stating that they were "sitting this one out", to which she replied with an even shorter letter stating "mind you do". Crowdy's mysterious death in office was the subject of numerous books and conspiracy theories.<ref name="PMministers" /><ref>{{WW|macusa}}</ref>
+
+[[Porteus Knatchbull]] was the Minister for Magic from [[1781]]-[[1789]]. He was called in confidentially in [[1782]] by the Muggle Prime Minister of the day, [[Lord North|Lord Frederick North]], to see whether he could help with King [[George III]]'s emerging mental instability. When it leaked out that Lord North believed in wizards, he was forced to resign after a motion of no confidence.<ref name="PMministers" />
+
+[[Unctuous Osbert]] was the Minister for Magic from [[1789]]-[[1798]]. Because he was too much influenced by [[pure-blood]]s of wealth and status, many saw him as little more a puppet to his own [[Advisor to the Minister for Magic|advisor]] [[Septimus Malfoy]], who would have served as the Ministry's ''de facto'' head.<ref name="PMministers" />
+
+[[Artemisia Lufkin]] was the Minister from [[1798]]-[[1811]]. The first witch to ever hold the office, she established the [[Department of International Magical Co-operation]], lobbying hard and successfully to have a [[Quidditch World Cup]] tournament held in Britain during her term.<ref name="PMministers" />
+
+====19th Century====
+[[Grogan Stump]] was the Minister from [[1811]]-[[1819]]. Very popular and passionate fan of [[Quidditch team]] [[Tutshill Tornados]], he established the [[Department of Magical Games and Sports]] and managed to steer through legislation on [[magic]]al [[beast]]s and [[being]]s that had long been a source of contention.<ref name="PMministers" />
+
+[[Josephina Flint]] was the Minister from [[1819]]-[[1827]]. She revealed an unhealthy anti-Muggle bias in office; she disliked new Muggle technology such as the [[telegraph]], which she claimed interfered with proper [[wand]] function.<ref name="PMministers" />
+
+[[Ottaline Gambol]] was the Minister from [[1827]]-[[1835]]. A much more forward-looking Minister, Gambol established committees to investigate Muggle brainpower, which seemed, during this period of the British Empire, to be greater than some wizards had credited.<ref name="PMministers" />
+
+[[Radolphus Lestrange]] was the Minister from [[1835]]-[[1841]]. He was a reactionary, who attempted to close down the [[Department of Mysteries]], which ignored him. He eventually resigned due to ill health, which was widely rumoured to be inability to cope with the strains of office.<ref name="PMministers" />
+
+[[Hortensia Milliphutt]] was the Minister from [[1841]]-[[1849]]. She introduced more legislation than any other sitting Minister, much of it useful, but some wearisome (hat pointiness and so on), which ultimately resulted in her political downfall.<ref name="PMministers" />
+
+[[Evangeline Orpington]] was the Minister from [[1849]]-[[1855]]. A good friend of Queen [[Victoria]]'s, who never realised that she was a witch, let alone Minister for Magic. Orpington was believed to have intervened magically (and illegally) in the [[Crimean War]].<ref name="PMministers" />
+
+[[Priscilla Dupont]] was the Minister from [[1855]]-[[1858]]. She conceived an irrational loathing of the Muggle Prime Minister [[Lord Palmerston]], to an extent that caused such trouble (coins turning to frogspawn in his coat pockets, etc.) that she was forced to step down. Ironically, Palmerston was forced to resign by the Muggles two days later.<ref name="PMministers" />
+
+[[Dugald McPhail]] was the Minister from [[1858]]-[[1865]]. A safe pair of hands. While the Muggle parliament underwent a period of marked upheaval, the Ministry of Magic knew a period of welcome calm.<ref name="PMministers" />
+
+[[Faris Spavin|Faris "Spout-hole" Spavin]] was the Minister from [[1865]]-[[1903]]. Longest-ever serving Minister for Magic, and also the most long-winded, he survived an 'assassination attempt' (kicking) from a [[centaur]] who resented the punchline of Spavin's infamous 'a centaur, a [[ghost]] and a [[dwarf]] walk into a bar' joke. Attended Queen Victoria's funeral in an admiral's hat and spats, at which point the [[Wizengamot]] suggested gently that it was time he move aside (Spavin was 147 when he left office).<ref name="PMministers" />
+
+====Early 20th Century====
+[[Venusia Crickerly]] was the Minister for Magic from [[1903]]-[[1912]]. Second ex-[[Auror]] to take office and considered both competent and likeable, Crickerly died in a freak gardening accident (mandrake related).<ref name="PMministers" />
+
+[[Archer Evermonde]] was the Minister from [[1912]]-[[1923]]. In post during the Muggle [[First World War]], Evermonde passed emergency legislation forbidding witches and wizards to get involved, lest they risk mass infractions of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]]. Thousands defied him, aiding [[Non-magic people|Muggles]] where they could.<ref name="PMministers" />
+
+[[Lorcan McLaird]] was the Minister from [[1923]]-[[1925]]. A gifted wizard, but an unlikely politician, McLaird was an exceptionally taciturn man who preferred to communicate in monosyllables and expressive puffs of smoke that he produced through the end of his wand. He was forced from office out of sheer irritation at his eccentricities.<ref name="PMministers" />
+
+[[Hector Fawley]] was the Minister for Magic from [[1925]]-[[1939]]. Undoubtedly voted in because of his marked difference to McLaird, the ebullient and flamboyant Fawley did not take sufficiently seriously the threat presented to the wizarding community by [[Gellert Grindelwald]]. He paid with his job.<ref name="PMministers" />
+
+[[Leonard Spencer-Moon]] was the Minister from [[1939]]-[[1948]]. A sound Minister who rose through the ranks from being tea-boy in the [[Department of Magical Accidents and Catastrophes]], he oversaw a great period of international wizarding and Muggle conflict. Enjoyed a good working relationship with [[Winston Churchill]].<ref name="PMministers" />
+
+[[Wilhelmina Tuft]] was the Minister from [[1948]]-[[1959]]. She was a cheery witch, who presided over a period of welcome peace and prosperity. Died in office after discovering, too late, her allergy to [[Alihotsy]]-flavoured fudge.<ref name="PMministers" />
+
+===Late 20th Century===
+====Political warfare====
+[[Ignatius Tuft]] was the Minister from [[1959]]-[[1962]]. The son of his predecessor, Ignatius was a hard-liner who capitalised on his mother's popularity to gain election. He promised to institute a controversial and dangerous [[Dementor]] breeding programme, and was forced from office.<ref name="PMministers" />
+
+[[Nobby Leach]] was the Minister from [[1962]]-[[1968]]. First [[Muggle-born]] Minister for Magic, his appointment caused consternation among the old ([[pure-blood]]) guard, many of whom resigned government posts in protest. He always denied having anything to do with England's [[1966 Quidditch World Cup]] win. Left office after contracting a mysterious illness (conspiracy theories abound).<ref name="PMministers" />
+
+[[Eugenia Jenkins]] was the Minister from [[1968]]-[[1975]]. Jenkins dealt competently with pure-blood riots during [[Squib Rights marches]] in the late [[1960s]], but was soon confronted with the first rise of Lord Voldemort. Jenkins was soon ousted from office as inadequate to the challenge.<ref name="PMministers" />
+
+[[Harold Minchum]] was the Minister from [[1975]]-[[1980]]. Seen as a hard-liner, he placed even more [[Dementor]]s around [[Azkaban]], but was unable to contain Voldemort's apparently unstoppable rise to power.<ref name="PMministers" />
+
+[[Millicent Bagnold]] was the Minister from [[1980]]-[[1990]]. A highly able Minister, she had to answer to the [[International Confederation of Wizards]] for the number of breaches of the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]] on the day and night after [[Harry Potter]] survived Lord Voldemort's attack. Acquitted herself magnificently with the now infamous words: 'I assert our inalienable right to party', which drew cheers from all present.<ref name="PMministers" />
+
+Shortly before Minister [[Millicent Bagnold]]'s retirement in [[1990]], many of the wizarding population wanted [[Albus Dumbledore]] to become Minister.<ref name="OOP7" /> He was offered the job four times,<ref name="HBP20">{{HBP|B|20}}</ref> but turned it down, because of his previous negative experiences with power.
+
+[[File:Harry-potter-goblet-of-fire-albus_moody_trail.jpg|362px|thumb|Igor Karkaroff's Ministry hearing]]
+
+The most likely person to become Minister from that point on was [[Bartemius Crouch Senior]], who, as Head of the [[Department of Magical Law Enforcement]], had gained popularity from his purges of [[Death Eaters]] after the first fall of [[Tom Riddle|Lord Voldemort]], including arresting his own son for participating in the [[Cruciatus Curse]] torture of [[Alice Longbottom|Alice]] and [[Frank Longbottom]].<ref name="GOF27">{{GOF|B|27}}</ref> However, he fell out of favour when people suspected that his son's actions and 'death' in [[Azkaban]] were the result of Crouch neglecting his son and by not spending enough time at home due to his ministerial pursuits.<ref name="GOF27" />
+
+====Under Cornelius Fudge====
+{{Quote|Our information from inside the Ministry is that Fudge doesn’t want you trained in combat.|Cornelius Fudge's paranoia surrounding the teaching of [[Defence Against the Dark Arts]]|Harry Potter and the Order of the Phoenix}}
+Cornelius Fudge was [[Minister for Magic]] during the events surrounding [[Tom Riddle|Lord Voldemort]]'s second rise to power. He became Minister for Magic in 1990<ref name="OP10">{{OOTP|B|10}}</ref> and stayed on as Minister until being sacked on [[2 July]] [[1996]].<ref name="fudgesacked">{{HBP|B|1}} - Cornelius Fudge says that the wizarding community was calling for his resignation for a fortnight and that he was sacked three days ago. As the Battle of the Department of Mysteries was on the night of 18 June, 1996, a fortnight (14 days) after is 2 July, 1996.</ref> Early on in his administration he requested frequent help from wizards such as [[Albus Dumbledore]], but Fudge later became suspicious of Dumbledore, who he believed was trying to usurp Fudge's position.
+
+[[File:Wanted.jpg|222x222px|thumb|left|Sirius Black wanted poster]]
+
+In the summer of [[1992]], Head of the [[Misuse of Muggle Artefacts Office]] [[Arthur Weasley]] proposed a [[Muggle Protection Act]], leading to a massive Ministry crackdown for illegally enchanted or dark objects. At the same time, the [[Improper Use of Magic Office]] sent [[Harry Potter]] a letter of reprimand after the Malfoy family [[house-elf]], [[Dobby]], performed magic in an attempt to keep him away from Hogwarts. In early [[1993]], Fudge went to Hogwarts to send [[Rubeus Hagrid]] to [[Azkaban]] on suspicion of opening the [[Chamber of Secrets]], an accusation that had led to his expulsion from Hogwarts 50 years earlier. Hagrid was eventually freed in June after the [[trio]] solved the mystery of the Chamber of Secrets.
+
+In the summer of 1993, convicted mass-murderer [[Sirius Black]] escaped from Azkaban, leading to a massive Ministry manhunt. In early [[1994]], [[Severus Snape]] captured Black and returned him to Fudge's custody, but [[Harry Potter]] and [[Hermione Granger]] had earlier discovered in the [[Shrieking Shack]] that Black was not really to blame for the crimes of which he was accused. They helped him escape by using a Ministry [[Time-Turner]] and [[Buckbeak]] the [[Hippogriff]], thus making the Ministry a "laughingstock".<ref name="PA22">{{POA|B|22}}</ref>
+
+[[File:Daily prophet the boy who lies.jpg|246x246px|thumb|''[[Daily Prophet]]'' smear campaign against Harry Potter]]
+
+Organising the 1994-1995 [[Triwizard Tournament]] involved substantial efforts from the [[Department of International Magical Cooperation]], the [[Department of Magical Games and Sports]], and other parts of the Ministry. The Tournament concluded with the death of [[Cedric Diggory]] and the [[Return of Lord Voldemort|Rebirth of Lord Voldemort]] on [[24 June]], [[1995]]. Fudge refused to believe Dumbledore and Harry Potter's accounts of these events, leading Dumbledore to reactivate the [[Order of the Phoenix]] to counter Voldemort. Because of Fudge's refusal to see the truth, the wizarding community was put at a disadvantage when dealing with the imminent threat of Lord Voldemort and his followers.
+
+[[File:The Hearing.png|250x250px|thumb|left|[[Harry Potter]]'s hearing for the use of underage magic]]
+
+After Voldemort's return, the Ministry [[Campaign to discredit Albus Dumbledore and Harry Potter|campaigned]] to discredit [[Albus Dumbledore]] and [[Harry Potter]], as Fudge, his mind "twisted and warped by fear", refused to believe this horrifying truth. This trend of attempting to minimise the immediate damage included the Ministry's attempts to get Harry drummed out of the wizarding community, forcing on teachers an oversight on [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], removing privileges from Dumbledore and anyone who accepted his statement that Voldemort had returned, and encouraging the ''Daily Prophet'' to publish stories mocking and denigrating Dumbledore and Harry.
+
+On 12 August, Harry was summoned to a [[Disciplinary hearing of Harry Potter|disciplinary hearing]] at the Ministry, pertaining to what the Ministry termed "''offences committed under the [[Decree for the Reasonable Restriction of Underage Sorcery]] and the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]]''". The hearing was changed to a full court trial, which was unorthodox and was outside the context of the law, in a biased and obvious attempt to further discredit Harry.<ref name="OP8">{{OOTP|B|8}}</ref>
+
+====Battle of the Department of Mysteries====
+{{main|Battle of the Department of Mysteries}}[[File:Daily prophet bellatrix.jpg|245x245px|thumb|''[[Daily Prophet]], ''mass Azkaban breakout]]
+
+Finally, the Ministry had to hide the reason for the mass breakout from Azkaban, as the Ministry could not explain, or justify, the defection of the [[Dementor]]s. [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]] tried to retrieve a [[Sybill Trelawney's first prophecy|specific prophecy]] pertaining to Harry Potter and Lord Voldemort from the [[Hall of Prophecy]] on Level Nine, the [[Department of Mysteries]]. In order to do that, they placed both [[Broderick Bode]]<ref name="OP26">{{OOTP|B|26}}</ref> and [[Sturgis Podmore]]<ref name="OP14">{{OOTP|B|14}}</ref> under the [[Imperius Curse]] to no avail, as only Harry could take it from its shelf.
+
+[[File:He who must be not be named returns.jpg|237x237px|thumb|left|''Daily Prophet'' confirms Voldemort's return]]
+
+Shortly after midnight on [[18 June]], [[1996]], the [[Death Eaters]] lured Harry and and five other [[Dumbledore's Army]] members into the deserted Ministry. A battle broke out over a prophecy concerning Harry and the Dark Lord. The D.A. members did well holding the Death Eaters at bay until help arrived. The [[Order of the Phoenix]] went to rescue them, and the [[Death Chamber]] standoff ensued, which resulted in the death of [[Sirius Black]] at the hands of his own cousin [[Bellatrix Lestrange]]. The standoff also included a duel between Voldemort and Dumbledore in the [[Atrium]] of the Ministry.<ref name="OP35">{{OOTP|B|35}}</ref>
+
+After the battle, Fudge and several other witnesses saw Voldemort with their own eyes, and this position of denial became untenable. Thus, the Ministry was forced to acknowledge the return of the Dark Lord and Fudge was unceremoniously replaced by [[Rufus Scrimgeour]], although Fudge was allowed to aid in an "advisory capacity".<ref name="HBP1">{{HBP|B|1}}</ref> The public was then made aware of the growing threat to its population and this marked the start of open warfare.
+
+====Under Rufus Scrimgeour====
+{{Quote|Maybe the Ministry should put some people onto that, instead of wasting their time stripping down Deluminators or covering up [[Azkaban escapes#1997|breakouts]] from [[Azkaban]]... People are dying — I was nearly one of them — Voldemort chased me across three counties, he killed Mad-Eye Moody, but there’s no word about any of that from the Ministry, has there? And you still expect us to cooperate with you!|Harry Potter's position regarding the way the Ministry is operating|Harry Potter and the Deathly Hallows}}In response to the war situation the country was facing, Rufus Scrimgeour, the previous Head of the [[Auror Office]], was appointed Fudge's successor on [[2 July]] [[1996]],<ref name="fudgesacked" /> and was responsible for the creation of several new bureaucracies, such as the [[Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects]].<ref name="HBP5">{{HBP|B|5}}</ref>
+
+[[File:-New-Ministry-of-Magic-banner-urging-wizards-and-witches-to-Stay-Vigilant-again-Death-Eaters-harry-potter-15964943-423-1000.jpeg|316x316px|thumb|Typical Ministry of Magic poster warning about the dangers of the [[Death Eaters]] during Scrimgeour's time as Minister]]
+
+Despite this, Scrimgeour did not fare much better than Fudge. Again reacting to public opinion, Scrimgeour tried desperately to make the Ministry look like it was making progress despite the reality being the contrary, such as by wrongfully imprisoning [[Stanley Shunpike|Stan Shunpike]]. Under Scrimgeour's regime, there was no progress. He was too concerned with the appearance of false safety, something that would ultimately led to his downfall and the downfall of the Ministry.
+
+Harry had two meetings with Scrimgeour, in which Harry's co-operation with the Ministry was solicited for his propaganda value: the Ministry wanted Harry to be the "poster child" for the Ministry so as to give the public hope, by telling them that the Ministry remained a source of safety, strength, and that "the Chosen One" endorsed the Ministry's investigations. Harry turned Scrimgeour down flat both times. Harry made it perfectly clear that he did not approve of what the Ministry was doing and made his opinion of Scrimgeour known. This led the Minister for Magic to believe that Harry was arrogant and the two parted on bad terms. The two remained on bad terms during the reading of the last will and testament of Dumbledore and it came to an argument in which Scrimgeour lost control of his temper. Harry stated that he will never cooperate with the Ministry if they keep conducting themselves in a less then positive way as they have previously done.
+
+In the summer of [[1997]], shortly after [[Albus Dumbledore]]'s murder, the [[Atrium]] at the Ministry was the setting for a speech by Scrimgeour about the "dark times" in which the wizarding world was living, and how the Ministry remained "strong" and active in the fight against the dark forces.<ref name="DHpt11">{{DH|F1}}</ref> In the meantime, the Death Eaters were managing to infiltrate the Ministry by [[Imperius Curse|magically controlling]] some of its higher-ranking officials.<ref name="DH1">{{DH|B|1}}</ref> As a result, later in the summer, on the evening of 1 August, 1997, the Ministry was the stage of a silent [[Fall of the Ministry of Magic|coup]], during which Scrimgeour was murdered<ref name="DH8">{{DH|B|8}}</ref> while refusing to give the [[Death Eaters]] any information on Harry Potter.<ref name="DH11">{{DH|B|11}}</ref>
+
+====Under Pius Thicknesse====
+{{main|Fall of the Ministry of Magic}}
+{{Quote|The Ministry has fallen. Scrimgeour is dead. [[Death Eaters|They]] are coming.|[[Kingsley Shacklebolt]] warning the [[Order of the Phoenix]] of the Ministry's fall|Harry Potter and the Deathly Hallows}}
+[[File:Thicknesse regime.png|230x230px|thumb|Four consequential members of the new regime: from left to right, [[Albert Runcorn]] (investigator of alleged [[Muggle-born]]s), [[Dolores Umbridge]] (Head of the Muggle-Born Registration Commission), Pius Thicknesse ([[Minister for Magic]]), and [[Corban Yaxley]] (Head of the [[Department of Magical Law Enforcement]])]]
+
+After the [[Death Eaters|Death Eater]] coup, the Ministry of Magic was headed by Pius Thicknesse, who was under Death Eater control by the [[Imperius Curse]]. Voldemort chose not to openly reveal himself as Minister, so as to keep an atmosphere of fear and uncertainty within the community. Much more security was added to the building and personnel were monitored. In addition, lower-ranking employees were now forced to go to work via a toilet network,<ref name="DH12">{{DH|B|12}}</ref> accessible inside a set of underground public toilets in [[Whitehall]]; only the senior-ranking personnel are permitted [[Apparition]] and [[Floo Network]] access.<ref name="DH12" /> The Ministry became very corrupt during Pius's time in office.
+
+[[File:Mudbloods Pamplet Pottermore.png|242x242px|thumb|left|''[[Mudbloods and the Dangers They Pose to a Peaceful Pure-Blood Society]]'']]
+
+Under Thicknesse's control, the Ministry became totalitarian, placing surveillance upon those of whom it was suspicious, such as [[Arthur Weasley]], and creating the [[Muggle-Born Registration Commission]] to prosecute [[Muggle-born]]s for allegedly stealing magic. Unfair trials were held to weed out Muggle-borns and to give the impression of justice, although it was anything but. The Ministry also acquired the motto '[[Magic is Might]]', which was inscribed upon a sculpture with a witch and wizard sitting on thrones made of Muggles.<ref name="DH13">{{DH|B|13}}</ref> Death Eaters such as [[Corban Yaxley]] gained high positions within the Ministry, as well.
+
+[[Snatchers]] or bounty hunters were also employed by the Ministry. Snatchers appeared to be a relatively informal organisation with the main purpose of rounding up or arresting Muggle-borns and "[[blood traitor]]s". Snatcher camps were set up all over Britain. If they caught their intended targets, said targets were killed or sent to [[Azkaban]].
+
+===Under Kingsley Shacklebolt===
+In [[1998]], after the destruction of [[Tom Riddle|Lord Voldemort]] and the end of the [[Second Wizarding War]], [[Kingsley Shacklebolt]] became Minister for Magic and led a massive reform of the Ministry. He did this in an effort to weed out corruption and prejudice.<ref>[http://www.the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript "J.K. Rowling Web Chat Transcript"] on [http://www.the-leaky-cauldron.org/ The Leaky Cauldron]</ref> Kingsley replenished the Auror Office and saw that the Death Eaters that escaped custody were caught and tried for their crimes against the wizarding community.
+
+The revitalisation and reform included the efforts of [[Harry Potter]] and [[Ronald Weasley|Ron Weasley]] in the [[Auror Office]], and [[Hermione Granger]] advancing the rights of non-humans, and eradicating pro-[[pure-blood]] laws in the [[Department for the Regulation and Control of Magical Creatures]] and later the [[Department of Magical Law Enforcement]].<ref name="HPFC">[http://www.accio-quote.org/articles/2007/0729-dateline-vieira.html "Vieira, Meredith. "Harry Potter: The Final Chapter" Dateline (NBC) , 29 July 2007"] on [http://www.accio-quote.org/index.html Accio Quote]</ref> The Ministry was a much happier place to work since the reforms.
+
+==Government structure==
+{{Quote|All right, Fudge is leaning on the Prophet, but it comes to the same thing. They won't print a story that shows Harry in a good light. Nobody wants to read it. It's against the public mood. This last Azkaban breakout has got people quite worried enough. People just don't want to believe You-Know-Who's back.|The ''Daily Prophet's'' role during the campaign to discredit Albus Dumbledore and Harry Potter|Harry Potter and the Order of the Phoenix}}[[File:DailyProphetHeader.png|234x234px|thumb|''Daily Prophet'' Header]]
+
+The Ministry's employees were largely unelected, but the [[Minister for Magic]] was voted into office by the wizarding community.<ref name="OOP7" /> Employment with the Ministry could be obtained directly upon completion of a wizarding education,<ref name="GOF">{{GOF}}</ref> although different offices required different levels of education and sometimes specific exam results. Both the Minister and the Ministry as a whole were seen to be sensitive to wizarding public opinion, which they attempted to influence via the wizarding newspaper the ''[[Daily Prophet]]''.<ref name="OOP7" />
+
+The Ministry of Magic had no rights to punish [[Hogwarts School of Witchcraft and Wizardry|Hogwarts students]] for misdemeanours, nor did they have privilege of their expulsion and wand confiscation, unless charges had been successfully proven and passed. Dumbledore made it clear to Fudge that the Ministry had little influence on the detailed workings within the school, which Fudge tried to change with a series of [[Educational Decree]]s, effectively annexing the school into the government.<ref name="OP8" />
+
+===Minister for Magic===
+[[File:Ministers.png|160px|thumb|left|The four men who held the title of Minister for Magic during the 1990s, from left to right: [[Cornelius Fudge]], [[Rufus Scrimgeour]], [[Pius Thicknesse]], and [[Kingsley Shacklebolt]]]]
+
+The [[Minister for Magic]] was the elected leader of the Ministry. The post of Minister for Magic was established with the creation of the Ministry of Magic after the [[International Statute of Wizarding Secrecy|International Statute of Secrecy]] went into effect. The first Minister ([[Ulick Gamp]]) took office in [[1707]]. The Minister and Support Staff occupied Level One of the Ministry. The Minister enjoyed a position of great prominence and prestige. He or she represented the British magical community in international affairs and set the tone for the policies of the Ministry of Magic. In addition to this, the Minister for Magic was known to the Muggle Prime Minister, and the two leaders would communicate when necessary. The Minister for Magic also presided over the [[Wizengamot]].
+
+During the puppet regime set up by [[Tom Riddle|Lord Voldemort]] in [[1997]]-[[1998]], this level also housed the office of the [[Head of the Muggle-Born Registration Commission]]. After the war, the Muggle-Born Registration Commission was disbanded and discarded. It included these offices: Office of the [[Minister for Magic]], Office of the [[Advisor to the Minister for Magic]], Office of the [[Senior Undersecretary to the Minister for Magic]], and Office of the [[Junior Assistant to the Minister for Magic]].
+
+===Departments===
+The Ministry had seven departments in all, each dealing with different aspects of the wizarding world. The [[Department of Magical Law Enforcement]] was the largest, and all others more or less answered to it (except the [[Department of Mysteries]]).
+
+Each Department had a level of [[British Ministry of Magic Headquarters|Ministry Headquarters]] assigned to it, although Law Enforcement had not only level two, but also the courtrooms of level ten. There were also many minor offices within the departments, which were part of an informal ranking system based on its size and perceived importance by senior officials, with transfer from a smaller division to a bigger and busier one being viewed as a "promotion."<ref name="HBP"/> The departments communicated through "[[interdepartmental memo]]s" written on pale-violet paper aeroplanes, which flew on their own to destinations, because previous routine use of owls for messages within the Ministry caused an excess of dirtying by owl droppings and moulted feathers. Known Ministry departments and offices included:
+
+====Department of Magical Law Enforcement====
+{{Quote|Level two, Department of Magical Law Enforcement, including the Improper Use of Magic Office, Auror Headquarters, and Wizengamot Administration Services.|Description of [[Auror]] headquarters|Harry Potter and the Deathly Hallows }}
+{| class="wikitable" border="1" width="100%"
+| rowspan="8" |[[File:Department of Magical Law Enforcement logo.png|156px|thumb|left]]
+! scope="row" |The [[Department of Magical Law Enforcement]] was a combination of police and justice facilities, and had power over all other departments except the Department of Mysteries. It included the following offices:
+|-
+|[[Auror Office]]
+|-
+|[[Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects]]
+|-
+|[[Misuse of Muggle Artefacts Office]]
+|-
+|[[Improper Use of Magic Office]]
+|-
+|[[Wizengamot]]
+|-
+|[[Wizengamot Administration Services]]
+|}
+
+====Department of Magical Accidents and Catastrophes====
+{{Quote|Level Three, Department of Magical Accidents and Catastrophes, incorporating the Accidental Magic Reversal Squad, Obliviator Headquarters and Muggle-Worthy Excuse Committee.|Voice of lift at the Ministry of Magic|Harry Potter and the Order of the Phoenix }}
+
+{| class="wikitable" border="1" width="100%"
+| rowspan="6" |[[File:Department of Magical Accidents and Catastrophes.jpg|156px|thumb|left]]
+! scope="row" |The [[Department of Magical Accidents and Catastrophes]] was responsible for repairing accidental magical damage. It included the following offices:
+|-
+|[[Accidental Magic Reversal Squad]]
+|-
+|[[Obliviator Headquarters]]
+|-
+|[[Muggle-Worthy Excuse Committee]]
+|-
+|[[Invisibility Task Force]]
+|-
+|[[Muggle Liaison Office]]
+|}
+
+====Department for the Regulation and Control of Magical Creatures====
+{{Quote|Each wizarding governing body will be responsible for the concealment, care and control of all magical beasts, beings, and spirits dwelling within its territory's borders. Should any such creature cause harm to, or draw the notice of, the [[Non-magic people|Muggle]] community, that nation's wizarding governing body will be subject to discipline by the [[International Confederation of Wizards]].|Clause 73 of the [[International Statute of Wizarding Secrecy]]|Fantastic Beasts and Where to Find Them}}
+{| class="wikitable" border="1" width="100%"
+| rowspan="8" |[[File:Department for the Regulation and Control of Magical Creatures logo.png|156px|thumb|left]]
+! scope="row" |The [[Department for the Regulation and Control of Magical Creatures]] was responsible for studying, regulating, and controlling magical creatures. It included the following offices:
+|-
+|[[Beast Division]]
+|-
+|[[Being Division]]
+|-
+|[[Spirit Division]]
+|-
+|[[Goblin Liaison Office]]
+|-
+|[[Centaur Liaison Office]]
+|-
+|[[Pest Advisory Board]]
+|-
+|[[Office of Misinformation]]
+|}
+
+====Department of International Magical Cooperation====
+{{Quote|Level Five, Department of International Magical Cooperation, incorporating the International Magical Trading Standards Body, the International Magical Office of Law and the International Confederation of Wizards, British Seats.|Voice of lift at the Ministry of Magic|Harry Potter and the Order of the Phoenix}}
+{| class="wikitable" border="1" width="100%"
+| rowspan="4" |[[File:Department of International Magical Cooperation.jpg|156px|thumb|left]]
+! scope="row" |The [[Department of International Magical Cooperation]] dealt with foreign affairs, both political and public.<ref name="GOF" /> It included the following offices:
+|-
+|[[International Magical Trading Standards Body]]
+|-
+|[[International Magical Office of Law]]
+|-
+|[[International Confederation of Wizards]], British Seats
+|}
+
+====Department of Magical Transportation====
+{{Quote|Level Six, Department of Magical Transportation, incorporating the Floo Network Authority, Broom Regulatory Control, Portkey Office and Apparition Test Centre.|Voice of lift at the Ministry of Magic|Harry Potter and the Order of the Phoenix}}
+{| class="wikitable" border="1" width="100%"
+| rowspan="5" |[[File:Department of Magical Transportation.jpg|156px|thumb|left]]
+! scope="row" |The [[Department of Magical Transportation]] was responsible for various aspects of magical transportation. It included the following offices:
+|-
+|[[Floo Network Authority]]
+|-
+|[[Broom Regulatory Control]]
+|-
+|[[Portkey Office]]
+|-
+|[[Apparition Test Centre]]
+|}
+
+====Department of Magical Games and Sports====
+{{Quote|Level seven, Department of Magical Games and Sports, incorporating the British and Irish Quidditch League Headquarters, Official Gobstones Club, and Ludicrous Patents Office.|Voice of lift at the Ministry of Magic|Harry Potter and the Order of the Phoenix}}
+{| class="wikitable" border="1" width="100%"
+| rowspan="4" |[[File:DMGS logo.png|156px|thumb|left]]
+! scope="row" |The [[Department of Magical Games and Sports]] dealt with organising sports events and enforcing game-related laws and regulations. It included the following offices:
+|-
+|[[British and Irish Quidditch League Headquarters]]
+|-
+|[[Official Gobstones Club]]
+|-
+|[[Ludicrous Patents Office]]
+|}
+
+====Department of Mysteries====
+{{Quote|The lift clattered into view and they hurried inside. Every time it stopped Mr Weasley cursed furiously and pummelled the number nine button. 'Department of Mysteries,' said the cool female voice, and left it at that.|Voice of lift at the Ministry of Magic|Harry Potter and the Order of the Phoenix }}
+{| class="wikitable" border="1" width="100%"
+| rowspan="8" |[[File:Department of Mysteries.png|156px|thumb|left]]
+! scope="row" |The [[Department of Mysteries]], located on Level Nine, was a section of the Ministry of Magic that carried out confidential research regarding particular enigmas ([[death]], time, space, thought, and [[love]]) and stores [[Prophecy Record|copies]] of [[Prophecy|prophecies]]. Most of its operations were carried out in total secrecy from the general wizard populace.<ref name="OP35" /> The Department contained the following chambers in which various mysteries of life were studied:
+|-
+|[[Brain Room]]
+|-
+|[[Department of Mysteries#Space Chamber|Space Chamber]]
+|-
+|[[Death Chamber]]
+|-
+|[[Time Room]]
+|-
+|[[Hall of Prophecy]]
+|-
+|[[Love Chamber]] (aka The Ever-Locked Room)
+|}
+
+===Other Offices===
+{{Quote|A long-awaited Ministry for Magic [sic] report made public today warns against the dangers of underestimating Muggles. A Study into Muggle Suspicions about Magic draws conclusions which may shock the wizarding community. Professor Phoebus Penrose, who headed the committee which drew up the report, says that Muggles are more observant than we might like to think.|''[[Daily Prophet]]'', 31 July 1998|The Daily Prophet (real-world)}}
+{| class="wikitable" border="1" width="100%"
+| rowspan="11" |[[File:Department of Magical Education logo.jpg|156px|thumb|left]]
+! scope="row" |The Ministry contained several other departments:
+|-
+|[[Committee on Experimental Charms]]
+|-
+|[[Magical Maintenance Department]]
+|-
+|[[Ministry of Magic Public Information Services]]
+|-
+|[[Department of Magical Education]]
+|-
+|[[Very Important Members of Section M.I. Trx.]]
+|-
+|[[Wizarding Examinations Authority]]
+|-
+|[[Ministry of Magic research committee]]
+|-
+|[[Ministry of Magic exploding bonbons disposal unit]]
+|-
+|[[Foreign Affairs and Sports Department]]
+|}
+
+===Possible offices or affiliates===
+*[[Advocates to the Wizarding World]]
+
+==Law enforcement==
+{{Quote|Ludo Bagman, you have been brought here in front of the Council of Magical Law to answer charges relating to the activities of the Death Eaters.|Bagman's trail before the council|Harry Potter and the Goblet of Fire}}The Department of Magical Law Enforcement was in the Ministry of Magic, and was the wizarding equivalent of both the [[Non-magic people|Muggle]] police force and the judiciary. It was the largest of the departments in the Ministry of Magic, and all others more or less answered to it. There were several different subdivisions located in this department, such as the [[Auror Office]], [[Improper Use of Magic Office]], [[Magical Law Enforcement Patrol]], and many others.
+
+===Courtroom procedure===
+[[File:Wizengamot seal.png|thumb|170px|Wizengamot seal]]Minister for Magic [[Ulick Gamp]]'s greatest legacy was to found the Department of Magical Law Enforcement. The Wizengamot and Council of Magical Law were subdivisions of this department.
+
+The [[Wizengamot]] was the high court of wizarding law in Britain. The head of the Wizengamot was called the Chief Warlock, an old-fashioned title that denoted “particular skill or achievements” similar to a Muggle knighthood. A [[Court Scribe]] took notes of the proceedings. Wizengamot members wore plum-coloured robes with an elaborate silver "W" on the left side.
+
+The high Wizard court of law was held in a dungeon. In court, the accused was magically bound to a chair in the centre of the room. A jury sat on the right of the prosecutor, who stated the case against the accused and eventually asked for a verdict.
+
+==Personnel==
+
+===Ministers for Magic===
+{{Main|Minister for Magic}}The following is a list of the Ministers for Magic and their tenures in office:
+
+{| class="wikitable" border="1" width="95%"
+|-
+! scope="col" |Wizard(s)
+! scope="col" |Date
+! scope="col" |Notes
+|-
+|[[Ulick Gamp]] †
+|[[1707]]—[[1718]]
+|The first Minister for Magic, previously head of the Wizengamot.
+|-
+|[[Damocles Rowle]]
+|[[1718]]—[[1726]]
+|Anti-Muggle wizard politician, responsible for the creation of the wizard prison known as Azkaban
+|-
+|[[Perseus Parkinson]]
+|[[1726]]—[[1733]]
+|He tried to pass a bill making it illegal to marry a Muggle.
+|-
+|[[Eldritch Diggory]] †
+|[[1733]]—[[1747]]
+|He was a popular Minister, and first established an Auror recruitment programme in Great Britain.
+|-
+|[[Albert Boot]]
+|[[1747]]—[[1752]]
+|An inept Minister. After mismanaging a goblin rebellion, he resigned from the post.
+|-
+|[[Basil Flack]]
+|[[1752]]—[[1752]]
+|Appointed a temporary acting Minister instead of being elected by the Wizarding population due to the crisis of the goblin rebellions.
+|-
+|[[Hesphaestus Gore]]
+|[[1752]]—[[1770]]
+|Was one of the earliest Aurors. Gore successfully put down a number of revolts by magical beings, and was also responsible for renovating and reinforcing the prison of Azkaban.
+|-
+|[[Maximilian Crowdy]] †
+|[[1770]]—[[1781]]
+|Crowdy was a charismatic leader who routed out several extremist pure-blood groups planning attacks on Muggles. His mysterious death in office has been the subject of numerous books and conspiracy theories.
+|-
+|[[Porteus Knatchbull]]
+|[[1781]]—[[1789]]
+|He was called in confidentially by the Muggle Prime Minister of the day to see whether he could help with King George III's emerging mental instability.
+|-
+|[[Unctuous Osbert]]
+|[[1789]]—[[1798]]
+|He was accused of having been a puppet in the hands of [[Septimus Malfoy]].
+|-
+|[[Artemisia Lufkin]] †
+|[[1798]]—[[1811]]
+|The first female ever to hold the office, being elected at least twice.
+|-
+|[[Grogan Stump]] †
+|[[1811]]—[[1819]]
+|He deeply restructured the Department for the Regulation and Control of Magical Creatures, and established the Department of Magical Games and Sports.
+|-
+|[[Josephina Flint]]
+|[[1819]]—[[1827]]
+|Revealed a severe anti-Muggle bias during her term; specifically attacked new Muggle inventions such as the telegraph, which she claimed interfered with wand function.
+|-
+|[[Ottaline Gambol]]
+|[[1827]]—[[1835]]
+|Came up with the idea of having the Hogwarts Express to solve the problem of how to transport students to Hogwarts.
+|-
+|[[Radolphus Lestrange]]
+|[[1835]]—[[1841]]
+|Unsuccessfully tried to close down the Department of Mysteries, resigned due to ill health.
+|-
+|[[Hortensia Milliphutt]]
+|[[1841]]—[[1849]]
+|Introduced more legislation than any other Minister. Her political downfall came when she began passing regulations on hat pointiness and other wearisome laws.
+|-
+|[[Evangeline Orpington]]
+|[[1849]]—[[1855]]
+|Had concealed platforms built at King's Cross Station to house wizarding trains.
+|-
+|[[Priscilla Dupont]]
+|[[1855]]—[[1858]]
+|Developed an irrational loathing of the Muggle Prime Minister Lord Palmerston, which led to a series of Muggle-baiting incidents.
+|-
+|[[Dugald McPhail]]
+|[[1858]]—[[1865]]
+|A period of calm and stability. Established the Knight Bus in 1865.
+|-
+|[[Faris Spavin]]
+|[[1865]]—[[1903]]
+|Longest-serving Minister. Left office at age 147.
+|-
+|[[Venusia Crickerly]] †
+|[[1903]]—[[1912]]
+|Competent and likeable Minister.
+|-
+|[[Archer Evermonde]]
+|[[1912]]—[[1923]]
+|Passed emergency legislation preventing wizards from taking part in the on-going First World War.
+|-
+|[[Lorcan McLaird]]
+|[[1923]]—[[1925]]
+|An exceptionally taciturn man who preferred to communicate in monosyllables and expressive puffs of smoke that he produced with his wand.
+|-
+|[[Hector Fawley]]
+|[[1925]]—[[1939]]
+|Term in office coincided with the beginning of Gellert Grindelwald's actions. Fawley did not take Grindelwald's threat to the wizarding community seriously and was forced from his office.
+|-
+|[[Leonard Spencer-Moon]]
+|[[1939]]—[[1948]]
+|A sound Minister, oversaw a period of great turmoil in both the wizarding ([[Global wizarding war]]) and the Muggle world (Second World War).
+|-
+|[[Wilhelmina Tuft]] †
+|[[1948]]—[[1959]]
+|Presided over a period of welcome peace and prosperity. Died in office, after eating Alihotsy-flavoured fudge.
+|-
+|[[Ignatius Tuft]]
+|[[1959]]—[[1962]]
+|Tried to institute a controversial and dangerous Dementor breeding programme, and was forced from office.
+|-
+|[[Nobby Leach]]
+|[[1962]]—[[1968]]
+|First Muggle-born Minister for Magic. Left office after contracting a mysterious illness. ([[Abraxas Malfoy]] was widely believed to have been part of the shady plot that made him leave his post prematurely.)
+|-
+|[[Eugenia Jenkins]]
+|[[1968]]—[[1975]]
+|Dealt competently with the pure-blood riots during the [[Squib Rights marches]] of the late 1960s. The first rise of Lord Voldemort saw her ousted from office.
+|-
+|[[Harold Minchum]]
+|[[1975]]—[[1980]]
+|Hard-liner. Placed even more Dementors in Azkaban, but could not contain Voldemort's seemingly unstoppable rise to power.
+|-
+|[[Millicent Bagnold]]
+|[[1980]]—[[1990]]
+|Minister during the terminal phase of the [[First Wizarding War]]. Responsible for the successful Death Eater trials immediately after the war.
+|-
+|[[Cornelius Fudge]]
+|[[1990]]—[[1 July]], [[1996]]
+|Fudge relied heavily on Dumbledore in the first years of his term. When Lord Voldemort returned, Fudge persistently refused to accept it. Was ousted from office when Voldemort appeared in person in the Ministry.
+|-
+|[[Rufus Scrimgeour]] †
+|[[1 July]], [[1996]]—[[1 August]], [[1997]]
+|Replaced Cornelius Fudge during the height of the [[Second Wizarding War]]. He was incompetent during his term. Murdered by Voldemort during a Death Eater coup.
+|-
+|[[Pius Thicknesse]]
+|[[1 August]], [[1997]]—[[2 May]], [[1998]]
+|Put under the Imperius Curse by the Death Eaters, and appointed Minister following their coup. Thicknesse was effectively a puppet of the Death Eater regime.
+|-
+|[[Kingsley Shacklebolt]]
+|[[2 May]], [[1998]]—c. [[2019]]
+|Oversaw the capture of Death Eaters and supporters following Voldemort's death. Led a massive reform of the Ministry, rid it of corruption and pro-pure-blood laws and purged Dementors from Azkaban.
+|-
+|[[Hermione Granger]]
+|c. [[2019]]—?
+|Hero of the Second Wizarding War.
+|}
+Following the revelation that Voldemort was back, Fudge was replaced as Minister as he had denied the truth for nearly a year. He was replaced by [[Rufus Scrimgeour]] before he was killed by Voldemort and replaced by [[Pius Thicknesse]], who was acting under the influence of the [[Imperius Curse]] and put in power by Voldemort.
+
+[[Kingsley Shacklebolt]] replaced Voldemort's puppet Thicknesse at the end of the [[Second Wizarding War]] and reformed the Ministry. By [[2019]], [[Hermione Granger]] was elected Minister for Magic.
+
+[[Albus Dumbledore]] was offered the job of Minister and refused it at least four times. In his latter days at Hogwarts, [[Tom Riddle]] was widely predicted to become Minister, as he had great intelligence and magical talent along with a great talent for creating strategic alliances with people. He could also gather followers to serve his interests. However, Riddle refused every opportunity to work at the Ministry, as a career in the government did not strike his interest.
+
+===Heads of Departments and Offices===
+{| class="wikitable" border="1" width="95%"
+|-
+! scope="col" |Wizard(s)
+! scope="col" |Date
+! scope="col" |Notes
+|-
+|[[Justus Pilliwickle]]
+|[[1800s]]/[[1900s]]
+|He worked for the Ministry of Magic and was a celebrated Head of the [[Department of Magical Law Enforcement]].
+|-
+|[[Amelia Bones]] †
+|?—[[July]], [[1996]]
+|Head of [[Department of Magical Law Enforcement]], murdered by Voldemort himself.
+|-
+|[[Bartemius Crouch Senior|Bartemius Crouch Snr]] †
+|?— [[27 May]], [[1995]]
+|Head of [[Department of International Magical Cooperation]]; previously served as head of Department of Magical Law Enforcement. Was murdered by his Death Eater son.
+|-
+|[[Ludovic Bagman]]
+|?—[[1995]]
+|Head of [[Department of Magical Games and Sports]]. His career at the Ministry ended in mid-1995, when he had to go on the run from goblins.
+|-
+|[[Percy Weasley]]
+|[[2000s]]
+|Head of [[Department of Magical Transportation]], previously served as Assistant to the Head of Department of International Magical Cooperation and [[Junior Assistant to the Minister for Magic]] under Cornelius Fudge, Rufus Scrimgeour and Pius Thicknesse
+|-
+|[[Bob Ogden]] <span style="line-height:1.5em;">†</span>
+|[[1920s]]
+|Head of the Magical Law Enforcement Office
+|-
+|[[Arthur Weasley]]
+|c. [[1968]]—?
+|Head of the [[Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects]] (under Rufus Scrimgeour); previously served as Head of the [[Misuse of Muggle Artefacts Office]] (under Cornelius Fudge)
+|-
+|[[Cuthbert Mockridge]]
+|[[1990s]]—[[1996]]
+| colspan="1" rowspan="2" |Head of the [[Goblin Liaison Office]]. Cresswell was forced to step down from office and was later murdered by Snatchers during the height of the Second Wizarding War.
+|-
+|[[Dirk Cresswell]] †
+|[[1990s]]—[[1997]]
+|-
+|[[Gawain Robards]]
+|[[1996]]—[[2007]]
+|Previous head of the [[Auror Office]]
+|-
+|[[Corban Yaxley]]
+|[[1997]]—[[1998]]
+|Head of Magical Law Enforcement under [[Tom Riddle|Lord Voldemort]]'s regime, was placed as the head after a Ministry coup.
+|-
+|[[Harry Potter]]
+|[[2007]]—[[2022]]{{Fact}}
+|Former head of the Auror Office, was the youngest ever appointed. Later became the head of the [[Department of Magical Law Enforcement]].
+|}
+
+===Other personnel===
+{| class="wikitable" border="1" width="95%"
+|-
+! scope="col" |
+Wizard(s)
+! scope="col" |Notes
+|-
+|[[Broderick Bode]] <span style="color:rgb(97,77,54);font-size:12px;font-weight:normal;line-height:16px;">†</span>
+| colspan="1" rowspan="2" |"Unspeakable," [[Department of Mysteries]]
+|-
+|[[Saul Croaker|Croaker]]
+|-
+|[[John Dawlish]]
+|Auror
+|-
+|[[Amos Diggory]]
+|[[Department for the Regulation and Control of Magical Creatures]], later known to have retired and moved to St Oswald’s Home for Old Witches and Wizards
+|-
+|[[Marietta Edgecombe's mother|Madam Edgecombe]]
+|[[Floo Network Regulator]]
+|-
+|[[Mafalda Hopkirk]]
+|[[Improper Use of Magic Office]], worked for the [[Muggle-Born Registration Commission]] during the height of the Second Wizarding War
+|-
+|[[Alice Longbottom]]
+| colspan="1" rowspan="2" |Aurors and members of the original [[Order of the Phoenix]], captured and tortured into insanity by four Death Eaters during the [[First Wizarding War]] (permanent medical leave)
+|-
+|[[Frank Longbottom]]
+|-
+|[[Walden Macnair]]
+|[[Committee for the Disposal of Dangerous Creatures]], worked as an executioner for dangerous creatures. He was also a known Death Eater.
+|-
+|[[Bertha Jorkins]] <span style="color:rgb(97,77,54);font-size:12px;font-weight:normal;line-height:16px;">†</span>
+|[[Department of Magical Games and Sports]]
+|-
+|[[Alastor Moody|Alastor "Mad-Eye" Moody]] <span style="color:rgb(97,77,54);font-size:12px;font-weight:normal;line-height:16px;">†</span>
+|Auror, one of the most famous of modern times. Half the cells in [[Azkaban]] were full of Dark Wizards because of him.
+|-
+|[[Eric Munch]]
+|Watchwizard
+|-
+|[[Arnold Peasegood]]
+|[[Obliviator]]
+|-
+|[[Perkins]]
+|Arthur Weasley's co-worker in the [[Misuse of Muggle Artefacts Office]]
+|-
+|[[Proudfoot]]
+| colspan="1" rowspan="2" |Auror, one of the guardians of Hogwarts
+|-
+|[[Savage]]
+|-
+|[[Newton Scamander|Newt Scamander]]
+|[[Beast Division]], [[Department for the Regulation and Control of Magical Creatures]], retired, and author of {{FB}}
+|-
+|[[Nymphadora Tonks]] †
+|Auror, one of the guardians of Hogwarts. She fought in the [[Battle of the Department of Mysteries]] and was murdered by [[Bellatrix Lestrange]] during the [[Battle of Hogwarts]]
+|-
+|[[Dolores Umbridge]]
+|[[Senior Undersecretary to the Minister for Magic]] under Cornelius Fudge, Hogwarts High-Inquisitor, and former head of the [[Muggle-Born Registration Commission]]
+|-
+|[[Gilbert Wimple]]
+|On the [[Committee on Experimental Charms]], had horns that he presumably acquired as a result of one of his experiments
+|-
+|[[Ronald Weasley|Ron Weasley]]
+| colspan="1" rowspan="2" |Former Auror, before pursuing other ventures. Both were heroes of the Second Wizarding War. Ron went on to work at [[Weasley's Wizard Wheezes]], and Neville became the professor of [[Herbology]] at [[Hogwarts School of Witchcraft and Wizardry]].
+|-
+|[[Neville Longbottom]]
+|}
+
+==Muggle relations==
+The Ministry kept in touch with the [[Prime Minister|Muggle Prime Minister]] of the United Kingdom through the help of a [[portrait]] of [[Ulick Gamp]]<ref name="PMministers">{{WW|ministers-for-magic}}</ref> in the Downing Street office.<ref name="HBP1" /> The portrait is fixed to the wall with a [[Permanent Sticking Charm]] so no Muggles will be able to remove it, and the subject of the painting will notify the Prime Minister of the [[Minister for Magic]]'s impending arrivals.<ref name="HBP">{{HBP}}</ref> The British Crown, including the Prime Minister and the Monarch, were in full knowledge of the Ministry.
+
+Each new Muggle Prime Minister received a visit from the Minister for Magic, who informed him or her that the [[wizarding world]] exists. He or she would explain that they will contact the Prime Minister only in circumstances in which the events of the wizarding world may affect Muggles. For example, the Minister had to inform the Prime Minister if dangerous magical artefacts or animals were to be brought into the UK.
+
+No Muggle Prime Minister has ever set foot in the [[British Ministry of Magic Headquarters|Ministry of Magic]]; as summed up by former Minister [[Dugald McPhail]], "''their puir wee braines couldnae cope wi' it''".<ref name="PMministers" /> Ministers [[Cornelius Fudge]] and [[Rufus Scrimgeour]] tended to act in a somewhat patronising manner towards the Muggle Prime Minister.<ref name="HBP1" />
+
+[[File:Magic is might concept artwork.jpg|227x227px|thumb|left|Conceptual design of the 'Magic is Might' statue]]
+
+However, after the [[Fall of the Ministry of Magic]] into the hands of [[Tom Riddle|Lord Voldemort]], and [[Pius Thicknesse]] becoming Minister as Voldemort's puppet, a new era of Wizard-Muggle relations was brought on that was more in line with [[Death Eaters|Death Eater]] ideology. These actions included the instalment of the "[[Magic is Might]]" statue in the Ministry Atrium to replace the [[Fountain of Magical Brethren]]. This statue depicts a witch and wizard on top of a throne made from the bodies of crude-looking Muggles, with twisted ugly faces.
+
+[[File:Undesirable no. 1.jpg|239x239px|thumb|Harry Potter labelled as "Undesirable No. 1" by the Ministry]]
+
+While prejudiced depictions of Muggles were taught by professors [[Amycus Carrow|Amycus]] and [[Alecto Carrow]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] under its new headmaster, [[Severus Snape]], the Ministry began claiming that Muggle-borns "stole" their magic from "real" witches and wizards. The [[Muggle-Born Registration Commission]], headed by [[Dolores Umbridge]], was set up to persecute and imprison Muggle-borns. Furthermore, the [[Snatchers|Snatcher]] organisation was formed in an attempt to round up any Muggle-borns or blood traitors on the run. People with known connections to the [[Order of the Phoenix]] or [[blood traitor|sympathies for Muggles]], such as [[Arthur Weasley]], were put under surveillance, and a reward for the capture of [[Harry Potter]], known to the Ministry as "Undesirable No. 1", was offered.
+
+Presumably, after Voldemort's defeat and [[Kingsley Shacklebolt]]'s installation as Minister for Magic, the cruel prejudiced measures imposed under the Death Eater regime towards Muggles (such as the Muggle-Born Registration Commission) were abolished, and the Ministry went on communicating with the Muggle Prime Minister when necessary.
+
+==Criticisms==
+The magical government sometimes gave the impression of, at various times, either incompetence or malice, which were demonstrated by successful [[Azkaban escapes|break-outs from Azkaban]] and the [[campaign to discredit Albus Dumbledore and Harry Potter]]. The Ministry was known to be corrupt in nature, as it was shown to be quite prepared to decree and enforce draconian laws without notice, and seemed uninterested in solving serious problems, choosing instead to ignore or cover up bad news. More often than not, the Ministry was focused on positive publicity rather than genuine betterment of the community, and took the pressures from the satisfaction of the majority citizens as a factor to their decisions.
+
+The Ministry proved their incompetent and insensitive nature in how they dealt with [[Werewolf|werewolves]], which resulted in years of poor surveillance. The government arrogantly expected the werewolves to willingly show up to sign the [[Werewolf Register]] and [[Werewolf Code of Conduct]], assuming that they would openly admit their infection and promise to lock themselves up to protect the community. Unsurprisingly, no one showed up to sign either due to the stigma, which the Ministry apparently did not take into consideration, thus leading to their record on werewolves being inadequate, which resulted in several attacks and failure to arrest the culprits.
+
+More than half of the personnel within the Ministry were unable to perform the [[Shield Charm]], resulting in them having to use [[Shield Hat]]s for protection.
+
+===Corruption===
+{{Quote|Blatant corruption! The Ministry did not cut deals with petty criminals in my day, no sir, they did not!|The portrait of [[Fortescue family|Fortescue]] discussing the Ministry's actions|Harry Potter and the Order of the Phoenix}}The Ministry of Magic gave an appearance of, at various times, either confounding incompetence or malice. The Ministry had been seen to decree and enforce harsh and tyrannical laws without notice. The few rights that human wizards did have were denied to non-humans. Even people who had later been found to be innocent were subjected to the horrors of [[Azkaban]], and not all of the accused were given trials, as was the case with [[Sirius Black]]. Sloppy police work led the Ministry to sentence [[Morfin Gaunt]] to his second term in Azkaban, for life, without properly investigating the situation of the [[Murder of the Riddle family|crime]] he was accused of; by the time contradicting evidence was presented, he was weakened by the prison and died, at which the Ministry simply let his corpse be buried [[Azkaban burial ground|alongside the other inmates who expired within the walls]], never bothering to give him a more proper final resting place, despite him being wrongfully imprisoned.
+
+Modern governments would ostensibly consider some of the actions of the Ministry to be cruel and inhumane. Under the direction of Minister [[Cornelius Fudge]], trials were short and did not employ juries; instead, a Wizarding Council heard every case regardless of what prior knowledge they had of the case. Defendants were unlikely to be able to appeal verdicts, and lawyers were not allowed. It is likely that conditions improved with newer administrations. During [[Rubeus Hagrid|Hagrid]]'s appeal case before the [[Committee for the Disposal of Dangerous Creatures]], the executioner ([[Walden Macnair]]) was present with his axe before a verdict was even decided on, and most of the Committee's decisions were influenced by [[Lucius Malfoy]], who threatened and intimidated the members into doing his bidding.
+
+During [[Bartemius Crouch Senior]]'s tenure as the Head of the [[Department of Magical Law Enforcement]], he legalised the usage of the [[Unforgivable Curses]], underwent the principles of fighting violence with violence, kill rather than capture, attack first and ask questions later, and imprison many suspects without trials. His cruel and ruthless methods made him as bad as the Death Eaters he sought to defeat, and has corrupted the magical community at large, as they came to believe he was doing the right thing, and that there was no other method to win the war. However, Crouch was seemingly more worried about his own reputation and rise of rank than genuine justice, as he sentenced his [[Bartemius Crouch Junior|son]] to a life term in Azkaban despite ambiguous evidence of the [[Attack on Frank and Alice Longbottom|situation]] that his son was allegedly involved in, and tried (unsuccessfully) to imprison [[Ludovic Bagman]] for unwittingly giving information to the Death Eaters, more so because he disliked the man than a proper sentencing. He even accepted a plea bargain from Death Eater [[Igor Karkaroff]], releasing him from incarceration in exchange for information. It was only after the war had ended and the people finally managed to calm themselves from their savage approvals of Crouch's methodologies that they finally saw how cruel he was, and socially shunned him for his corruption.
+
+As a sign of corruption, Ministry officials tended to accept plea bargains from criminals to advance what they deemed progress in exchange for leniency, if not outright soliciting bribes. Known dealings included Barty Crouch Snr granting Igor Karkaroff parole in exchange for names of Death Eaters, [[Dolores Umbridge]] not prosecuting [[Willy Widdershins]] for [[Muggle-baiting]] in exchange for spying on [[Dumbledore's Army|a gathering of students]], and Umbridge later releasing [[Mundungus Fletcher]] after accepting a [[Slytherin's Locket|bribe]]. Likewise, [[Cornelius Fudge]] had a tendency for being discreetly bribed (by [[Lucius Malfoy]]'s frequent donation of gold to important establishments) to reveal classified information, delay certain laws, and return with undeserved gifts. [[Arcturus Black III|Arcturus Black]] also bribed the Ministry with a huge sum of gold (officially written as "services to the Ministry") to undeservedly earn the [[Order of Merlin]], First Class.
+
+[[File:Poster of Cornelius Fudge.png|245x245px|thumb|left|The large banner of [[Cornelius Fudge]] that used to hang in the atrium, assuring the public that all was well and thus denying the clear evidence of Voldemort's return]]
+
+After the return of [[Tom Riddle|Lord Voldemort]], the Minister at the time, [[Cornelius Fudge]], refused to believe that Voldemort was back, despite mounting evidence, and the Ministry even mounted a [[Campaign to Discredit Albus Dumbledore and Harry Potter|campaign to damage Harry Potter's credibility]], an effort fuelled in part by Fudge's own paranoid fear that Albus Dumbledore wanted his job. Eventually, the Ministry was forced to acknowledge the emergency and act. Fudge was removed from office for incompetence and replaced by [[Rufus Scrimgeour]].
+
+Rufus became as bad as Crouch Snr, making scapegoats lock the wrong people in Azkaban, such as [[Stanley Shunpike|Stan Shunpike]], to try and make it look like the Ministry was doing a good job. When he asked Harry to be a mascot so that the public would support them, Harry refused because he knew it was still corrupt.
+
+After the [[Fall of the Ministry of Magic]], the entire Ministry was under Voldemort and doing his bidding under the puppet government headed by [[Pius Thicknesse]]. The various laws implemented in this regime included the persecution and harassment of Muggle-borns and Muggles, and propaganda suggesting the inferiority of Muggles and how they should be treated as sub-humans by wizards. However, after Lord Voldemort's fall and Kingsley Shacklebolt being appointed minister, Harry, Ron, and Hermione worked for the Ministry and changed it in ways to make it drastically less corrupt.
+
+==See also==
+*[[Fall of the Ministry of Magic]]
+*[[Argentinian Council of Magic]]
+*[[Andorran Ministry of Magic]]
+*[[Bangladeshi Ministry of Magic]]
+*[[Brazilian Ministry of Magic]]
+*[[Bulgarian Ministry of Magic]]
+*[[Burkinabé Ministry of Magic|Burkina Faso Ministry of Magic]]
+*[[Chinese Ministry of Magic]]
+*[[French Ministry of Magic]]
+*[[German Ministry of Magic]]
+*[[Indian Ministry of Magic]]
+*[[Iranian Ministry of Magic]]
+*[[Japanese Ministry of Magic]]
+*[[Liechtenstein Ministry of Magic]]
+*[[Mongolian Ministry of Magic]]
+*[[Magical Congress of the United States of America]]
+*[[Norwegian Ministry of Magic]]
+*[[New Zealand Ministry of Magic]]
+*[[Pakistani Ministry of Magic]]
+*[[Wizards' Council]]
+
+==Behind the scenes==
+*The British Ministry was the first wizarding government introduced in canon.
+
+==Appearances==
+{{Imagecat|Images of the Ministry of Magic}}
+*{{PS}} {{1st Mention}}
+*{{PS|F}} {{Mention}}
+*{{COS}} {{Mention}}
+*{{COS|F}} {{Mention}}
+*{{COS|G}} {{Mention}}
+*{{POA}} {{Mention}}
+*{{POA|F}} {{Mention}}
+*{{GOF}} {{Mention}}
+*{{GOF|F}} {{Flashback}}
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}} {{Mention}}
+*{{HBP|F}} {{Flashback}}
+*{{HBP|G}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|G2}} {{Comment|Seen in memory}}
+*{{CC}}
+*{{CC|P}}
+*{{COG|S}}
+*{{COG}}
+*{{HPPU}} {{Mention}}
+*{{LEGO|C}} {{Mention}}
+*{{LEGO|Y2}}
+*{{PM}}
+*{{WW}}
+*{{HPK}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+*{{HM}} {{Mention}}
+*{{AM}}
+*{{WU}}
+*[[Harry Potter: The Wand Collection]]
+
+==External links==
+*[http://www.hp-lexicon.org/ministry/ministry-depts.html The HP-Lexicon talks about the various departments in The Ministry of Magic]
+*[http://www.mugglenet.com/ministry.shtml MuggleNet page on The Ministry of Magic]
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Departments}}
+{{Ministry employees}}
+{{Death Eaters}}
+
+[[da:Ministeriet for Magi]]
+[[de:Britisches Zaubereimisterium]]
+[[es:Ministerio Británico de Magia]]
+[[ru:Министерство магии Великобритании]]
+[[fr:Ministère de la Magie]] 
+[[pl:Brytyjskie Ministerstwo Magii]]
+[[pt-br:Ministério da Magia (Grã-Bretanha)]]
+[[sv:Trolldomsministeriet]]
+[[fi:Taikaministeriö]]
+[[nl:Brits Ministerie van Toverkunst]]
+[[no:Det britiske magidepartementet]]
+[[tr:Sihir Bakanlığı]]
+[[uk:Міністерство магії]]
+[[ja:魔法省]]
+[[zh:英国魔法部]]
+[[Category:British Ministry of Magic|Ministry of Magic]]
+[[Category:Death Eater allies]]
+[[Category:Order of the Phoenix allies]]

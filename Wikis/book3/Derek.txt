@@ -1,0 +1,48 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Derek
+|born = c. [[1981]]-[[1982]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Derek''' (born c. [[1982]]) was a [[Wizardkind|student]] who began attending [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1993]]. During his [[first year]], he stayed at [[Hogwarts School of Witchcraft and Wizardry|school]] over the [[Christmas holidays]], and was surprised when [[Albus Dumbledore]] asked him whether he had had any of the [[Chipolata]]s at the [[Christmas]] [[Christmas Feast|feast]]. He blushed deeply at being personally addressed by the [[Headmaster]].<ref name="PA11">{{POA|B|11}}</ref>
+
+==Etymology==
+The name "Derek" is from a Low German form of ''Theodoric''. It was imported to England from the Low Countries in the 15th century.
+
+==Appearances==
+*{{POA}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Derek]]
+[[fr:Derek]]
+[[pl:Derek]]
+[[Category:1980s births]]
+[[Category:British or Irish individuals]]
+[[Category:Males]]
+[[Category:Sorted in 1993]]
+[[Category:Wizards]]

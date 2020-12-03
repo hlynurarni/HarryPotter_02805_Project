@@ -1,0 +1,98 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Uric the Oddball.png|250px]]
+|name = Uric the Oddball
+|born = [[First millennium A.D.|982]] or later<ref name="birthdate">Given Hogwarts was founded in around 993 A.D. and that Uric attended it, he must have been eleven by or after the school's founding. So, the earliest date he could have possibly been born is 982.</ref>
+|died = [[Middle Ages]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = White
+|eyes = Blue
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="pottermore">{{PM}} introduction for Ravenclaws (transcription available [http://www.cosforums.com/showpost.php?s=7ebe5b421c1027e7574608fb87150e67&p=5828119&postcount=783 here])</ref>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+{{Quote|Uric was a strange wizard who lived in ancient times. Among other things, he was famous for wearing a jellyfish as a hat. No one knows if he meant to become the weirdest wizard of the ages or if it just came naturally.|[[Chocolate Frog Card]]|Chocolate Frog Cards}}
+'''Uric the Oddball''' was a [[Middle Ages|medieval]] [[wizardkind|wizard]], who became famous for his eccentric behaviour, such as wearing a [[jellyfish]] as a hat, and sleeping in a room with fifty pet [[Augurey]]s. He is considered to be one of the most unconventional and weirdest wizards in history, and, as such, is often the punchline of [[Wizarding world|wizarding]] jokes.<ref name="pottermore"/>
+
+==Biography==
+===Early life===
+{{Quote|Well, I did say we ''[Ravenclaws]'' produce eccentrics. In fact, we are also the house that gave the wizarding world Uric the Oddball, who used a jellyfish for a hat. He's the punchline of a lot of wizarding jokes.|[[Robert Hilliard]].|Pottermore}}
+Uric was born in the Middle Ages, no earlier than [[First millennium A.D.|982]],<ref name="birthdate"/> somewhere in the [[Great Britain|British Isles]]. In his youth, Uric attended [[Hogwarts School of Witchcraft and Wizardry]], where he was [[Sorting ceremony|Sorted]] into [[Ravenclaw]].<ref name="pottermore"/>
+
+===Adulthood===
+[[File:OddballUSAcard.png|200px|thumb|left|Uric the Oddball in his trademark jellyfish hat]]
+{{Quote|Uric the Oddball is known to have slept in a room containing no fewer than fifty pet Augureys. During one particularly wet winter, Uric became convinced by the moaning of his Augureys that he had died and was now a ghost. His subsequent attempts to walk through the walls of his house resulted in what his biographer Radolphus Pittiman describes as a "concussion of ten days' duration."|[[Newton Scamander]], {{FB}}.|Fantastic Beasts and Where to Find Them (real)}}
+At some point, Uric became famous for wearing a [[jellyfish]] for a hat. This, among other things, is still what Uric is best remembered for.<ref name="PSg">{{PS|G}}</ref>
+
+Uric was known to have slept in a room with fifty pet [[Augurey]]s. The Augurey's distinctive low and throbbing cry was once believed to foretell death, although the bird actually cries at the approach of [[Water|rain]]. On a particularly rainy winter, the moaning of his [[Augurey]]s convinced Uric that he was [[Death|dead]], and had returned as a [[ghost]]. He constantly attempted to walk through the walls of his house, which resulted in a ten-day long concussion.<ref name="FB">{{FB|R}} - ''An A-Z of Fantastic Beasts''</ref>
+
+At one time, Uric the Oddball attempted to prove that the song of the [[Fwooper]] was actually beneficial to one's health. After listening to it for three months without a break, he presented his findings to the [[Wizards' Council]]. The Council was left unconvinced, as Uric arrived at the meeting wearing nothing but a toupee that, on closer inspection, proved to be a dead [[badger]].<ref name="FB"/>
+
+===Death and post-mortem===
+{{Quote|Easily the most boring class was History of Magic, which was the only one taught by a ghost. Professor Binns ''[…]'' droned on and on while they scribbled down names and dates, and got Emeric the Evil and Uric the Oddball mixed up.|Description.|Harry Potter and the Philosopher's Stone}}
+Uric died sometime in the Middle Ages. In honour of his eccentricity, a small biography of him was recorded on a [[Chocolate Frog Card]].<ref name="PSg"/> At some point, [[Radolphus Pittiman]] studied Uric's life, and became his biographer.<ref name="FB"/>
+
+In the [[1989–1990 school year]], Uric the Oddball was the subject of a Sixth-Year History of Magic lecture, and one of the very few delivered by Binns to evoke any interest from the students; [[Charles Weasley]] thought he seemed like a laugh and wanted to meet him, [[Andre Egwu]] respected his dodgy but creative fashion sense, [[Ben Copper]] respected his courage to be whatever he wanted to be, and [[Tulip Karasu]], herself often considered eccentric and chaotic, called him an artist ahead of his times.<ref>{{HM|6|37}}</ref>
+
+In the [[1991-1992 school year]], students of [[History of Magic]] at [[Hogwarts School of Witchcraft and Wizardry]] would scribble down names and dates, and mix up Uric the Oddball with [[Emeric the Evil]], while [[Cuthbert Binns|Professor Binns]] droned on.<ref name="PS8">{{PS|B|8}}</ref>
+
+On [[1 September]], [[1991]], [[Prefect]] [[Robert Hilliard]] welcomed the [[Ravenclaw]] [[first year]]s to [[Ravenclaw Tower]] with a short speech in which he mentioned eccentric Uric the Oddball as one of the many notable Hogwarts students who had been [[Sorting ceremony|Sorted]], like them, into Ravenclaw.<ref name="pottermore"/>
+
+==Appearances==
+{{Imagecat|Images of Uric the Oddball}}
+*{{PS}} {{1st mention}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{FB|R}} {{Mention}}
+*''[[Wizard of the Month]]''
+*{{PM}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Honoria Nutcombe]]
+|position=[[Wizard of the Month]]
+|years=[[September]] [[2004]]
+|successor=[[Glenda Chittock]]
+}}
+{{End box}}
+{{Chocolate Frog Cards}}
+
+[[de:Ulrich der komische Kauz]]
+[[fr:Ulric le Follingue]]
+[[fi:Uric Ihmehyypiö]]
+[[it:Uric Testamatta]]
+[[ru:Урик Странный]]
+[[es:Uric el Chiflado]]
+[[pl:Ulrik Niegodziwy]]
+[[pt-br:Urico, o Esquisitão]]
+[[ja:奇人ウリック]]
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Ravenclaws]]
+[[Category:Wizard of the Month]]
+[[Category:Wizards]]

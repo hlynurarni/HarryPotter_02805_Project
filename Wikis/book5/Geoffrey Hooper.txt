@@ -1,0 +1,58 @@
+{{Individual infobox
+|theme = gryffindor
+|image = 
+|name = Geoffrey Hooper
+|born = c. Pre [[31 August]] [[1983]]<ref>He must have been in at least his first year in 1995.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]
+|loyalty = *Hooper family
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]
+}}
+{{Quote|...Hooper's a real whiner, he's always moaning about something or other...|Angelina Johnson's reasoning for not picking Hooper to join her team|Harry Potter and the Order of the Phoenix}}
+'''Geoffrey Hooper''' is a student who attended [[Hogwarts School of Witchcraft and Wizardry]] and ended up in the [[Gryffindor|Gryffindor House]]. He tried out for the [[Gryffindor]] [[Keeper]] position in [[1995]]. He performed better during his trial than [[Ronald Weasley|Ron Weasley]], but [[Angelina Johnson]] felt that Geoffrey was a whiner and complainer and thus Ron was selected for the position instead.<ref>{{OOTP|B|13}}</ref>
+
+==Etymology==
+The name "Geoffrey" is from a Norman French form of a Germanic name. The second element is Germanic frid "peace", but the first element may be either gawia "territory", walah "stranger" or gisil "hostage".
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Hooper, Geoffrey}}
+
+[[de:Geoffrey Hooper]]
+[[de2:Geoffrey Hooper]]
+[[es:Geoffrey Hooper]]
+[[fr:Geoffrey Hooper]]
+[[nl:Gerard Hoepel]]
+[[pl:Geoffrey Hooper]]
+[[ru:Джеффри Хупер]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

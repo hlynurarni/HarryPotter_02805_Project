@@ -1,0 +1,31 @@
+{{Pet individual infobox
+|image = 
+|name = Snowy
+|born = Pre [[1991]]
+|died = 
+|alias = 
+|title = 
+|species = Part-[[Kneazle]] [[Cat]]
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Arabella Figg]]<ref name="PS2">{{PS|B|2}}</ref>
+}}
+'''Snowy''' was one of [[Arabella Figg]]'s pet [[cat]]s. The other three were [[Mr Tibbles]], [[Mr Paws]] and [[Tufty]]. Whenever [[Harry Potter]] got sent to her house on the [[Dursley family|Dursleys]] orders, she would show him pictures of all her cats, which he did not find terribly entertaining.<ref name="PS2">{{PS|B|2}}</ref> Most likely, they were actually [[Kneazle]]s or part Kneazles.
+
+==Appearances==
+*{{PS}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Snowy]]
+[[fr:Patounet]] 
+[[ru:Снежок]]
+[[pl:Śnieżka]]
+[[Category:Arabella Figg's cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Kneazles]]

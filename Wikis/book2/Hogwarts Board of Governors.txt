@@ -1,0 +1,48 @@
+{{HogwartsMysterySpoiler}}
+{{Organisation infobox
+|bgcolor1 = 
+|bgcolor2 = 
+|image = 
+|name = Hogwarts Board of Governors
+|founder = 
+|founded = 
+|dissolved = 
+|leader = [[Lucius Malfoy]] (former chairman)<ref name="COSG"/>
+|members = 
+|headquarters = 
+|intentions = To govern [[Hogwarts School of Witchcraft and Wizardry]]
+|affiliation = [[Hogwarts School of Witchcraft and Wizardry]]
+|enemies = 
+}}
+The '''Hogwarts Board of Governors''' is a group of twelve [[Wizardkind|wizards]] who oversee the running of [[Hogwarts School of Witchcraft and Wizardry]]. The appointment and [[Order of Suspension|suspension]] of a [[Headmaster]] is up to the governors.<ref name="COS14">{{COS|B|14}}</ref> The Board is obliged to take action if any parent seeks redress on any school-related issue (such as the [[Buckbeak]] attack on [[Draco Malfoy]], in [[September]] [[1993]]).<ref name="POA14">{{POA|B|14}}</ref> They also have the authority to shut down the school entirely if they feel it is necessary.<ref name="HBP19">{{HBP|B|19}}</ref>
+
+==History==
+[[Lucius Malfoy]] was once the chairman of the school governors,<ref name="COSG">{{COS|G}}</ref> but was thrown off the Board in mid-[[1993]] for threatening to [[curse]] the other eleven governors' families if they did not [[Order of Suspension|suspend]] [[Albus Dumbledore]] from the position of [[Headmaster]] of Hogwarts.<ref name="COS18">{{COS|B|18}}</ref> The identities of the current twelve governors are unknown, as are how they are appointed or even the full extent of their authority.
+
+==Known members==
+*[[Lucius Malfoy]] (thrown out as of [[1993]])<ref name="COS18"/>
+
+==Behind the scenes==
+{{Dialogue a-b|Albus Dumbledore|....but as the Ministry has no authority to punish Hogwarts students for misdemeanours at school....|Cornelius Fudge|Laws can be changed.|Albus Dumbledore and Cornelius Fudge|Harry Potter and the Goblet of Fire}}
+*Notably, any discussion of the Board of Governors was absent in relation to the [[British Ministry of Magic|Ministry of Magic]]'s interference in the operation of Hogwarts during {{OOTP}}, most particularly in regard to the temporary installation of [[Dolores Umbridge]] as Headmistress. It seems the Educational Decrees, passed by the Ministry, gave them the authority to override the authority of teachers, the headmaster and possibly the school governors.
+{{Quote|This office is supposed to be barred to all but the rightful headmaster.|[[Phineas Nigellus Black|Phineas Nigellus]]|Harry Potter and the Order of the Phoenix}}
+*The [[Headmaster's office]] did not accept Dolores Umbridge as Headmistress of Hogwarts despite the passage of [[Educational Decree Number Twenty-Eight]] by Cornelius Fudge. Perhaps this was because she was not appointed by the governors.
+*At the ending of {{HBP}}, the professors of Hogwarts agreed that they would need to consult the governors as to whether or not Hogwarts would be allowed to reopen the following year. Any such consultation, however, was likely rendered irrelevant when the Ministry was overthrown by [[Tom Riddle|Voldemort]]'s [[Death Eaters]] and again assumed direct control of the school.
+*Exactly how Voldemort took over the school to appoint [[Severus Snape]] headmaster is currently unknown. He could have coerced the governors as Lucius Malfoy had done to suspend Albus Dumbledore; he could have replaced the governors with Death Eaters; or the Ministry could have appointed him by Educational Decree. In any case, the Headmaster's office accepted him as legitimate, allowing him access and providing him advice. When he essentially abandoned his post during the [[Battle of Hogwarts]] his portrait was not automatically placed there, suggesting he lost legitimacy as headmaster.
+
+==Appearances==
+*{{COS}} {{1st mention}}
+*{{COS|F}} {{Mention}}
+*{{POA}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{TBB|R}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Consejo Escolar de Hogwarts]]
+[[fr:Conseil d'administration de Poudlard]]
+[[pl:Rada Nadzorcza Szkoły Magii i Czarodziejstwa w Hogwarcie]]
+[[pt-br:Conselho de Governadores de Hogwarts]]
+[[ru:Попечительский совет]]
+[[Category:Hogwarts]]
+[[Category:Organisations]]

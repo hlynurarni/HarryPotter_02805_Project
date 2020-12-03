@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mr Creevey
+|born = Before [[1963]] (most likely)
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="COS6"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COS6"/>
+|gender = Male<ref name="COS6"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Colin Creevey]] (son) †<ref name="COS6"/>
+*[[Dennis Creevey]] (son)<ref name="GOF12">{{GOF|B|12}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Milkman<ref name="COS6"/>
+|house = 
+|loyalty = [[Creevey family]]<ref name="COS6"/>
+}}
+{{Quote|My dad's a milkman, he couldn't believe it either...|[[Colin Creevey]]|Harry Potter and the Chamber of Secrets}}
+'''Mr Creevey''' was the father of [[Colin Creevey|Colin]] and [[Dennis Creevey]]. A [[Non-magic people|Muggle]], Mr Creevey was employed as a [[milk]]man, and was astonished to learn that his elder son, Colin, was a [[Wizardkind|wizard]]. Colin sent plenty of photographs home to his father during his [[first year]] at [[Hogwarts School of Witchcraft and Wizardry]] in [[1992]], a high proportion, presumably, of [[Harry Potter]], who was an object of near-worship for young Colin.<ref name="COS6">{{COS|B|6}}</ref>
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+*{{COS|F}} {{Mention}} {{Comment|deleted scene}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Père de Colin et Dennis Crivey]]
+[[pl:Pan Creevey]]
+[[pt-br:Snr Creevey]]
+[[ru:Мистер Криви]]
+[[Category:British individuals|Creevey, Mr]]
+[[Category:Creevey family|Father]]
+[[Category:Males|Creevey, Mr]]
+[[Category:Milkmen]]
+[[Category:Muggles|Creevey, Mr]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]

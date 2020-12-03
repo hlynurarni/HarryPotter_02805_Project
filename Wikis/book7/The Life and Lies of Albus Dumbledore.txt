@@ -1,0 +1,78 @@
+{{WizardsUniteSpoiler}}{{DISPLAYTITLE:''{{PAGENAME}}''}}
+{{Book infobox
+|name = ''The Life and Lies of Albus Dumbledore''
+|image = The Life and Lies of Albus Dumbledore - Mina Lima cover.jpg
+|author = [[Rita Skeeter]]<ref name="DH2"/>
+|translator = 
+|language = 
+|released = July [[1997]]<ref name="DH2"/>
+|publisher = [[The Daily Prophet Press]]<ref name="DHF1">{{DH|F1}}</ref>
+|subject = [[Albus Dumbledore]]<ref name="DH2"/><ref name="DH18"/>
+|copies = *[[Bathilda Bagshot]]<ref name="DH18"/>
+*[[Dolores Umbridge]]<ref name="DH13">{{DH|B|13}}</ref>
+*[[Hermione Granger]] (Bathilda's copy)<ref name="DH18"/>
+}}
+{{Quote|Stripping away the popular image of serene, silver-bearded wisdom, [[Rita Skeeter]] reveals the disturbed childhood, the lawless youth, the lifelong feuds and the guilty secrets Dumbledore carried to his grave.|Description of the book|Harry Potter and the Deathly Hallows}}
+'''''The Life and Lies of Albus Dumbledore''''' is a biography of [[Albus Dumbledore]] that was written by [[Rita Skeeter]].<ref name="DH2">{{DH|B|2}}</ref> Though it ran nine-hundred pages in length, Skeeter completed the book only four weeks after Dumbledore's death in [[June]] [[1997]], meaning that it was probably published in [[July]] of that year.<ref name="DH2"/>
+
+As was her common tendency, Rita swooped down in the immediate wake of a death to ensure that public interest remained high, whilst fully exploiting the legal situation that the dead cannot be libelled.<ref name="DH2"/>
+
+The book was rated with five stars by the ''[[Daily Prophet]]''. Prior to its release, [[Betty Braithwaite]] had visited [[Rita Skeeter's home|Rita's home]] for an interview about the title, and Rita served her [[tea]] and a slice of [[pound cake]]. It is probably because of this "warmth and softness" that Braithwaite's write-up was highly favourable and quite heavily biased in favour of Skeeter.<ref name="DH2"/>
+
+==Contents==
+[[File:DH1_Photo_of_Teenager_Albus_Dumbledore.jpg|246x246px|thumb|left|One of the pages of the book, featuring [[Gellert Grindelwald]]]]
+
+The book contained some controversial, though partially true, revelations about Dumbledore and his [[Dumbledore family|family]], for example, the story of covering up of the "sickness" of Dumbledore's sister [[Ariana Dumbledore|Ariana]]. It also talked about how Dumbledore's [[Percival Dumbledore|father]] was imprisoned in [[Azkaban]] for attacking three [[Non-magic people|Muggles]], and explored Dumbledore's relationship in his younger days with [[Gellert Grindelwald]], who would later become an immensely powerful [[Dark Wizard]], second only to Voldemort, and would be [[Duel between Albus Dumbledore and Gellert Grindelwald|defeated]] in [[1945]] by Dumbledore himself.<ref name="DH18">{{DH|B|18}}</ref>
+
+In a sneak peek in the ''[[Daily Prophet]]'', [[Rita Skeeter|Rita]] says that there is a whole chapter on the [[Albus Dumbledore|Dumbledore]]/[[Harry Potter|Potter]] relationship. In this article, Rita also comments on the speculation that Harry may have been involved with Dumbledore's murder.<ref name="DH2"/>
+
+==Reactions==
+{{Dialogue a-b-a-b-c|Harry Potter|Elphias, I don’t know whether you saw the interview Rita Skeeter gave about Dumbledore?|Elphias Doge|Oh, yes, Harry, I saw it. That woman, or [[vulture]] might be a more accurate term, positively pestered me to talk to her. I am ashamed to say that I became rather rude, called her an interfering trout, which resulted, as you may have seen, in aspersions cast upon my sanity.|Well, in that interview, Rita Skeeter hinted that Professor Dumbledore was involved in the [[Dark Arts]] when he was young.|Don’t believe a word of it! Not a word, Harry! Let nothing tarnish your memories of Albus Dumbledore!|Muriel|Rita Skeeter? Oh, I love her, always read her!|Harry Potter, Elphias Doge and [[Muriel]] discussing the book's controversial contents|Harry Potter and the Deathly Hallows}}[[File:DH1_The_Life_and_Lies_of_Albus_Dumbledore_book_cover.jpg|250x250px|thumb|Back cover of the book, featuring the author [[Rita Skeeter]]]]
+
+Skeeter's book was widely discussed and opinions toward it were polarised. Some people, such as [[Ronald Weasley|Ron]]'s [[Muriel|Auntie Muriel]], praised Skeeter, while others, such as [[Elphias Doge]] and [[Harry Potter]], were furious over Skeeter's conspicuous attempt to impugn Dumbledore's character; Doge went as far as to state that the book "contain[ed] less fact than a [[Chocolate Frog Card]]."<ref name="DH8">{{DH|B|8}}</ref> Harry, though angry, did acknowledge the fact of Dumbledore and Grindelwald having once been friends, based on a copy of the letter Dumbledore wrote being printed inside the book.<ref name="DH18"/>
+
+An article concerning ''The Life and Lies of Albus Dumbledore'' was published in the ''[[Daily Prophet]]'', which was supplemented by an interview with Rita Skeeter about her views on her book. This, of course, was also a promotional piece, as the interview was published before the book was released.<ref name="DH18">{{DH|B|18}}</ref>
+
+==Bathilda Bagshot's copy==
+{{quote|Dear Batty, Thanks for your help. Here's a copy of the book, hope you like it. You said everything, even if you don't remember it. Rita|The note [[Rita Skeeter]] left attached to the copy of the book she sent to Bathilda Bagshot|Harry Potter and the Deathly Hallows}}[[File:Rita's_note.png|245x245px|thumb|left|Rita's note attached to Bathilda's copy]]
+
+Not long after the release of [[Rita Skeeter]]'s book, she had a copy sent to one of her most valuable sources for the most vulgar and interesting lies and half-truths provided, [[Bathilda Bagshot]]. While under the influence of [[Veritaserum]], Bathilda unwittingly provided her with background information of Dumbledore himself, and Grindelwald, her great nephew.<ref name="DH2"/>
+
+Rita had written Bathilda a very cheerful thank you note and had it sent to her, either just before, or at the time that the real Bathilda was killed by Voldemort, and she was taken over by his snake, [[Nagini]].<ref name="DH18"/>
+
+[[File:Hermione reading.jpg|244x244px|thumb|Hermione reading the book]]
+
+During the [[Horcrux hunt|search for Voldemort's Horcruxes]], [[Hermione Granger]] obtained Bathilda Bagshot's copy of the book after [[Harry Potter]] recognised a picture in Bathilda's house of Grindelwald as matching the thief who stole the [[Elder Wand]], having previously seen a similar picture while briefly perusing [[Dolores Umbridge]]'s copy. From this, she and Harry learned of Ariana's mysterious death and Dumbledore's relationship with Grindelwald.<ref name="DH18"/>
+
+This part of the book at least was confirmed to be true by [[Aberforth Dumbledore]], and later by the spirit of [[Albus Dumbledore|Albus]] himself (who explained the background to the fragments Harry had learned), showing that Rita did get at least some of her facts straight, despite not knowing the whole story.<ref name="DH18"/>
+
+==Behind the scenes==
+[[File:The Life and Lies of Albus Dumbledore from Wizards Unite.png|thumb|The book as seen in {{WU}}]]
+*Given the speed at which the book was published in spite of its length, [[Rita Skeeter|the author]] may have had much of it planned and/or compiled pre-mortem. However, it is also possible that this speed of publication is not unusual in the wizarding world, with magic to help it along, possibly with the help of a [[Quick-Quotes Quill]].
+*Ironically, the book title ''The Life and Lies of Albus Dumbledore'' is probably quite accurate since it is a book about Dumbledore's life and there will undoubtedly be lies about it contained in the book.
+*Given [[Betty Braithwaite]]'s heavy bias in her write-up, it is possible that she, like Skeeter, liked gossip and mistrusted Dumbledore.
+*In the [[Harry Potter and the Deathly Hallows|novel]], Muriel indicates that Bagshot has "gone gaga", which Elphias Doge agrees with, and thus does not blame her for anything that she might have said to Skeeter. In {{DH|F1}}, the film adaptation, he describes her having talked with Skeeter as a "monstrous betrayal".
+*The book's cover and title resembles the Gregory Maguire book ''[https://en.wikipedia.org/wiki/Wicked_(Maguire_novel) Wicked: The Life and Times of the Wicked Witch of the West]'' which tells the story of the Wizard of Oz from the Wicked Witch's perspective.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{HPV|CH}} {{Mention}}
+*{{WU}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Life and Lies of Albus Dumbledore, The}}
+[[de:Leben und Lügen des Albus Dumbledore]]
+[[fr:Vie et mensonges d'Albus Dumbledore]]
+[[pl:Życie i Kłamstwa Albusa Dumbledore'a]]
+[[ru:Жизнь и обманы Альбуса Дамблдора]]
+[[pt-br:A Vida e as Mentiras de Alvo Dumbledore]]
+[[Category:Bathilda Bagshot's possessions]]
+[[Category:Biographies]]
+[[Category:Books by Rita Skeeter]]
+[[Category:Conspiracy theories]]
+[[Category:Dolores Umbridge's possessions]]
+[[Category:Foundables]]
+[[Category:Hermione Granger's possessions]]

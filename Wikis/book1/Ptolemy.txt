@@ -1,0 +1,56 @@
+{{HogwartsMysterySpoiler}}
+{{Real world subject}}
+{{Youmay|the famous [[Wizardkind|wizard]]|the [[Ptolemy (potion ingredient)|potion ingredient]]}}{{Individual infobox
+|theme = wizard
+|image = [[File:Ptolemy Pottermore.png|250px]]
+|name = Ptolemy
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Ptolemy''' was a famous [[Wizardkind|wizard]]. He was featured on a [[Chocolate Frog Card]] at some point by [[1989]].<ref>{{HM|?|Scaredy-Cats}}</ref> In [[1991]], his Chocolate Frog Card was one of two that [[Ronald Weasley|Ron Weasley]] had yet to collect (the other being [[Cornelius Agrippa]]).<ref>{{PS|B|6}}</ref>
+
+==Behind the scenes==
+*There are several historical figures who bore the name Ptolemy, the most famous being [[Wikipedia:Claudius Ptolemaeus|Claudius Ptolemaeus]] (c. 90 AD – c. 168 AD), a mathematician, [[Astronomy (class)|astronomer]], geographer, and astrologer who lived in [[Egypt]] while it was under Roman rule. Another famous historic figure was [[Wikipedia:Ptolemy I Soter|Ptolemy I]], who was one of [[Wikipedia:Alexander the Great|Alexander the Great]]'s generals. He was the first Pharaoh of the [[Wikipedia:Ptolemaic dynasty|Ptolemaic dynasty]].
+*Despite being mentioned in the first novel, Ptolemy's [[Chocolate Frog Card]] doesn't appear in any of [[Harry Potter video games|''Harry Potter'' games]]. [[Rowan Khanna]] mentioned obtaining his card.<ref>{{HM|2|Scaredy-Cats}}</ref>
+
+==Etymology==
+The name "Ptolemy" comes from the Greek name Πτολεμαιος (Ptolemaios), derived from Greek πολεμηιος (polemeios) meaning "aggressive" or "warlike".
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{PM}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Claudius Ptolemäus]]
+[[es:Ptolemeo]]
+[[fr:Ptolémée]]
+[[pl:Ptolemeusz]]
+[[ru:Клавдий Птолемей]]
+[[Category:Chocolate Frog Cards|Ptolemy, Claudius]]
+[[Category:Historical figures]]
+[[Category:Males|Ptolemy, Claudius]]
+[[Category:Wizards|Ptolemy, Claudius]]

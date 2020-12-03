@@ -1,0 +1,149 @@
+{{Spoiler|WU|HM}}
+{{Creature infobox
+|image = Vampire Pottermore.png
+|name = 
+|skin = Pale<ref name="HBP15"/>
+|eyes = Black<ref name="IMAGE">Per the infobox image, which comes from {{PM}}.</ref>
+|hair = 
+|feathers = 
+|related = *[[Human]]<ref name="HBP15"/>
+*[[Sasabonsam]]
+|native = *[[Black Forest]]<ref name="CoSG">{{COS|G}} - In [[Gilderoy Lockhart]]'s ''[[Marauding with Monsters]]'', the Black Forest is mentioned to be "vampire-infested".</ref>
+*[[Romania]]
+*[[Transylvania]]
+*[[Great Britain]]
+*[[United States of America]]
+|alias = 
+|height = Tall<ref name="HBP15"/>
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = *Sharp fangs
+*Nocturnal<ref name="SCHOLASTIC">[http://harrypotter.scholastic.com/glossary/ Scholastic Official Site - Glossary] ([https://web.archive.org/web/20180601160251/http://harrypotter.scholastic.com/glossary#vv archived])</ref>
+*[[Blood]]-consuming
+*Allergic to [[garlic]]
+|affiliation = [[Living Dead]]
+|class = [[Being]]<ref name="HBP15"/>
+|status = Extant
+}}
+{{Quote|Evil creature that roams the night feeding on the blood of living beings. Cannot go out in the daylight.|Description|Scholastic}}
+
+A '''vampire''' is a [[Dark Arts|dark]] [[magic]]al [[human]]oid [[being]] that is famed for biting people on the neck and sucking their [[blood]].<ref name="SCHOLASTIC"/> They are part of the family of [[being]]s known as the [[Living Dead]], along with [[Zombie]]s.<ref name="PM">{{PM}} - ''[[The Dark Forces: A Guide to Self-Protection]]''</ref>
+==Physical appearance and biology==
+They are usually pale and gaunt<ref name="HBP15"/> with sharp fangs for puncturing the throats of their victims.
+
+Vampires seem to be able to live much longer than [[Non-magic people|Muggles]]. [[Carmilla Sanguina]] died aged 196, and [[Amarillo Lestoat]] died aged 201. [[Wizardkind]] can reach a similar or even older age, as displayed by wizards such as [[Armando Dippet]] and [[Barry Winkle]].
+
+It is unknown if any of the myths or legends surrounding vampires in the [[Non-magic people|Muggle]] world, such as the concept that they are [[Immortality|immortal]], are accurate about vampires in the [[wizarding world]]. It is unknown what effect, if any, the [[Killing Curse]] would have on a vampire.
+
+==Diet==
+[[File:Pottermore blood lollipop.jpg|thumb|Some blood lollipops]]
+Vampires have a very strong aversion to [[garlic]] and can be kept at bay by its presence.<ref name="PS8">{{PS|B|8}}</ref> They drink [[blood]], though they are apparently also able to eat other foods such as pasties,<ref name="Pasty">{{HBP|B|15}} - “Here, have a pasty,” said Worple, seizing one from a passing elf and stuffing it into Sanguini’s hand before turning his attention back to Harry.</ref> and [[Honeydukes]] is known for selling [[Blood-flavoured lollipop|lollipops that taste like blood]], presumably for vampires to indulge in.<ref name="3FILM">{{POA|F}}</ref> [[Hermione Granger]] is noted for believing this, as revealed when she and [[Ronald Weasley]] visited [[Honeydukes]] in [[Hogsmeade]] in [[1993]].<ref name="POA10">{{POA|B|10}}</ref>
+
+==Vampires in the Wizarding world==
+As Vampires are [[magic]]al [[creature]]s, they therefore live in and are affiliated with the [[Wizarding world]]. There exists a [[Society for the Tolerance of Vampires]],<ref name="DP2">{{DP|N|2}}</ref> which by its given name, must campaign for greater acceptance of vampires and their culture in the magical world, given their seemingly malignant reputation. The wizarding world also set [[Guidelines for the Treatment of Non-Wizard Part-Humans|guidelines]] to prevent exterminating vampires outright.<ref name="gof10">{{GOF|B|10}}</ref>
+
+Vampires are studied in [[First year|first]], [[Second year|second]], and [[Third year|third]] year [[Defence Against the Dark Arts]] classes. This is because vampires, along with similar undead [[creature]]s such as [[Inferius|Inferi]], are considered [[Dark Arts|dark]] creatures due to their presumably highly parasitic and dangerous natures.
+
+==History==
+During the [[1473 Quidditch World Cup]], seven hundred fouls were committed, one of which was the release of a hundred [[vampire bat]]s from beneath the robes of the [[Transylvanian National Quidditch team|Transylvanian Captain]].<ref name="QA8">{{QTA|R|8}}</ref>
+
+The [[Non-magic people|Muggle]] author [[Bram Stoker]] is well known for his [[1897]] Gothic horror novel ''[https://en.wikipedia.org/wiki/Dracula Dracula]'', which features [[Count Dracula]], a fictional character based on the historical vampire [[Vlad Drakul]], the father of [[Vlad the Impaler]].<ref name="POAG">{{POA|G}}</ref>
+
+In a [[1913]] [[Defence Against the Dark Arts]] lesson taught by the then [[Professor]] [[Albus Dumbledore]] at [[Hogwarts School of Witchcraft and Wizardry]], an unidentified student had their [[Boggart]] assume the form of a vampire as their worst fear. When the student cast the [[Boggart-Banishing Spell]] on it, the [[charm]] made the vampire-boggart assume the humorous form of a buck-toothed bunny [[rabbit]].<ref name="COGS69">{{COG|S|69}}</ref>
+
+During the [[1920s]], [[The New York Ghost]] ran an article entitled "Love at First Bite: The Unlikely Tale of a Vampire."<ref>{{FB|F}} (see [[:File:NewYorkGhostExplosion.png|this image]])</ref>
+
+Professor [[Quirinus Quirrell]] claimed to have had an encounter with vampires in the [[Black Forest]] during his break from teaching to get some "hands-on" experience with dealing with the [[Dark Arts]]. Whether this is true, or merely a cover to hide his encounter with [[Tom Riddle|Lord Voldemort]] in Albania, is unclear.<ref name="PS5">{{PS|B|5}}</ref> He decorated the [[Defence Against the Dark Arts]] [[Classroom 3C|classroom]] with gloves of [[garlic]], supposedly in the hopes of warding off a particularly vicious [[Romanian vampire]].<ref name="PS8">{{PS|B|8}}</ref> Quirrell's story about encountering a vampire is in some aspects true, as Voldemort was in a state between life and death at the time, and admits that he was living parasitically off of the professor.<ref name="PS17">{{PS|B|17}}</ref> This included forcing Quirrell drink the blood of [[unicorn]]s from the [[Forbidden Forest]] in order to sustain himself.<ref name="PS15">{{PS|B|15}}</ref>
+
+[[File:VoyagesWithVampires.png|thumb|A cover of ''Voyages with Vampires'']]
+[[Gilderoy Lockhart]] wrote a book titled ''[[Voyages with Vampires]] ''about his supposed encounters with vampires. The book included information on a vampire that, after an encounter with Lockhart, could eat nothing but [[lettuce]].<ref name="COS10">{{COS|B|10}}</ref> As Lockhart merely took credit for other wizards' accomplishments, this encounter likely happened to someone else.<ref name="COS16">{{COS|B|16}}</ref>
+
+During the spring of [[1994]], [[Professor]] [[Remus Lupin]] assigned his third year students to write an essay about vampires, with Neville being confused whether vampires have to eat garlic to have it affect them.<ref>{{POA|B|14}}</ref>  After [[Professor]] [[Remus Lupin|Lupin]] was forced to resign from his position of [[Defence Against the Dark Arts]] teacher when [[Severus Snape|Professor Snape]] revealed that he was a [[werewolf]], [[Dean Thomas]] joked that the class might get a vampire as a teacher next, possibly indicating that vampires and werewolves don't get along in the wizarding world.<ref name="POA22">{{POA|B|22}}</ref>
+
+During the [[1994 Quidditch World Cup]], a [[Wizard who claimed to be a Vampire Hunter|young wizard]] claimed he was a [[Vampire Hunter|Vampire hunter]] to impress several [[Veela]], also stating that he has killed about ninety or so by that point. Such is illegal, according to Paragraph 12 of the [[Guidelines for the Treatment of Non-Wizard Part-Humans]].<ref name="gof10"/>
+
+In a [[Daily Prophet]] article published in the summer of [[1995]], [[Rita Skeeter]] complained that the [[British Ministry of Magic]] employees waste time arguing over [[cauldron]] thickness when they should be "stamping out vampires." [[Percy Weasley]] angrily rejected the criticism and points out that paragraph twelve of the [[Guidelines for the Treatment of Non-Wizard Part-Humans]] clearly forbids such a policy.<ref name="gof10"/>
+
+In [[1995]], [[Rubeus Hagrid]] had a disagreement with a [[Vampire in Minsk|vampire]] in a pub in [[Minsk]] on his way to [[Mission to the Giant colony|parley]] with the [[giant]]s.<ref name=OOTP>{{OOTP|B|20}}</ref>
+
+During his [[History of Magic]] [[Ordinary Wizarding Level|O.W.L.]], [[Harry Potter|Harry]] suspected that his answer to the question how the [[International Statute of Wizarding Secrecy|Statute of Secrecy]] was breached in [[1749]] and what measures were introduced to prevent a recurrence was incomplete. He thought that vampires were involved, but could not remember the details.<ref name="OOTP31">{{OOTP|B|31}}</ref>
+
+[[Eldred Worple]] spent time living among vampires, and wrote a [[Magizoology]] book, ''[[Blood Brothers: My Life Amongst the Vampires]]''. Worple, a friend of [[Horace Slughorn]], took with him a vampire named [[Sanguini]] to the [[Slug Club Christmas party]] at [[Hogwarts School of Witchcraft and Wizardry]] in [[December]] [[1996]].<ref name="HBP15">{{HBP|B|15}}</ref>
+
+[[Luna Lovegood]] believed that [[Rufus Scrimgeour]] was a vampire. [[Xenophilius Lovegood]], her father, wrote a very long article about him for ''[[The Quibbler]]'' after he became [[Minister for Magic]], though according to Luna, the Ministry forced him not to publish it. This was possibly done to prevent the defamation of Scrimgeour, but was taken by the Lovegoods as confirmation of their theory.<ref name="HBP15">{{HBP|B|15}}</ref>
+
+Vampires were among the various magical creatures that threatened the [[International Statute of Wizarding Secrecy]] during the [[Calamity]], which mysteriously affected the [[Wizarding world]] in the [[2010s]]. They appeared as [[Foundable]]s, and their [[Confoundable]] guards had to be overpowered by volunteer [[Wizardkind|wizards and witches]] of the [[Statute of Secrecy Task Force]].<ref name="WU">{{WU}}</ref>
+
+==Known vampires==
+<gallery widths="105" orientation="portrait" spacing="small" position="center">
+AmarilloLestoat.png|[[Amarillo Lestoat]]<ref name="POAG"/>
+BlodwynBludd.jpg|[[Blodwyn Bludd]]<ref name="POAG"/>
+CarmillaSanguina.jpg|[[Carmilla Sanguina]]<ref name="POAG"/>
+LorcanDEath.png|[[Lorcan d'Eath]] {{C|Part-vampire}}<ref name="JKRS">{{JKRS}}</ref>
+Sanguini.png|[[Sanguini]]<ref name="HBP15"/>
+SirHerbertVarney.png|[[Herbert Varney]]<ref name="POAG">{{POA|G}}</ref>
+Count_Vlad_Drakul.jpg|[[Vlad Drakul]]<ref name="POAG"/>
+</gallery>
+*[[Romanian vampire]]
+*[[Vampire in Minsk]]<ref name="OOTP20">{{OOTP|B|20}}</ref>
+
+==See also==
+*[[Blood]]
+*[[Part-vampire]]
+*[[Half-breed]]
+*[[Living Dead]]
+*[[Vampire bat]]
+*[[Zombie]]
+
+==Behind the scenes==
+[[File:VampireWU.png|thumb|A Vampire as depicted in {{WU}}]]
+*Some fans had originally speculated that [[Severus Snape]] was a vampire for various reasons, such as his pale and gaunt physical appearance, and the fact that his robes are always described as bat-like. However, [[J. K. Rowling]] said that this is entirely false.<ref>[http://www.accio-quote.org/articles/2004/0304-wbd.htm Interview with J. K. Rowling] at [[Accio Quote!]]</ref>
+**When playing [[Gobstones]] with [[Rowan Khanna]], [[Jacob's sibling]] has the option to try to distract them by claiming that Snape is a vampire.<ref>{{HM|1|3}}</ref> They can later claim this when [[Rita Skeeter]] asks about secrets.<ref>{{HM|1|Christmas at Hogwarts}}</ref>
+*After [[Professor]] [[Remus Lupin]] was forced to resign from his position of [[Defence Against the Dark Arts]] teacher when [[Severus Snape|Professor Snape]] revealed that he was a [[werewolf]], [[Dean Thomas]] joked that the class might get a vampire as a teacher next.<ref name="POA22">{{POA|B|22}}</ref> This may be a possible allusion to the concept that vampires and werewolves are ancient enemies, as they are often portrayed as fighting and are, therefore, conceptually related.
+*According to [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]], vampire bites may be incurable; this is consistent with the near impossibility of the curing of a werewolf bite during full [[moon]].
+*The breach in the [[International Statute of Wizarding Secrecy]] in [[1749]] involving vampires may be inspired by the real-world work of Benedictine monk {{W|Antoine Augustin Calmet}}, who recorded stories about vampires in western [[Europe]]. He published a treatise that described how to track them down and destroy them. If so, he may be a [[Wizardkind|wizard]] in the [[Harry Potter universe]], since only a wizard could create a breach.
+*J. K. Rowling did not include vampires more prominently in the [[Harry Potter (book series)|''Harry Potter'' series]] because she felt she could add little to the already rich vampire myth and because vampires are from the traditions of Eastern [[Europe]], rather than the [[Great Britain|British]] folklore Rowling primarily drew from.<ref name="PM2">{{WW|vampires}}</ref>
+*As little is known of vampires in [[J. K. Rowling]]'s world, it is unknown if it is possible for a person to be born a vampire or they have to be turned by a bite, much like the [[Werewolf|Werewolves]].
+
+==Appearances==
+{{Imagecat|Images of Vampires}}
+*{{PS}} {{1st Mention}}
+*{{PS|F}} {{Comment|Earlier drafts}}
+*{{COS}} {{Mention}}
+*{{COS|F}} {{Mention}}
+*{{POA}} {{Mention}}
+*{{POA|G}} {{FWC}}
+*{{GOF}} {{Mention}}
+*{{OOTP}} {{Mention}}
+*{{OOTP|F}} {{Mention}}
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+*{{FB|R}}
+*{{FB|F}} {{c|Mentioned on a newspaper}}
+*{{COG|S}} {{Mention}} {{c|Appears as [[Boggart]]}}
+*{{JKRS}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{HM}} {{Mention}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Defence Against the Dark Arts}}
+[[de:Vampire]]
+[[fr:Vampire]]
+[[pl:Wampir]]
+[[pt-br:Vampiro]]
+[[ru:Вампир]]
+[[Category:Blood-related magic]]
+[[Category:Boggart forms]]
+[[Category:Creatures from Germany]]
+[[Category:Creatures from Great Britain]]
+[[Category:Creatures from Romania]]
+[[Category:Creatures from the United States of America]]
+[[Category:Defence Against the Dark Arts]]
+[[Category:Foundables]]
+[[Category:Muggle-known creatures]]
+[[Category:Vampires]]

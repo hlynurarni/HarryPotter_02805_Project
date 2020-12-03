@@ -1,0 +1,61 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = German-speaking woman
+|born = 
+|died = [[1 September]], [[1997]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[German-speaking children|Two children]] †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Family that lived in Gregorovitch's former home|her family]]
+}}
+{{Dialogue a-b-a-b|Voldemort|Gregorovitch? I want Gregorovitch.|German woman|Er wohnt hier nicht mehr! ''[He does not live here anymore!]'' He no live here! He no live here! I know him not!|Where is he?|Das weiß ich nicht! ''[I do not know!]'' He move! I know not, I know not!|[[Tom Riddle|Voldemort]] and the terrified German woman|Harry Potter and the Deathly Hallows}}
+
+This '''unnamed German-speaking woman''' lived with her two young [[German-speaking children|children]] in the former home of the [[wandmaker]] [[Mykew Gregorovitch]], which had high, [[Wikipedia:Timber framing|timber-framed]] gables and was described as looking like a gingerbread house.
+
+==Biography==
+She was described to be laughing and had much humour in her face when she opened the door to her home one day in [[1997]]. However, when she saw [[Tom Riddle|Lord Voldemort]] standing outside, her expression changed rapidly from happiness to terror.<ref name="DH12">{{DH|B|12}}</ref>
+
+When Voldemort came to her door in search of Gregorovitch on [[1 September]], [[1997]], she told him that the wandmaker did not live there, and that she did not know him. She tried to close the door on him, but Voldemort forced his way into the household. The woman tried to shield her two children, but Voldemort nonetheless murdered all of them with the [[Killing Curse]].<ref name="DH12"/>
+
+[[Harry Potter]] was forced to witness the woman's misfortune of meeting with Voldemort due to his connections with the Dark Lord, and felt deeply miserable for the family.<ref name="DH12"/>
+
+==Behind the scenes==
+*Although the woman's fluency in German and the architecture of her home strongly suggest she lived in [[Germany]], she may have lived in another German-speaking region, such as {{wplink|Austria}}, [[Switzerland]], or [[Liechtenstein]]. She might also have lived in a German speaking area or other German-speaking territory in the {{wplink|Czech Republic}}, [[Belgium]], {{wplink|Slovakia}}, [[Hungary]], [[Romania]], {{wplink|Lithuania}}, [[Poland]] or [[Wikipedia:Yugoslavia|former Yugoslavia]], [[France]] or [[Italy]].
+*The way she tried to protect her children is reminiscent of how [[Lily J. Potter|Lily Potter]] tried to protect her son [[Harry Potter|Harry]], although the woman was not given the choice to step aside and save herself.
+*It is unknown if this woman and her family were [[Non-magic people|Muggles]] or [[Wizardkind|witches and wizards]].
+
+==Appearances==
+*{{DH}} {{1st}} {{Vision}}
+
+==Notes and references==
+{{Reflist}}[[es:Mujer alemana]]
+[[Category:1997 deaths]]
+[[Category:Deaths by Killing Curse]]
+[[Category:European individuals]]
+[[Category:Females]]
+[[Category:German family]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Unidentified individuals]]

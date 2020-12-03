@@ -1,0 +1,28 @@
+{{conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Gorilla at the Zoo
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Gorilla]]<ref name="PS2"/>
+|gender = Male<ref name="PS2"/>
+|height = 
+|hair = Black<ref name="PS2"/>
+|feathers = 
+|eyes = Dark<ref name="PS2"/>
+|skin = Black<ref name="PS2"/>
+|family = 
+|loyalty = [[Zoo]]<ref name="PS2"/>
+}}
+{{Quote| ''[...]'' looked like Dudley, except he wasn't blonde.|[[Harry Potter]] compares the gorilla to [[Dudley Dursley|his cousin]]|Harry Potter and the Philosopher's Stone}}
+This male '''[[gorilla]]''' was seen by [[Harry Potter]] and his [[Non-magic people|Muggle]] [[Dursley family|relatives]] at the [[Zoo]] in [[1991]]. Harry described him as looking like a dark-haired [[Dudley Dursley]].<ref name="PS2">{{PS|B|2}}</ref>
+
+==Appearances==
+*{{PS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[pl:Goryl z zoo]]
+[[Category:Gorillas]]
+[[Category:Males]]

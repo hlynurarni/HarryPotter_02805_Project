@@ -1,0 +1,59 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Weasley children's uncle
+|hideb=
+|born=
+|died=
+|blood=[[Pure-Blood]]<ref>Both the [[Weasley family|Weasley]] and [[Prewett family|Prewett]] families are Pure-Blood, meaning he can't be [[Muggle-Born]]</ref>
+|alias=
+|title=
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=*[[Weasley children's cousin|Son]]
+*[[Arthur Weasley]] (brother or brother-in-law)
+*[[Molly Weasley]] (sister or sister-in-law)
+*[[William Weasley|Bill Weasley]] (nephew)
+*[[Charles Weasley|Charlie Weasley]] (nephew)
+*[[Percy Weasley]] (nephew)
+*[[George Weasley]] (nephew)
+*[[Fred Weasley]] (nephew) †
+*[[Ronald Weasley|Ron Weasley]] (nephew)
+*[[Ginevra Weasley|Ginny Weasley]] (niece)
+*[[Weasley family|Many Weasley grandnieces and grandnephews]]  
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=y
+|job=
+|house=
+|loyalty=
+}}
+
+{{Quote|Wandering through the crowd so as to escape a drunken uncle of Ron’s who seemed unsure whether or not Harry was his son...|This uncle at [[Wedding of William Weasley and Fleur Delacour|Bill and Fleur's wedding]]|{{DH}} }}
+
+This '''uncle''' of the [[Weasley family|Weasley children]] got drunk at the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]] on [[1 August]], [[1997]]. He spent part of the wedding wondering whether or not [[Harry Potter]], who was disguised as a red-haired [[Weasley family|Weasley]] cousin, was his son.<ref>{{DH}}: "Wandering through the crowd so as to escape a drunken uncle of Ron’s who seemed unsure whether or not Harry was his son..." (Ch. 8)</ref>
+
+==Behind the scenes==
+*As it is known that [[Arthur Weasley]] had [[Arthur Weasley's brothers|two brothers]] and no sisters,<ref name="JKR">"[http://www.jkrowling.com/textonly/en/extrastuff_view.cfm?id=7 Extra Stuff: The Weasley Family]" at {{JKRS}}</ref> it is widely assumed that the unnamed "uncle of Ron's" mentioned in {{DH}} is one of [[Arthur Weasley|Arthur]]'s brothers, and thus a Weasley. However, since it is unknown whether [[Gideon Prewett|Gideon]] and [[Fabian Prewett]] were [[Molly Weasley]]'s only siblings, it is possible the unnamed uncle was another brother of [[Molly Weasley|Molly]] or the husband of her sister.
+
+==Appearances==
+*{{DH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pl:Wujek dzieci Weasleyów]]
+[[Category:English individuals]]
+[[Category:Males]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

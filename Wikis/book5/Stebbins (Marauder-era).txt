@@ -1,0 +1,34 @@
+{{Individual infobox
+|name = Stebbins
+|born = between [[1 September]] [[1959]] and [[31 August]] [[1960]],<br/>[[Great Britain]] or [[Ireland]]
+|nationality = {{GBorIE}}
+|species = [[Human]]
+|family = *[[Stebbins (1920s)|Stebbins]] (possibly)
+*[[Stebbins (Potter-era)|Stebbins]] (possibly)
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+|theme = wizard
+|hidep = hide
+|hidem = hide
+|hidea = hide
+|affiliation = 
+}}'''Stebbins''' was a [[Wizardkind|wizard or witch]] and student in the same year as the [[Marauders]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="OOTP28">{{OOTP|B|28}}</ref>
+
+==Biography==
+During the [[Ordinary Wizarding Level|O.W.L]] exams, Stebbins refused to stop writing even after the test was finished, and was admonished for it by [[Filius Flitwick|Professor Flitwick]].<ref name="OOTP28">{{OOTP|B|28}}</ref>
+
+==Appearances==
+*{{OOTP}} {{flashback}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de:Stebbins sr.]]
+[[es:Stebbins (era de los Merodeadores)]]
+[[fr:Stebbins (époque de Severus Rogue)]]
+[[zh:斯特宾斯_(1960年代)]]
+[[ru:Мистер Стеббинс]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Sorted in 1971]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,57 @@
+{{Youmay|the fairy tale author|the [[The Tales of Beedle the Bard|book he wrote]]}}
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|image = [[File:Beedle_The_Bard_on_the_cover_of_his_own_tales.jpg|250px]]
+|name = Beedle the Bard
+|born = c. [[15th century]]<br/>[[Yorkshire]], [[England]], [[Great Britain]]
+|nationality = [[England|English]]
+|species = [[Human]]
+|gender = Male
+|skin = White
+|job = Bard
+|theme = wizard
+}}
+{{Quote|If his stories accurately reflect his opinions, he rather liked Muggles, whom he regarded as ignorant rather than malevolent; he mistrusted [[Dark Arts|Dark Magic]], and he believed that the worst excesses of wizardkind sprang from the all-too-human traits of cruelty, apathy or arrogant misapplication of their own talents. The heroes and heroines who triumph in his stories are not those with the most powerful magic, but rather those who demonstrate the most kindness, common sense, and ingenuity.|[[J. K. Rowling (in-universe)|J. K. Rowling]] regarding Beedle|The Tales of Beedle the Bard}}
+
+'''Beedle the Bard''' (fl. [[15th century]])<ref>{{TBB}}, pp. ix, 12</ref> was an [[England|English]] [[Wizardkind|wizard]] and author of wizarding fairytales. Beedle was born in [[Yorkshire]], [[England]]. At some point in his life he wrote {{TBB}}. The only known image of Beedle is a woodcut that shows him with a "luxuriant" beard. Beedle wrote in ancient [[rune]]s, which were later translated to English.
+
+Taking his stories as an indicator of his opinions, he seems to have held [[Non-magic people|Muggles]] in higher esteem than most of his contemporaries. He also valued traits such as: kindness, common sense, and ingenuity.
+
+==Works==
+''The Tales of Beedle the Bard'' consist of at least the following tales:
+*''[[The Wizard and the Hopping Pot]]''
+*''[[The Fountain of Fair Fortune]]''
+*''[[The Warlock's Hairy Heart]]''
+*''[[Babbitty Rabbitty and her Cackling Stump]]''
+*''[[The Tale of the Three Brothers]]''
+
+==Etymology==
+*His name may refer to the medieval Anglo-Saxon historian [[Wikipedia:Bede|Bede]]. His epithet could refer to English playwright [[William Shakespeare]], who is known as "The Bard".
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{DH|F1}} {{Comment|Depicted in a woodcut}}
+*{{DH|G1}} {{Comment|Depicted in a woodcut}}
+*{{LEGO|Y2}} {{Mention}}
+*{{TBB|R}} {{Mention}}
+*{{HPFW}} {{Comment|Depicted in a woodcut}}
+*{{HM}} {{Mention}}
+*[[Harry Potter: The Wand Collection]] {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Tales of Beedle}}
+
+[[de:Beedle der Barde]]
+[[pl:Bard Beedle]]
+[[es:Beedle el Bardo]]
+[[fr:Beedle le Barde]]
+[[fi:Siuntio Silosäe]]
+[[ru:Бард Бидль]]
+[[pt-br:Beedle, o Bardo]]
+[[Category:15th century births]]
+[[Category:Authors]]
+[[Category:English individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

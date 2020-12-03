@@ -1,0 +1,27 @@
+{{Pet individual infobox
+|image = 
+|name = Bungy
+|born = Pre [[1995]]<ref name="OOTP1"/>
+|died = 
+|alias = 
+|title = 
+|species = [[Budgerigar]]<ref name="OOTP1"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[The Five Feathers]]<ref name="OOTP1"/>
+}}'''Bungy''' was a [[budgerigar]] who lived at the [[The Five Feathers]] in [[Barnsley]]. On [[2 August]] of [[1995]], the [[bird]] was featured on a [[television]] news segment reported by [[Mary Dorkins]] on the [[seven o'clock news]] after it learned to water-ski.<ref name="OOTP1">{{OOTP|B|1}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}[[es:Bungy]]
+[[fr:Perry]]
+[[pl:Bujda]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Parrots]]

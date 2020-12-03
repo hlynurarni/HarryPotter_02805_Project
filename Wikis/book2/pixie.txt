@@ -1,0 +1,98 @@
+{{Spoiler|PAS|WU|HM}}
+{{Creature infobox
+|image = [[File:PixieProfile.png|250px]]
+|name = Pixie
+|skin = Electric Blue
+|eyes = Black
+|hair = 
+|feathers = 
+|related = *[[Fairy]]
+*[[Doxy]]
+|native = [[Cornwall]], [[England]] (mostly)
+|alias = 
+|height = Eight inches (about 20 centimetres)
+|length = 
+|wingspan = 8 inches (estimate)
+|mortality = 
+|distinction = Revels in mischief<br/>Blue skin<br/>Antennas<br/>Tridactyl hands
+|affiliation = 
+|class = [[Beast]]<br/>[[XXX]]
+|status = Extant
+}}
+{{Quote|The pixies were electric blue and about eight inches high, with pointed faces and voices so shrill it was like listening to a lot of [[budgerigar|budgie]]s arguing|Description of Cornish Pixies|Harry Potter and the Chamber of Secrets}}
+
+The '''Pixie''' was a small, bright blue, mischief-making [[magic]]al [[beast]].<ref name="FBR">{{FB|R}}</ref>
+
+==Description==
+The pixie was able to fly, and enjoyed lifting people up by their ears and depositing them on the tops of trees and buildings, showing [[Superhuman strength|incredible strength]] for [[creature]]s of their tiny size. It could also steal things. Pixies could only communicate with other pixies; their voices were described as "so shrill it was like listening to a lot of arguing budgies". Pixies made squeak sounds. They bore live young.<ref name="FBR">{{FB|R}}</ref>
+
+==History==
+[[File:Dymphna and a pixie.jpg|thumb|left|Ms Dymphna Furmage being terrorised by Pixies]]
+In [[Cornwall]] in the [[17th century]], [[Dymphna Furmage]], a [[Wizardkind|witch]] on holiday, was abducted by Pixies. This led to a lifelong fear of them, which drove her to request that the [[British Ministry of Magic]] humanely eradicate the pixie species. Her request was declined, and she died in [[1692]].<ref name="PSG">{{PS|G}}</ref><ref name="COSG">{{COS|G}}</ref><ref name="POAG">{{POA|G}}</ref>[[File:Camara-secreta-promocionais_(102).jpg|thumb|Pixies attacking [[Neville Longbottom|Neville]]]]
+
+In [[1992]], [[Gilderoy Lockhart]] brought a group of "freshly caught" Cornish Pixies to [[Hogwarts School of Witchcraft and Wizardry]] during his tenure as [[Defence Against the Dark Arts]] [[Professor]]. Claiming that they were devilishly tricky creatures, he thought they would be perfect for a practical lecture on Defence. He lost control of them, and attempted to round them up using the [[incantation]] ''[[Peskipiksi Pesternomi]]''. This however did not work, as Lockhart most likely fabricated this [[charm]], amongst numerous other things. The Pixies picked up [[Neville Longbottom]] by the ears and attacked other classmates who were trying to whack them with their books, hanging Neville on the ceiling. Lockhart hurried out of the room, asking Harry, Ron, and Hermione to "nip the rest of them back into their cage". [[Hermione Granger]] ended the riot using a [[Freezing Charm]].<ref name="COS6">{{COS|B|6}}</ref> Due to this, [[Ronald Weasley|Ron Weasley]] proclaimed that the only thing he learned from Lockhart was "not to let pixies loose".<ref name="COS14">{{COS|B|14}}</ref>
+[[File:Pixie.JPG|thumb|Cornish Pixies frozen stiff after making havoc]]
+
+During the [[1993–1994 school year]], a [[Pixie water well|water well]] on the grounds of [[Hogwarts School of Witchcraft and Wizardry]] became infested with five swarms of Pixies. [[Harry Potter]], [[Ronald Weasley]] and [[Hermione Granger]] were tasked to clearing out the infestation with use of the [[Tickling Charm]].<ref name="POAG">{{POA|G}}</ref>
+
+During the [[Battle of Hogwarts]] on [[2 May]] [[1998]], [[Harry Potter]] came across a cage containing Cornish Pixies in the [[Room of Requirement]], whilst he was searching for [[Ravenclaw's Diadem]].<ref name="DHF2">{{DH|F2}}</ref>
+
+During the [[Calamity]] in the [[2010s]], several Pixie [[Confoundable]]s starting appearing throughout the [[wizarding world]], guarding many valuable magical artefacts and object [[Foundable]]s, ranging from [[Crystal ball]]s, to [[Vanishing Cabinet]]s and even the [[Hand of Glory]]. Volunteers of the [[Statute of Secrecy Task Force]] were sent to deal with these Pixies with a variety of spells, such as the [[Knockback Jinx]], [[Ebublio Jinx]] and [[Slowing Charm]] to immobilise these Pixies, and allow for the Foundables to be freed and return to their rightful places of belonging.<ref name="WU">{{WU}}</ref>
+
+==Behind the scenes==
+[[File:PixieWU.png|thumb|A Pixie as shown in {{WU}}]]
+*In {{FB}}, the Pixie is said to be able to fly despite being wingless, however in {{COS|FA}} they are clearly shown with wings. This was most likely the result of a design preference of the producers of the film.<ref name="COSF">{{COS|F}}</ref>
+*In ''Fantastic Beasts and Where to Find Them'', the Cornish Pixie is given a [[Ministry of Magic Classification]] of XXX - in [[Harry Potter]]'s own copy, he humourously notes in his annotation that a more suitable classification would be "XXXXXXX if you're [[Gilderoy Lockhart|Lockhart]]."
+*In {{DH|F2}} there is a nest of Pixies in the [[Room of Requirement|Room of Hidden Things]]. They are presumably killed by [[Gregory Goyle|Goyle]]'s [[Fiendfyre]].<ref name="DHF2">{{DH|F2}}</ref>
+*In {{LEGO|Y1}}, you have to hit them twice with the [[Freezing Charm]] the first time freezes them in a bubble, the second hit destroys them.<ref name="LEGO">{{LEGO|Y1}}</ref>
+*In {{HPV|CR}}, [[Jody Revenson]] speculates that [[J. K. Rowling]] may have made pixies blue as a reference to the {{wplink|Picts}}, an ancient Cornish tribe that painted their skin blue, or as a nod to the various other blue things associated with Cornwall, like the [[Wikipedia:Cornish chicken|Cornish Blue rooster]] and [[Wikipedia:Cornish Blue|Cornish Blue cheese]].
+*Twenty Pixie figures will be scattered across the grounds of the [[Hagrid's Magical Creatures Motorbike Adventure]] attraction at {{WWHP}}.
+
+==Appearances==
+{{Imagecat|Images of Pixies}}
+[[File:Pixie_Cage_2.jpg|thumb|Pixies in a cage in {{LEGO|Y1}}]]
+[[File:PixiePlush.jpg|thumb|A Cornish Pixie plush toy, as sold at {{WWHP}}]]
+[[File:PixiePOP.png|thumb|A Pixie as a [[POP! Vinyl]]]]
+*{{PS|G}}
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}} {{Mention}}
+*{{POA|F}} {{C|Mentioned on [[Loony Nonby v.s. Cornish Pixie|comic book]]}} {{C|Appears in flashback in Disc 2}}
+*{{POA|G}}
+*{{OOTP|F}} {{C|Mentioned on [[Loony Nonby v.s. Cornish Pixie|comic book]]}}
+*{{OOTP|G}}
+*{{HBP|F}} {{C|Mentioned on [[Loony Nonby v.s. Cornish Pixie|comic book]]}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{FB|R}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}} {{C|DS version}}
+*{{HPK}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*{{PAS}}
+*''[[Hagrid's Magical Creatures Motorbike Adventure]]''
+
+==Notes and references==
+{{Reflist}}
+{{Creatures by classification}}
+{{Defence Against the Dark Arts}}[[de:Wichtel]]
+[[es:Duende de Cornualles]]
+[[fr:Lutin de Cornouailles]]
+[[ru:Пикси]]
+[[fi:Ilkiö]]
+[[it:Pixie]]
+[[pl:Chochlik kornwalijski]]
+[[pt-br:Diabrete]]
+[[Category:Beasts]]
+[[Category:Confoundables]]
+[[Category:Creatures from England]]
+[[Category:Defence Against the Dark Arts]]
+[[Category:Folio Bruti entries]]
+[[Category:Foundables]]
+[[Category:Muggle-known creatures]]
+[[Category:XXX Creatures]]

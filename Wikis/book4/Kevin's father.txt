@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Kevin's father
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Kevin's mother|Wife]]
+*[[Kevin]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core materials
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Kevin's family]]
+}}
+The '''father''' of [[Kevin]] was a [[Wizardkind|wizard]]. He attended the [[Quidditch World Cup]] final in [[1994]] with his [[Kevin's mother|wife]] and two-year-old son named [[Kevin]], staying in a [[Kevin's family's tent|large, pyramid-shaped tent]]. Early in the morning, his young son got hold of his [[wand]], and played with it outside the family's tent. His wife caught the boy in the act, and, from the way she scolded him, it was apparent that this was not the first time something like this had happened.<ref>{{GOF|B|7}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Père de Kevin]]
+[[pl:Ojciec Kevina]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Kevin's family]]
+[[Category:Males]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

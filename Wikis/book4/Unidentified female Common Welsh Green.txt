@@ -1,0 +1,32 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = Dragon model welsh green 1.jpg
+|name = Unidentified female Common Welsh Green
+|born = Pre [[1994]]
+|died = 
+|alias = 
+|title = 
+|species = [[Dragon]] ([[Common Welsh Green]])
+|gender = Female
+|height = 
+|hair = None
+|feathers = 
+|eyes = Black
+|skin = Green
+|family = 
+|loyalty = 
+}}
+This '''unidentified Common Welsh Green '''was the [[dragon]] that [[Fleur Delacour]] had to get past in the [[Triwizard Tournament|First Task]] of the [[1994]] [[Triwizard Tournament]]. She caught Fleur's skirt on [[fire]] during the task.<ref>{{GOF|B|20}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}} {{Mention}}
+*{{HPV|CR}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Vert gallois du Tournoi des Trois Sorciers]]
+[[Category:Black-eyed individuals]]
+[[Category:Females]]
+[[Category:Triwizard Tournament dragons|Welsh]]
+[[Category:Articles with conjectural titles]]

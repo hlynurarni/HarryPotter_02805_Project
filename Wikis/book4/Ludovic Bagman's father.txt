@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Bagman
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]]<ref name="Blood">While it is unlikely that [[Augustus Rookwood|Rookwood]] would have been a friend of Mr Bagman's had he been [[Muggle-born]], this cannot be considered proof-positive of blood status.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ludovic Bagman]] (son)
+*[[Otto Bagman]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Bagman family]]
+}}
+{{Quote|Old Rookwood was a friend of my dad's... never crossed my mind he was in with You-Know-Who!|[[Ludovic Bagman|Ludo]]|Harry Potter and the Goblet of Fire}}
+
+'''Mr Bagman''' (fl.[[1981]]) was a [[wizardkind|wizard]] and father of [[Ludovic Bagman|Ludo]] and [[Otto Bagman|Otto]]. He was a friend of [[Augustus Rookwood]].<ref name="GOF30">{{GOF|B|30}} - '''Ludo Bagman''': Old Rookwood was a friend of my dad's... never crossed my mind he was in with You-Know-Who!</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bagman, Ludovic's father}}
+
+[[de:Mr Bagman]]
+[[fr:Père de Ludo Verpey]]
+[[pl:Pan Bagman]]
+[[pt-br:Pai de Ludovico Bagman]]
+[[ru:Мистер Бэгмен]]
+[[Category:Bagman family]]
+[[Category:British individuals|Bagman's father]]
+[[Category:Males|Bagman's father]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

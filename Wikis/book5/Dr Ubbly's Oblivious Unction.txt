@@ -1,0 +1,27 @@
+{{Potion infobox
+|name = Dr Ubbly's Oblivious Unction
+|image = 
+|effect = Heals wounds left by negative thoughts<ref name="OOTP38"/>
+|side-effects = 
+|characteristics = 
+|time = 
+|difficulty = 
+|ingredients = 
+|inventor = [[Ubbly|Dr Ubbly]] (presumably)<ref name="OOTP38"/>
+|manufacturer = 
+}}
+{{Quote|According to [[Poppy Pomfrey|Madam Pomfrey]], [[thought]]s could leave deeper scarring than almost anything else, though since she had started applying copious amounts of Dr Ubbly's Oblivious Unction there seemed to have been some improvement.|An example of how the unction heals scarring|Harry Potter and the Order of the Phoenix}}
+'''Dr Ubbly's Oblivious Unction''' was a [[Healing magic|medicinal]] [[potion]] given to [[Ronald Weasley|Ron Weasley]] by [[Poppy Pomfrey]] after he had been attacked by brains in the [[Department of Mysteries]].<ref name="OOTP38"/>
+
+It proved mostly effective in healing the injuries caused by the brains' tentacles and thoughts,<ref name="OOTP38">{{OOTP|B|38}}</ref> though several months later there was still at least some scarring left.<ref name="HBP11">{{HBP|B|11}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[de:Dr Salbaders amnesische Salbe]]
+[[fr:Onguent d'amnésie du Dr Oubbly]]
+[[pl:Maść Niepamięci Doktora Ubbly’ego]]
+[[Category:Antidotes|Oblivious Unction]]
+[[Category:Medical Magic]]
+[[Category:Mental potions]]

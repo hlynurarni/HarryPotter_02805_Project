@@ -1,0 +1,194 @@
+{{HogwartsMysterySpoiler}}
+{{FA}}
+{{Youmay|the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Hogwarts Library|librarian]]|[[Irma Crabbe|Irma Black (née Crabbe)]], a member of the [[House of Black]]}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:PinceProfile.png|250px]]
+|name = Irma Pince
+|born = Pre [[1966]] (most likely)<ref>In {{HM|3}}, Madam Pince remembers James and Lily Potter studying in the library, implying she was the librarian or a student when the Marauders attended Hogwarts, the latest being the 1977 - 1978 school year.</ref>
+|died = 
+|blood = 
+|marital = Single<ref> if she ''was'' in a relationship with Filch, as was suspected by some students and suggested in ''The White Tomb'' chapter of {{DH}}, then it would be highly unlikely that she was married.</ref> {{c|possibly}}
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Madam]]<ref name="PS12">{{PS|B|12}}</ref>
+*[[Hogwarts Librarian|Librarian]]<ref name="PS12" />
+|signature = 
+|species = [[Human]]<ref name="PS12" />
+|gender = Female<ref name="PS12" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Like parchment<ref>{{HBP|B|15}} - "They waited, and a moment later the vulturelike countenance of Madam Pince appeared around the corner, her sunken cheeks, her skin like parchment, and her long hooked nose illuminated unflatteringly by the lamp she was carrying."</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = [[Irma Pince's wand|Unknown length, wood and core]]<ref name="wand">{{OOTP|B|29}} - "And whipping out her wand, she caused Harry’s books, bag, and ink bottle to chase him and Ginny from the library, whacking them repeatedly over the head as they ran."</ref>
+|patronus = Non-corporeal<ref name="LEGOY1"/>
+|job = *[[Hogwarts Library|Librarian]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]<ref name="PS12" /> (pre [[1991]] - ?)
+*[[Study Hall]] overseer<ref name="CSf36">{{COS|F|36}} (''Welcome Back'')</ref> (pre [[1993]] - ?)
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="PS12" />
+**[[Hogwarts Library]]<ref name="PS12" />
+}}
+{{Quote|A warning: If you rip, tear, shred, bend, fold, deface, disfigure, smear, smudge, throw, drop, or in any other manner damage, mistreat, or show lack of respect towards this book, the consequences will be as awful as it is within my power to make them.|Pince's note in a library book|Quidditch Through the Ages (real)}}
+
+'''Madam Irma Pince''' (fl. [[1971]] – [[1997]]) was a [[Wizardkind|witch]] and [[Hogwarts Library|librarian]] at the [[Hogwarts Library|library]] of [[Hogwarts School of Witchcraft and Wizardry]]. She was highly possessive and protective of the school's books and was deemed highly unpleasant by most of the student body. 
+==Biography==
+===Early life===
+Irma Pince was born a [[Wizardkind|witch]] sometime in or prior to [[1974]] and presumably purchased her [[wand]] prior to attending school. She likely attended [[Hogwarts School of Witchcraft and Wizardry]] and proceeded with her studies into the [[magic]] arts until at least her [[sixth year]], since she could perform intricate [[Non-verbal spell|non-verbal magic]],<ref name="OP29">{{OOTP|B|29}}</ref> was able to place powerful and unpleasant [[jinx]]es and [[hex]]es on objects<ref name="QTAforeword">{{QTA|R}} - ''Foreword''</ref> and could effectively remove a [[curse]] from a student by administering the correct [[counter-curse]].<ref name="PSgbc">{{PS|G}} - GBC version</ref> 
+
+===Career at Hogwarts===
+====Earlier career====
+{{Quote|Quiet! I'll tell Madam Pince!|A student to a noisy classmate in [[Hogwarts Library|the library]]|Harry Potter and the Order of the Phoenix (video game)}}
+[[File:MadamPinceDesk2.png|220x220px|thumb|left|Madam Pince standing by her [[Irma Pince's desk|desk]] in the library, overseeing studying students]]
+At some point in or before [[1974]],<ref name="HM">{{HM}}</ref> Pince took up the position of Librarian at [[Hogwarts School of Witchcraft and Wizardry]]. She was greatly disliked by the students for being very strict and unhelpful in finding books for them.<ref name="PS12" /> An example of her strictness was the fact that she would not allow food in the library, for fear that the books would be damaged,<ref name="OP29" /> and also disallowed talking, laughing, whispering, sneezing, scurrying, or any other behaviour that might seem at all suspicious in any way. She was also known to place odd jinxes and hexes on library books for their protection; for instance, one copy of ''[[Theories of Transubstantial Transfiguration]]'', on top of the usual library book spells, was jinxed to hit the reader around the head, should he ever doodle on it.<ref name="QTAforeword" /> Pince cleaned the dust on the shelves of the library manually, with a feather duster she brandished at students whenever they looked suspicious.<ref name="PS12" /> 
+
+At some point, the [[Headmaster]], [[Albus Dumbledore]], visited the library with the goal of publishing {{QTA}} for [[Non-magic people|Muggle]]s to raise money. However, Madam Pince was extremely reluctant to let the book leave the confines of the library, as well as the wizarding world, and Dumbledore had to pry each of her fingers from the spine to take it.<ref name="QTAforeword" /> Once he had taken the book, she wrote a warning, threatening the readers that the consequences of mistreating the book would be as horrible as it was in her power to make them.<ref>{{QTA|R}} - Page i</ref>
+
+====[[1991–1992 school year]]====
+{{Dialogue a-b-a|Madam Pince|What are you looking for, boy?|Harry Potter|Nothing.|You'd better get out, then. Go on — out!|Madam Pince catches [[Harry Potter]] edging towards the Restricted Section|Harry Potter and the Philosopher's Stone}}
+
+[[File:Pince and Snape.jpg|235x235px|thumb|[[Severus Snape]] and Madam Pince at the End-of-Term Feast]]
+
+Madam Pince was still librarian by the time Harry Potter had arrived at the school. As Harry, along with his friends [[Ronald Weasley]] and [[Hermione Granger]], searched the library for a book on [[Nicolas Flamel]], Pince was deemed an obstacle, as she could warn Snape of their activities.<ref name="PS12" /> Once, in December 1991, she saw Harry edging towards the [[Restricted Section]] of the [[Hogwarts Library|Library]] and asked him what he was looking for. When he answered "nothing" for fear of her suspicion, she sent him out.<ref name="PS12" />
+
+====[[1992–1993 school year]]====
+{{Quote|Madam Pince held the note up to the light, as though determined to detect a forgery, but it passed the test.|Madam Pince examining Hermione Granger's note|Harry Potter and the Chamber of Secrets}}
+
+[[File:Pince cos.jpg|250x250px|thumb|left|Madam Pince among the crowd of students observing the the Heir of Slytherin's message]]
+
+On the next school year, Madam Pince was among the crowd who, on [[31 October]], [[1992]], read the [[Tom Riddle|Heir of Slytherin's]] message on the second-floor corridor of the [[Hogwarts Castle|Castle]].<ref name="CSf13">{{COS|F}} - Chapter 13 (''Writing on the Wall'')</ref>
+
+A while later, Madam Pince overlooked the students at [[Study Hall]] and was seen talking to a female student.<ref>{{COS|F}}.</ref>It is unknown if this was a regular event that she chaperoned, or if it was a one-time event.
+
+Later, Hermione Granger arrived at the library with a note written by the new [[Defence Against the Dark Arts]] [[Professor|teacher]] allowing her to attain ''[[Moste Potente Potions]]'' from the [[Restricted Section]]. She gave it to Madam Pince, albeit reluctantly, wanting to keep Lockhart's autograph, and Pince did a very long observation of the note, checking for forgery. She then went into the Restricted Section and handed over the book, despite still being very suspicious.<ref name="CS10">{{COS|B|10}}</ref>
+
+Pince attended the [[Gryffindor Quidditch team|Gryffindor]] vs [[Slytherin Quidditch team|Slytherin]] match. She was shocked to see that [[Draco Malfoy]] was hurt.<ref name="CSf15">{{COS|F}} - Chapter 15 (''The Rogue Bludger'')</ref>
+
+Madam Pince attended the End-of-Term Feast at the end of the school year, in which she sat by the [[Potions Master]], [[Severus Snape]]. She celebrated the downfall of [[Salazar Slytherin's Basilisk]] and the departure of the less-than-liked [[Gilderoy Lockhart]].<ref name="CSf36" />
+
+====[[1995–1996 school year]]====
+{{Quote|Chocolate in the library! Out — ''out'' — OUT!|Madam Pince catches [[Harry Potter]] and Ginny Weasley eating an Easter egg in the library|Harry Potter and the Order of the Phoenix}}[[File:Irma and employee.png|230x230px|thumb|Pince watching a [[Quidditch]] match with her colleague]]
+
+During the next school year, Madam Pince kept her usual routine of prowling around the library, breathing down the necks of those touching the books.<ref name="OP24">{{OOTP|B|24}}</ref> Early in 1995, [[Dolores Umbridge]] was made [[Hogwarts High Inquisitor|High Inquisitor of Hogwarts]].<ref name="OP15">{{OOTP|B|15}}</ref>
+
+During the Easter holidays, she was seen stamping out a pile of books for a frantic-looking [[Hannah Abbott]], who was presumably revising for her [[Ordinary Wizarding Level|O.W.L.s]]. That day, she found Ginny Weasley and Harry Potter with chocolate in the library and bewitched their belongings to chase them out, also whacking them over the head for good measure.<ref name="OP29" />
+
+====[[1996–1997 school year]]====
+{{Dialogue a-b-a-b|Madam Pince|The library is now closed. Mind that you return anything you have borrowed to the correct — ''what have you been doing to that book, you depraved boy?''|Harry Potter|It isn't the library's, it's mine!|Despoiled! Desecrated! Befouled!|It's just a book that's been written on!|Madam Pince's horrified reaction upon seeing Severus Snape's copy of Advanced Potion-Making|Harry Potter and the Half-Blood Prince}}
+
+Madam Pince remained at the library for the next school year, prowling around the bookshelves and protecting her tomes.<ref name="HBP15"/>
+
+[[File:Snapshot20111007133441.PNG|230x230px|thumb|left|Irma Pince, [[Severus Snape]], and [[Filius Flitwick]] in the Great Hall]] 
+
+At eight o'clock in the evening one day, Pince closed the library and told all of the students in there to return the books back to their shelves and to leave. When she told Harry and Hermione to leave, she noticed [[Severus Snape's copy of Advanced Potion-Making|the Half-Blood Prince's highly graffitied copy]] of ''[[Advanced Potion-Making]]''. Enraged, she screamed about how the book was "despoiled" and "befouled", and looked as if she may have a seizure.<ref name="HBP15">{{HBP|B|15}}</ref>
+
+After the death of [[Albus Dumbledore]], Madam Pince was seen prior to [[Funeral of Albus Dumbledore|the funeral]] in the [[Entrance Hall]], standing by [[Argus Filch]] and wearing a thick black veil that fell to her knees. It is likely she attended the [[Funeral of Albus Dumbledore|funeral]], as she was one of Dumbledore's colleagues.<ref name="HBP30">{{HBP|B|30}}</ref>
+
+====[[1997–1998 school year]]====
+[[File:Voldemort vanquished.png|251x251px|thumb|[[Harry Potter]]'s final defeat of Lord Voldemort and the end of the Second Wizarding War]]
+The following year, Severus Snape was appointed [[Headmaster]] along with fellow Death Eaters [[Amycus Carrow|Amycus]] and [[Alecto Carrow]] as professors of [[Dark Arts (class)|Dark Arts]] and [[Muggle Studies]] at Hogwarts. The Carrows imposed a reign of terror in Hogwarts as they enforced cruel punishments on students. Madam Pince, like the other members of the staff, protected the students from the Carrows. On 2 May, 1998, [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] was attacked by the [[Death Eaters]] and [[Tom Riddle|Lord Voldemort]]'s forces and the faculty rose to defend it, Madam Pince most likely included.<ref name="DH31">{{DH|B|31}}</ref> She survived the battle and continued to work for the school.
+
+===Later life===
+Having diligently carried out the duties of her office for more than twenty years following the battle, Madam Pince was still working at Hogwarts during the [[2010s]]. During the [[2019–2020 school year]], a member from the then recently established [[Statute of Secrecy Task Force]] pursuing a career as a [[Professor]] eventually joined their faculty. When said staff member later sought to improve their ability to fend off the [[Dark Arts|Dark Forces]], Madam Pince would repeatably grant them access to the [[Restricted Section]] of the library so they could peruse its shelves for books on the subject.<ref name="WU1">{{WU}} (See [https://wizardsunite.gamepress.gg/reference/professor-profession-skill-tree here])</ref> She was later handed a hand-written manuscript by the famous [[Catullus Spangle]] by the newcomer, which presumably found its allotted place in the library thereafter, and she would sometimes recommend them certain reading material.<ref name="WU2">{{WU}} (See [https://wizardsunitehub.info/profession-skill/pronunciation-proclamation/ here])</ref>
+
+==Physical description==
+{{Quote|They waited, and not a moment later the vulturelike countenance of Madam Pince appeared around the corner, her sunken cheeks, her skin like parchment, and her long hooked nose... |Description|Harry Potter and the Half-Blood Prince}}
+[[File:Pince.PNG|thumb|right|Madam Irma Pince]]
+One of Madam Pince's most striking physical attributes was looking like an underfed vulture.<ref name="CS10" /> Her skin was parchment-like,<ref name="HBP15" /> her cheeks were sunken,<ref name="HBP15" /> her face was shrivelled<ref name="OP29" /> and she had an unflattering hooked-nose.<ref name="HBP15" /> She was also very thin and irritable-looking.<ref name="CS10" />
+
+==Personality and traits==
+{{Quote| ''WHAT DO YOU THINK YOU'RE DOING''?|Pince catches students eating in the library|Harry Potter and the Order of the Phoenix}}
+
+Madam Pince was a short-tempered woman who was overly protective of the [[Hogwarts Library|Library's]] books<ref name="CS10" /> and, as such, quite unpopular among students. She was mainly seen by students as an obstacle to research,<ref name="PS12" /> but she was professional nonetheless, helping students to check out books and by finding information for them.<ref name="OP29" /> While she did not appear to be overtly fond of the students, she did not, unlike [[Argus Filch]], appear to outright dislike them either, being strict but by no means demeaning or unpleasant, and only got genuinely angry when they failed to respect the sanctity of the school library by eating there, or by mistreating the books. Her protective nature of books did not just apply to the library's, as she looked deranged when she saw Harry's own textbook covered with self-written notes.<ref name="HBP15" /> Likewise, she would not permit students eating in the library, and chased out anyone who violated this rule.<ref name="OP29" />
+
+While stern bordering on the extreme, she was fully capable of appreciating students who ''did'' respect the rules, behaved prudently and showed an interest in learning and reading. When she overheard [[Jacob's sibling]] confide in his friends while visiting the library that the attack on [[James Potter I|James]] and [[Lily J. Potter|Lily Potter]] was one of the reasons that Boggarts turned into Lord Voldemort, Madam Pince walked over and explained that she remembered the fondly, and told how they often used to sit on a specific spot in the library and study together, before awarding 20 points for helping to keep the memory of the Potters alive by talking about them. She later informed said student that she had also quite liked [[Jacob (Hogwarts student)|Jacob]] himself when he was a student, as he had always been well-behaved in the library and treated the books with respect.<ref name="HM" />
+
+Also, despite her forceful insistence for the library to be silent, she was a huge fan of the [[Frog Choir]].<ref name="HM3 Frog Choir">{{HM|3|The Frog Choir}}</ref>
+
+==Magical abilities and skills==
+{{Quote|And whipping out her wand, she caused Harry’s books, bag, and ink bottle to chase him and Ginny from the library, whacking them repeatedly over the head as they ran.|Madam Pince jinxing Harry Potter's belongings|Harry Potter and the Order of the Phoenix}}
+*'''[[Dark Arts]]''': Madam Pince was skilled with [[jinx]]ing and [[hex]]ing books with nasty spells to make sure they were not mistreated, at least not without punishment for doing so.<ref name="QTAforeword" /> She also jinxed [[Harry Potter|Harry's]] belongings to chase him and [[Ginevra Weasley|Ginny]] out of the library.<ref name="OP29" />
+*'''[[Defence Against the Dark Arts]]''': Madam Pince was able to [[Counter-curse for Curse of the Bogies|lift]] the [[Curse of the Bogies]] with ease, showing her to have been skilled with the casting of [[counter-curse]]s.<ref name="PSgbc" /> It is also highly likely that, as a member of Hogwarts staff, that she participated and fought in the [[Battle of Hogwarts]] on [[2 May]], [[1998]], meaning she was likely a reasonably fierce and competent [[Duelling|duellist]]. 
+*'''[[Non-verbal magic]]''': Madam Pince was also adept in casting intricate non-verbal magic with her wand. One example was when she saw Harry and Ginny with chocolate in the library, she jinxed their possessions to chase them out without any mention of a spoken incantation.<ref name="OP29" /> This implies she was a highly skilled and powerful [[Wizardkind|witch]], as casting non-verbal spells is extremely difficult and advanced. 
+*'''[[Charm]]s''': Madam Pince could also produce a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOY1"/> a mark of superior [[magic]]al ability, given the immense difficulty of casting the charm. 
+*'''[[Study of Ancient Runes]]''': Madam Pince was very well versed and knowledgeable in the study of Runology, being able to understand and translate complex [[Rune|runic]] scriptures, alphabets and symbols correctly with the help of a highly useful and practical [[Rune Dictionary]].<ref name="LEGOY1"/><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+*'''Librarian skills''': As a librarian, Madam Pince was able to easily locate various pieces of information and books for students, as Harry was sure that she would be able to find information about [[Nicolas Flamel]] in a second, but thought it might be too suspicious to ask her about it.<ref name="PS12" />
+*'''Loquaciousness''': Pince was very loquacious and voluble in her speech.<ref name="COS PS2">{{COS|G}} - PS2 version</ref> She was also fluent in [[Latin]], showing her to have been multilingual, a very impressive and intellectual talent.<ref name="COS PS2" />
+
+==Possessions==
+*'''[[Irma Pince's wand|Wand]]''': Madam Pince's [[wand]] was of an unknown length, [[Wand wood|wood]] and [[Wand core|core]] material.<ref name="wand"/>
+*'''[[Desk of the Hogwarts Librarian|Desk]]''': Madam Pince owned a desk reserved for herself in the [[Hogwarts Library]], where she did her administrative work.<ref name="HM"/>
+*'''[[Rune Dictionary]]''': Madam Pince owned a highly practical and useful [[rune]] dictionary, which she used to help her read and understand complex ancient runes.<ref name="LEGOY2"/>
+
+==Relationships==
+===Argus Filch===
+[[File:Filch-GOF.jpg|thumb|Argus Filch, the caretaker]]
+It was commonly believed by Hogwarts students — including Ginny Weasley — that Madam Pince had a romantic attraction or even relationship with the [[Hogwarts Caretaker|caretaker]] of [[Hogwarts Castle]], [[Argus Filch]], probably due to her ill-tempered and severe personality.<ref name="HBP15"/>
+
+Before [[Albus Dumbledore|Professor Dumbledore]]'s [[funeral of Albus Dumbledore|funeral]] by the [[Great Lake]], Pince was seen in a long veil standing by Filch. This did not go unnoticed by [[Harry Potter]].<ref name="HBP30"/>
+
+==Author's notes==
+"''I would like to apologise for you and any other librarians present here today and my get-out clause is always if they'd had a pleasant, helpful librarian, half my plots would be gone. 'Cause the answer invariably is in a book, but Hermione has to go and find it. If they'd had a good librarian, that would have been that problem solved. So ... sorry''."
+
+"''She sprang directly from my childhood fear of scary librarians. The kind who hate kids.''"<ref>[https://twitter.com/jk_rowling/status/614141084034318336 .@nancy_whiskey @OrkneyLibrary You're so wrong. She sprang directly from my childhood fear of scary librarians. The kind who hate kids.] by [https://twitter.com/jk_rowling J.K. Rowling on Twitter]</ref>
+
+==Etymology==
+*Irma could be a play on ''firma'', which can mean both solid and frail. This makes her name mean something along the lines of "a frail woman with a pinched nose", or one who has a "firm pinch". Irma could also mean "the strong" or "she who is protected by Irm" (Irm is a Germanic god). Irma is from German irmen for "whole" or "complete". "Firma" also means "signature" in Spanish, which may or may not be a play of words about signed library cards.
+*The last name ''Pince'' seems to be in reference to the French word, which means "to pinch". The style of folding eyeglass, ''pince-nez'', literally means "to pinch the nose".
+
+==Behind the scenes==
+[[File:Sally_mortemore-pince.png|thumb|[[Sally Mortemore]] as Madam Pince]]
+[[File:Screenshot 808.png|99x99px|thumb]]
+*Pince is portrayed by [[Great Britain|British]] actress [[Sally Mortemore]] in {{COS|FA}}. Mortemore would return over a decade later to provide snippets of dialogue for the character in ''Hogwarts Mystery''.
+*In the [[Harry Potter and the Chamber of Secrets (film)|film]], she appears briefly; sitting next to [[Severus Snape]] during the [[End-of-Term Feast]] and can be seen in the background of several other scenes.
+*For various reasons, such as that Pince has a hooked nose and dark hair like [[Severus Snape|Severus]], that her name is an anagram for "I am Prince", and that she is a rude and somewhat snappy personality like Snape, it is rumoured that Irma Pince is actually [[Eileen Prince]] in hiding, though this has not been confirmed.
+*In the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptation]] of {{PS}}, Madam Pince is seen awarding house points. She never does so in the [[Harry Potter (book series)|books]].
+*In the [[Harry Potter and the Chamber of Secrets (video game)|video game adaptation]] of {{COS}}, Madam Pince appears to have red hair, rather than black.
+*Despite the fact she appears to be old in the books and videogames, Sally Mortemore was 41 at the time of filming, and no notable effort was made to make her character appear older.
+*The Game Boy Color versions of the video games depict Pince as a helpful old woman with very thick glasses.
+*Irma Pince can produce a non-corporeal Patronus Charm in {{LEGO|Y1}}, but oddly enough she is unable to cast it in the sequel {{LEGO|Y2}}, despite her character being the same in both games. This was most likely a mistake made by the developers in the latter.
+
+==Appearances==
+{{Imagecat|Images of Irma Pince}}
+[[File:Irma_Pince_Lego.PNG|122px|thumb|right|Irma Pince in {{LEGO|Y1}}]]
+*{{PS}} {{1st}}
+*{{PS|G}} {{Comment|GBC and GBA versions only}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}} {{Comment|GBC and PS2 versions only}}
+*{{POA|G}} {{Mention}}
+*{{GOF}}
+*{{OOTP}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}}
+*{{QTA|R}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{PM}}
+*{{WW}} {{Mention}}
+*{{TCG}}
+*{{HM}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Staff}}
+{{DEFAULTSORT:Pince, Irma}}
+
+[[de:Irma Pince]]
+[[es:Irma Pince]]
+[[fr:Irma Pince]]
+[[it:Irma Pince]]
+[[pl:Irma Pince]]
+[[ru:Ирма Пинс]]
+[[uk:Ірма Пінс]][[no:Irma Knipe]]
+[[ja:イルマ・ピンス]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hogwarts employees]]
+[[Category:Hogwarts Library]]
+[[Category:Wizards]]

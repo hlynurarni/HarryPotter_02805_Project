@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Dirk Cresswell's friends
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DH13"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]s<ref name="DH13"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Dirk Cresswell]]<ref name="DH13"/>
+}}
+{{Quote|...[[Dirk Cresswell]] is ten times the wizard you are. And if he survives [[Azkaban]], you’ll have to answer to him, not to mention his [[Dirk Cresswell's wife|wife]], his [[Cresswell brothers|sons]], and his friends...|[[Arthur Weasley]] confronts [[Albert Runcorn]] (actually [[Harry Potter]] in disguise)|Harry Potter and the Deathly Hallows}}
+These '''individuals''' were friends of [[Dirk Cresswell]]. It is unknown whether they are known by name, or what happened to them.<ref name="DH13">{{DH|B|13}}</ref>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Cresswell, Dirk friends}}
+[[Category:British individuals|Cresswell's friends]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

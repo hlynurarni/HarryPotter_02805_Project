@@ -1,0 +1,394 @@
+{{WizardsUniteSpoiler}}
+{{FA}}
+{{Object infobox
+|name = Horcrux
+|image = [[File:The Horcruxex.png]]
+|location = Worldwide<ref name="HBP23"/>
+|manufacturer = *[[Herpo the Foul]]<ref name="Herpo">[http://www.accio-quote.org/articles/2007/1217-pottercast-anelli.html Anelli, Melissa, John Noe and Sue Upton. "PotterCast Interviews J.K. Rowling, part one." PotterCast #130, 17 December 2007]</ref>
+*[[Tom Riddle]]<ref name="HBP23"/>
+|made = *[[Greece|Ancient Greece]] ([[Herpo the Foul]])<ref name="Herpo"/>
+*[[1943]]–[[1994]] ([[Tom Riddle]])<ref name="HBP23"/>
+|usage = To contain fragments of one's [[soul]] and prevent their [[death]]<ref name="HBP23"/>
+|owners = *[[Herpo the Foul]]<ref name="Herpo"/>
+*[[Tom Riddle]]<ref name="HBP23"/>
+}}
+{{Quote|Of the Horcrux, wickedest of magical inventions, we shall not speak nor give direction —|''[[Magick Moste Evile]]''|Harry Potter and the Half-Blood Prince}}
+A '''Horcrux''' was an object in which a [[Dark Wizard|Dark wizard or witch]] has hidden a fragment of his or her [[soul]] in order to become [[immortality|immortal]].<ref>[http://www.hp-lexicon.org/magic/devices/horcruxes.html JKR diary entry, 29 September, 2006]</ref> Horcruxes could only be created after committing murder, the supreme act of evil. The process for the creation of a Horcrux involved [[Horcrux-making spell|a spell]] and a horrific act is performed soon after the murder has been committed. Given that Horcruxes were precious to those who made them, there were usually protective measures made to prevent them from being stolen or destroyed, such as [[Counter-charm|Counter-Charms]] and [[curse]]s. The Horcrux was considered to be the darkest art and the most terrible of all [[Dark Arts|dark magic]].<ref name="HBP23">{{HBP|B|23}}</ref>
+
+==Origins==
+The [[Herpo the Foul's Horcrux|first known Horcrux]] was created by [[Herpo the Foul]] in [[B.C. era|Ancient]] [[Greece]]. The only other known creator of a Horcrux was [[Tom Riddle|Lord Voldemort]], who was likely the only person to have successfully created more than one Horcrux.<ref name="Pottercast"/>
+
+The nature and concepts of Horcruxes were so terrible, they were kept secret from most of the [[wizarding world]], and very few people were ever made aware of their nature. [[Hogwarts School of Witchcraft and Wizardry]] banned any study of the subject of Horcruxes; [[Albus Dumbledore]] was particularly adamant in enforcing this rule.<ref name="HBP23"/>
+
+Very few books, even those revolving around the Dark Arts, would mention Horcruxes even in the slightest detail: ''[[Magick Moste Evile]]'', a book that contained much information of advanced dark arts, barely skimmed the subject of Horcruxes as a subject so evil that it should not be spoken of, showing that even some Dark Wizards were horrified by them. In fact, only one known book, ''[[Secrets of the Darkest Art]]'', had detailed information on the method and consequences of creating a Horcrux. No document in existence has information regarding a single individual creating multiple Horcruxes, as no wizard before Voldemort even thought of attempting such a feat; he only dared to when he asked the experienced [[Horace Slughorn]] for an expert opinion, under the guise of creating more than one Horcrux in theory.<ref name="HBP23"/>
+
+==Nature and creation==
+{{Quote|A Horcrux is the word used for an object in which a person has concealed part of their soul... Well, you split your soul, you see, and hide part of it in an object outside the body. Then, even if one's body is attacked or destroyed, one cannot die, for part of the soul remains earthbound and undamaged.|The nature of Horcruxes|Harry Potter and the Half-Blood Prince}}[[File:Secrets of the Darkest Art.jpg|231x231px|thumb|left|''[[Secrets of the Darkest Art]]'' gives clear instructions on making a Horcrux]]
+
+The only known book that provided specific instruction on the creation and nature of a Horcrux was ''[[Secrets of the Darkest Art]]'', which was once held in [[Hogwarts Library|Hogwarts' library]] (and later in Dumbledore's office). Due to the book's extremely dark and dangerous nature, Albus Dumbledore hid it away in his [[Headmaster's office|office]] when he became the [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. It was believed that Tom Riddle had found the information necessary to make a Horcrux in this book before Dumbledore managed to get hold of it. While a Horcrux could be anything at all, including a living being, it was most advisable to create a Horcrux out of an inanimate object to decrease the chances of it being destroyed.<ref name="HBP23"/>
+
+Horcruxes by their nature appeared to be extraordinarily durable, as only very destructive magics and processes could truly destroy them.<ref name="HBP23"/>
+
+To create a Horcrux, a wizard first had to deliberately commit murder. This act, said to be the most supreme act of evil, would result in the murderer metaphysically damaging their own soul. A wizard who wished to create a Horcrux would then use that damage to their advantage by casting [[Horcrux-making spell|a spell]] which would sever the damaged portion of the soul and encase it in an object.<ref name="HBP23"/> If the maker was later killed, they would continue to exist in a non-corporeal form,<ref name="GOF33">{{GOF|B|33}}</ref> although there were methods of regaining a physical body.<ref name="GOF32">{{GOF|B|32}}</ref> However, according to [[Horace Slughorn]], few would want to live in such a form, and death would be preferable to most, and he found the concept so dreadful that he wished not to know the process of creating such a vile object.<ref name="HBP23"/>
+
+[[File:First time.gif|250x250px|thumb|[[Tom Riddle]] creates his first Horcrux at the age of sixteen after murdering Myrtle Warren]]
+
+As a fragment of soul, a Horcrux seemed to retain the identity of its creator at the time of its creation. Voldemort, for instance, created a Horcrux (his diary) during what was presumably his fifth year at Hogwarts. As such, the fragment of soul contained within the Horcrux took on the appearance and mannerisms of Voldemort as he had been when he was sixteen years old.<ref name="HBP23"/>
+
+Horcruxes were said to be essentially the opposite of a person. Where a person's container, their body, could be destroyed without any damage to their soul, the fragment of soul contained inside a Horcrux was dependent on the container for its existence. If the container was destroyed, so too would be the fragment of soul within it.<ref name="HBP23"/>
+
+Horcruxes were originally conceived of as being a singular act. As such, it was unknown for many centuries what the attempted creation of multiple Horcruxes would result in, as nobody thought it possible to accomplish such an act. However, Voldemort planned to create six Horcruxes in the hope that it would make him stronger than just creating one, due to his belief in the power of the number seven.<ref name="HBP23"/>
+
+It was stated at one point that Voldemort had already "pushed his [[soul]] to the limit"<ref name="DH14">{{DH|B|14}}</ref> in creating his Horcruxes. This implied a finite number of Horcruxes any one person may create before the process became too dangerous to attempt again. It also implied that the creation of a Horcrux used a set amount of soul and that this amount was the same every time the process was undertaken. Creating multiple Horcruxes rendered the soul unstable and liable to break apart if the creator of the Horcruxes was killed.<ref name="HBP23" /> For instance, [[Albus Dumbledore]] explicitly stated that Voldemort's soul had become so unstable that it simply "broke apart" when Voldemort tried to murder [[Harry Potter]] for the first time on [[31 October]], [[1981]] in [[Godric's Hollow]].<ref name="DH35">{{DH|B|35}}</ref>
+
+===Destruction===
+{{Dialogue a-b|Harry Potter|So if all of his Horcruxes are destroyed, Voldemort could be killed?|Albus Dumbledore|Yes, I think so. Without his Horcruxes, Voldemort will be a mortal man with a maimed and diminished soul.|A discussion on how to go about killing Voldemort|Harry Potter and the Half-Blood Prince}}[[File:Harry destroying Tom Riddle's Diary GIF.gif|230x230px|thumb|left|Harry Potter destroying the diary Horcrux with a Basilisk fang (unknowingly destroying one of Voldemort's Horcruxes)]]
+
+Destroying a Horcrux required that the object containing the soul fragment be damaged to a point beyond any and all physical or magical repair. When a Horcrux was damaged to that point, it may appear to "bleed" (ink in the case of Tom Riddle's diary<ref name="COS17">{{COS|B|17}}</ref> and a "dark blood-like substance" in the case of Ravenclaw's Diadem)<ref name="DH31">{{DH|B|31}}</ref> and a scream may be heard as the soul fragment perished. However, as a safety measure to protect one's immortality and precious soul fragment, the creator would usually place powerful [[Protective enchantment|enchantments]] onto the artefact to prevent damage.
+
+It was unknown if the creator of the Horcrux would be able to sense that their soul fragment was destroyed, although Dumbledore stated that in the particular case of Voldemort, he would not feel their loss because his soul had been split too many times and had been in that state for too long.
+
+[[File:Locket destruction.gif|frame|Ron Weasley destroying the locket Horcrux with the Sword of Gryffindor]]
+
+All known methods of Horcrux destruction required the "receptacle" to be damaged beyond repair<ref name="Pottercast" /> (which, in the case of living receptacles, meant that they must be killed).<ref name="Pottercast" /><ref name="JKRtwitter6fev2015">[https://twitter.com/jk_rowling/status/563633021837131777 J.K. Rowling on Twitter]</ref>
+
+For example, methods were [[Fiendfyre]] (as evidenced by the destruction of [[Rowena Ravenclaw's Diadem]]), which required extreme skill to control,<ref name="DH31" /> the [[Killing Curse]] on living Horcruxes.<ref name="DH32">{{DH|B|32}}</ref> However, Harry Potter was never an intentional Horcrux and so it may not work on a proper animate Horcrux (like [[Nagini]]) and probably had unforeseen side effects, along with [[Basilisk venom]]<ref name="COS17" /> and the touch of [[Sacrificial protection|sacrificial love]] (on pseudo-Horcruxes). This was seen on Professor Quirrell when he was destroyed by Harry Potter's touch.<ref name="PS17">{{PS|B|17}}</ref>
+
+Harry Potter and [[Hermione Granger]] both used the fangs of [[Salazar Slytherin's Basilisk]]<ref name="COS17" /> to destroy [[Tom Riddle's Diary]] and [[Helga Hufflepuff's Cup]],<ref name="DH31" /> respectively. This was only achievable as [[basilisk venom]] was an extremely destructive substance capable of destroying Horcruxes. Although beyond repair when exposed to this venom, living Horcruxes could potentially be saved through the speedy administration of [[phoenix tears]], an extremely rare substance. [[Fawkes]] demonstrated this ability for Harry when he was bitten by the basilisk in the [[Chamber of Secrets]].<ref name="COS17" /> Because he was a living Horcrux himself, Harry was not destroyed then because the tears saved his life.<ref name="Pottercast" />
+
+[[Albus Dumbledore]],<ref name="HBP23" /> [[Ronald Weasley|Ron Weasley]],<ref name="DH19">{{DH|B|19}}</ref> and [[Neville Longbottom]]<ref name="DH36">{{DH|B|36}}</ref> all used [[Godric Gryffindor's Sword]] to destroy [[Marvolo Gaunt's Ring]], [[Salazar Slytherin's Locket]] and [[Nagini]], respectively. This was only achievable as [[goblin-wrought silver]] is a destructive enough metal capable of absorbing qualities that strengthen it. The sword demonstrated this ability for Harry Potter when he used it to slay the basilisk in the Chamber of Secrets. Because it was made of goblin-wrought silver itself, the sword was imbued with basilisk venom and became capable of destroying Horcruxes.<ref name="COS17" />
+
+==Powers==
+{{Dialogue a-b|Ron Weasley|The bit of soul in that diary was possessing [[Ginevra Weasley|Ginny]], wasn’t it? How does that work, then?|Hermione Granger|While the magical container is still intact, the bit of soul inside it can flit in and out of someone if they get too close to the object. I don’t mean holding it for too long... I mean close emotionally. Ginny poured her heart out into that diary, she made herself incredibly vulnerable. You’re in trouble if you get too fond of or dependent on the Horcrux.|A Horcrux's ability to possess and eventually control a person|Harry Potter and the Deathly Hallows}}The main purpose and power of a Horcrux is to anchor the creator to the mortal realm for the sake of achieving immortality. As long as at least one Horcrux exists, the creator's soul will be bound to the world of the living. Hence, if the body is destroyed, the soul will remain as a lingering spirit instead of passing through to the other side. Though being in such a state of existence is what very few would prefer over death, the soul can possess others to regain physical form, which shortens the host's lifespan drastically.<ref name="HBP23" /> It is also possible (through a second party) to use certain potions to create a [[Rudimentary body potion|rudimentary body]]<ref name="GOF1">{{GOF|B|1}}</ref> or even the [[Regeneration potion|true body]] of the Horcrux creator's soul to possess.<ref name="GOF32" /> Because of this purpose, a Horcrux is usually kept hidden and dormant, and its other powers are rarely explored or utilised.
+
+The fragment of a person's soul within a Horcrux was capable of thinking for itself and had certain magical abilities, including the ability to influence those in their vicinity and affect them mentally. When Harry, Ron, and Hermione were carrying Salazar Slytherin's locket around their necks in 1997, it brought out the worst in the trio by making them moodier, more prone to fighting, and slowly darker aspects of them began to appear, especially Ron as he carried the locket much longer than his friends.<ref name="GOF15">{{DH|B|15}}</ref> However, when away from a Horcrux its influence and effects would begin to wane and then disappear and those influenced would return to their normal selves, as soon after leaving Ron came to his senses and regretted his actions. They were also unable to summon their [[Patronus Charm|Patronuses]] while wearing the locket since the soul fragment inside was darkening their thoughts. A person with an affinity for the [[Dark Arts]], on the other hand, would be strengthened by the influence of a Horcrux, as [[Dolores Umbridge]] was when wearing Salazar Slytherin's locket.<ref name="online bloomsbury chat">[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html "(Umbridge) is a very nasty piece of work. She has an affinity for this horrible object" - JK, Online Chat script, accessed 30/7/2011]</ref>
+
+[[File:Ginevra Weasley Writing on the Wall.gif|245x245px|thumb|left|The diary Horcrux takes possession of [[Ginevra Weasley|Ginny Weasley]]]]
+
+If a person is more emotionally vulnerable, it is possible for the soul inside the Horcrux to take control of him or her, as Ginny Weasley using her. In fact, Voldemort took advantage of this possessive power over Ginny to reopen the Chamber of Secrets, using the diary as a weapon rather than a safeguard.<ref name="COS17" /> Voldemort himself was able to possess Harry Potter and take control of his mind when Harry was heartbroken over [[Sirius Black]]'s death and angry enough to perform the [[Cruciatus Curse]] on [[Bellatrix Lestrange]] and almost perform the Killing Curse on her. This quasi-sentient entity that is capable of sapping life-force to create a physical form differs from a "mere [[memory]]", which the diary's manifestation claimed itself to be, as no mere charmed object can achieve such a feat, though [[Lucius Malfoy]] thought that was what the diary simply was.<ref name="HBP23" />
+
+In this way, a Horcrux can gradually feed on another person's life or negative emotions to strengthen itself and increase the ability of the soul fragment within to act independently in the physical world. The best example of this is in the case of [[T. M. Riddle's Diary|Tom Riddle's diary]]. For decades, the diary lay dormant in [[Lucius Malfoy]]'s possession, doing nothing other than safeguarding the soul fragment of Tom Riddle. When Ginny Weasley began to transcribe her fears and insecurities into the pages of the diary, the fragment of Tom Riddle's soul contained within was not only able to write back to Ginny but eventually drained enough life out of her to actually manifest itself in a semi-corporeal form and work magic with [[Harry Potter]]'s wand.<ref name="COS17" />
+
+[[File:Umbridge locket.jpg|250px|thumb|While she wore the locket Horcrux, the evil Dolores Umbridge grew stronger]]
+
+Likewise, [[Slytherin's Locket|Salazar Slytherin's locket]] slowly gained power when it was in the possession of Harry, Ron, and Hermione in the months prior to its destruction. It can be theorised that the locket gained somewhat less power from them (not enough for Riddle to fully manifest but still enough to speak and create illusions) because Harry, Ron, and Hermione were actively resisting the locket's influence instead of embracing it as Ginny had done with the diary.<ref name="COS17" /> On the other hand, Horcruxes which have been isolated for long periods of time (such as [[Hufflepuff's Cup|Helga Hufflepuff's cup]] and [[Ravenclaw's Diadem|Rowena Ravenclaw's diadem]]) were very passive by comparison and took no real measures to protect themselves. Even Slytherin's locket was fairly inert when it was initially discovered in a cabinet in the drawing-room at 12 Grimmauld Place. It displayed no powers and gave no indication that it possessed superior magical properties.<ref name="DH10">{{DH|B|10}}</ref>
+
+[[File:Slytherin's Locket taunting Ron.jpg|250x250px|thumb|left|Sensing imminent destruction, the locket Horcrux taunted Ron as its last defence]]
+
+Horcruxes also possessed some last line of defence against destruction. The fragment of soul within the Horcrux seems to be able to sense impending threats and can act to defend itself. For instance, Slytherin's locket viciously taunted Ron Weasley with visions of his deepest fears in the hopes of preventing him from stabbing it with [[Godric Gryffindor's Sword|Godric Gryffindor's sword]], and even attempted to strangle Harry Potter when he was close to obtaining the Sword with the intent of piercing the locket.<ref name="DH19" /> However, this form of defence may not be viable if the soul fragment in question is not given enough strength or chance to retaliate, as while Harry opened the locket with [[Parseltongue]] before allowing Ron to attack it, both Hufflepuff's Cup and Ravenclaw's Diadem were swiftly destroyed the moment the trio were given an opportunity.<ref name="DH31" />
+
+Aside from its self-defence mechanism from the soul fragment, a Horcrux is usually enchanted by the creator to have other forms of defences to prevent destruction. [[Marvolo Gaunt's ring]] contained a [[Marvolo Gaunt's Ring's curse|deadly curse]] that would kill anyone who touched it.<ref name="DH33">{{DH|B|33}}</ref> At least Salazar Slytherin's Locket was unbreakable by even house-elf magic.<ref name="DH10" /> [[Tom Riddle's diary]] was completely [[water]]proof and impervious to spilled ink.<ref name="COS13">{{COS|B|13}}</ref>
+
+===Side effects===
+{{Quote|Tamper with the deepest mysteries — the source of life, the essence of self — only if prepared for consequences of the most extreme and dangerous kind.|The first of the [[Fundamental Laws of Magic]]|The Tales of Beedle the Bard (real)}}To create a Horcrux is to divide one's soul — the "''essence of self''" — and it is therefore in the creation of a Horcrux that one falls prey to [[Adalbert Waffling]]'s first [[Fundamental Laws of Magic]], which essentially states that tampering with one's soul inevitably results in grave side effects. Creating Horcruxes is considered perhaps the most dreadful act possible.<ref name="TBB">{{TBB|E}}</ref><ref name="HBP23" />
+
+====Dehumanisation====
+One of these such side-effects is the "dehumanising" effect the mutilation of one's [[soul]] is said to have. The more Horcruxes one creates, the less human they become, both emotionally and physically; for example, in the [[house-elf]] [[Hokey]]'s memory Tom Riddle was initially shown to be hollow-cheeked but otherwise normal,<ref name="HBP20">{{HBP|B|20}}</ref> though ten years later his features look as if they have been burned and blurred, and his skin was extremely white.<ref name="COS17" />
+
+[[File:Voldemort2.gif|frame|[[Tom Riddle|Lord Voldemort]] after his transformation]]
+
+One should note that it is unclear whether the red eyes and slit-like nostrils that Voldemort had after he was reborn were caused by having more Horcruxes than he did than when he applied for the [[Defence Against the Dark Arts]] post a second time,<ref name="HBP20" /> whether they are characteristics of a person who has been resurrected with the help of serpents (which have continued to play key roles in his revival), or whether due to any other alterations he had made to himself. Dumbledore speculated that Voldemort underwent other dangerous transformations, as well as creating Horcruxes which resulted in Voldemort's hideous appearance.<ref name="HBP23" />
+
+====Instability====
+A third side effect of Horcrux creation is that the master [[soul]] itself becomes unstable (even with creating just one Horcrux).<ref name="HBP23" />
+
+For example, the creation of Voldemort's sixth "Horcrux" (of seven) — Harry Potter — is known to be the direct result of this.<ref name="Pottercast">[http://www.accio-quote.org/articles/2007/1217-pottercast-anelli.html PotterCast Interviews J.K. Rowling]</ref> When Voldemort was hit by the back-fired [[Killing Curse]] at Potters' home in [[Godric's Hollow]], it caused Voldemort's soul to split, with one fragment immediately seeking out the only other living thing in the room and latching onto it — [[Harry Potter]]. The rest of Voldemort's mutilated soul fled.<ref name="DH35" /> However, this parasitic fragment of Voldemort's soul that attached to Harry did not make him a true Horcrux, since it was not created intentionally and the necessary parts of the Horcrux creation process were not carried out.<ref>[http://www.accio-quote.org/articles/2007/1217-pottercast-anelli.html Rowling on Pottercast]</ref>
+
+====Limbo====
+{{Quote|Something that is beyond either of our help...|The fate of those who create a Horcrux|Harry Potter and the Deathly Hallows}}[[File:Voldemort's_mutilated_soul.jpg|251px|thumb|left|After wrecking his own soul from many Horcrux creations, the fragments of Voldemort are trapped in limbo for eternity]]
+
+The final known side-effect of Horcrux creation is a possible inability to move on from [[limbo]] after death. This was seen when Voldemort's [[Killing Curse]] destroyed the part of his soul that resided in Harry Potter. This broken and mangled piece of [[soul]]<ref>[http://www.jkrowling.com/textonly/en/faq_view.cfm?id=121 J.K.Rowling Official Site F.A.Q.s]</ref> was forced to exist in the stunted form of a flayed and mutilated baby that Harry saw in King's Cross during his visit to limbo, unable to return to the land of the living, unable to become a ghost, and unable to go to the land of the dead because his soul was maimed and corrupted.<ref name="DH35" />
+
+The same fate was implied to have been suffered by Voldemort's "main" soul piece, the one that inhabited his body; it is unknown if this was a standard fate meted out for all Horcrux creators, or if it was unique to Voldemort due to the number of his Horcruxes. Regardless, reconciliation apparently cannot occur after death, as the soul's state at death remains forever, so the greatest of all consequences incurred by Horcrux creation may be the possibility of eternal limbo of the soul. Voldemort's soul fragments also appeared to possess only the awareness and intelligence of the infant they appeared to be.<ref name="DH35" />
+
+==Lord Voldemort's Horcruxes==
+{{Quote|I, who have gone further than anybody along the path that leads to immortality....|Lord Voldemort to his gathered [[Death Eaters]] after his [[Return of Lord Voldemort|rebirth]]|Harry Potter and the Goblet of Fire}}[[Tom Riddle|Lord Voldemort]], obsessed with immortality and unable or unwilling to understand the importance of the soul's well-being, went further than any wizard known to history to create seven — although he wanted six Horcruxes to have a seven part soul. He accidentally created a pseudo-Horcrux when he failed to murder [[Harry Potter]] in 1981,<ref name="DH35" /> and later made his pet snake [[Nagini]] into his seventh Horcrux. As a student named Tom Riddle at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in the 1940s, he learned of Horcruxes through books in the [[Restricted Section]], including ''[[Secrets of the Darkest Art]]'', and sought out [[Potions Master]] [[Horace Slughorn]] for further information about creating more than one, of which no book would have any record. [[Albus Dumbledore]] removed those books from the [[Hogwarts Library]] soon afterwards, although later he suspected that Slughorn had given information to Riddle about Horcruxes, as Slughorn refused to reveal the true account of what really happened. Voldemort did understand that his soul had a limit to how many times he could split it, as he ceased creating any more Horcruxes once he intentionally reached his desired six and refused to create any replacements for the ones that were destroyed.<ref name="HBP23" />
+
+Dumbledore later assigned Harry to retrieve the [[Pensieve|stored memory]] of it during the 1996-1997 school year, in which Harry was able to get it through the use of [[Felix Felicis]].<ref name="HBP23">{{HBP|B|23}}</ref> Although Voldemort had been warned that the usage of Horcruxes would render one's soul to live a miserable existence should their living flesh be destroyed, and Voldemort even experienced this first hand for fourteen years, he would regardless prefer to live in such a state when the alternative was death, which he feared the most, since he was willing to continue his creation of his [[Nagini|sixth true Horcrux]] even in his crippled form.<ref name="GOF33">{{GOF|B|33}}</ref> Voldemort's streak of independence made it intolerable for him to utilise any other methods to obtain his immortality (such as the [[Elixir of Life]]); he chose to rely on Horcruxes because they were magical extensions of himself.<ref name="HBP23" />
+
+Having split his soul multiple times, it became extremely unstable that upon his Killing Curse's first rebound on him, Voldemort's already maimed soul split apart and attached to the only living being in the room at the time: Harry Potter. It was also the creation of so many Horcruxes that led Voldemort's humanity to deteriorate severely. As Voldemort's soul fragments have been separated from him for so long, he could no longer feel them should they be destroyed.<ref name="DH35" />
+
+This was part of Dumbledore and Harry's quest to determine, locate, and destroy, in secret, what they believed to be as many as four of Voldemort's remaining Horcruxes (two had already been destroyed). After Dumbledore's death, Harry took up the quest with his friends [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]]. Hermione was able to [[Summoning Charm|summon]] the books on the subject to her from the Headmaster's office at the end of the [[1996–1997 school year]] to aid them in their research on Horcruxes.<ref name="DH6">{{DH|B|6}}</ref>
+
+Although Voldemort had six true Horcruxes (not including Harry) in total, no more than five existed at one time because [[Tom Riddle's diary]] was destroyed before Nagini was turned into a Horcrux. Concerning Nagini, it is not known if she had to have been killed by [[Godric Gryffindor's Sword]] or if any other means, such as a regular sword killing her, would have destroyed the Horcrux. However, as Albus Dumbledore stated, using a living being as a Horcrux was a risky business, due to it being able to move around and think for itself.<ref name="HBP23" /> It is unknown if any method that would normally kill Nagini would also destroy the Horcrux. It is also unknown what would happen if Nagini had died a natural death, or if that were possible, since Horcruxes have mechanisms in place to prevent destruction.
+
+All of Voldemort's Horcruxes were made from objects that had extreme value, in his desire to secure his position as the greatest sorcerer in history, and that only noteworthy items could live up to his standards and have the honour of housing a fragment of his precious [[soul]]. As such, he had originally made it his desire to collect four items of the four founders of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]; he found only three, and gave up after failing to find Gryffindor's sword, but made Horcruxes out of other items that had sentimental value to himself, if not as a priceless artefact of the Wizarding world. Believing that the number seven is the most powerful number when it comes to magic, Voldemort intended to split his soul into seven pieces, with six Horcruxes housing one fragment each and his body containing the seventh. He hid these Horcruxes in special locations and kept their existence and purposes from absolutely everyone. However, his arrogance had also inadvertently let him leave behind subtle hints of their whereabouts, leading to their destruction. Because Voldemort was the first (and by far, the only) known wizard to have created more than one Horcrux, both Dumbledore and Voldemort himself believed that he was the closest to true immortality than any other wizard or witch before him.<ref name="HBP23" />
+
+A secondary reason why Voldemort chose to create multiple Horcruxes is to utilise the effects of having a soul fragment to weaponize some of these artefacts, as opposed to keeping them as hidden safeguards. Voldemort felt more comfortable placing these few Horcruxes in the risk of destruction knowing he had more hidden safely to maintain his immortality. It was for this reason he chose to use [[T. M. Riddle's Diary|his diary]] to reopen the [[Chamber of Secrets]], and sending [[Nagini]] on missions from time to time.<ref name="HBP23" />
+
+Although Voldemort created multiple Horcruxes so that if one was destroyed, it would not be detrimental to him, he would nevertheless be furious if any one of them were destroyed. He was wrathful at [[Lucius Malfoy]] for indirectly causing the destruction of the diary Horcrux,<ref name="HBP23" /> despite intending for it to be a weapon instead of a safeguard, due to Lucius acting without instruction. When Voldemort found out that Hufflepuff's cup was taken, he massacred all the Gringotts employees within the bank that failed to protect the cup. Discovering that Slytherin's locket and the Gaunt family ring were taken from their hiding places infuriated him even more, though it became more understandable as he was aware that he was losing more Horcruxes as time went on.<ref name="DH27">{{DH|B|27}}</ref> His arrogance prevented him from adding more defences for the Lost Diadem of Ravenclaw, which led to its destruction. He went out of his way to protect his last Horcrux, Nagini, and was horrified and angry beyond words when she was killed by [[Neville Longbottom]] with [[Godric Gryffindor's sword|Gryffindor's sword]], thus stripping him of his immortality.<ref name="DH36">{{DH|B|36}}</ref>
+
+In an [[alternate reality]] where [[Cedric Diggory]] became a [[Death Eaters|Death Eater]] and killing Neville during [[Voldemort's Last Stand]], Nagini was not killed as a result, thereby allowing Voldemort to maintain his immortality and kill Harry Potter while also conquering the Britain wizarding community.<ref name="CC">{{CC}}</ref>
+
+===List of Voldemort's Horcruxes===
+{| class="wikitable" border="2" cellpadding="4" cellspacing="1"
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[Tom Riddle's Diary]]
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[File:Tom Riddle's Diary.png|150px]]
+|-
+! width="30%" |Hiding place
+! width="30%" |Created with the murder of
+! width="30%" |Location of murder
+! width="30%" |Date created
+|-
+|In the possession of [[Lucius Malfoy]], later given to [[Ginevra Weasley|Ginny Weasley]] (without her knowing it),<ref name="COS4">{{COS|B|4}}</ref><ref name="COS18">{{COS|B|18}}</ref> and eventually found by [[Harry Potter]] in the girls lavatory on the second floor.<ref name="COS13" />
+|[[Myrtle Warren]] by the [[Salazar Slytherin's Basilisk|Serpent of Slytherin]]
+|[[First-floor girls' lavatory]], [[Hogwarts Castle]]
+|[[13 June]], [[1943]]
+|-
+! width="10%" |Destroyed by
+! width="10%" |Destruction method
+! width="10%" |Destruction site
+! width="10%" |Date destroyed
+|-
+|[[Harry Potter]]
+|Stabbed with one of the [[Salazar Slytherin's Basilisk|Basilisk's]] fangs.<ref name="COS17" />
+|[[Chamber of Secrets]], [[Hogwarts Castle]]
+|[[29 May]], [[1993]]
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[Marvolo Gaunt's Ring]]
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[File:Marvolo Gaunt's Ring1.jpg|150px]]
+|-
+! width="30%" |Hiding place
+! width="30%" |Created with the murder of
+! width="30%" |Location of murder
+! width="30%" |Date created
+|-
+|In the [[Gaunt Shack]]<ref name="HBP17">{{HBP|B|17}}</ref>
+|[[Tom Riddle Senior]] with [[Morfin Gaunt's wand]].<ref name="HBP17" />
+|[[Riddle House]], [[Little Hangleton]]<ref name="HBP17" />
+|c. October [[1943]]<ref name="HBP17" />
+|-
+! width="10%" |Destroyed by
+! width="10%" |Destruction method
+! width="10%" |Destruction site
+! width="10%" |Date destroyed
+|-
+|[[Albus Dumbledore]]
+|Cut with [[Godric Gryffindor's Sword]].<ref name="HBP23" />
+|[[Headmaster's office]], [[Hogwarts Castle]]
+|[[July]] [[1996]]
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[Salazar Slytherin's Locket]]
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[File:Horcrux WB F7 SlytherinsLocketHorcrux Illust2.jpg|150px]]
+|-
+! width="30%" |Hiding place
+! width="30%" |Created with the murder of
+! width="30%" |Location of murder
+! width="30%" |Date created
+|-
+|The [[The Cave|Crystal Cave]], later stolen by the combined efforts of [[Regulus Black]] and [[Kreacher]];<ref name="DH10" /> moved to [[12 Grimmauld Place]], later stolen by [[Mundungus Fletcher]], who gave it to [[Dolores Umbridge]] as a bribe.<ref name="DH11">{{DH|B|11}}</ref>
+|A [[Non-magic people|Muggle]] [[Muggle tramp|tramp]]
+|Unknown
+|c. [[1946]] or later, but before [[1979]]
+|-
+! width="10%" |Destroyed by
+! width="10%" |Destruction method
+! width="10%" |Destruction site
+! width="10%" |Date destroyed
+|-
+|[[Ronald Weasley|Ron Weasley]]
+<ref name="DH19" />
+|Stabbed with [[Godric Gryffindor's Sword]].<ref name="DH19" />
+|[[Forest of Dean]], Gloucestershire<ref name="DH19" />
+|[[28 December]], [[1997]]<ref name="DH19" />
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[Helga Hufflepuff's Cup]]
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[File:Hpnbhufcup.jpg|150px]]
+|-
+! width="30%" |Hiding place
+! width="30%" |Created with the murder of
+! width="30%" |Location of murder
+! width="30%" |Date created
+|-
+|The [[Lestrange family]] [[Lestrange Vault|vault]] at [[Gringotts Wizarding Bank]].
+|[[Hepzibah Smith]]
+<ref name="HBP20" />
+|[[Hepzibah Smith]]'s home.<ref name="HBP20" />
+|c. [[1946]] or later
+|-
+! width="10%" |Destroyed by
+! width="10%" |Destruction method
+! width="10%" |Destruction site
+! width="10%" |Date destroyed
+|-
+|[[Hermione Granger]]
+|Stabbed with a [[Salazar Slytherin's Basilisk|Basilisk]] fang.<ref name="DH31" />
+|[[Chamber of Secrets]], [[Hogwarts Castle]]<ref name="DH31" />
+|[[Battle of Hogwarts]], [[2 May]], [[1998]]<ref name="DH31" />
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[Rowena Ravenclaw's Diadem]]
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[File:Ravenclaws Diadem.png|150px]]
+|-
+! width="30%" |Hiding place
+! width="30%" |Created with the murder of
+! width="30%" |Location of murder
+! width="30%" |Date created
+|-
+|In the [[Room of Requirement]] at [[Hogwarts Castle]].<ref name="DH31" />
+|An [[Albanian peasant]]
+|[[Albania]]
+|c. [[1946]] or later
+|-
+! width="10%" |Destroyed by
+! width="10%" |Destruction method
+! width="10%" |Destruction site
+! width="10%" |Date destroyed
+|-
+|[[Vincent Crabbe]]
+Stabbed with a Basilisk fang and then kicked into [[Vincent Crabbe]]'s unintentional [[Fiendfyre]].<ref name="DH31" />
+|[[Fiendfyre]]
+|[[Room of Requirement]], [[Hogwarts Castle]]
+|[[Battle of Hogwarts]], 2 May 1998
+|-
+! colspan="6" style="background: lightsteelblue" |[[Nagini]]
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[File:Nagini PM.png|150px]]
+|-
+! width="30%" |Hiding place
+! width="30%" |Created with the murder of
+! width="30%" |Location of murder
+! width="30%" |Date created
+|-
+|Always with [[Tom Riddle|Lord Voldemort]] after the cup was stolen.<ref name="DH27" />
+|[[Bertha Jorkins]]
+<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, 30 July, 2007]</ref>
+|[[Albania]]
+|Summer [[1994]]
+|-
+! width="10%" |Destroyed by
+! width="10%" |Destruction method
+! width="10%" |Destruction site
+! width="10%" |Date destroyed
+|-
+|[[Neville Longbottom]]
+|Beheaded with [[Godric Gryffindor's Sword]].<ref name="DH36" />
+|Front steps of [[Hogwarts Castle|Hogwarts]].<ref name="DH36" />
+|[[Battle of Hogwarts]], 2 May 1998
+|}
+
+====Pseudo-Horcruxes====
+While he does not fit the definition of a Horcrux, as he was not created intentionally using the [[Horcrux-making spell]] for the purpose of obtaining immortality, Harry Potter essentially became a Horcrux. After Voldemort's curse rebounded on him, a piece of his mangled soul split off and latched onto Harry. Dumbledore explained that for simplicity's sake, Harry was a Horcrux.<ref name="Harry not Horcrux">{{cite web|url=http://www.accio-quote.org/articles/2007/1217-pottercast-anelli.html|title=Anelli, Melissa, John Noe and Sue Upton. "PotterCast Interviews J.K. Rowling, part one." PotterCast #130, 17 December 2007.|quote=But I think, by definition, a Horcrux has to be made intentionally. So, because Voldemort never went through the grotesque process that I imagined creates a Horcrux, with Harry, it was just that he had destabilised his soul so much that it split when he was hit by the back-firing curse. And so this part of it flies off and attaches to the only living thing in the room. A part of it flees in the very close-to-death limbo state that Voldemort then goes on and exists in. I suppose it's very close to being a Horcrux. But Harry was not-- did not become an evil object. He wasn't-- he didn't have curses upon him that the other Horcruxes had. [...] Now, I know that won't end the debate, but I do think that the strict definition of Horcrux, once I write The Scottish Book, will have to be given and that the definition will be: the receptacle is prepared by dark magic to become the receptacle of a fragmented piece of soul and that that piece of soul deliberately detached from the Master Soul to act as a future safeguard or anchor to life and to safeguard against death.}}</ref>
+
+{| class="wikitable" border="2" cellpadding="4" cellspacing="1"
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[Harry Potter]]
+<ref>Harry Potter was not technically a Horcrux, as the process for becoming a Horcrux was not used.</ref>
+|- style="text-align: center; background: #ccc"
+! colspan="6" style="background: lightsteelblue" |[[File:Harry Potter.jpg|150px]]
+|-
+! width="30%" |Hiding place
+!
+Created with the murder of
+! width="30%" |Location of murder
+! width="30%" |Date created
+|-
+|[[Harry Potter]]
+|[[Lily J. Potter]]
+|[[Godric's Hollow]], [[West Country]]
+|[[31 October]], [[1981]]
+|-
+! width="10%" |Destroyed by
+!Destruction Method
+! width="10%" |Destruction site
+! width="10%" |Date destroyed
+|-
+|[[Tom Riddle|Lord Voldemort]]
+|[[Killing Curse]]
+|[[Forbidden Forest]], [[Hogwarts School of Witchcraft and Wizardry]]
+|[[2 May]], [[1998]]
+|}
+
+==Etymology==
+The word ''Horcrux'' may be comprised of ''"hor"'' or ''"hore"'' (old English/middle-English) meaning ''"dirt, evil, impurity"'' and ''"crux"'' or ''"crúce"'' (old English) meaning ''"container, pitcher(ful), jar"'' which would therefore mean "container of evil".
+
+Alternatively, ''Horcrux'' can be seen as a combination of a shortening of ''"horrible"'' and ''"crux" ''(meaning "[[wikipedia:Christian cross|''the Cross'']]" in Latin)''. ''In this sense, a Horcrux would be something that a follower of the Cross would regard as horrible.
+
+On the other hand, "''hor"'' could be derived from the French "''hors"'', which means "''outside"''. Thus, "Horcrux" would mean something that is "outside what is permitted under the Cross".
+
+The Greek "''hor''" means "''boundary''", which could refer to the boundary between life and death. Latin "''crux''" also lends way to words such as "''crucify''" and "''excruciating''", meaning "pain/torture", which may describe either the experience of ripping one's soul apart, or the terrible deeds that must be performed in order to create a Horcrux.
+
+==Behind the scenes==
+*[[J. K. Rowling]] stated in {{PM}} that Professor [[Quirinus Quirrell]] served as a temporary Horcrux when Voldemort's soul possessed his body during Harry Potter's [[Harry Potter and the Philosopher's Stone|first year]] at Hogwarts.<ref name="quirrell">{{WW|professor-quirrell}} - Quirrell was not technically a Horcrux, as he contained the Master Soul, not a soul fragment, and was not created using the Horcrux-making spell.</ref> A notable difference, however, is that the piece of soul within Quirrell was able to exist without its container, as it abandoned Quirrell and left him to die in the [[Underground Chambers]]. This is due to it being the "master" soul that serves as the awareness and consciousness of Voldemort's psyche.
+**Based on this, the animals that Voldemort inhabited during his years of exile, such as rats and snakes, can also be considered temporary Horcruxes.
+*J. K. Rowling knows exactly what the process for the creation of a Horcrux is, but is not telling — yet. All she will say is that a spell is involved, and a horrific act is performed.<ref name="Pottercast" /> The information was initially planned to be revealed in the [[Encyclopaedia of Potterworld|Harry Potter Encyclopaedia]]. However, since the encyclopaedia may have been cancelled, the information may eventually be revealed on{{PM}}.
+**The likelihood of the incantation to this spell being revealed is very low, as Rowling said that she could not "possibly tell [us]. Some things are better left unsaid." in an interview, on July 30th, 2007.
+*J. K. Rowling described the invention of the Horcrux as comparable to the splitting of the atom: "''Something that people imagined might be able to be done, but couldn't quite bring it off, and then... and then people started doing it with sometimes catastrophic effects.''"<ref name="Pottercast" />
+*In an interview, J. K. Rowling was asked why the Horcrux within Harry wasn't destroyed after he was poisoned by the basilisk in {{COS}}. She replied that [[Fawkes]]'s tears "mended" him before he could be destroyed beyond repair.<ref>[http://www.the-leaky-cauldron.org/2007/10/20/j-k-rowling-at-carnegie-hall-reveals-dumbledore-is-gay-neville-marries-hannah-abbott-and-scores-more J. K. Rowling at Carnegie Hall Reveals Dumbledore is Gay; Neville Marries Hannah Abbott, and Much More]</ref>
+*The only Horcrux that Harry personally destroyed was Tom Riddle's Diary, even though he was the only one clearly stated to be sent for the mission. Also, he did not even know that it was a Horcrux at the time. The [[Marvolo Gaunt's Ring|Ring]] was destroyed by [[Albus Dumbledore]], the [[Salazar Slytherin's Locket|Locket]] by [[Ronald Weasley|Ron Weasley]], the [[Helga Hufflepuff's Cup|Cup]] by [[Hermione Granger]], the [[Rowena Ravenclaw's Diadem|Diadem]] with [[Fiendfyre]] that was conjured by [[Vincent Crabbe]], [[Nagini]] was killed by [[Neville Longbottom]], and the fragment within Harry was inadvertently destroyed by Voldemort himself. In the film adaptation, however, the Diadem is stabbed with a basilisk's fang by Harry and then kicked by Ron into the oncoming Fiendfyre.
+*Of the seven Horcruxes Voldemort created (intentionally and unintentionally), four of them were destroyed during the [[Battle of Hogwarts]], along with Voldemort himself. In fact, aside from [[Salazar Slytherin's Locket]], all Horcruxes were destroyed within Hogwarts grounds, either during or before the aforementioned battle.
+*In {{HBP|FA}}, the only Horcruxes mentioned are the diary, the ring, and the locket, leaving Harry with no direction in the [[Harry Potter and the Deathly Hallows (film)|film adaptations]] of {{DH}}. In addition, [[Ginevra Weasley|Ginny]] hides Harry's potion book while Harry closes his eyes (as well as kissing him for the very first time), and there is no indication that Harry sees the diadem.
+*There has been controversy of the fact that, in the films, Harry, Ron and Hermione do not have any leads to find the remaining Horcruxes, apart from the locket. However, in {{HBP|FA}}, it is shown that a Horcrux will leave a ''trace'' of Dark magic - this gives the person who touches the Horcrux visions of associated events and other related Horcruxes. A scene in the sixth film shows Harry touching [[Marvolo Gaunt's Ring]] and experiencing a flow of high speed visions including [[Tom Riddle]] screaming in agony (possibly due to the method of ripping his soul) and [[Nagini]], one of Lord Voldemort's Horcruxes. This is also stated in Steve Klove's script for the film. This would ultimately lead Harry, Ron, and Hermione to know most (if not all) of the Horcruxes in the [[Harry Potter and the Deathly Hallows (film)|film versions]] of {{DH}}.
+*A person who is a Horcrux also seems to possess some of the creator's abilities such as [[Harry Potter]] being able to use Parseltongue which is one of [[Tom Riddle|Voldemort]]'s inherited abilities. It also creates a mental link between the two the strength of which seems to depend upon the strength of the creator. For example, when Voldemort was weak and only in a spiritual form, Harry could only sense his presence when he was close by and feel his anger, but after he returned to somewhat of a body, this expanded a bit into the occasional dream vision of things happening with Voldemort. After Voldemort returned to full power, this link expanded so that Harry got full visions in his dreams of what Voldemort was dwelling upon, but the link can also be two-way and Voldemort was able to use it and Legilimency to implant a false vision in Harry's mind. The link can be shut off with Occlumency on the part of one of the two with the link, but if the Occlumency slips, the link can reopen. The only way to sever the link completely and remove the abilities the Horcrux gives is to destroy the Horcrux itself.
+*It is debatable if the Killing Curse can destroy inanimate Horcruxes, although given the extreme measures Harry, Ron, and Hermione had to go through to obtain Basilisk venom to destroy the Horcruxes they found during their [[Albus Dumbledore and Harry Potter's Horcrux Hunt|search]], it seems unlikely. It is also possible that none of them were capable of performing the curse, as successfully executing an unforgivable curse requires dark intentions, making it nearly impossible for a non-dark wizard to do.
+*According to Dumbledore, Voldemort was preserving the creation of his Horcruxes for significant deaths. However, this stands to be another one of Dumbledore's deductions being wrong, as Voldemort has used a [[Muggle tramp]] and [[Albanian peasant]] to create two of his Horcruxes, with no known significance for the two. However, Dumbledore only knew for certain of two of the murders committed to create Voldemort's Horcruxes: the murder of [[Myrtle Warren|Moaning Myrtle]] (his very first killing) to create the diary, and murder of [[Tom Riddle Senior|Tom Riddle Snr]], his father, for the Gaunt Ring Horcrux. Both of these murders were very significant, but it turns out later that Dumbledore was incorrect that all Horcrux-related deaths were important ones.
+*J.K. Rowling's exact definition of a Horcrux is "a receptacle prepared by dark magic in which a Dark wizard has intentionally hidden a fragment of his soul for the purpose of attaining immortality."<ref>http://www.accio-quote.org/jkrwebsite.html</ref>
+*The concept of a "soul container" is not original to the world of ''Harry Potter''. See [http://tvtropes.org/pmwiki/pmwiki.php/Main/SoulJar this page] for more information.
+**Most notably, the concept of storing ones soul in an external vessel is similar to the idea of a Lich, popularised by the role playing game Dungeons & Dragons. A lich is a spell-caster who has stored their soul in a vessel called a phylactery to prevent death.
+*It is unknown whether a Dark Wizard protected by a Horcrux could still be killed by being thrown through the [[Veil]]. It's also unknown whether a Horcrux could be [[Dementor's Kiss|kissed]] by a [[Dementor]], thereby presumably destroying it.
+*Interestingly, no one destroyed more than two Horcruxes (counting Quirrell) and half of them were destroyed by someone other than Harry, Ron, and Hermione. (This does not apply to the films, however, as Harry (and Ron, to an extent) destroy the diadem, which is destroyed by Crabbe in the book.) The majority of the people who destroyed Voldemort's Horcruxes didn't know what they were destroying at the time. Neville didn't know what Horcruxes were when he killed Nagini, Harry didn't know about Horcruxes when he destroyed the diary, Voldemort didn't know he was destroying a Horcrux when he attempted to kill Harry Potter, and Vincent Crabbe didn't know what he was destroying when he destroyed the diadem. Hermione, Ron, and Dumbledore all knew that they were destroying Horcruxes, which was exactly what they were trying to do.
+*The books previously established that Voldemort can't feel when a Horcrux is destroyed. However, this was completely reversed in the movies. That is the reason he starts on the journey of seeing if all the Horcruxes are safe in the books, but in the movies it is unclear if he even checks his hiding spots. When Hermione destroys the Hufflepuff Cup, Voldemort, Harry and Nagini all seem to be momentarily incapacitated by pain. This also happens when the Ravenclaw Diadem and Nagini are destroyed, clearly showing that all Horcruxes and the Master Soul feel the destruction of the others.
+**Interestingly enough, this only starts to happen when the cup is destroyed, as Harry does not react to the locket's destruction and Voldemort remains oblivious when both it and the ring are destroyed. The reason for this is unclear, but it may be because the cup marked the destruction of half of Voldemort's soul.
+*In the fairy tale ''[[The Warlock's Hairy Heart]]'', the [[Warlock (The Warlock's Hairy Heart)|main character]] of the story stores his [[Hairy Heart|own heart]] outside of his body via dark magic, similar to Horcruxes in both function and consequences. It was a feat considered impossible outside of the storybook, and was probably a metaphor for Horcrux-making, altered so that misguided readers may not try to imitate the exact process, but still similar enough for virtuous reader to understand the story's Æsop. This in turn resembles the Slavic tales of [https://en.wikipedia.org/wiki/Koschei Koschei the Deathless].
+*According to Dumbledore, even when Voldemort's Horcruxes were destroyed his brain and his magical power would remain intact.<ref name="HBP23" />
+*[[Bellatrix Lestrange]] and [[Lucius Malfoy]] both never learned that they were each entrusted with a Horcrux despite being told to keep them under the strictest security. Furthermore, [[Severus Snape]] was unable to figure out Voldemort had created Horcruxes despite being told that a fragment of Voldemort's soul resides within Harry. In fact, despite Voldemort surviving the first rebounding Killing Curse and telling his [[Death Eaters]] that he alone went further than anyone on the path of immortality, none of them were able to understand that he utilised Horcruxes to achieve this. This all suggests that even among the most devoted Dark Arts practitioners such as them, they could not fathom that their master would dare mutilate his own soul for the sake of immortality. The only Death Eater who successfully learned Voldemort had created a Horcrux was [[Regulus Black]].
+*In the season 12 episode ''[https://supernatural.fandom.com/wiki/The_One_You%27ve_Been_Waiting_For The One You've Been Waiting]'' of the American TV series ''Supernatural'' [https://supernatural.fandom.com/wiki/Nazi_Pocket_Watch a mystical artefact] containing the soul of [https://supernatural.fandom.com/wiki/Adolf_Hitler Adolf Hitler] was described as a Horcrux by [https://supernatural.fandom.com/wiki/Christoph_Nauhaus Christoph Nauhaus] while explaining how it worked which protagonist Sam Winchester recognised as a ''Harry Potter'' reference. Like a Horcrux in ''Harry Potter'', it saved the soul of the creator to ensure their survival and eventual return.
+
+==Appearances==
+{{Imagecat|Images of Horcruxes}}
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{GOF|G}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}} {{1st ID}}
+*{{HBP|F}}
+*{{HBP|G}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|F2}}
+*{{DH|G1}}
+*{{DH|G2}}
+*{{TBB|E}}
+*{{PM}}
+*{{WW}}
+*{{WU}}
+*{{HPPU}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{HPK}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+*''[[PotterCast]]''
+
+==Notes and references==
+{{Reflist}}[[de:Horkrux]]
+[[es:Horrocrux]]
+[[fi:Hirnyrkki]]
+[[fr:Horcruxe]]
+[[he:הורקרוקס]]
+[[ja:ホークラックス]]
+[[nl:Gruzielement]]
+[[pl:Horkruks]]
+[[ru:Крестраж]]
+[[uk:Горокракс]]
+[[Category:Harry Potter's private lessons]]
+[[Category:Horcrux hunt]]
+[[Category:Horcruxes|*]]

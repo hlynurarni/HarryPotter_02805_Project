@@ -1,0 +1,41 @@
+{{Individual infobox
+|name = Oblansk
+|nationality = [[Bulgaria]]n
+|alias = Obalonsk (by [[Cornelius Fudge]])
+|title = [[Minister for Magic]]
+|species = [[Human]]
+|gender = Male
+|job = [[Minister for Magic]]
+|loyalty = *[[Bulgarian Ministry of Magic]]
+*[[Bulgarian National Quidditch team]]
+|theme = mom
+|hidef = y
+|hidem = y
+}}
+{{Dialogue a-b|Fudge|You can speak English! And you've been letting me mime everything all day!|Oblansk|Vell, it vos very funny.|Oblansk's sense of homour|Harry Potter and the Goblet of Fire}}'''Oblansk''' was the [[Bulgaria]]n [[Minister for Magic]] in around [[1994]]. He attended the final match of the [[1994 Quidditch World Cup]]. He wore gold-trimmed, black velvet robes and acted as if he did not understand English.<ref name="GOF8">{{GOF|B|8}}</ref>
+
+==Biography==
+British Minister for Magic [[Cornelius Fudge]] introduced him to [[Harry Potter]] and asked if he knew about the boy's famous history. Oblansk became excited when he recognised Harry's [[Harry Potter's scars|scar]].<ref name="GOF8"/>
+
+Fudge introduced the man to the [[Malfoy family]] next, attempting to pronounce his surname twice (first as "Oblansk" and then as "Obalonsk"), before giving up and simply calling him the Bulgarian Minister for Magic. Fudge excused his poor introduction by claiming that the Minister couldn't understand anything said in English. However, when the [[Bulgarian National Quidditch team]] lost to [[Irish National Quidditch team|Ireland]], Oblansk sullenly declared, "Vell, ve fought bravely." Fudge was angered to learn that Oblansk really did know English and had only feigned ignorance because he found it extremely amusing to watch his British counterpart try to communicate through gestures.<ref name="GOF8">{{GOF|B|8}}</ref>
+
+==Etymology==
+The Minister's name might be derived from common Slavic proposition "об" ("around" or "about") and its cognate adjective "объл" ['obəl] ("round"), from which nouns such as "облак" ['oblak] ("cloud") and "област" ['oblast] ("region", "area") also originate. Suffices similar to "-sk" are used for locational or occupational surnames in Slavic languages. However, in Bulgarian it would be "-ski", while "-sk" is only used as a suffix in city names in Russia and ex-Soviet countries such as Belarus and Ukraine.
+
+==Behind the scenes==
+*In {{PM}}, the "From the story" entry referring to this individual has the URL referring to the "bulgarian-prime-minister". This seems to have been a mistake, since the entry itself is titled "Bulgarian Minister for Magic", and [[canon]] establishes the difference between the office of [[Minister for Magic]] and that of [[Prime Minister]]. The Prime Minister of Bulgaria at the time the story is set was [[Wikipedia:Lyuben Berov|Lyuben Berov]].
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Oblansk]]
+[[fr:Ministre de la Magie bulgare]]
+[[pl:Oblansk]]
+[[pt-br:Oblansk]]
+[[ru:Обланск]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:Bulgarian Ministers for Magic]]
+[[Category:Males]]
+[[Category:Wizards]]

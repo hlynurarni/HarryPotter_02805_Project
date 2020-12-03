@@ -1,0 +1,25 @@
+{{Individual infobox
+|name = Will
+|nationality = [[Great Britain|British]]
+|species = [[Human]]
+|gender = Male
+|theme = wizard
+}}
+{{Quote|And I says, 'Nicked all your toads, Will, what next? So you'll be wanting some more, then?' And if you'll believe me, lads, the gormless gargoyle buys all 'is own toads back orf me for a lot more'n what 'e paid in the first place.|[[Mundungus Fletcher]] tells [[Ronald Weasley|Ron]], and [[Fred and George Weasley]] about Will|Harry Potter and the Order of the Phoenix}}
+'''Will''' was a [[Wizardkind|wizard]] who stole some [[toad]]s belonging to [[Warty Harris]]. The toads were in turn stolen from him by [[Mundungus Fletcher]]. Will saw Mundungus with the toads later on, and, unaware that Mundungus was behind the theft, complained about how "his" toads had been taken. Mundungus offered to sell the toads he had to Will for an exorbitant price and Will agreed.<ref name="OOTP5">{{OOTP|B|5}}</ref>
+
+==Behind the scenes==
+*It is possible that this is the same character as [[Willy Widdershins]], another rogue mentioned in [[Harry Potter and the Order of the Phoenix|the same book]] who is known to participate in illegal endeavours.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Will]]
+[[fr:Will]]
+[[pl:Will]]
+[[Category:British individuals]]
+[[Category:Criminals]]
+[[Category:Males]]
+[[Category:Wizards]]

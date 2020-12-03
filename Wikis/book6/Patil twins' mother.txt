@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mrs Patil
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Patil twins' father|Mr Patil]] (husband)<br/>
+*[[Parvati Patil]] (daughter)<br/>
+*[[Padma Patil]] (daughter)<br/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Patil family]]
+}}
+'''Mrs Patil''' was the mother of [[Padma and Parvati Patil|Parvati and Padma Patil]] and a member of the [[Patil family]]. During the [[1996–1997 school year]], she and her husband, [[Patil twins' father|Mr Patil]], worried that their twin daughters would be in danger at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] since [[Tom Riddle|Lord Voldemort]] was back. The couple considered withdrawing the girls from the school, but ultimately did not.<ref name="HBP11">{{HBP|B|11}}</ref> Upon [[Draco Malfoy]] succeeding in allowing [[Death Eaters]] entrance into the castle, they immediately reverted their decision and retrieved the twins.<ref name="HBP30">{{HBP|B|30}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==See also==
+*[[Patil twins' father]]
+*[[Patil twins' parents]]
+
+==Notes and references==
+{{Reflist}}[[es:Madre de las gemelas Patil]]
+[[fr:Parents de Parvati et Padma Patil]]
+[[ru:Миссис Патил]]
+[[pl:Pani Patil]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Patil family]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

@@ -1,0 +1,88 @@
+{{Individual infobox
+|theme = dark-wizard
+|image = [[File:Morgan Le Fay.jpg|250px]]
+|name = Morgan le Fay
+|born = [[First millennium A.D.|982]] or later
+|died = [[Middle Ages]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = Morgana
+|title = Queen of [[Avalon]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = Red
+|eyes = Blue
+|skin = White
+|family = [[Arthur|King Arthur]] (half-brother)
+|romances = 
+|animagus = [[Bird]]
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Ruler of [[Avalon]]
+*[[Healer]]
+|house = 
+|loyalty = *[[Dark Arts]]
+*[[Avalon]]
+}}
+{{Quote|I've got Morgana again and I've got about six of her.|[[Ronald Weasley|Ron Weasley]] discussing Morgan le Fay's [[Chocolate Frog Card]]|Harry Potter and the Philosopher's Stone}}
+
+'''Morgan le Fay''', more commonly known as '''Morgana''', was a [[Middle Ages|medieval]] [[Dark Wizard|dark witch]], famous for being the enemy of the legendary wizard [[Merlin]] and the half-sister of [[Arthur|King Arthur]].<ref name="fwc">[[Chocolate Frog Card|Famous Wizard Card]] {{Comment|Morgan le Fay}}</ref>
+
+==Biography==
+===Lifetime===
+Morgan le Fay was born and lived during the [[Middle Ages]].<ref name="fwc" /> She was known to have had a half-brother, [[Arthur]].<ref name="fwc" />
+
+During her lifetime, Morgan le Fay played a role in numerous events through her powerful magic and [[Healer|healing]] skills. She was an [[Animagus]] (taking the form of a [[bird]]).<ref name="wotc">[[Chocolate Frog Card]]s {{see image|File:Morgan-le-Fay-CFC-WOTC.jpg}}</ref>
+
+Morgan ruled as Queen of the Island of [[Avalon]].<ref name="wotc" /> However, she became a skilful practitioner of the [[Dark Arts]] and an enemy of the great wizard [[Merlin]].<ref name="fwc" />
+
+===Legacy===
+Morgan le Fay was featured on a [[Chocolate Frog Card]] centuries after her death.<ref name="ps6">{{PS|B|6}}</ref> [[Ronald Weasley|Ron Weasley]] claimed he owned "about six" of this card in [[1991]].<ref name="ps6" />
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]''': Morgana's famous Wizard Card described her as a powerful [[Dark Wizard|Dark witch]],<ref name="fwc" /> meaning she would have highly proficient in many areas of dark magic and with the casting of [[dark charm]]s.  
+*'''[[Transfiguration]]''': Morgana was revealed to have mastered the art of [[Human Transfiguration]], having become an [[Animagus]]; being able to turn herself into a [[bird]] at will,<ref name="wotc" /> showing remarkable proficiency in this highly difficult branch of [[magic]].  
+*'''[[Potion]]s''': Being an Animagus, Morgan would have needed to have successfully brewed an [[Animagus potion]], in order to gain the ability to transform. This implies that she had great skill in potions, as brewing the Animagus potion is immensely difficult, complex and time-consuming.
+*'''[[Healing magic]]''': Morgana was noted to be particularly gifted in the art of healing magic, as she was a proficient [[Healer]], meaning she would have talented with [[healing spell]]s, potions and other magical remedies.<ref name="wotc" />
+
+==Behind the scenes==
+[[File:Morgan Le Fay-17-chocFrogCard.png|thumb|Morgan le Fay on a Famous Wizard Card]]
+*In the 1998 television film ''[https://en.wikipedia.org/wiki/Merlin_(miniseries) Merlin]'', with {{Wplink|Sam Neill}} as the title character, Morgan le Fay was portrayed by [[Helena Bonham Carter]], who later went on to play Dark witch and [[Death Eaters|Death Eater]] [[Bellatrix Lestrange]].
+*Before [[Emma Watson]] got the part of [[Hermione Granger]], she had acted only in school plays; one was "Arthur's Early Years", in which she played the role of Morgan le Fay.
+*Morgan le Fay is based on the legendary figure [[Wikipedia:Morgan le Fay|of the same name]], the daughter of King Arthur's mother the Lady Igraine and her first husband Gorlois, Duke of Cornwall (making her Arthur's half-sister in legend too).
+*Morgan le Fay's time of existence in the Harry Potter Universe (like Merlin, King Arthur etc) is paradoxical as the Morgan le Fay of the Arthurian legends is said to have lived in the 5th or 6th century. As Merlin attended Hogwarts and she was an enemy of Merlin, then she, like the ''legendary ''version of Merlin predates Hogwarts by around 400/500 years.
+
+==Appearances==
+{{Imagecat|Images of Morgan le Fay}}
+*{{PS}} {{1st Mention}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{FWC}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{Animagi}}
+{{Chocolate Frog Cards}}
+
+[[de:Margana]]
+[[es:Morgan le Fay]]
+[[fr:Morgane]]
+[[fi:Morgan le Fay]]
+[[it:Fata Morgana]]
+[[ru:Моргана Ле Фэй]]
+[[pl:Morgana le Fay]]
+[[Category:Animagi]]
+[[Category:Blue-eyed individuals]]
+[[Category:British or Irish individuals]]
+[[Category:Dark wizards|Fay, Morgan le]]
+[[Category:Females|Fay, Morgan le]]
+[[Category:Healers|Fay, Morgan le]]
+[[Category:Historical figures]]
+[[Category:Royalty|Fay, Morgan le]]
+[[Category:Silver Chocolate Frog Cards]]

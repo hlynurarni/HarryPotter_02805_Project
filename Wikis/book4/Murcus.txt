@@ -1,0 +1,69 @@
+{{Individual infobox
+|theme=individual
+|image=[[File:HP4GoF3328.jpg|250px]]
+|name=Murcus
+|hideb=
+|born=Before [[1994]]<ref name="GF26">{{GOF|B|26}}</ref>
+|died=
+|blood=
+|alias=
+|title=[[Merchieftainess]]<ref name="GF26"/>
+|hidep=
+|species=[[Selkie]] ([[Merpeople]])<ref name="GF26"/>
+|gender=Female<ref name="GF26"/>
+|height=
+|hair=Green<ref name="GF26"/>
+|eyes=Yellow<ref name="GF26"/>
+|skin=Grey<ref name="GF26"/>
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=Merchieftainess of the [[Great Lake Merpeople colony|Black Lake Selkie Colony]]<ref name="GF26"/>
+|house=
+|loyalty=*[[Great Lake Merpeople colony|Black Lake Selkie Colony]]<ref name="GF26"/>
+**[[Merpeople village]]<ref name="GF26"/>
+*[[Albus Dumbledore]]<ref name="HBP30">{{HBP|B|30}}</ref>
+}}
+
+[[Merchieftainess]] '''Murcus''' was a [[Selkie]] and the leader of the [[Merpeople]] who lived in the [[Great Lake|lake]] in the grounds of [[Hogwarts School of Witchcraft and Wizardry]].<ref name="GF26"/>
+
+==Biography==
+Murcus was, presumably, born and raised in the [[Great Lake|Black Lake]] in [[Scotland]], and at some point in time was pronounced [[Merchieftainess]] of the [[Great Lake Merpeople colony|Black Lake Selkie Colony]].<ref name="GF26"/>
+
+She witnessed the [[Triwizard Tournament#1994 Triwizard Tournament|Second Task]] of the [[Triwizard Tournament]] at [[Hogwarts School of Witchcraft and Wizardry]], watching carefully as each of the four champions struggled to achieve their task.<ref name="GF26"/> 
+
+Thereafter, she relayed the events at the bottom of the lake to [[Headmaster]] [[Albus Dumbledore]], who could speak and understand [[Mermish]] and who was responsible for overseeing the task.<ref name="GF26" /> 
+
+In [[June]] of [[1997]], she and her tribe attended the [[Funeral of Albus Dumbledore]], where they sung for him, a tune that despite being very chilling was clearly a lament of sorrow.<ref name="HBP30" /> It was evident to the onlookers present that she and her colony, at least, were sad to see him go.<ref name="HBP30" />
+
+==Physical appearance==
+Murcus, like the rest of her tribe, had long, wild, dark-green hair and brilliant yellow eyes that matched her teeth.<ref name="GF26"/> She was wilder and more ferocious than any of the others.<ref name="GF26"/>
+
+==Personality and traits==
+Despite her lethal and ferocious looks, she appeared to be quite caring, advising the judges to increase all of the marks of the participants in the Triwizard Tournament<ref name="GF26"/> and later singing gently as Albus Dumbledore was put to rest.<ref name="HBP30"/>
+
+==Behind the scenes==
+*In the [[Spain|Spanish]] version of the fourth book, Murcus is the male with the long beard.´
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}} {{C|Identified on storyboards}}
+*{{HBP}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Murcus]]
+[[ru:Муркус]]
+[[fr:Murcus]]
+[[es:Murcus]]
+[[pl:Murkus]]
+[[pt-br:Murcus]]
+[[Category:Females]]
+[[Category:Merpeople]]
+[[Category:Triwizard Tournament]]
+[[Category:Yellow-eyed individuals]]

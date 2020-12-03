@@ -1,0 +1,61 @@
+{{Spoiler|WU|HM}}
+{{HogwartsMysterySpoiler}}{{Individual infobox
+|theme = wizard
+|image = [[File:Barnabas the Barmy crop.jpg|250px]]
+|name = Barnabas the Barmy
+|born = 
+|died = 
+|blood = [[Magic]]al to unknown extent
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = Brown
+|skin = Light
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Troll]]s
+*[[Ballet]]
+}}
+'''Barnabas the Barmy''' was a [[Wizardkind|wizard]] who made a bizarre and foolish attempt to train [[troll]]s for the [[ballet]].<ref>{{OOTP|B|18}}</ref>
+A [[Troll Tapestry|moving tapestry]] depicting his attempt hung on the seventh floor of [[Hogwarts School of Witchcraft and Wizardry]], opposite the entrance to the [[Room of Requirement]].<ref>{{HBP|B|24}}</ref>
+
+==Etymology==
+*"Barnabas" is a Greek form of an Aramaic name. In Acts in the New Testament the byname Barnabas was given to a man named Joseph, a companion of Paul on his missionary journeys. The original Aramaic is unattested, but it may be from בּר נביא (bar naviya') meaning "son of the prophet", though in Acts 4:36 it is claimed that the name means "son of encouragement". As an English name, it came into occasional use after the 12th century.
+*According to the Oxford Dictionary of English, the word "barmy" is an informal adjective, chiefly used in Britain that means mad, crazy or extremely foolish.
+
+==Behind the scenes==
+*Actor [[Mason Kayne]] was considered for the role of Barnabas the Barmy to in the tapestry outside the Room of Requirement in the film, but the scenes were never filmed and the tapestry is not present in the corridor.
+
+==Appearances==
+*{{OOTP}} {{C|Appears on a tapestry}}
+*{{HBP}} {{C|Appears on a tapestry}}
+*{{HBP|G}} {{C|Appears on a tapestry}}
+*{{HPV|CR}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Barnabas der Bekloppte]]
+[[es:Barnabas el Chiflado]]
+[[fr:Barnabas le Follet]]
+[[nl:Barnabas Dastaard]]
+[[pl:Barnabasz Bzik]]
+[[ru:Варнава Вздрюченный]]
+[[sv:Barnabas den barnslige]]
+[[zh:傻巴拿巴]]
+[[Category:Brown-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

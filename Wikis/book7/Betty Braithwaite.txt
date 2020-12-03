@@ -1,0 +1,57 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = 
+|name = Betty Braithwaite
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DH2"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH2"/>
+|gender = Female<ref name="DH2"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Reporter for the ''[[Daily Prophet]]''<ref name="DH2"/>
+|house = 
+|loyalty = ''[[Daily Prophet]]''<ref name="DH2"/>
+}}
+'''Betty Braithwaite''' was a [[Wizardkind|witch]] who worked as a reporter for the ''[[Daily Prophet]]''.<ref name="DH2"/>
+
+In [[1997]], she got an exclusive interview with [[Rita Skeeter]] about her then-upcoming book, ''[[The Life and Lies of Albus Dumbledore]]''. She was invited into [[Rita Skeeter's home|Rita's home]], where Rita served her [[tea]] and a slice of [[pound cake]].<ref name="DH2">{{DH|B|2}}</ref>
+
+==Behind the scenes==
+*Braithwaite apparently took a liking to Rita Skeeter, or at least pretended to, as her article gave the impression of Skeeter being a sweet, kind woman, despite her cruel and libellous writings. However, this could have been due to an entirely understandable desire not to get on the wrong side of someone with such a poison pen, and a clear capacity to carry a grudge.
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{DH|F1}} {{Comment|Mentioned on Daily Prophet}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Braithwaite, Betty}}
+
+{{Daily Prophet}}
+
+[[de:Betty Braithwaite]]
+[[es:Betty Braithwaite]]
+[[fr:Betty Braithwaite]]
+[[pl:Betty Braithwaite]]
+[[ru:Бетти Брейтуэйт]]
+[[pt-br:Betty Braithwaite]]
+[[Category:British individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Females]]
+[[Category:Journalists]]
+[[Category:Wizards]]

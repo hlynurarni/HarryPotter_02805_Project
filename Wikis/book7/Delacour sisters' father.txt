@@ -1,0 +1,85 @@
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=[[File:Monsieur Delacour.jpg|250px]]
+|name=Monsieur Delacour
+|hideb=
+|born=
+|died=
+|nationality=[[France|French]]
+|title=Monsieur
+|blood=
+|alias=
+|hidep=
+|species=[[Human]]<ref name="DH6">{{DH|B|6}}</ref>
+|gender=Male<ref name="DH6"/>
+|height=Short<ref name="DH6"/>
+|hair=Black<ref name="DH6"/>
+|eyes=
+|skin=White<ref name="DHP1">{{DH|F1}}</ref>
+|hidef=
+|family=*[[Apolline Delacour]] (wife)
+*[[Fleur Delacour]] (daughter)
+*[[Gabrielle Delacour]] (daughter)
+*[[Apolline Delacour's mother|Apolline's mother]] (mother-in-law)
+*[[William Weasley|Bill Weasley]] (son-in-law)
+*[[Victoire Weasley]] (granddaughter)
+*[[Dominique Weasley]] (granddaughter)
+*[[Louis Weasley]] (grandson)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=[[Delacour family]]
+}}
+{{Quote|Monsieur Delacour was nowhere near as attractive as his wife; he was a head shorter and extremely plump, with a little, pointed black beard. However, he looked good-natured. Bouncing towards Mrs Weasley on high-heeled boots, he kissed her twice on each cheek, leaving her flustered.|Harry Potter's first impression of Monsieur Delacour|Harry Potter and the Deathly Hallows}}
+'''M. Delacour''' was a [[France|French]] [[Wizardkind|wizard]], married to the [[half-Veela]] witch [[Apolline Delacour]]. He and Apolline had two daughters, [[Fleur Delacour|Fleur]] and [[Gabrielle Delacour|Gabrielle]]. Both of whom loved him dearly and affectionately referred to him as "''papa"''.<ref name="DH6" /> In 1997 Fleur married [[William Weasley|Bill Weasley]] and through this marriage the family became in-laws of the Weasleys.
+
+==Biography==
+===Early life===
+Little is known of Monsieur Delacour's earlier life, including where he received his education, where he was born and what his childhood and early adulthood were like. There is no indication of his profession.
+
+At some point throughout his life, he met [[Apolline Delacour|Apolline]], who he married and who therefore took his name.<ref name="DH6"/> With her, he had two daughters, [[Fleur Delacour|Fleur]] and [[Gabrielle Delacour|Gabrielle]], both of whom eventually attended [[Beauxbatons Academy of Magic]].
+
+===1995===
+In [[1995]], he and his wife travelled to [[Hogwarts School of Witchcraft and Wizardry]] in [[Scotland]], where they visited Fleur there, before she took part in the Third Task of the [[Triwizard Tournament]].<ref name="GOF31">{{GOF|B|31}}</ref>
+
+===Fleur's wedding===
+His elder daughter Fleur was twenty years old when she finally wed [[William Weasley]] on [[1 August]], [[1997]].<ref name="DH6"/> Monsieur Delacour and his wife arrived shortly before the wedding to assist with the preparations, and proved to be kind, polite and extremely helpful.<ref name="DH6"/> He declared absolutely everything to be "''charmant''," and on the day before the wedding gifted an [[enchanted razor]] to [[Harry Potter]] for his seventeenth birthday.<ref name="DH6"/>
+
+M. Delacour was last seen listening to [[Kingsley Shacklebolt]]'s warning, delivered through his [[Patronus Charm|Patronus]] which took the form of a [[lynx]], shortly before the [[Death Eaters]] attacked the wedding.<ref name="DH8"/> He, his wife and his children survived the attack and went into hiding, Fleur to [[Shell Cottage]] with her husband and the Delacours back to [[France]].<ref name="DH8">{{DH|B|8}}</ref>
+
+Through his [[Fleur Delacour|oldest daughter]] and his [[William Weasley|son-in-law]], he was the maternal grandfather of [[Victoire Weasley|Victoire]], [[Dominique Weasley|Dominique]] and [[Louis Weasley]].
+
+==Physical appearance==
+Monsieur Delacour was extremely short and quite plump, with a little, very pointed black beard.<ref name="DH6"/> He gave an appearance of being a kind and jovial person, although it was noted that he was not quite as attractive as his wife.<ref name="DH6"/> He wore high-heeled boots and had a very deep voice.<ref name="DH6"/>
+
+==Personality and traits==
+Monsieur Delacour was extremely pleasant, kind and helpful, keen to assist with the wedding preparations for his daughter Fleur and pronouncing absolutely everything from the bridesmaid's shoes to the seating plan to be "''charmant''."<ref name="DH6"/> He argued with his hosts [[Arthur Weasley|Arthur]] and [[Molly Weasley]] in a futile attempt to have them stay in their own bedroom.<ref name="DH6"/> He was also a very loving father, as both his children affectionately called him "''papa.''"
+
+==Behind the scenes==
+*M. Delacour is not known to have visited Fleur during the [[Triwizard Tournament]]. His wife and his younger daughter both visited (and Gabrielle participated in the Second Task), but M. Delacour is notably not mentioned during their visit before the Third Task; however, it is possible he visited at another time and Harry simply did not notice him.
+*In the film, M. Delacour has short, neat grey hair and is clean-shaven, and is also quite tall, being taller than [[Arthur Weasley]], whose height is noted to be quite grand in the books. He does not appear in the video game instalment of the seventh book.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}}
+
+==Notes and references==
+{{Reflist}}[[ru:Мсье Делакур]]
+[[de:Monsieur Delacour]]
+[[es:Monsieur Delacour]]
+[[fr:Monsieur Delacour]]
+[[zh:德拉库尔姐妹的父亲]]
+[[pl:Pan Delacour]]
+[[Category:Delacour family]]
+[[Category:French individuals|Delacour, Monsieur]]
+[[Category:Males|Delacour, Monsieur]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

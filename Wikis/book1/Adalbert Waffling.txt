@@ -1,0 +1,89 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Aldabert waffling.jpg|250px]]
+|name = Adalbert Waffling
+|born = 
+|died = [[1981]] 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *Author
+*[[Magic]]al theoretician
+|house = 
+|loyalty = 
+}}
+{{Quote|Tamper with the deepest mysteries ― the source of life, the essence of self ― only if prepared for consequences of the most extreme and dangerous kind.|Waffling's first [[Fundamental Laws of Magic|Fundamental Law of Magic]]|The Tales of Beedle the Bard (real)}}
+
+'''Adalbert Waffling''' (d. [[1981]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] who was a [[magic]]al theoretician, credited to have written "all about magic". Waffling is somewhat seen as the "father of magical theory", as it is a popular claim that every modern witch or wizard has learned from his writings.
+
+Waffling was the one who formulated the [[Fundamental Laws of Magic]] and wrote ''[[Magical Theory]]'', a most popular textbook still being used today by the young witches and wizards at [[Hogwarts School of Witchcraft and Wizardry]].
+
+==Biography==
+===Early life===
+Adalbert Waffling was born in or before the 19th-century. By the [[1890s]] he was already a most notable theoretician.<ref name="DH2">{{DH|B|2}}</ref> Waffling might have attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, like so many other wizards before him.
+===Later life===
+[[File:Adalbert Waffling USA Card.jpg|206x206px|thumb|left|Waffling studying [[Magic]]]]By the [[1890s]], Waffling was already one of most notable wizards of the date,<ref name="DH2" /><ref>[https://www.pottermore.com/features/things-we-bet-the-hogwarts-portraits-do-when-noone-is-watching| Pottermore - things we bet the Hogwarts portraits do when no-one is looking] - ''Imagine you’re a long-suffering wizarding portrait of someone famous, like Adalbert Waffling''.</ref> so it is more than likely he published some of his writings before this point. Around this time [[Albus Dumbledore]], the "''most brilliant student ever seen [at Hogwarts]''", was in regular correspondence with Waffling in order to exchange ideas about magic.<ref name="DH2" /> [[Minerva McGonagall]] later shared these letters with members of the [[Statute of Secrecy Task Force]] who pursued a [[Professor]]ship profession to help improve their skills in addressing the [[Calamity]].<ref>{{WU}} ([https://youtu.be/Mc5_6YJXVvQ?t=300 see video])</ref>
+
+Waffling died in [[1981]].<ref name="PSG">{{PS|G}}</ref>
+
+==Behind the scenes==
+[[File:Theory.jpg|thumb|right|''[[Magical Theory]]'', Waffling's most popular textbook]]
+*In early editions of {{POA}}, ''[[A History of Magic]]'' is incorrectly said to be written by Adalbert Waffling, instead of [[Bathilda Bagshot]].
+*In {{DH}}, it is revealed that [[Albus Dumbledore]] corresponded with Waffling during his time at [[Hogwarts School of Witchcraft and Wizardry]]. However, the dates given for Waffling's birth on his [[Chocolate Frog Card]] say that he was born after Dumbledore graduated (in [[1899]]).
+*Adalbert Waffling's death date coincides with the height of the [[First Wizarding War]] and the original [[Attack at Godric's Hollow (1981)|downfall of Lord Voldemort]]. It is unknown if he died as a result of the war, or died of another reason.
+
+==Etymology==
+''Adal'' is Old High German for "''noble''" or "''aristocratic''"; ''berta'', "''bright''". To waffle means unable to make a firm decision.
+
+==Appearances==
+{{Imagecat|Images of Adalbert Waffling}}
+*{{PS}} {{1st Mention}}
+*{{PS|F}} {{Comment|Name is seen on book cover}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA}} {{Mention}}
+*{{POA|F}} {{Comment|Name seen on wood panelling}}
+*{{POA|G}} {{FWC}}
+*{{DH}} {{Mention}}
+*{{TBB|R}} {{Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]''
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Waffling, Adalbert}}
+
+{{Chocolate Frog Cards}}
+
+[[de:Adalbert Schwahfel]]
+[[de2:Adalbert Schwahfel]]
+[[es:Adalbert Waffling]]
+[[fi:Adalbert Waffling]]
+[[fr:Adalbert Lasornette]]
+[[it:Adalbert Waffling]]
+[[nl:Adalbert Zwatel]]
+[[pl:Adalbert Waffling]]
+[[Category:1981 deaths]]
+[[Category:19th century births]]
+[[Category:Authors]]
+[[Category:British individuals]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Males]]
+[[Category:Theoreticians]]
+[[Category:Wizards]]

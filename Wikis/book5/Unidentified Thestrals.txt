@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = [[File:Thestral_on_air.gif|250px]]
+|name = Unidentified Thestrals
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Thestral]]
+|gender = Males, Females
+|height = 
+|hair = Black
+|feathers = 
+|eyes = White
+|skin = Black
+|family = [[Tenebrus]]
+|loyalty = *[[Hogwarts Thestral herd|Hogwarts Thestral Herd]]
+*[[Rubeus Hagrid]]
+*[[Dumbledore's Army]]
+}}
+{{Dialogue a-b-c|Hermione|Well, we need three.|Ginny|Four, Hermione.|Luna|I think there are six of us, actually.|[[Hermione Granger]], [[Ginevra Weasley|Ginny Weasley]], and [[Luna Lovegood]]|Harry Potter and the Order of the Phoenix}}
+
+These '''Thestrals''' were part of the [[Hogwarts Thestral herd|Hogwarts Thestral Herd]]; they were used by [[Dumbledore's Army]] to ride to the [[British Ministry of Magic Headquarters|Ministry of Magic]] on [[17 June]], [[1996]] after Harry had a dream about [[Tom Riddle|Lord Voldemort]] [[Cruciatus Curse|torturing]] [[Sirius Black]].
+
+==Biography==
+The Thestrals were either introduced or born into the [[Forbidden Forest]] and the herd of [[Thestral]]s already existing therein. As they were adults, it is likely that they had lived in the Forest for some time.
+
+On [[17 June]], [[1996]], [[Harry Potter]] had a dream about [[Sirius Black]] being tortured by Lord Voldemort in the [[Department of Mysteries]];<ref name="OOTP31">{{OOTP|B|31}}</ref> [[Dolores Umbridge]] caught him and [[Hermione Granger]] in the [[fire]] talking to [[Kreacher]] at [[12 Grimmauld Place]],<ref name="OOTP32">{{OOTP|B|32}}</ref> but Hermione led the pair into the Forest, where the [[centaur]] colony drew [[Dolores Umbridge]] away and, when [[Grawp]] the [[giant]] assaulted them, they fired arrows at him, peppering the ground and those on it with [[blood]].<ref name="OOTP33">{{OOTP|B|33}}</ref>
+
+[[Luna Lovegood]], [[Ginevra Weasley|Ginny Weasley]], [[Neville Longbottom]] and [[Ronald Weasley|Ron Weasley]], who had been captured by Umbridge's [[Inquisitorial Squad]], met them in the Forest. The Thestrals, drawn to them by the giant [[blood]] soaking Harry and Hermione, offered a method of transport on which they could get to [[London]] and thus to the Ministry.<ref name="OOTP33"/>
+
+After several hours riding, the Thestrals finally reached their destination, and began scavenging for food in the rubbish bins outside the Ministry.<ref name="OOTP34">{{OOTP|B|34}}</ref> It can be presumed that they returned to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+
+==Behind the scenes==
+*It is possible the Thestrals stayed outside the Ministry until Ron, Hermione, Ginny, Neville and Luna emerged and then carried them back to the school, although it is equally likely that the [[Order of the Phoenix|Order]] members who had fought in the [[Battle of the Department of Mysteries]] [[Apparition|Apparated]] the students back to school.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}}
+
+==Notes and references==
+{{Reflist}}[[Category:Battle of the Department of Mysteries]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Thestrals]]
+[[Category:Unidentified individuals]]

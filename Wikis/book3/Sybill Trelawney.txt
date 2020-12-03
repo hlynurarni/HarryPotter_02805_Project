@@ -1,0 +1,467 @@
+{{Spoiler|WU|HM}}
+{{FA}}
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Trelawney ootp.jpg|250px]]
+|name = Sybill Patricia Trelawney
+|born = [[9 March]],<ref name="PM">{{WW|sybill-trelawney}}</ref> [[1960s|prior to 1963]]<ref name="birth">Trelawney was hired in [[1981]] and was at least 17. Thus, she had to be sorted by 1973 (at the latest to have graduated for 1980 - graduating that June/July) and be born by 1963 (to be old enough) to be sorted in 1974.</ref>
+|died = 
+|blood = [[Half-blood]]<ref name="PM" />
+|marital = Divorced<ref name="PM"/><ref name="pottermorebirthday">[https://twitter.com/pottermore/status/310427258319937536 Pottermore Twitter]</ref>
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Professor]]<ref name="POA6">{{POA|B|6}}</ref>
+*[[Seer]]<ref name="POA6"/>
+|signature = 
+|species = [[Human]] ([[Seer]])<ref name="POA6"/>
+|gender = Female<ref name="POA6"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Sybill Trelawney's father|Mr Trelawney]] (father)<ref name="PM"/>
+*[[Sybill Trelawney's mother|Mrs Trelawney]] (mother)<ref name="PM"/>
+*[[Higglebottom]] (ex-husband)<ref name="PM"/>
+*[[Cassandra Trelawney]] (great-great-grandmother) †<ref name="OTP"/>
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+|wand = [[Sybill Trelawney's wand|Hazel and unicorn hair, 9½ inches, very flexible]]<ref name="PM"/>
+|patronus = Non-corporeal<ref name="LEGOY1"></ref><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = *[[Professor]] of [[Divination (class)|Divination]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] ([[1981]] - [[1996]], [[1997]] - ?)<ref name="POA6"/>
+*Head of the [[Divination Workshop]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]] (possibly)
+*Author
+|house = [[Ravenclaw]]<ref name="PM"/>
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="POA6"/>
+**[[Ravenclaw]]<ref name="PM"/>
+**[[Slug Club]] (possibly<ref name="Slug Club">Trelawney attended the [[Slug Club Christmas party]], implying she may have been a member. Being descended from [[Cassandra Trelawney]], [[Horace Slughorn]] would have presumably liked to "collect" her as well.</ref>)
+*[[Order of the Phoenix]] (during the [[Battle of Hogwarts]])<ref name="DH"/>
+*[[Dumbledore's Army]] (during the [[Battle of Hogwarts]])<ref name="DH"/>
+*[[Divination Workshop]] (possibly)
+*[[Trelawney family]]<ref name="PM"/>
+}}
+{{Dialogue a-b|Trelawney|Certainly I knew, Minerva. But one does not parade the fact that one is All-Knowing. I frequently act as though I am not possessed of the Inner Eye, so as not to make others nervous.|Minerva McGonagall|That explains a great deal.|Professor Trelawney's dubious gift|Harry Potter and the Prisoner of Azkaban}}
+
+'''Professor Sybill Patricia'''<ref name="Patricia">[http://www.accio-quote.org/articles/2004/0304-wbd.htm 4 March, 2004 World Book Day Chat]</ref>''' Trelawney''' (b. [[9 March]],<ref name="PM" /><ref name="pottermorebirthday" /> [[1960s|pre 1962]]<ref name="birth" />) was a [[half-blood]]<ref name="PM"/> [[Wizardkind|witch]] and [[professor]] of [[Divination (class)|Divination]] at [[Hogwarts School of Witchcraft and Wizardry]]. She is the great-great-granddaughter of the celebrated [[Cassandra Trelawney]],<ref name="OTP" /> who was also a [[Seer]].
+
+It was Trelawney herself who made [[Sybill Trelawney's first prophecy|the prophecy]] concerning [[Tom Riddle|Lord Voldemort]] and the one with the power to vanquish him (Voldemort took this to mean [[Harry Potter]]) during her job interview with [[Albus Dumbledore]].<ref name="HBP" /> At the end of the [[1993–1994 school year]], she accurately [[Sybill Trelawney's second prophecy|predicted]] the escape of [[Peter Pettigrew]] and [[Return of Lord Voldemort|return]] of Lord Voldemort.<ref name="PA">{{POA}}</ref> In the [[1995–1996 school year]], Trelawney was greatly distressed by [[Dolores Umbridge]], who dismissed her and attempted to banish her from [[Hogwarts Castle]], though Dumbledore allowed her to remain at the school,<ref name="OTP">{{OOTP}}</ref> with Umbridge being greatly offended when she later had to teach alongside the [[centaur]] [[Firenze]].<ref name="HBP">{{HBP}}</ref> In the [[1997–1998 school year]], she participated in the [[Battle of Hogwarts]], dropping [[crystal ball]]s on [[Death Eaters]]' heads<ref name="DH">{{DH}}</ref> and tending to the wounded and dead along with [[Padma Patil]].<ref name="DHP2">{{DH|F2}}</ref>
+
+Professor Trelawney continued to teach well into the [[2010s]], continuing her tradition of predicting the [[death]]s of her students.<ref name="PI">[http://insider.pottermore.com/2014/03/happy-birthday-professor-trelawney.html 9 March, 2014: Happy Birthday Professor Trelawney!]</ref> Since Firenze was welcomed back to [[Forbidden Forest Centaur colony|his herd]],<ref name="Firenze gone?">[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, 30 July, 2007]</ref> it is possible that she taught Divination on her own again.
+
+==Biography==
+===Early life===
+{{Dialogue a-b-a-b|Dolores Umbridge|And you are a great-great-granddaughter of the celebrated seer Cassandra Trelawney?|Trelawney|Yes.|But I think — correct me if I am mistaken — that you are the first in your family since Cassandra to be possessed of the Second Sight?|These things often skip — er — three generations.|Sybill Trelawney being questioned by [[Dolores Umbridge]]|Harry Potter and the Order of the Phoenix}}
+
+Sybill was born on [[9 March]] in an unknown year, to a [[Non-magic people|Muggle]] mother and [[Wizardkind|wizard]] father,<ref name="PM" /> into the [[half-blood]] [[Trelawney family]]. There were three generations between her and [[Cassandra Trelawney]], who was a renowned [[Seer]]. No one in the family since Cassandra had possessed the [[Divination|Second Sight]].
+
+Presumably purchasing or inheriting [[Sybill Trelawney's wand|her wand]] at the age of eleven, Sybill attended [[Hogwarts School of Witchcraft and Wizardry]], which she referred to as her home. Being [[Sorting ceremony|Sorted]] into [[Ravenclaw]] by [[1973]] at the latest, she may have been a member of the [[Slug Club]]<ref name="Slug Club" /> because of her ancestry. In her [[third year]], Sybill would have taken [[Divination (class)|Divination]] as one of her elective [[Hogwarts subjects|subjects]] in her [[third year]], and achieved high grades in her [[Ordinary Wizarding Level|O.W.L]] and [[Nastily Exhausting Wizarding Test|N.E.W.T]].
+
+She married early, but it ended in unforeseen rupture due to Sybill's refusal to adopt the surname [[Higglebottom]]. They had no children.<ref name="PM"></ref>
+
+After graduating, Sybill drifted through the [[wizarding world]], trying to gain employment based on her ancestry but scorning those who did not offer what she felt was the rightful treatment of a true Seer.<ref name="PM"/>
+
+===Job application===
+{{Quote|The one with the power to vanquish the Dark Lord approaches... Born to those who have thrice defied him, born as the seventh month dies... and the Dark Lord will mark him as his equal, but he will have power the Dark Lord knows not... and either must die at the hand of the other for neither can live while the other survives...|Sybill's [[Sybill Trelawney's first prophecy|prophecy]] which secured her job|Harry Potter and the Order of the Phoenix}}
+
+[[File:Trelawney_1980.jpg|236x236px|thumb|left|Sybill making [[Sybill Trelawney's first prophecy|the prophecy]] at the [[Hog's Head]]]]
+
+Either late in [[1979]] or early in [[1980]],<ref>{{OOTP|B|15}} - "“Now,” said Umbridge, looking up at Trelawney, “you’ve been in this post how long, exactly?” [...] “Nearly sixteen years.”"</ref><ref>{{OOTP|B|17}} - "“I say nothing,” she choked, “of sixteen years’ devoted service. ..."</ref><ref>{{OOTP|B|24}} - "“You c-can’t!” howled Professor Trelawney, tears streaming down her face from behind her enormous lenses, “you c-can’t sack me! I’ve b-been here sixteen years</ref> Sybill, who by this point had begun making false predictions, arranged a meeting with [[Albus Dumbledore]] in the [[Hog's Head]] where she was staying in the hopes of acquiring the position of [[professor]] of [[Divination (class)|Divination]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]]. [[Albus Dumbledore|Dumbledore]], who was not planning on continuing divination at Hogwarts, agreed to give her a chance because of her ancestry.
+
+Sybill displayed none of [[Cassandra Trelawney|Cassandra]]'s divinatory skills, which disappointed [[Albus Dumbledore|Dumbledore]] even though he was planning on discontinuing the subject anyway. After courteously telling her she was not fit for the position, Sybill entered a real trance and made the [[Sybill Trelawney's first prophecy|prophecy]] about [[Tom Riddle|Voldemort]]'s [[Attack at Godric's Hollow (1981)|defeat]]. It so happened that the [[Death Eaters|Death Eater]] [[Severus Snape]] was eavesdropping at the door, which placed Trelawney in great danger from Voldemort. Hoping to protect Sybill, [[Albus Dumbledore|Dumbledore]] hired her; despite this fact, she did not join the faculty until 1981.<ref>''Hogwarts Mystery - Year 6 - Chapter 2 - Professor Trelawney: "A proud member of the faculty since '''1981"'''''</ref>
+
+===Career at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]===
+
+====Early years ([[1981]]-[[1990]])====
+{{Quote|Sybill Trelawney has predicted the death of a student every year since she came to this school. None of them have died yet.|[[Minerva McGonagall]] regarding Trelawney's abilities|Harry Potter and the Prisoner of Azkaban}}
+[[File:Trelawney's first Divination lesson in the trio's third year.jpg|250x250px|thumb|Professor Trelawney teaching [[Divination]] at Hogwarts]]
+As a professor, Trelawney taught in the [[Divination Classroom]] on the seventh floor of the [[North Tower]].<ref name="PA" /> She presumably also ran the [[Divination Workshop]]. Sybill made many [[Sybill Trelawney's predictions|predictions]] over her time at Hogwarts. Minerva McGonagall once claimed that she predicted the death of one of her students every year, none of whom had yet died.
+
+Knowing her talents pale in comparison to her colleagues,<ref name="PM" /> Professor Trelawney very rarely attended meals in the [[Great Hall]] with the rest of the school, preferring to remain in her tower. She appeared to be acquainted with a certain colleague of hers, but frequently clashed with Professor McGonagall.<ref name="PA" />
+
+Trelawney attended the [[Start-of-Term Feast]] in [[1989]].<ref>{{HM|6|1}}</ref>
+
+====1991-1992 school year====
+{{Quote|Do not disturb, crystal gazing|Trelawney's notice|Harry Potter and the Philosopher's Stone (video game)}}
+
+At some point in the [[1991–1992 school year]], Professor Trelawney locked her classroom door, with a notice saying "''Do not disturb, crystal gazing''". [[Harry Potter]], who had just joined the school, attempted to open it without realising that it was locked.<ref name="PSG">{{PS|G}}</ref>
+
+====1993-1994 school year====
+{{Quote|So you may have chosen to study Divination, the most difficult of all magical arts. I must warn you at the outset that if you do not have the Sight, there is very little I will be able to teach you. Books can take you only so far in this field....|Trelawney first meeting with her new [[third year]] class|Harry Potter and the Prisoner of Azkaban}}
+
+[[File:Trelawney teaching.jpg|245x245px|thumb|left|Trelawney introducing the art of Divination]]
+
+During the [[1993–1994 school year]], Professor Trelawney gained [[Harry Potter]] as a student, who had only chosen to take [[Divination]] because his friend, [[Ronald Weasley]], had.<ref name="CS">{{COS}}</ref> She opened her lesson with normal fortune-teller practises and vague predictions, including that [[Neville Longbottom]] would break at least one teacup, something [[Lavender Brown]] was dreading would happen on 16 October, and that, around Easter, one of her students would leave the class forever. During a class on tea leaves, Trelawney saw the [[Grim]] — a well-known omen of death — in Harry Potter's cup. This visibly disturbed the class, who went rather shaken to [[Transfiguration (class)|Transfiguration]] with [[Minerva McGonagall|Professor McGonagall]].<ref name="PA" />
+
+[[File:Herm-tre.jpg|245x245px|thumb|Trelawney inadvertently insulting [[Hermione Granger]] during one of her lessons]]
+After Neville broke two teacups, Lavender's rabbit [[Binky]] was killed, and Hermione Granger, after being greatly insulted by Professor Trelawney, stormed out of a lesson, Lavender and [[Parvati Patil]] became great supporters of Trelawney.<ref name="PA" /><ref name="OTPG">{{OOTP|G}}</ref>
+
+During Christmas, Trelawney decided to join the small dinner in the [[Great Hall]]. However, once she saw the amount of people at the table she tried to refuse, claiming that if she joined, they would become a party of the unlucky number thirteen and the first to rise would be the first to die. An impatient [[Minerva McGonagall|McGonagall]] stated that they would risk it. Two hours later, both Harry and Ron bolted up from their seats, causing Trelawney to shrilly ask which one of them got up first. McGonagall dryly joked that unless there was a mad axe-man waiting in the [[Entrance Hall]] to slaughter the first person he saw, it made little difference. However, Ron was accompanied by [[Peter Pettigrew#Scabbers|Scabbers]] at the time, who unbeknownst to all was actually [[Peter Pettigrew]], thus meaning that thirteen dined at the table. As Dumbledore stood to welcome Trelawney, he was the first to rise from a table of thirteen, and also the first to die, meaning that Trelawney predicted the death of Dumbledore years before the event occurred.<ref name="PA" />
+
+[[File:Sybilltrelawneysprophecy.jpeg|245x245px|thumb|left|Trelawney making her [[Sybill Trelawney's second prophecy|second prophecy]] with Harry Potter as a witness]]
+
+While conducting the third year exams with the [[Gryffindor]]s, Professor Trelawney, while invigilating Harry Potter, entered a trance and made a [[Sybill Trelawney's second prophecy|prediction]] that [[Tom Riddle|Voldemort]]'s [[Peter Pettigrew|servant]] would be freed, returning to him that night. When she returned to normal seconds later, she could not remember anything that had happened.<ref name="PA" />
+
+Harry later told this to [[Albus Dumbledore|Professor Dumbledore]], who jokingly said that he should offer her a pay raise for making a total of two real prophecies.<ref name="PA" />
+
+====1994-1995 school year====
+{{Quote|You are preoccupied, my dear. My Inner Eye sees past your brave face to the troubled soul within. And I regret to say that your worries are not baseless. I see difficult times ahead for you, alas... most difficult... I fear the thing you dread will indeed come to pass... and perhaps sooner than you think...|Professor Trelawney trying to predict Harry Potter's future|Harry Potter and the Goblet of Fire}}
+[[File:SybilTrelawney WB F3 TrelawneyInDivinationClassroomWithStudents Illust 080615 Land.jpg|245x245px|thumb|Professor Trelawney teaching [[Harry Potter]] and his class]]
+The following year, the [[Triwizard Tournament]] took place at Hogwarts and Harry Potter was one of the champions. Trelawney continued to annoy him with increased predictions of his death. She guessed that Harry had lost his parents because he was born during midwinter, heralding a tragic life. However, Harry told her he was born in July. Unbeknownst to Harry, who was the final Horcrux, Voldemort was born in December. So, Trelawney’s prediction of a tragic life was in fact accurate.<ref name="GOF">{{GOF}}</ref>
+
+Once, [[Rita Skeeter]], in the form of a beetle, eavesdropped upon Harry during Trelawney's lesson when Harry had a crisis caused by his scar. Trelawney was very excited and pressed Harry to tell her what had happened, saying that she had experience in these matters and that the clairvoyant vibrations of her room could allow him to see further than he had ever seen before. Unfortunately for Trelawney, Harry refused.<ref name="GOF"/>
+
+At the end of the year, Trelawney learned about the death of [[Cedric Diggory]] and the return of [[Tom Riddle|Voldemort]]. The [[Second Wizarding War]] had begun.<ref name="GOF"/>
+
+===Second Wizarding War===
+
+====1995-1996 school year====
+{{Quote|Professor Trelawney was standing in the middle of the entrance hall with her wand in one hand and an empty sherry bottle in the other, looking utterly mad. Her hair was sticking up on end, her glasses were lopsided so that one eye was magnified more than the other; her innumerable shawls and scarves were trailing haphazardly from her shoulders, giving the impression that she was falling apart at the seems. Two large trunks lay on the floor beside her, one of them upside-down; it looked very much as though it had been thrown down the stairs after her.|Sybill Trelawney while she is being sacked by [[Dolores Umbridge]]|Harry Potter and the Order of the Phoenix}}
+
+[[File:Welcoming feast 1996.jpg|244x244px|thumb|left|Trelawney at the 1996 welcoming feast]]
+
+Early on in the [[1995–1996 school year]], [[Dolores Umbridge]] was made [[Hogwarts High Inquisitor]] by [[British Ministry of Magic|Ministry]] edict, and appeared in Trelawney's classroom with a clipboard, making notes. Trelawney saw this as an intrusion, and was most upset and angered by it. Umbridge asked Trelawney to justify her teaching techniques and required a prediction from her. Trelawney at first was indignant, and haughtily claimed that the Inner Eye did not See upon command. Unimpressed, Umbridge made to leave. Panicked, Trelawney attempted to persuade Umbridge that she could suddenly see great danger in her future, but the High Inquisitor remained unmoved -- whether Trelawney ''had'' actually seen Umbridge in danger in the forest at the end of the year or whether she just made it up based on the Defence Against the Dark Arts curse is unknown.<ref name="OTP"/>
+
+During free time that year, Professor Trelawney was visited in her tower by Lavender Brown and the [[Padma Patil|Patil]] twins, who had additional sessions of Divination with her.<ref name="OTPG" />
+
+[[File:Trelawney evaluation.jpg|246x246px|thumb|Trelawney being evaluated by Dolores Umbridge]]
+
+Umbridge later put Professor Trelawney on [[probation]], which greatly distressed and insulted her. She became uncharacteristically brisk and started drinking a large amount of [[sherry|cooking sherry]], which she hid in the [[Room of Requirement]].<ref name="HBP" /> Harry Potter noted that Trelawney became more harassed and bedraggled in appearance, like she was falling apart at the seams. Umbridge would stalk Trelawney during every one of her lectures, interrupting her increasingly hysterical talks with difficult questions regarding [[Heptomology]] and [[Ornithomancy]], insisting that Sybill predict students' answers before they gave it to her, and demanding she demonstrate her skills at the [[Crystal-gazing|crystal ball]], [[Tessomancy|tea leaves]] and rune stone in turn. Umbridge states that she saw no improvement in Trelawney's performance to the point that she could not predict tomorrow's weather.<ref name="OTP"/>
+
+After Harry Potter stood up to Professor Umbridge by giving an interview to ''[[The Quibbler]]'', edited by [[Xenophilius Lovegood]], Trelawney showed her support by breaking her usual pattern of predicting horrible deaths for Harry, instead predicting that he would have a long life, become [[Minister for Magic]], and have twelve children, a prediction that made Umbridge unhappy.<ref name="OTP"/>
+
+[[File:Umbridge_sacks_Trelawney_1996.jpg|250x250px|thumb|left|Umbridge presenting Trelawney's [[Order of Dismissal]]]]
+
+Eventually, Trelawney was [[Order of Dismissal|dismissed]] by Umbridge, who almost threw her bodily from the castle, gleefully relishing the fact that Trelawney was in paroxysms of grief over her dismissal. Before she could be chased off the premises, [[Albus Dumbledore|Dumbledore]] came to her aid and insisted that she stay at Hogwarts, as Umbridge had no authority to banish her from the school grounds. This was partially to protect Trelawney from Voldemort who would target her for making the prediction concerning Harry and himself. Despite not having much respect for Trelawney, McGonagall comforted her as best she could and helped [[Filius Flitwick]] and [[Pomona Sprout]] get her back inside to her tower.<ref name="OTP"/>
+
+Trelawney was replaced by the [[centaur]] [[Firenze]], appointed by Dumbledore, much to Umbridge's shock and fury; she hated both the fact that Firenze was what she called a "half-breed" and that Dumbledore appointed someone without consulting her (in spite of the fact that [[Educational Decree Number Twenty-Two]] does not let her deny such an action). Firenze taught in [[Classroom Eleven|Classroom 11]] rather than the [[North Tower]], where Trelawney remained living.<ref name="OTP"/>
+
+She was finally reinstated to her teaching position after Umbridge was suspended. This meant that, since Dumbledore could not ask him to return to the [[Forbidden Forest Centaur colony|herd]] that tried to kill him, she would have to share classes with Professor Firenze, a fact she was not pleased with.<ref name="OTP"/>
+
+====1996-1997 school year====
+{{Quote|[[Firenze|He]] and Professor Trelawney are dividing classes between them this year. The sixth year is being taken by Professor Trelawney.|[[Minerva McGonagall|McGonagall]] talking to Parvati Patil regarding Divination lessons|Harry Potter and the Half-Blood Prince}}
+
+During the 1996–1997 school year, Professor Trelawney attended the Start-of-Term Feast, and sat next to [[Rubeus Hagrid|Professor Rubeus Hagrid]], who taught [[Care of Magical Creatures]]. That year, Trelawney and Firenze divided the students between them by year. Trelawney taught the fifth<ref>In {{HBP|B|15}}, [[Luna Lovegood]] mentioned to Trelawney that she had Firenze instead of her during the [[Slug Club Christmas party]].</ref> and sixth years.<ref name="HBP"/>
+
+[[File:B6C15M1 Slug Club Christmas party.png|250x250px|thumb|A drunken Sybill Trelawney at the [[Slug Club Christmas party]]]]
+
+She continued to drink due to her humiliation of working with a "[[horse]]" while hiding her cooking sherry in the [[Room of Requirement]]. At [[Horace Slughorn]]'s [[Slug Club Christmas party|Christmas party]], Trelawney was morosely drunk. She spent the night listening to [[Luna Lovegood]]'s speeches on the "Rotfang Conspiracy" and that [[Rufus Scrimgeour]] was a [[vampire]]. She seemed rather interested.<ref name="HBP"/>
+
+In mid-March, Professor Trelawney demanded, quite unsuccessfully, that Professor Dumbledore fire Firenze. Their meeting was cut short when [[Harry Potter]] arrived for one of his [[Harry Potter and Albus Dumbledore's private lessons|private lessons]] with the Headmaster.<ref name="HBP"/>
+
+Later, Trelawney attempted to enter the Room of Requirement, but was thrown out by [[Draco Malfoy]], who apparently used [[Peruvian Instant Darkness Powder]] to conceal his identity. Harry Potter found her sprawled on the floor and helped her up. He encouraged her to accompany him to Dumbledore's office to tell the Headmaster what had happened to her. On the way, she started talking about the day she was hired. When Trelawney mentioned that the eavesdropper had been [[Severus Snape]], Harry left her standing in the corridor and ran off to confront Dumbledore with this information.<ref name="HBP"/>
+
+She stated that she missed having Harry in her classes, and though he was never much of a Seer, he was a "wonderful Object."<ref name="HBP25">{{HBP|B|25}}</ref>
+
+====Battle of Hogwarts====
+{{Quote|And with a move like a tennis serve, she heaved another enormous crystal sphere from her bag, waved her wand through the air, and caused the ball to speed across the hall and smash through a window.|Trelawney fighting in the Battle of Hogwarts|Harry Potter and the Deathly Hallows}}
+
+During the 1997–1998 school year, [[Tom Riddle|Voldemort]] had taken over [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] and made Snape headmaster. [[Alecto Carrow]] replaced the murdered [[Muggle Studies]] teacher, [[Charity Burbage]], and [[Amycus Carrow]] took Snape's position as [[Defence Against the Dark Arts]] teacher, which became simply the [[Dark Arts (class)|Dark Arts]]. It is possible that she, like all of the other staff members, tried to protect the students from the [[Death Eaters]]. Professor Trelawney, being [[half-blood]], was permitted to remain teaching at the school. It is unknown why Voldemort did not attempt to capture her. It is possible that since Voldemort had since turned his attention to finding the [[Elder Wand]], he believed that any prophecy concerning him and Harry would be rendered irrelevant upon its retrieval, of which he was wrong.<ref name="DH"/>
+
+[[File:Deathly_Hallows_Part_2._Professor_Trelawney_and_Padma_Patil.jpg|235x235px|thumb|left|Professor Trelawney with [[Padma Patil]]]]
+
+Like the rest of the school, Professor Trelawney participated in the [[Battle of Hogwarts]]. She fought by dropping [[crystal ball]]s on enemies' heads, successfully knocking out [[Fenrir Greyback]] as he attacked [[Lavender Brown]]. Unfortunately, she was unsuccessful in saving Lavender, who died from injuries caused by the werewolf. Trelawney continued using her [[Sybill Trelawney's wand|wand]] to throw crystal balls onto the heads of [[Death Eaters]] with a "tennis-like serve." Eventually, the Death Eaters were all defeated, along with Voldemort who was defeated once and for all by [[Harry Potter]].<ref name="DH"/>
+
+===Later life===
+Professor Trelawney survived the [[Second Wizarding War]] and continued to teach well into the [[2010s]], continuing her tradition of predicting the deaths of her students.<ref name="PI" /> Since [[Firenze]] was welcomed back to [[Forbidden Forest Centaur colony|his herd]]<ref name="Firenze gone?" />, it is possible that she taught [[Divination]] on her own again. Trelawney wrote a book entitled ''[[My Eyes and How to See Past Them]]''.<ref>http://harrypotter.wikia.com/wiki/My_Eyes_and_How_to_See_Past_Them</ref>
+
+====The Calamity====
+During the 2010s, Professor Trelawney appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to free her, allowing Trelawney to return to her original time.<ref name="WU">{{WU}}</ref>
+
+In [[August]] [[2020]], during another surge of the Calamity, fragments were found of a [[Sybill Trelawney's possible third prophecy|prophecy]] allegedly made by Professor Trelawney in the [[1990s]]. In it, she predicted the Calamity. She also claimed that the “Ministry of Fools” will blame “the Grim man” for at least a year. However, since [[Grim Fawley]] learned to manipulate the Calamity, this prophecy could have been falsified.<ref name="WU"/>
+
+==Physical description==
+{{Quote|Harry's immediate impression was of a large, glittering insect. Professor Trelawney moved into the firelight, and they saw that she was very thin; her large glasses magnified her eyes to several times their natural size, and she was draped in gauzy, spangled shawl. Innumerable chains and beads hung around her spindly neck, and her arms and hands were encrusted with bangles and rings|Harry's impression of Trelawney|Harry Potter and the Prisoner of Azkaban}}
+
+[[File:Rummelfiold.jpg|218x218px|thumb|Professor Sybill Trelawney]]
+
+Professor Trelawney was described as being a thin woman, usually draped in gauzy shawls, and cloaks and bangles all covered with shining sequins and glittering strings of beads.<ref name="PA"/>
+
+She had thick glasses, which hugely magnified her eyes and caused them to appear about ten times their normal size. She spoke in a soft, misty, ethereal voice, though she would become brisk and snappy when she was angry or upset.<ref name="PA"/>
+
+During Umbridge's constant harassment, Trelawney's appearance became increasingly bedraggled from the stress, with [[Harry Potter]] describing her as though she was falling apart at the seams.<ref name="OTP"/>
+
+==Personality and traits==
+{{Quote|Welcome. How nice to see you in the physical world at last. Welcome to [[Divination (class)|Divination]]. My name is Professor Trelawney. You may not have seen me before. I find that descending too often into the hustle and bustle of the main school clouds my [[Inner Eye]]|Professor Trelawney greets her third-year students|Harry Potter and the Prisoner of Azkaban}}
+Trelawney was extremely eccentric; she had a theatrical presence and frequently spoke in misty, ethereal tones. She saw herself as being a great [[Seer]], although her predictions rarely came true. Much like [[Gilderoy Lockhart]], Trelawney was sometimes unable to understand who liked and who disliked her. She was, however, conscious of her low status amongst the staff, which led to her spending most of her time apart from her colleagues in her office.
+
+According to [[Minerva McGonagall|Professor McGonagall]], seeing death omens was a favourite way for Trelawney to greet her class, something that greatly annoyed [[Harry Potter]] as he was her frequent target. One of her hobbies was practising doom-laden prophecies in front of the mirror.<ref name="PM" /> She became angered when she believed that students were not impressed by nor interested in her subject, such as [[Ronald Weasley]] and [[Hermione Granger]].
+
+She took her appearance as a Seer seriously, putting on showy airs of mysticism and veiling her classroom in scented vapours. She could be very defensive in the face of those disbelieving in her abilities, attempting to impress them with false predictions of impending danger. She would claim that those unbelievers had "lack of Sight" or that they were simply scared of Seers.
+
+Trelawney was implied to have had a mild drinking problem; a number of times Harry detected the smell of old sherry on her, and at one point, she was seen stowing away empty [[alcohol]] bottles in the [[Room of Requirement]]. She was especially fond of [[sherry]]. This escalated during the reign of the [[Hogwarts High Inquisitor]], in which Sybill's stress at being monitored so closely led her to appear more drunk during work hours.
+
+[[File:Odf-promocional-trelawney.jpg|240x240px|thumb|left|Trelawney in fits of tears when Argus Filch evicted her on orders of Umbridge]]
+She was very sensitive, most notably when [[Dolores Umbridge]] placed her on probation and then dismissed her. Trelawney expressed on how she believed that all of the High Inquisitor's questionings and demands were an insult to a self-proclaimed Seer, but her own inability to cope with the pressure led to a spiralling emotional breakdown that Umbridge considered to be an embarrassment to the rest of the school. Trewlaney's poor control over her emotions led her to behave more unprofessionally when she turned to alcoholism to such an extent that Harry could catch the smell of sherry on her; she was actually holding a bottle of sherry at the time of her dismissal. Sybill was, however, loyal to the school and defended it during the [[Battle of Hogwarts]].
+
+==Magical abilities and skills==
+{{Dialogue a-b|Trelawney|I was saying that Saturn was surely in a position of power in the heavens at the moment of your birth... your dark hair... your mean stature... tragic losses so young in life... I think I am right in saying, my dear, that you were born in midwinter?|Harry Potter|No, I was born in July.|Trelawney's often inaccurate abilities as a seer|Harry Potter and the Goblet of Fire}}
+*'''[[Divination]]''': Sybill Trelawney was a [[Seer]], meaning she could receive genuine [[vision]]s of the future with her [[Inner Eye]]. Despite this, Trelawney was generally dismissed as a fraud, but there is evidence that this is not true. Almost every prediction she made, including the ones not made under the influence of Second Sight, came to pass. The only possible exceptions to this were the ones where she foreshadowed Harry's death (though he did technically die in 1998) and the ones she blatantly fabricated for the [[The Quibbler|Quibbler]] interview simply to annoy [[Dolores Umbridge|Umbridge]]. While Trelawney had the gift of sight, she lacked the gift of interpretation which is why when she saw a [[grim]] (a large black [[dog]]) in the cup, she interpreted it as an omen of death rather than the return of [[Sirius Black|a wizard in animagus form]]. Her most notable non-second sight prediction was probably the foretelling of the [[death]] of [[Albus Dumbledore]] and the [[Battle of the Astronomy Tower]] via [[Tarot cards]]. As noted prior, she did also possess the Second Sight like her ancestor, [[Cassandra Trelawney|Cassandra]]. This caused her to go into trances, where she would speak true [[Prophecy|prophecies]] before returning to normal. However, she would have no memory of making the prediction afterwards. All things considered, Professor Trelawney could be said to be a rather accurate Seer in spite of her reputation.
+*'''[[Nonverbal spell|Nonverbal magic]]''': Trelawney was able to cast [[spell]]s and [[charm]]s non-verbally. During the [[Battle of Hogwarts]], she launched [[crystal ball]]s at enemies using [[Sybill Trelawney's wand|her wand]] without saying any [[incantation]]s.<ref name="DH"/> This actually testifies to her being a powerful witch, as non-verbal magic is very difficult.
+{{Quote|There's more to me than incense and tea leaves, Mr Finnigan.|Trelawney regarding her duelling skills|Harry Potter and the Deathly Hallows: Part 2}}
+*'''[[Duelling]]''': Trelawney was shown to have a remarkable amount of skill in duelling and in [[martial magic]], since she participated in and survived the [[Battle of Hogwarts]].<ref name="DH"/> For example, she blasted a Death Eater off a tower with significant force, to which members of Dumbledore's Army regard her with utter amazement.<ref name="SK">[https://www.scribd.com/doc/163084623/29/INT-DIAGON-ALLEY-DARK-ALLEY-MORNING-189-189 ''Harry Potter and the Deathly Hallows: Part 2'' script]</ref>
+*'''[[Charm]]s''': Trelawney was capable of producing a non-corporeal [[Patronus Charm|Patronus]].<ref name="LEGOY1" /><ref name="LEGOY2"/> which is a sign of superior [[magic]]al skill, given how advanced and difficult the immensely powerful [[spell]] is to perform.  
+
+==Prophecies==
+
+===The Chosen One===
+{{Main|Sybill Trelawney's first prophecy}}
+
+{{Quote|The one with the power to vanquish the Dark Lord approaches... born to those who have thrice defied him, born as the seventh month dies… and the Dark Lord will mark him as his equal, but he will have power the Dark Lord knows not… and either must die at the hand of the other for neither can live while the other survives… the  one with the power to vanquish the Dark Lord will be born as the seventh month dies.…|The first Prophecy|Harry Potter and the Order of the Phoenix}}
+
+Her first true prediction was made in the presence of [[Albus Dumbledore]] at the [[Hog's Head]] inn.<ref>{{OOTP}}, Chapter, "The Lost Prophecy". </ref> Trelawney was in the middle of an interview for a teaching job at Hogwarts when it was made. Dumbledore reported that he had decided not to give Trelawney the job, but changed his mind when he heard [[Sybill Trelawney's first prophecy|the prophecy]]. Trelawney herself is not aware that she made the prophecy, merely remembering that she came over faint, which she attributed to not having eaten that day.
+
+This prediction is believed to refer to Voldemort ("The Dark Lord") and Harry Potter, who was born on [[31 July]]. At the time of its prophesying, the identity of the child was not known as he had not been born yet. The time of year the prophecy was made is unknown. 
+
+[[File:Pda-hq_(23).jpg|237x237px|thumb|Lesson [[divination]] with [[Professor]] Trelawney]]
+
+It later became apparent that the prophecy could have applied to either Harry or [[Neville Longbottom]], who was also born at the end of the seventh month on [[30 July]]. Part of the prediction came to pass on the night of [[31 October]], [[1981]], when Voldemort's body was destroyed after Harry survived an attack from him, using the killing curse, ''[[Killing Curse|Avada Kedavra]]''. The attack left Harry with an ability to speak [[Parseltongue]], a [[Harry Potter's scars|lightning-shaped scar]] on his forehead, and a mental connection to Voldemort. It was Dumbledore's view that it was Voldemort's choice of Harry as his target from the two possible boys, that caused Harry to have the power to vanquish the Dark Lord. In other words, the only reason Harry had the power to defeat Voldemort is that Voldemort believed he did. By attacking Harry, Voldemort caused the prophecy to become true.
+
+The prophecy as interpreted by [[Albus Dumbledore|Dumbledore]] to Harry in June ''[[1996]]'' read: "Someone (Harry or Neville) with the power to vanquish Voldemort is coming... born to those who have defied Voldemort three times (the Potters or the Longbottoms), born at the end of July... and Voldemort will attempt to kill Harry, but Harry will unexpectedly survive... either Harry or Voldemort must be killed by the other because one of them must die... Harry will be born at the end of July..."
+
+When Harry and the others arrive in the [[Hall of Prophecy]] in the [[Department of Mysteries]], Ron found a [[Prophecy Record|record of the prophecy]] that had a tag which read:
+
+:''S.P.T. to A.P.W.B.D.''
+:''Dark Lord''
+:''and (?) Harry Potter''
+
+S.P.T. stands for '''S'''ybill '''P'''atricia '''T'''relawney and A.P.W.B.D. stands for '''A'''lbus '''P'''ercival '''W'''ulfric '''B'''rian '''D'''umbledore. The question mark before the Harry Potter is because at the time it was unclear who the prophecy was written about, but when Voldemort sought to murder Harry, the prophecy record was changed to include his name.
+
+===The Servant Rejoins His Master===
+{{Main|Sybill Trelawney's second prophecy}}
+
+{{Quote|It will happen tonight. The Dark Lord lies alone and friendless, abandoned by his followers. His servant has been chained these twelve years. Tonight, before midnight... the servant will break free and set out to rejoin his master. The Dark Lord will rise again with his servant's aid, greater and more terrible than ever he was. Tonight... before midnight...the servant...will set out...to rejoin...his master....|Sybill Trelawney|Harry Potter and the Prisoner of Azkaban}}
+
+Professor Trelawney’s second true prophecy prophesised this occurrence subconsciously to [[Harry Potter]] in [[1994]] in her classroom. This prophecy came to pass when [[Peter Pettigrew#Scabbers|Scabbers]]' true identity was revealed and he escaped to help bring Voldemort back to health.
+
+===Other predictions===
+Professor Trelawney has made other minor predictions, too, some of which came true, though it may be a coincidence.
+*She told [[Neville Longbottom]] to take a blue cup after breaking his first one, because she likes the pink ones. Neville immediately took a cup, broke it, and then later broke his second cup as well.
+*She also asked Neville about his grandmother, saying she may not be as well as he thought. Depending on your interpretation, this could arguably have come true. This may be Sybill misinterpreting Neville's first Defence Against the Dark Arts lesson, when Neville's boggart (taking the form of Snape) is forced to don his grandmother's clothes. Perhaps Sybill merely saw Mrs Longbottom's clothes with a mannish face, and mistakenly believed it was the real Mrs Longbottom with a distorted face.
+*She predicted Neville would be late for his next [[divination]] class.
+*She told [[Parvati Patil]] to beware of a red-headed man. Parvati immediately suspected [[Ronald Weasley|Ron]], who sat behind her. At the [[Yule Ball]], [[Harry Potter|Harry]] and Ron, Parvati's and her sister Padma's dates, ignored them both. Two years later, Ron started going out with Parvati's best friend [[Lavender Brown]], who consequently started to ignore Parvati.
+*She predicted a bout of [[flu]] in [[February]], and that she herself would lose her voice.
+
+[[File:Prof Trelawney.jpg|250x250px|thumb|Professor Trelawney talking to her Divination class]]
+
+*She predicted that the thing Lavender was dreading would happen on [[16 October]]. On that day, Lavender got a letter that her pet rabbit, Binky, had been killed by a fox. [[Hermione Granger|Hermione]] was sceptical, indicating that Lavender could hardly have dreaded her new rabbit dying, and that the death could not have happened on the day the news arrived. (Though this can be argued, as Lavender was dreading something horrible on that day.)
+**It is worth noting that everyone at Hogwarts - including Lavender - was perpetually afraid of Sirius Black breaking into the castle. This does indeed come to pass on exactly October 16, when he tears up the Fat Lady's portrait out of rage over not being allowed into Gryffindor Tower.
+*On the beginning of [[1993–1994 school year]], she told in the whole class that, near [[Easter]], one of their number will leave them forever. [[File:Pdahq1_(1).jpg|thumb|229x229px|Sybill Trelawney - an experienced forecaster, though she does not remember her [[Prophecy|prophecies]]]] It seems that her prediction was fulfilled when Hermione quit the class in disgust near Easter holidays.
+*At the [[Christmas]] lunch, Trelawney at first refused to join the table, since ''when thirteen dine together, the first to rise will be the first to die''. Harry Potter and Ron Weasley got up from the table first together, but Albus Dumbledore was the first among those at the table to die. Also, she did not take into account of [[Peter Pettigrew]] (who was at the time disguised as Scabbers) which would in fact count as fourteen people. However before she was seated, there ''were'' thirteen people at the table, counting Scabbers. [[Albus Dumbledore]] was the first to rise and greet her, and he was the first person to die.
+**In [[1995]], thirteen members of the order dined together, and the first to rise was [[Sirius Black|Sirius]], who was the first to die of those thirteen people.
+**Also, after the [[Battle of the Seven Potters]], thirteen people (Mr and Mrs Weasley, Bill, Fleur, Fred, George, Ron, Ginny, Harry, Hermione, Lupin, Tonks and Hagrid) gathered in [[The Burrow]] to mourn the death of [[Alastor Moody]]. Afterwards, Lupin stood up and offered to look for Moody's dead body. Later in the [[Battle of Hogwarts]], Lupin was killed by [[Antonin Dolohov]]. Fred and Tonks were also killed, but as the time of Lupin's death is unknown, it is possible he was first.
+*In [[1994-1995 school year|Harry's fourth year]] Trelawney, while discussing star charts, commented that given his "dark hair, mean stature, [and] tragic losses so young in life..." Saturn was likely in a position of power when he was born, and suggested that he was born in mid-winter. Interestingly (and unknown to both at that time), Harry was a [[Horcrux]] of [[Tom Riddle|Voldemort]], who was born on New Years Eve.
+*When [[Dolores Umbridge]] was appointed [[Hogwarts High Inquisitor]] during [[1995–1996 school year|Harry's fifth year]], she insisted that Trelawney demonstrate her abilities by prophesying something. Trelawney claimed that she saw dark events ahead for [[Dolores Umbridge|Umbridge]], which Umbridge immediately dismissed as nonsense. Later, Umbridge was dragged off and imprisoned by centaurs in the [[Forbidden Forest]].
+*In [[1996–1997 school year|Harry's sixth year]] he saw Trelawney coming and hid from her. As she passed, he saw that she was examining a pack of cards and muttered, "A dark young man, possibly troubled, one who dislikes the questioner." She dismissed her own words as nonsense, unaware of Harry's presence or his dislike of her. Later in the year, Harry saw [[Draco Malfoy|Draco]] arguing with [[Severus Snape|Snape]] as he questioned Draco on the progress of his mission for Voldemort. Later Trelawney again met Harry in the corridors, and this time complained that Dumbledore had been repeatedly dismissing her warnings of impending disaster. She looked at some Tarot cards and saw, "... the lightning-struck tower... Calamity. Disaster. Coming nearer all the time...". This seems to predict the events of Dumbledore's death on the [[Astronomy Tower]]. The Lightning-Struck Tower tarot card (The Tower) is generally considered representative of disaster or life-altering change.
+*According to Professor McGonagall, Trelawney had predicted the death of one student each year since her arrival at Hogwarts (which was in 1980). As of 1993, not a single one of those had yet died.<ref name="PA6">{{POA|B|6}}</ref> 
+**To be fair, her predictions of death do not give any time frames. Since all people must die eventually, her predictions of death are necessarily accurate 100% of the time, as long as there is no time frame for these predictions to come to pass.
+*In 1996, however, she retracted her prediction regarding Harry Potter as a means of attempting to annoy Dolores Umbridge, stating that he would live to a ripe, old age, become [[Minister for Magic]] and have twelve children; a prediction that also, as of now, has not come to pass as of the present day.<ref name="OP26">{{OOTP|B|26}}</ref>
+
+==Possessions==
+[[File:Sybill Trelawney wand.png|thumb|Trelawney's wand]]
+*'''[[Sybill Trelawney's wand|Wand]]''': Sybill Trelawney, presumably since the age of eleven, possessed a [[wand]] made of [[unicorn hair]] and [[hazel]]. She wielded it in the [[Battle of Hogwarts]], launching [[crystal ball]]s at [[Death Eaters]] in a tennis-serve motion.
+*'''[[Crystal ball]]s''': As one of the [[Divination (class)|Divination]] teachers, Professor Trelawney owned several crystal balls. She used them as weapons during the [[Battle of Hogwarts]], and used one to knock out the [[werewolf]] and [[Snatchers|Snatcher]] [[Fenrir Greyback]].
+*'''[[Sybill Trelawney's cat|Pet cat]]''': Professor Trelawney owned a pet [[cat]] who lived in the [[Divination Classroom]] at the top of the [[North Tower]]. It was sitting on a chair during her lessons and when Trelawney made her [[Sybill Trelawney's second prophecy|second prophecy]].
+*'''[[Tarot cards]]''': Professor Trelawney owned a pair of tarot cards for the means gaining insight into future events. During the [[1996-1997 school year]], she made frequent visits to [[Albus Dumbledore]] to inform him about bad omens she was seeing in her cards.
+
+==Relationships==
+===Family===
+Sybill took great pride in her lineage of the great Seer [[Cassandra Trelawney]], and tend to ride on that fact when trying to gain employment, despite showcasing none of her great-great-grandmother's talent.<ref name="PM"/>
+
+Sybill married a man by the surname [[Higglebottom]], but her refusal to take his surname caused their [[marriage]] to end unexpectedly and rather acrimoniously.<ref name="PM"/>
+
+===Lavender Brown and Parvati Patil===
+{{Quote|She says I've got all the makings of a true Seer. I saw loads of stuff ''[...]'' |[[Parvati Patil]] on Professor Trelawney|Harry Potter and the Prisoner of Azkaban}}
+
+[[File:Divination_class.jpg|235x235px|thumb|left|The Patil twins in Divination class]]
+
+[[Lavender Brown]] and [[Parvati Patil]] seemed to have an exceptionally close relationship with Sybill Trelawney; they had an unwavering faith in the reliability of Trelawney's predictions, and were often seen comforting her and seeking out her company. The two girls often spent lunch periods in the North Tower with Trelawney, returning to the other Gryffindors with smug looks as though they knew something the others did not. Both of them even became offended on the Professor's behalf when Hermione made clear her disdain for Trelawney and the subject she taught in 1993. When she was temporarily sacked by Dolores Umbridge, Lavender and Parvati brought Trelawney some nice daffodils to cheer her up.
+
+For her part, Trelawney seemed to return their genuine affection for her. For example, she told Parvati that she had the makings of a true Seer,<ref name="PA" /> and tried in vain to save Lavender from [[Fenrir Greyback]] by dropping a crystal ball on his head during the Battle of Hogwarts. Sadly, Lavender died from her injuries caused by the werewolf.
+
+===Dolores Umbridge===
+{{Dialogue a-b-a-b-a|Dolores Umbridge|I'd like you to make a prediction for me|Trelawney|The [[Inner Eye]] does not See upon command!|I see|I — but — but — ''wait''! I... I think I ''do'' see something... something that concerns ''you''... Why, I sense something... something dark... some grave peril... I am afraid... I am afraid that you are in grave danger!|Right. Well, if that's really the best you can do ''[...]'' |Professor Trelawney performing poorly in Umbridge's inspection|Harry Potter and the Order of the Phoenix}}
+[[File:Dolores_Umbridge_Deathly_Hallows_promotional_image.jpg|216x216px|thumb|[[Dolores Umbridge]], her enemy]]
+
+Sybill Trelawney strongly disliked [[Dolores Umbridge]], the [[Defence Against the Dark Arts]] professor and later [[Hogwarts High Inquisitor]] because of the way the pink nightmare treated her during her insulting inspections of Sybill's Divination classes as well as being asked to predict on command. It was during Umbridge's reign at Hogwarts when Harry, who did not like Trelawney very much, felt pity for her.
+
+Umbridge interfered in Trelawney's lessons and soon put the Divination teacher on probation. After receiving this news, Trelawney sobbed and furiously proclaimed dramatically that she had been insulted by the establishment, those whose eyes were clouded by the Mundane, and did not possess the Inner Eye, and that it was, alas, the fate of all Seers to be feared by society and persecuted. Trelawney, very distressed, then began to drink copious amounts of [[Sherry|cooking sherry]]. She became somewhat brisk in her lessons, looking very bedraggled and harassed much of the time, and would sob uncontrollably while teaching.
+
+Umbridge believed that Trelawney was an old fraud and, true to her duties of High Inquisitor to weed out any unsatisfactory teachers, eventually sacked her in a rather unceremonious — and even cruel — way. When Dumbledore defended Trelawney and let her stay at Hogwarts, Umbridge was furious with Dumbledore because he had already picked out a replacement teacher, [[Firenze]]. Firenze was a [[centaur]], a creature Umbridge was prejudiced against because of her hatred of "half-breeds". Umbridge left Hogwarts in 1996 after the [[Skirmish in the Forbidden Forest]] at the end of the school year, and Trelawney resumed teaching Divination along with Firenze, who could not go back to his herd in the [[Forbidden Forest|Forest]] as they had banished him for working with humans. Trelawney viewed this as a great insult.
+
+===Minerva McGonagall===
+
+{{Dialogue a-b|Trelawney|I dare not, Headmaster! If I join the table, we shall be thirteen! Nothing could be more unlucky! Never forget that when thirteen dine together, the first to rise will be the first to die!|Minerva McGonagall|We'll risk it, Sybill. Do sit down, the turkey's getting stone cold.|Trelawney and McGonagall at [[Christmas]]|Harry Potter and the Prisoner of Azkaban}}
+
+[[File:Mcgonagall.jpg|226x226px|thumb|left|[[Minerva McGonagall]], her fellow teaching colleague]] 
+
+Professor Trelawney and [[Minerva McGonagall]] were colleagues as professors at [[Hogwarts School of Witchcraft and Wizardry]]. McGonagall had no use for Trelawney's subject, [[Divination (class)|Divination]], politely describing it as an 'imprecise' branch of magic. She also, like many others, believed that Trelawney was a fraud.<ref name="PA" />
+
+Despite her distaste for Trelawney and her teachings, the professors would grow to understand one another through their shared hatred of [[Dolores Umbridge]] during the woman's tenure as the [[Defence Against the Dark Arts]] Professor. When Dolores sacked Trelawney, McGonagall comforted her and spoke out against Umbridge's behaviour.<ref name="OTP" />
+
+In many ways, McGonagall's relationship with Trelawney was similar to [[Hermione Granger]]'s relationship with [[Luna Lovegood]].
+
+===Albus Dumbledore===
+{{Quote|I cannot ask Firenze to return to the Forest, where he is now an outcast, nor can I ask Sybill Trelawney to leave. Between ourselves, she has no idea of the danger she would be in outside the castle. She does not know — and I think it would be unwise to enlighten her — that she made the prophecy about you and Voldemort, you see.|Professor Dumbledore to [[Harry Potter]] on Professor Trelawney.|Harry Potter and the Half-Blood Prince}}
+
+[[File:600full-Albus-Dumbledore-the-prisoner-of-azkaban-photo.jpg|221x221px|thumb|[[Albus Dumbledore]], her employer]]
+
+Upon their first meeting, [[Albus Dumbledore]] initially believed that she did not have the gifts of second sight, but when he heard her prophecy about [[Harry Potter]] and [[Tom Riddle|Voldemort]], he hired her in order to protect her from the Dark Lord and his [[Death Eaters]].  Although Dumbledore was sceptical of Divination, he was fond of Trelawney. He did concede that she made two real prophecies, leading him to lightly joke that he should give her a pay rise.
+
+In [[1996]], Trelawney was angry with Dumbledore, as he allowed [[Firenze]] to continue teaching Divination alongside her. This made Trelawney think that Dumbledore disliked and insulted her, and she asked him several times to fire her.
+
+During [[1997]], Trelawney predicted [[Plot to assassinate Albus Dumbledore|Dumbledore's death]] at the [[Astronomy Tower]] several times without realising it.
+
+===Firenze===
+{{Quote|Or Dobbin, as I prefer to think of him. You would have thought, would you not, that now I am returned to the school Professor Dumbledore might have got rid of the horse? But no... we share classes... it's an insult, frankly, an insult.|Trelawney speaking about [[Firenze]]|Harry Potter and the Half-Blood Prince}}
+
+[[File:Firenzeinharrypotter.jpg|202x202px|thumb|left|[[Professor]] [[Firenze]], her co-Divination professor, whom she disliked]] 
+
+After Professor Trelawney was dismissed, Dumbledore hired the [[centaur]] [[Firenze]] to replace the vacant spot of [[Divination (class)|Divination]] [[professor|teacher]]. After Umbridge left Hogwarts and Trelawney was reinstated, Dumbledore refused to fire Firenze, as his herd would not take him back. This greatly angered Trelawney.
+
+Co-teaching with him, she called him names, such as "the Nag," and "Dobbin", among others. She believed that the headmaster preferred Firenze to herself. However, after the [[Second Wizarding War]], she might have changed her opinion.
+
+===Hogwarts staff===
+[[File:Unidentified_teacher_in_slug_party.jpg|236x236px|thumb|An [[Unidentified female Hogwarts teacher|unidentified teacher]], who was a friend of Professor Trelawney]]
+
+[[Charms Master]] [[Filius Flitwick]] and [[Herbology]] [[professor|teacher]] [[Pomona Sprout]] were kind enough to escort Professor Trelawney back to the [[North Tower]] after her [[Order of Dismissal|dismissal]], with Flitwick magically [[Locomotion Charm|carrying]] her trunks and possessions.<ref name="OTP"/>
+
+She disliked the [[Potions Master]] and former-[[Death Eaters|Death Eater]] [[Severus Snape]], most likely because he rudely eavesdropped on her job interview with [[Albus Dumbledore]] in the [[Hog's Head]].
+
+Professor Trelawney appeared to be friendly with [[Unidentified female Hogwarts teacher|a colleague]] of hers, who taught some unknown subject. She tended to her during the [[Battle of Hogwarts]], but unfortunately, she did not survive the battle. Just before Voldemort summoned his troops back to the Forbidden Forest, the Professor's body was brought to the Great Hall. There were no signs of external damage so they believed she was taken by the [[Killing Curse]].
+
+==Etymology==
+Both her name and her surname are related to her future telling ability. "Sibyl" was a priestess in ancient Roman mythology. A sibyl (one "l") is a woman who could look into the future. A sibyl also can be any female prophet. The name is from the Latin sibylla, seer. Rowling chose to spell it "Sybill", because she did not feel Trelawney really qualified as a "Sibyl".<ref name="PM" />
+
+"Sybil" could also originate from the Sybilline Books, a Roman collection of oracular occurrences.
+
+Her middle name, "Patricia", comes from Latin and means "noble woman".
+
+"Trelawney" is derived from a famous cry of defiance from the south-west of England, where Rowling grew up, often shouted at football matches:
+
+"And shall Trelawney live? And shall Trelawney die? Here's ten thousand Cornishmen who ask the reason why!"
+
+The cry is a line from ''The Song of the Western Men'', written in [[1833]] by the poet and parson Robert Stephens Hawker and the unofficial Cornish national anthem. It concerns the march to London in [[1688]] in protest at the incarceration in the Tower of Jonathan Trelawney, Bishop of Bristol. This could be a reference to Trelawney predicting the death of one of her students every year. It is also interesting to note that Bishop Trelawney also was released and went on to live for another thirty-three years, just as Professor Trelawney's famous death predictions rarely came true.
+
+The name "Trelawney" comes from the Cornish phrase ''tre-lonow'', homestead of groves, or ''tre-launow'', farm in clearing. J. K. Rowling claimed that she picked the name because of her love of Cornish surnames, which she had not used in her books before. The age of the name also made it suitable, because of Trelawney's over-reliance on her ancestry when seeking to impress.<ref name="PM" />
+
+==Author's comments==
+[[J. K. Rowling]] has stated that she does not believe in [[magic]], and does not intend that her readers should believe in it either. She has hinted that the portrayal of Trelawney (a mystic and fortune-teller, perhaps the kind of "magic" that children are most likely to come across) as something of an ineffectual old fraud may be related to this. However, her name and the reference to a grandmother named Cassandra is somewhat contradicting. In Greek mythology, Cassandra was a Trojan [[seer]] who received the gift of prophecy from Apollo, but when she spurned his romantic advances, the god in his wrath cursed her that she would be ever correct but never believed. This suggests that perhaps some of Trelawney's pronouncements may be more accurate than is often believed.
+
+She said that she imagined that Trelawney's pre-Hogwarts existence consisted of drifting through the wizarding world, trying to trade on her ancestry to secure employment, and scorning those who did not offer her what she felt was the status due to a Seer.<ref name="PM" />
+
+==Behind the scenes==
+[[File:SybillTrelawneyHPHW.png|150px|thumb|Sybill Trelawney in {{HM}}]]
+[[File:TrelawneyHP7.jpg|155px|thumb|[[Emma Thompson]] as Sybill Trelawney]]
+[[File:Trelawney LEGO.jpg|168px|thumb|Sybill as a [[LEGO Harry Potter|LEGO]] minifigure (old edition)]]
+[[File:Sybill Trelawney Lego.jpg|thumb|Sybill Trelawney as a LEGO minifigure (later edition)]]
+[[File:Sybil_Trelawney.png|thumb|Sybill Trelawney in {{LEGO|Y1}}]]
+[[File:Professor Trelawney LEGOY2.png|thumb|Sybill Trelawney in {{LEGO|Y2}}]]
+[[File:TrelawneyPOP.jpg|thumb|Sybill Trelawney as a [[POP! Vinyl]]]]
+[[File:Brilliant_Professor_Trewlaney_WU.png|thumb|Sybill Trelawney as seen in {{WU}}]]
+*In {{OOTP}}, Trelawney's first name is misspelled as ''Sybil''.
+*Her middle name Patricia is said to be Priscila in some of the Brazilian editions.
+*Sybill could possibly be derived from the name of a group ancient Roman oracles known as the [[wikipedia:Sybilline oracles|Sybilline oracles]], which is appropriate considering her ability to tell the future and make accurate prophecies.
+*Trelawney is portrayed by [[Emma Thompson]] in the [[Harry Potter (film series)|film adaptations]] of ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]'', ''[[Harry Potter and the Order of the Phoenix (film)|Order of the Phoenix]]'' and ''[[Harry Potter and the Deathly Hallows: Part 2|Deathly Hallows: Part 2]]''. Thompson does not appear in ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]'' because she was filming for ''Nanny McPhee and the Big Bang'', despite the fact that ''Harry Potter'' co-star [[Maggie Smith]] also appears in the film (although, as supporting cast, and thus not having as many scenes as Thompson, who portrayed the lead character, Nanny McPhee.) Thompson would later appear alongside [[Emma Watson]] as Mrs Potts in Disney's live-action ''Beauty and the Beast'', in which Watson plays the leading role of Belle, the Beauty of the film's title.
+**As well as having the same first name, Thompson and Watson share the same birthday - 15 April.
+*Emma Thompson was married for several years to Kenneth Branagh ([[Gilderoy Lockhart]]) who directed and starred alongside her in ''Henry V'', ''Dead Again'', ''Peter's Friends'', and ''Much Ado About Nothing''. Interestingly enough, Branagh was offered the chance to direct ''Prisoner of Azkaban'', which marks the first appearance of Professor Trelawney in the series, before Alfonso Cuaron got the job.
+*Branagh broke up with Thompson after falling for Helena Bonham Carter ([[Bellatrix Lestrange]]), whom he had met while directing ''Mary Shelley's Frankenstein.''
+*Trelawney predicting the prophecy and Snape overhearing it are not included in the films. Indeed, Trelawney plays a far smaller part in Harry's destiny in the films than in the books.
+*Trelawney told [[Lavender Brown]] that the worst thing for her would come true on Friday, [[16 October]]. However, 16 October, [[1993]] was actually a Saturday.
+*Emma Thompson had originally stated that she would not return as Trelawney in the last films.<ref>[http://www.mugglenet.com/app/news/full_story/1965 Thompson will not return for Deathly Hallows]</ref> However, she later confirmed that she would reprise her role as Trelawney and had already filmed her scenes.<ref>[http://mugglenet.com/app/news/full_story/3356 Emma Thompson confirms she filmed scenes for Deathly Hallows]</ref>
+*Emma Thompson has appeared in several films with [[Imelda Staunton]]; Much Ado About Nothing, Peters Friends, Sense and Sensibility and Nanny McPhee. [[Alan Rickman]], [[Robert Hardy]], [[Gemma Jones]] and [[Elizabeth Spriggs]] also starred in ''Sense and Sensibility''. [[Maggie Smith]] and [[Ralph Fiennes]] also appear in ''Nanny McPhee and the Big Bang''.
+*Professor Trelawney was also referenced in the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptation]] of {{PS}} by a locked door on the seventh floor that states if Harry tries to open it "Do not disturb, crystal gazing".
+*Oddly enough, many of the predictions made by Trelawney and others during the third year come true. Ron does in fact go through trials and suffering during the hunt for the Horcruxes, and ends up happy from the experience since he becomes closer to Hermione. Harry does come into a great sum of unexpected gold; his prize money for winning the [[Triwizard Tournament]] (though later it was transferred to the Weasley twins), and his inheritance from Sirius after his death. Harry also ends up working for the [[Ministry of Magic]], although it is unknown if he ever became Minister. Though Trelawney seems to have been making it up at the time, seeing a death omen in Harry's cup, Harry did face his own death in 1998, although he did not actually die. However, the fact the death omen was in the shape of a dog may have been misinterpreted and may have truly been symbolising Sirius entering his life as an animagus.
+*In {{DH|F2}}, Trelawney appears for only a fleeting moment, respectfully covering one of the fallen battle casualties. She can also be seen from behind battling Death Eaters in the courtyard; look for her curly hair and distinctive green sparkling coat right after Hermione runs between the legs of the troll on the way to the boathouse. You can also hear a ''Crucio'' said in her voice.
+*In {{GOF}}, Sybill incorrectly states Harry Potter's birthday of as being during the winter. Interestingly enough, Voldemort's birthday is 31 December and Harry was later revealed to be one of Voldemort's Horcruxes. In addition, the other descriptions in Sybill's statement ("''your dark hair...your mean stature...tragic losses so young in life...''") could apply to Voldemort as well. So she may have made the prediction based on the piece of Voldemort's soul within Harry.
+*In book's Finnish edition Sybill's name is ''Sibylla Punurmio''.
+*In {{OOTP|FA}}, there is a deleted scene that portrays Trelawney dinning in the Great Hall at the opening feast of 1995, where she clumsily eats and makes a mess of her food.
+*A collector character wand has been made for Trelawney. However, her name is misspelled as ''Sybil'' on the box.<ref>[http://www.noblecollection.com/index.cfm?fa=products.product&id=NN8254&catid=21 A collector wand has been created for Trelawney by The Noble Collection]</ref>
+*In the ''Harry Potter'' Glossary on the [[Bloomsbury Harry Potter website]], her middle name is incorrectly given as "Phyllis."<ref name="bloomsglossary">[http://harrypotter.bloomsbury.com/books/glossary/t Bloomsbury ''Harry Potter'' Glossary - T]</ref>
+*It is somewhat notable that [[Dolores Umbridge]] did not attempt to oust Professor Trelawney from [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] when [[Albus Dumbledore|Professor Dumbledore]] was temporarily removed from his post as [[Headmaster]]. It is possible that Umbridge was so overwhelmed with the chaotic status of the school during her brief spell as Headmistress that she simply forgot. Another possibility is that Trelawney was either forcibly removed from the school or helped into hiding by Dumbledore, and [[J. K. Rowling]] merely did not mention this in the [[Harry Potter and the Order of the Phoenix|story]].
+*Trelawney bears a resemblance in both appearance and personality to the ''American Horror Story: Coven'' character Myrtle Snow, who is also a witch. Ironically, the show also focuses on a school for witches.
+*Trelawney is similar in name and characteristics to [https://en.wikipedia.org/wiki/Sybil_Leek Sybil Leek], an English witch, astrologer, occult author, antiques dealer, and self-proclaimed psychic. Similarities include:
+**Nearly identical first names.
+**Leek's claim to have been descended from the historical [https://en.wikipedia.org/wiki/Molly_Leigh Molly Leigh], who was accused of being a witch during the [[Salem Witch Trials]].
+**Many people thought Leek as "either a bit of a joke or a fraud."
+**Leek's common disagreements or quarrels with other witches over differences in beliefs.
+**One of Leek's students admitted that Leek "mixed truths with untruths liberally, causing great harm as she went."
+
+<gallery orientation="landscape" widths="152" position="center" spacing="small" columns="dynamic">
+Thompson_POAF.JPG|[[Emma Thompson]] as Professor Trelawney in ''[[Harry Potter and the Prisoner of Azkaban (film)|Harry Potter and the Prisoner of Azkaban]]''
+Cap094.jpg|[[Emma Thompson]] as Professor Trelawney in ''[[Harry Potter and the Order of the Phoenix (film)|Harry Potter and the Order of the Phoenix]]''
+X_c2c2a43f.jpg|[[Emma Thompson]] as Professor Trelawney in {{DH|F2}}
+</gallery>
+
+==Appearances==
+{{Imagecat|Images of Sybill Trelawney}}
+*{{POA}} {{1st}}
+*{{POA|F}}
+*{{GOF}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}}
+*{{HBP|G}} {{Mention}}
+*{{DH}}
+*{{DH|F2}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{MHP}}
+*{{HPFW}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+*{{HM}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Start box}}
+{{Succession box
+|predecessor=Unknown
+|position=[[Divination]] Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=[[1979]]-[[1996]]
+|successor=[[Firenze]]
+}}
+{{Succession box
+|predecessor=[[Firenze]]
+|position=[[Divination]] Professor at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] (along with [[Firenze]])
+|years=[[1996]]-?
+|successor=Unknown
+}}
+{{End box}}
+
+{{Divination}}
+{{Staff}}
+{{Order of the Phoenix}}
+{{DEFAULTSORT:Trelawney, Sybill}}
+
+[[de:Sybill Trelawney]]
+[[pt:Sibila Trelawney]]
+[[es:Sybill Trelawney]]
+[[fr:Sibylle Trelawney]]
+[[ru:Сивилла Трелони]]
+[[pl:Sybilla Trelawney]]
+[[ca:Sibil·la Trelawney]]
+[[no:Rakel Rummelfiold]]
+[[Category:20th century births]]
+[[Category:Authors]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British or Irish individuals]]
+[[Category:Divination Professors at Hogwarts]]
+[[Category:Divorced individuals]]
+[[Category:Females]]
+[[Category:Half-bloods]]
+[[Category:Knitters]]
+[[Category:Order of the Phoenix allies]]
+[[Category:Ravenclaws]]
+[[Category:Seers]]
+[[Category:Trelawney family|Sybill]]
+[[Category:Wizards]]

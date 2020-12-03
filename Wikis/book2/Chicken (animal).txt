@@ -1,0 +1,69 @@
+{{WizardsUniteSpoiler}}
+{{Real world subject}}
+{{Creature infobox
+|image = [[File:Rubeus Hagrid's chicken.png|175px]]
+|name = Chicken
+|skin = 
+|eyes = Black
+|hair = 
+|feathers = Varies by breed
+|related = *[[Cockatrice]]
+*[[Basilisk]]
+|native = Various locations throughout the world
+|alias = 
+|height = Varies by breed
+|length = Varies by breed
+|wingspan = Varies by breed
+|mortality = Mortal
+|distinction = *Omnivorous
+*Bred as domestic farm animals
+*Gregarious and live in flocks
+|affiliation = 
+|class =
+|status = Extant
+}}
+A '''chicken''' is a type of domesticated fowl and one of the most common and widespread domestic animals.<ref>{{wikilink|Chicken}}</ref>
+
+==Description==
+Chickens were kept as pets by the [[Wizarding world|wizarding]] community. The [[Weasley family]] kept chickens in a large chicken coop at [[the Burrow]]. [[Fleur Delacour]] once stated that there isn't much to do at the Burrow, "unless you like cooking and chickens".<ref name="HBP5">{{HBP|B|5}}</ref> [[Rubeus Hagrid]] kept chickens and [[Wild rooster|roosters]] beside his [[Rubeus Hagrid's cabin|hut]], some of which were killed during [[1992-1993 school year|1992]] by [[Ginevra Weasley|Ginny Weasley]] while she was under the control of [[Tom Riddle]].<ref name="COS11">{{COS|B|11}}</ref>
+
+[[Chicken (food)|Chicken meat]] is a popular ingredient in both [[Non-magic people|Muggle]] and [[wizardkind|wizarding]] cuisine.
+
+Although chickens do not harness any magical ability, they can be altered by [[magic]] to become magical [[creature]]s, for instance, [[Bob]] confiscated a [[fire-breathing chicken]] due to breaches of the [[Ban on Experimental Breeding]], and [[Babayaga]], a [[Russia]]n [[hag]], lived in a house standing on giant chicken legs.<ref name="POAG">{{POA|G}}</ref> A chicken [[egg]] hatched under a toad will produce a [[Basilisk]], King of the Serpents, however, the cry of a [[Wild rooster|rooster]] is fatal to the Basilisk.<ref name="COS16">{{COS|B|16}}</ref><ref name="FBR">{{FB|R}}</ref> This is why [[Tom Riddle]] ordered Ginny Weasley to kill all the roosters surrounding [[Hogwarts School of Witchcraft and Wizardry]], as to ensure the welfare of [[Serpent of Slytherin|his Basilisk]].<ref name="COS17">{{COS|B|17}}</ref> A baby [[dragon]] must be fed a bucket of [[Mixture of brandy and chicken blood|brandy mixed with chicken blood]] every half an hour.
+
+The [[Fred and George Weasley|Weasley twins]] created two products with a chicken theme, [[Rubby O' Chicken]], a rubber chicken [[Charm|bewitched]] to perform an [[Ireland|Irish]] stepdance, and [[trick wand]]s, some of which were bewitched to transform into a rubber chicken whenever touched. The spell [[Pullus Jinx]] [[Transfiguration|transfigures]] [[Erkling]]s and other creatures/objects into either chickens or geese.<ref name="GOFG">{{GOF|G}}</ref> The [[Cockatrice]] is extremely similar to a rooster, however, instead of a feathered tail it has the tail of a lizard.<ref name="FBR">{{FB|R}}</ref>
+
+==Known Chickens==
+*[[Weasley family chickens]]
+*[[Rubeus Hagrid's chickens]]
+
+==See also==
+*[[Chicken and ham pie]]
+*[[Chicken fricassee]]
+*[[Chicken Lips]]
+*[[Chicken noodle soup]]
+*[[Chicken pot pie]]
+*[[Chicken salad]]
+
+==Appearances==
+*{{PS|G}} {{1st}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}} {{Comment|PS1 version only}}
+*{{POA|G}} {{Mention}}
+*{{GOF}}
+*{{GOF|G}}
+*{{OOTP}}
+*{{HBP}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{FB|R}} {{Mention}}
+*{{PM}} {{c|Heard}}
+*{{HPV|CH}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+
+[[pt-br:Galinha (animal)]]
+[[Category:Chickens|Chickens]]
+[[Category:Pets]]

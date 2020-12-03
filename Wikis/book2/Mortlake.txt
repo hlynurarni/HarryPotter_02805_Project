@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mortlake
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|There was some pretty nasty stuff that wasn't my department, though. Mortlake was taken away for questioning about some extremely odd ferrets, but that's the Committee on Experimental Charms, thank goodness…|[[Arthur Weasley]] on Mortlake's case|Harry Potter and the Chamber of Secrets}}
+'''Mortlake''' (fl. [[1992]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] who kept [[ferret]]s. 
+
+==Biography==
+In [[1992]], a [[British Ministry of Magic|Ministry of Magic]] raid on his home confiscated his [[ferret]]s, because they appeared to have experimental [[charm]]s placed on them. The case was referred to the [[Committee on Experimental Charms]].<ref name="COS3">{{COS|B|3}}</ref>
+
+==Etymology==
+*Anglo-Saxon origin, habitational name for residents of {{Wplink|Mortlake}} in [[Surrey]]. “Mort” in Anglo-Saxon means “young salmon”, not to be confused with other historical and current translations of “Mort”. “Lake” may have been derived from “lacu” which translates to “stream”; hence “stream frequented by young salmon”.
+*Mortlake was home to {{Wplink|John Dee}}, a mathematician, astronomer, astrologer, alchemist and adviser to Queen [[Elizabeth I]]. Dee is frequently portrayed as a magician in modern works of fiction.
+
+==Appearances==
+*{{COS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Mortlake]]
+[[fr:Mortlake]]
+[[it:Mortlake]]
+[[pl:Mortlake]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

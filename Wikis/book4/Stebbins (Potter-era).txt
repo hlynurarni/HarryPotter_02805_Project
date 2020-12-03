@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = hufflepuff
+|image = [[File:Stebbins.jpg|250px]]
+|name = Stebbins
+|born = c. [[31 August]] [[1980]] or earlier<ref name="age">He must have at least been in his fourth year in 1994, unless he was invited by an older student.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes =
+|skin = 
+|family = [[Stebbins (Marauder-era)|Stebbins]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Hufflepuff]]
+}}'''Stebbins''' was a [[Wizardkind|wizard]] and student at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1990s]].
+
+==Biography==
+A member of [[Hufflepuff]] [[Hogwarts Houses|House]], he attended the [[Yule Ball]] with [[Fawcett]] of [[Ravenclaw]] house. They were caught, presumably kissing, in the [[rose]] bushes during the Ball by [[Severus Snape|Professor Snape]], and were each docked ten [[House points]].<ref name="GOF23">{{GOF|B|23}}</ref>
+
+==Behind the scenes==
+*In a deleted scene from {{GOF|FA}}, Stebbins and [[Fawcett]] are caught kissing in one of the [[Hogwarts Carriages]], which were parked in the [[Viaduct Courtyard|Entrance Courtyard]].<ref>{{GOF|F}}</ref>
+*In the [[Great Britain|British]], [[Canada|Canadian]], [[Ukraine|Ukrainian]], Russian, Polish and Danish editions of ''Harry Potter and the Goblet of Fire'', when Snape catches Fawcett with Stebbins in chapter 23, he says, "Ten points from [[Hufflepuff]], Fawcett! And ten points from [[Ravenclaw]], too, Stebbins!", although Fawcett is referred to as a Ravenclaw by [[Albus Dumbledore]] in chapter 16.<ref name="lexicon">"[http://www.hplex.info/wizards/a-z/f.html#Fawcett S. Fawcett]" on The Harry Potter Lexicon</ref> The American edition of the novel amends this error, with Snape taking Fawcett's points from Ravenclaw, and Stebbins' from Hufflepuff.<ref name="lexicon" /> In the ''Goblet of Fire'' film, however, Snape makes a similar error where he refers to Fawcett as a Hufflepuff and Stebbins as a Ravenclaw. The only way it couldn't be a mistake is that Snape mentions the consequences of the partner's rule-breakings.
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}} {{Comment|Deleted scene}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Stebbins (époque de Harry Potter)]]
+[[de:Stebbins jr.]]
+[[nl:Stalpeert Jr.]]
+[[pl:Stebbins]]
+[[zh:斯特宾斯 (1980年代)]]
+[[ru:Стеббинс]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hufflepuffs]]
+[[Category:Males]]
+[[Category:Wizards]]

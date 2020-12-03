@@ -1,0 +1,66 @@
+{{Youmay|the Slytherin Chaser|[[Urquhart Rackharrow]]}}
+{{Individual infobox
+|theme = slytherin
+|image = 
+|name = Urquhart
+|born = [[31 August]] [[1984]] or earlier<ref>He must have at least been in his second year in [[1996]], although as he was chosen as Captain, it is more likely he was older.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Quidditch Captain#Hogwarts Quidditch Captains|Captain]]
+*[[Chaser]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+*[[Slytherin Quidditch team]]
+}}
+'''Urquhart''' was a student at [[Hogwarts School of Witchcraft and Wizardry]], [[Sorting ceremony|sorted]] into [[Slytherin]] and [[Quidditch Captain#Hogwarts Quidditch Captains|Captain]] of the [[Slytherin Quidditch team]] during the [[1996–1997 school year|1996-1997]] [[Quidditch]] season at Hogwarts.<ref>{{HBP|B|14}}</ref> Urquhart was new to the squad and he had not held any position on the team before so it seems odd that he was made the Captain, playing as a [[Chaser]]. During the match against Gryffindor, Urquhart shook hands with Harry, 'crushing it'.
+
+==Appearances==
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Graham Montague]]
+|position=Captain of the [[Slytherin Quidditch team]]
+|years=[[1996–1997 school year|1996-1997]]
+|successor=Unknown
+}}
+{{End box}}
+{{Hogwarts quidditch positions}}
+[[de:Urquhart]]
+[[de2:Urquhart]]
+[[es:Urquhart]]
+[[fr:Urquhart]]
+[[nl:Urnveld]]
+[[pl:Urquhart]]
+[[ru:Ургхарт]]
+[[sv:Urquhart]]
+[[zh:厄克特]]
+[[Category:British or Irish individuals]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Quidditch Captains]]
+[[Category:Slytherins]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

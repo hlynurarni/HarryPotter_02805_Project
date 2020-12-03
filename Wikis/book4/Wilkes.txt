@@ -1,0 +1,70 @@
+{{Individual infobox
+|theme = death-eater
+|image = 
+|name = Wilkes
+|born = [[1950s]] or [[1960s]]
+|died = [[1980]]
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = None<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html 30 July, 2007 Web Chat with J. K. Rowling]</ref>
+|job = 
+|house = [[Slytherin]]<ref name="GOF27"/>
+|loyalty = *[[Tom Riddle|Lord Voldemort]]
+**[[Death Eaters]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+{{Quote|...Wilkes - killed by Aurors a year before Voldemort's downfall...|[[Sirius Black]] on Wilkes.|Harry Potter and the Goblet of Fire}}
+'''Wilkes''' was a [[Death Eaters|Death Eater]] who fought in the [[First Wizarding War]] until their death a year before [[Tom Riddle|Voldemort]]'s fall.<ref name="GOF27"/>
+
+==Biography==
+Wilkes attended [[Hogwarts School of Witchcraft and Wizardry]] in the [[1970s]] and was [[Sorting ceremony|sorted]] into [[Slytherin]] house.<ref name="GOF27"/>
+
+According to [[Sirius Black]], Wilkes was a member of a [[gang of Slytherins]] and aspiring [[Death Eaters]] that included [[Severus Snape]], [[Avery (Marauder-era)|Avery]], [[Mulciber (Marauder-era)|Mulciber]], and [[Evan Rosier]]. They all entered the service of [[Tom Riddle|Lord Voldemort]] during the height of the [[First Wizarding War]].<ref name="GOF27"/>
+
+Wilkes fought in several battles of the war. In [[1980]], a year before [[Tom Riddle|Lord Voldemort]]'s downfall, Wilkes was caught by [[Auror]]s and was killed, while attempting to avoid being imprisoned in [[Azkaban]].<ref name="GOF27">{{GOF|B|27}}</ref>
+
+==Magical abilities and skills==
+*'''[[Dark Arts]]: '''Being a [[Death Eaters|Death Eater]], Wilkes would have been highly proficient and accomplished in dark magic. More than likely, they would have been able to perform the [[Unforgivable Curses]], along with various other [[dark charm]]s and [[spell]]s. 
+*'''[[Duelling]]''': Being a Death Eater who participated and fought in the [[First Wizarding War]], Wilkes likely at least a fairly competent duellist with some skill in [[martial magic]]. Despite this, they were not able to avoid being killed by [[Auror]]s.<ref name="GOF27"/> 
+
+==Behind the scenes==
+*Wilkes is only mentioned once in {{GOF}}, and [[Sirius Black]] does not specify their gender.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+
+[[de:Wilkes]]
+[[es:Wilkes]]
+[[fr:Wilkes]]
+[[fi:Wilkes]]
+[[pl:Wilkes]]
+[[ru:Уилкис]]
+[[Category:1980 deaths]]
+[[Category:British or Irish individuals]]
+[[Category:Death Eaters]]
+[[Category:Deceased individuals]]
+[[Category:First Wizarding War casualties]]
+[[Category:Hogwarts students during the Marauders' era]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Slytherins]]

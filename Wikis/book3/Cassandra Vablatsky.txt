@@ -1,0 +1,76 @@
+{{Spoiler|WU|HM}}
+{{Youmay|the author of [[Unfogging the Future]]|[[Cassandra Trelawney|the ancestor of Sybill Trelawney]], another seer}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Cassandra Vablatsky.jpg|250px]]
+|name = Cassandra Vablatsky
+|born = [[1894]]<ref name="PSG"/>
+|died = [[1997]] (aged 102 - 103)
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Seer]]<ref name="PSG"/>
+|signature = 
+|species = [[Human]] ([[Seer]])<ref name="PSG"/>
+|gender = Female<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG"/>
+|eyes = Brown<ref name="PSG"/>
+|skin = Light<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = *[[Seer]]<ref name="PSG"/>
+*Author<ref name="POA4"/>
+|house = 
+|loyalty = 
+}}
+'''Cassandra Vablatsky''' ([[1894]] - [[1997]]) was a [[Wizardkind|witch]], celebrated [[Seer]] and author of ''[[Unfogging the Future]]'', a [[Divination (class)|Divination]] textbook required at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="POA4">{{POA|B|4}}</ref><ref name="PSG">{{PS|G}}</ref>
+
+==Magical abilities and skills==
+*'''[[Divination]]''': Vablastsky was an esteemed [[Seer]], meaning she was naturally gifted with the [[Inner Eye]] and could receive geunine [[vision]]s of the future. She even authored a textbook on the subject, ''[[Unfogging the Future]]'',<ref name="POA4"/> showing her knowledge and skill in this field of [[magic]].
+
+==Etymology==
+Cassandra means "oracle". In Greek mythology, Cassandra means "she who entangles men" and she was the daughter of King Priam and Queen Hecuba. Apollo, god of archery and poetry, as well as oracles, fell in love for her beauty and gave her the gift of prophecy. However, when she did not return his love, Apollo placed a curse on her so that no one would ever believe her predictions and her visions would only be of tragic events yet to come.
+
+==Behind the scenes==
+*Vablatsky’s date of death was given on a [[Chocolate Frog Card|Famous Wizard Card]] in the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptation]] of {{PS}}, which takes place in [[1991]]-[[1992]], but Vablatsky’s death occurred [[1997|six years later]]. This might have been a mistake, or possibly Vablatsky (or another Seer) foresaw her death and it was added to her biography.
+*She was likely named after [[Wikipedia:Helena Blavatsky|Madame Helena Blavatsky]], a 19th-century psychic and founder of the [[Wikipedia:Theosophy|Theosophy movement]] and early proponent of New Age philosophy, who was declared a fraud in 1885 by the Society of Psychical Research. She was known for fusing ideas of modern science with esoteric tenets of Eastern spirituality.
+
+==Appearances==
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA}} {{1st Mention}}
+*''[[The Art of Harry Potter Mini Book of Graphic Design]]'' {{Mention}}
+*{{WU}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Divination}}
+{{Chocolate Frog Cards}}
+
+[[de:Kassandra Wablatschki]]
+[[fr:Cassandra Vablatsky]]
+[[fi:Cassandra Vablatsky]]
+[[it:Cassandra Vablatsky]]
+[[ru:Кассандра Ваблатски]]
+[[nl:Cassandra Vablatsky]]
+[[pl:Kasandra Vablatsky]]
+[[pt-br:Cassandra Vablatsky]]
+
+{{DEFAULTSORT:Vablatsky, Cassandra}}
+[[Category:1894 births]]
+[[Category:1997 deaths]]
+[[Category:Authors]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Centenarians]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Seers]]
+[[Category:Wizards]]

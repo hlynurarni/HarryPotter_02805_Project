@@ -1,0 +1,98 @@
+{{Spoiler|WU|HM}}
+{{Creature infobox
+|image = [[File:Doxy concept art.png]]
+|name = Doxy
+|skin = *Purple
+*Brown
+|eyes = 
+|hair = Black
+|feathers = 
+|related = *[[Fairy]] (possibly)
+*[[Pixie]]s (possibly)
+|native = *[[North America]]<ref name="FBR"/>
+*Northern [[Europe]]<ref name="FBR"/>
+|alias = Biting Fairy<ref name="FBR"/>
+|height = 
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = *Two sets of limbs
+*[[Beetle]]-like wings
+*Two rows of [[Doxy venom|venomous]] teeth
+*Common household pests
+|affiliation = 
+|class = [[Beast]]<br/>[[XXX]]<ref name="FBR"/>
+|status = Extant
+}}
+{{Quote|The Doxy is often mistaken for a [[fairy]] though it is a quite separate species. Like the fairy, it has a minute [[human]] form, though in the Doxy’s case this is covered in thick black hair and has an extra pair of arms and legs. The Doxy’s wings are thick, curved and shiny, much like a [[beetle]]’s. Doxys are found throughout northern [[Europe]] and [[United States of America|America]], preferring cold climates.|[[Newton Scamander|Newt Scamander]], {{FB}}|Fantastic Beasts and Where to Find Them (real)}}
+The '''Doxy''', sometimes referred to as the '''Biting Fairy''', was a small [[Fairy]]-like [[magic]]al [[beast]], sometimes mistaken for a Fairy.<ref name="FBR"/>
+==Nature==
+===Physiology & Life cycle===
+[[File:Doxy FB.png|thumb|right|A Doxy and its eggs]]
+The Doxy was covered in coarse black hair, and had an additional set of arms and legs. Doxies had shiny [[beetle]]-like wings, and a double row of sharp teeth.<ref name="FBR"/> If bitten, a [[Wizardkind|wizard]] or [[Wizardkind|witch]] should take an [[Antidote to Uncommon Poisons|antidote]] immediately, as their venom was highly [[poison]]ous.<ref name="POAG">{{POA|G}}</ref> Doxies buried their [[Doxy egg|eggs]] underground, and Doxy Queens can lay up to five-hundred at once. The [[egg]]s generally hatched in two to three weeks.<ref name="FBR"/>
+
+===Distribution===
+Preferring cold climates, the Doxy was found throughout Northern [[Europe]] and [[North America]].<ref name="FBR">{{FB|R}}</ref>
+
+===Interaction with humans===
+[[File:FBDoxy.png|thumb|right|The Doxy]]
+Doxies were considered pests. They can infest houses, taking up residence in the draperies. Removing them required a good supply of [[Doxycide]].<ref name="OOTP6">{{OOTP|B|6}}</ref> Alternatively, they can be dispatched with a simple [[Knockback Jinx]], as doxies were particularly vulnerable to it, excluding the queens, which were more resistant.<ref name="COSG">{{COS|G}} (GBC version only)</ref>
+
+During the [[1989–1990 school year]] at [[Hogwarts School of Witchcraft and Wizardry]], [[Professor]] [[Silvanus Kettleburn]] taught his [[sixth year]] [[Care of Magical Creatures]] students about Doxies.<ref name="HM634cmc">{{HM|6|34|cmc}}</ref>
+
+In [[1996]], [[Cormac McLaggen]] was known to have eaten a pound of [[Doxy egg]]s for a bet, making him unable to try out for the [[Gryffindor Quidditch team]] in his [[seventh year]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].<ref name="HBP11">{{HBP|B|11}}</ref>
+
+==Uses==
+[[File:DoxyHP7.jpg|thumb|A wild Doxy]]
+[[Fred and George Weasley]] used Doxy venom for their [[Skiving Snackbox]]es, a popular [[Weasleys' Wizard Wheezes]] product.<ref name="OOTP6"/><ref name="OOTPG">{{OOTP|G}}</ref> In [[1996]], [[Harold Dingle]] tried to sell Doxy droppings to [[fifth year]]s, under the guise of them being powdered [[dragon claw]], but these were confiscated by [[Hermione Granger]].<ref name="OOTP31">{{OOTP|B|31}}</ref>
+
+==Etymology==
+''Doxy'' is an archaic English term, meaning "prostitute". It derives from the German word ''Docke'', meaning "doll".
+
+==Behind the scenes==
+[[File:Doxy.png|200px|thumb|right|Doxy reference image used by the [[Department for the Regulation and Control of Magical Creatures]]]]
+*In the [[Harry Potter and the Chamber of Secrets (video game)|GBC video game adaptation]] of {{COS}}, the ''[[Folio Bruti]]'' entry for these creatures is titled "Doxy Drone". This might mean that, like the [[Wikipedia:Drone (bee)|male honey bees]], doxies may have a biological [[Wikipedia:Haplodiploidy#Sex-determination in honey bees|haplodiploid sex-determination system]] or simply that male doxies have distinct behavioural patterns.
+*Despite being described as being covered in coarse black hair in {{FB|R}}, their depictions in the [[Harry Potter video games|video games]] normally include little or no hair and a dark blue or purple colour.
+*In some of the video games, most of the time a [[Venomous Tentacula]] is another way to effectively get rid of a doxy, for doxies are its favourite food.
+*In one of the featuretes for {{FB|F}}, a Doxy is seen using a chameleon-like tongue to catch and eat a [[Billywig]].
+*Despite gaining a new appearance in the film Fantastic Beasts and Where to Find Them, the Doxy seen in Cases of the Wizarding World returns to its original appearance.
+
+==Appearances==
+{{Imagecat|Images of Doxies}}
+[[File:DoxyWU.png|thumb|A Doxy as depicted in {{WU}}]]
+*{{PS|G}} {{1st}}
+*{{COS|G}}
+*{{POA|G}}
+*{{OOTP}}
+*{{DH|G1}} 
+*{{FB|R}}
+*{{FB|F}}
+*{{COG}} {{Mention}}<ref>https://www.pottermore.com/news/watch-the-first-trailer-for-fantastic-beasts-the-crimes-of-grindelwald</ref>
+*{{FBC}}
+*{{TCG}}
+*{{WBP}}
+*{{HM}} 
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Care of Magical Creatures}}
+{{Creatures by classification}}
+[[de:Doxy]]
+[[es:Doxy]]
+[[fr:Doxy]]
+[[fi:Hutsu]]
+[[no:Teve]]
+[[pl:Bahanka]]
+[[pt-br:Fada Mordente]]
+[[ru:Докси]]
+[[ja:ドクシー]]
+[[Category:Beast Chocolate Frog Cards]]
+[[Category:Beasts]]
+[[Category:Care of Magical Creatures]]
+[[Category:Creatures from Europe]]
+[[Category:Creatures from North America]]
+[[Category:Folio Bruti entries]]
+[[Category:Foundables]]
+[[Category:Newton Scamander's suitcase]]
+[[Category:XXX Creatures]]

@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme=quidditch-player
+|image=
+|name=Ladislaw Zamojski
+|hideb=
+|born=
+|died=
+|blood=
+|alias=
+|nationality=[[Poland|Polish]]
+|title=[[Chaser]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=yes
+|family=
+|hidem=yes
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|house=
+|job=[[Chaser]] for the [[Polish National Quidditch team]] (formerly)
+|loyalty=[[Polish National Quidditch team]]
+}}'''Ladislaw Zamojski''' (pl. ''Władysław Zamojski'') was a [[Poland|Polish]] [[wizardkind|wizard]] who played as a [[Chaser]] for the [[Polish National Quidditch team]]. He was described as the best [[Chaser]] in Poland.<ref>{{OOTP}}</ref>
+
+As of [[2014]], Zamojski did not play for the [[Polish National Quidditch team]] any more.<ref>[http://insider.pottermore.com/2014/03/history-of-quidditch-world-cup-part-two.html "History of the Quidditch World Cup, Part Two to be released tomorrow"] at [http://insider.pottermore.com/ Pottermore Insider]</ref>
+
+==Etymology==
+''Ladislaw'' means "famous ruler" in Czech.<ref>[http://baby-names.familyeducation.com/name-meaning/ladislaw Family Education Name Lab]</ref> ''Zamojski'' is a Polish surname meaning "de Zamość".<ref>[http://en.wikipedia.org/wiki/Zamoyski_family Wikipedia]</ref>
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+*{{PM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Zamojski, Ladislaw}}
+
+[[de:Ladislaw Zamojski]]
+[[es:Ladislaw Zamojski]]
+[[fr:Ladislaw Zamojski]]
+[[pl:Władysław Zamojski]]
+[[Category:Chasers]]
+[[Category:Males]]
+[[Category:Polish individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,31 @@
+{{Real world subject}}
+{{Object infobox
+|name = Amulet
+|usage = Offer protection from the effects of [[Dark Arts|Dark Magic]]
+|owners = [[Wizardkind]]
+}}
+{{Dialogue a-b-c|[[Unidentified Amulet-seller in Diagon Alley|Amulet-seller]]|One for your [[Ginevra Weasley|little girl]], madam? Protect her pretty little neck?|[[Arthur Weasley|Mr Weasley]]|If I were [[Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects|on duty]]...|[[Molly Weasley|Mrs Weasley]]|Yes, but don't go arresting anyone now, dear, we're in a hurry.|A street peddler attempts to sell Molly Weasley a supposed protective amulet|Harry Potter and the Half-Blood Prince}}
+An '''amulet '''is a small [[magic]]al object thought to bring good luck that can be imbued with powerful [[Protective enchantment]]s to shield and protect the wearer from the harmful effects of [[Dark Arts|Dark Magic]].
+
+==History==
+[[Gilderoy Lockhart]] claimed to have dealt with [[Transmogrifian Torture]] in [[Ouagadougou]] by giving townsfolk protective amulets, though this was most likely the feat accomplished by one of the more skilful wizards whose acts of selfless bravery Lockhart had taken credit for, by use of the [[Memory Charm]].<ref name="cs9">{{COS|B|9}}</ref>
+
+In [[1992]], a booming trade in protective amulets started in [[Hogwarts School of Witchcraft and Wizardry]] because of [[Salazar Slytherin]]'s [[Serpent of Slytherin|monster]] being released from the [[Chamber of Secrets]], which was [[Petrification|petrifying]] students. [[Neville Longbottom]] purchased a [[Pointed purple crystal]], a [[newt]]'s tail, and an "evil-smelling green onion" that may have been a [[gurdyroot]] before it was pointed out to him that he was [[Pure-blood]] and therefore unlikely to be in danger. His response to this was that the monster went after [[Argus Filch|Filch]] (through his [[Mrs Norris|cat]]) first, and everyone knew that he was a [[Squib]].<ref name="cs11">{{COS|B|11}}</ref> Later, when [[Tom Riddle|Voldemort]] returned, sales of protective amulets from dark [[creature]]s started up in [[Diagon Alley stalls]].
+
+In [[1996]], a [[Unidentified Amulet-seller in Diagon Alley|peddler]] attempted to sell [[Molly Weasley]] one of these amulets to give to her daughter [[Ginevra Weasley|Ginerva]], which his signage claimed were effective against [[Werewolf|werewolves]], [[Dementor]]s and [[Inferius|Inferi]], but he was not successful because her father [[Arthur Weasley]], who was the current Head of the [[Office for the Detection and Confiscation of Counterfeit Defensive Spells and Protective Objects]], was also present and threatened to arrest the dealer if he was on duty.<ref name="hbp6">{{HBP|B|6}}</ref>
+
+==Manufacture==
+Materials used to in the manufacturing of amulets include:
+*Crystals
+*[[Phoenix feather]]s
+*[[Gurdyroot]]s (possibly)
+*[[Rabbit's foot]]
+*[[Moon Stone]]
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{HBP}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Protective objects]]

@@ -1,0 +1,88 @@
+{{Youmay|[[Arcturus Black III|Arcturus Black (1901-1991)]]|[[Arcturus Black I|his great-granduncle]] or [[Arcturus Black II|his uncle]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Arcturus Black III.jpg|250px]]
+|name = Arcturus Black
+|born = [[1901]]<ref name="BFT">''[[House of Black|Black family tree]]''</ref>
+|died = [[1991]]<ref name="BFT" /> (aged 89-90)
+|blood = [[Pure-blood]]<ref name="BFT" />
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="BFT" />
+|gender = Male<ref name="BFT" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = *[[Sirius Black II]] (father)<ref name="BFT" />
+*[[Hesper Gamp]] (mother)<ref name="BFT" />
+*[[Lycoris Black]] (sister)<ref name="BFT" />
+*[[Regulus Black I]] (brother)<ref name="BFT" />
+*[[Melania Macmillan]] (wife) †<ref name="BFT" />
+*[[Orion Black]] (son) †<ref name="BFT" />
+*[[Lucretia Black]] (daughter)<ref name="BFT" />
+*[[Sirius Black III]] (grandson)†<ref name="BFT" />
+*[[Regulus Black]] (grandson) †<ref name="BFT" />
+*[[House of Black|Black family]]
+*[[Macmillan family]] (in-laws)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]] (possibly)
+|loyalty = *[[House of Black]]<ref name="BFT" />
+}}
+{{Quote|It means he gave them a load of gold.|[[Sirius Black]], addressing his grandfather's [[Order of Merlin]], awarded for "Services to the Ministry"|Harry Potter and the Order of the Phoenix}}
+'''Arcturus Black''' {{OM|First}} ([[1901]] – [[1991]]) was a [[pure-blood]] wizard and member of the noble [[House of Black]].
+
+==Biography==
+He was born in [[1901]] as the eldest son of [[Sirius Black II|Sirius Black]] and his wife [[Hesper Gamp]]. His younger siblings were [[Lycoris Black|Lycoris]] and [[Regulus Black I|Regulus]].
+
+He married [[Melania Macmillan]], who bore him a daughter, [[Lucretia Black|Lucretia]], and a son, [[Orion Black|Orion]]. Arcturus became a grandfather after Orion married their cousin [[Walburga Black|Walburga]] and had two sons, [[Sirius Black|Sirius]] and [[Regulus Black|Regulus]]. Lucretia had no children from her marriage to [[Ignatius Prewett]].
+
+At some point, Arcturus<ref name="PMordermerlin">{{WW|order-of-merlin}}</ref> was awarded the [[Order of Merlin|Order of Merlin, First Class]], for "''Services to the Ministry''".<ref name="OP6">{{OOTP|B|6}}</ref> His grandson Sirius believed that he received the honour because he had given the Ministry a large amount of gold.<ref name="PMordermerlin" /><ref name="OP6" /> The medal was left at [[12 Grimmauld Place]] after his death; in [[1995]], Sirius found the medal while cleaning and threw it into a rubbish sack with contempt.<ref name="OP6" />
+
+Arcturus died in [[1991]]. He had outlived both his siblings, his son, his daughter-in-law, and his younger grandson. He was survived by his daughter and his elder grandson.
+
+==Behind the scenes==
+*Based on a statement by [[Horace Slughorn]], Arcturus may have been a member of the [[Slytherin|Slytherin House]]. However, he attended Hogwarts c. [[1912]]-[[1919]], and Slughorn did not become the Potions master until approximately [[1931]].
+*Arcturus' second grandson was named [[Regulus Black|Regulus Arcturus Black]]. Regulus was probably named in honour of his grandfather and his great-uncle, Arcturus's brother.
+*On the Black family tree shown on {{OOTP|FA}}, Arcturus's name is misspelt as "Arctorus".
+
+==Etymology==
+[[Wikipedia:Arcturus|Arcturus]] is the name of the brightest star in the constellation Boötes. Its name derives from Ancient Greek ''Αρκτοῦρος'', meaning "bear guard"; this refers to the story in Greek mythology that Zeus placed Arcturus in the sky to look after Arcas and Callisto, who were turned into [[bear]]s and then into the constellations Ursa Major and Ursa Minor to protect them from Hera's wrath.
+
+==Appearances==
+*{{OOTP}} {{Indirect}}
+*{{OOTP|F}} {{Comment|Appears on Black family tapestry}}
+*{{OOTP|G}} {{Comment|Seen on [[House of Black|Black family]] tree tapestry}}
+*{{DH|G1}} {{Comment|Seen on [[House of Black|Black family]] tree tapestry}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Black, Arcturus III}}
+
+[[de:Arcturus Black]]
+[[es:Arcturus Black III]]
+[[fr:Arcturus Black III]]
+[[pl:Arcturus Black III]] 
+[[ru:Арктурус Блэк III]]
+[[Category:1901 births]]
+[[Category:1991 deaths]]
+[[Category:British individuals]]
+[[Category:House of Black]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Order of Merlin recipients]]
+[[Category:Parents]]
+[[Category:Pure-bloods]]
+[[Category:Wizards]]

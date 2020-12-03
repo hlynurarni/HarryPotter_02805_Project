@@ -1,0 +1,70 @@
+{{Individual infobox
+|theme = phoenix
+|image = [[File:DorcasMeadowesPM.png|250px]]
+|name = Dorcas Meadowes
+|born = 
+|died = [[1981]]<ref name="death">Dorcas appeared in a photograph with [[Marlene McKinnon]] that was taken two weeks prior to Marlene's death in July. This indicates Dorcas was alive in 1981 and must have been killed sometime between then and Voldemort's fall (31 October, 1981).</ref>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP9" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP9" />
+|gender = Female<ref name="OOTP9" />
+|height = 
+|weight = 
+|hair = Black<ref name="PM">{{PM}}</ref>
+|eyes = Brown<ref name="PM"/>
+|skin = Dark<ref name="PM"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *Meadowes family
+*[[Order of the Phoenix]]<ref name="OOTP9" />
+}}
+{{Quote|That’s Dorcas Meadowes, Voldemort killed her personally...|Description of Dorcas' death|Harry Potter and the Order of the Phoenix}}
+'''Dorcas Meadowes''' (d. [[1981]]) was a [[Wizardkind|witch]] and member of the original [[Order of the Phoenix]]. She fought in the [[First Wizarding War]] and before the war ended was murdered by [[Tom Riddle|Lord Voldemort]] personally.<ref name="OOTP9" />
+
+==Biography==
+During the [[First Wizarding War]], Dorcas became a member of the [[Order of the Phoenix]], an organisation led and founded by [[Albus Dumbledore]], in order to oppose [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]].<ref name="OOTP9" />
+
+Dorcas was murdered by [[Tom Riddle|Lord Voldemort]] sometime in the second half of [[1981]], along with many members of the Order. In [[1995]], Mad-Eye Moody showed [[Harry Potter]] a group photo of the first [[Order of the Phoenix]] that included Dorcas.<ref name="OOTP9">{{OOTP|B|9}}</ref>
+
+==Magical abilities and skills==
+*'''[[Magic]]al mastery''': Being a member of the [[Order of the Phoenix]] and considered a big enough threat to the [[Death Eaters]] that [[Tom Riddle|Voldemort]] himself murdered her, it is highly likely that Dorcas was a very powerful and talented [[Wizardkind|witch]], who was proficient in many different branches of magic.<ref name="OOTP9" />
+
+==Etymology==
+The name "Dorcas" is derived from Greek δορκας (dorkas) meaning "gazelle". In the Bible, Dorcas (Latin: Tabitha) was an important disciple in Joppa, where she gave liberally of her time, money and skills. She was so loved that when she died, the other disciples in Joppa called Peter, who came and prayed over her and raised her from the dead.<ref>Acts 9:36-42</ref>
+
+Meadowes is an English topographical surname (ie. indicating where someone lived) of medieval origin. It denotes someone who lives in or near meadows/grassland.<ref>https://www.houseofnames.com/meadowes-family-crest</ref>
+
+==Appearances==
+{{Imagecat|Images of Dorcas Meadowes}}
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|F}} {{Photograph}}
+*{{DH|G1}} {{Mention}}
+*{{PM}} {{1st}}
+*{{WW}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Meadowes, Dorcas}}
+
+{{Order of the Phoenix}}
+[[de:Dorcas Meadowes]]
+[[fr:Dorcas Meadowes]]
+[[pl:Dorcas Meadowes]][[ru:Доркас Медоуз]]
+[[Category:1981 deaths]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:First Order of the Phoenix]]
+[[Category:First Wizarding War casualties]]
+[[Category:Killed by Lord Voldemort|Meadows, Dorcas]]
+[[Category:Murder victims]]
+[[Category:Wizards]]

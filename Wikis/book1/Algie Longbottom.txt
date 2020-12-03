@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme = wizard
+|image = PMFT_Algie_Longbottom.png
+|name = Algie Longbottom
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="longbottomfamilytree" />
+|gender = Male<ref name="longbottomfamilytree" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Frank Longbottom's father|Mr Longbottom]] (brother)<ref name="longbottomfamilytree">[https://www.pottermore.com/features/the-longbottom-family-tree The Longbottom family tree] from {{PM}}</ref> †
+*[[Enid Longbottom]] (wife)<ref name="longbottomfamilytree" />
+*[[Augusta Longbottom]] (sister-in-law)<ref name="longbottomfamilytree" />
+*[[Frank Longbottom]] (nephew)<ref name="longbottomfamilytree" />
+*[[Alice Longbottom]] (niece-in-law)<ref name="longbottomfamilytree" />
+*[[Neville Longbottom]] (great-nephew)<ref name="longbottomfamilytree" />
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Longbottom family]]<ref name="longbottomfamilytree" />
+}}
+'''Algie Longbottom''' (fl. [[1991]]-[[1995]]) was a [[Wizardkind|wizard]]. He was the uncle of [[Frank Longbottom]] and the great-uncle of [[Neville Longbottom]].<ref name="longbottomfamilytree" />
+
+==Biography==
+Algie was born into the [[Longbottom family]],<ref name="longbottomfamilytree" /> an old [[Great Britain|British]] [[pure-blood]] family considered to be one of the [[Sacred Twenty-Eight]].<ref name="pm-pureblood">{{WW|pure-blood}}</ref> He had one known sibling, a [[Frank Longbottom's father|brother]],<ref name="longbottomfamilytree" /> and may have had others.<ref>{{WW|the-quill-of-acceptance-and-the-book-of-admittance}} on {{PM}} states that Neville had "disappointed great aunts and uncles." [[Algie Longbottom|Algie]] and [[Enid Longbottom|Enid]] are Neville's only known great-aunt and great-uncle. Thus, Neville must have had at least one other great-aunt and one other great-uncle in addition to them, who could potentially be unknown siblings of Mr Longbottom and Algie.</ref>
+
+The Longbottom family initially believed that Algie’s great-nephew Neville might have been a [[Squib]], but Algie was determined to catch Neville off his guard and "force some [[magic]]" from him. He once pushed Neville off the end of [[Blackpool pier]]; however, he nearly drowned. While over for tea one time when Neville was eight, Algie hung him out of an upstairs window by his ankles, and accidentally dropped him when he was offered a [[meringue]] by his wife [[Enid Longbottom|Enid]]. Instead of getting hurt, Neville bounced safely down the garden and out into the road, thereby proving that he was in fact a [[Wizardkind|wizard]]. They were all very happy and Neville’s grandmother [[Augusta Longbottom]] was crying.<ref name="PS7">{{PS|B|7}}</ref>
+
+[[File:Trevor.jpg|150px|thumb|left|Trevor]]
+In 1991, Algie gave Neville his pet toad [[Trevor]] as a present for gaining entrance into [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PS7" /> In [[1995]], he travelled to [[Assyria]] and brought back a ''[[Mimbulus mimbletonia]]'' plant, which he gave to Neville for his birthday.<ref name="OOTP10">{{OOTP|B|10}}</ref>
+
+==Etymology==
+Algie is a short form of the name ''Algernon'' (the original name of [[Augustus Rookwood]]), originally a Norman French name derived from ''aux gernons'', meaning "having a moustache"<ref>[http://www.behindthename.com/name/Algernon Behind the Name: Algernon]</ref> This is the name of a main character in Oscar Wilde's ''The Importance of Being Earnest''. Algie is also a homophone of the plant-like organisms ''algae'', possibly referring to the interest in [[Herbology]] that Algie and his great-nephew seem to share.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{OOTP}} {{Mention}}
+*{{LEGO|D}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Longbottom, Algie}}
+
+[[es:Algie Longbottom]]
+[[fr:Algie]]
+[[no:Onkel Albert]]
+[[pl:Algie Longbottom]]
+[[ru:Элджи Долгопупс]]
+[[de2:Algie Longbottom]]
+[[Category:British individuals]]
+[[Category:Longbottom family|Algie]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

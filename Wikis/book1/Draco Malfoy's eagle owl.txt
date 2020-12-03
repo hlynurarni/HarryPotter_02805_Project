@@ -1,0 +1,38 @@
+{{Imageless}}
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Draco Malfoy's eagle owl
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Eagle owl]]<ref name="PS9"/><ref name="GOF13"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Draco Malfoy]] (owner)<ref name="PS9"/><ref name="GOF13"/>
+}}
+{{Quote| On the other side of the [[Great Hall|Hall]] Draco Malfoy’s eagle owl had landed on his shoulder, carrying what looked like his usual supply of sweets and cakes from [[Malfoy Manor|home]].|Draco's owl bringing him a package from home in [[1994]]|Harry Potter and the Goblet of Fire}}
+This was an '''[[eagle owl]]''' owned by [[Draco Malfoy]]. During Malfoy's first year at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]], the [[owl]] delivered daily packages of sweets from [[Narcissa Malfoy|his mother]].<ref name="PS9">{{PS|B|9}}</ref><ref name="GOF13">{{GOF|B|13}}</ref>
+
+==Behind the scenes==
+*It is possible that this was a family owl that sent the packages, but as the [[Malfoy family|Malfoys]] were wealthy, the owl was likely [[Draco Malfoy|Draco]]'s.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}}<ref>This owl is named Ulysses, and is owned by an falconry organisation called Knightwings that brings birds of prey to renaissance faires.</ref>
+*{{GOF}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Hibou de Drago Malefoy]] [[pl:Sowa Dracona Malfoya]]
+[[Category:Draco Malfoy's possessions|Owl]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Malfoy family pets]]
+[[Category:Owls]]

@@ -1,0 +1,86 @@
+{{Individual infobox
+|theme = hogwarts-staff
+|image = [[File:Everard 1.jpg|250px]]
+|name = Everard
+|born = 
+|died = In or before [[1995]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals. Thus, Everard must have died sometime in or before [[1995]], given his portrait's appearance in the [[Headmaster's office]] in {{OOTP}}.</ref>
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = *[[Headmaster]]<ref name="OP22">{{OOTP|B|22}}</ref>
+*[[Professor]]<ref name="OP22" />
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black<ref name="OP22" />
+|eyes = 
+|skin = Light<ref name="OP22" />
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]<ref name="OP22" />
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="OP22" />
+}}
+{{Quote|Everard and Dilys were two of Hogwarts’s most celebrated Heads. Their renown is such that both have portraits hanging in other important Wizarding institutions. As they are free to move between their own portraits they can tell us what may be happening elsewhere....|Albus Dumbledore telling [[Harry Potter]] about Everard and [[Dilys Derwent]]|Harry Potter and the Order of the Phoenix}}
+'''Professor Everard''' was one of [[Hogwarts School of Witchcraft and Wizardry]]'s most celebrated [[Headmaster|Heads]]. His [[portrait]] hangs in the Headmaster's Office and in the [[British Ministry of Magic|Ministry of Magic]]'s Headquarters.<ref name="OP22" />
+
+==Biography==
+===As Headmaster of Hogwarts===
+Everard was made [[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry]] in an unknown time period.<ref name="OP22" />
+
+===Post-mortem===
+{{Quote|The man has red hair and glasses. Everard, you will need to raise the alarm, make sure he is found by the right people —|Albus Dumbledore instructing Everard's portrait to help Arthur Weasley|Harry Potter and the Order of the Phoenix}}
+After his [[death]], he was remembered as one of the most celebrated Heads of Hogwarts.<ref name="OP22" />
+
+When [[Arthur Weasley]] was [[Attack on Arthur Weasley|attacked]] by [[Nagini]] in the [[Department of Mysteries]] in late [[1995]], [[Albus Dumbledore]], then [[Headmaster]], asked Everard to go to his portrait at the [[British Ministry of Magic|Ministry of Magic]]'s Headquarters in order to warn others that Mr Weasley was injured at the Department.<ref name="OP22" />
+
+In [[June]] [[1997]], following the [[Death Eaters|Death Eater]] attack on Hogwarts and the death of [[Albus Dumbledore]], he informed [[Professor]] [[Minerva McGonagall]] that [[Rufus Scrimgeour]] was on his way, having just [[Apparition|disapparated]] from the [[British Ministry of Magic|Ministry of Magic]].<ref name="HBP29">{{HBP|B|29}}</ref>
+
+==Etymology==
+The name "Everard" means "brave boar", derived from the Germanic elements eber, "wild boar" and hard, "brave", "hardy". The Normans introduced it to England, where it joined the Old English cognate Eoforheard. It has only been rarely used since the Middle Ages. Modern use of the name may be inspired by the surname Everard, itself derived from the medieval name.
+
+==Behind the scenes==
+*The style of clothing in his portrait suggests that he possibly lived in the 18th or 19th century.
+*Everard was portrayed by late [[Sam Beazley]] in {{OOTP|FA}}.
+*Everard is described as having short, black bangs in the novel, but Beazley portrays him as having greying hair.
+*In {{LEGO|Y2}}, he is shown to be holding a first-aid kit when [[Albus Dumbledore]] tells him to find the injured [[Arthur Weasley]].
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Portrait}}
+*{{OOTP|F}} {{Portrait}}
+*{{HBP}} {{Portrait}}
+*{{HBP|F}} {{Portrait}}
+*{{DH|F2}} {{Portrait}}
+*{{LEGO|Y2}} {{Portrait}}
+*{{MHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Amrose Swott]]
+|position=[[Headmaster]] of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]
+|years=17th century
+|successor=Unknown, eventually [[Vindictus Viridian]]}}
+{{End box}}
+{{Staff}}
+[[de:Everard]]
+[[es:Everard]]
+[[fr:Everard]]
+[[pl:Everard]]
+[[pt-br:Everardo]]
+[[ru:Эдвард]]
+[[Category:British or Irish individuals]]
+[[Category:Historical figures]]
+[[Category:Hogwarts Headmasters and Headmistresses]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Wizards]]

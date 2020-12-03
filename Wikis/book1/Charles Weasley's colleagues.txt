@@ -1,0 +1,35 @@
+{{Conjecture}}
+{{Individual infobox
+|image = [[File:CharlieColleagues.jpg|250px]]
+|name = Charlie Weasley's colleagues
+|species = [[Human]]s<ref name="PS14"/>
+|gender = Males, Females<ref name="PS14"/>
+|job = [[Dragonologist]]s<ref name="PS14"/>
+|loyalty = [[Romanian Dragon Sanctuary]]<ref name="PS14"/><ref name="GOF19"/>
+|theme = wizard
+}}
+{{Quote|I think the best thing will be to send him over with some friends of mine who are coming over to visit me next week. Trouble is, they mustn't be seen carrying an illegal dragon.|Charlie's [[Charles Weasley's letter to Ronald Weasley|letter]] to [[Ronald Weasley]]|Harry Potter and the Philosopher's Stone}}
+These '''colleagues of [[Charles Weasley|Charlie Weasley]]''' were [[Dragonologist]]s that worked with Charlie.<ref name="PS14"/><ref name="GOF19"/>
+
+==Biography==
+A rather cheery lot, in [[1992]], four of them helped to [[Flight|fly]] the [[Norwegian Ridgeback]] [[Norberta|Norbert]] to their [[Romanian Dragon Sanctuary]].<ref name="PS14">{{PS|B|14}}</ref> In [[1994]], about twenty or thirty of them helped bring the [[dragon]]s for the [[1994]] [[Triwizard Tournament]].<ref name="GOF19">{{GOF|B|19}}</ref>
+
+==Behind the scenes==
+*The [[narrator]]'s dialogue on the PC version of the [[Harry Potter and the Philosopher's Stone (video game)|video game adaptation]] of {{PS}} implies that Charlie himself came to Hogwarts to collect Norbert rather than sending his associates. Despite this, at least two figures on [[broomstick]]s are seen flying around the [[Astronomy Tower]], and the scene is too shadowy to distinguish any features of the people in question.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{GOF|G}} {{Comment|Voices only}}
+*{{LEGO|Y1}} {{Comment|One of them only}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}[[es:Amigos de Charles Weasley]]
+[[Category:Dragonologists]]
+[[Category:Females]]
+[[Category:Males]]
+[[Category:Wizards]]
+[[Category:Articles with conjectural titles]]

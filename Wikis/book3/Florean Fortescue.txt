@@ -1,0 +1,93 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Florean Fortescue.jpg|250px]]
+|name = Florean Fortescue
+|born = 
+|died = [[1996]]<ref name="HBP6"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PA4"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PA4"/>
+|gender = Male<ref name="PA4"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Dexter Fortescue]]<ref name="Pottermore">{{WW|florean-fortescue}}</ref> (ancestor)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Owner of [[Florean Fortescue's Ice Cream Parlour]]<ref name="PA4"/>
+|house = 
+|loyalty = *[[Fortescue family]]<ref name="Pottermore"/>
+*[[Florean Fortescue's Ice Cream Parlour]]<ref name="PA4"/>
+}}
+{{Dialogue|Harry Potter|Florean used to give me free ice creams. What's happened to him?|Bill Weasley|Dragged off, by the look of his place.|Discussion of Florean's disappearance|Harry Potter and the Half-Blood Prince}}
+'''Florean Fortescue''' (d. [[1996]]) was a [[Great Britain|British]] [[Wizardkind|wizard]] the owner of [[Florean Fortescue's Ice Cream Parlour]] in [[Diagon Alley]]. He was an expert on the subject of [[Middle Ages|medieval]] [[Witch-hunt|witch-burnings]].<ref name="PA4">{{POA|B|4}}</ref> In the summer of 1996 he was abducted<ref name="HBP6">{{HBP|B|6}}</ref> and later murdered by [[Tom Riddle|Lord Voldemort]].<ref name="pottercast">[http://www.the-leaky-cauldron.org/2008/1/2/pottercast-131-j-k-rowling-interview-transcript PotterCast Interview with J.K. Rowling]</ref>
+
+==Biography==
+{{Quote|Harry didn’t have to do his homework under the blankets by flashlight anymore; now he could sit in the bright sunshine outside Florean Fortescue’s Ice Cream Parlor, finishing all his essays with occasional help from Florean Fortescue himself, who, apart from knowing a great deal about medieval witch burnings, gave Harry free sundaes every half an hour.|How Florean helped Harry with his homework|Harry Potter and the Prisoner of Azkaban}}
+During the summer of [[1993]], when [[Harry Potter]] stayed at the [[Leaky Cauldron]] for a couple of weeks, Florean gave Harry free [[ice cream]] sundaes every half hour and helped him complete his [[History of Magic]] homework on the medieval witch-burnings which may mean that he did well in his History of Magic classes.<ref name="PA4" />
+
+In [[1996]], Florean was forcibly dragged away by [[Death Eaters]], leaving his ice cream parlour a mess.<ref name="HBP6" /> Florean knew information about the [[Elder Wand]] and the lost [[Ravenclaw's Diadem|diadem]] of [[Rowena Ravenclaw]], so [[Tom Riddle|Voldemort]] captured him, tortured and later murdered Fortescue.<ref name="Pottermore" />
+
+The reason for his kidnapping did not become public knowledge; [[William Weasley|Bill Weasley]] speculated that he might have done something to provoke the anger of the Death Eaters.<ref name="HBP6" />
+
+==Personality and traits==
+Fortescue was a good-natured and generous individual, given how he gave kindly gave [[Harry Potter]] free [[ice cream]] and helped him complete his [[History of Magic]] homework in [[1993]], while he was staying in [[Diagon Alley]]. He was also highly intelligent, as he had considerable knowledge of [[Middle Ages|Medieval]] [[Witch-hunt|witch-burnings]], which allowed him to share his knowledge of this subject with Harry Potter.<ref name="PA4"/> Furthermore, he seemed to be an opponent of [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]],<ref name="HBP6" /> meaning he was possibly a supporter of the [[Order of the Phoenix]], although this is unconfirmed.
+
+==Magical abilities and skills==
+*'''[[History of Magic]]''': Fortescue was very well-versed and knowledgeable in [[magic]]al history, as he had much knowledge of [[Witch-hunt|witch-burnings]] in the [[Middle Ages]], which allowed him to educate Harry Potter on the subject to help him complete his homework.<ref name="PA4"/>
+*'''Business''': Fortescue was evidently a skilled and accomplished businessman, as he successfully operated his own [[Florean Fortescue's Ice Cream Parlour|ice cream parlour]] in [[Diagon Alley]] for several years, and presumably earned a comfortable living from it.<ref name="PA4"/>
+
+==Behind the scenes==
+[[File:Florean Fortescue LEGO.jpg|thumb|Florean Fortescue as a LEGO mini-figure]]
+*Florean was related to former [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] Headmaster [[Dexter Fortescue]].
+*[[J. K. Rowling]] has revealed that she originally intended to include in the [[Harry Potter (book series)|books]] a subplot involving the [[Elder Wand]] that would explain the circumstances of Florean's disappearance, but that she decided to cut it, as she felt it was "not really leading anywhere."
+*She promised to include more information on Florean's death in the [[Encyclopaedia of Potterworld|Encyclopaedia]] she planned to write in the future, though the encyclopaedia was never published; rather, ''Pottermore'' provided this information. Additionally, she stated that she did not want Florean to die, as she became rather attached to his character after her closest friend married a man with the same first name.
+*Florean was murdered regarding information about ancient [[magic]].<ref name="pottercast" />
+
+===Author's comments===
+"''Florean is a descendant of Dexter, and I originally planned Florean to be the conduit for clues that I needed to give Harry during his quest for the Hallows, which is why I established an acquaintance fairly early on. At this stage, I imagined the historically-minded Florean might have a smattering of information on matters as diverse as the Elder Wand and the diadem of Ravenclaw, the information having been passed down in the Fortescue family from their august ancestor. As I worked my way nearer to the point where such information would become necessary, I caused Florean to be kidnapped, intending him to be found or rescued by Harry and his friends.''
+
+''The problem was that when I came to write the key parts of Deathly Hallows I decided that Phineas Nigellus Black was a much more satisfactory means of conveying clues. Florean's information on the diadem also felt redundant, as I could give the reader everything he or she needed by interviewing the Grey Lady. All in all, I seemed to have had him kidnapped and killed for no reason. He is not the first wizard whom Voldemort murdered because he knew too much (or too little), but he is the only one I feel guilty about because it was all my fault.''"
+
+==Etymology==
+*Fortescue's name may have been inspired by {{w|Adrian Fortescue (martyr)|Sir Adrian Fortescue}}, a courtier at the court of King Henry VIII, who was condemned for treason without a trial for hostility to Henry VIII's church policies. He was beheaded at the Tower of London in [[1539]].
+*His name also may have been inspired by Hugh Fortescue, 2nd Earl Fortescue, a statue of whom resides outside Exeter castle. As Rowling went to university in this city, she might have likely come across it. The castle is the site of the last three trials and executions of suspected witchcraft in England, potentially explaining Florean's expert knowledge of such issues.
+*Based on the December 2014 information provided about Florean Fortescue on Pottermore, his last name is more likely to have been influenced by John Fortescue, who wrote for the instruction of Prince Edward of Lancaster, Prince of Wales, in the time of the War of the Roses (15th century). Prince Edward died in battle at the age of 17. We know now, through Rowling's new writings found on Pottermore, that Florean Fortescue was intended to be the one to instruct Harry about various points of wizarding history (i.e.: the elder wand & the Ravenclaw diadem). Rowling calls him "historically minded."
+*Given the above, it is also possible that Florean Fortescue, being "historically minded", may have been based off of {{W|Adrian Fortescue}} (1874 - 1923), a direct descendant of the aforementioned Sir Adrian Fortescue. "Father" Adrian Fortescue was English Roman Catholic priest who was an influential liturgist, artist, calligrapher, composer, polyglot, amateur photographer, Byzantine scholar, and adventurer. With his love of history, and skill with languages, Fortescue devoted much study to the origin and history of the Eastern Churches, both Catholic and Orthodox. Fortescue was also an artist of considerable talent, especially with watercolour painting, drawing, and calligraphy. He was also a recognised authority on heraldry, and his own designs were widely admired in his day. At the time of his death, Fortescue was Professor of Church History at St Edmund's College, Ware, the oldest Catholic school in England. Buried in the same cemetery as Fortescue - Letchworth Cemetery - is {{w|William Henry Gaunt}}, an English transport engineer.
+
+==Appearances==
+{{Imagecat|Images of Florean Fortescue}}
+*{{COS|F}} 
+*{{POA}} {{1st}}
+*{{HBP}} {{Mention}}
+*{{HPPU}} {{Name on sign}}
+*{{LEGO|Y2}} {{Name on sign}}
+*{{LEGO}}
+*{{PM}} 
+*{{WW}} 
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+{{DEFAULTSORT:Fortescue, Florean}}
+[[de:Florean Fortescue]]
+[[fr:Florian Fortarôme]]
+[[ru:Флориан Фортескью]]
+[[pl:Florian Fortescue]]
+[[Category:British individuals]]
+[[Category:Fortescue family|Florean]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Second Wizarding War casualties]]
+[[Category:Shop owners]]
+[[Category:Wizards]]

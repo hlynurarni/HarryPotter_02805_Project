@@ -1,0 +1,77 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = [[File:Mrs. Evans.jpg]]
+|name = Mrs Evans
+|born = 
+|died = Between [[1 September]] [[1971]] and [[31 October]] [[1981]]<ref name="wbd2004">[http://www.accio-quote.org/articles/2004/0304-wbd.htm 2004 World Book Day webchat]</ref><ref name="2005interview">[http://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-3.htm 2005 interview with Emerson Spartz and Melissa Anelli]</ref><ref name="dodexplanation">In {{OOTP|B|37}}, it is stated that, at the time of [[Lily J. Potter|Lily's]] death on 31 October 1981, Petunia was "her only remaining relative," and thus the sisters' parents must have died sometime before that date.</ref>
+|blood = [[Non-magic people|Muggle]]
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Evans sisters' father|Mr Evans]] (husband) †
+*[[Petunia Dursley]] {{c|née [[Evans family|Evans]]}} (daughter) †
+*[[Lily J. Potter|Lily Potter]] {{c|née [[Evans family|Evans]]}} (daughter) †
+*[[Vernon Dursley]] (son-in-law)
+*[[James Potter I|James Potter]] (son-in-law) †
+*[[Harry Potter]] (grandson)
+*[[Dudley Dursley]] (grandson)
+*[[James Potter II]] (great-grandson)
+*[[Albus Potter]] (great-grandson)
+*[[Lily L. Potter|Lily Potter]] (great-granddaughter)
+*[[Dudley Dursley's children|Dudley's children]] (great-grandchildren)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Evans family]]
+}}
+{{Quote|I was the only one who saw her for what she was... a freak! But for my mother and father, oh no, it was Lily this and Lily that, they were proud of having a witch in the family!|[[Petunia Dursley]] on her parents|Harry Potter and the Philosopher's Stone}}
+'''Mrs Evans''' (died between [[1 September]] [[1971]] and [[31 October]] [[1981]]<ref name="wbd2004" /><ref name="2005interview" /><ref name="dodexplanation" />) was a [[Non-magic people|Muggle]] woman and the mother of [[Petunia Dursley|Petunia]] and [[Lily J. Potter|Lily Evans]]. Through Petunia, she was the maternal grandmother of [[Dudley Dursley]], and through Lily, the maternal grandmother of [[Harry Potter]] and great-grandmother of [[Lily L. Potter|Lily Luna]], [[Albus Potter|Albus Severus]] and [[James Potter II|James Sirius Potter]].
+
+==Biography==
+Mrs Evans and [[Evans sisters' father|her husband]] lived in [[Cokeworth]], [[England]].<ref name="cokeworth">{{WW|cokeworth}}</ref> The couple had two daughters: [[Petunia Dursley|Petunia]], born in the late [[1950s]], and [[Lily J. Potter|Lily]], born [[30 January]] [[1960]].<ref name="dh16">{{DH|B|16}}</ref><ref name="dh33">{{DH|B|33}}</ref>
+
+While Petunia was a [[Non-magic people|Muggle]] like her parents, Lily turned out to be a [[Muggle-born]] [[Wizardkind|witch]], something that made Mr and Mrs Evans proud.<ref name="ps4">{{PS|B|4}}</ref> Petunia, on the other hand, was jealous, considering her sister a "freak."<ref name="ps4" /> According to Petunia, Mr and Mrs Evans favoured Lily, talking about her constantly.<ref name="ps4" />
+
+On [[1 September]] [[1971]], Mrs Evans and her husband took Lily and Petunia to [[Platform Nine and Three-Quarters]], in order to see Lily off to her first year at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="dh33" />
+
+===Death and legacy===
+Mrs Evans and her husband died "normal Muggle death[s]" sometime before the murder of their daughter Lily and son-in-law [[James Potter I|James Potter]], on the night of [[31 October]], [[1981]].<ref name="wbd2004" /><ref name="2005interview" /><ref name="dodexplanation" /> This meant that their grandson by Lily, [[Harry Potter]] was left in the care of Petunia, his only surviving blood relation.<ref name="ootp37">{{OOTP|B|37}}</ref>
+[[File:MirrorOfErised PM.jpg|250x250px|thumb|left|Harry standing before the [[Mirror of Erised]] and seeing his family for the first time]]
+
+When Harry looked into the Mirror of Erised in [[1991]], he saw both his maternal and paternal grandparents, among a number of other relatives he had never met.<ref name="PS12">{{PS|B|12}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}} {{Comment|Appears in [[Mirror of Erised]]}}
+*{{PS|F}} {{Mention}}
+*{{DH}} {{Flashback}}
+*{{DH|F2}} {{C|Mentioned only as "Mummy"}}
+
+==Notes and references==
+{{Reflist}}
+
+[[ru:Миссис Эванс]]
+[[fr:Mère de Lily et Pétunia Evans]]
+[[pl:Pani Evans]]
+[[Category:20th century deaths|Evans's mother]]
+[[Category:British individuals|Evans, Mrs]]
+[[Category:Deceased individuals]]
+[[Category:Evans family|Mother]]
+[[Category:Females|Evans, Mrs]]
+[[Category:Married individuals]]
+[[Category:Muggles|Evans, Mrs]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎|Evans's mother]]

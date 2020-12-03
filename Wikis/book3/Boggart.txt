@@ -1,0 +1,443 @@
+{{Spoiler|WU|HM}}
+{{Creature infobox
+|image = Boggart Shapeshifting.jpg
+|name = Boggart
+|skin = Varies<ref name="POA7"/>
+|eyes = Varies<ref name="POA7"/>
+|hair = Varies<ref name="POA7"/>
+|feathers = 
+|related = [[Bogeyman]] {{c|possibly}}
+|native = Worldwide
+|alias = *[[Bogeyman]] {{c|potentially}}
+*Boggle
+|height = 
+|length = 
+|wingspan = 
+|mortality = [[Amortality|Amortal]]<ref name="pottermore"/>
+|distinction = Transforms into the worst fear of the nearest observer(s)<ref name="POA7"/>
+|affiliation = Fear<ref name="POA7"/>
+|class = [[Non-being]]<ref name="pottermore"/>
+|status = Extant
+}}
+{{Quote|So the boggart sitting in the darkness within has not yet assumed a form. He does not yet know what will frighten the person on the other side of the door. Nobody knows what a boggart looks like when he is alone, but when I let him out, he will immediately become whatever each of us most fears.|[[Remus Lupin|Professor Lupin]] to his third year class in 1993|Harry Potter and the Prisoner of Azkaban}}
+
+A '''Boggart''' is an [[Amortality|amortal]] shape-shifting [[non-being]] that takes on the form of its observer's worst fear. Because of their shape-shifting ability, no one knows what a Boggart looks like when it is alone, as it changes instantly upon encountering someone.<ref name="POA7">{{POA|B|7}}</ref>
+
+When facing a Boggart, it is best to have someone else along, to try to confuse it, since facing more than one person at once makes it indecisive towards determining what form it should take, usually resulting in a not frightening combination of the victims' fears.<ref name="POA7"/>
+
+Boggarts would, at least before the [[Battle of Hogwarts]], very commonly appear as [[Tom Riddle|Lord Voldemort]], since he represented the worst fear of many [[wizardkind]].<ref name="LEGO" />
+
+==Description==
+===Physical appearance===
+Nobody knows what a Boggart looks like if nobody is there to see it, although it continues to exist, usually giving evidence of its presence by rattling, shaking or scratching the object in which it is hiding. Boggarts particularly like confined spaces, but may also be found lurking in woods and around shadowy corners.<ref name="pottermore">{{WW|boggart}}</ref>
+
+===Nature===
+{{Quote|A Boggart is a shape-shifting creature that will assume the form of whatever most frightens the person who encounters it. |A boggart's basic nature|Pottermore}}
+
+Much like [[Poltergeist]]s, Boggart are [[non-being]]s, who, although they resemble living [[creature]]s, are not considered [[magic]]ally "alive" and are as a result [[Amortality|amortal]] (a Boggart can be made to disappear, but it will inevitably reappear, with several more by its side at times). Much like Poltergeists with mischief and [[Dementor]]s with gloom and depression, Boggarts seem to embody the human emotion of fear, and consequently feed on other beings' fears.
+
+Boggarts' ability to shapeshift shows remarkable speed and fluidity, but has several limitations. Firstly, being confined, if nothing else, by the size of the room it inhabits, the Boggart will scale down an otherwise-gigantic form (as seen when a Boggart turned into the [[Moon]]). Secondly, though a Boggart who transforms into a magical being or object can replicate its abilities to an extent, this will be a weaker facsimile of the real thing; thus, a Boggart transformed into a Dementor has weaker magic than a real Dementor (according to [[Remus Lupin|Professor Lupin]], who exploited this effect to simulate a Dementor attack in Harry's presence to help him perfect the use of the [[Patronus Charm]] at no serious risk to [[Harry Potter]]'s [[soul]].)
+
+Additionally, when a witch or wizard has multiple fears that tie for their "worst," the Boggart will typically cycle through those fears, presumably randomly. For example, in [[1995]], when [[Molly Weasley]] was attempting to destroy a boggart that had taken up residence in [[12 Grimmauld Place]], the Boggart took the form of the freshly [[Death|dead]] bodies of her family, as well as Harry Potter, whom she loved like a son.<ref>{{OOTP|B|9}} - ''"Ron’s body turned into Bill’s, spread-eagled on his back, his eyes wide open and empty. Mrs Weasley sobbed harder than ever. ''[...]'' Mr Weasley’s body replaced Bill’s, his glasses askew, a trickle of blood running down his face. ‘No!’ Mrs Weasley moaned. ‘No … riddikulus! Riddikulus! RIDDIKULUS!’ Crack. Dead twins. Crack. Dead Percy. Crack. Dead Harry …"''</ref> Since she feared the deaths of all her loved ones equally, the Boggart cycled through all the corpses randomly.
+
+The extent of Boggarts' intelligence is unclear; though they sometimes take the forms of sentient beings as part of their fear-inducing transformations, those false "people" appear to be little more than caricatures, acting out the motions of the victim's fear involving said people, heedless of their surroundings. It is worth noting however that one Boggart once settled into the form of a human killer, foregoing individual transformations, and successfully posed as this man for a long period of time; and Boggarts' closest-known "relatives", Poltergeists and Dementors, both possess sapience.
+
+Though they cannot see other non-beings like Dementors, [[Non-magic people|Muggles]] can sometimes see Boggarts; however, as most Muggles refuse to acknowledge anything that might even be considered somewhat magical, the glimpses they catch of Boggarts are usually dismissed as mere hallucinations or figments of the viewer's imagination. This denial is helped by the fact that Muggles rarely see Boggarts plainly, due to their favoured haunts being dark places away from the public eye.<ref name="pottermore"/>
+
+===Defence against a boggart===
+[[File:Boggart-1.gif|250px|thumb|A Boggart in the wardrobe]]
+The Boggart-Banishing Spell is ''[[Boggart-Banishing Spell|Riddikulus]]''. The charm requires a strong mind and good concentration. The [[incantation]] and wand movement alone will not affect a Boggart. The spell can be tricky, because it involves making the creature into a figure of fun, so that fear can be dispelled in amusement. If the caster is able to laugh aloud at the Boggart, it will disappear at once. The intention is to force the Boggart to assume a less-threatening and hopefully comical form.<ref name="pottermore"/>
+
+In [[1993]], this charm was taught by [[Remus Lupin]] during a [[third year]] [[Defence Against the Dark Arts]] lesson at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="POA7" />
+
+Having multiple people facing one Boggart may reduce its effectiveness of frightening its victims, since it would not be able to determine which form to take.<ref name="POA7" />
+
+A Boggart also gains the weaknesses of whatever they transform into. For example if it transforms into a [[Dementor]], it can be repelled by a [[Patronus Charm]] like a normal Dementor.
+
+===Hiding places===
+Boggarts are particularly fond of inhabiting dark, confined spaces, such as in wardrobes, the gap beneath beds, and the cupboards under sinks and desks. On at least one occasion, a boggart was found hiding in a grandfather clock.<ref name="POA7"/> They also like shadowy corners.
+
+==Known encounters==
+===Famous Boggarts===
+Famous Boggarts include the [[Old Boggle of Canterbury]] (believed by local Muggles to be a mad, cannibalistic hermit that lived in a cave; in reality a particularly small Boggart that had learnt how to make the most of echoes); the [[Bludgeoning Boggart of Old London Town]] (a Boggart that had taken on the form of a murderous thug that prowled the back streets of [[19th century]] [[London]], but which could be reduced to a [[hamster]] with one simple incantation); and the [[Screaming Bogey of Strathtully]] (a Scottish Boggart that had fed on the fears of local Muggles to the point that it had become an elephantine black shadow with glowing white eyes, but which [[Lyall Lupin]] of the [[Ministry of Magic]] eventually trapped in a matchbox).<ref name="pottermore" />
+
+===Hogwarts===
+====[[1910s]]====
+In the 1910s, professor [[Albus Dumbledore]] taught students how to confront a Boggart and learn the spell to banish it. When [[Newton Scamander|Newt Scamander]]'s Boggart turned into a desk, Dumbledore commented on its unexpected nature and kindly inquired why it took this form: Newt confessed that his greatest fear was being stuck working in an office. After Newt successfully dispatched the Boggart, Dumbledore encouraged [[Leta Lestrange]] to take her turn, reassuring her that being afraid of something wasn't shameful; everyone was afraid of something. The form of Leta's Boggart surprised both Dumbledore and the entire class: a white sheet containing an undistinguishable, slight form floating through a dark blue glow. The event badly shook Leta.<ref name="COG69">{{COG|S|69}}</ref>
+
+====[[1970s]]====
+At some point during his time at [[Hogwarts school of witchcraft and wizardry|Hogwarts]]  [[Jacob (Hogwarts student)|Jacob]] opened the [[Vault of Fear|Vault of Fear,]] releasing the boggarts that guarded it onto the school grounds. Once he resealed the vault, the boggarts were again locked away. 
+
+====[[1986–1987 school year]]====
+During that school year, the [[Vault of Fear]] was again tampered with, which caused a large number of Boggarts to appear in an unusually high frequency around the school. One incident involved a Boggart appearing in a [[Hogwarts greenhouses|greenhouse]] during a [[Herbology]] class, scaring [[Penny Haywood]].<ref name="HMy3ch1"/> After [[Jacob's sibling]] and friends opened the vault and defeated the Boggarts guarding it, the [[curse]] was broken and Boggarts stopped appearing so often.
+
+====[[1993–1994 school year]]====
+{{Quote|That suggests that what you fear most of all is — fear. Very wise, Harry.|Remus Lupin regarding what [[Harry Potter]] fears|Harry Potter and the Prisoner of Azkaban}}
+In [[1993]], Professor [[Remus Lupin]] taught his [[third year]] [[Defence Against the Dark Arts]] students about how to defend against Boggarts. He took the class to the staffroom, where a [[Boggart in the Wardrobe|Boggart]] had moved into a wardrobe the previous afternoon. After explaining what they would need to do, Professor Lupin let the class, starting with [[Neville Longbottom]], perform the ''[[Boggart-Banishing Spell|Riddikulus]]'' [[charm]] on the Boggart. When the Boggart moved towards [[Harry Potter]], Lupin drew the Boggart's attention, causing it to turn into a full [[moon]] (as he was in fact a [[werewolf]]), then had Neville finish it off, banishing it for good.<ref name="POA7"/>
+
+Later, Professor Lupin explained that the reason he didn't let Harry face the Boggart was that he thought Harry's boggart would turn into [[Tom Riddle|Lord Voldemort]], and he didn't want to panic the students.<ref>{{POA|B|8}}</ref> Harry's boggart actually took on the form of a [[Dementor]], as he had an encounter with them on the way to Hogwarts that year and heard his mother's dying moments whenever they came near.<ref>{{POA|B|5}}</ref>
+
+To help Harry, Professor Lupin taught him how to perform the [[Patronus Charm|Patronus]], using a [[Anti-Dementor lessons Boggart|boggart]] found in [[Argus Filch]]'s filing cabinet as a substitute for a real Dementor. In between the [[Anti-Dementor lessons|private lessons]], Professor Lupin kept the Boggart in a cabinet under the desk, in his office.<ref>{{POA|B|12}}</ref>
+
+At the end of the school year, Lupin used another [[Third year Defence Against the Dark Arts exam Boggart|boggart]] as part of his [[third year exams]], as the final obstacle in a series.<ref name="POA16">{{POA|B|16}}</ref>
+
+====[[1994–1995 school year]]====
+On [[24 June]], [[1994]], Harry Potter came across a Boggart in the [[Triwizard Maze]] during the Third Task of the [[Triwizard Tournament]] of that year. Harry initially thought the Boggart was actually a Dementor, thus casting his Patronus, and realised that the creature was in fact a Boggart when it fell back and tripped over the hem of its robes instead of being driven back, as a real Dementor would have done.<ref>{{GOF|B|31}}</ref>
+
+===Number 12 Grimmauld Place===
+While cleaning up [[12 Grimmauld Place]], the new headquarters of the reconvened [[Order of the Phoenix]], [[Molly Weasley]] stumbled across what she thought was a Boggart in a locked cabinet of a writing desk. She decided to wait for [[Alastor Moody]] to confirm it was a Boggart, before opening the cabinet.<ref>{{OOTP|B|5}}</ref>
+
+After escaping from the party being held in celebration of [[Ronald Weasley|Ron Weasley]] and [[Hermione Granger]] becoming [[Prefect]]s, Harry heard sobbing coming from the drawing room. When he looked inside, Harry saw Mrs Weasley cowering against a dark wall, and the body of her son, Ron, sprawled on the floor. After Molly tried the [[Boggart-Banishing Spell|Riddikulus]] charm without success, Ron's body turned into the body of [[William Weasley|Bill Weasley]], with his eyes wide open and empty. Molly's next attempt turned Bill's body into [[Arthur Weasley]], with blood running down his face. The next attempts turned the boggart into [[Fred and George Weasley]], [[Percy Weasley]], and then Harry.<ref name="OOTP9">{{OOTP|B|9}}</ref>
+
+Harry shouted to Mrs Weasley that she should leave, causing [[Remus Lupin]] and [[Sirius Black]] to run into the room, followed by Alastor Moody. Lupin quickly figured out what had happened, and made the Boggart turn from Harry's dead body to the full moon, then with a wave of his wand, made the orb vanish in a puff of smoke.<ref name="OOTP9"/>
+
+===Unspecified===
+Although the precise details of this encounter are unknown, Lupin mentioned during his first lesson that he had once had an encounter with a Boggart in the company of at least two other people where the Boggart, attempting to frighten two people at once, turned itself into half a slug (One person was afraid of a flesh-eating slug and the other was afraid of headless corpses).<ref name="POA7"/>
+
+==Known Boggart forms==
+{{Quote|P-P-Professor McGonagall! Sh-she said I'd failed everything!| [[Hermione Granger]] faces her Boggart|Harry Potter and the Prisoner of Azkaban}}
+
+{| class="wikitable" border="1" width="100%"
+! Individual
+! Fear
+! Riddikulus
+|-
+| [[Albus Dumbledore]]
+| The corpse of his sister [[Ariana Dumbledore]]<ref name="Leaky">[http://www.the-leaky-cauldron.org/2007/7/30/j-k-rowling-web-chat-transcript J.K. Rowling Web Chat Transcript]</ref>
+| Unknown
+|-
+| [[Barnaby Lee]]
+| Clowns<ref name="HM39">{{HM|3|9}}</ref>
+| Unknown
+|-
+| [[Dean Thomas]]
+| [[Loose Hand|Disembodied living hand]]<ref name="POA7"/>
+[[File:Loose Hand Boggart.png|250px]]
+| The hand being caught in a mousetrap<ref name="POA7"/>
+|-
+| [[Harry Potter]]
+| A [[Dementor]] (fear in general, according to Remus Lupin)<ref name="POA12">{{POA|B|12}}</ref>[[File:Harry's boggart.gif|220x220px|thumb|left]]
+|Smoke<ref name="GOF31">{{GOF|B|31}}</ref> (could alternatively be banished with the [[Patronus Charm]])<ref name="POA12"/>
+|-
+| [[Hermione Granger]]
+| [[Minerva McGonagall|Professor McGonagall]] telling her that she failed her exams (failure in general)<ref name="POA16"/>
+| Professor McGonagall giving her an award<ref name="LEGO">{{LEGO|Y1}}</ref>
+|-
+|[[Hope Howell]]
+|A large, evil looking man<ref name="PMLupin">{{WW|remus-lupin}}</ref>
+|A field [[mushroom]] (spell performed by [[Lyall Lupin]])<ref name="PMLupin"/>
+|-
+| [[Jacob's sibling]]
+| [[Tom Riddle|Lord Voldemort]]<ref name="HMy3ch7"/>[[File: Jacob's sibling Voldemort Boggart.jpg|220x220px|thumb|left]]
+| Lord Voldemort as a clown<ref name="HM39"/>[[File: Jacob's sibling Voldemort Riddikulus.jpg|220x220px|thumb|left]]
+|-
+|[[Leta Lestrange]]
+|style="white-space:nowrap;" |Her drowning half-brother [[Corvus Lestrange (V)|Corvus Lestrange]]<ref name="COG69"/>
+[[File:Leta's Boggart.gif|250px]]
+|Unknown
+|-
+| [[Molly Weasley]]
+| Dead family and friends<ref name="OOTP9"/>
+| Unknown
+|-
+| [[Neville Longbottom]]
+| [[Severus Snape]]<ref name="POA7"/>[[File:Neville's boggart.gif|220x220px|thumb|left]]
+| Snape wearing [[Augusta Longbottom|Neville's grandmother]]'s clothes<ref name="POA7"/>[[File:Neville Riddikulus.gif|220x220px|thumb|left]]
+|-
+|[[Newton Scamander]]
+|Office/desk job<ref name="COG69"/>[[File:Newt boggart.gif|220x220px|thumb|left]]
+|A mechanical [[dragon]] flying around<ref name="COG69"/>[[File:NewtRiddikulus.gif|250px]]
+|-
+|[[Nymphadora Tonks]]
+| Losing her abilities as a [[Metamorphmagus]]<ref name="HM39"/>
+| Unknown
+|-
+| [[Padma Patil]]
+| A Giant [[Snake]]<ref name="LEGO" />[[File:Parvati Boggart.gif|220x220px|thumb|left]]
+<!-- Do NOT add the Cobra-turn-Jack-in-the-box related images; Remus distinctively called for Parvati, which isn't even the correct person for this column. See BTS -->
+| A [[Jack-in-the-box]]<ref name="LEGO" />[[File:Parvati Riddikulus.gif|220x220px|thumb|left]]
+<!-- Do NOT add the Cobra-turn-Jack-in-the-box related images; Remus distinctively called for Parvati, which isn't even the correct person for this column. See BTS -->
+|-
+| [[Parvati Patil]]
+| A bloodstained, bandaged [[mummy]]<ref name="POA7"/>
+| The mummy tripped over its bandages<ref name="POA7"/>
+|-
+| [[Penny Haywood]]
+| A [[Werewolf]]<ref name="HMy3ch1">{{HM|3|1|h}}</ref>
+| A stuffed toy wolf (performed by [[Pomona Sprout]])<ref name="HMy3ch1"/>[[File:Penny Haywood Riddikulus.jpg|220x220px|thumb|left]]
+|-
+| [[Remus Lupin]]
+| Full [[moon]] (the fear of turning into his [[werewolf]] form)<ref name="POA7"/>
+[[File:Lupin's boggart.gif|250px]]
+| A [[cockroach]]<ref name="POA7"/> or puff of smoke<ref name="OOTP9"/>
+<!-- Do NOT change or add "balloon" because in the book it changes into a cockroach (see BTS) -->
+|-
+| [[Ronald Weasley|Ron Weasley]]
+| [[Spider]]<ref name="POA7"/>[[File:Ron's boggart.gif|220x220px|thumb|left]]
+| The spider loses its legs<ref name="POA7" />
+<!-- Do NOT change or add "spider on roller skates" because that is not how it is in the book (see BTS) -->
+|-
+| [[Seamus Finnigan]]
+| A [[banshee]]<ref name="POA7"/>
+| A banshee having lost her voice<ref name="POA7"/>
+|-
+| style="white-space:nowrap;" |[[Tom Riddle|Tom Marvolo Riddle]]
+| His own dead body<ref>[http://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-2.htm "The Leaky Cauldron and MuggleNet interview Joanne Kathleen Rowling: Part Two," The Leaky Cauldron, 16 July 2005]</ref>
+|Unknown
+|-
+| [[Tulip Karasu]]
+| A red-eyed [[Merula Snyde]] berating her (fear of betraying friends)<ref name="HMy3ch7">{{HM|3|7}}</ref>[[File:Tulip Karasu Merula Boggart.jpg|220x220px|thumb|left]]
+| Merula as an out-of-character girly girl (performed by [[Jacob's sibling]])<ref name="HMy3ch7"/>[[File:Tulip Karasu Merula Riddikulus.jpg|220x220px|thumb|left]]
+|-
+| [[William Weasley]]
+| Losing his [[Weasley family|family]]<ref name="HM39"/>
+| Unknown
+|-
+| Unidentified student
+| A [[Vampire]]<ref name="COG69"/>
+| A buck-toothed [[rabbit]]<ref name="COG69"/>
+|-
+| Unidentified student
+| A [[Shark]]<ref name="COG69"/>
+| A flotation device<ref name="COG69"/>
+|-
+| Unidentified student
+| A [[Zombie]]<ref name="COG69"/>
+| Given a [[pumpkin]] for its head<ref name="COG69"/>
+|}
+
+The following individuals all had [[Tom Riddle|Voldemort]] as their Boggart form, and after performing the [[Boggart-Banishing Spell]], Lord Voldemort would turn into a baby and suck on a dummy:<ref name="LEGO" />
+{|
+|
+*[[Alastor Moody]]
+*[[Alicia Spinnet]]
+*[[Amos Diggory]]
+*[[Angelina Johnson]]
+*[[Arthur Weasley]]
+*[[Aurora Sinistra]]
+*[[Bartemius Crouch Junior]]
+*[[Bartemius Crouch Senior]]
+*[[Cedric Diggory]]
+*[[Cho Chang]]
+*[[Colin Creevey]]
+*[[Cornelius Fudge]]
+*[[Dobby]]
+*[[Donaghan Tremlett]]
+*[[Doris Crockford]]
+*[[Draco Malfoy]]
+*[[Dragon keeper]]
+|
+*[[Ernest Macmillan]]
+*[[Ernest Prang]]
+*[[Filius Flitwick]]
+*[[Fleur Delacour]]
+*[[Fred Weasley]]
+*[[Gabrielle Delacour]]
+*[[George Weasley]]
+*[[Gilderoy Lockhart]]
+*[[Ginevra Weasley]]
+*[[Gregory Goyle]]
+*[[Griphook]]
+*[[Hannah Abbott]]
+*[[Igor Karkaroff]]
+*[[Irma Pince]]
+*[[Justin Finch-Fletchley]]
+*[[Katie Bell]]
+|
+*[[Kirley Duke]]
+*[[Lee Jordan]]
+*[[Lucius Malfoy]]
+*[[Madam]] [[Malkin]]
+*[[Madam]] [[Rosmerta]]
+*[[Marcus Flint]]
+*[[Millicent Bulstrode]]
+*[[Minerva McGonagall]]
+*[[Myron Wagtail]]
+*[[Garrick Ollivander]]
+*[[Oliver Wood]]
+*[[Orsino Thruston]]
+*[[Penelope Clearwater]]
+*[[Percy Weasley]]
+*[[Peter Pettigrew]]
+*[[Pomona Sprout]]
+|
+*[[Poppy Pomfrey]]
+*[[Quirinus Quirrell]]
+*[[Rita Skeeter]]
+*[[Rolanda Hooch]]
+*[[Rubeus Hagrid]]
+*[[Septima Vector]]
+*[[Severus Snape]]
+*[[Sirius Black]]
+*[[Shifty wizard]]
+*[[Stanley Shunpike]]
+*[[Susan Bones]]
+*[[Sybill Trelawney]]
+*[[Tom]]
+*[[Trolley witch]]
+*[[Unidentified registered Animagus]]
+*[[Viktor Krum]]
+*[[Vincent Crabbe]]
+*[[Walden Macnair]]
+|}
+
+==Etymology==
+In Celtic mythology, a {{Wplink|Boggart}} (or bogart, bogan, bogle or boggle) is a household [[spirit]], sometimes mischievous, sometimes helpful.
+
+==Behind the scenes==
+[[File:Boggart Snape (old edition).jpg|thumb|A Boggart imitating [[Severus Snape]] (old edition)]]
+[[File:Boggart Snape (new 2018 edition).jpg|thumb|A Boggart imitating Severus Snape (new 2018 edition)]]
+[[File:Boggart_POP.jpg|thumb|A Boggart imitating Severus Snape as a [[POP! Vinyl]]]]
+*Lupin's Boggart, the full moon, indicated his dread of his transformations into a werewolf. However, the Boggart failed to frighten him because it is not the moon itself he feared, but its effect on him.
+*In mythology, the Boggart actually lives in marshes or fields and has a short, grotesque, hairy appearance.
+**The Boggarts in Harry Potter are more similar to the Bogeyman, being found in closets, under furniture, and cupboards and able to transform into one's worst fear.
+*"Boggart" is the favourite word/line from the series of Actor [[David Thewlis]] (Remus Lupin).<ref>https://www.youtube.com/watch?v=U5don9ACZEI</ref>
+*It is unknown if Boggarts can change into intangible fears like darkness, certain sounds or mental/physical illnesses. It is also unknown how they adapt to people who are only afraid of interacting with non-sentient concepts like drowning, loneliness or claustrophobia. Unless the Boggart is somehow able to engulf a person with these or similar fears it is likely they are powerless against them and might even be exposed in their actual form to these people.
+**It is possible that the Boggart knows ways to symbolise these fears; for example, in the case of a person with Hydrophobia, showing the viewer their drowned corpse. This is supported in canon by Lord Voldemort (who feared death) seeing his own corpse, Remus Lupin (who feared his werewolf transformation) seeing the full moon, and Hermione (who feared failure) seeing Professor McGonagall telling her that she failed all of her exams. Mrs Weasley feared her loved ones dying, so the Boggart showed her loved one's corpses in succession, which supports this theory even further.
+*It could be possible that if someone who has no fear attempts to engage a Boggart, it will not be able to decide what to turn into and will be forced to show its true form.
+*In {{POA}}, [[Remus Lupin]] mentions that no one knows what a Boggart looks like when it is alone. [[Alastor Moody]], in {{OOTP}}, is able to determine through his "mad" eye that a creature hiding in [[12 Grimmauld Place]] is definitely a Boggart. It is assumed that Moody knew what a Boggart looked like in its true form as the Boggart had not seen him and shape-shifted.
+*In {{POA}}, [[Remus Lupin]] gives Harry [[Harry Potter and Remus Lupin's private lessons|private lessons]] on how to defeat Dementors, using a Boggart as a replacement. However, when Harry faced the Boggart the first and second time, when he failed to beat it, the Boggart/Dementor had managed to make Harry hear his mother's screams. This may imply that Boggarts can gain some abilities of the thing it morphs into. It also gained its weakness as it was easily defeated by Harry's [[Patronus Charm|Patronus]].
+*In an early script for {{POA|FA}}, there were several differences from the final cut of the film. The Boggarts for Neville, Ron, Harry, and Professor Lupin remained the same. Parvati's, however, would have been a [[vampire]] (specifically [[Count Dracula]]<ref>[http://www.castingcallpro.com/uk/view.php?uid=50675 Yana Yanezic's agency profile]</ref>) which would have been dressed like {{w|Carmen Miranda}} (presumably referring to her famous fruit hat outfit from the film ''{{w|The Gang's All Here (1943 film)|The Gang's All Here}}'') when the Boggart-Banishing Charm was used on it, with Dean having the cobra boggart Parvati has in the actual film.<ref>[http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html ''Prisoner of Azkaban'' script at the Internet Movie Script Database] (archived [http://web.archive.org/web/20090216093016/http://imsdb.com/scripts/Harry-Potter-and-the-Prisoner-of-Azkaban.html here] via the Internet Archive's Wayback Machine)</ref>
+*[[J. K. Rowling]] has stated that her Boggart would be the same as [[Molly Weasley]]'s: her loved ones dead or alternatively herself buried alive. In an earlier interview, however, before the publication of {{OOTP}}, she suggested [[Aragog]] as a possible Boggart for her, as she hates spiders.<ref name="scholasticinterview">[http://web.archive.org/web/20080623145514/www.scholastic.com/harrypotter/books/author/interview2.htm Harry Potter: Meet J. K. Rowling - October 16, 2000 interview]</ref>
+*The Boggart may have been inspired by the "Clutterbumph" from ''[[Manxmouse]]'', of which [[Harry Potter (book series)|''Harry Potter'' series]] author J.K. Rowling is a known fan.<ref>[http://www.accio-quote.org/articles/2001/1001-sydney-renton.htm Accio Quote - The story behind the Potter legend]</ref> The Clutterbumph is described as follows: "...something that is not there until one imagines it. And as it is always someone different who will be doing the imagining, no two Clutterbumphs are ever exactly alike. Whatever it is that frightens one the most and that is just about the worst thing one can think of, that is what a Clutterbumph looks like."
+*The Boggart also bears a resemblance to the {{w|Coco (folklore)|Cucuy}}, a monster in Hispanic and Latino folklore. Like the Cucuy, the Boggart lives in dark areas such as beneath beds and inside closets, and has the ability to change its shape at will.
+*Boggarts have been compared to the {{w|It (character)|titular character}} from the {{w|Stephen King}} horror novel ''{{w|It (novel)|It}}'', an ancient evil entity that took on the appearance of its targets' worst fears, most commonly appearing as "Pennywise the Dancing Clown".<ref>[http://www.theatlantic.com/notes/2015/11/20-years-of-pennywise-the-clown/416577/ 25 Years of Pennywise the Clown]</ref>
+**In {{HM}}, [[Jacob's sibling]]'s Boggart of Voldemort is turned into a clown after casting the [[Boggart-Banishing Spell]]; the clown Voldemort will then dance in the same style as Pennywise from the 2017 [[wikipedia: It (2017 film)|adaption]]. Later [[Barnaby Lee]] will admit that he found clown Voldemort even more intimidating due to his [[wikipedia: coulrophobia|coulrophobia]].
+*[[Harry Potter]] and [[Neville Longbottom]] are the two known characters to have results for their respective Boggarts and outcomes featured in the film adaptation, the LEGO game, and the GBA game, and all true to the depictions in the books with no alterations.<!-- This statement is based on the table below, previously having those two listed, and "No changes" filled for the three adaptations. If there is no changes, listing them is rather taking unnecessary space since the table is for comparison purpose. -->
+*In the film and video game adaptations of the series, changes were made to the following individual's Boggart form and Boggart-Banishing Spell outcome:
+{| width="850" class="wikitable" border="1"
+! rowspan="2" |Individual
+! colspan="2" |Books
+! colspan="2" |Film
+! colspan="2" |LEGO
+! colspan="2" |GBA version
+|-
+! Boggart
+! Riddikulus
+! Boggart
+! width="120" |Riddikulus
+! Boggart
+! Riddikulus
+! Boggart
+! Riddikulus
+|-
+|[[Albus Dumbledore]]
+|The corpse of his sister [[Ariana Dumbledore]]<ref name="Leaky" />
+|Unknown
+! colspan="2" |Omitted
+|Voldemort
+|Voldemort turns into a baby sucking on a dummy
+! colspan="2" |Omitted
+|-
+|[[Dean Thomas]]
+|[[Loose Hand|Disembodied living hand]]||Caught in a mousetrap
+! colspan="2" |Omitted
+|A floating disembodied eyeball||The eyeball falling to the ground
+! colspan="2" |No changes
+|-
+|[[Hermione Granger]]
+|[[Minerva McGonagall|Professor McGonagall]] telling her that she failed her exams or failure in general
+|Unknown
+! colspan="2" |Omitted
+|McGonagall showing her a ''Troll'' exam||[[Minerva McGonagall|Professor McGonagall]] giving her an award
+! colspan="2" |Omitted
+|-
+|[[Molly Weasley]]
+|Dead family/friends
+|Unknown
+! colspan="2" |Omitted
+|Voldemort
+|Voldemort turns into a baby sucking on a dummy
+! colspan="2" |Omitted
+|-
+|[[Padma Patil]]
+! colspan="2" |Omitted
+! colspan="2" |Omitted
+|A [[Snake|giant cobra]]||A Jack-in-the-box
+! colspan="2" |Omitted
+|-
+|[[Parvati Patil]]
+|A [[mummy]]||It tripped over its bandages
+|A [[Snake|giant cobra]]
+[[File:Boggart Snake.gif|120px]]
+|It turned into a Jack-in-the-box
+[[File:Cobra-boggart.gif|120px]]
+|A mummy||It shrank
+|A normal cobra||It tied itself in a knot
+|-
+|[[Remus Lupin]]
+|Full moon||A balloon
+|Full moon||A balloon[1]
+[[File:LupinRiddikulus.gif|120px]]
+|Full moon||A balloon
+! colspan="2" |Omitted
+|-
+|[[Ronald Weasley|Ron Weasley]]
+|[[Acromantula|Giant spider]]||No legs
+|[[Acromantula|Giant spider]]||The spider is given roller skates
+[[File:RonRiddikulus.gif|120px]]
+|[[Acromantula|Giant spider]]||The spider is given roller skates
+|[[Acromantula|Giant spider]]||The spider is given roller skates
+|-
+|[[Seamus Finnigan]]
+|A [[banshee]]
+|She lost her voice
+! colspan="2" |Omitted
+|Voldemort
+|Voldemort turns into a baby sucking on a dummy
+! colspan="2" |Omitted
+|-
+|[[Tom Riddle]]
+|His own dead body
+|Unknown
+! colspan="2" |Omitted
+|Harry Potter
+|Harry dropping dead
+! colspan="2" |Omitted
+|}
+
+==Appearances==
+{{Imagecat|Images of Boggarts}}
+*{{POA}} {{1st}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}} {{Deleted scenes}} {{Mention}}
+*{{OOTP}}
+*{{OOTP|F}} {{C|Flashback in Disc 2}}
+*{{DH}} {{Possible}}
+*{{DH|F1}} {{Possible}}
+*{{DH|G1}}
+*{{COG|S}} {{Flashback}}
+*{{COG}} {{Flashback}}
+*{{PM}}
+*{{WW}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}} {{Possible}}
+*{{LEGO}}
+*{{HPV|CH}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Defence Against the Dark Arts}}
+[[de:Irrwicht]]
+[[de2:Irrwicht]]
+[[el:Μπόγκαρτ]]
+[[es:Boggart]]
+[[et:Peletis]]
+[[fi:Mörkö]][[fr:Épouvantard]]
+[[ja:まね妖怪]]
+[[no:Hambuse]]
+[[pl:Bogin]]
+[[pt-br:Bicho-Papão]]
+[[ru:Боггарт]]
+[[zh:博格特]]
+[[Category:Boggarts]]
+[[Category:Confoundables]]
+[[Category:Creatures found worldwide]]
+[[Category:Muggle-known creatures]]

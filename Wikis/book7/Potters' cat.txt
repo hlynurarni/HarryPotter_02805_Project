@@ -1,0 +1,33 @@
+{{conjecture}}
+{{Pet individual infobox
+|image = File:PotterCat.jpg
+|name = Potters' cat
+|born = [[July]] [[1981]] or earlier<ref>Lily mentions it in a letter on Harry's first birthday, meaning that the cat was alive c. July 1981 as Harry "nearly killed it" while flying on his new toy broom.</ref>
+|died = 
+|alias = 
+|title = 
+|species = [[Cat]]<ref name="DH10"/>
+|gender = 
+|height = 
+|hair = Ginger<ref name="PM">{{PM}}</ref>
+|feathers = 
+|eyes = Green<ref name="PM"/>
+|skin = 
+|family = 
+|loyalty = [[Potter family]]<ref name="DH10"/>
+}}
+The '''Potters' [[cat]]''' was a pet of the [[Potter family]]. This cat was mentioned in [[Lily J. Potter|Lily Evans]]' [[Lily Evans's letter|letter]] to [[Sirius Black]] that [[Harry Potter|Harry]] had nearly killed it while flying on Sirius' birthday present to Harry, a toy broomstick.<ref name="DH10">{{DH|B|10}}</ref> It is currently unknown if it died when [[Tom Riddle|Lord Voldemort]] attacked the Potters, or escaped unharmed.
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+*{{PM}} {{1st}}
+==Notes and references==
+{{Reflist}}[[de:Katze der Potters]]
+[[es:Gato de los Potter]]
+[[fr:Chat de la famille Potter]]
+[[pl:Kot Potterów]]
+[[zh:波特家族的猫]][[ru:Кошка Поттеров]]
+[[Category:Green-eyed individuals]]
+[[Category:Individual cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Potter family pets]]

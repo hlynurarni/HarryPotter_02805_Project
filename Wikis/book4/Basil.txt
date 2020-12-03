@@ -1,0 +1,53 @@
+{{Youmay|the Ministry of Magic employee|[[Basil (disambiguation)|another person with the same name]]}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Basil.png|250px]]
+|name = Basil
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">Basil and his colleagues are "dressed as [[Non-magic people|Muggles]], though very inexpertly," which indicates that he was not raised among Muggles, as most [[Muggle-born]]s would have at least some experience with putting together a Muggle outfit.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey<ref name="PM"> {{PM}}</ref>
+|eyes = 
+|skin = White<ref name="PM"> {{PM}}</ref>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Department of Magical Transportation]] employee
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Magical Transportation]]
+}}
+{{Dialogue a-b-a|Arthur Weasley|Morning, Basil.|Basil|Hello there, Arthur. Not on duty, eh? It's all right for some… We've been here all night… You'd better get out of the way, we've got a big party coming in from the Black Forest at five fifteen. Hang on, I'll find your campsite… Weasley… Weasley… About a quarter of a mile's walk over there, first field you come to. Site manager's called Mr Roberts. Diggory… second field… ask for Mr Payne.|Thanks, Basil.|[[Harry Potter]], the [[Weasley family|Weasleys]] and the [[Diggory family|Diggories]] arrive at the [[Portkey]] terminus of the [[1994]] [[Quidditch World Cup]]|Harry Potter and the Goblet of Fire}}
+'''Basil''' was a [[Wizardkind|wizard]] and [[British Ministry of Magic|Ministry of Magic]] employee. In the [[1990s]], Basil worked for the [[Department of Magical Transportation]], most likely in the [[Portkey Office]].<ref name="DMT">It seems a safe assumption this individual worked for the Department of Magical Transportation, as he worked with Portkeys.</ref>
+
+At the [[Quidditch World Cup]] final in [[1994]], he was one of the [[wizardkind|wizards]] staffing the [[Portkey]] terminus, and had been there for most of the morning with a large party that was arriving from the [[Black Forest]] in [[Germany]]. He was wearing a poncho and a kilt in an attempt to look like a [[Non-magic people|Muggle]].<ref name="GF7">{{GOF|B|7}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 6 employees}}
+[[de:Basil (MdZ)]]
+[[es:Basil]]
+[[fr:Basil]]
+[[ru:Бэзил]]
+[[pl:Bazyl]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals]]
+[[Category:Department of Magical Transportation personnel]]
+[[Category:Males]]
+[[Category:Wizards]]

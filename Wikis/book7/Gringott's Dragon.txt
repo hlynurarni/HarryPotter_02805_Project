@@ -1,0 +1,79 @@
+{{SicTitle}}
+{{Pet individual infobox
+|image = B7C26M1 Gringott's Dragon.png
+|name = Gringott's Dragon
+|born = Pre [[1998]]
+|died = 
+|alias = 
+|title = 
+|species = [[Dragon]]<ref name="DH26"/> ([[Ukrainian Ironbelly]])<ref name="DHF2"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = Pale<ref name="DH26"/>
+|skin = Grey<ref name="DH26"/>
+|family = 
+|loyalty = [[Gringotts Wizarding Bank]] (formerly)<ref name="DH26"/>
+}}
+{{Quote|Nevertheless, as they climbed higher and higher, [[London]] unfurling below them like a grey-and-green map, [[Harry Potter|Harry]]'s overwhelming feeling was of gratitude for an escape that had seemed impossible. Crouching low over the [[beast]]'s neck, he clung tight to the metallic scales, and the cool breeze was soothing on his burned and blistered skin, the [[dragon]]'s wings beating the air like the sails of a windmill.|[[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] escape on the [[dragon]]|Harry Potter and the Deathly Hallows}}
+'''Gringott's Dragon'''<ref name="PM">{{PM}} - [http://www.pottermore.com/en/book7/chapter26/moment1/gringotts-dragon From the story: Gringott's Dragon] (archived)</ref> (more specifically part of the [[Ukrainian Ironbelly]] species) was used to guard several high-security vaults, including the [[Lestrange Vault]], at [[Gringotts Wizarding Bank]]. It was encountered by [[Harry Potter]] and his friends when they [[Break-in of Gringotts Wizarding Bank (1998)|infiltrated the bank]] in [[1998]], (in order to obtain a horcrux) although it is likely the dragon had been guarding the vaults for a long time prior to this.<ref name="DH26">{{DH|B|26}}</ref> This [[dragon]] was trained to expect pain when it heard a sound in a way which [[Hermione Granger]] thought was barbaric.<ref name="DHF2">{{DH|F2}}</ref>
+
+==Biography==
+===Early life===
+It is unknown when exactly this particular dragon was placed to guard the vaults it was assigned, but it is known that during this time it was trained to fear the sound of the [[Clankers]] as it expected pain upon hearing it, causing it to retreat and allow those who were using the Clankers to access the vaults. This was most likely achieved using the process of [[wikipedia:classical conditioning|classical conditioning]]. The dragon was aged and half-blind by the spring of [[1998]].<ref name="DH26"/>
+
+In [[1991]], when [[Rubeus Hagrid]] talked to Harry about Gringotts (the first time), he told him rumours about there being dragons guarding Gringotts vaults. Harry, taking interest, tried to coax Hagrid to tell him more about the dragons. Harry also saw a flash of flame, which was possibly produced by this dragon, and leaned out of the cart to investigate, but was hastily pulled back in by Hagrid.<ref name="PS5">{{PS|B|5}}</ref>
+
+===1998 Break-in of Gringotts===
+{{Main|Break-in of Gringotts Wizarding Bank (1998)}}
+{{Quote|If [[Charles Weasley|Charlie]] was here, he'd know how to deal with this.|Ron on Charlie's skills with dragons|Harry Potter and the Deathly Hallows: Part 2 (video game)}}
+[[File:Harrypotter7-dragon-590x350.jpg|245px|thumb|The Ukrainian Ironbelly escaping through the Gringotts marble hallway]]
+As [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger|Hermione]] had been planning to break into the [[Lestrange Vault]] for a few weeks ahead of time, they fully expected to find the dragon and were able to use the Clankers (with the help of [[Imperius Curse|Imperiused]] goblin [[Bogrod]]) to drive it away and get into the vault.<ref name="DH26"/>
+
+[[file:Relashio.gif|250px|thumb|The Dragon being liberated of its chains]]
+After the [[goblin]] [[Griphook]] abandoned them and they were carried out of the vault in a cascade of treasure, Harry, Ron, and Hermione jumped onto the back of this dragon in desperation to avoid the charging wizards and goblins. Harry removed its chains with the [[Revulsion Jinx]] and Hermione used the [[Gouging Spell]] to help the dragon carve its way out of the tunnel and toward the surface, at one point breaking part of the mine rail causing a cart to go flying off killing several wizards and goblins in it at the time. The other two pitched in, and the dragon crashed through the Gringotts hall, out into [[Diagon Alley]], and took off.<ref name="DH26"/>
+
+===Later life===
+{{Dialogue a-b|Hermione|What'll happen to it, do you think? Will it be alright?|Ron|You sound like [[Rubeus Hagrid|Hagrid]]. It's a dragon, Hermione, it can look after itself. It's us we need to worry about ''[…]'' I don’t know how to break this to you, but I think they might have noticed we broke into Gringotts.|Hermione and Ron discussing the dragon after they jump off the dragon|Harry Potter and the Deathly Hallows}}
+The trio soared on the back of the dragon for a while, but finally jumped off into a [[Unidentified lake|lake]] as the dragon lowered its flying height nearer to the [[water]]'s surface to get a drink. Although Hermione expressed concern for leaving the dragon in the wild, Ron was confident that it would be able to fend for itself without difficulty. The dragon was last seen flying into the nearby mountain range.<ref name="DH27">{{DH|B|27}}</ref> It is unknown what happened to it afterwards.
+
+==Physical appearance==
+[[File:Dragon attack Gringotts.JPG|250px|thumb|The dragon breathing fire as it escaped]]
+
+{{Quote|A gigantic dragon was tethered to the ground in front of them, barring access to four or five of the deepest vaults in the place. The beast's scales had turned pale and flaky during its long incarceration under the ground; its eyes were milkily pink; both rear legs bore heavy cuffs from which chains led to enormous pegs driven deep into the rocky floor. Its great spiked wings, folded close to its body, would have filled the chamber if it spread them, and when it turned its ugly head toward them, it roared with a noise that made the rock tremble, opened its mouth, and spat a jet of fire that sent them running back up the passageway.|Description of the dragon in [[1998]]|Harry Potter and the Deathly Hallows}}
+
+The dragon was an immense, powerful and savage [[beast]] with enormous spiked wings and an ugly head with milkily pink, partially blind eyes. Due to it being underground for so long, the dragon's scales were pale and flaky, and it bore the marks of its brutal treatment from goblins: scars on its face made by vicious slashes across its face from, Harry guessed, hot swords. Nevertheless, its scales were described to bear the consistency of steel. Prior to its escape, both of its rear legs had heavy cuffs on them with chains leading to massive pegs driven far into the rocky floor of the subterranean chamber. The dragon's roar was said to make the rock tremble, and it was known to breathe jets of flame.<ref name="DH26"/>
+
+As an Ironbelly, it had some difficulty escaping from the bank, and took some time to stay aloft in mid-air after it was freed from its incarceration there.<ref name="DH26"/>
+
+==Behind the scenes==
+[[File:IMG_6528.jpg|thumb|The Gringotts dragon atop Gringotts Wizarding Bank at {{WWHP}}]]
+[[File:Dragon escape - DH Mary Grandpre.jpg|thumb|The trio flying the Gringotts dragon, as illustrated by [[Mary GrandPré]]]]
+*This dragon's species was not identified in the novel.
+**It was stated to be a [[Ukrainian Ironbelly]] in {{DH|F2}}, although the dragon's appearance shows great similarities to the [[New Zealand]]-native [[Antipodean Opaleye]].
+**In {{DH|G2}} they use a [[Common Welsh Green]] to guard said vault instead of a Ukrainian Ironbelly.
+*As of the [[Hungarian Horntail]] in {{GOF|FA}}, Ukrainian Ironbelly's fire-breathing manner seen in the film adaptation of ''Harry Potter and the Deathly Hallows'' by shooting a pair of chemical liquids that cause a fire blast on contact is possibly based on the same fire-breathing manner used by dragons in the film ''Reign of Fire (2002)'', and was followed by other fantasy medias such as ''Game of Thrones'' series and ''Gods of Egypt (2016)''.
+*When [[Matthew Lewis]] was asked in a webcast for the Harry Potter theme park how he would name the dragon, his answer was "Neville", after [[Neville Longbottom|his character]].
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{PS|F}} {{C|Mentioned in [[Daily Prophet]]}}
+*{{DH}} {{1st}}
+*{{DH|F2}} {{C|First identified as a Ukrainian Ironbelly}}
+*{{DH|G2}}
+*{{LEGO|Y2}}
+*{{WWHP}} {{C|Appears on [[Harry Potter and the Escape From Gringotts]]}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CR}}
+
+==Notes and references==
+{{Reflist}}
+{{Gringotts}}
+[[fr:Dragon de Gringotts]]
+[[Category:Articles with conjectural titles]]
+[[Category:Break-in of Gringotts Wizarding Bank (1998)]]
+[[Category:Individual dragons]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Security guards]]

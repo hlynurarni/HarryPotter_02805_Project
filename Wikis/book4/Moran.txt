@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Irish National Quidditch team.jpg|250px]]
+|name = Moran
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]<ref name="GOF8"/>
+|alias = 
+|title = [[Chaser]]<ref name="GOF8"/>
+|signature = 
+|species = [[Human]]<ref name="GOF8"/>
+|gender = Female<ref name="GOF8"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Chaser]] for the [[Irish National Quidditch team]]<ref name="GOF8"/>
+|house = 
+|loyalty = [[Irish National Quidditch team]]<ref name="GOF8"/>
+}}
+'''Moran''' was an [[Ireland|Irish]] [[wizardkind|witch]] who played as the [[Chaser]] for the [[Irish National Quidditch team]].<ref name="GOF8"/>
+
+==Biography==
+She played alongside [[Connolly]], [[Barry Ryan]], [[Troy]], [[Mullet]], [[Quigley]] and [[Aidan Lynch|Lynch]] during the [[1994]] [[Quidditch World Cup]] final, when they won over the [[Bulgarian National Quidditch team|Bulgarians]]. She, along with her teammates scored one of the points for [[Ireland]], played well, performing moves that astonished [[Harry Potter]] and the [[Weasley family|Weasleys]].<ref name="GOF8">{{GOF|B|8}}</ref>
+
+==Etymology==
+The [[wikipedia:Irish_language|Irish]] surname "Moran" means a descendant of Mórán, translated as "big one."
+
+==Behind the scenes==
+*Moran appeared in {{GOF|FA}}. It is unknown who played her, and she only makes a small appearance, as most of the match is cut from the film.
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+[[de:Moran]]
+[[fr:Morane]]
+[[pl:Moran]]
+[[Category:Chasers]]
+[[Category:Females]]
+[[Category:Irish individuals]]
+[[Category:Wizards]]

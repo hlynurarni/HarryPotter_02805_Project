@@ -1,0 +1,37 @@
+{{Individual infobox
+|name = Wilbert Slinkhard
+|born = Prior to [[1978]]
+|species = [[Human]]
+|gender = Male
+|family = [[Wendy Slinkhard]] (possibly)
+|job = Author, Theoritician
+|loyalty = [[Slinkhard family]]
+|theme = wizard
+|hideb = 
+|hidep = 
+|hidef = 
+|hidem = h
+|hidea = 
+}}'''Wilbert Slinkhard''' was a [[Wizardkind|wizard]] who authored the book ''[[Defensive Magical Theory]]'', which was approved by the [[British Ministry of Magic]] as a suitable textbook for [[Defence Against the Dark Arts]] classes.<ref>{{OOTP|B|9}}</ref> Due to the peaceful approaches to confrontation Slinkhard advocated, [[Dolores Umbridge]] found his work useful in her classes during the [[1995-1996 school year]] due to the [[British Ministry of Magic|Ministry's]] paranoid view that the students were being trained in combat.<ref>{{OOTP|B|12}}</ref>
+
+==Personality and traits==
+If the contents of his masterwork are any indication of his personality or views on the subject, Slinkhard was a pacifist, advocating a passive approach to confrontation and discouraging the use of combative spells for even defensive purposes. He deemed "[[counter-jinx]]" an inappropriate term to use for the spells, stating that such was only to make them seem more acceptable. However, Slinkhard appeared to have had very little knowledge on how to adequately defend oneself, and his book was of very little education value to students studying [[Defence Against the Dark Arts]], as it failed to teach in any way how to [[Duelling|duel]] or how to defend oneself against the [[Dark Arts]] or [[Dark Wizard]]s.
+
+==Etymology==
+The name "Wilbert" means "bright will", derived from the Germanic elements wil "will, desire" and beraht "bright".
+
+==Appearances==
+*{{OOTP}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Slinkhard, Wilbert}}
+
+[[de:Wilbert Slinkhard]]
+[[fr:Wilbert Eskivdur]]
+[[pl:Wilbert Slinkhard]]
+[[ru:Уилберт Слинкхард]]
+[[Category:Authors]]
+[[Category:Males]]
+[[Category:Slinkhard family]]
+[[Category:Theoreticians]]
+[[Category:Wizards]]

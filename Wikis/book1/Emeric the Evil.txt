@@ -1,0 +1,71 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = dark-wizard
+|image = Emeric the Evil.png
+|name = Emeric the Evil
+|born = [[Middle Ages]]
+|died = Middle Ages
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = *Unknown wand<ref>It is most likely that he owned another wand before the [[Elder Wand]].</ref>
+*[[Elder Wand|Elder, Thestral tail hair core]]
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Binns droned on and on while they scribbled down names and dates and got Emeric the Evil and Uric the Oddball mixed up.|Description|Harry Potter and the Philosopher's Stone}}
+
+'''Emeric the Evil''' was a short-lived but exceptionally aggressive [[Dark Wizard]]. He was once the master of the [[Elder Wand]]. With it, he terrorised the south of [[England]] in the early [[Middle Ages]]. He was "''slaughtered''" in a ferocious [[Duel Between Emeric the Evil and Egbert the Egregious|duel]] against [[Egbert the Egregious]].<ref>{{TBB|E}} - ''Albus Dumbledore on "''The Tale of the Three Brothers''"''</ref>
+
+During their [[History of Magic]] lessons with [[Cuthbert Binns|Professor Binns]], the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] students often mixed up Emeric the Evil with [[Uric the Oddball]].<ref>{{PS|B|8}}</ref>
+
+==Etymology==
+The name "Emeric" is a Germanic name, in which the second element is ''ric'' meaning "power". The first element may be ''ermen'' "whole, universal" (making it a relative of ''Ermenrich''), ''amal'' "work, labour" (making it a relative of ''Amalric'') or ''heim'' "home" (making it a relative of ''Henry''). It is likely that several forms merged into a single name.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{DH}} {{Mention}}
+*{{TBB|R}} {{Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Antioch Peverell's killer]]
+|position=Master of the [[Elder Wand]]
+|years=
+|successor=[[Egbert the Egregious]]}}
+{{End box}}
+{{Deathly Hallows Owners}}
+
+[[de:Emmerich der Böse]]
+[[es:Emeric el Malvado]]
+[[fr:Emeric le Hargneux]]
+[[pl:Emeryk Zły]]
+[[ru:Эмерик Отъявленный]]
+[[uk:Емерік Лихий]]
+[[pt-br:Emerico, o Mal]]
+[[Category:British individuals]]
+[[Category:Dark wizards]]
+[[Category:Elder Wand masters]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Murder victims]]

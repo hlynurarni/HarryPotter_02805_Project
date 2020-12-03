@@ -1,0 +1,53 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gringotts
+|image = 
+|name = Unidentified goblin
+|born = 
+|died = [[1 May]], [[1998]]<br/>[[Malfoy Manor]], [[Wiltshire]]
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Employee at [[Gringotts Wizarding Bank|Gringotts]]
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]
+}}
+{{Dialogue a-b-a-b-a|Goblin|M-my Lord… we t-tried t-to st-stop them… Im-impostors, my Lord… broke — broke into the — into the Lestranges' v-vault…|Voldemort|Impostors? What impostors? I thought Gringotts had ways of revealing impostors? Who were they?|It was… it was… the P-Potter b-boy and t-two accomplices…|And they took? Tell me! What did they take?|A… a s-small golden c-cup, m-my Lord…|The goblin's last words|Harry Potter and the Deathly Hallows}}
+This '''[[goblin]]''' was given the unenviable task of informing [[Tom Riddle|Lord Voldemort]] that a [[Break-in of Gringotts Wizarding Bank (1998)|break-in]] had occurred at [[Gringotts Wizarding Bank]], his current place of occupation, and that an item had been stolen from the [[Lestrange family|Lestrange]] [[Lestrange Vault|Vault]], in May 1998.
+
+[[File:Slaughter at Malfoy Manor.png|250px|thumb|The goblin is killed, along with all others that came to bring Voldemort the bad news]]
+When Voldemort demanded to know what had been taken, the goblin hesitantly replied that the stolen object was a [[Helga Hufflepuff's Cup|small golden cup]]. Enraged at the loss of one of his [[Horcrux]]es, Voldemort immediately [[Massacre at Malfoy Manor|killed]] the goblin with the [[Killing Curse]], as well as several [[Wizardkind|wizards]] present at the time.
+
+Voldemort kicked the goblin's corpse aside as he paced the room and planned his next move.<ref name="DH27">{{DH|B|27}}</ref>
+
+==Appearances==
+*{{DH}}
+*{{DH|F2}}<ref>May have been seen in the bank or in [[Malfoy Manor]].</ref>
+
+==Notes and references==
+{{Reflist}}[[fr:Gobelin tué au manoir des Malefoy]]
+[[Category:1998 deaths]]
+[[Category:Break-in of Gringotts Wizarding Bank (1998)]]
+[[Category:British individuals]]
+[[Category:Death Eater allies]]
+[[Category:Deaths by Killing Curse]]
+[[Category:Killed by Lord Voldemort]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Unidentified Goblins]]

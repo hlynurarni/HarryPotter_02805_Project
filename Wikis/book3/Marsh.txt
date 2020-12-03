@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Madam Marsh
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Madam]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Knight Bus|The Knight Bus]]
+}}
+'''Madam Marsh''' was an elderly [[Great Britain|British]] [[Wizardkind|witch]] who seemed to suffer from [[motion sickness]]. She frequently rode on the [[Knight Bus]] nevertheless, suggesting that she travelled often. 
+
+==Biography==
+===1993===
+In [[1993]], she travelled on the [[Knight Bus]] at the same time as [[Harry Potter]]. She got off the bus at [[Abergavenny]] looking queasy.<ref name="POA3">{{POA|B|3}}</ref>
+
+===1996===
+In [[1996]], Madam Marsh was seen travelling again on the [[Knight Bus]]. This time she became sick and vomited. She was let off before Harry, [[Hermione Granger|Hermione]], and the [[Weasley family|Weasleys]].<ref name="OOTP24">{{OOTP|B|24}}</ref>
+
+==Appearances==
+*{{POA}} {{1st}}
+*{{OOTP}}
+
+==Notes and references==
+{{Reflist}}[[de:Madam Marsh]]
+[[fr:Madame Dumarais]] 
+[[pl:Pani Marsh]]
+[[Category:British individuals|Marsh, Madam]]
+[[Category:Females|Marsh, Madam]]
+[[Category:Wizards|Marsh, Madam]]

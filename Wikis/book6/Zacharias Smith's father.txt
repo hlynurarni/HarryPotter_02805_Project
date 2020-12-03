@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = individual
+|image = 
+|name = Mr Smith
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP30"/>
+|gender = Male<ref name="HBP30"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Zacharias Smith]] (son)<ref name="HBP30"/>
+*[[Sally Smith]] (possibly)
+*[[Hepzibah Smith]] (possibly) †
+*[[Helga Hufflepuff]] (possible ancestor) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Smith family]]<ref name="HBP30"/>
+}}
+{{Quote|Some students were hurried away from Hogwarts by their parents over the next couple of days - the Patil twins were gone before breakfast on the morning following Dumbledore's death and Zacharias Smith was escorted from the castle by his haughty-looking father.|Mention|Harry Potter and the Half-Blood Prince}}
+'''Mr Smith''' was the father of [[Zacharias Smith]]. He collected his son from [[Hogwarts School of Witchcraft and Wizardry]] following the death of [[Albus Dumbledore]] in [[1997]]. He did not attend the [[Funeral of Albus Dumbledore|funeral]], perhaps suggesting that he was not a supporter of Dumbledore, a concept in keeping with his son's knack for making enemies. He was described as being a haughty-looking man.<ref name="HBP30">{{HBP|B|30}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st}}
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Smith, Zacharias's father}}
+[[fr:Père de Zacharias Smith]]
+[[pl:Pan Smith]]
+[[ru:Мистер Смит]]
+[[Category:British individuals|Smith, Mr]]
+[[Category:Males|Smith, Mr]]
+[[Category:Parents]]
+[[Category:Smith family]]
+[[Category:Unnamed family members]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Melinda Bobbin
+|born = c. [[1978]]-[[1985]]<ref>She was at least in her first year at [[Hogwarts School of Witchcraft and Wizardry]] in [[1996]]</ref>
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]]<ref name="blood">As her family is said to own a chain of apothecaries, they must have been [[Wizardkind|wizards]].</ref>
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP11"/>
+|gender = Female<ref name="HBP11"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slug Club]]<ref name="HBP11"/>
+}}
+'''Melinda Bobbin''' was a [[Wizardkind|witch]] who attended [[Hogwarts School of Witchcraft and Wizardry]] during the [[1990s]]. [[Horace Slughorn]] described her as "charming" and made her a member of the [[Slug Club]] in [[1996]]. Her family owned a large [[Bobbin family's chain of apothecaries|chain of apothecaries]].<ref name="HBP11">{{HBP|B|11}}</ref>
+
+==Etymology==
+A "bobbin" is a spool or reel that holds thread or yarn for spinning, weaving, knitting, sewing, or making lace.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bobbin, Melinda}}
+[[es:Melinda Bobbin]]
+[[fr:Melinda Bobbin]][[it:Melinda Bobbin]]
+[[pl:Melinda Bobbin]][[Category:20th century births]][[Category:Bobbin family]][[Category:British or Irish individuals]][[Category:Females]][[Category:Slug Club]][[Category:Sorted in the 1990s]][[Category:Unknown House]][[Category:Wizards]]

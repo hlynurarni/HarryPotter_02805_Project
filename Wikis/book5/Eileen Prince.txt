@@ -1,0 +1,98 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Eileen Snape (née Prince)
+|born = c. [[1930]]<ref name="birthyear">Eileen's sixth-year Potions book was published "around" fifty years prior to [[1996]] ({{HBP|B|16}}). Assuming she purchased it new in [[1946]] and assuming she was sixteen at the time, she would have been born around [[1930]], although she may have bought a used copy or purchased it earlier.</ref>
+|died = 
+|blood = [[Pure-blood]]<ref name="blood">In {{HBP|B|30}}, Harry stated that Eileen was a pure-blood twice, and in {{HBP|B|25}}, Hermione seemed to believe that the Princes were a wizarding family.</ref> {{c|possibly}}
+|marital = Married
+|nationality = {{GBorIE}}
+|alias = 
+|title = *Captain of the [[Hogwarts Gobstones Team]]<ref name="HP25">{{HBP|B|25}}</ref>
+*President of the [[Hogwarts Gobstone Club]]<ref name="PM">{{WW|gobstones}}</ref>
+|signature = 
+|species = [[Human]]<ref name="OP26">{{OOTP|B|26}}</ref>
+|gender = Female<ref name="OP26">{{OOTP|B|26}}</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = Pale
+|family = *[[Tobias Snape]] (husband)
+*[[Severus Snape]] (son) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="house">{{HBP|B|4}} - Slughorn states that family members are usually Sorted into the same House. This may indicate that Eileen was Sorted into Slytherin. Additional supporting evidence is that Severus wanted to be in Slytherin before he even got to school, possibly because his mother had been in Slytherin.</ref> {{c|possibly}}
+|loyalty = *[[Prince family]]
+*[[Snape family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Dialogue a-b|Hermione Granger| ''[...]'' there was a tiny announcement about Eileen Prince marrying a Muggle called Tobias Snape and then later an announcement saying that she'd given birth to a —|Harry Potter|— murderer.|Hermione revealing Severus Snape's parentage|Harry Potter and the Half-Blood Prince}}
+
+'''Eileen Snape''' (née '''Prince''') (born c. [[1930]]) was a [[Great Britain|British]] [[Wizardkind|witch]], wife to the [[Non-magic people|Muggle]] [[Tobias Snape]] and mother to [[Severus Snape]].<ref name="HP30">{{HBP|B|30}}</ref>
+
+==Biography==
+===Early life===
+Eileen was born into the [[Wizarding world|wizarding]] [[Prince family]]<ref name="HP30"/> in [[Great Britain]], likely around 1930.<ref name="birthyear"/>
+
+She likely began attending [[Hogwarts School of Witchcraft and Wizardry]] around 1941.<ref name="birthyear"/> Presumably, she was [[Sorting ceremony|Sorted]] into [[Slytherin]].<ref name="house"/> While at school, Eileen was captain of the [[Hogwarts Gobstones Team|school Gobstones team]] during her fifth year.<ref name="HP25">{{HP|B|25}}</ref> She was concurrently the President of the [[Hogwarts Gobstone Club]].<ref name="PM"/>
+
+===Adulthood===
+After graduating, Eileen met the [[Non-magic people|Muggle]] [[Tobias Snape]] and married him.<ref name="HP30"/> They moved into a terraced house in [[Cokeworth]] on a street called [[Spinner's End]]. It was close to the mill and near a nasty-smelling, polluted river.<ref name="DH33">{{DH|B|33}}</ref>
+
+On [[9 January]], [[1960]], she gave birth to a son, [[Severus Snape]].<ref name="HP30" /> Severus' childhood was plagued by the tumultuous, explosive atmosphere in the home, with his parents often fighting.<ref name="OP26" /> Tobias would shout at Eileen and may have been physically abusive as well.
+
+The couple either neglected Severus, were too poor to care for him well, or both. His clothes were mismatched and did not fit properly. When he began his first year of school at Hogwarts, he changed into his uniform quickly after getting onto the [[Hogwarts Express]], apparently glad to be rid of his Muggle clothes. Despite this, Severus was already talented with magic before he received his [[Hogwarts acceptance letter|Hogwarts letter]] in [[1971]].<ref>{{GOF|B|27}}</ref>
+
+On [[1 September]], [[1971]], Eileen accompanied Severus to [[Platform Nine-and-Three-Quarters]] at [[King's Cross Station]] and watched him leave on the [[Hogwarts Express]].<ref name="DH33" /> Whatever Eileen's thoughts on the matter were, Severus was exhilarated to leave for Hogwarts.<ref name="DH33" />
+
+==Physical appearance==
+At age fifteen, Eileen was skinny and unattractive, looking simultaneously cross and sullen. She had heavy brows and a long, pallid face.<ref name="HP25"/> By 1971, not much had changed: Eileen was thin, hunched, sour-faced and sallow.<ref name="DH33"/>
+
+==Etymology==
+''"Eileen"'' is from Celtic, English and Irish roots and has a long-standing history in each culture. In Irish, it is known as a variation of "''Helen''". It became a more popular name in the 19th century. It is rumoured to have roots in Latin, American, French and Greek cultures, however, such claims are not backed up with much evidence. Another variation of this name is Eileene which is most commonly used in Ireland.
+
+Other versions of ''Eileen''; "''Aileen"'' (Scottish), "''Eibhlin"'' (the original source for the name), "''Eila"'' (Celtic variant of both "''Eileen"'' and "''Aileen"''), "''Eireen"'' (Norwegian variant of "''Irene''" or "''Eileen''"), "''Eleanor''" (a similarly-rooted name to "''Eileen''" in Irish).
+
+Eileen's maiden name was ''[[Prince family|Prince]]. [[Wikipedia:Prince|Prince]]'' is a general term for a monarch or a member of a monarch's family, and is a hereditary title of some European royalty, likely alluding to the aristocratic status of pure-blood families in the [[wizarding world]]. The word is derived from the Latin ''[[Wikipedia:Princeps|princeps]]'', meaning "a prime", which was one of the titles of the Roman Emperor, in which case it was generally translated as "First Citizen". ''[[Wikipedia:The Prince|The Prince]]'' is also the title of a famous political treatise by Niccolò Machiavelli; an interesting point considering that the adjective derived from the author's surname, ''Machiavellian'', is defined as "attempting to achieve goals by cunning, scheming and unscrupulous methods", which may allude to the ideal traits of [[Slytherin]] house.<ref>[http://en.wiktionary.org/wiki/Machiavellian Wiktionary Definition: Machiavellian]</ref>
+
+==Behind the scenes==
+*Eileen's decision to marry Tobias may have resulted in her being disowned by her family — similar to [[Andromeda Tonks]], who was disowned by her family after she married [[Ted Tonks|a Muggle-born man]].
+*Despite his upbringing, Severus was already talented with magic before he received his [[Hogwarts acceptance letter|Hogwarts letter]] in [[1971]].<ref>{{GOF|B|27}}</ref> It is possible that Eileen taught him these spells or that he taught himself from books she owned.
+*It is unknown what happened to Eileen after her son began Hogwarts. By [[1996]], Severus had taken over the house at Spinner's End.<ref name="HP2">{{HBP|B|2}}</ref> She might have died, or perhaps she had moved out of her marital home at some point in the twenty-four years since. At Hogwarts, her son Severus used her surname and his blood status to make his nickname of "the Half-Blood Prince".
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Flashback}}
+*{{HBP}} {{1st ID}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts Gobstones}}
+
+{{DEFAULTSORT:Prince, Eileen}}
+
+[[pt-br:Eileen Prince]]
+[[de:Eileen Prince]]
+[[es:Eileen Prince]]
+[[fr:Eileen Prince]]
+[[ru:Эйлин Принц]]
+[[nl:Ellen Prins]]
+[[pl:Eileen Snape]]
+[[Category:20th century births]]
+[[Category:Blood traitors]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Gobstones players]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Prince family]]
+[[Category:Snape family]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

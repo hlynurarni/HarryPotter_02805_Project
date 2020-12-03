@@ -1,0 +1,52 @@
+{{FA}}
+{{Organisation infobox
+|bgcolor1 = 
+|bgcolor2 = 
+|image = Great Lake Merpeople second task.png
+|name = Great Lake Merpeople Colony
+|founder = 
+|founded = [[20th century]] or earlier
+|dissolved = 
+|leader = [[Murcus]]<ref name="GOF26"/>
+|members = 
+|headquarters = *[[Great Lake]]
+**[[Merpeople village]]
+|intentions = 
+|affiliation = *[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Great Lake]]<ref name="GOF26"/>
+**[[Albus Dumbledore]]<ref name="GOF26"/><ref name="HBP30"/>
+|enemies = 
+}}
+The '''colony''' of [[Merpeople]] who lived in the [[Great Lake]] were a tribe of [[Selkie]]s. Led by [[Murcus|Merchieftainess Murcus]], they lived in a [[Merpeople village|village]] in the centre of the lake.<ref name="GOF26">{{GOF|B|26}}</ref>
+
+==History==
+===1994-1995 Triwizard Tournament===
+====Pre-Second Task====
+During the [[Triwizard Tournament|Second Task]] of the [[Triwizard Tournament]], the colony consented to hold the hostages that the Champions had to rescue in their village. As part of the agreement, their singing voices were used as part of a clue that the Champions would need to decipher. The [[Golden egg]], which the Champions had to retrieve from a [[dragon]] in the [[Triwizard Tournament|First Task]], contained a song that could only be heard when submerged underwater.<ref name="GOF26"/>
+
+[[File:MermaidHP1.jpg|thumb|left|A Selkie attempts to stop [[Harry Potter]] taking more than one hostage during the Second Task]]
+
+====The Second Task====
+During the Second Task, the Merpeople attempted to stop [[Harry Potter]] from rescuing more than one hostage. After Harry successfully rescued both [[Ronald Weasley|Ron Weasley]] and [[Gabrielle Delacour]], the Merchieftaness spoke to [[Albus Dumbledore]] about the incident, and recounted his determination to see all the hostages to safety.<ref name="GOF26"/>
+
+===Dumbledore's funeral===
+Following the death of [[Albus Dumbledore]] in [[1997]], the Merpeople paid their respects to the Headmaster during [[Funeral of Albus Dumbledore|his funeral]], breaching the waves of the lake en masse and watching the proceedings.<ref name="HBP30">{{HBP|B|30}}</ref>
+
+==Behind the scenes==
+*In {{LEGO|Y1}}, the merpeople actually attack, whereas in the film and book they only confronted Harry when he tried to take more than his own hostage, but even then they only threatened to attack.
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{GOF|G}}
+*{{HBP}}
+*{{LEGO|Y1}}
+*{{LEGO}}
+*{{HPV|CR}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Colonie d'Êtres de l'eau du Lac de Poudlard]]
+[[es:Colônia de sereianos do Lago Negro]]
+[[ru:Русалки Чёрного озера]]
+[[Category:Merpeople]]

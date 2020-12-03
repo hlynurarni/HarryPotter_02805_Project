@@ -1,0 +1,28 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = 
+|name = Dudley Dursley's tortoise
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Tortoise]]<ref name="ps3"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Dudley Dursley]] (formerly)<ref name="ps3"/>
+}}
+In [[1991]], [[Dudley Dursley]] owned a '''pet [[tortoise]]'''. After losing his [[Dudley Dursley's second bedroom|second bedroom]] to [[Harry Potter]], he became upset and enraged and threw the tortoise through a greenhouse window. Whether the fall killed the tortoise or just injured it and was healed afterwards is unknown.<ref name="ps3">{{PS|B|3}}</ref>
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:Dursley family possessions]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Tortoises]]

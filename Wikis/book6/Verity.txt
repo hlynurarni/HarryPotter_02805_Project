@@ -1,0 +1,49 @@
+{{Individual infobox
+|image = [[File:Verity.png|250px]]
+|name = Verity
+|born = In or prior to [[1979]]<ref>She must be at least 17 to work in [[1996]].</ref>
+|nationality = [[Great Britain|British]]<ref name="HBP6"/>
+|species = [[Human]]<ref name="HBP6"/>
+|gender = Female<ref name="HBP6"/>
+|hair = Blonde<ref name=hair>{{HBP|B|6}} - "A young witch with short blonde hair poked her head around the curtain;"</ref>
+|skin = White
+|job = [[Weasleys' Wizard Wheezes]] employee<ref name="HBP6"/>
+|loyalty = [[Weasleys' Wizard Wheezes]]<ref name="HBP6"/>
+|theme = wizard
+}}
+{{Quote|There's a customer out here looking for a joke [[cauldron]], Mr Weasley and Mr Weasley.|Verity talking to Fred and George.|Harry Potter and the Half-Blood Prince}}
+'''Verity''' (fl. [[1996]]) was a [[Great Britain|British]] [[Wizardkind|witch]] and shop assistant that worked for [[Fred and George Weasley]] in [[Weasleys' Wizard Wheezes]].<ref name="HBP6"/>
+
+==Biography==
+She seemed to follow a chain of command; in the [[1996]] summer holidays, [[Harry Potter]] overheard her use the formal title "Mister" to address Fred and George.<ref name="HBP6">{{HBP|B|6}}</ref> When Fred and George went into hiding and closed the shop in [[Diagon Alley]], it is also possible she went into hiding if she was not already in hiding.
+
+==Physical appearance==
+Verity was young and had short blonde hair.<ref name=hair />
+
+==Behind the scenes==
+*Verity is seen very briefly during {{HBP|FA}}, she is seen moving boxes with joke products upstairs and later she is working on the shop's till dealing with customers. In the film adaptation she has long brown hair instead of short blonde like she does in the books. In the film adaptation she looks very much like a teenager. 
+*It is unknown who portrayed her in the film adaptation.
+*In {{LEGO|Y2}} she has white hair and white clothes. She is seen on the staircase trapped by [[Fanged Frisbee]]s, possibly [[Fanged Flyer]]s.
+*Verity is given the [[love potion|love potion&nbsp;by]] [[Harry Potter]] in {{LEGO|Y2}}. 
+
+==Etymology==
+*The name ''Verity'' could be derived from the French word ''Vérité'', which means truth. Both derive from Latin Veritas, also meaning truth.<ref>Dictionnaire Larousse 2001</ref>
+
+==Appearances==
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+*{{LEGO|Y2}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+
+[[de:Verity]]
+[[es:Verity]]
+[[ru:Верити]]
+[[pl:Verity]]
+[[fr:Verity]]
+[[nl:Verity]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Wizards]]

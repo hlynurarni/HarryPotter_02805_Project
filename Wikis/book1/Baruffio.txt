@@ -1,0 +1,52 @@
+{{TranslationNewContent}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Baruffio
+|hideb=
+|born=
+|died=
+|blood=
+|marital=Married
+|alias=
+|title=[[Wizardkind|Wizard]]
+|hidep=
+|species=[[Human]]
+|gender=Male
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=[[Baruffio's wife|Wife]]
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+{{Quote|Swish and flick, remember, swish and flick. And saying the magic words properly is very important, too — never forget Wizard Baruffio, who said 's' instead of 'f' and found himself on the floor with a buffalo on his chest.|[[Filius Flitwick]] on the importance of [[Incantation|incanting]] correctly|Harry Potter and the Philosopher's Stone}}
+'''Wizard'''<ref name="PS10" /><ref>{{PM}}</ref>''' Baruffio''' was a [[Wizardkind|wizard]] with a speech impediment.<ref name="PS10french">{{PS|B|10}}; French translation</ref> On account of his condition, he did not seem to have been able to perform particularly satisfactory magic, as he would mispronounce the [[incantation]]s: once he said 's' instead of 'f' and conjured a [[buffalo]] on top of him,<ref name="PS10">{{PS|B|10}}</ref>
+Baruffio presumably lent his name to [[Baruffio's Brain Elixir]], a brain stimulant.<ref name="OP31">{{OOTP|B|31}}</ref>
+==Behind the scenes==
+*Despite the fact that Flitwick mentions Baruffio's incident while teaching Harry and the other first year students ''[[Levitation Charm|Wingardium Leviosa]]'', this could not have been the spell to which he was referring as there is no "f" in the Levitation Charm's incantation.
+*However, [[Filius Flitwick|he]] was probably mentioning a line in the introduction of ''[[The Standard Book of Spells, Grade 1]]'' which mentions Baruffio.
+*On the French translation of {{PS}} Baruffio's incident with a buffalo is slightly different. It introduces another character: Baruffio's wife. Quoting from the French translation: "''N'oubliez jamais le sorcier Baruffio qui avait un défaut de prononciation et dont la femme s'est retrouvée avec un bison sur les épaules au lieu d'un vison''". (Loosely translated: "''Remember wizard Baruffio who had a speech impediment and whose wife was left with a buffalo on her shoulders instead of a mink''".). The translator, [[Jean-François Ménard]], plays with the alliteration "''bison''"/"''vison''" ("buffalo"/"mink"). As it is usually women who wear furs, the introduction of a female character was necessary.
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{OOTP}} {{Mention}}
+==Notes and references==
+{{Reflist}}[[de:Baruffio]]
+[[es:Baruffio]]
+[[nl:Baruffio]]
+[[fr:Baruffio]]
+[[pl:Baruffio]]
+[[ru:Баруффио]]
+[[Category:Individuals with disabilities]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Wizards]]

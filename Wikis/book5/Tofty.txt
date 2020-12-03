@@ -1,0 +1,80 @@
+{{HogwartsMysterySpoiler}}
+{{Individual infobox
+|theme = mom
+|image = ProfessorTofty.png
+|name = Tofty
+|born = Before [[1972]]<ref>Professor Tofty already worked for the Wizarding Examinations Authority in 1989.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = [[Professor]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Grey, balding
+|eyes = Brown
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Examiner for the [[Wizarding Examinations Authority]]
+|house = 
+|loyalty = [[Wizarding Examinations Authority]]
+}}
+{{Quote|Galloping gargoyles! Not so much as a warning! Outrageous behaviour!|Professor Tofty, raging about the [[Three Aurors who tried to arrest Rubeus Hagrid|Auror]] attack on [[Minerva McGonagall]]|Harry Potter and the Order of the Phoenix}}
+'''Professor Tofty''' was a [[Wizardkind|wizard]] who worked for the [[Wizarding Examinations Authority]] in the capacity of an examiner.
+
+==Biography==
+===1988-1989 school year===
+{{Dialogue a-b-a|Tofty|I should have known better than to think I could keep secrets from you, Albus. Very well… The Ministry is troubled by the situation concerning the Cursed Vaults. Particularly given reports that a group of Dark Wizards may be actively pursuing them. Due to ''[Jacob's sibling]''<nowiki>'</nowiki>s personal involvement with the Cursed Vaults… and the concern that ''[they]'' may be in some way connected to these Dark Wizards, the Ministry thought it prudent to…|Albus Dumbledore|Use your status as an Examiner to spy on a student?|I didn't want to take the assignment, Albus, but they insisted this was an opportunity they couldn't ignore. I hope you don't think too badly of me. Especially considering I know you tasked Argus Filch with monitoring me. Surely you know how it is.|Professor Tofty and [[Albus Dumbledore]]|Harry Potter: Hogwarts Mystery}}During his annual trip to [[Hogwarts Castle]] to supervise the [[Ordinary Wizarding Level]] exams of the [[1988–1989 school year]], Tofty was burdened by a secret mission he had reluctantly agreed to carry out. Concerned that [[Jacob's sibling]], whose [[Jacob (Hogwarts student)|brother]] had been [[Discipline at Hogwarts#Expulsion|expelled]] from school for endangering its residents while searching for and trying to uncover the secrets of the fabled [[Cursed Vaults]], was somehow associated with a [[R|group of dark wizards]] who also sought the same thing, the higher-ups at the Ministry charged him with keeping a discreet eye on Jacob's sibling and, if possible, learn whatever this individual knew of the group.
+
+Suspecting the [[Ministry of Magic]] might try something like this, [[Albus Dumbledore]] instructed the [[Hogwarts Caretaker|Caretaker]] of the day, [[Argus Filch]], to watch the visiting examiner closely and report back to him. Upon examining the [[Fifth Year|fifth-years]], Professor Tofty was particularly impressed with Jacob's sibling and their abilities. He inadvertently exposed himself to the [[Hogwarts Headmaster]] as a Ministry spy by being uncharacteristically forthcoming towards the target of his assignment, and even openly inquired about the vaults. Confronted with this by Dumbledore, Tofty admitted the truth, and confessed his shame and guilt over it, and, unaware of the fact that Jacob's sibling was hiding in Dumbledore's study, left the room after he assured Dumbledore that he had accepted the mission under protest. Confronted again by the student themselves, Professor Tofty apologised and told them that he had been sincere in his desire to see them work hard and reach their full potential, and, as he departed Hogwarts, assured them that he would personally vouch for them at the Ministry should anyone there get unwarranted suspicions regarding their allegiance or intentions.
+
+===1995-1996 school year===
+During the [[Ordinary Wizarding Level]] exams of the [[1995-1996 school year]], Tofty examined [[Harry Potter]] in his [[Ordinary Wizarding Level|O.W.L.]] practical examination on [[Charms (class)|Charms]], [[Defence Against the Dark Arts]], and [[Astronomy (class)|Astronomy]], as well as his [[History of Magic]] theory essay. At the close of the Defence Against the Dark Arts examination, Professor Tofty asked [[Harry Potter]] to cast a [[Patronus Charm|Patronus]] for an extra point. He was good friends with [[Tiberius Ogden]], who told him that Harry was able to conjure a corporeal Patronus.
+
+When [[Dolores Umbridge]] attempted a sneak attack on [[Rubeus Hagrid]] during the Astronomy exam, Professor Tofty tried to persuade the observing students to focus on their examination instead of the attack. However, when the [[Three Aurors who tried to arrest Rubeus Hagrid|Aurors]] launched four [[Stunning Spell]]s at [[Minerva McGonagall|Professor McGonagall]], causing her to collapse, Tofty also forgot the examination and shouted in anger and shock at such a disgraceful assault.
+
+After Harry's vision of [[Sirius Black]] being tortured by [[Tom Riddle|Voldemort]] in the [[Department of Mysteries]] (actually a fake vision planted there by Voldemort to lure Harry there to retrieve [[Sybill Trelawney's first prophecy|a prophecy]]) during the [[History of Magic]] exam, Tofty escorted Harry out of the hall and told him to either return to finish what he could of the examination or visit [[Poppy Pomfrey|Madam Pomfrey]] to get a glass of [[water]].<ref name="op31">{{OOTP|B|31}}</ref>
+
+==Physical appearance==
+Tofty was an old, grey and balding wizard with a quavery old voice and pince-nez [[glasses]].
+
+==Personality and traits==
+He had a kindly manner that could put a nervous student at ease, smiling at Harry, telling him there was no need to be nervous and expressing pleasure at Harry's excellent performance of Defence Against the Dark Arts. He may have also had a bit of a rebellious streak, as he delighted in asking Harry to cast a [[Patronus Charm|Patronus]] during an examination that was being held under the watchful eye of [[Hogwarts High Inquisitor]] Professor Umbridge. When students became distracted by the commotion during the Astronomy exam, he initially attempted to keep them on task, though his protestations had little effect as events escalated. Tofty showed great shock and concern when Professor McGonagall was attacked and later showed concern for Harry following his collapse during the History of Magic exam.<ref name="op31" /> By his own admission, he was a "history buff".<ref>{{HM}}</ref>
+
+==Magical abilities and skills==
+*'''Magical knowledge''': As an examiner, Tofty was knowledgeable on all common fields of magic, and was also familiar with magical equipment that can be used to cheat.
+
+==Behind the scenes==
+*Professor Tofty featured in an early draft of the script for [[Harry Potter and the Order of the Phoenix (film)|the film adaptation]] of {{OOTP}}, where he is incorrectly referred to as female.<ref>[http://atrossbooks.com/wp-content/uploads/2011/03/Harry-Potter-and-the-Order-of-the-Phoenix-2nd-draft.pdf HARRY POTTER AND THE ORDER OF THE PHOENIX - 2nd draft]</ref>
+*In {{OOTP}}, Professor Tofty is noted to wear pince-nez glasses; in {{HM}} he instead wears half-rim glasses, temples clearly visible.
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{OOTP|F}} {{C|Cut from final edit}}
+*{{HM}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Departments unknown levels}}
+
+[[de:Professor Tofty]]
+[[es:Tofty]]
+[[fr:Tofty]]
+[[pl:Tofty]]
+[[ru:Тофти]]
+[[pt-br:Tofty]]
+[[Category:British individuals]]
+[[Category:Brown-eyed individuals]]
+[[Category:Males]]
+[[Category:Professors]]
+[[Category:Wizarding Examinations Authority personnel]]
+[[Category:Wizards]]

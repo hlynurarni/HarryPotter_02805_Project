@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Savage
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP8"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP8"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HBP8"/>
+**[[Department of Magical Law Enforcement]]<ref name="HBP8"/>
+***[[Auror Office]]<ref name="HBP8"/>
+}}
+{{Dialogue a-b-a|Nymphadora Tonks|I'm stationed in [[Hogsmeade]] now, to give the school extra protection.|Harry Potter|Is it just you who's stationed up here, or —?|No, Proudfoot, Savage, and Dawlish are here too.|[[Nymphadora Tonks]] and [[Harry Potter]] on [[1 September]], [[1996]].|Harry Potter and the Half-Blood Prince}} 
+'''Savage''' was a [[Great Britain|British]] [[Wizardkind|witch or wizard]] who worked for the [[Auror Office]], and was stationed in [[Hogsmeade]] along with their fellow Aurors; [[Nymphadora Tonks]], [[John Dawlish]], and [[Proudfoot]] in order to increase security at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1996]].<ref name="HBP8">{{HBP|B|8}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+[[de:Savage]]
+[[es:Savage]]
+[[fr:Savage]]
+[[pl:Savage]]
+[[pt-br:Savage]]
+[[ru:Сэвидж]]
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Youmay|the troll used to guard the [[Philosopher's Stone]]|the [[Quirinus Quirrell's first mountain troll|troll]] brought in on [[Hallowe'en]] of [[1991]] or [[Mountain Troll]]s in general}}
+{{Pet individual infobox
+|image = [[File:Trollps1.jpg|250px]]
+|name = Quirinus Quirrell's second mountain troll
+|born = Pre [[1991]]
+|died = 
+|alias = 
+|title = 
+|species = [[Mountain Troll]]
+|gender = 
+|height = Over twelve feet
+|hair = 
+|feathers = 
+|eyes = 
+|skin = Grey
+|family = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+{{Quote|A disgusting smell filled their nostrils, making both of them pull their robes up over their noses. Eyes watering, they saw, flat on the floor in front of them, a troll even larger than the one they had tackled, out cold with a bloody lump on its head.|Harry and Hermione observing the incapacitated troll|Harry Potter and the Philosopher's Stone}}
+'''[[Quirinus Quirrell]]'s second [[Mountain Troll|mountain troll]]''' was a [[troll]] used to guard the [[Philosopher's Stone]] during the [[1991–1992 school year]] at [[Hogwarts School of Witchcraft and Wizardry]].<ref name="PS16">{{PS|B|16}}</ref>
+
+==History==
+It was the obstacle of [[Quirinus Quirrell]] in the [[Underground Chambers]]. It was in between [[Minerva McGonagall]]'s [[Chessboard Chamber|giant chess set]] and [[Severus Snape]]'s [[Underground Chambers#Sixth obstacle|potion riddle]].<ref name="PS16">{{PS|B|16}}</ref>
+
+On [[4 June]] [[1992]], after [[Harry Potter]] and [[Hermione Granger]] mastered the Chessboard, they entered the room containing this troll, only to find it completely knocked out with a [[blood]]y stump on its head. They were both very glad to have avoided facing the troll themselves, allowing them to continue with their quest.<ref name="PS16">{{PS|B|16}}</ref>
+
+==Behind the scenes==
+*In the book and GBC video game, the troll has already collapsed on the floor when Harry and Hermione get there, courtesy of Quirrell. However, in the PS1 game adaptation, the troll wakes up when Harry and Hermione get there. The troll is still groggy so while Hermione tries to unlock the next door, Harry [[Levitation Charm|levitates]] the litter present in the room from out of the troll's way, without making noise. The troll doesn't notice a hole on the floor and falls into it.<ref name="PSG">{{PS|G}}</ref>
+*The troll and the room it guards is completely omitted from {{PS|FA}}.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|G}} {{Comment|GBC and PS1 versions only}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Segundo troll de la montaña de Quirinus Quirrell]]
+[[fr:Deuxième troll des montagnes de Quirinus Quirrell]]
+[[ru:Второй горный тролль Квиринуса Квиррелла]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Plot to steal the Philosopher's Stone participants]]
+[[Category:Quirinus Quirrell's possessions]]
+[[Category:Security guards]]
+[[Category:Trolls]]
+[[Category:Underground Chambers]]

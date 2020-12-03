@@ -1,0 +1,693 @@
+{{Spoiler|PAS|MA|WU|HM}}
+{{Youmay|the Hogwarts house|the founder of this house, [[Rowena Ravenclaw]]}}
+{{House_infobox
+|name = Ravenclaw
+|image = [[File:RavenclawCrest.png|250px]]
+|founder = [[Rowena Ravenclaw]]<ref name="COS9">{{COS|B|9}}</ref>
+|colors = Blue and bronze<ref name="colours>{{WW|colours}}</ref>
+|animal = [[Eagle]]<!-- DO NOT CHANGE THIS TO RAVEN. In the books the house animal is Eagle, and the books are a higher canon source than the films. --><ref name="PS3">{{PS|B|3}}</ref>
+|element = Air
+|traits = *Wit<ref name="PM-traits">[https://web.archive.org/web/20151121211031/https://www.pottermore.com/collection/all-about-ravenclaw All About Ravenclaw] from {{PM}} (via The Internet Archive)</ref><ref name="PM-ceremony">[https://web.archive.org/web/20161007155636/https://www.pottermore.com/book-extract-long/a-very-important-ceremony A very important ceremony] from {{PM}} (via The Internet Archive)</ref><ref name="PS7">{{PS|B|7}}</ref>
+*Learning<ref name="PM-traits" /><ref name="PM-ceremony" /><ref name="PS7" />
+*Wisdom<ref name="PM-traits" />
+*Acceptance<ref name="PM-ravenclaw">[[Pottermore Introductions to Hogwarts Houses]] from {{PM}} (Archived)</ref>
+*Intelligence<ref name="WW-ravenclaws">[https://www.wizardingworld.com/features/famous-ravenclaws-through-the-ages Famous Ravenclaws Through the Ages] from {{WW}}</ref>
+*Creativity<ref name="WW-ravenclaws" />
+|head = *[[Filius Flitwick]]<ref name="PM-ravenclaw"/><ref name="HBP29">{{HBP|B|29}}</ref>
+*[[Rowena Ravenclaw]] †<ref name="COS9"/>
+|ghost = [[Helena Ravenclaw|Grey Lady]]<ref name="PS7"/><ref name="DH31"/>
+|common room = [[Ravenclaw Tower]]|members = *[[Luna Lovegood]]<ref name="OOTP10">{{OOTP|B|10}}</ref>
+*[[Sybill Trelawney]]<ref name="Trelawney">{{WW|sybill-trelawney}}</ref>
+*[[Marcus Belby]]<ref name="HBP7">{{HBP|B|7}}</ref>
+*[[Cho Chang]]
+*[[Myrtle Warren]]
+*[[Padma Patil]]
+*[[Terry Boot]]
+*[[Michael Corner]]
+*[[Roger Davies]]
+*[[Anthony Goldstein]]
+*[[Marietta Edgecombe]]
+*[[Robert Hilliard]]
+*[[Uric the Oddball]]
+*[[Gilderoy Lockhart]]<ref name="Lockhart">{{WW|gilderoy-lockhart}}</ref>
+*[[Penelope Clearwater]]
+*[[Lisa Turpin]]
+*[[Isobel MacDougal]]
+*[[Mandy Brocklehurst]]
+*[[Nanette Desford]]
+*[[Maria Glossop]]
+*[[Helena Ravenclaw]]
+*[[Filius Flitwick]]
+*[[Millicent Bagnold]]
+*[[Quirinus Quirrell]]<ref name="Quirrell">{{PM}} - [https://www.pottermore.com/explore-the-story/quirinus-quirrell Quirinus Quirrell]</ref>
+*[[Garrick Ollivander]]<ref name="Ollivander">[https://www.pottermore.com/explore-the-story/garrick-ollivander Explore the Story - Garrick Ollivander]</ref>
+*[[Sue Li]]
+*[[Fawcett|S. Fawcett]]
+*[[Ignatia Wildsmith]]
+*[[Chester Davies]]
+*[[Tulip Karasu]]
+*[[Badeea Ali]]
+*[[Talbott Winger]]
+*[[Andre Egwu]]
+}}
+{{Quote|Or yet in wise old Ravenclaw,<br/>If you've a ready mind,<br/>Where those of wit and learning,<br/>Will always find their kind.|The [[Sorting Hat]]|Harry Potter and the Philosopher's Stone}}
+
+'''Ravenclaw''' is one of the four [[Hogwarts Houses|Houses]] of [[Hogwarts School of Witchcraft and Wizardry]]. Its founder was the medieval witch [[Rowena Ravenclaw]].<ref name="COS9"/> Members of this house are characterised by their wit, learning, and wisdom. The emblematic animal symbol is an [[eagle]], and blue and bronze are its colours.<ref name="PS7">{{PS|B|7}}</ref> The Head of Ravenclaw is [[Filius Flitwick]],<ref name="PM-ravenclaw"/><ref name="HBP29"/> and the house [[ghost]] is the [[Helena Ravenclaw|Grey Lady]],<ref name="PS7"/> otherwise known as the daughter of [[Rowena Ravenclaw]], [[Helena Ravenclaw]].<ref name="DH31">{{DH|B|31}}</ref>
+
+Ravenclaw corresponds roughly to the element of [[Wikipedia:Air (classical element)|air]]<ref>[http://www.accio-quote.org/articles/2005/0705-tlc_mugglenet-anelli-3.htm The Leaky Cauldron and Mugglenet interview Joanne Kathleen Rowling]</ref>, and it is for that reason that the House colours were chosen; blue and bronze represent the sky and eagle feathers respectively, both having much to do with air.<ref name="PM">{{WW|colours}}</ref> The Ravenclaw points hourglass contains blue [[sapphire]]s.<ref name="OOTP38">{{OOTP|B|38}}</ref>
+
+==Traits==
+{{Quote|Wit beyond measure is man's greatest treasure.|Rowena Ravenclaw|Harry Potter and the Deathly Hallows}}[[File:PR 007 007-e1313269741697.jpg|241x241px|thumb|left|[[Rowena Ravenclaw]], the founder of Ravenclaw]]
+
+Ravenclaw House prizes learning, wisdom, wit, and intellect in its members.<ref name="PS7" /> Thus, many Ravenclaws tend to be academically motivated and talented students. They also pride themselves on being original in their ideas, and methods. It is not unusual to find Ravenclaw students practising especially different types of magic that other houses might shun.<ref name="PM-ravenclaw"/> [[Hermione Granger]], an extremely intelligent witch and the top student in her year, was sorted into [[Gryffindor]], though she admitted that the [[Sorting Hat]] had seriously considered placing her in Ravenclaw.<ref name="OOTP16">{{OOTP|B|16}}</ref>
+
+Often hard-working and diligent, as often is the case with intellectuals with a predisposition for academics, some of the pupils sorted under the blue-bronzed eagle are known to be inclined to dismiss certain social expectations for the sake of satisfying their own intellectual curiosity. Some of these eventually also ended up being not only accepted but even celebrated, in spite of being initially subjected to scorn for their various oddities. [[Luna Lovegood]], for example, was one such student: Eccentric to put it at its mildest, she was a Ravenclaw student who initially was bullied for her open defiance of conventionality, but ultimately became a celebrated [[Magizoologist|wizarding naturalist]] and renowned for her participation in the legendary [[Battle of Hogwarts]] and past membership in [[Dumbledore's Army]]. Another example would be Professor [[Filius Flitwick]], a half-goblin who might have faced scorn for his short stature earlier in life but went on to become a renowned [[Supreme Dueller|Duelling Champion]], and subsequently one of the finest and most knowledgable [[Charms Master]]s in the entirety of the wizarding world during his employment at [[Hogwarts School of Witchcraft and Wizardry]]. (''The'' best, according to some of his students).
+
+Ravenclaws tend to be curious about the world and pay attention to the world around them. Ravenclaws are known to be logical and rational. In addition, Ravenclaw students tend to have abilities regarding Memory. [[Garrick Ollivander]], for example, possessed an eidetic memory and can remember every wand he has sold,<ref name="PS5">{{PS|B|5}}</ref> and [[Gilderoy Lockhart]] had an exceptional talent in the [[Memory Charm]].<ref name="COS16">{{COS|B|16}}</ref>
+
+Even so, not all Ravenclaws were motivated by academic prowess. Examples of such individuals included [[Gilderoy Lockhart]] and [[Cho Chang]], both of whom sought to use the good name and renown of their house, the inherent expectations of certain academic prowess that comes with being sorted into it as well as the often somewhat natural ability of its members to gain popularity among their peers, which particularly was the case of the former, proving true the fact that a good student did not necessarily make a good witch or wizard.
+
+[[Minerva McGonagall]] was a [[Hatstall]], having approximately equal Ravenclaw and Gryffindor traits; the [[Sorting Hat]] finally Sorted her into Gryffindor.<ref name="hatstall"/> [[Hermione Granger]] was also considered for Ravenclaw due to her intelligence, but the hat ultimately decided on Gryffindor once again.<ref name="OOTP19">{{OOTP|B|19}}</ref> [[Filius Flitwick]] was in the same situation at the time of his Sorting, but in his case the Hat decided on Ravenclaw instead of Gryffindor.<ref name="hatstall">{{WW|hatstall}}</ref>
+
+==Reputation==
+{{Quote|I got into big trouble during my third year for duelling a Ravenclaw prefect who insisted that Bridget Wenlock had come from his house, not mine.|A Hufflepuff with an intelligent witch in their house|Pottermore}}[[File:Eagle.jpg|178x178px|thumb|Ravenclaw's symbol]]
+
+According to [[Slytherin]] [[prefect]] [[Gemma Farley]], Ravenclaws are so competitive when it comes to academic success that they are known to backstab each other, and likely other students, in order to get top marks. While [[Hufflepuff]] prefect [[Gabriel Truman]] noted that they are so proud of the success of famous members, such as [[Laverne de Montmorency]], that they claim any intelligent wizard as a member of Ravenclaw House, such as [[Bridget Wenlock]], who was, in fact, a Hufflepuff. Some Ravenclaws, such as [[Uric the Oddball]], [[Xenophilius Lovegood]], and his daughter [[Luna Lovegood]] are also noted to have a propensity towards eccentricity.
+
+[[File:Grey Lady1.png|234x234px|thumb|left|House ghost, The Grey Lady]]
+
+Ravenclaw House appears to have little rivalry with the other houses, except in [[Quidditch]]. [[Harry Potter]] believed that they tended to side with [[Gryffindor]] in its rivalry with Slytherin, as did Hufflepuff house.<ref name="PS15">{{PS|B|15}}</ref><ref name="PS17">{{PS|B|17}}</ref> However, during the [[1994]] [[Triwizard Tournament]], most Ravenclaws supported Hufflepuff Champion [[Cedric Diggory]] over Harry. They believed that Harry had, in fact, cheated his way into being a champion and that the true Hogwarts champion was Cedric.<ref name="GOF18">{{GOF|B|18}}</ref> Many Ravenclaws (such as [[Cho Chang]]) joined [[Dumbledore's Army]] and fought in the [[Battle of Hogwarts]] along with Gryffindors and Hufflepuffs. They rose at almost the exact moment as the Hufflepuffs and turned their wands upon [[Pansy Parkinson]] and Slytherin House in Harry Potter's defence when the former wished to hand Harry over to [[Tom Riddle|Lord Voldemort]] and his army of [[Death Eaters]].<ref name="DH31">{{DH|B|31}}</ref>
+
+Within the house, though, they’re well-known for being welcoming and encouraging of creativity, eccentricity, and individuality and being very accepting.
+
+==Common Room==
+{{Dialogue a-b-a|Knocker|Which came first, the [[phoenix]] or the flame?|Luna Lovegood|I think the answer is that a circle has no beginning.|Well reasoned.|[[Luna Lovegood|Luna]] solving a riddle to enter Ravenclaw tower|Harry Potter and the Deathly Hallows}}[[File:Ravenclaw common room.png|215x215px|thumb|Ravenclaw common room]]
+
+The Ravenclaw common room is in one of the castle's towers and is wide and circular. You have to climb a [[Ravenclaw Tower Staircase|tight spiral staircase]] to get there. It has graceful arched windows, and the walls are hung with blue and bronze silks. The domed ceiling is painted with stars, which are echoed in the midnight-blue carpet. Tables, chairs, and bookcases cover the expanse of the floor, and a white marble statue of [[Rowena Ravenclaw]] sits next to the door that leads to the dormitories above. Harry Potter entered the common room in 1998 while searching for clues to the location of one of [[Tom Riddle|Voldemort]]'s Horcruxes.<ref name="DH29">{{DH|B|29}}</ref>
+
+Unlike the other common rooms in the school, a logical riddle given by a bronze eagle-shaped knocker must be answered to enter.<ref name="DH29"/> This could prove troublesome as anyone with enough intellect could intrude into the dormitory, as is shown in [[1998]] where [[Minerva McGonagall|Professor McGonagall]] had no trouble entering by answering the riddle correctly<ref name="DH30">{{DH|B|30}}</ref> (though she was a "[[hatstall]]" between [[Gryffindor]] and Ravenclaw).<ref name="hatstall">{{WW|hatstall}}</ref> On the other hand, a particularly poorly-phrased riddle might bemuse a particular student, blocking them from entering and forcing them to sleep outside. However, [[Hermione Granger|Hermione]] stated in her first year when figuring out the complicated riddle, beneath the trapdoor, that most wizards and witches do not have much sense of logic,<ref name="PS16">{{PS|B|16}}</ref> which might be something that Ravenclaw noticed herself and decided to use clever riddles instead of passwords, as they are safer than some words.
+
+==Head of House==
+<gallery orientation="portrait" widths="120" spacing="large">
+Founders ravenclaw.jpg|[[Rowena Ravenclaw]] (10th century)<ref name="COS9"/>
+Filius Flitwick profile.jpg|[[Filius Flitwick]]<ref name="PM-ravenclaw"/><ref name="HBP29"/>
+</gallery> The head of House before and during [[Harry Potter]]'s time was [[Filius Flitwick]].<ref name="PM-ravenclaw"/><ref name="HBP29"/> It is unknown when he became head of house, but it is known that he was teaching [[Charms (class)|Charms]] in [[1971]]. It is unknown whom he succeeded.
+
+==Known Ravenclaws==
+{|class="wikitable" border="1" width="100%"
+|-bgcolor="#cccccc"
+!align="center" width="20%" style="background: #424E78; color: #F9F9F9"|Name
+!align="center" width="15%" style="background: #424E78; color: #F9F9F9"|Period Attending Hogwarts
+!align="center" width="60%" style="background: #424E78; color: #F9F9F9"|Notes
+|-
+|[[Helena Ravenclaw]]
+<ref name="jkrfaq1">[https://web.archive.org/web/20060316221402/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=62 F.A.Q. question] at {{JKRS}} (via Internet Archive)</ref>
+|[[First millennium A.D.|Founders' time]]
+|Jealous daughter of the house founder, who stole her mother’s [[Ravenclaw's Diadem|diadem]] during her school years, and hid it in an [[Albania]]n forest, but was tracked down and killed by a [[Bloody Baron|baron]] whose repeated proposals she rejected.<ref>According to [https://www.pottermore.com/features/the-secret-lives-of-the-hogwarts-ghosts| Pottermore - Secret Lives of the Hogwarts Ghosts]: direct quote: "''A few years into her magical education'', she betrayed her mother by stealing the diadem – believing it could make her powerful – and running away from Hogwarts. The betrayal embarrassed Rowena, who told no one that the diadem was missing. On her death bed, however, she did send a young man to find Helena, so she could see her daughter for one last time." Few implies at least three years and confirms Helena was still at school.</ref> Later became the house [[ghost]].<ref name="DH31"/>
+|-
+|[[Uric the Oddball]]
+|Medieval era
+|Famous for his eccentric habits, such as wearing a jellyfish as a hat and sleeping in a room with fifty pet [[Augurey]]s.<ref name="PM-ravenclaw" />
+|-
+|[[Ignatia Wildsmith]]
+|c. [[1238]]–[[1245]]
+|The inventor of [[Floo Powder]].<ref name="PM-ravenclaw" />
+|-
+|[[Laverne de Montmorency]]
+|c. [[1834]]–[[1841]]
+|Inventor of several [[Love Potion]]s.<ref name="PM-ravenclaw" />
+|-
+|[[Basil Fronsac]]
+|Mid–[[19th century]] (most likely)
+|Was [[Headmaster]] sometime prior to [[Armando Dippet]]
+|-
+|[[Perpetua Fancourt]]
+|c. [[1911]]–[[1918]]
+|Inventor of the [[lunascope]].<ref name="PM-ravenclaw" />
+|-
+|[[Myrtle Warren]]
+<ref>[https://web.archive.org/web/20070510030924/http://www.jkrowling.com/textonly/en/faq_view.cfm?id=117 F.A.Q. question] on {{JKRS}} (via Internet Archive)</ref>
+|c. [[1940]]–[[1943]]
+|Was killed by [[Salazar Slytherin's Basilisk]] and is now a [[ghost]] that haunts the [[Second-floor girls' lavatory]].
+|-
+|[[Millicent Bagnold]]
+|rowspan="6"|Unknown
+|[[Minister for Magic]] from [[1980]]–[[1990]].
+|-
+|[[Filius Flitwick]]
+|[[Charms Master]] and [[Head of Ravenclaw House]].
+|-
+|[[Xenophilius Lovegood]]
+|Editor of [[The Quibbler]]. [[Luna Lovegood|Luna]]'s father.
+|-
+|[[Lorcan McLaird]]
+|[[Minister for Magic]] from [[1923]]–[[1925]].
+|-
+|[[Garrick Ollivander]]
+|Talented and famous [[wandmaker]].
+|-
+|[[Sybill Trelawney]]
+|[[Divination]] teacher in [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] since [[1981]]. Prophesized the birth of [[Harry Potter|the one with the power to vanquish the Dark Lord]].
+|-
+|[[Quirinus Quirrell]]
+<ref name="quirrell">{{WW|professor-quirrell}}</ref>
+|[[1960s]] or [[1970s]] (possibly)
+|[[Muggle Studies]] professor, [[Defence Against the Dark Arts]] professor during the [[1991–1992 school year]], and host to [[Tom Riddle|Lord Voldemort's]] disembodied [[soul]].
+|-
+|[[Olivia Green]]
+|[[1970s]]–[[1980s]]
+|Friend of [[Jacob (Hogwarts student)|Jacob]].
+|-
+|[[Gilderoy Lockhart]]
+<ref name="lockhart">{{WW|gilderoy-lockhart}}</ref>
+|[[1975]]–[[1982]]
+|Later became a celebrity author and adventurer (until being exposed as a fraud), Disgraced Winner of the [[Order of Merlin|Order of Merlin (Third Class)]] for his alleged work, and [[Professor]] of [[Defence Against the Dark Arts]] of Hogwarts during the [[1992–1993 school year]]. Now a danger to himself at [[St Mungo's]] after a [[Memory Charm]] backfired.
+|-
+|[[Chester Davies]]
+|[[1980]]–[[1987]]
+|[[Prefect]], member of the [[Frog Choir]]. Joined the [[Improper Use of Magic Office]]
+|-
+|[[Brennan Doyle]]
+|[[1983]]–[[1990]]
+|[[Keeper]] of the [[Ravenclaw Quidditch team]]
+|-
+|[[Badeea Ali]]
+|rowspan="4"|[[1984]]–[[1991]]
+|Interested in the [[portrait]]s around [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+|-
+|[[Andre Egwu]]
+|Reserve [[Seeker]] and later [[Keeper]] of the [[Ravenclaw Quidditch team]].
+|-
+|[[Tulip Karasu]]
+|Rebellious student.
+|-
+|[[Talbott Winger]]
+|An [[Animagus]].
+|-
+|[[Eliza]]
+|[[1985]]–[[1992]]
+|Once lost her [[Potions (class)|Potions]] notes.
+|-
+|[[Robert Hilliard]]
+|rowspan="2"|[[1980s]] and [[1990s]]
+|A [[Prefect]].
+|-
+|[[Unidentified Ravenclaw Seeker]]
+|[[Seeker]] of the [[Ravenclaw Quidditch team]].
+|-
+|[[Penelope Clearwater]]
+|[[1987]]–[[1994]]
+|[[Prefect]]. Dated [[Percy Weasley|Percy]] in [[1992]].
+|-
+|[[Roger Davies]]
+|[[1989]]–[[1996]]
+|[[Chaser]] and [[Captain]] of the [[Ravenclaw Quidditch team]] from [[1993]] to [[1995]].
+|-
+|[[Marcus Belby]]
+|rowspan="4"|[[1990]]–[[1997]]
+|Member of the [[Slug Club]].
+|-
+|[[Eddie Carmichael]]
+|Claimed to have achieved nine "[[Outstanding]]s" in his [[Ordinary Wizarding Level|O.W.L.]] exams.
+|-
+|[[Cho Chang]]
+|[[Seeker]] for the [[Ravenclaw Quidditch team]] from at least [[1993]] to [[1997]]; member of [[Dumbledore's Army]]. [[Harry Potter]]'s love interest in fifth year.
+|-
+|[[Marietta Edgecombe]]
+|Member of [[Dumbledore's Army]], but betrayed them to [[Dolores Umbridge]].
+|-
+|[[Terry Boot]]
+|rowspan="10"|[[1991]]–[[1998]]
+|Member of [[Dumbledore's Army]].
+|-
+|[[Mandy Brocklehurst]]
+|
+|-
+|[[Michael Corner]]
+|Member of [[Dumbledore's Army]]. Dated [[Ginevra Weasley|Ginny]] and later [[Cho Chang|Cho]].
+|-
+|[[Anthony Goldstein]]
+|[[Prefect]]. Member of [[Dumbledore's Army]].
+|-
+|[[Sue Li]]
+|rowspan="2"|
+|-
+|[[Isobel MacDougal]]
+|-
+|[[Padma Patil]]
+|[[Prefect]]. Member of [[Dumbledore's Army]]. [[Parvati Patil|Parvati]]'s twin sister.
+|-
+|[[Lisa Turpin]]
+|
+|-
+|[[Amanda]]
+|May be [[Mandy Brocklehurst]].{{fact}}
+|-
+|[[Boy who kept a bezoar in his pocket]]
+|Commented on [[Severus Snape|Snape]]'s unpleasant demeanour. Kept a [[bezoar]] in his pocket.
+|-
+|[[Luna Lovegood]]
+|rowspan="2"|[[1992]]–[[1999]]
+|Member of Dumbledore's Army and close friend of [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], [[Hermione Granger]], [[Neville Longbottom]] and [[Ginevra Weasley|Ginny Weasley]]. Eventually married [[Rolf Scamander]] and became a [[Magizoologist]].
+|-
+|[[Unidentified Ravenclaw fourth years|Unidentified Ravenclaw 4th years]]
+|A few students in the same year.
+|-
+|[[Stewart Ackerley]]
+|rowspan="2"|[[1994]]–[[2001]]
+|rowspan="2"|
+|-
+|[[Orla Quirke]]
+|-
+|[[Unidentified Ravenclaw prefect (II)]]
+|[[1980s]]
+|[[Prefect]].
+|-
+|[[Unidentified Ravenclaw prefect]]
+|[[1980s]]–[[1990s]]
+|[[Prefect]].
+|-
+|[[Roland Abberley]]
+|rowspan="108"|[[1990s]]
+|Owned a pair of [[dragon-hide gloves]].
+|-
+|[[Jatin Agarkar]]
+|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Dennis Aldermaston]]
+|Usually spent time at the [[Hogwarts Library|library]].
+|-
+|[[Scott Ancrum]]
+|A student who did not excel in studies.
+|-
+|[[Yutaka Amano]]
+|rowspan="4"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Becky Arncliffe]]
+|-
+|[[Arjuna Balaji]]
+|-
+|[[Yvonne Bampton]]
+|-
+|[[Ethan Bexley]]
+|Possessed a rare [[Chudley Cannons]] card. Competed in the [[Exploding Snap]] tournament in the [[1996–1997 school year]].
+|-
+|[[Trevor Birch]]
+|[[Duelling Club]] member.
+|-
+|[[Sheila Brooks]]
+|Exchanged a [[Skiving Snackbox]] for six [[Stink Pellets]] with [[Harry Potter|Harry]].
+|-
+|[[Randolph Burrow]]
+|[[Chaser]] on the [[Ravenclaw Quidditch team]].
+|-
+|[[Hortense Cooper]]
+|
+|-
+|[[Loretta Cornhill]]
+|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Daisy Corran]]
+|Exchanged a few items with [[Harry Potter|Harry]].
+|-
+|[[Helen Dawlish]]
+|[[Duelling Club]] member.
+|-
+|[[Nanette Desford]]
+|Usually spent time by the [[Clock Tower]]. Played [[Exploding Snap]].
+|-
+|[[Shruti Dev]]
+|rowspan="3"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Ananyo Dhillon]]
+|-
+|[[Nathaniel Douglas]]
+|-
+|[[Felicity Eastchurch]]
+|Hid [[Luna Lovegood|Luna]]'s handbag as a prank. Competed in the [[Exploding Snap]] tournament in the [[1996–1997 school year]].
+|-
+|[[Harriet Ellesmere]]
+|rowspan="3"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Hilary Erskine]]
+|-
+|[[Margaret Ettington]]
+|-
+|[[Fawcett|S. Fawcett]]
+|[[Duelling Club]] member. She attempted to put her name in the [[Triwizard Tournament]] by using an [[Ageing Potion]]. Attended the [[Yule Ball]] with [[Stebbins (disambiguation)|Stebbins]].
+|-
+|[[Marcus Fenwick]]
+|Head of [[Hogwarts Gobstone Club]].
+|-
+|[[Patrick Fincher]]
+|Played informal [[Quidditch]] matches.
+|-
+|[[Miranda Flockton]]
+|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Cordelia Gifford]]
+|Competed in the [[Gobstones]] tournament in the [[1996–1997 school year]].
+|-
+|[[Maria Glossop]]
+|Usually spent time by the [[Clock Tower]].
+|-
+|[[Austin Guthrie]]
+|rowspan="2"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Noel Harwich]]
+|-
+|[[Declan Haworth]]
+|Competed in the [[Wizard Skittles]] tournament in the [[1996–1997 school year]].
+|-
+|[[Christopher Hemsley]]
+|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Susanna Hesleden]]
+|Fan of [[Gilderoy Lockhart]].
+|-
+|[[Sanford Humberston]]
+|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Marcus Hitchin]]
+|Used [[Skiving Snackbox]]es. Duelled with [[Horace Slughorn|Slughorn]] and ended up in the [[Hospital Wing]].
+|-
+|[[Jason Huntingdon]]
+|Stole a pair of [[Luna Lovegood|Luna]]'s [[Spectrespecs]]. Usually spent time in the [[Great Hall]] and at the [[Viaduct Entrance]].
+|-
+|[[Shoma Ichikawa]]
+|Member of [[Duelling Club]].
+|-
+|[[Duncan Inglebee]]
+|[[Beater]] on the [[Ravenclaw Quidditch team]].
+|-
+|[[Nola Johnston]]
+|Competed in the [[Wizard Skittles]] tournament in the [[1996–1997 school year]].
+|-
+|[[Tomoko Kajiwara]]
+|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Andrea Kegworth]]
+|Competed in the [[Wizard Skittles]] tournament in the [[1996–1997 school year]].
+|-
+|[[Sarah Kempston]]
+|rowspan="5"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Joan Kerridge]]
+|-
+|[[Danny Kershaw]]
+|-
+|[[Ashok Khanna]]
+|-
+|[[Humphrey Kilburn]]
+|-
+|[[Noreen Kirkby]]
+|Competed in the [[Wizard Skittles]] tournament in the [[1996–1997 school year]].
+|-
+|[[Biko Kisawahi]]
+|rowspan="2"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Mark Latchingdon]]
+|-
+|[[Toby Lennox (Ravenclaw)|Toby Lennox]]
+|Played informal [[Quidditch]] matches.
+|-
+|[[Roberta Lutterworth]]
+|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Hugo Mattingley]]
+|Usually spent time in the [[Middle Courtyard|Transfiguration Courtyard]]. Duelled with [[Horace Slughorn|Slughorn]] and ended up in the [[Hospital Wing]].
+|-
+|[[Sterling McCubbin]]
+|rowspan="5"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Godfrey Midhurst]]
+|-
+|[[Elizabeth Mkapa]]
+|-
+|[[Phillip Montgomery]]
+|-
+|[[Takashi Noda]]
+|-
+|[[Banga O'Deluga]]
+|Usually spent time in the [[Great Hall]]. Enjoyed playing [[Gobstones]].
+|-
+|[[Grant Page]]
+|[[Keeper]] on the [[Ravenclaw Quidditch team]].
+|-
+|[[Sherwood Partington]]
+|rowspan="4"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Swati Pevekar]]
+|-
+|[[Amina Qureshi]]
+|-
+|[[Asma Rahman]]
+|-
+|[[Latisha Randle]]
+|Stole a pair of [[Luna Lovegood|Luna]]'s shoes as a prank.
+|-
+|[[Yolanda Reedham]]
+|Usually spent time in the [[Classroom 1B|Transfiguration Classroom]].
+|-
+|[[Maisy Reynolds]]
+|Present during the evacuation of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+|-
+|[[Hemani Roshan]]
+|Exchanged powdered moonstone for two [[Wizard's Chess|chess]] pieces with [[Harry Potter|Harry]].
+|-
+|[[Ophelia Rushden]]
+|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Jason Samuels]]
+|[[Beater]] on the [[Ravenclaw Quidditch team]].
+|-
+|[[Omar Shaw]]
+|Fond of [[Weasleys' Wizard Wheezes]].
+|-
+|[[Alannis Shepley]]
+|Played informal [[Quidditch]] matches.
+|-
+|[[Kim Sheringham]]
+|Stole [[Luna Lovegood|Luna]]'s [[Luna Lovegood's dress robes|silver dress]].
+|-
+|[[Arman Shettigar]]
+|Competed in the [[Gobstones]] tournament in the [[1996–1997 school year]].
+|-
+|[[Justin Steele]]
+|Guarded the entrance to [[Horace Slughorn|Slughorn]]'s compartment on the [[Hogwarts Express]].
+|-
+|[[Hazel Stickney]]
+|rowspan="3"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Geoffrey Stradbroke]]
+|-
+|[[Arnold Streeton]]
+|-
+|[[Jeremy Stretton]]
+|[[Chaser]] on the [[Ravenclaw Quidditch team]].
+|-
+|[[Lewis Thorverton]]
+|rowspan="3"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Sachin Tripathy]]
+|-
+|[[Miyuki Tsuji]]
+|-
+|[[Marcus Turner]]
+|[[Prefect]] in the [[1993–1994 school year]].
+|-
+|[[Gerald Vickers]]
+|rowspan="3"|Seen walking around in the [[1993–1994 school year]].
+|-
+|[[Gerard Willerby]]
+|-
+|[[Aron Woodbridge]]
+|-
+|[[Nigel Wroxton]]
+|Competed in the [[Gobstones]] tournament in the [[1996–1997 school year]].
+|-
+|[[Alannis]]
+|Captain of the Ravenclaw [[Duelling Club]].
+|-
+|[[Andrew]]
+|Member of the Ravenclaw [[Duelling Club]].
+|-
+|[[Bradley]]
+|rowspan="2"|[[Chaser]] on the [[Ravenclaw Quidditch team]].
+|-
+|[[Chambers]]
+|-
+|[[Raymond]]
+|Student whose [[Raymond's kitten|kitten]] once fell in a well.
+|-
+|[[Rebecca]]
+|[[Duelling Club]] member.
+|-
+|[[Music classroom monitor]]
+|Classroom monitor in [[music]] class.
+|-
+|[[Ravenclaw Wizard Duelling Champion]]
+|[[Duelling]] champion.
+|-
+|[[Ravenclaw Wizard's Chess champion]]
+|[[Wizard's Chess]] champion.
+|-
+|[[Secret student sweetshop manager]]
+|Ran a [[secret student sweetshop]] behind a bookcase in the [[Great Foyer]].
+|-
+|[[Unidentified Dumbledore's Army male Ravenclaw member 1997-1998 (II)]]
+|Member of [[Dumbledore's Army]].
+|-
+|[[Unidentified Hogwarts students at the Battle of Hogwarts#Ravenclaw boy (I)|Unidentified Ravenclaw boy during the Battle of Hogwarts]]
+|rowspan="3"|Fought in the [[Battle of Hogwarts]].
+|-
+|[[Unidentified Hogwarts students at the Battle of Hogwarts#Ravenclaw boy who carried a body|Ravenclaw boy who carried a body during the Battle of Hogwarts]]
+|-
+|[[Unidentified Ravenclaw black girl during the Battle of Hogwarts|Ravenclaw black girl during the Battle of Hogwarts]]
+|-
+|[[Unidentified Ravenclaw boy at Hogwarts]]
+|
+|-
+|[[Unidentified Ravenclaw boy (II)]]
+|rowspan="2"|Fought in the [[Battle of Hogwarts]].
+|-
+|[[Unidentified Hogwarts students at the Battle of Hogwarts#Ravenclaw boy in the Quad battlements|Unidentified Ravenclaw boy (III)]]
+|-
+|[[Unidentified Ravenclaw Girl during the Battle of Hogwarts|Ravenclaw girl during the Battle of Hogwarts]]
+|Member of [[Dumbledore's Army]].
+|-
+|[[Unidentified Ravenclaw student asked to the Yule Ball by a Durmstrang student|Ravenclaw student asked to the Yule Ball by a Durmstrang student]]
+|Asked to the [[Yule Ball]] by a [[Durmstrang Institute|Durmstrang]] student during the [[Triwizard Tournament]].
+|-
+|[[Unidentified Ravenclaw Substitute Seeker]]
+|Substitute [[Seeker]] on the [[Ravenclaw Quidditch team]].
+|-
+|[[Unidentified Ravenclaw boy]]
+|[[1997]] - [[2004]]
+|Prodded [[Alecto Carrow]] into [[Ravenclaw Tower]], hoping that she had died.
+|}
+
+==See also==
+*[[Rowena Ravenclaw]]
+*[[Helena Ravenclaw]]
+*[[Ravenclaw Tower]]
+*[[Rowena Ravenclaw's Diadem]]
+*[[Ravenclaw Quidditch team]]
+*[[Slytherin]]
+*[[Gryffindor]]
+*[[Hufflepuff]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+
+==Behind the scenes==
+[[File:House_Cup.jpg|200px|thumb|The [[Great Hall]] with the Ravenclaw banners raised]]
+*In the books, Ravenclaw colours are blue and bronze; however, in the [[Harry Potter (film series)|films]] they were changed to blue and silver. Likewise, Ravenclaw's symbol is an eagle in the books and a raven in the films, though in the last film, an eagle does appear as the Ravenclaw mascot.
+*Eagles are a symbol for a broader vision and strength of mind and heart.
+*[[Basil Fronsac]] was likely a Ravenclaw.
+*[[Gilderoy Lockhart]] was a Ravenclaw. This can be seen on his [[Quidditch]] robes from a picture of his past while at Hogwarts, and was later confirmed by [[J. K. Rowling]] on {{PM}}.[[File:Screenshot 883.png|thumb]]
+*The Ravenclaw Common Room does not appear in {{DH|F2}}, but it is still possible to glimpse the stairwell inside the Tower. The Common Room's door can also be glimpsed. This is the same for {{LEGO|Y2}}.
+*Ravenclaw is the only House from which no [[Head Boy or Girl]] have been named.
+*[[Isolt Sayre]], founder of [[Ilvermorny School of Witchcraft and Wizardry]], wanted to be a Ravenclaw as a child, but never got to attend Hogwarts. Her choice of blue as a colour for the Ilvermorny [[Ilvermorny uniform|school uniform]] was inspired by Ravenclaw.
+*No Ravenclaw student Sortings are shown in {{PS|FA}}.
+===Pottermore House Cup===
+*Ravenclaw came third for the first house cup with 71,815,917 house points.<ref>{{see image|file:Pottermore HouseCup reesults.jpeg}}</ref>
+*Ravenclaw came fourth for the second house cup with 45,455,773 points.<ref>{{see image|file:Pottermore 2nd Cup.jpg}}</ref>
+*Ravenclaw came second for the third house cup with 26,916,194 points.<ref>{{see image|file:Pottermore 3rd Cup.jpg}}</ref>
+*Ravenclaw came fourth for the fourth house cup with 24,567,337 points.<ref>{{see image|file:Pottermore 4th Cup.jpg}}</ref>
+*Ravenclaw won the fifth house cup with 28,048,578 points.<ref>{{see image|file:Pottermore 5th Cup.png}}</ref>
+*Ravenclaw won the sixth house cup with 32,377,299 points, becoming the only House to win the House Cup consecutively.<ref>{{see image|file:Ravenclaw!!.png}}</ref>
+*Ravenclaw came third for the seventh and eighth house cups with 49,775,819 and 23,712,525 points.
+===Translations===
+In translated editions, "Ravenclaw" remains the same and is used for the Catalan, Croatian, Danish, Faroese, [[German]], Icelandic, Polish, Portuguese (Portugal), [[Spanish]], Swedish, and Vietnamese editions. The following translations have changed the name:
+*Albanian: ''Korbziu''
+*Arabic: ''مخلب الغراب''
+*Bulgarian: ''Рейвънклоу {{c|Reĭvănklou}}''
+*Chinese (PRC): ''拉文克劳 {{c|Lāwénkèláo}}'' (phonetic)
+*Chinese (Taiwan): ''雷文克勞 {{c|Léiwénkèláo}}'' (phonetic)
+*Czech: ''Havraspár'' (''havran'' "raven", ''spár'' "claw")
+*Dutch: ''Ravenklauw''
+*Finnish: ''Korpinkynsi'' (literal, ''korppi'' "raven", ''kynsi'' "claw")
+*French: ''Serdaigle'' (''serre d'aigle'' "eagle's talon")
+*Georgian: ''რეივენქლოუ {{c|reivenqlo}}''
+*Greek, Modern: ''Ράβενκλοου {{c|Rábenkloou}}''
+*Hebrew: ''רייבנקלו''
+*Hindi: ''चीलघात {{c|Chīlaghāt}}'' (''chīl'' "kite" (bird); ''ghāt'' "attack")
+*Hungarian: ''Hollóhát'' ("raven's back")
+*Italian: ''Pecoranera'' ("Blacksheep", in first three books' editions) / ''Corvonero'' ("Blackraven", in later books editions and films)
+*Japanese: ''レイブンクロー {{c|Reibunkurō}}''
+*Korean: ''래번클로 {{c|lebŏnkŭlo}}''
+*Latvian: ''Kraukļanags''
+*Lithuanian: ''Varno Nagas''
+*Norwegian: ''Ravnklo'' (literal)
+*Persian: ''پنجہ کلاغی ''
+*Polish: ''Ravenclaw'' (But the inhabitants are called ''Krukoni''; ''kruk'' "raven")
+*Portuguese (Brazil): ''Corvinal'' (''corvo'' "raven")
+*Romanian: ''Ochi-de-Șoim'' ("Falcon Eye") (changed from raven to falcon possibly because ravens are better known as signs of death or danger, and the members of the house have a broader way of thinking, being smart and witty, thus the name of the house)
+*Russian: ''Когтевран {{c|Kogtevran}}''
+*Serbian: ''Рејвенкло {{c|Rejvenklo}}'' (in earlier edition "Revenklo")
+*Slovak: ''Bystrohlav'' (quick thinkers)
+*Slovenian: ''Drznvraan''
+*Thai: ''เรเวนคลอ''
+*Ukrainian: ''Рейвенклов {{c|Reyvenklov}}''
+*Urdu: ''زاغ زنبور''
+*Welsh: ''Crafangfran'' (literal)
+*Vietnamese: ''Nhà Ravenclaw'' ("House Ravenclaw")
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{GOF|G}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}}
+*{{HBP|F}}
+*{{HBP|G}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{CC|P}}
+*{{CC}}
+*{{COG}}
+*{{QWC}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO|C1}}
+*{{LEGO|C}}
+*{{LEGO|D}}
+*{{LEGO}}
+*{{TCG}}
+*{{HPK}}
+*{{WBS}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{HM}}
+*{{WU}}
+*{{MA}}
+*{{PAS}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts}}
+[[de:Ravenclaw]]
+[[es:Ravenclaw]]
+[[fi:Korpinkynsi]]
+[[fr:Serdaigle]]
+[[he:רייבנקלו]]
+[[nl:Ravenklauw]]
+[[no:Ravnklo]]
+[[pl:Ravenclaw]]
+[[pt:Corvinal]]
+[[ru:Когтевран]]
+[[sv:Ravenclaw]]
+[[Category:Ravenclaw House|Ravenclaw House]]

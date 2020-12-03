@@ -1,0 +1,23 @@
+{{Location infobox
+|imageBG = 
+|image = DrFilibusters.png
+|name = Dr Filibuster's Fireworks
+|location = [[Carkitt Market]], [[London]]
+|owner = 
+|residents = 
+|affiliation = 
+}}
+'''Dr Filibuster's Fireworks''' was a pyrotechnics shop famous for its [[Dr_Filibuster's_Fabulous_Wet-Start,_No-Heat_Fireworks|Fabulous Wet-Start, No-Heat Fireworks]] . It was located in [[Carkitt Market]] next to the [[Museum of Muggle Curiosities]].<ref>{{WWHP}} {{see image|File:DrFilibustersTall.jpg}}</ref>
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+*{{WWHP}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Carkitt Market}}
+
+[[pl:Sztuczne Ognie Dr. Filibustera]]
+[[Category:Carkitt Market]]
+[[Category:Shops]]

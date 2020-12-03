@@ -1,0 +1,108 @@
+{{Individual infobox
+|theme = mom
+|image = [[File:ReginaldCattermole.jpg|250px]]
+|name = Reginald Cattermole
+|born = Sun in Libra, [[moon]] in Virgo<ref name="HPLE">{{HPLE|G}}</ref>
+|died = 
+|blood = [[Pure-blood|Pure blood]] or [[Half-blood]]<ref name="Blood">As only his wife was on trial, and not him, he must have been at least half-blood, possibly pure blood.</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="DH12"/>
+|alias = Reg<ref name="DH12"/>
+|title = 
+|signature = [[File:Reginald Cattermole sig.png|150px]]
+|species = [[Human]]<ref name="DH12"/>
+|gender = Male<ref name="DH12"/>
+|height = 5 ft, 11 in<ref name="HPLE"/>
+|weight = 168 pounds<ref name="HPLE"/>
+|hair = Greyish/Red<ref name="HPLE"/>
+|eyes = Green<ref name="HPLE"/>
+|skin = 
+|family = *[[Mary Cattermole]] (wife)<ref name="DH12"/>
+*[[Maisie Cattermole]] (daughter)<ref name="DH12"/>
+*[[Ellie Cattermole]] (daughter)<ref name="DH12"/>
+*[[Alfred Cattermole]] (son)<ref name="DH12"/>
+*[[Mary Cattermole's father|Father--in-law]]<ref name="DH13">{{DH|B|13}}</ref>
+*[[Mary Cattermole's mother|Mother-in-law]]<ref name="DH13">{{DH|B|13}}</ref>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = Non-corporeal<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = [[Magical Maintenance Department]] employee<ref name="DH12"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="DH12"/>
+**[[Magical Maintenance Department]]<ref name="DH12"/>
+*[[Cattermole family]]<ref name="DH12"/>
+}}
+{{Dialogue a-b-a|Hermione (as Mafalda Hopkirk)|Oh dear! Perhaps you’d better take the day off!|Reginald|No – no! I must – today – must go – |But that’s just silly! You can’t go to work in this state – I think you ought to go to St Mungo’s and get them to sort you out... You simply can’t go to work like this!|Reginald trying to get to the [[British Ministry of Magic|Ministry of Magic]] for his wife's trial|Harry Potter and the Deathly Hallows}}
+
+'''Reginald "Reg" Cattermole''' (b. sun in [[Libra]], [[moon]] in [[Virgo]]<ref name="HPLE"/>) was a [[Great Britain|British]] [[Wizardkind|wizard]] employed at the [[British Ministry of Magic|Ministry of Magic]] in the [[Magical Maintenance Department]].<ref name="DH12">{{DH|B|12}}</ref> He was married to [[Mary Cattermole|Mary]], and the couple had three children, [[Maisie Cattermole|Maisie]], [[Ellie Cattermole|Ellie]], and [[Alfred Cattermole|Alfred]]. He lived at [[27 Chislehurst Gardens|27]] [[Chislehurst Gardens]], [[Great Tolling]], [[Evesham]] with his wife and children.
+
+==Biography==
+===Early Life===
+Not much is known about Reginald's early life except that he began to work at the [[British Ministry of Magic]] as part of the [[Magical Maintenance Department]] in his adulthood.
+===Infiltration of the Ministry===
+[[File:Infiltration.png|262px|thumb|Ron (far right) disguised as Reginald Cattermole with Hermione and Harry (also disguised as Ministry workers)]]
+
+{{Quote|You realise that I am on my way downstairs to interrogate your wife, Cattermole? In fact, I’m quite surprised you’re not down there holding her hand while she waits. Already given her up as a bad job, have you? Probably wise. Be sure and marry a [[pure-blood]] next time... But if ''my'' wife were accused of being a [[Mudblood]] — not that any woman I married would ever be mistaken for such filth — and the Head of [[Department of Magical Law Enforcement]] needed a job doing, I would make it my priority to do this job, Cattermole. Do you understand me?|[[Corban Yaxley|Yaxley]] intimidating Reginald (actually [[Ronald Weasley|Ron Weasley]] in disguise)|Harry Potter and the Deathly Hallows}}
+
+On [[2 September]], [[1997]], Reginald headed for the Ministry not just for work, but for his [[Muggle-born]] wife [[Mary Cattermole]] who was to be tried by the [[Muggle-Born Registration Commission]], as the Ministry had been [[Fall of the Ministry of Magic|taken over]] by [[Death Eaters]] and Muggle-borns were being persecuted. Outside, Reginald met [[Mafalda Hopkirk]], who was actually [[Hermione Granger]] disguised by use of [[Polyjuice Potion]].<ref name="DH12"/>
+
+She gave him a [[Puking Pastille]], and when he started to vomit, she took some of his [[Human hair|hair]]. Reginald still tried hard to get into the Ministry, desperate to be by his wife's side, despite repeatedly vomiting and being unable to walk straight, but Hermione advised him to go to [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]]. After being unable to stand any longer, he finally [[Apparition|Disapparated]].<ref name="DH12"/>
+
+[[File:Reginaldron.png|272px|thumb|left|Reginald (Ron in disguise with [[Polyjuice Potion]]) exiting the lift to deal with the [[Water|raining]] in [[Corban Yaxley|Yaxley]]'s office]]
+
+This was all part of Hermione Granger, [[Harry Potter]], and [[Ronald Weasley|Ron Weasley]]'s plan to [[Infiltration of the Ministry of Magic|access the Ministry undercover]]. Hermione transformed into Mafalda Hopkirk, Ron used Reginald's hair and Polyjuice Potion to take on his form, and after Harry took on the form of [[Albert Runcorn]], the three headed into the Ministry.<ref name="DH12"/>
+
+Reginald returned to the Ministry, pale but no longer ill, just in time to witness Ron, Harry, and Hermione assisting in the escape of [[Muggle-born]]s who had been detained by the [[Muggle-Born Registration Commission]], including his wife. Harry advised them to take their children and leave the country while [[Tom Riddle|Lord Voldemort]] was still in power.<ref name="DH13"/>
+
+===Later life===
+It is unknown if Reginald and Mary took Harry's advice, or what happened to them after the [[Second Wizarding War]] ended. However, Ron was dubious they escaped as he got the impression Reginald was not quick-witted when he impersonated him.<ref name="DH14">{{DH|B|14}}</ref>
+
+==Physical description==
+Reginald was described as being a small, "[[ferret]]ty" individual.<ref name="DH12" /> 
+
+==Magical abilities and skills==
+*'''[[Apparition]]''': Like most accomplished adult wizards, Reginald was capable of apparating at will.<ref name="DH12"/>
+*'''[[Charm]]s''': Reginald was capable of producing a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOY2"/> a highly advanced and powerful protective charm.
+
+==Behind the scenes==
+[[File:LEGO_Reginald.png|thumb|Ron Weasley as Reg in {{LEGO|Y2}}]]
+*In {{DH|F1}}, Reginald Cattermole was played by [[Wales|Welsh]] actor [[Steffan Rhodri]].
+*In {{DH|F1}}, his physical appearance differs to that of the book. The book says that he is small and ferretty whereas in the film he is rather tall (even taller than [[Albert Runcorn]]).
+*Cattermole only appeared three times as himself in the film: once during [[Pius Thicknesse]]'s speech, once lying on the floor unconscious after the trio stun him, and once when he shows up as the trio's leaving the [[British Ministry of Magic|Ministry]].
+
+==Etymology==
+"Reginald" is from ''Reginaldus'', which is a Latinized form of ''Reynold''. It is also a cognate with the Old Norse Rögnvaldr, from which the name Ronald is derived.
+
+==Appearances==
+{{imagecat|Images of Reginald Cattermole}}
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{LEGO|Y2}}
+*{{LEGO|D}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cattermole, Reginald}}
+
+{{Ministry Departments unknown levels}}
+[[es:Reginald Cattermole]]
+[[fr:Reg Cattermole]]
+[[pl:Reginald Cattermole]]
+[[ru:Реджинальд Кроткотт]]
+[[pt-br:Reginald Cattermole]]
+[[de:Reg Cattermole]]
+[[Category:20th century births]]
+[[Category:Blood traitors]]
+[[Category:British individuals]]
+[[Category:Cattermole family]]
+[[Category:Green-eyed individuals]]
+[[Category:Impersonated individuals]]
+[[Category:Infiltration of the Ministry of Magic]]
+[[Category:Magical Maintenance Department personnel]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Wizards]]

@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Otto Bagman
+|born = 
+|died = 
+|blood = [[Pure-blood]] or [[half-blood]]<ref name="Blood">It's known that [[Ludovic Bagman's father|his father]] was a friend of [[Augustus Rookwood]]'s; this seems to imply that Otto was, at the very least, not Muggle-born.</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Ludovic Bagman's father|Father]]
+*[[Ludovic Bagman]] (brother)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Bagman family]]
+}}
+{{Quote|I like [[Ludovic Bagman|Ludo]]. He was the one who got us such good tickets for [[1994 Quidditch World Cup|the Cup]]. I did him a bit of a favor: His brother, Otto, got into a spot of trouble — a [[Lawn mower|lawnmower]] with unnatural powers — I smoothed the whole thing over.|[[Arthur Weasley]] on [[Ludovic Bagman|Ludo Bagman]]|Harry Potter and the Goblet of Fire}}'''Otto Bagman''' was a [[Wizardkind|wizard]] and brother of [[Ludovic Bagman|Ludo Bagman]]. He got into trouble with a [[magic]]al [[lawn mower|lawnmower]], a [[Non-magic people|Muggle]] artefact. [[Arthur Weasley]] helped him sort out the problem, and and as thanks, his brother Ludo provided the [[Weasley family]] with tickets to the [[1994]] [[Quidditch World Cup]] final.<ref>{{GOF|B|5}}</ref>
+
+==Etymology==
+"Otto" is a later German form of Audo or [[Odo]], originally a short form of various names beginning with the Germanic element od meaning "wealth, fortune".
+
+==Appearances==
+*{{GOF}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bagman, Otto}}
+
+{{de:Otto Bagman]]
+[[fr:Otto Verpey]]
+[[pl:Otto Bagman]]
+[[ru:Отто Бэгмен]]
+[[Category:Bagman family]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

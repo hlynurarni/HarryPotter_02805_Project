@@ -1,0 +1,51 @@
+{{School_infobox
+|name=Smeltings Academy
+|image=[[File:Smeltings logo.jpg|250px]]
+|bgcolor1=
+|motto=''Caveat Smeltonia'' (Let Smeltonia beware)
+|bgcolor2=
+|location=[[Great Britain]]
+|headmaster=
+|residents=
+}}{{Quote| ''Caveat Smeltonia''. Proudest moment of my life.|[[Vernon Dursley]] on Smeltings|Harry Potter and the Philosopher's Stone (film)}}
+'''Smeltings Academy''', sometimes referred to as '''Smeltings''', was a [[Non-magic people|Muggle]] [[Wikipedia:Private_school#United_Kingdom|public school]]<!-- Do not change to "private". What are called "private schools" in some countries are referred to as "independent schools" or "public schools" in the U.K. --> that [[Dudley Dursley]] and [[Piers Polkiss]] attended in the [[1990s]]. It was also the ''alma mater'' of Dudley's father, [[Vernon Dursley]],<ref name="PS3"/> who once remarked that he found the portions of food served at the school to be very filling, but his wife [[Petunia Dursley|Petunia]] disagreed.<ref name-"COS1">{{COS|B|1}}</ref>
+
+Its school motto seems to be ''Caveat Smeltonia'', which is Latin for "let Smeltonia beware".
+
+During the summer before [[Harry Potter]] began to attend Hogwarts, [[Dudley Dursley|Dudley]] was set to begin at Smeltings, while the [[Dursley family|Dursleys]] intended to send Harry to [[Stonewall High]] - the local state school.<ref name="PS3">{{PS|B|3}}</ref>
+
+==Uniform==
+[[File:Dudley.jpg|200px|thumb|right|[[Dudley Dursley]] in his Smeltings uniform]]
+The school's uniform consisted of a maroon tailcoat, orange [[Wikipedia:Knickerbockers|knickerbockers]], a straw [[boater]], and a [[Smelting stick|gnarled cane]] that students used to hit each other with when teachers had their eyes elsewhere. All this whacking with sticks was supposed to be greatly helpful in preparing students for the future.<ref name="PS3"/>
+
+==Location==
+In [[1995]], [[Dudley Dursley]] was described as the "Junior Heavyweight Inter-School Boxing Champion of the Southeast."<ref name="OOTP1">{{OOTP|B|1}}</ref> Accordingly, it is likely that Smeltings is located somewhere in the region of [[Wikipedia:South_East_England|South East England]].
+
+==Known students==
+*[[Vernon Dursley]]<ref name="PS3"/>
+*[[Dudley Dursley]]<ref name="PS3"/>
+*[[Piers Polkiss]]<ref name="PS3"/>
+
+==Known staff==
+*[[Smeltings nurse|Nurse]]<ref name="GOF3">{{GOF|B|3}}</ref>
+*[[Joyce Haddock]] (swimming examiner)<ref name="HPPS">{{HPPS}}</ref>
+
+==Etymology==
+Smelting is the process used to produce a metal from its ore. The name may be intended to suggest that its curriculum was centred on industrial skills.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{PS|F}} {{Mention}}
+*{{COS}} {{Mention}}
+*{{GOF}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Smeltings]]
+[[es:Colegio Smeltings]]
+[[fr:Smelting]]
+[[it:Accademia di Smeltings]]
+[[nl:Ballings]]
+[[pl:Smelting]]
+[[ru:Вонингс]]
+[[Category:Smeltings|Smeltings]]

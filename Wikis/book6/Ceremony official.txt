@@ -1,0 +1,54 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:CeremonyOfficial.png]]
+|name = Ceremony official
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Officiates ceremonies
+|house = 
+|loyalty = 
+}}
+An '''official''' who presided over ceremonies such as weddings and funerals, this [[Wizardkind|wizard]] was described as being small and tufty-haired, with a singsong voice.<ref name="DH8">{{DH|B|8}}</ref>
+
+==History==
+In the summer of [[1997]], he presided over the [[Funeral of Albus Dumbledore|funeral]] of [[Albus Dumbledore]] at [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP30">{{HBP|B|30}}</ref> and at the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[William Weasley|Bill Weasley]] and [[Fleur Delacour]] at [[the Burrow]].<ref name="DH8" /> Given his occupation, he may be an employee of the [[British Ministry of Magic|Ministry of Magic]].
+
+==Behind the scenes==
+*The uncredited role of "Wizard Priest"<ref>[http://www.imdb.com/name/nm4413907 Mick Fryer-Kelsey's profile on IMDb]</ref> was played by [[Mick Fryer-Kelsey]] in the [[Harry Potter and the Deathly Hallows: Part 1|first part of the film adaptation]] of {{DH}}. In his Twitter profile, Fryer-Kelsey clarified that he played the man that appears in "''the [[:File:DH-harry-potter-16204581-400-264.jpg|wedding picture of Luna and her father]]''" that featured in an [http://harrypotter.wikia.com/wiki/Wedding_of_William_Weasley_and_Fleur_Delacour?oldid=612088 old revision] of the [[Wedding of William Weasley and Fleur Delacour]] article here at the [[Main Page|Harry Potter Wiki]].<ref>[https://twitter.com/tramp666 mick fryer-kelsey (@tramp666)] on Twitter: [https://twitter.com/tramp666/status/119512732029562880 "the wedding picture of Luna and her father i'm the one int middle,"]</ref><ref>[https://twitter.com/tramp666 mick fryer-kelsey (@tramp666)] on Twitter: [https://twitter.com/tramp666/status/119508389175894017 "Photo in Wedding of William Weasley and Fleur Delacour on Harry Potter Wiki"]</ref>
+
+==Appearances==
+*{{HBP}} {{1st}}
+*{{DH}}
+*{{DH|F1}} {{Comment|Background appearance}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Maître de cérémonie]] 
+[[ru:Церемониальный служащий]]
+[[pl:Ceremoniarz]]
+[[Category:British individuals]]
+[[Category:Death of Albus Dumbledore]]
+[[Category:Males]]
+[[Category:Marriage]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

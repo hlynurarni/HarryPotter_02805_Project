@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = ravenclaw
+|image = [[File:Fawcett.jpg|250px]]
+|name = S. Fawcett
+|born = Between [[1 November]] [[1977]] and [[31 August]]  [[1981]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]]<ref name="gof16"/>
+|loyalty = *[[Fawcett family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]<ref name="gof16"/>
+}}'''S. Fawcett''' was a [[Wizardkind|witch]] and [[Ravenclaw]]<ref name="gof16">{{GOF|B|16}}</ref> student at [[Hogwarts School of Witchcraft and Wizardry]] during the [[1990s]]. She lived with her [[Fawcett family|family]] near [[Ottery St Catchpole]].<ref name="gof6">{{GOF|B|6}}</ref>
+
+==Biography==
+===[[1992–1993 school year]]===
+In [[1992]], she attended the [[Duelling Club]] set up by [[Gilderoy Lockhart]] and received a minor injury. She was probably paired up with another student and started [[duelling]] like everyone else.<ref name="COS11">{{COS|B|11}}</ref>
+
+===[[1994–1995 school year]]===
+In [[1994]], she did not attend the [[Quidditch World Cup]], because her family couldn't get tickets.<ref name="gof6" /> On [[Hallowe'en]], she attempted to place her name in the [[Goblet of Fire]] to participate in the [[Triwizard Tournament]] by using an [[Ageing Potion]]. Because of [[Albus Dumbledore]]'s [[Age Line]], however, she grew a long white beard instead.<ref name="gof16" /> Later, on Christmas Eve, Fawcett attended the [[Yule Ball]] with [[Stebbins (Potter-era)|Stebbins]], and both were docked ten [[House points|points]] by [[Severus Snape|Professor Snape]] when he caught them together in the rose garden.<ref name="gof23">{{GOF|B|23}}</ref> This suggests that she was a [[fourth year]] or above, as she was able to attend the Yule Ball, unless she was invited by Stebbins (just like [[Ginevra Weasley|Ginny Weasley]] was invited by [[Neville Longbottom]] as she didn't have the proper age to attend the Yule Ball at that time); but given that Fawcett and Stebbins were caught together in the rose garden, they might have met each other for a time; they might have been the same age and started attending Hogwarts the same year.
+
+Sometime during her time at the school, she borrowed the [[Hogwarts Library|library]] copy of {{QTA}}, and was due to return it on [[16 September]].<ref name="QTAR">{{QTA|R}}</ref>
+
+==Behind the scenes==
+*Fawcett was portrayed by [[Alex Argenti]] in {{GOF|FA}}, but her scenes were cut from the theatrical version, but appeared in a deleted scene on the DVD of the film. In the scene, she and [[Stebbins (Potter-era)|Stebbins]] are not caught by [[Severus Snape|Professor Snape]] in the rose bushes, but in a [[Hogwarts Carriages|Hogwarts carriage]] parked in the [[Viaduct Courtyard|Entrance Courtyard]].
+**However, in some television showings, this scene is in the actual film.
+*In the [[Great Britain|British]], [[Canada|Canadian]], [[Ukraine|Ukrainian]], Russian, Polish, and Danish editions of ''Harry Potter and the Goblet of Fire'', when Snape catches Fawcett with Stebbins in chapter 23, he says, "Ten points from [[Hufflepuff]], Fawcett! And ten points from [[Ravenclaw]], too, Stebbins!", although Fawcett is referred to as a Ravenclaw by [[Albus Dumbledore]] in chapter 16.<ref name="lexicon">"[https://www.hp-lexicon.org/character/fawcett-family/miss-s-fawcett/ S. Fawcett]" on The Harry Potter Lexicon</ref> The American edition of the novel amends this error, with Snape taking Fawcett's points from Ravenclaw, and Stebbins' from Hufflepuff.<ref name="lexicon" /> In the ''Goblet of Fire'' film, however, Snape makes a similar error where he refers to Fawcett as a Hufflepuff and Stebbins as a Ravenclaw. The only way it couldn't be a mistake is that Snape mentions the consequences of the partner's rule-breakings.
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{GOF}}
+*{{GOF|F}} {{Comment|Deleted scene}}
+*{{QTA|R}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Fawcett, S.}}
+[[de:Fawcett]]
+[[ru:С. Фосетт]]
+[[fr:J. Faucett]]
+[[pl:S. Fawcett]]
+[[sv:S. Fawcett]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Fawcett family]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

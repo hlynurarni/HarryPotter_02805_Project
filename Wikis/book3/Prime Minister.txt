@@ -1,0 +1,62 @@
+{{Real world subject}}
+{{Youmay|the title itself|[[British Prime Minister in 1996|Prime Minister in 1996]]}}
+{{Official post infobox
+|post=Prime Minister
+|flag=
+|flagsize=
+|flagborder=
+|flagcaption=
+|insignia=
+|insigniasize=
+|insigniacaption=
+|image=
+|imagesize=
+|alt=
+|office_holder=[[British Prime Minister in 1996|Prime Minister]]
+|incumbency=[[1996]]
+|institution=
+|incumbent=
+|style=
+|member_of=
+|reports_to=
+|seat=[[Prime Minister's office|10 Downing Street]]
+|nominator=
+|appointer=Monarch
+|appointer_qualified=
+|termlength=[[Wikipedia:At Her Majesty's pleasure|At Her Majesty's pleasure]], so long as general elections are no more than five years apart
+|termlength_qualified=
+|constituting_instrument=
+|precursor=
+|formation=[[4 April]], [[1721]]
+|first=[[Wikipedia:Robert Walpole|Sir Robert Walpole]]
+|last=
+|abolished=
+|deputy=
+}}
+The '''Prime Minister of the United Kingdom of Great Britain and Northern Ireland''', informally shortened to '''Prime Minister''', is an appointed [[Non-magic people|Muggle]] individual to serve as head of government of the [[Great Britain|United Kingdom]].
+
+The British Prime Minister was traditionally informed of the existence of the [[wizarding world]] on the night of their appointment and was occasionally visited by their wizard counterpart, the [[Minister for Magic]], over affairs that would have an impact on the Muggle world, such as the escape of [[Sirius Black]].<ref name="PA3">{{POA|B|3}}</ref> The Prime Minster was also later informed of the mass breakout from [[Azkaban]] and the return of [[Tom Riddle|Lord Voldemort]]. The secrecy of the wizarding world is maintained in that, in the event that the Prime Minister were to tell anyone of their meetings with the wizards, it is hardly likely that they would be believed.<ref>{{HBP|B|1}}</ref>
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{OOTP}} {{Mention}}
+*{{OOTP|F}} {{Mention}}
+*{{HBP}} {{1st}}
+*{{DH}} {{Mention}}
+*{{DH|F1}} {{Mention}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{QH}} {{Mention}}
+*{{HPV|CH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[de2:Premierminister]]
+[[es:Primer Ministro]]
+[[fr:Premier Ministre]]
+[[pl:Premier Wielkiej Brytanii]]
+[[pt-br:Primeiro-ministro]]
+[[ru:Премьер-министр маглов]]
+[[Category:Prime Ministers]]
+[[Category:Ranks and titles]]

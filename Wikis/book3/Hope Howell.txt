@@ -1,0 +1,76 @@
+{{Individual infobox
+|theme = muggle
+|image = [[File:HopeLupin.png|250px]]
+|name = Hope Lupin (née Howell)
+|born = [[1943]] or earlier<ref>In accordance with the Age of Marriage Act 1929, Hope had to be at least sixteen with parental consent to marry in 1959. The latest she could be born was 1943 if she did. If she didn't have consent, she was at least twenty-one years old. </ref>
+|died = Pre [[1981]]<ref name="PM">{{WW|remus-lupin}}</ref>
+|blood = [[Non-magic people|Muggle]]<ref name="PM"/>
+|marital = Married<ref name="PM"/>
+|nationality = [[Wales|Welsh]]<ref>{{WW|remus-lupin}} states she worked "in Cardiff", but doesn't confirm she was Welsh herself. However, she had a Welsh surname, so she was likely Welsh.</ref> {{c|possibly}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PM"/>
+|gender = Female<ref name="PM"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Lyall Lupin]] (husband) 
+*[[Remus Lupin]] (son) †
+*[[Nymphadora Tonks]] (daughter-in-law) †
+*[[Edward Lupin]] (grandson)
+|romances = 
+|animagus = 
+|boggart = A large, evil looking man<ref name="PM"/>
+|wand = 
+|patronus = 
+|job = Insurance office worker<ref name="PM"/>
+|house = 
+|loyalty = [[Lupin family]]<ref name="PM"/>
+}}
+'''Hope Lupin''' (née''' Howell''') (d. pre [[1982]]) was a beautiful [[Non-magic people|Muggle]] woman, the wife of [[Lyall Lupin]], mother of [[Remus Lupin|Remus John Lupin]] and the grandmother of [[Edward Lupin]]. She worked in an insurance office in [[Cardiff]] before meeting Lyall.<ref name="PM" />
+
+==Biography==
+Hope had a job in an insurance office in [[Cardiff]] by the late [[1950s]].<ref name="PM" />
+
+One day, she decided to take a walk through a dense forest, and stumbled upon a [[Boggart]], which took the form of a very large and vicious-looking man. [[Lyall Lupin]], a wizard, heard her frightened scream and rushed to her aid, turning the Boggart into a field mushroom with a wave of his wand. He escorted her home afterward to ensure her safety.<ref name="PM" />
+
+A few months later, Lyall confessed to Hope that the Boggart had never posed any real danger to her, but this did not diminish her fondness of him — the pair had fallen in love with each other by this point. When Lyall proposed marriage, Hope accepted, and eagerly dedicated herself to planning their nuptials. The wedding took place in early 1959, the cake featuring a [[Boggart]]-shaped topper, a whimsical touch on Hope's part. A year later, on [[10 March]], [[1960]], Hope and Lyall's first and only child, [[Remus Lupin|Remus John Lupin]], was born.<ref name="PM" />
+
+In early 1965, [[Fenrir Greyback]] attacked the Lupins' house, having been insulted by Lyall at the [[British Ministry of Magic|Ministry of Magic]] sometime prior. Her son was bitten and turned into a [[werewolf]], and despite her husband's many attempts to revert the transformation, there was no cure. Thus, they moved from village to village, moving when their neighbours began to take notice of their son's strange behaviour.<ref name="PM" />
+
+Along with her husband, Hope worried that her son would not be able to attend [[Hogwarts School of Witchcraft and Wizardry]], due to his [[werewolf|lycanthropy]], but [[Albus Dumbledore]] made a special provision for him.<ref name="poa18">{{POA|B|18}}</ref>
+
+During his years at Hogwarts, her son would say Hope was ill and he had to go and visit her, as an excuse for his monthly disappearances which were actually caused by lycanthropy.<ref name="poa18" /> In spite of Remus's elaborate lies, his friends, [[James Potter I|James Potter]], [[Sirius Black]], and [[Peter Pettigrew]] guessed the truth in their second year.<ref name="PM" /> However, as Hope had already died by the defeat of [[Tom Riddle|Lord Voldemort]] in [[1981]],<ref name="PM" /> there may have been some truth to Remus's words of her being "ill".
+
+==Personality and traits==
+She was noted to be a particularly imaginative and sensitive person. Her decision to crown her wedding cake with a [[Boggart]]-shaped [[Wikipedia:wedding cake topper|topper]] would seem to indicate that she had a whimsical, offbeat sense of humour, and her steadfast support of her son after he was bitten by a [[werewolf]] demonstrated resilience and tolerance.<ref name="PM" />
+
+==Physical appearance==
+Hope was described as very beautiful in her youth. In her middle age, she grew thin with worry and fear as her son's lycanthropy negatively affected his health and future as well as her and her husband's safety.<ref name="PM" /> She might have had light brown hair like her son.
+
+==Appearances==
+*{{POA}} {{1st mention}}
+*{{DH}} {{Mention}}
+*{{PM}} {{1stID}}
+*{{WW}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Howell, Hope}}
+
+[[de:Hope Howell]]
+[[es:Hope Howell]]
+[[fr:Espérance Howell]]
+[[pl:Hope Lupin]]
+[[ru:Хоуп Люпин]]
+[[Category:20th century deaths]]
+[[Category:Articles related to werewolves]]
+[[Category:Females]]
+[[Category:Howell family|Hope]]
+[[Category:Lupin family|Hope]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Welsh individuals]]

@@ -1,0 +1,126 @@
+{{Spoiler|WU|HM|PAS}}
+{{Youmay|the species in general|the [[Hogwarts Whomping Willow|specific one]] at [[Hogwarts School of Witchcraft and Wizardry]]}}
+{{Plant infobox
+|image = Whopming willowPS.jpg
+|name = Whomping Willow
+|alias = 
+|native = *[[Scotland]]<ref name="COS5">{{COS|B|5}}</ref>
+*[[Forest of Dean]]<ref name="DHVG1">{{DH|G1}}</ref>
+|environment = 
+|related = [[Willow]]
+|sentience = Sentient<ref name="COS5"/>
+|root = 
+|stem = Thick trunk<ref name="COS5"/>
+|leaves = Long and thin (deciduous plant)
+|flowers = 
+|fruits = 
+|food = 
+|distinction = *Capable of movement<ref name="COS5"/>
+*Violent, will attack anything that comes in close range with its branches<ref name="COS5"/>
+|usage = *Protection of a given location; offensive weapon<ref name="COS5"/>
+*[[Herbology]]<ref name="HM624h"/>
+|affiliation = 
+|status = Extant, very rare
+}}
+A '''Whomping Willow''' is a very valuable, very violent sentient species of [[magic]]al plant.<ref name="COS5">{{COS|B|5}}</ref>
+
+==Description==
+Whomping Willows will attack anyone and anything that comes within range of its branches. A deciduous plant, its limbs function as arms and any damage to them must be treated in much the same way.<ref name="COS5">{{COS|B|5}}</ref>
+
+==Known Whomping Willows==
+{{Main|Hogwarts Whomping Willow}}[[File:Hogwarts Whomping Willow GIF.gif|right|frame|The [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] Whomping Willow]]
+[[File:Whomping_willow.jpg|thumb|A plant pot containing a young Whomping Willow]]
+The most famous Whomping Willow is the [[Hogwarts Whomping Willow|one]] planted on the grounds of [[Hogwarts School of Witchcraft and Wizardry]].<ref name="COS5">{{COS|B|5}}</ref> The Whomping Willow was planted around the year [[1971]] to cover up the opening of a secret passage leading from the Hogwarts grounds to the [[Shrieking Shack]] in the village of [[Hogsmeade]].<ref name="POA10">{{POA|B|10}}</ref>
+
+It had a small knot near the base. Pressing the knot caused the tree to become immobilised.<ref name="POA17">{{POA|B|17}}</ref> This allowed [[Remus Lupin]] to travel unnoticed to and from the Shrieking Shack, where he was able to undergo his transformation into a [[Lycanthropy|werewolf]] in privacy. To access the tunnel, Lupin's friend [[Peter Pettigrew]] would transform into his rat [[animagus]] form, becoming small enough to easily avoid the willow's branches and press the knot.<ref name="POA18"/>
+
+The willow's movements afterwards prevented Lupin from leaving while in his feral state.<ref name="POA18">{{POA|B|18}}</ref>
+
+Students would challenge each other to get as close as possible to the tree's trunk until the tree nearly took the eye of student [[Davey Gudgeon]].<ref name="POA10"/>
+
+During the [[1989–1990 school year]], [[Professor]] [[Pomona Sprout]] taught her [[sixth year]] [[Herbology]] students about how to care for young Whomping Willows.<ref name="HM624h">{{HM|6|24|h}}</ref>
+
+==Behind the scenes==
+===Translations===
+*Albanian: ''Shelgu Godites'' ("Willow that hits")
+*Bulgarian: ''Плашещата върба {{c|Plasheshtata v"rba}}'' ("The frightful willow", "The willow that scares")
+*Catalan: ''Pi Cabaralla'' (''Pi'' "pine tree"; ''Picabaralla'' "fight" or "quarrel")
+*Chinese (PRC): ''打人柳 {{c|Da ren liu}}'' ("Willow that hits people")
+*Chinese (Taiwan): ''渾拚柳''
+*Croatian: ''Napadačka vrba'' (''napad'' "attack"; ''vrba'' "willow")
+*Czech: ''Vrba mlátička'' (''Vrba mlátivá'' in formal Czech) (Beating, more than whomping)
+*Danish: ''Slagpoppel'' (''slag'' "hit"; ''poppel'' "poplar")
+*Dutch: ''Beukwilg'' ("Batterwillow", though ''beuk'' is a pun as it can also be translated to ''beech'')
+*Estonian: ''Peksja Paju''
+*Faroese: ''Pílurin Armalangi''
+*Finnish: ''Tällipaju''
+*French: ''Saule Cogneur'' ("Knocker-Willow")
+*German: ''Peitschende Weide'' ("Whipping Willow")
+*Greek, Modern: ''Ιτιά Που Δέρνει'' (it was mistakenly translated as "''Ιτιά που Kλαίει''" ("the Willow that cries,") in the 7th book. The translator might have confused it with "''Μυρτιά που κλαίει''" ("Myrtle that cries," Moaning Myrtle)
+*Hebrew: ''הערבה המפליקה'' ("The Flicking Willow")
+*Hungarian: ''fúriafűz'' ("Fury Willow"; 'fury' as in the {{w|Furies}})
+*Icelandic: ''eikin armalanga''
+*Indonesian: ''Dedalu Perkasa''
+*Italian: ''Platano picchiatore'' ("Whomping plane tree")
+*Japanese: ''暴れ柳 {{c|Abare Yanagi}}'' (lit. "Violent Willow")
+*Norwegian: ''Prylepilen''
+*Latvian: ''Vālējošais vītols''
+*Polish: ''wierzba bijąca'' (pun on ''wierzba płacząca'' "weeping willow")
+*Portuguese: ''Salgueiro Zurzidor'' ("The willow that whips")
+*Portuguese (Brazil): ''Salgueiro Lutador'' ("Fighter willow")
+*Romanian: ''Salcia Bătăuşă'' ("The Fighter Willow")
+*Russian: ''Гремучая Ива''
+*Serbian: ''Млатарајућа Врба {{c|Mlatarajuća Vrba}}'' ("The thrashing Willow")
+*Slovak: ''Zúrivá vŕba''
+*Slovenian: ''Vrba Mesarica''
+*Spanish: ''El sauce boxeador'' ("The boxing willow")
+*Swedish: ''Piskande pilträdet'' ("Whipping willow")
+*Turkish: ''Şamarcı Söğüt''
+*Ukrainian: ''Войовнича Верба {{c|Voyovnycha Verba}}'' ("Bellicose Willow")
+*Vietnamese: ''(Cây) liễu roi'' ("Whip-willow")
+
+*Thai: ต้นวิลโลว์จอมหวด
+==Appearances==
+{{Imagecat|Images of the Whomping Willow}}
+[[File:WhompingWillowWU.png|thumb|A Whomping Willow as seen in {{WU}}]]
+[[File:PAS Whomping Willow.png|thumb|A Whomping Willow as seen in {{PAS}}]]
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{OOTP|G}} {{Comment|Game box only}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}} {{Flashback}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{LEGO|B}}
+*{{LEGO|Y1}}
+*{{HPFJ}}
+*{{TCG}}
+*{{PM}}
+*{{HPK}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*{{PAS}}
+*[[Harry Potter: The Wand Collection]] {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Herbology}}
+[[de:Peitschende Weide]]
+[[es:Sauce Boxeador]]
+[[fr:Saule cogneur]]
+[[it:Salice Schiaffeggiante]]
+[[nl:Beukwilg]]
+[[no:Prylepilen]]
+[[pl:Wierzba Bijąca]]
+[[ru:Гремучая ива]]
+[[Category:Folio Bruti entries]]
+[[Category:Foundables]]
+[[Category:Plants]]

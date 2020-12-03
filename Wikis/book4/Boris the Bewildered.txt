@@ -1,0 +1,59 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Boris the Bewildered.JPG|250px]]
+|name = Boris the Bewildered
+|born = 
+|died = Before [[1995]]<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2004 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals.</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Black
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Boris the Bewildered''' was a [[Wizardkind|wizard]] from an unknown time period. A statue of him stands on the fifth floor of [[Hogwarts Castle]], near the [[Prefects' bathroom]]. His statue featured a lost-looking wizard with his gloves on the wrong hands.<ref>{{GOF|B|25}}</ref> A portrait of Boris also hangs on [[Hogwarts School of Witchcraft and Wizardry|Hogwarts']] walls, guarding a secret passageway between the second floor corridor and the [[Third-floor corridor|third floor corridor]]. The password was ''Forget-Me-Never''.<ref>{{OOTP|G}}</ref>
+
+==Behind the scenes==
+*Boris died sometime prior to [[1995]], as portraits hung at [[Hogwarts Castle|Hogwarts]] depict deceased individuals.<ref name="DOD">[[J. K. Rowling]] stated at the Edinburgh Book Festival on 15 August 2014 ([http://www.accio-quote.org/articles/2004/0804-ebf.htm source]) that all portraits at [[Hogwarts School of Witchcraft and Wizardry]] are of deceased individuals.</ref>
+
+==Etymology==
+"Boris" is from the Turkic name ''Bogoris'', perhaps meaning "short" or "wolf".
+
+==Appearances==
+*{{GOF}} {{C|Appears as a statue}}
+*{{OOTP|G}} {{Portrait}}
+*{{HBP|G}} {{C|Appears as a statue}}
+*{{WWHP}} {{Portrait}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Hogwarts fifth floor}}
+
+[[de:Boris der Bekloppte]]
+[[es:Boris el Desconcertado]]
+[[fr:Boris le Hagard]]
+[[ru:Борис Бестолковый]]
+[[pl:Borys Szalony]]
+
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Portraits]]
+[[Category:Statues]]
+[[Category:Wizards]]

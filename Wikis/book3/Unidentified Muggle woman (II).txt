@@ -1,0 +1,41 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Unidentified Muggle woman (II)
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="POA7"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POA7"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POA7"/>
+|gender = Female<ref name="POA7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|It was a [[Non-magic people|Muggle]] who saw [[Sirius Black|him]]. 'Course, she didn't really understand. The Muggles think he's just an ordinary criminal, don't they? So she phoned the telephone hot line. By the time the [[British Ministry of Magic|Ministry of Magic]] got there, he was gone.|[[Seamus Finnigan]]|Harry Potter and the Prisoner of Azkaban}}
+This unidentified [[Non-magic people|Muggle]] '''woman''' was famous for having spotting [[Sirius Black]] in [[Dufftown]] in [[1993]]. She called the [[police]], but by the time the [[British Ministry of Magic|Ministry of Magic]] arrived, Black had already gone. She was mentioned in the ''[[Daily Prophet]]''.<ref name="POA7">{{POA|B|7}}</ref>
+
+==Appearances==
+*{{POA}} {{1st Mention}}
+*{{POA|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals|Muggle woman (II)]]
+[[Category:Females|Muggle woman (II)]]
+[[Category:Unidentified Muggles|Woman who spotted Sirius Black]]

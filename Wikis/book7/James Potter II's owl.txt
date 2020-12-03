@@ -1,0 +1,33 @@
+{{conjecture}}
+{{Imageless}}
+{{Pet individual infobox
+|image = 
+|name = James Potter II's owl
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = [[Owl]]<ref name="DHE"/>
+|gender = 
+|height = 
+|hair = 
+|feathers = Brown<ref name="DHF2">{{DH|F2}}</ref>
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[James Potter II]] (owner)<ref name="DHE"/>
+}}
+[[James Potter II|James Sirius Potter]] owned an '''[[owl]]'''. He took it to [[Hogwarts School of Witchcraft and Wizardry]] in [[2017]], his [[first year]] at the school.<ref name="DHE">{{DH|B|E}}</ref>
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F2}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Sowa Jamesa Pottera II]]
+[[pt-br:Coruja de Tiago S. Potter]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:James Potter II's possessions]]
+[[Category:Owls]]
+[[Category:Potter family pets]]

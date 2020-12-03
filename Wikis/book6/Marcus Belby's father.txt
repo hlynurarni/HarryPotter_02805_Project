@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Belby
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Marcus Belby]] (son)
+*[[Damocles Belby]] (brother)
+*[[Flavius Belby]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Ravenclaw]] (likely)<ref name="House">'''Horace Slughorn''': You'll be Gryffindor like her, I suppose? Yes, it usually goes in families. Not always, though. ({{HBP}} - Chapter 4)</ref>
+|loyalty = [[Belby family]]
+}}
+{{Quote|Er... he and my dad don't get on very well, you see, so I don't really know much about...|[[Marcus Belby|Marcus]] on [[Damocles Belby|Damocles]]|Harry Potter and the Half-Blood Prince}}
+'''Mr Belby''' (fl. [[1996]]) was a [[Wizardkind|wizard]] and the father of [[Marcus Belby]]. He did not get along with Marcus's uncle, [[Damocles Belby|Damocles]], as he did not believe brewing [[potion]]s a worthwhile pursuit,<ref name="Potions">'''Marcus Belby''': Him and Dad don't get on. Probably because me Dad says potions are rubbish. Says the only potion worth having is a stiff one at the end of the day. ({{HBP|F}})</ref> and, as such, the two men had little contact.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{HBP|F}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Belby, Marcus's father}}
+[[de:Mr Belby]]
+[[fr:Père de Marcus Belby]]
+[[pl:Pan Belby]]
+[[Category:Belby family]]
+[[Category:British individuals|Belby, Mr]]
+[[Category:Males|Belby, Mr]]
+[[Category:Parents]]
+[[Category:Unnamed family members‎]]
+[[Category:Wizards]]

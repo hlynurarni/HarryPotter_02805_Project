@@ -1,0 +1,42 @@
+{{Family infobox
+|image=Marlene McKinnon PM.png
+|name=McKinnon family
+|hideh=
+|blood=Wizarding family of unknown degree
+|family members=[[Marlene McKinnon]]
+|status=Possibly extinct
+|hider=hide
+|related=
+|hidea=
+|house=
+|loyalty=[[Order of the Phoenix]]
+}}
+{{Quote|No one ever lived after he decided ter kill 'em... he'd killed some o' the best witches an' wizards of the age — the McKinnons, the Bones, the Prewetts —|Voldemort killings of several wizarding families during the First Wizarding War|Harry Potter and the Philosopher's Stone}}
+'''McKinnon''' was the surname of a [[Wizardkind|wizarding]] family. It is unknown if they were [[pure-blood]] or had both [[magic]]al and [[Non-magic people|Muggle]] heritage.
+
+The McKinnons were slaughtered by [[Death Eaters]] at the height of the [[First Wizarding War]] in mid-[[1981]]<ref>{{DH|B|10}} - In her letter to Sirius Black, Lily Potter thanks him for his gift for Harry's first birthday and that she recently heards of the McKinnons' death, which must have been around this time.</ref>, as they were connected to the [[Order of the Phoenix]]<ref name="PS">{{PS|B|4}}</ref><ref>{{OOTP|B|9}}</ref>. According to [[Igor Karkaroff]], [[Travers]] was among those involved<ref name="GOF">{{GOF|B|30}}</ref>. The only known member of this family is the late [[Marlene McKinnon]] who was a member of the Order.
+
+When [[Lily J. Potter|Lily Potter]] heard of their deaths she cried all night.<ref>{{DH|B|10}}</ref>
+
+==Etymology==
+''McKinnon'' is a surname of Scottish origin, anglicised from the Gaelic ''Mac Fhionghuin'', which means "fair born" or "fair son", and can also be translated as "[[love]]".<ref>"[http://www.ancestry.com/facts/McKinnon-name-meaning.ashx McKinnon]" at [http://www.ancestry.com Ancestry.com]</ref>
+
+==Behind the scenes==
+*Other than the [[Potter family|Potters]] and the [[Longbottom family|Longbottoms]], Marlene McKinnon is the only former Order member mentioned in {{OOTP|FA}}.
+*The McKinnons were mentioned in [[Lily Evans's letter]]. She stated that [[Peter Pettigrew]] had looked sad when he visited, but she believed it was because of what happened to the McKinnons. The [[Potter family|Potters]] and the McKinnons were possibly good friends, as [[Lily J. Potter|Lily]] cried when she heard of their deaths.
+
+==Appearances==
+*{{PS}} {{Mention}}
+*{{GOF}} {{Mention}}
+*{{OOTP}} {{Mention}}
+*{{DH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Order of the Phoenix}}
+[[fr:Famille McKinnon]]
+[[pl:Rodzina McKinnon]]
+[[ru:МакКинноны]]
+[[Category:McKinnon family]]
+[[Category:Murder victims]]
+[[Category:Order of the Phoenix allies]]

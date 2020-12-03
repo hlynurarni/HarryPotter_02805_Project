@@ -1,0 +1,64 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Madam Chang
+|born = [[7 September]]<ref name="born">{{OOTP|B|14}} - "I only remembered five minutes ago, it’s my mum’s birthday.”"</ref>, pre [[1962]] {{c|most likely}}
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Madam]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Cho Chang's father|Mr Chang]] (husband)
+*[[Cho Chang]] (daughter)
+*[[Cho Chang's spouse|Child-in-law]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[British Ministry of Magic|Ministry of Magic]] employee<ref name="OOTPF"/>
+|house = [[Ravenclaw]]<ref>In Ch. 4 of ''Harry Potter and the Half-blood Prince'', Horace Slughorn states that family members are often Sorted into the same House. This may indicate that Cho's mum was Sorted into Ravenclaw, as her daughter Cho was. However, there are exceptions.</ref> {{c|possibly}}
+|loyalty = *[[British Ministry of Magic]]
+*[[Chang family]]
+}}
+'''[[Madam]] Chang''' (b. [[7 September]])<ref name="born"/> was a [[Great Britain|British]] [[Wizardkind|witch]],<ref name="OOTPF">{{OOTP|F}}</ref> employee of the [[British Ministry of Magic]], and the mother of [[Cho Chang]].
+
+==Biography==
+[[File:Katie Leung as Cho Chang (GoF-promo-06).jpg|202x202px|thumb|left|Madam Chang's daughter Cho]]
+Her birthday was [[7 September]].<ref name="born"/> Cho remembered this fact at the last minute in [[1995]] and rushed to the [[Owlery]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] to send her mother a gift.<ref name="OOTP14">{{OOTP|B|14}}</ref>
+
+Madam Chang (like her [[Cho Chang's father|husband]]) wanted her daughter to not get on [[Dolores Umbridge]]'s bad side in her [[sixth year]]. However, Cho went against their wishes and joined [[Dumbledore's Army]].<ref name="OOTP18">{{OOTP|B|18}}</ref> Umbridge later threatened to fire Madam Chang because of her daughter's involvement in the DA.<ref name="OOTPF"/>
+
+==Behind the scenes==
+*In {{OOTP|FA}}, [[Hermione Granger]] mentions that [[Dolores Umbridge]] is threatening to fire [[Cho Chang|Cho's]] mother from her job at the [[British Ministry of Magic|Ministry of Magic]], presumably because of Cho's involvement in [[Dumbledore's Army]]. This addition to the plot was likely made because [[Marietta Edgecombe]] and her [[Marietta Edgecombe's mother|mother]], a known Ministry employee, were cut from the script.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|F}} {{Mention}}
+*{{OOTP|G}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry employees of unknown Department}}
+
+[[es:Madre de Cho Chang]]
+[[fr:Mère de Cho Chang]]
+[[pl:Pani Chang]]
+[[Category:British individuals]]
+[[Category:Chang family]]
+[[Category:Females]]
+[[Category:Married individuals]]
+[[Category:Ministry of Magic employees]]
+[[Category:Parents]]
+[[Category:Unnamed family members|Chang]]
+[[Category:Wizards|Chang]]

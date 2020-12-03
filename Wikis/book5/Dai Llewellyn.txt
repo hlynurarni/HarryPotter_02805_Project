@@ -1,0 +1,62 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = 
+|name = Dai Llewellyn
+|born = 
+|died = Before [[1995]], <br/>[[Mykonos]], [[Greece]]
+|blood = 
+|marital = 
+|nationality = [[Wales|Welsh]]<ref>He played for the Caerphilly Catapults, which is a Welsh team</ref>
+|alias = "Dangerous" Dai
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Quidditch]] player for the [[Caerphilly Catapults]]
+|house = 
+|loyalty = [[Caerphilly Catapults]]
+}}
+"'''Dangerous'''" '''Dai Llewellyn''' was a very famous [[Wales|Welsh]] [[Wizardkind|wizard]] and [[Quidditch]] player for the [[Caerphilly Catapults]], and was noted for the risks he took during a match.<ref name="QTAR7">{{QTA|R|7}}</ref> 
+
+==Biography==
+He died when he was eaten by a [[Chimaera]] while on holiday in [[Mykonos]], [[Greece]]. His [[death]] resulted in a day of national mourning for all Welsh [[Wizardkind|witches and wizards]]. Llewellyn was honoured by the creation of the [[Dangerous Dai Commemorative Medal|Dangerous Dai Llewellyn Commemorative Medal]], and [[St Mungo's Hospital for Magical Maladies and Injuries]] named the [["Dangerous" Dai Llewellyn Ward for Serious Bites|Serious Bites ward]] after him. [[Kennilworthy Whisp]] wrote a biography of the player entitled ''[[He Flew Like a Madman]]''.<ref name="QTAR7">{{QTA|R|7}}</ref>
+
+==Etymology==
+[[Wikipedia:Dai Llewellyn|Dai Llewelyn]] was a Welsh socialite who died in 2009. 
+The name might be an allusion to actor [[Wikipedia:Desmond Llewelyn|Desmond Llewelyn]], who played the character "Q" in the [[Wikipedia:James Bond (film series)|''James Bond'' films]] from 1963 to 1999. The name "Dai" is derived from the old Celtic word ''dei'' meaning "to shine", but is also a commonly-used nickname in Wales as a familiar form of the name "David", so it's quite likely that this was 'Dangerous' Dai's real first name.
+
+==Appearances==
+*{{QTA|R}} {{1st}}
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Llewellyn, Dai}}
+
+[[de:Dai Llewellyn]]
+[[de2:Dai Llewellyn]]
+[[es:Dai Llewellyn]]
+[[et:Dai Llewellyn]]
+[[fr:Dai Llewellyn]]
+[[pl:Llewellyn Groźny]]
+[[pt-br:Daí Llewellyn]]
+[[ru:Дай Луэллин]]
+[[zh:戴伊·卢埃林]]
+[[Category:Deaths by creature]]
+[[Category:Males]]
+[[Category:Quidditch players]]
+[[Category:Welsh individuals]]
+[[Category:Wizards]]

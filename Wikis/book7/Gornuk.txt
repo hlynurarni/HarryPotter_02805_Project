@@ -1,0 +1,71 @@
+{{Individual infobox
+|theme = gringotts
+|image = Gornuk.jpeg
+|name = Gornuk
+|born = 
+|died = [[1998]]<ref name="DH22">{{DH|B|22}}</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = Black
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Gringotts Wizarding Bank|Gringotts]] employee (formerly)<ref name="DH14"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="DH14"/>
+}}
+'''Gornuk''' was a [[Goblin]] who worked at [[Gringotts Wizarding Bank|Gringotts]], but went on the run after [[Tom Riddle|Lord Voldemort]]'s [[Death Eaters]] took over the [[British Ministry of Magic|Ministry of Magic]]. He went into hiding after he was expected to work for [[Wizardkind|wizards]], and eventually hooked up with a small band of outcasts comprised of fellow Goblin [[Griphook]], and the [[Wizardkind|wizards]] [[Edward Tonks|Ted Tonks]], [[Dirk Cresswell]], and [[Dean Thomas]].<ref name="DH14"/> In [[1998]], the group was eventually caught by [[Snatchers]] led by [[Fenrir Greyback]]. Gornuk was killed with Dirk and Ted trying to resist capture.<ref name="DH22"/>
+
+==History==
+===Life at Gringotts===
+[[File:Gringotts_bank.jpg|250px|thumb|left|[[Gringotts Wizarding Bank|Gringotts]]]]
+Little is known about Gornuk's career at [[Gringotts Wizarding Bank|Gringotts]]. He worked alongside other [[goblin]]s, like [[Griphook]].
+
+===Ministry take-over===
+In [[1997]], [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]] took over the [[British Ministry of Magic|Ministry of Magic]]. Death Eaters and Voldemort's supporters started to meddle in the [[Gringotts Wizarding Bank|Bank]], much to the [[Goblin]] workers' discontent, who did not want to work for [[Wizardkind|wizards]]. Gornuk was amongst the rebellion, since he hated the prospect of living a life like a [[house-elf]]. Some [[goblin]]s escaped from the [[Gringotts Wizarding Bank|Bank]]; among them was Gornuk.<ref name="DH14"/>
+
+===Life on the Run===
+[[File:Dean_griphook_3.jpg|300px|thumb|Gornuk's fugitive mates, [[Dean Thomas]] and [[Griphook]]]]
+After escaping the [[Death Eaters]], Gornuk met up with [[Muggle-born]] wizards [[Edward Tonks|Ted Tonks]] and [[Dirk Cresswell]], and [[Dean Thomas]], who were on the run from the [[Muggle-Born Registration Commission]]. He also met his fellow escapee from [[Gringotts Wizarding Bank|Gringotts]], [[Griphook]]. At one of their campsites, [[Harry Potter]], [[Hermione Granger]] and [[Ronald Weasley|Ron Weasley]] overheard the group talking about everything going on in the open wizarding world.<ref name="DH14">{{DH|B|14}}</ref>
+
+===Death===
+Gornuk, [[Griphook]], [[Edward Tonks|Ted Tonks]], [[Dirk Cresswell]] and [[Dean Thomas]] were eventually caught by a group of [[Snatchers]]. They tried to escape, but failed; Gornuk was killed during the struggle, along with Ted and Dirk. [[Dean Thomas]] and [[Griphook]] were captured by the [[Snatchers]]. The death of Gornuk was announced on [[Potterwatch]] by [[Lee Jordan]].<ref name="DH22"/>
+
+==Behind the scenes==
+*Gornuk is mentioned on the radio in {{DH|F1}}; the radio announcer says two of his companions may have escaped capture after Gornuk was killed. The film, however, reports his death far sooner. It says that he died around the time of the murder of [[Mykew Gregorovitch]], not the arrest of [[Xenophilius Lovegood]]. Because Gornuk's conversation with his fellow fugitives (book only) happens after Gregorovitch is found by [[Tom Riddle|Voldemort]], this timing is not [[canon]].
+*Gornuk appears in the DS version of {{LEGO|Y2}} despite not appearing in the film.
+
+==Appearances==
+*{{DH}} {{1st}}
+*{{DH|F1}} {{Mention}}
+*{{DH|G1}} {{Mention}}
+*{{LEGO|Y2}} {{C|DS version}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Gornuk]]
+[[fr:Gornuk]]
+[[ru:Кровняк]]
+[[pl:Gornak]]
+[[Category:1998 deaths]]
+[[Category:Bankers]]
+[[Category:British individuals]]
+[[Category:Goblins]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Murder victims]]
+[[Category:Second Wizarding War casualties]]

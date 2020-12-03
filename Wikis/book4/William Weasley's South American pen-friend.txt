@@ -1,0 +1,54 @@
+{{HogwartsMysterySpoiler}}
+{{Conjecture}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Bill Weasley's pen-friend
+|hideb=
+|born=Before [[1980s]], [[South America]]
+|died=
+|blood=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="GOF7"/>
+|gender=Male<ref name="GOF7"/>
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=y
+|family=
+|hidem=y
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=
+|house=
+|loyalty=[[Castelobruxo]]<ref name="GOF7"/>
+}}
+{{Quote|Bill had a pen-friend at a school in Brazil once. He wanted Bill to go on a student exchange trip, but Mum and Dad couldn't afford it. So the pen-friend got all offended and sent him a cursed hat, it made his ears shrivel up.|[[Ronald Weasley|Ron Weasley]]|Harry Potter and the Goblet of Fire}}
+
+This '''individual''' was a [[Wizardkind|wizard]], who was a student that attended the [[wizarding school]] of [[Castelobruxo]] in [[Brazil]].<ref name="GOF7"/>
+
+At some point, he became pen-friends with [[William Weasley|Bill Weasley]], and their two families were invited to participate in a [[student exchange programme]]. Unfortunately, due to the [[Weasley family]]'s poor financial situation, Bill was unable to go. His pen-friend was extremely offended and sent Bill a [[curse]]d hat, which made his [[Ear-shrivelling Curse|ears shrivel up]].<ref name="GOF7">{{GOF|B|7}}</ref>
+
+==Behind the scenes==
+*In the German and Brazilian translations, this individual is a girl.
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{HM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[fr:Correspondant de Bill Weasley]]
+[[zh:比尔·韦斯莱的巴西笔友]]
+[[ru:Бразильский друг Билла Уизли]]
+[[Category:20th century births]]
+[[Category:Castelobruxo students]]
+[[Category:Males]]
+[[Category:South American individuals]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,94 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Millicent Bagnold
+|born = Before [[1963]]<ref name="birth">Bagnold had to be of age (17) at the time of her accession to the office of Minister, which was in 1980.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Minister for Magic]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Minister for Magic]] ([[1980]] - [[1990]])<ref>{{WW|ministers-for-magic}}</ref>
+|house = [[Ravenclaw]]<ref name="pottermore">{{PM}} introduction for Ravenclaws (transcription available [http://lady-slytherin-forever.tumblr.com/post/9001220525/ravenclaw-spoilers-stop-reading-if-you-dont-want-to here])</ref>
+|loyalty = *[[British Ministry of Magic]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Ravenclaw]]
+}}
+{{Quote|I assert our inalienable right to party.|Minister Milicent Bagnold defending [[Wizardkind|wizard]]s outwardly [[Fall of Lord Voldemort celebrations|celebrating]] the fall of [[Tom Riddle|Lord Voldemort]] and risking exposure of the [[wizarding world]]|Pottermore}}
+'''Minister Millicent Bagnold''' was a [[Great Britain|British]] [[Wizardkind|witch]] who served as the [[Great Britain|British]] [[Minister for Magic]] from [[1980]] to [[1990]].<ref name="wombat">Sixth question of the Third [[Wizards' Ordinary Magic and Basic Aptitude Test|W.O.M.B.A.T.]] at {{JKRS}}</ref> Her tenure is most remembered for taking place during [[Tom Riddle|Lord Voldemort]]'s first downfall, in [[1981]].<ref name="wombat" /><ref name="pottermore" />
+
+==Biography==
+===Early life===
+Bagnold was born in or prior to [[1963]],<ref name="birth" /> somewhere in the [[Great Britain|British Isles]]. In her youth, she attended [[Hogwarts School of Witchcraft and Wizardry]], where she was [[Sorting ceremony|Sorted]] into [[Ravenclaw]].<ref name="pottermore" />
+
+===As Minister for Magic===
+{{Quote|Famous Ravenclaw Ministers for Magic include Millicent Bagnold, who was in power on the night that Harry Potter survived the Dark Lord's curse, and defended the wizarding celebrations all over Britain with the words, 'I assert our inalienable right to party'.|[[Robert Hilliard]].|Pottermore}}
+In [[1980]], at the height of the [[First Wizarding War]], Bagnold rose to the position of [[Minister for Magic]] of [[Great Britain]].<ref name="wombat" /> [[Bartemius Crouch Senior|Bartemius Crouch Snr]] was Head of the [[Department of Magical Law Enforcement]] during Ms. Bagnold's term.<ref name="GF27">{{GOF|B|27}}</ref>
+
+She was in power when, on the evening of [[31 October|October 31]], [[1981]], [[Tom Riddle|Lord Voldemort]] led an [[Attack at Godric's Hollow (1981)|attack]] in [[Godric's Hollow]] that resulted in the murders of [[James Potter I|James]] and [[Lily J. Potter|Lily Potter]], the destruction of [[Tom Riddle|Voldemort]]'s corporeal body, as well as the inadvertent creation of a [[Horcrux]], [[Harry Potter]]. The night that followed turned out to be the major upheaval of Bagnold's term in office since [[wizardkind|wizards]] up and down the country started [[Fall of Lord Voldemort celebrations|celebrating Voldemort's downfall]] and the end of the [[First Wizarding War]] in what became "a night of large-scale breaches of the [[International Statute of Wizarding Secrecy|International Wizarding Statute of Secrecy]]"<ref name="wombat" /><ref name="PS1">{{PS|B|1}}</ref> Bagnold defended these celebrations by famously stating that she asserted the wizards' "inalienable right to party."<ref name="pottermore" />
+
+[[File:Wizengamot.jpg|300px|thumb|right|The [[Death Eaters|Death Eater]] trials before the [[Council of Magical Law]]]]
+It was also during her term in office that [[Death Eaters]] [[Igor Karkaroff]], [[Rodolphus Lestrange|Rodolphus]], [[Rabastan Lestrange|Rabastan]], [[Bellatrix Lestrange]], as well as [[Bartemius Crouch Junior|Bartemius Crouch Jnr]] were rounded up and tried before the [[Council of Magical Law]] and sent to [[Azkaban]].<ref name="GF30">{{GOF|B|30}}</ref> [[Sirius Black]] was falsely accused to be one of Voldemort's supporters and one of those responsible for the murders of [[James Potter I|James]] and [[Lily J. Potter|Lily Potter]] and was sent to [[Azkaban]] without a trial.<ref name="GF27" />
+
+After Bagnold's retirement in [[1990]], it was unclear who would succeed her. In the early [[1980s]], [[Bartemius Crouch Senior|Bartemius Crouch Snr]] was very likely to succeed Bagnold, but his popularity was tarnished after the scandal in which he sent [[Bartemius Crouch Junior|his own son]] to [[Azkaban]].<ref name="GF27" /> [[Albus Dumbledore]] also had a lot of popular support to be her successor, but he never expressed any desire to take the Minister's job, so [[Cornelius Fudge]] took the post instead.<ref name="PS5">{{PS|B|5}}</ref><ref name="OP5">{{OOTP|B|5}}</ref>
+
+On [[1 September|September 1]], [[1991]], [[Prefect]] [[Robert Hilliard]] welcomed the [[Ravenclaw]] [[first year]]s to [[Ravenclaw Tower]] with a short speech in which he mentioned former Minister Millicent Bagnold as one of the many notable Hogwarts students who had been [[Sorting ceremony|Sorted]], like them, into Ravenclaw.<ref name="pottermore" />
+
+==Behind the scenes==
+*Bagnold's term in office was almost the same as [[Non-magic people|Muggle]] [[Prime Minister]] {{Wplink|Margaret Thatcher}}'s ([[1979]]-[[1990]]).
+*She shares the same first name and last initial as [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Slytherin]] student [[Millicent Bulstrode]].
+
+==Etymology==
+*The name "Millicent" is from the Germanic name ''Amalasuintha'', composed of the elements ''amal'' "work, labour" and ''swinþ'' "strength".
+*Her last name is probably derived from the English author and playwright [[Wikipedia:Enid Bagnold|Enid Bagnold]].
+
+==Appearances==
+*{{PS}} {{1st mention}}
+*{{GOF}} {{Mention}}
+*{{OOTP}} {{Mention}}
+*{{JKRS}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Bagnold, Millicent}}
+
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Harold Minchum]]
+|position=[[Minister for Magic]]
+|years=[[1980]]—[[1990]]
+|successor=[[Cornelius Fudge]]
+}}
+{{End box}}
+{{Minister for Magic}}
+
+[[de:Millicent Bagnold]]
+[[de2:Millicent Bagnold]]
+[[es:Millicent Bagnold]]
+[[fr:Millicent Bagnold]]
+[[pl:Milicenta Bagnold]]
+[[pt-br:Millicent Bagnold]]
+[[ru:Миллисента Багнолд]]
+[[zh:米里森·巴格诺]]
+[[Category:British Ministers for Magic]]
+[[Category:Females]]
+[[Category:Ravenclaws]]
+[[Category:Wizards]]

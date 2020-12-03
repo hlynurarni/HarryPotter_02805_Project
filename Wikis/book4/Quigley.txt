@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Irish National Quidditch team.jpg|250px]]
+|name = Quigley
+|born = before [[1977]], [[Ireland]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Ireland|Irish]]
+|alias = 
+|title = [[Beater]]
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = [[Finbar Quigley]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Beater]] for the [[Irish National Quidditch team]]
+|house = 
+|loyalty = [[Irish National Quidditch team]]
+}}
+'''Quigley''' was an [[Ireland|Irish]] [[Wizardkind|wizard]] who played as the [[Beater]] for the [[Irish National Quidditch team]] during the [[1994]] [[Quidditch World Cup]]. He played in the final against [[Bulgarian National Quidditch team|Bulgaria]] in which he struck a [[Bludger]] towards Bulgaria's [[Viktor Krum]], breaking the [[Seeker]]'s nose. His side won and he and Troy lifted the Quidditch World Cup aloft in the stadium's [[Top Box]].<ref>{{GOF|B|8}}</ref>
+
+==Behind the scenes==
+*It is possible that this Beater is [[Finbar Quigley]], who plays for the Ballycastle Bats, as they share the same last name and Ballycastle could refer to either the small town in [[Northern Ireland]] or the village in the Republic of [[Ireland]]. If so, it is likely that he plays Beater for the [[Ballycastle Bats]].
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+
+[[es:Quigley]]
+[[fr:Quigley]]
+[[pl:Quigley]]
+[[ru:Куигли]]
+[[zh:奎格利]]
+[[Category:Beaters]]
+[[Category:Irish individuals]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,46 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Florence
+|born = [[1950s]] - [[1960s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Florence''' was a [[Wizardkind|witch]] and student at [[Hogwarts School of Witchcraft and Wizardry]] at the same time as [[Bertha Jorkins]]. Bertha once caught Florence kissing a [[Florence's boyfriend|boy]] behind the [[Hogwarts Castle|Hogwarts greenhouses]].<ref name="GOF30">{{GOF|B|30}}</ref>
+
+==Etymology==
+[[Wikipedia:Florence Nightingale|Florence Nightingale]] was a [[Great Britain|British]] nurse who helped heal soldiers in the [[Wikipedia:Crimean War|Crimean War]]. [[Wikipedia:Florence|Florence]] is also the English name for a city in [[Wikipedia:Italy|Italy]].
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Florence]]
+[[fr:Florence]]
+[[pl:Florence]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:Hogwarts students during the Marauders' era]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

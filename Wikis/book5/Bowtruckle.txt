@@ -1,0 +1,112 @@
+{{Spoiler|WU|HM}}
+{{Creature infobox
+|image = Bowtruckle.png
+|name = 
+|skin = Green
+|eyes = Brown
+|hair = 
+|feathers = 
+|related = 
+|native = *Western [[England]]
+*Southern [[Germany]]
+*[[Scandinavia]]
+|alias = 
+|height = 8 inches
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = Resemble trees
+|affiliation = Its Home Tree
+|class = [[Beast]]<br/>[[XX]]
+|status = Extant
+}}
+{{Quote|The Bowtruckle, which eats insects, is a peaceable and intensely shy creature but if the tree in which it lives is threatened, it has been known to leap down upon the woodcutter or tree-surgeon attempting to harm its home and gouge at their eyes with its long, sharp fingers. An offering of woodlice will placate the Bowtruckle long enough to let a witch or wizard remove wand-wood from its tree.|[[Newton Scamander|Newt Scamander]], {{FB}}|Fantastic Beasts and Where to Find Them (real)}}
+The '''Bowtruckle''' was a hand-sized, insect-eating, tree dwelling [[magic]]al [[beast]] with long sharp fingers (two on each hand), brown eyes, and a general appearance of a flat-faced stick figure made of bark and twigs, which served well as camouflage in its natural habitat.<ref name="FB">{{FB|R}}</ref> They were immensely difficult to spot.
+
+==Description==
+The Bowtruckle could be found in western [[England]], southern [[Germany]], and certain [[Scandinavia]]n forests. A Bowtruckle served as a tree guardian for its home tree, which was usually a tree whose [[wand wood|wood]] was of [[wand]] quality<ref name="OOTP" /> (such as a [[Wiggentree]]).<ref>{{FBC|3}}</ref> The twig-like fingers were well adapted for digging out wood lice in trees and can also be used as a weapon against a foe when aimed at the eyes.
+
+A group of Bowtruckles was called a branch.<ref>[https://www.youtube.com/watch?v=Fe1Jv5wW4kM Fantastic Beasts and Where to Find Them Extended Featurette - Behind the Magic]</ref>
+
+It was generally a peaceful creature, but it may attempt to gouge out an attacker's eyes if anything threatened its tree or itself, and is adept at dodging most types of [[charm]]s.<ref>{{POA|G}}</ref> In order to take leaves or wood from a Bowtruckle's tree one would have to offer it [[Wood louse|wood lice]] or [[fairy]] [[egg]]s as a distraction.<ref name="FB" />
+
+==History==
+[[File:Bowtruckle2.png|250px|thumb|A bowtruckle in a Care of Magical Creatures lesson during the 1987–1988 school year]]
+
+[[Hogwarts School of Witchcraft and Wizardry]] had a [[Bowtruckle Island]] at the [[Great Lake]]. [[Newton Scamander]] used to go to it when he attended Hogwarts, and gained the trust of the Bowtruckles. In between February and June [[1913]], he took [[Leta Lestrange]] in an effort to cheer her up.<ref name="COG">{{COG|S|70}}</ref>
+
+[[Newton Scamander|Newt Scamander]] kept a branch of Bowtruckles in [[Newton Scamander's suitcase|his suitcase]] by [[December]] [[1926]].<ref name="FBS">{{FB|S}}</ref>
+
+During the [[1987–1988 school year]], Bowtruckles were studied by [[fourth year]] [[Care of Magical Creatures]] students at [[Hogwarts School of Witchcraft and Wizardry]], taught by Professor [[Silvanus Kettleburn]], who described them to be slipperier than [[Frog Spawn Soap]].<ref>{{HM|4|3|cmc}}</ref> One of the Bowtruckles was named by [[Jacob's sibling]], and was named either [[Jacob (Hogwarts student)|Jacob]], [[Barnaby Lee|Barnaby]] Junior or [[Newton Scamander|Newt]], after a person of the same name.<ref>{{HM|4|4}}</ref>
+
+Bowtruckles were studied by [[fifth year]] Care of Magical Creatures students at Hogwarts during [[1995–1996 school year]], taught by substitute Professor [[Wilhelmina Grubbly-Plank]].<ref name="OOTP">{{OOTP|B|13}}</ref>
+
+In the [[21st century]], a branch of bowtruckles was unleashed as a [[Confoundable]] by the [[Calamity]] and had to be dealt with by the [[Statute of Secrecy Task Force]] and returned to the [[Black Forest]] in Germany.<ref name="WU">{{WU}}</ref>
+
+==Etymology==
+The word "bow" was an old Scottish dialect means "dwelling," and "truckle" means "limb of tree" in old English dialect. This means "to take a subordinate position."
+
+==Behind the scenes==
+*It is unknown why Bowtruckles are classified as harmless given their aggression when their home tree or themselves are threatened.
+*The Bowtruckle's use in lock-picking may be inspired by the rashnovik plant, a magical herb in Slavic mythology said to be able to unlock or uncover anything that is locked or closed regardless of size, material, or key. They were notoriously difficult or even impossible to find and identify, and could only be found by chthonic animals like snakes, tortoises, or hedgehogs.
+[[File:Bowtruckle-0.JPG|200px|thumb|Bowtruckle, as seen in the PC version of {{COS|G}}]]
+*In the [[Harry Potter and the Chamber of Secrets (PC, Mac)|PC version of ''Chamber of Secrets'']], Bowtruckles appear as enemies, whose offensive consists of throwing pieces of wood. Harry can cast [[Severing Charm|Diffindo]] at them to defeat them, which earns him a piece of [[Wiggentree bark]], one of the two ingredients in the [[Wiggenweld Potion]]. Unfortunately, due to the absence of enemies dropping [[Flobberworm Mucus]] upon defeat, this does tend to offset the player's balance of ingredients rather heavily.
+**The pieces of wood thrown by them to hurt the player is actually Wiggentree bark.
+**They are also much larger and evil-looking in this appearance.
+*In the [[Harry Potter and the Goblet of Fire (GBA)|GBA version of ''Goblet of Fire'']], they appear as enemies. When a player goes near a tree they live in, they can throw pieces of wood at him or her. To defeat them, the player has to cast the [[Confundus Charm]] at them.
+*In {{LEGO|Y1}}, Bowtruckles help build wooden ladders in the Forbidden Forest.
+*In {{DH|F1}}, [[Rubeus Hagrid]] commented to [[Harry Potter]] that ''"I brought you here sixteen years ago when you were no bigger than a bowtruckle."''
+*At Comic-Con 2016, [[Eddie Redmayne]] chose a Bowtruckle Newt Scamander calls "[[Pickett]]" as his favourite beast in {{FB|FHF}}.<ref>[https://www.facebook.com/fantasticbeastsmovie/videos/1148429778548846 Facebook live chat]</ref>
+
+==Appearances==
+{{Imagecat|Images of Bowtruckles}}[[File:Bowtruckle.gif|200px|thumb|Bowtruckle Card]]
+[[File:BowtrucklesWU.png|thumb|Bowtruckles as seen in {{WU}}]]
+*{{PS|G}}
+*{{COS|G}} {{C|GBC and PC versions only}}
+*{{POA|G}} {{FWC}}
+*{{GOF|G}} {{C|GBA version only}}
+*{{OOTP}}
+*{{OOTP|G}} {{Mention}} {{C|[[Exploding Snap]] [[Famous Witches and Wizards Cards|Famous Wizards Card]]}}
+*{{HBP}} {{Mention}}
+*{{DH|F1}} {{Mention}}
+*{{FB|R}} {{1st}}
+*{{FB|S}}
+*{{FB|F}}
+*{{COG|S}}
+*{{COG}}<ref>[http://ew.com/movies/2017/12/13/fantastic-beasts-crimes-grindelwald-niffler/ ''Fantastic Beasts'' star reveals which creatures return in sequel] on EW.com</ref>
+*{{FBC}}
+*{{TBB|R}} {{Mention}}
+*{{LEGO|Y1}}
+*{{LEGO|D}}
+*{{HM}}
+*{{AM}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Care of Magical Creatures}}
+{{Creatures by classification}}
+{{Chocolate Frog Cards}}
+
+[[de:Bowtruckle]]
+[[de2:Bowtruckle]]
+[[es:Bowtruckle]]
+[[fi:Bowtruckle]]
+[[fr:Botruc]]
+[[it:Bowtruckle]]
+[[ja:ボウトラックル]]
+[[nl:Boomtrul]]
+[[no:Tretryting]]
+[[pl:Nieśmiałek]]
+[[pt-br:Tronquilho]]
+[[ru:Лукотрус]]
+[[sv:Bowtruckle]]
+[[zh:护树罗锅]]
+[[Category:Beast Chocolate Frog Cards]]
+[[Category:Bowtruckles|Bowtruckles]]
+[[Category:Care of Magical Creatures]]
+[[Category:Creatures from England]]
+[[Category:Creatures from Germany]]
+[[Category:Creatures from Scandinavia]]
+[[Category:Folio Bruti entries]]
+[[Category:Foundables]]

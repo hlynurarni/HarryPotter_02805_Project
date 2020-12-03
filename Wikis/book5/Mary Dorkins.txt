@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Mary Dorkins
+|born = before [[1977]] (most likely)
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="OOTP1"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP1"/>
+|gender = Female<ref name="OOTP1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Ragmar Dorkins]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Television reporter<ref name="OOTP1"/>
+|house = 
+|loyalty = 
+}}
+'''Mary Dorkins''' was a [[Non-magic people|Muggle]] television news reporter who worked for the [[seven o'clock news]]. She investigated the story of a [[water]]-skiing [[Wikipedia:Budgerigar|budgerigar]] named [[Bungy]] reported on [[2 August]] [[1995]].<ref name="OOTP1">{{OOTP|B|1}}</ref>
+
+==Etymology==
+The name "Mary" is the usual English form of Maria, which was the Latin form of the New Testament Greek names Μαριαμ (Mariam) and Μαρια (Maria) - the spellings are interchangeable - which were from the Hebrew name מִרְיָם (Miryam). The meaning is not known for certain, but there are several theories including "sea of bitterness", "rebelliousness", and "wished for child". However it was most likely originally an Egyptian name, perhaps derived in part from mry "beloved" or mr "love".
+
+==Behind the scenes==
+*Mary may be related to wizard [[Ragmar Dorkins]].
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dorkins, Mary}}
+[[de:Mary Dorkins]]
+[[pl:Mary Dorkins]]
+[[ru:Мэри Доркинс]]
+[[fr:Mary Dorkins]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Journalists]]
+[[Category:Muggles]]

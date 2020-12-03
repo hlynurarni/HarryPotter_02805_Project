@@ -1,0 +1,104 @@
+{{Spoiler|WU|HM}}
+{{Creature infobox
+|image = Niffler FBCFTWW.png
+|name = Niffler
+|skin = 
+|eyes = 
+|hair = Black
+|feathers = 
+|related = 
+|native = [[Great Britain]]
+|alias = 
+|height = 
+|length = 
+|wingspan = 
+|mortality = Mortal
+|distinction = *Rodent-like
+*Long snout
+*Gentle disposition
+*Attracted to shiny objects and metals
+*Skilled at hunting for treasure
+*Can wreck indoor environments
+|affiliation = 
+|class = [[Beast]]<br/>[[XXX]]
+|status = Extant
+}}
+{{Quote|Long-snouted, burrowing creatures native to Britain with a penchant for anything shiny.|Description of a Niffler|Pottermore}}
+
+The '''Niffler''' was a [[magic]]al [[beast]] with a long snout and a coat of black, fluffy fur.<ref name="fb-real"/> They were attracted to shiny things, which made them wonderful for locating treasure, but that also meant that they could wreak havoc if kept (or set loose) indoors.<ref name="fb-real"/> Nifflers in general are usually harmless.
+
+Students at [[Hogwarts School of Witchcraft and Wizardry]] learnt about Nifflers in [[Care of Magical Creatures]] class, an elective that could be chosen in the [[third year]] of their education.
+
+Nifflers were assigned to [[Curse-Breaker]]s by the [[Head Goblin (title)|Gringotts Head Goblin]] to burrow underground in search of treasures hidden in [[curse]]d sites.
+
+==Description==
+Nifflers were rodent-like [[creature]]s with a long snout similar to that of a platypus and a coat of black, fluffy fur.<ref name="fb-real">{{FB|R}}</ref> Native to [[Great Britain|Britain]], they lived in burrows as deep as twenty feet below ground, and females produced six to eight young in a single litter.<ref name="fb-real"/>
+
+[[File:Niffler_gold.gif|235px|thumb|A Niffler's pouch can hold numerous items]]
+Nifflers had a pouch on their bellies which held far more than at first seemed possible, like the effects of an [[Extension Charm|Undetectable Extension Charm]] on a container.<ref name="EW2016-08-12">[http://www.ew.com/gallery/fantastic-beasts-creature-gallery/2707918_fantastic-beasts-and-where-find-them-niffler "'Fantastic Beasts': Meet the Creatures"] at [http://www.ew.com/ Entertainment Weekly]</ref>
+
+Nifflers were gentle by nature and could even be affectionate towards their owners.<ref name="fb-real"/> However, they could destroy belongings looking for sparkly objects, and for that reason it was inadvisable to keep them as a house pet.<ref name="fb-real"/> It was also implied that they could turn vicious if provoked, as the second Niffler released into Dolores Umbridge's office apparently tried to take a chunk out of her leg.<ref name="OOTP30"/>
+
+==History==
+Nifflers were kept by [[Goblin]]s to burrow for treasure.<ref name="fb-real"/>
+
+[[File:Baby nifflers.jpg|160x160px|left|Baby Nifflers owned by Newt Scamander]]
+[[File:BabyNifflerWU.png|thumb|A baby Niffler]]
+[[File:AlbinoNiffler.png|thumb|An Albino Niffler]]
+[[Newton Scamander|Newt Scamander]] owned a [[Newton Scamander's niffler|niffler]], which escaped twice from his [[Newton Scamander's suitcase|suitcase]] during his visit to [[New York]] in [[1926]] and tried to rob both the [[Steen National Bank]] and a jewel shop of numerous valuables.<ref name="FBS">{{FB|S}}</ref> In [[1927]], the same niffler produced four offspring each in a different colour.<ref>https://www.pottermore.com/news/introducing-the-baby-nifflers-in-fantastic-beasts-the-crimes-of-grindelwald</ref>
+
+[[Silvanus Kettleburn]] was known to keep 12 of them, even when they had wrecked his house, boat and his favourite prosthetic leg.<ref name="HM">{{HM}}</ref>
+
+Jacob's sibling could keep one in the Magical Creature Reserve, and borrowed [[Patricia Rakepick|Madam Rakepick's]] [[Sickleworth|niffler]] to help with finding the third Cursed Vault. Her niffler was known to be very well behaved.<ref name="HM"/>
+
+[[Merula Snyde]] enlarged one using the [[Engorgement Charm]], making it more dangerous.<ref>{{HM|4|Magical Creatures Everywhere|3}}</ref>
+
+During the [[1994–1995 school year]], [[Rubeus Hagrid]] used them as part of the [[Fourth year]]s [[Care of Magical Creatures]] class. Prior to class he hid [[Leprechaun gold]] in the earth in front of his hut. He paired each student with a Niffler and promised a prize to whoever found the most gold. [[Ronald Weasley|Ron Weasley]] asked [[Rubeus Hagrid]] if they could buy these Nifflers as pets, and with knowledge, Hagrid said his mum wouldn't want one because they wreck houses, but this was not a definitive "no". This means there is a very good chance that wizards could purchase Nifflers. When Hagrid caught [[Gregory Goyle]] pocketing the gold, he explained that trying to steal it was pointless, as Leprechaun gold was worthless because it disappeared after a few hours. Ron's Niffler found the most gold, so Hagrid rewarded him with an extremely large slab of [[chocolate]] from [[Honeydukes]].<ref name="GOF28">{{GOF|B|28}}</ref>
+
+[[File:NifflerWU.png|thumb|A Niffler with gold in its pouch]]
+During [[Dolores Umbridge]]'s tenure as Headmistress of [[Hogwarts School of Witchcraft and Wizardry]], [[Lee Jordan]] used the [[Levitation Charm]] to levitate two Nifflers through her office window to wreck the office. Umbridge blamed Hagrid for it, and that did not help him in the least during her [[Hogwarts High Inquisitor]] inspections.<ref name="OOTP30">{{OOTP|B|30}}</ref><ref name="OOTP31">{{OOTP|B|31}}</ref>
+
+Nifflers were among the threats to the [[International Statute of Wizarding Secrecy|Statute of Secrecy]] that the [[International Confederation of Wizards]] had to deal with in the [[2010s]].<ref>https://twitter.com/HPWizardsUnite/status/1095351826864586753</ref>
+
+==Behind the scenes==
+*Newt Scamander wrote in his book that Nifflers were black-haired. In {{COG}}, the hair baby Nifflers are shown with other colours, suggesting that other colours were rare or that Niffler hair darkens when they age.
+
+==Appearances==
+{{Imagecat|Images of Nifflers}}[[File:NifflerPOP.jpg|thumb|A Niffler as a [[POP! Vinyl]]]]
+*{{GOF}} {{1st}}
+*{{OOTP}}
+*{{FB|R}}
+*{{FB|S}}
+*{{FB|F}}
+*{{COG|S}}
+*{{COG}}
+*{{AM}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO|D}}
+*{{LEGO}}
+*{{WBS}}
+*{{HM}}
+*{{WU}}
+
+==Media==
+[[File:What is a Niffler?|600px|center]]
+
+==Notes and references==
+{{Reflist}}
+{{Care of Magical Creatures}}
+{{Creatures by classification}}
+
+[[es:Escarbato]]
+[[de:Niffler]]
+[[fr:Niffleur]]
+[[pl:Niuchacz]]
+[[ru:Нюхлер]]
+[[no:Småtler]]
+[[pt-br:Pelúcio]]
+[[ja:ニフラー]]
+[[sv:Nifflare]]
+[[Category:Care of Magical Creatures]]
+[[Category:Creatures from Great Britain]]
+[[Category:Foundables]]
+[[Category:Nifflers]]

@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Prime Minister's political opponent
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Politician
+|house = 
+|loyalty = 
+}}
+{{Quote|A grim mood has gripped the country.|Prime Minister's political opponent.|Harry Potter and the Half-Blood Prince}}
+This '''individual''' was a [[Non-magic people|Muggle]] politician who, in the summer of [[1996]], appeared on the news not only to enumerate all the dreadful calamities that had then struck the country (the collapse of the [[Brockdale Bridge]], the nasty and well-publicised murders of [[Amelia Bones]] and [[Emmeline Vance]] and the "freak hurricane" in the West Country), but also to explain why every one of them was the government's fault (they weren't spending enough funding on bridges, there was a lack of police officers against the murders, and the government somehow foresaw the hurricane).<ref name="HBP1">{{HBP|B|1}}</ref> He was running for the position of [[Prime Minister (title)|Prime Minister of the United Kingdom]] against [[British Prime Minister in 1996|current prime minister]], who was visited by then-[[Minister for Magic]] [[Cornelius Fudge]] and subsequent Minister [[Rufus Scrimgeour]], who attempted to explain to the leader of the [[Non-magic people|Muggle]] community what was truly going on.
+
+In fact, all of those incidents were a result of [[Tom Riddle|Lord Voldemort]]'s [[Return of Lord Voldemort|rise to power]]; the [[Brockdale Bridge]] having been snapped in two by [[Death Eaters]]; [[Amelia Bones]] and [[Emmeline Vance]] having been murdered because of their connections to the [[British Ministry of Magic|Ministry of Magic]] and the [[Order of the Phoenix]], respectively; and the "freak hurricane" having been caused by [[Giant]]s.<ref name="HBP1"/>
+
+==Behind the scenes==
+*This political opponent of the Prime Minister's is never named in the series, and may be intended to be a fictional character. Since the [[Harry Potter series|''Harry Potter'' series]] is set mostly in the 1990s the most likely real-life candidate would be [[wikipedia:Tony Blair|Tony Blair]], the Leader of the Opposition from 1994 to 1997.
+
+==Appearances==
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Oponente político del Primer Ministro]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Males]]
+[[Category:Politicians]]
+[[Category:Unidentified Muggles‎]]

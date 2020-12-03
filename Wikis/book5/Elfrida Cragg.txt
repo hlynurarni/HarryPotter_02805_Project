@@ -1,0 +1,52 @@
+{{Youmay|a witch whose portrait hung at the Headquarters of the Ministry of Magic|[[Elfrida Clagg|the once-Chieftainess of the Wizards' Council]]}}
+{{Individual infobox
+|theme = portrait
+|image = 
+|name = Elfrida Cragg
+|born = 
+|died = Before [[1995]]<ref>[http://www.accio-quote.org/articles/2004/0804-ebf.htm J.K. Rowling at the Edinburgh Book Festival (15 August, 2004)]</ref>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Muldoon Cragg]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[British Ministry of Magic]]
+}}
+'''Elfrida Cragg''' was a [[Wizardkind|witch]], whose [[Portrait]] hung at the Headquarters of the [[British Ministry of Magic]]. In [[1995]], [[Everard]] went into her portrait to find out what happened to [[Arthur Weasley]] following the attack on him by [[Nagini]].
+
+==Etymology==
+The name "Elfrida" is from the Old English name ''Ælfþryð'', meaning "elf strength" from the element ''ælf'' combined with ''þryð'', "strength". ''Ælfþryð'' was a 10th-century queen of England. This name was rare after the Norman conquest, but it was revived in the 19th century.
+
+==Behind the scenes==
+*Elfrida Cragg is possibly a misspelling of [[Elfrida Clagg]]. This is likely, as Clagg was a celebrated Chieftainess of the [[Wizards' Council]], the organisation that preceded the Ministry of Magic in [[Great Britain|Britain]].
+
+==Appearances==
+*{{OOTP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Cragg, Elfrida}}
+[[de:Elfrida Cragg]]
+[[fr:Elfrida Cragg]]
+[[pl:Elfrida Cragg]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Historical figures|Cragg]]
+[[Category:Portraits]]
+[[Category:Wizards]]

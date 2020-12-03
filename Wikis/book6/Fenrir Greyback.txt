@@ -1,0 +1,243 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = snatcher
+|image = <tabber>
+|-|Human Form=[[File:Fenrir Greyback.png|thumb]]
+|-|Werewolf Form=[[File:FenrirGreyback werewolf.jpg|250px]]
+</tabber>
+|name = Fenrir Greyback
+|born = Pre [[1945]]
+|died = <!-- DO NOT put that Greyback died in the Battle of Hogwarts. That event, as depicted in the film, contradicts the novel. -->
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PM"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Werewolf]]<ref name="HBP">{{HBP}}</ref> {{c|formerly [[Human]]}}
+|gender = Male<ref name="HBP"/>
+|height = 
+|weight = 
+|hair = Grey<ref name="HBP"/>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Fenrir Greyback's wand|Unknown length, wood and core]]
+|patronus = <!-- Up for discussion on talk page.-->
+|job = 
+|house = 
+|loyalty = *[[Tom Riddle|Lord Voldemort]]
+**[[Death Eaters]]<ref name="HBP"/> {{c|unofficially}}
+*[[Snatchers]]<ref name="DH"/>
+*[[Werewolf army]]<ref name="HBP"/>
+}}
+{{Quote|Fenrir Greyback is, perhaps, the most savage werewolf alive today. He regards it as his mission in life to bite and to conta­minate as many people as possible; he wants to create enough were­wolves to overcome the wizards. Voldemort has promised him prey in return for his services. Greyback specialises in children... Bite them young, he says, and raise them away from their parents, raise them to hate normal wizards.|Description of Greyback's savagery and bloodlust|Harry Potter and the Half-Blood Prince}}
+'''Fenrir Greyback''' (fl. [[1945]] – [[1998]]) was a [[werewolf]] notorious for his savagery and preference for attacking children. He was a leader in his community and strived to infect as many people as possible with [[lycanthropy]], hoping to build an army strong enough to eventually take over the [[Wizarding world|wizarding community]]. It was he who infected [[Remus Lupin]] with [[lycanthropy]] when Remus's father ([[Lyall Lupin]]) insulted werewolves and said "''they deserve nothing less than death.''"
+
+During the [[Second Wizarding War]], Greyback and the pack of werewolves he led allied themselves with [[Tom Riddle|Lord Voldemort]], though they were not considered [[Death Eaters]] as they did not have the Dark Mark. Greyback fought in the [[Battle of the Astronomy Tower]], during which he expressed an eagerness to bite the children of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] and left [[William Weasley|Bill Weasley]] badly scarred,<ref name="HBP" /> and later that year led a gang of [[Snatchers]] when Voldemort was in control of the [[British Ministry of Magic|Ministry of Magic]].<ref name="DH">{{DH}}</ref> Greyback fought in the [[Battle of Hogwarts]], where he at one point attacked  [[Lavender Brown]], but was incapacitated by Hermione and then a crystal ball to the head by [[Sybill Trelawney|Professor Trelawney]]. During the second part of the battle, where both sides faced-off in the Great Hall, he was defeated by [[Ronald Weasley|Ron Weasley]] and [[Neville Longbottom]].<ref name="DH" /> 
+
+It is likely that after the final battle of the [[Second Wizarding War]] Greyback was either killed or imprisoned in [[Azkaban]] for life as punishment for the crimes he committed against wizardkind.
+
+==Biography==
+===Early life===
+At some point in his early life, Fenrir was bitten by a [[werewolf]] and infected with [[lycanthropy]]. Throughout most of his life, his only goal was to infect as many people as possible in order to create enough werewolves to dominate the [[wizarding world]]. Greyback would often purposefully place himself in close proximity with his victims before a full moon to ensure he would attack them after his [[transformation]].
+
+===First Wizarding War===
+{{Quote|Lyall, you just stick to Welsh Boggarts, that's what you're good at.|Members of the [[Department for the Regulation and Control of Magical Creatures]] questioning commitee foolishly mocking Lyall Lupin after he voices his suspicion that Greyback is a werewolf|Pottermore}}
+
+[[File:Fenrir Greyback.PNG|240x240px|thumb|left|Greyback acting as a weapon for Lord Voldemort and his Death Eaters]]
+By the mid-1960s, the amount of Dark magical activity across the country was growing steadily. While few knew what was behind it all, this was a precursor to [[Tom Riddle|Lord Voldemort]]'s first rise to power. The [[Death Eaters]] were recruiting Dark creatures to help them overthrow the [[British Ministry of Magic|Ministry of Magic]],<ref name="PM">{{WW|remus-lupin}}</ref> and among them was Fenrir Greyback, who did not join the Death Eaters because he believed in Voldemort's cause, but because allying himself with them would give him greater access to potential victims.<ref name="HBP" /> Although considered to be a Death Eater by the enemies of the Dark Lord, Greyback was not given the [[Dark Mark]] on his forearm.<ref name="DH" /> Nor was he ever accepted as a Death Eater by those belonging to Voldemort's innermost circle of followers, as Voldemort was prejudiced against his [[lycanthropy]]; despite Greyback‘s services to their cause: Greyback was used as a weapon by Voldemort, who would often use the notorious werewolf to intimidate people to do his bidding, threatening to send Greyback after their children.<ref name="HBP" />
+It was  around 1965, after one such attack that resulted in the deaths of two [[Non-magic people|Muggle]] children, that Greyback was brought in for questioning before the [[British Ministry of Magic|Ministry of Magic]]. Due to the inadequacy and ill-maintenance of the [[Werewolf Registry]], the Ministry did not know Greyback to be a werewolf, and he pretended to be a Muggle tramp who was amazed at finding himself in a room full of wizards and horrified at the talk about the dead children.<ref name="PM" />
+
+[[File:FenrirGreyback.jpg|250px|thumb|Greyback doing Voldemort's dirty work in exchange for victims]]
+
+His filthy clothing and lack of wand managed to convince most of the questioning committee, although [[Lyall Lupin]], an authority on Non-Human Spiritous Apparitions that was among them, recognised certain telltale signs in Greyback's appearance that made him suggest that Greyback should be kept in detention until the next full moon, which was, coincidentally, one day away. The ignorant and foolish committee members thought it unnecessary, and Greyback started taunting Lupin, who grew angry and described werewolves as "''soulless, evil, deserving of nothing but death''".<ref name="PM" />
+
+Lupin was ordered out of the room, the head of the committee apologised to Greyback, and the werewolf was released. Before the wizard who was escorting him out of the inquiry could cast a [[Memory Charm]] on the "Muggle tramp" so that he would forget having been at the Ministry, Greyback overpowered him and fled with three other werewolf accomplices. As soon as he escaped, he started planning his revenge on the wizard who said he deserved nothing but death.<ref name="PM" />
+
+Shortly before [[Remus Lupin]], Lyall Lupin's son, turned five, he was attacked by Greyback. As the little boy slept peacefully in his bed, Greyback forced open his window and bit him. Lyall reached the bedroom in time to save his son and to drive the werewolf out of the house using a number of powerful curses. The deed, however, was done, and Remus Lupin became a full-fledged werewolf from that point on.<ref name="PM" />
+
+As the wizarding war waged on and grew ever more fierce, so did Greyback, who eventually became so known for his savage villainy that the Ministry of Magic produced a wanted poster of him.
+
+After Voldemort was presumed dead in 1981 after his confrontation with the [[Potter family|Potters]] at [[Godric's Hollow]], Greyback was one of the Dark Lord's numerous followers who believed him to have been killed and therefore did not make any attempt to find him.<ref name="HBP" />
+
+===Between the wars===
+With the Dark Lord gone, and with him, the false promises of granting werewolves a place of high honour and privilege in the regime he intended to establish following his victory in the war,  the notorious [[Werewolf|Lycanthrope]] continued to attack witches and wizards on his own initiative, especially children. During this time, he had many run-ins with the [[Werewolf Capture Unit]] from the Ministry's [[Department for the Regulation and Control of Magical Creatures]], and while they would manage to capture him on several occasions, they could never hold him for very long before he escaped and was at large once again. One of the werewolf hunters from the Ministry he would frequently be confronted by was a wizard named [[Cecil Lee]]. 
+
+[[File:GreybackAttack.png|250px|thumb|left|Greyback and [[Werewolf army|his pack]] [[Fenrir Greyback's attack on Hogwarts|attack Hogwarts School]]]]
+On [[31 October]] [[1984]], Greyback and his [[Werewolf army|army]] [[Fenrir Greyback's attack on Hogwarts|attacked Hogwarts]]. [[Chiara Lobosca]], a student whom Greyback had previously infected with Lycanthropy, spotted Greyback and two werewolves emerging from the [[Forbidden Forest]]. She tried to attack them (while in human form), but was easily defeated.
+
+Shortly afterwards, Greyback and his two werewolf companions encountered [[Jacob's sibling]], who defiantly stood up to them and briefly held off one of the two werewolves with their spells.
+
+Before Grayback could better coordinate the assault on and hence overwhelm the young pupil, however, he caught the scent of [[Albus Dumbledore]] and made a hasty retreat, who arrived just too late to capture him. The headmaster briefly examined the injured student on the ground and instructed the other one to return to their dormitory while he attended to Chiara, explaining that he would contact the Ministry of Magic and ask them to send an expert from the [[Werewolf Capture Unit]] to help to stop Greyback.<ref name="HM">{{HM|1|Hallowe'en Feast}}</ref>
+
+[[File:Fenrir Greyback Werewolf Form Hogwarts Mystery.jpg|250px|thumb|right|Greyback, in his werewolf form, ready to attack [[Jacob's sibling]]]]
+The next full moon, Greyback and his army attacked Hogwarts again. This time, they encountered Jacob's sibling and [[Cecil Lee]], whom the Ministry had sent on Dumbledore's behest. During the confrontation, Cecil tried to use the [[Homorphus Charm]] on Greyback's werewolf companions, but, as he was out of range, it failed. While Cecil was surrounded by the two other werewolves, Greyback transformed. Chiara, in werewolf form, arrives and attacked Fenrir in an attempt to protect Jacob's sibling, but the larger and much stronger werewolf easily knocked her unconscious. After this, Jacob's sibling successfully held him at bay by some swift-spell-casting. Having fended off the two werewolves attacking him, who had retreated to Grayback's side, Cecil swiftly stepped forward and conjured ropes from the end of his wand to restrain the pack leader. Having captured the three werewolves, Cecil agreed not to capture Chiara due to her heroic actions.<ref name="HM">{{HM|1|Hallowe'en Feast}}</ref>
+
+Not long afterwards, Greyback had already managed to escape from the Werewolf Capture Unit, though Mr Lee was confident that enough members of his pack had been rounded up to force him to keep his head low for a while.<ref name="HM">{{HM|1|Hallowe'en Feast}}</ref>
+
+===Second Wizarding War===
+{{Quote|Oh no — not Ollivanders, everybody got their first wands from here.|Hermione Granger discovering [[Ollivanders]] abandoned|Harry Potter and the Half-Blood Prince (film)}}
+[[File:Fenrir greyback.jpg|220x220px|thumb|Greyback and Death Eaters kidnapping Ollivander]]
+With Voldemort's return in [[1995]],<ref name="GOF">{{GOF}}</ref> he began to gather his old forces to renew his war on the wizarding world. Greyback returned to Voldemort's side.<ref name="HBP" /> In [[July]] of [[1996]], shortly after the [[Battle of the Department of Mysteries]], Greyback and several [[Death Eaters]] raided [[Diagon Alley]], kidnapping the [[wandmaker]] [[Garrick Ollivander]]. He was also among a group of Death Eaters that destroyed the [[Millennium Bridge]], in London.<ref name="HBP-film">{{HBP|F}}</ref>
+
+[[File:Fenrir_Greyback_wanted_poster.jpg|160px|thumb|left|Fenrir Greyback featured on a 'WANTED' poster]]
+
+Greyback continued in his role as Voldemort's enforcer and terror weapon. When Voldemort charged [[Draco Malfoy]] with the murder of [[Albus Dumbledore]], Malfoy invoked Greyback's name as a threat to ensure [[Borgin|Mr Borgin]]'s cooperation with the scheme to transport Death Eaters inside the grounds of [[Hogwarts School of Witchcraft and Wizardry]] via the use of a paired set of [[Vanishing Cabinet]]s. Later, April of 1997, Greyback attacked the five-year-old son of [[Montgomery sisters' mother|Mrs Montgomery]] when she refused to cooperate with the Death Eaters. The boy later died from his injuries.<ref name="HBP" /> At some point Greyback started to kill and eat his victims while in human form.
+
+====Battle of the Astronomy Tower====
+{{Dialogue a-b-a|Dumbledore|Is it you, Fenrir?|Greyback|Yes. Pleased to see me, Albus?|No, I cannot say that I am... Am I to take it that you are attacking even without the full moon now? This is most unusual... You have developed a taste for human flesh that cannot be satisfied once a month?|Greyback displays cannibalistic tendencies |Harry Potter and the Half-Blood Prince}}
+
+[[File:Death_Eater_victory.jpg|240x240px|thumb|Greyback and Death Eaters on the [[Astronomy Tower]] shortly after [[Albus Dumbledore|Dumbledore]]'s death]]
+
+Greyback, along with several [[Death Eaters]], invaded Hogwarts on 30 June, 1997, cornering Albus Dumbledore atop the [[Astronomy Tower]], much to Draco Malfoy's shock and Dumbledore's disgust. He mockingly asked Dumbledore if he was pleased to see him, to which Dumbledore replied that he was not. Dumbledore was rather disgusted to discover that Greyback was cannibalistic and attacked people in his human form. He was among those who urged Draco Malfoy to kill the Headmaster and attempted to take over the job himself, before [[Severus Snape]] stepped in.<ref name="HBP" /> During the subsequent battle against members of the [[Order of the Phoenix]] and [[Dumbledore's Army]], Greyback assaulted [[William Weasley|Bill Weasley]], scarring his face. Fortunately for Bill, Greyback was not in his wolf form when he attacked, therefore he would not be a true werewolf, but only have some "wolfish" behaviour. Greyback also tried to bite [[Harry Potter]] during the battle, but Harry retaliated with a [[Full Body-Bind Curse]], temporarily paralysing him.<ref name="HBP" />
+
+Greyback was most likely captured following the battle along with [[Corban Yaxley]] and the other incapacitated Death Eaters. He was presumably sent to [[Azkaban]], though he would escape about a month later.
+
+====As a Snatcher====
+
+{{Quote|A Weasley? So you're related to blood traitors even if you're not a Mudblood. And lastly, your pretty little friend... I'm not going to bite just yet. We'll see if she's a bit quicker at remembering her name than Barny. Who are you, girly?|Greyback interrogating Ron and Hermione|Harry Potter and the Deathly Hallows}}
+
+Months later, after the [[Fall of the Ministry of Magic|fall]] of the [[British Ministry of Magic|Ministry of Magic]], Greyback became a primary leader in the [[Snatchers]] organisation, and led a group of them around the countryside scouring for fugitive [[Muggle-born]]s, [[blood traitor]]s, and truants who had escaped persecution. It was Greyback's group that tracked down a fugitive group comprised of [[Dirk Cresswell]], [[Edward Tonks|Ted Tonks]], [[Dean Thomas]], and goblins [[Griphook]] and [[Gornuk]]. Dean and Griphook were captured, while Dirk, Ted, and Gornuk were murdered while resisting capture.<ref name="DH" />
+
+[[File:Greyback_harry_captured.jpg|240x240px|thumb|left|Greyback holding [[Harry Potter]] hostage]]
+
+In [[March]] of 1998, Greyback and his gang captured Harry Potter, [[Hermione Granger]], and [[Ronald Weasley|Ron Weasley]] after they triggered the [[Taboo]] on Voldemort's name. After working through and nearly falling for the lies the three teens gave, Greyback and his gang brought them to [[Malfoy Manor]], where [[Lucius Malfoy|Lucius]], [[Narcissa Malfoy|Narcissa]], and [[Draco Malfoy]] — as well as [[Bellatrix Lestrange]] — were residing. Greyback hoped to receive the two hundred thousand [[Galleon]] reward for capturing Potter (along with what he thought was the phoenix wand), and was also eager to bite Hermione.<ref name="DH" />
+
+[[File:Fenrir_neck.jpg|245x245px|thumb|Fenrir snared by [[Bellatrix Lestrange]]'s conjured whip]]
+
+However, Bellatrix spotted [[Godric Gryffindor's Sword]] among the captives' possessions and became frantic, as she had believed it to be in her vault in [[Gringotts Wizarding Bank|Gringotts]]. When the Snatchers protested her taking it, she single-handedly defeated all four of them, much to Greyback's irritation. The Snatchers and Death Eaters were ultimately thwarted with the help of [[Dobby]], the Malfoys' old [[house-elf]], and Harry and the other captives all escaped. Dobby was unfortunately killed in the process by Bellatrix Lestrange's dagger.<ref name="DH" /> He was presumably punished by Voldemort along with Bellatrix and the Malfoys for Harry's escape.
+
+====[[Battle of Hogwarts]]====
+
+{{Quote|Two bodies fell from the balcony overhead.  As they reached the ground a grey blur that Harry took for an animal sped four-legged across the hall to sink its teeth into one of the fallen. "NO!" shrieked Hermione, and with a deafening blast from her wand, Fenrir Greyback was thrown backward from the feebly struggling body of Lavender Brown. He hit the marble bannisters and struggled to return to his feet. Then, with a bright white flash and a crack, a crystal ball fell on top of his head, and he crumpled to the ground and did not move.|Greyback savages Lavender Brown during the final battle|Harry Potter and the Deathly Hallows}}<!-- DO NOT put that Greyback died in the Battle of Hogwarts. That event, as depicted in the film, contradicts the novel. -->
+
+[[File:Tumblr m3f7mtfdjZ1qgt0vro6 250.gif|229x229px|thumb|left|Greyback savaging and killing [[Lavender Brown]] during the first stage of the Battle of Hogwarts]]
+Fenrir Greyback was present at the Battle of Hogwarts, where he was repelled by [[Hermione Granger]] while attacking and fatally wounding Lavender Brown. He hit the marble staircase bannister and attempted to return to his feet, but before he could, he was struck on the head by a crystal ball from [[Sybill Trelawney]]. Later, he was present when Voldemort attempted to kill Harry Potter in the [[Forbidden Forest]]. In the continuation of the battle, he was "brought down" by [[Ronald Weasley|Ron Weasley]] and [[Neville Longbottom]] in the Great Hall.
+
+===Post-war===
+It is unclear whether Greyback survived the [[Battle of Hogwarts]]. If he did, he was most likely sent to [[Azkaban]] for his association with the [[Death Eaters]] and for his crimes during the [[Second Wizarding War]], under [[Kingsley Shacklebolt]]'s de-corrupted [[British Ministry of Magic|Ministry of Magic]].
+
+==Physical appearance==
+Fenrir was a large, vicious-looking man with matted grey hair and whiskers. He had pointed teeth and long yellowish nails, adding to his [[Beast|bestial]] appearance.<ref name="DH"/> When he wore Death Eater robes, they were noted to look "uncomfortably tight".<ref name="HBP"/> He did not have the [[Dark Mark]] branded onto his arm, despite his very close association with the [[Death Eaters]], as he was a werewolf.
+
+==Personality and traits==
+{{Quote|Reckon she'll let me have a bit of the girl when she's finished with her? I'd say I'll get a bite or two, wouldn't you, ginger?|Greyback to [[Ronald Weasley|Ron Weasley]] regarding Hermione Granger|Harry Potter and the Deathly Hallows}}
+
+Fenrir, having forsaken his humanity long ago, was driven by his animal hedonism. He enjoyed attacking people, particularly children, and took pleasure in his brutality. At some point he became [https://en.wikipedia.org/wiki/Human_cannibalism cannibalistic], greatly enhancing his notoriety.<ref name="HBP" /> During his capture of [[Hermione Granger]], his threats to her had both cannibalistic and sexual overtones.<ref name="DH" /> Greyback was also greedy, as he kept arguing with the [[Malfoy family]] about who would claim the bounties and glory of catching [[Harry Potter]].<ref name="DH" /> Despite his savagery, he did display fear towards those more powerful than him, as shown when he backed away cowed when Snape arrived to kill [[Albus Dumbledore|Dumbledore]],<ref name="HBP"/> or when he was too wary to approach Bellatrix after she brought him to his knees violently. He was well aware of the lack of respect he received from the Death Eaters, and that the Ministry would have claimed all the glory had they brought Harry Potter to them instead of directly to Voldemort.<ref name="DH"/>
+
+[[File:Savage FenrirGreyback PM.jpg|227x227px|thumb|left|Greyback at the height of his brutality and savagery]]
+
+Unlike most werewolves, Greyback took both pleasure in and advantage of his abilities and savagery when transformed, and stationed himself near his targets. He enjoyed attacking them and specialised in biting children, hoping to infect them and raise them to hate humanity, though sometimes killing them when going overboard. Despite his ideology of thinking werewolves deserve blood, and his attempt to recruit more werewolves for his cause, Greyback would ultimately seem to be just a primal savage who enjoyed killing. Greyback's savagery was what differed him from most other werewolves: while most of them bit and infected unintentionally during only their transformed state, Greyback actually went as far as eat and kill purposely whether in his human or werewolf form. Greyback was feared more than most werewolves due to his brutality, even Dumbledore was shocked that Draco Malfoy allowed Greyback to enter Hogwarts, and was slightly disgusted after learning about Greyback's cannibalism.<ref name="HBP"/>
+
+Being a werewolf and therefore not subscribing to the Death Eaters' views on racial superiority, Greyback was not branded with the [[Dark Mark]], despite being invited into the ranks of the [[Death Eaters]] and permitted to wear their robes.<ref name="DH" /> This may have been because Lord Voldemort was prejudiced against Werewolves as well as Muggles and Muggle-borns. Therefore he would not allow Greyback to become an actual Death Eater, yet he was too valuable of an accomplice not to have in his ranks. Greyback showed clear resentment at the lack of respect he received but sided with the Death Eaters because of the amount of victims he would have access to. Most Death Eaters seemed to regard him with disgust, with Yaxley throwing a [[curse]] at him in the Astronomy Tower for attacking without permission and Bellatrix Lestrange forcing him to his knees before her in Malfoy Manor. The revulsion that the other Death Eaters felt towards Greyback was likely because of his lycanthropy as well as his implied sexual perversions. Despite his resentment and mistreatment, he usually only mildly protested about the Death Eater's behaviour towards him, possibly out of fear for their power and what they would do to him if he stopped cooperating with them. Indeed, it is very likely that if Voldemort had won the Second Wizarding War, he would have tossed Fenrir aside once he was no longer useful, because Voldemort detested werewolves.<ref name="DH"/> Fenrir has also proven he had a low tolerance for insults and holds grudges, as he took vengeance on [[Lyall Lupin]] for an offensive remark by attacking [[Remus Lupin|his son]].<ref name="PM" />
+
+==Magical abilities and skills==
+*'''[[Duelling]]''': Greyback was skilful in [[martial magic]], and was a very capable duellist. As a Snatcher, he was tasked with the hunting, capturing and even murdering of [[Muggle-born]]s which he did combatively. He duelled against [[Harry Potter]] and [[Ronald Weasley|Ron Weasley]] at the [[Skirmish at Malfoy Manor]] by firing offensive [[spell]]s at them. It took the combined efforts of [[Ronald Weasley|Ron Weasley]] and [[Neville Longbottom]] to defeat him during the [[Battle of Hogwarts]], showing his skill as a duellist.<ref name="DH"/> Greyback also captured and killed many witches and wizards during his time as a Snatcher.<ref name="HBPf17">{{HBP|F}} - Chapter 17</ref> Despite this, he was no match for Voldemort's inner circle Death Eaters as he was brought to his knees by [[Bellatrix Lestrange]] when he and the other Snatchers angered her, and he was sent flying by a spell cast by [[Corban Yaxley]]. In neither case did he fight back despite being clearly enraged.<ref name="DH"/>
+*'''[[Dark Arts]]''': Greyback was skilled with dark magic, being able to cast the [[Killing Curse]] and [[Imperius Curse]] successfully and handle [[curse]]d objects.<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+*'''[[Nonverbal spell|Nonverbal magic]]''': Greyback was able to cast offensive [[spell]]s non-verbally, a [[magic]]al ability which is known to be highly difficult, showing he was a rather accomplished and skilled [[Wizardkind|wizard]].<ref name="HBPf17" />
+*'''[[Apparition]]''': Greyback was able to apparate to the Malfoy Manor after capturing Harry and his friends along with his group of Snatchers. He notably was able to apparate while holding Harry via side-along apparition.<ref name="DH"/>
+*'''[[Superhuman strength]]''': Greyback was [[Superhuman strength|incredibly strong]] and resilient. This was proved during the [[Skirmish at Malfoy Manor]] when Harry gained control of three wands from Draco Malfoy and cast a [[Stunning Spell]] on Greyback with them; though it was sufficient to lift him up the ceiling and smash him to the ground he still managed a full recovery afterwards.<ref name="DH"/>
+*'''[[Muggle duelling|Physical combat]]''': In order to fulfil his goal of spreading [[lycanthropy]], Greyback was known to have fought with his hands and teeth, even in his human form. He was known to have been very agile, having been described running (on all fours) as "a grey blur."<ref name="DH"/>
+*'''Improvisation skills''': Greyback was skilled in [[Wikipedia:Improvisation|improvisational acting]], as he was able to mimic astonishment (over seeing wizards) and shock (when he was told about the murder of the Muggle children) with such a level of success that he managed to fool almost an entire courtroom of experienced magical law enforcement officers that he was a Muggle during a hearing at the Ministry of Magic.<ref name="PM" />
+
+==Possessions==
+[[File:Fenrir_Greyback_wand.png|thumb|Greyback's wand]]
+*'''[[Fenrir Greyback's wand|Wand]]''': Fenrir owned wand, which was of an unknown length, [[wand wood]] and [[wand core]]. He used his wand throughout his life as a Werewolf, and as a Snatcher and Death Eater accomplice throughout the [[Second Wizarding War]].<ref name="DH"/> He may have possibly obtained it from [[Ollivanders]] in [[Diagon Alley]]. 
+
+==Etymology==
+*''Fenrir'' is one of many permutations of {{wplink|Fenrisulfr}}, the great wolf and son of the god Loki from {{wplink|Norse mythology}}.
+*''Greyback'' is likely a reference to his greying hair and grey fur in werewolf form that indicates his relation to the Greyback wolf. In keeping with his first name, Greyback is also the name of a monster from Norse mythology, one of the numerous serpents who gnaw at the roots of Yggdrasil alongside the dragon Níðhöggr.
+
+==Behind the scenes==
+[[File:Greyback4840.jpg|thumb|Fenrir Greyback as a LEGO minifigure]]
+[[File:Draco, Narcissa & Greyback in Diagon Alley LEGOY2.jpg|250px|thumb|Fenrir Greyback with [[Narcissa Malfoy|Narcissa]] and [[Draco Malfoy]] outside [[Borgin and Burkes]], in {{LEGO|Y2}}]]
+*Greyback was portrayed by the late [[Dave Legeno]] in {{HBP|FA}}. Only a wanted poster of Greyback in the film explains what sort of creature Greyback is, and the scene in which he mauls Bill Weasley is omitted from {{HBP|FA}}. In the [[Harry Potter and the Deathly Hallows (film)|film adaptation]] of {{DH}}, Bill tells Harry that he was attacked by Fenrir Greyback sometime before the [[Battle of the Seven Potters]] takes place.
+*The role was offered to {{wplink|Kevin McKidd}}, but he was forced to turn it down, due to a contractual obligation to another project.<ref name="snitchmckidd">[http://www.snitchseeker.com/harry-potter-news/quote-of-the-week-kevin-mckidd-92559/ Snitchseeker - Quote of the Week]</ref>
+*[[Hisao Egawa]] voiced Greyback in the Japanese dubs.
+*In {{DH|F1}}, [[Scabior]] takes the role as leader of the Snatchers, while Greyback is seen taking orders from him.
+*In contrast to his very vicious behaviour in the books, Greyback has very little if anything to do in the films. In all three films in which he appears, he speaks twice, once in the Astronomy Tower scene in ''Half-Blood Prince'', and in ''Deathly Hallows: Part 1'' when Harry says his name is Vernon Dudley and the Snatchers don't find the name on the list.
+*In {{DH|F2}}, Hermione's [[Stunning Spell]] sends Greyback off the [[Viaduct Courtyard]] to the [[ravine]] below and to his death after he was discovered mauling Lavender Brown. As this contradicts the events of the [[Harry Potter and the Deathly Hallows|novel]], it cannot be considered canon to the books (in which she does blast him away from Lavender but clearly not off a cliff, as he turns up again in the final part of the battle).
+*[[Dave Legeno]] had many animal hairs, such as goat, affixed to him when he portrayed Greyback.
+*He was possibly a pure-blood or half-blood, as he appeared to be prejudiced against Muggle-borns and called them "Mudbloods" (not to mention it is highly unlikely that the already unpopular Greyback would have been accepted into the Death Eaters at all if he'd been a Muggle-Born as well as a werewolf). 
+*Greyback is likely based on French ''loup-garou'' tales coming from the 15th to 17th centuries. His language and appearance bear close connections to Jean Grenier. The latter was a young boy accused of being a werewolf.
+*In the [[Harry Potter and the Half-Blood Prince (video game)|''Half-Blood Prince'' video game]], during his attack on the Burrow, Fenrir takes Ginny hostage. When Harry arrives to save her he is seen standing over her. After the duel he is forced to retreat and sets the Burrow on fire with Bellatrix.
+*While it's unknown what happens to Fenrir after the Battle at Hogwarts, there is a slight chance that he managed to escape back to his pack (although unlikely, as Ron and Neville are described as "bringing him down" shortly before the death of Voldemort, most likely either killing or Stunning him).
+*Although werewolves are not truly affected by silver as they are in Muggle legends, Fenrir was defeated by Ron and Neville during the Battle of Hogwarts, the latter of which may have been wielding a certain [[Godric Gryffindor's Sword|sword with a silver blade]]. However, the sword has Basilisk venom absorbed into its blade, so it is possible that if the sword had wounded or killed Greyback, it may have been because of the venom, not that the sword's blade is silver.
+*In {{HBP|FA}} Greyback has long brushed hair but in {{DH|F1}} and {{DH|F2}} he has dreadlocks.
+*In {{LEGO|Y2}}, when Greyback attacks Lavender, he bites her leg off. Then, Hermione throws a bone to him. When Greyback catches it in the air, Hermione defeats him with the [[Reductor Curse]], knocking him out. It is completely unknown what happened with him after this. 
+*Ironically, despite being one of the most notorious werewolves to ever live, he never actually appeared in werewolf form in any of the books, films, or video games until {{HM}}.
+*Fenrir is, in many ways, similar to Sabertooth from the ''X-Men'' comic book series. One of which is they're both "mindless" beasts covered in hair and with sharp claws that follow an intelligent leader who believes that humans must be eliminated because they are weak. Another similarity being their incredibly homicidal, sadistic, and psychopathic natures and how both are also torturers and sexual predators in addition. In fact, Sabertooth's design in the film ''X-Men Origins: Wolverine ''is strikingly similar to Fenrir Greyback's appearance in the films. 
+*Greyback is also similar to Anita Lucas from the TV series ''Once Upon a Time''. Both are werewolves who have given fully in to their wolf half, and have been known to willingly attack humans even before transforming. Furthermore, Anita seems to share Greyback's philosophy on werewolves' eventually rising up against humankind.
+
+==Translations of the name==
+*Croatian: Fenrir Greyback (Fenrir Greyback)
+*Czech: Fenrir Šedohřbet (Fenrir Greyback)
+*Danish: Fenris Gråryg (Fenris Greyback)
+*Dutch: Fenrir Vaalhaar (Fenrir Palehair)
+*Finnish: Fenrir Harmaaselkä (Fenrir Greyback)
+*French: Fenrir Greyback (Fenrir Greyback)
+*Icelandic: Fenrir Grábakur (Fenrir Greyback)
+*Lithuanian: Fenryras Pilkanugaris (sometimes ''Greibekas'' is used) (Fenrir Greyback)
+*Montenegrin:Fenrir Sivi (Fenrir Grey)
+*Norwegian: Fenris Vargar (Fenris Weregard)
+*Portuguese (Brazil): Fenrir Lobo Greyback (Fenrir Wolf Greyback)
+*Russian: Фенрир Сивый [Fenrir Sivyy] (sometimes ''Грейбек'' [Greyback] is used) (Fenrir Ashgrey)
+*Serbian: Фенрир Сури [Fenrir Suri] (Fenrir Grey)
+*Swedish: Fenrir Grårygg (Fenrir Greyback)
+
+==Appearances==
+{{Imagecat|Images of Fenrir Greyback}}
+*{{POA}} {{Indirect}}
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+*{{HBP|G}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{PM}} 
+*{{WW}} 
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Death Eaters}}
+
+{{DEFAULTSORT:Greyback, Fenrir}}
+
+[[es:Fenrir Greyback]]
+[[ca:Fenrir Esquenagrisa]]
+[[de:Fenrir Greyback]]
+[[fi:Fenrir Harmaaselkä]]
+[[fr:Fenrir Greyback]]
+[[it:Fenrir Greyback]]
+[[ja:フェンリール・グレイバック]]
+<!-- [[ca:Fenrir Esquenagrisa]] -->
+[[no:Vargar]]
+[[nl:Fenrir Vaalhaar]]
+[[pl:Fenrir Greyback]]
+[[pt-br:Fenrir Greyback]]
+[[ru:Фенрир Сивый]]
+[[sv:Fenrir Grårygg]]
+[[uk:Фенрір Грейбек]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:Battle of the Astronomy Tower participants]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Murderers]]
+[[Category:Pure-blood supremacists]]
+[[Category:Skirmish at Malfoy Manor participants]]
+[[Category:Snatchers]]
+[[Category:Werewolves]]

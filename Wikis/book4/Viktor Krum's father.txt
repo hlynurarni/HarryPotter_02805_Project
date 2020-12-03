@@ -1,0 +1,51 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Krum
+|born = In or before [[1945]] (possibly)<ref>[[Viktor Krum's grandfather]] died in 1945. If Mr Krum is his son then he must have been born in or before 1945, as Victor's grandfather was dead after 1945 and could not have conceived him - if he was his son - any later.</ref>
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Bulgaria]]n
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark
+|eyes = 
+|skin = 
+|family = *[[Viktor Krum's grandfather|Viktor's grandfather]] (father or father-in-law) †
+*[[Viktor Krum's mother|Mrs Krum]] (wife)
+*[[Viktor Krum]] (son)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Krum family]]
+}}
+'''Mr Krum''' (fl. [[1977]]-[[1995]]) was a [[Bulgarian]] [[Wizardkind|wizard]], who was the father of [[Viktor Krum]]. He was described as having dark hair and a hooked nose like his son.<ref name="GOF31">{{GOF|B|31}}</ref>
+
+Mr Krum travelled to [[Hogwarts School of Witchcraft and Wizardry]] with his [[Viktor Krum's mother|wife]] to watch Viktor face the final task of the [[Triwizard Tournament]] in [[1995]].<ref name="GOF31"/>
+
+Viktor told [[Harry Potter]] that his [[Viktor Krum's grandfather|grandfather]] was killed by [[Gellert Grindelwald]].<ref name="DH8">{{DH|B|8}}</ref> This man could have been either Mr Krum's father or his father-in-law.
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}[[fr:Père de Viktor Krum]]
+[[ru:Мистер Крам]]{{DEFAULTSORT:Krum, Viktor father}}
+[[Category:Bulgarian individuals|Krum]]
+[[Category:Krum family]]
+[[Category:Males|Krum]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]

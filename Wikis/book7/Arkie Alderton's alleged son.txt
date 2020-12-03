@@ -1,0 +1,52 @@
+{{Conjecture}}
+{{Youmay|Arkie Alderton's alleged son|[[Alderton|William Alderton's alleged son]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Alderton
+|born = 
+|died = 
+|blood = [[Muggle-born]] or [[Half-blood]]<ref name="DH13"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH13"/>
+|gender = Male<ref name="DH13"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Arkie Alderton]] (claimed father)<ref name="DH13"/>
+*[[William Alderton]] (possibly)
+*[[William Alderton's alleged son|Alderton]] (possibly)
+*[[Archibald Alderton]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Alderton family]]<ref name="DH13"/>
+}}
+{{Dialogue a-b|Alderton|No, no, I'm half-blood, I'm half-blood, I tell you! My father was a wizard, he was, look him up, Arkie Alderton, he's a well known broomstick designer, look him up, I tell you – get your hands off me, get your hands off –|Umbridge|This is your final warning. If you struggle, you will be subjected to the Dementor's Kiss... Take him away.|[[Dolores Umbridge]] sentences Alderton to [[Azkaban]] for his [[blood status]] in [[1997]]|Harry Potter and the Deathly Hallows}}
+
+'''Alderton''' was a [[Muggle-born]] or [[half-blood]] wizard who was sent to [[Azkaban]] for "stealing [[magic]]" by the [[Muggle-Born Registration Commission]] in [[1997]], while [[Tom Riddle|Lord Voldemort]] was in control of the [[British Ministry of Magic|Ministry of Magic]] during the height of the [[Second Wizarding War]]. He told [[Dolores Umbridge]] and [[Corban Yaxley|Yaxley]] that he was the son of [[Arkie Alderton]], who was a [[Wizardkind|wizard]] known for designing [[broomstick]]s, but he was not believed. Alderton only stopped screaming desperately when he was threatened with the [[Dementor's Kiss]], but his ''"dry sobs echoed through the corridor"'' as he was dragged away to prison.<ref name="DH13">{{DH|B|13}}</ref> He was likely released after [[Tom Riddle|Lord Voldemort's]] final defeat.<ref name="DH36">{{DH|B|36}}</ref>
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Presunto hijo de Arkie Alderton]]
+[[fr:Fils présumé d'Arkie Alderton]]
+[[pl:Domniemany syn Arkiego Aldertona]]
+[[Category:Alderton family]]
+[[Category:Azkaban convicts]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Wizards]]
+[[Category:Wrongfully convicted individuals]]

@@ -1,0 +1,45 @@
+{{Youmay|the possible Ministry of Magic employee|[[Dudley Dursley]]}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Mr Dudley
+|born = 
+|died = 
+|blood = [[Half-blood]] or [[pure-blood]] (possibly)<ref name="DH23"/>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="DH23"/>
+|gender = Male<ref name="DH23"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Department of Magical Accidents and Catastrophes]] employee (possibly)<ref name="DH23"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="DH23"/>
+**[[Department of Magical Accidents and Catastrophes]]<ref name="DH23"/>
+}}
+{{Dialogue a-b-a|Scabior|Who's your father?|Harry|He works at the Ministry. Department of Magical Accidents and Catastrophes.|You know what, Greyback. I think there ''is'' a Dudley in there.|[[Harry Potter]] and [[Scabior]] after the [[trio]] is caught by the [[Snatchers]]|Harry Potter and the Deathly Hallows}}
+
+'''Mr Dudley''' may have been a [[Wizardkind|wizard]] who worked in the [[Department of Magical Accidents and Catastrophes]]. When [[Harry Potter]], [[Ronald Weasley|Ron Weasley]], and [[Hermione Granger]] were caught by [[Snatchers]] in [[1998]], Harry quickly invented the pseudonym Vernon Dudley to conceal his identity, combining the first names of his [[Vernon Dursley|uncle]] and [[Dudley Dursley|cousin]]. Pressed for the identity of his father by [[Scabior]], one of the Snatchers, Harry claimed to be the son of a wizard who worked in the Department of Magical Accidents and Catastrophes. Scabior responded to this by stating that he believed someone named Dudley actually worked in that department.<ref name="DH23">{{DH|B|23}}</ref>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 3 employees}}
+[[Category:British individuals]]
+[[Category:Department of Magical Accidents and Catastrophes personnel]]
+[[Category:Males]]
+[[Category:Wizards]]

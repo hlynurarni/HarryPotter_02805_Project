@@ -1,0 +1,75 @@
+{{HogwartsMysterySpoiler}}
+{{Youmay|the potioneer|[[Damocles Rowle]]}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Damocles Belby
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}<ref name="HBP7"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP7"/>
+|gender = Male<ref name="HBP7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Marcus Belby's father|Mr Belby]] (brother)<ref name="HBP7"/>
+*[[Marcus Belby]] (nephew)<ref name="HBP7"/>
+*[[Flavius Belby]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Potioneer]]<ref name="HBP7"/>
+|house = 
+|loyalty = *[[Order of Merlin]]<ref name="HBP7"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP7"/>
+}}
+'''Damocles Belby'''<ref name="HM">{{HM|1|Hallowe'en Feast}}</ref> {{OM|}} was a  [[Wizardkind|wizard]] and [[potioneer]] who was famous for inventing the [[Wolfsbane Potion]]. This achievement was likely the reason he was awarded an [[Order of Merlin]] award.<ref name="HBP7"/>
+
+==Biography==
+===Early life===
+While being educated at [[Hogwarts School of Witchcraft and Wizardry]], Damocles Belby was a favourite student of [[Horace Slughorn]], the [[Potions Master]], who remarked that he was an "outstanding" [[Wizardkind|wizard]].<ref name="HBP7">{{HBP|B|7}}</ref>
+
+===Later life===
+After graduating from [[Hogwarts School of Witchcraft and Wizardry]], Damocles Belby went on to become a [[Potioneer]] and invented the [[Wolfsbane Potion]] sometime after the mid-[[1970s]]. This potion, made up mostly of [[Aconite]], was able to relieve (but not cure) the effects of [[Werewolf|Lycanthropy]] by allowing the werewolf to retain his or her human intelligence while transformed. The potion's development led to werewolves gaining a better chance to integrate themselves into wizarding society, which presumably resulted in his Order of Merlin award. Damocles had a nephew, [[Marcus Belby]], who stated that his uncle and [[Marcus Belby's father|father]] did not get along. As such, Damocles had little contact with his relatives, and was not very well known to his nephew Marcus.<ref name="HBP7"/> This is probably why Marcus failed to gain much recognition in the [[Slug Club]] from Slughorn.
+
+==Magical skills and abilities==
+[[Horace Slughorn]] claimed that Damocles Belby was an "outstanding wizard" and that he well deserved his [[Order of Merlin]] award,<ref name="HBP7"/> meaning he was likely highly proficient in many branches of [[magic]].
+*'''[[Potion]]s''': Damocles Belby was extremely adept in the art of potion-making. He was one of Horace Slughorn's finest students, and after graduating Hogwarts, he developed an accomplished career as a [[Potioneer]]. He was also so skilled that he managed to invent the [[Wolfsbane Potion]], a potion "particularly complex" according to [[Remus Lupin]].<ref name="POA8">{{POA|B|8}}</ref>
+
+==Etymology==
+Latinized form of the Greek name Δαμοκλῆς (''Damokles''), which was derived from δᾶμος (''damos'') "the people" (a Doric Greek variant of δῆμος (''demos'')) and κλέος (''kleos'') "glory". In Greek legend Damocles was a member of the court of Dionysius the Elder, the king of Syracuse. Damocles expressed envy of the king's station so Dionysius offered to switch roles with him for a day. To illustrate to Damocles the peril of a man in his position he suspended a sword over the throne.
+
+==Behind the scenes==
+*The text of {{HBP}} only refers to Damocles as Marcus's uncle, but does not make it clear if he is a paternal or maternal uncle. As such, this individual's surname was uncertain. He was later referred to as "Damocles Belby" in {{HM}}.
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+*{{HBP|F}} {{Comment|Mentioned as [[Marcus Belby]]'s "uncle"}}
+*{{HM}} {{1st ID}}
+
+==Notes and references==
+{{Reflist}}
+{{Potions}}
+{{DEFAULTSORT:Belby, Damocles}}
+
+[[de:Damocles Belby]]
+[[fr:Damoclès]]
+[[pl:Damocles Belby]]
+[[ru:Дамокл Белби]]
+[[Category:Belby family|Damocles]]
+[[Category:British or Irish individuals]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Order of Merlin recipients]]
+[[Category:Potioneers]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

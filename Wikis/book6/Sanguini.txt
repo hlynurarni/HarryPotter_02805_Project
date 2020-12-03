@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = vampire
+|image = [[File:Sanguini.png|250px]]
+|name = Sanguini
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Vampire]]<ref name="HBP15"/>
+|gender = Male<ref name="HBP15"/>
+|height = 
+|weight = 
+|hair = Dark<ref name="HBP15"/>
+|eyes = 
+|skin = White<ref name="HBP15"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+{{Quote|Sanguini, stay here! Here, have a pasty.|Worple to Sanguini at the [[Slug Club Christmas party]]|Harry Potter and the Half-Blood Prince}}
+
+'''Sanguini''' was a male [[vampire]] who attended a [[Slug Club Christmas party]] during [[Harry Potter]]'s [[1996–1997 school year|sixth year]] at [[Hogwarts School of Witchcraft and Wizardry]]. He was the guest of [[Eldred Worple]]. The tall, emaciated man had dark shadows under his eyes and looked bored with the party until a nearby group of girls attracted his attention. Worple tried to distract him by shoving a pasty into his hand.<ref name="HBP15">{{HBP|B|15}}</ref>
+
+==Etymology==
+The name Sanguini most likely originates from the Latin word ''sanguineus'', meaning "of blood", "bloody", "blood-coloured", or "bloodthirsty" - a reference to his vampirism. The Latin word ''sanguini'' is the dative singular of the noun ''sanguis'', "[[blood]]", and means literally "to blood" or "for blood." Other possible influences derived from this Latin root include French ''sang ''and Italian ''sangue'', both meaning "blood", and the English words exsanguination, "to bleed out", and sanguine, describing a blood colour or having an active, warm and lively circulation or temper.
+
+==Behind the scenes==
+In {{HBP|FA}}, scenes with Sanguini (portrayed by British actor [[Charlie Bennison]]) were shot, but were cut from the final edit of [[Harry Potter and the Half-Blood Prince (film)|the film]]. In one photo he is seen with [[Eldred Worple]] talking with [[Luna Lovegood]]. Sanguini can be seen in the background on close observation.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Sanguini}}
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+*{{HPV|CH}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Sanguini]]
+[[pl:Sanguini]]
+[[ru:Сангвини]]
+[[de:Sanguini]]
+[[fr:Sanguini]]
+[[nl:Sanguini]]
+[[Category:Males]]
+[[Category:Vampires]]

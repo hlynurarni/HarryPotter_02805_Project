@@ -1,0 +1,294 @@
+{{WizardsUniteSpoiler}}
+{{Semiprotected}}
+{{Individual infobox
+|theme=pet
+|image=<gallery>
+Nagini PM.png|Snake form
+Nagini_human.jpeg|Human form
+</gallery>
+|name=Nagini
+|born=Before [[1927]],<ref name="COGS43"/> [[Indonesia]] (possibly)<ref name="origin">{{AM}} {{see image|File:MaledictusOrigin-AM.png}} "venu des profondeurs de la jungle Indonesienne" translates to "comes from the depths of the Indonesian jungle"</ref>
+|died=[[2 May]], [[1998]] (aged at least 71)<br/>[[Hogwarts Castle]], [[Highlands]], [[Scotland]], [[Great Britain]]<ref name="DH36">{{DH|B|36}}</ref>
+|blood=[[Underbeing]]<ref name="COGS43">{{COG|S|43}}</ref>
+|marital=
+|alias=*The Snake Girl<ref name="COGS43"/>
+*[[Bathilda Bagshot]] (when possessing her body)<ref name="DH17"/>
+|title=
+|signature=
+|species=[[Human]] ([[Maledictus]] affliction; formerly)<br/>[[Snake]]<ref name="GOF1"/>
+|gender=Female<ref name="GOF1"/>
+|height=
+|weight=
+|hair=Black (Human)
+|eyes=
+|skin=Pale (Human), Green (Snake)
+|family=
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|job=*Circus performer for the [[Circus Arcanus]] (formerly)
+*[[Tom Riddle|Lord Voldemort]]'s servant<ref name="GOF1"/> and [[Horcrux]]<ref name="DH36"/>
+|house=
+|loyalty=*[[Circus Arcanus]] (formerly)
+*[[Credence Barebone]] (formerly)
+*[[Newton Scamander|Newt Scamander]] (formerly)
+*[[Tom Riddle|Lord Voldemort]]<ref name="GOF1"/>
+}}
+<!-- Commenting out for now
+{{Horcrux infobox
+|manufacturer=[[Tom Riddle]]
+|made=c. [[1994]]
+|usage=Pet, [[Horcrux]]
+|victim=[[Bertha Jorkins]]<ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, 30 July, 2007]</ref>
+|owners=[[Tom Riddle|Lord Voldemort]]
+|image=Nagini PM.png
+|name=Nagini
+|alias=[[Bathilda Bagshot]] (when possessing her body)}} -->
+{{Quote|You know [[Tom Riddle|Voldemort]]'s snake, Neville? He's got a huge snake... Calls it Nagini... It's got to be killed.|Harry Potter arranges for Nagini to be slain|Harry Potter and the Deathly Hallows}}
+'''Nagini''' (d. [[2 May]], [[1998]]) was a female [[Maledictus]] [[curse]]d to [[Transformation|transform]] into a [[snake]]. Originating possibly in [[Indonesia]],<ref name="origin" /> by [[1927]] she was a performer at the [[Circus Arcanus]] where she met [[Credence Barebone]] and had the ability then to transform at will. By [[1994]], Nagini was seemingly trapped in snake form and belonged to [[Tom Riddle|Lord Voldemort]], with whom she had a special bond largely due to becoming a [[Horcrux]], after her master had killed [[Bertha Jorkins]] in [[1994]].
+
+After Voldemort's initial downfall, he used [[Nagini's venom]] as one of the ingredients for a [[Rudimentary body potion|Potion]] to regain strength, which eventually led to his [[Return of Lord Voldemort|rebirth]] in [[1995]]. Later in the same year, she attacked [[Arthur Weasley]] but he managed to survive. During the [[Second Wizarding War]], she had to be destroyed for Voldemort to finally be defeated. Nagini was killed by [[Neville Longbottom]] with [[Sword of Gryffindor|Godric Gryffindor's Sword]] in [[1998]] and was the last Horcrux to be destroyed after [[Rowena Ravenclaw's diadem]].
+
+==Biography==
+===Early life===
+[[File:Nagini transforms.gif|206x206px|thumb|left|Nagini's transformation into a snake]]
+Originally, Nagini was a female [[human]] [[Maledictus]], with the ability to transform into a [[snake]]. By [[1927]], she was a featured attraction in a [[Wizardkind|wizarding]] [[Circus Arcanus|circus]] owned by [[Skender]] (who claimed to have found her in the 'jungles of Indonesia). At some point she befriended [[Obscurial]] [[Credence Barebone]], who travelled to Europe with the circus after surviving [[Magical Congress of the United States of America|MACUSA's]] attempt to destroy him in [[New York]], after he [[Obscurial attack on New York|attacked]] the city in [[December]] [[1926]].
+
+===Global Wizarding War===
+{{Dialogue a-b|Credence Barebone|[[Gellert Grindelwald|He]] knows who I am!|Nagini|He knows what you were [[Barebone family|born]] as. Not who you are!|Credence Barebone and Nagini|Fantastic Beasts: The Crimes of Grindelwald}}[[File:Nagini attacks Skender.gif|220x220px|thumb|Nagini attacks Skender to run from Circus]]
+
+====On the run====
+In [[September]] [[1927]], Nagini and Credence decided to escape from the [[Circus Arcanus]] and discover his real identity.<ref name="COGS43"/> Amid her performance and transformation into a snake, Credence released [[firedrake]]s, so she attacked Skender to run away with Obscurial.
+[[File:Nagini & Credence.jpg|202x202px|thumb|left|Nagini with Credence looking for Irma Dugard]]After that, she and Credence went to [[18 Rue Philippe Lorand]] to find who they hoped would be his biological family. They instead found [[Irma Dugard]], a [[Part elf|half-elf]], who fondly explained some details of the alleged baby and parents. Unbeknownst to Credence and Nagini, they were followed by one of [[Gellert Grindelwald's acolytes]], [[Gunnar Grimmson]]. As the half-elf was about to divulge a key piece of the story, Nagini was suddenly trapped by Grimmson in a wall while he murdered Irma. Grimmson disapparated before Credence's [[Obscurus]] could kill him, Nagini tried but failed to escape her locked position inside of the wall until after the event concluded.<ref>{{COG|S|56}}</ref>[[File:Nagini & Credence met Grindelwald-0.jpg|193x193px|thumb|Nagini and Credence talking with Gellert Grindelwald]]
+Later, on the rooftop of the house near the [[Eiffel Tower]], Nagini and Credence met [[Gellert Grindelwald]] who was calling his supporters. He gave them a map of [[Cimetière du Père-Lachaise|Pere Lachaise cemetery]].
+
+In the [[Lestrange Mausoleum]], they crossed paths with [[Yusuf Kama]] and [[Jacob Kowalski]]. Yusuf, thinking that Credence was really [[Corvus Lestrange (V)|Corvus Lestrange]], tried to kill him. Nagini tried to save the Obscurial, but Kama said that he will kill her too if she did not get out of the way. When [[Newton Scamander|Newt Scamander]], [[Porpentina Goldstein|Tina Goldstein]] and [[Leta Lestrange]] joined them, Leta proved that Credence and Corvus are not the same people, saving both Credence and Nagini from death.
+
+====Grindelwald's Paris rally====
+When the door to the next chamber opened Nagini and others joined [[Gellert Grindelwald's Paris rally|Grindelwald's rally]]. When the fight began, Nagini tried to convince Credence to stay with her. However, he did not listen and decided to join the infamous [[Dark Wizard]], to learn his true identity. Devastated Nagini also witnessed Leta's death and was just barely [[Apparition|Apparated]] to safety by Yusuf.<ref>{{COG|S|115}}</ref>[[File:Hogwarts Entrance TCOG.jpeg|220x220px|thumb|left|Nagini and others at Hogwarts]]
+Having survived the rally, Nagini officially joined forces with [[Newton Scamander|Newt Scamander]], [[Theseus Scamander]], [[Porpentina Goldstein|Tina Goldstein]], [[Jacob Kowalski]], and [[Yusuf Kama]], and travelled to [[Hogwarts Castle]] with them all (as well as [[Torquil Travers]] and [[Rudolph Spielman]]), where Professor [[Albus Dumbledore]] was waiting, on the school's [[viaduct]].
+
+===Final transformation===
+Eventually, Nagini's blood curse permanently turned her into a snake.<ref name="pmn">[https://www.pottermore.com/news/warner-bros-reveals-the-new-characters-coming-to-the-next-fantastic-beasts-film Warner Bros. reveals the new characters coming to the new Fantastic Beasts film] at {{PM}}</ref> She was eventually <!-- DO NOT put down that Nagini was the snake that Harry freed from the zoo. This is a baseless fan-rumour. -->acquired by [[Tom Riddle|Lord Voldemort]]. It is worth noting that she knew him when he killed [[Bertha Jorkins]] in Albania.<ref name="GOF1"/>
+
+===Rebirth of the Dark Lord===
+{{Quote|'Didn't you say You-Know-Who's got a snake, Harry? A massive one? You saw it the night he returned, didn't you?|Fred Weasley questioning Harry Potter about Nagini|Harry Potter and the Order of the Phoenix}}
+Voldemort used Nagini to help him regain strength and a basic physical form after living in a weak, spectral state, following his attempt to kill an infant [[Harry Potter]], during which he was struck by his rebounding [[Killing Curse]]. He had the servant who returned to him, [[Peter Pettigrew]], milk her [[Nagini's venom|venom]],<ref name="GOF1"/> and with it, create a [[Rudimentary body potion|potion]] that sustained him with a temporary body until he could regain his true form.<ref name="GOF33"/> Nagini further kept Voldemort alive after he turned her into a [[Horcrux]], with the murder of Bertha Jorkins, in 1994; he was as attached to her as he could of any living creatures, and her underlining of his heritage to the legendary [[Salazar Slytherin]] only furthered her mystique to him. His habit of keeping her unusually close to him was what led [[Albus Dumbledore]] to suspect that she had become a Horcrux for quite some time.<ref name="HBP23"/>
+[[File:Nagini Riddle House.jpg|220x220px|thumb|left|Nagini on the armchair alerting Voldemort to Frank Bryce's presence in the Riddle House]]
+In the summer of 1994, Nagini, along with Voldemort and Pettigrew, sought shelter in the abandoned [[Riddle House]] until they could instigate the plan to capture Harry Potter. Nagini alerted Voldemort to the presence of [[Frank Bryce]], an old [[Non-magic people|Muggle]] gardener who had worked for the late [[Riddle family]] and had overheard a discussion between Pettigrew and Voldemort; soon after, Nagini slithered past Bryce and alerted Voldemort, and the Dark Lord murdered the Muggle man. She probably then ate the dead man's corpse.<ref name="GOF1">{{GOF|B|1}}</ref>
+
+{{Quote|Nagini, you are out of luck. I will not be feeding Wormtail to you, after all . . . but never mind, never mind... there is still Harry Potter....|Voldemort promising Nagini the flesh of Harry Potter to consume|Harry Potter and the Goblet of Fire}}
+When Pettigrew's neglect allowed [[Bartemius Crouch Senior]] to escape Voldemort's [[Imperius Curse]] and head towards Hogwarts, Voldemort threatened to feed Pettigrew to Nagini should Crouch successfully report their plans. However, Crouch was intercepted and killed by [[Bartemius Crouch Junior|his own son]], thus the Dark Lord apologised to Nagini that she would not be able to dine on Pettigrew.<ref name="GOF29">{{GOF|B|29}}</ref>
+
+[[File:Nagini in the Little Hangleton graveyard.gif|220x220px|thumb|Nagini in the graveyard]]
+Upon Voldemort's [[Return of Lord Voldemort|rebirth]] via the capture of Harry, Nagini was slithering around the [[Little Hangleton graveyard]] that the [[Regeneration potion|resurrection ceremony]] took place,<ref name="GOF32">{{GOF|B|32}}</ref> and was promised that she could feed on the boy's corpse after her master had killed him.<ref name="GOF33">{{GOF|B|33}}</ref> She was deprived of this promise when Harry escaped via [[Portkey]] back to the Hogwarts grounds with [[Cedric Diggory]]'s corpse (who had been killed by Peter Pettigrew on Voldemort's orders before the ceremony).<ref name="GOF34">{{GOF|B|34}}</ref>
+
+===Second Wizarding War===
+====Attack on Arthur Weasley====
+{{Main|Attack on Arthur Weasley}}
+{{Quote|His body felt smooth, powerful, and flexible. He was gliding between shining metal bars, across dark, cold stone.... He was flat against the floor, sliding along on his belly.... It was dark, yet he could see objects around him shimmering in strange, vibrant colours.... He was turning his head.... At first glance, the corridor was empty... but no... a man was sitting on the floor ahead, his chin drooping onto his chest, his outline gleaming in the dark.... Harry put out his tongue.... He tasted the man’s scent on the air.|Harry's vision of Nagini's attack|Harry Potter and the Order of the Phoenix}}
+[[File:Nagini Ministry Of Magic.gif|220x220px|thumb|left|Nagini slithering through the Department of Mysteries]]
+Shortly before the [[Christmas]] of [[1995]], Nagini was presumably sent by the Dark Lord to retrieve a [[Sybill Trelawney's first prophecy|Prophecy]] in the [[British Ministry of Magic|Ministry of Magic]]. After she had infiltrated the [[Department of Mysteries]], Nagini encountered the [[Order of the Phoenix]] member, [[Arthur Weasley]], who was sent to guard the very same prophecy. Nagini, unable to resist, and who had attracted Arthur's attention already, attacked him. The attack was witnessed by Harry Potter in one of his dreams and felt that he (Harry) was the snake.<ref name="OOTP21">{{OOTP|B|21}}</ref> Critically injured, Arthur was taken to [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]]. He survived the attack but was required to take a [[Blood-Replenishing Potion]] at regular intervals. At the suggestion of [[Trainee Healer]], [[Augustus Pye]], Arthur tried [[stitches]], a [[Non-magic people|Muggle]] replacement, of which his wife, [[Molly Weasley|Molly]], disapproved.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+[[File:Nagini attacks Arthur Weasley.gif|220x220px|thumb|Nagini tries to kill Arthur Weasley]]
+[[Nagini's venom]] seemed to delay [[blood]] clotting and even dissolved the stitches, which caused the wounds to bleed profusely when the bandages were removed. Ultimately, an [[antidote]] to the [[poison]] was found and he was cured.<ref name="OOTP24">{{OOTP|B|24}}</ref> The reason that Albus Dumbledore believed Harry saw the vision as if he was the snake was due to Harry’s special connection to Voldemort, with Harry’s witnessing the attack by virtue of the fact that Voldemort's mind "happened to be" in Nagini at the time. This was the first indication of Nagini and Voldemort's deeper connection, having the ability to share thoughts and connect with Harry.<ref name="OOTP37">{{OOTP|B|37}}</ref>
+
+====Murder of Charity Burbage====
+{{Quote|"Dinner, Nagini," said Voldemort softly, and the great snake swayed and slithered from his shoulders onto the polished wood.|Nagini being fed with Charity Burbage|Harry Potter and the Deathly Hallows}}
+[[File:Nagini eats Charity Burbage.gif|220x220px|thumb|left|Nagini slithering on the table in Malfoy Manor, about to devour [[Charity Burbage]]]]
+In [[1997]], Nagini was present at the [[meeting at Malfoy Manor]]. When the [[Death Eaters]] were jeering at Charity Burbage and the Malfoy family's humiliation, because of a disgraceful marriage in the family, the great snake got agitated, disliked the noise, opened her mouth wide, and hissed angrily, but to deaf ears. Voldemort, after stroking the angry snake, called for silence.<ref name="DH1">{{DH|B|1}}</ref>
+
+Near the end of the meeting, Voldemort's prisoner, [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Muggle Studies]] teacher, [[Charity Burbage]], was murdered by the Dark Lord by means of the Killing Curse and fed to Nagini.<ref name="DH1">{{DH|B|1}}</ref>
+
+Later, when [[Thorfinn Rowle]] and [[Antonin Dolohov]] failed to capture Harry after the [[Luchino Caffe Duel]], Voldemort offered them a choice in punishment: being further [[Cruciatus Curse|Tortured]] by [[Draco Malfoy]] or to be killed and devoured by Nagini. The two chose further torture, as both survived for the next battle.<ref name="DH9">{{DH|B|9}}</ref>
+
+====Godric's Hollow====
+{{Main|Attack at Godric's Hollow (1997)}}
+{{Quote|He saw it out of the corner of his eye; panic made him turn and horror paralysed him as he saw the old body collapsing and the great snake pouring from the place where her neck had been.|Nagini emerging from the neck of Bathilda Bagshot's corpse|Harry Potter and the Deathly Hallows}}
+
+[[File:Bathilda Bagshot and Harry Potter.jpg|204x204px|thumb|Harry Potter and Nagini (disguised as Bathilda Bagshot) speaking in Parseltongue]]
+
+Nagini was later placed inside the corpse of [[Bathilda Bagshot]] by Voldemort's use of extremely [[Dark Arts|Dark Magic]] and stationed in [[Godric's Hollow]] to wait for Harry Potter. When Harry and [[Hermione Granger]] arrived there, she lured them into the late witch's home, signalled Voldemort due to the special connection that the two of them shared (Voldemort seemed to have an excessive amount of control over the snake even for a Parselmouth), and then launched a surprise assault on Harry, while the latter was investigating a pile of dirty laundry on a dresser.<ref name="DH17">{{DH|B|17}}</ref>
+[[File:Tumblr n0oob0xVtb1qa3emao5 250.gif|thumb|left|Hermione blasting Nagini with ''Confringo'']]
+
+Because some snakes can sense heat and movement in a way humans cannot, Nagini was able to detect Harry and Hermione even when they were under the [[Cloak of Invisibility]]. Harry fought with Nagini, and the serpent bit him before coiling herself around Harry to hold him in place for Voldemort. However, Hermione came to Harry's assistance, using a [[Blasting Curse]] against the snake; the two then jumped out the window and [[Apparition|Disapparated]] just before Voldemort arrived.<ref name="DH17">{{DH|B|17}}</ref> Later, on ''[[Potterwatch]]'', [[Lee Jordan]] revealed that the remains of Bathilda's body had been found after being informed by the [[Order of the Phoenix]].<ref name="DH22">{{DH|B|22}}</ref>
+
+===[[Battle of Hogwarts]] and death===
+{{Quote|The slash of the silver blade could not be heard over the roar of the oncoming crowd or the sounds of the clashing giants or the stampeding centaurs, and yet it seemed to draw every eye. With a single stroke Neville sliced off the great snake's head, which spun high into the air, gleaming in the light flooding from the entrance hall, and Voldemort's mouth as open in a scream of fury that nobody could hear, and the snake's body thudded to the ground at his feet —|Neville beheading Nagini|Harry Potter and the Deathly Hallows}}
+After he discovered that Harry was searching for his Horcruxes in [[1998]], Voldemort placed Nagini into a [[Protection orb|Protective Magical Cage]] to prevent her from being killed. Voldemort told her that it was for her good, though since he was trying to ensure his immortality, it was primarily for his. Voldemort then decided that it was no longer safe to send Nagini on any more missions for him.
+[[File:B7C32M1 Nagini's attack on Snape.png|thumb|250x250px|Nagini biting and killing Snape on her master's orders]]
+Shortly before the one-hour armistice during the Battle of Hogwarts, Voldemort used Nagini to murder [[Severus Snape]] in the [[Shrieking Shack]] by expanding the cage over and on top of him. Nagini proceeded to sink her fangs into Snape's neck, and when Voldemort pulled the protective cage off of Snape, he fell to the ground with blood gushing from the wound in his neck.<ref name="DH32">{{DH|B|32}}</ref>
+
+When Harry was apparently killed by Voldemort, Nagini was released from the protective enchantment as he believed there to be no more threats to her life, and she was draped around Voldemort's shoulders during the [[Death Eaters]]' victory march back to Hogwarts.<ref name="DH36">{{DH|B|36}}</ref>
+[[File:Neville kills Nagini.gif|220x220px|thumb|left|Neville striking Nagini, and decapitating her with [[Sword of Gryffindor|Godric Gryffindor's Sword]]]]
+After [[Neville Longbottom]] had openly defied him, Voldemort punished him by forcing the [[Sorting Hat]] onto his head and setting it on fire. The Death Eaters were then attacked, and during the ensuing battle, Neville pulled out the [[Sword of Gryffindor]] from the Hat, and, after he swung the blade in one upward stroke, beheaded Nagini, whose head spun high into the air as her body slumped onto the ground, while Voldemort screamed in rage.<ref name="DH36">{{DH|B|36}}</ref>
+
+===Legacy===
+With Nagini's death, Voldemort's final Horcrux was destroyed, thereby stripping him of his immortality. He furiously tried to kill Neville for it, but was stopped by Harry. Voldemort himself finally died when his Killing Curse rebounded onto himself once again.<ref name="DH36"/>
+
+In an [[alternate reality]] created by [[Albus Potter]] and [[Scorpius Malfoy]], by saving [[Cedric Diggory]] which caused him much humiliation during the [[Triwizard Tournament]], they turned him into a bitter man who would join the [[Death Eaters]]. As a result, Cedric killed Neville during the Battle of Hogwarts, thus preventing him from killing Nagini. This allowed Voldemort to retain his [[immortality]], and thus kill Harry, which led to the Dark Lord to effectively conquer the world.<ref name="CC">{{CC}}</ref>
+
+During the [[Calamity]] which affected the [[Wizarding world]] in the [[2010s]], [[Foundable]] memories of Nagini mysteriously appeared in the world.<ref name="WU">{{WU}}</ref>
+
+==Physical appearance==
+{{Quote|But look at her. So beautiful, yes? So desirable…|[[Skender]]|Fantastic Beasts: The Crimes of Grindelwald - The Original Screenplay}}[[File:Nagini woman.jpg|184x184px|thumb|left|Nagini in a human form]]
+As a [[human]], she was a beautiful and desirable woman of Asian descent, with long black hair.
+
+In her animal form, Nagini was a large, green [[snake]], roughly twelve feet long and as thick as a man's thigh.
+
+==Personality and traits==
+[[File:Nagini_snake.jpg|thumb|Nagini the Snake]]
+Prior to her transformation into a [[Horcrux]], Nagini was a shy, benevolent, quiet, and kind woman, having been abused as a sideshow freak by the [[Circus Arcanus]] for so long, that it had left the [[Maledictus]] insecure, and longing to escape to something better. She befriended [[Credence Barebone]], likely seeing a fellow outcast in the young [[Obscurial]], and also wanting to no longer be alone in her life. Nagini was also principled and moral enough to recognise [[Gellert Grindelwald]] for what he was, despite the [[Dark Wizard]]'s persuasive charisma and adamantly urged Credence not to join him. Unfortunately, however, Nagini's pleas availed her not, and she was left heartbroken when Credence decided to fall back in with Grindelwald, being too desperate to know his true name and identity. After losing Credence, Nagini seemingly wished to help defeat Grindelwald and end the [[For the Greater Good Revolution|Global Wizarding War]], since she joined forces with [[Newton Scamander|Newt Scamander]], [[Theseus Scamander]], [[Porpentina Goldstein|Tina Goldstein]], [[Jacob Kowalski]], [[Yusuf Kama]], [[Torquil Travers]], and [[Rudolph Spielman]], subsequently going to [[Hogwarts Castle]] with them all, to meet with [[Albus Dumbledore]].
+[[File:Voldemort-Nagini.jpg|thumb|Nagini with her evil master]]
+By the time she had become a Horcrux and, it seemed, permanently stuck in Maledictus serpent form, Nagini's original kind and gentle personality had been entirely expunged - she was now completely loyal to [[Tom Riddle|Lord Voldemort]]. While she remained either aloof or outright malevolent towards most others, she obeyed Voldemort completely and seemed to enjoy being close to him, as she often slithered up to the Dark Lord's shoulders to receive his affection. Nagini was also shown to be very intelligent, and was able to understand the concept of strategies and plans, as seen when she set up a trap for [[Harry Potter]] (which may have been due to her possessing a portion of Voldemort's soul, or maintaining her human sentience). She was rather cunning and deceptive, and understood how humans behaved (likely owing to Nagini having once been human herself). Possessing a strong bond with Voldemort, Nagini alone did not fear his wrathful moments, as he never punished her for failures nor took it out on her when misfortune struck him.
+
+==Magical abilities and skills==
+{{Quote|It seems there was some rather unusual kind of poison in that snake’s fangs that keeps wounds open....|[[Arthur Weasley]] regarding the strength of Nagini's venom|Harry Potter and the Order of the Phoenix}}
+*'''Maledictus Transformation''' (formerly): Nagini was originally able to transform into a huge snake at will, identical to the ability of an [[Animagus]]. This was an ability the [[Circus Arcanus]] took extreme advantage of. Ultimately, however, Nagini's [[Maledictus]] blood curse took over, which forced her to stay in her snake form permanently.
+*'''[[Parseltongue]]''': Nagini, due to her Maledictus transformation into a snake, also gained the ability of a [[Parseltongue|Parselmouth]] to speak the language of serpents, while remaining in snake form.<ref name="DH17"/>
+*'''Combat skills''': Nagini, while in snake form, was extremely deadly in battle, just like her master [[Tom Riddle|Lord Voldemort]]. She was very fast, capable of striking her enemies with great dexterity and speed, and was able to hold her own against wizards and witches on several occasions.<ref name="OOTP21"/> Indeed, even when she still had little combat training at the Circus Arcanus, Nagini was able to swiftly incapacitate [[Skender]], thus successfully escaping from him. Nagini was also quite strong as a snake, being able to hold [[Harry Potter]] in place by wrapping him up in her thick, strong coils when she attacked him in [[Godric's Hollow]]. If not for [[Hermione Granger]]'s Blasting Curse, Nagini's physical strength would have allowed her to hold Harry in her coils until Voldemort had arrived.<ref name="DH17"/>
+*'''[[Nagini's venom|Venom]]''': Nagini was an extremely [[Poison|venomous]] snake, so a single bite could, therefore, result in a wound that was slow to heal, though the extent to which this was due to her status as a Horcrux was unclear. While her venom was not always fatal, it made it difficult for wounds to close, and [[Arthur Weasley]]'s injuries continued to bleed long after Nagini had bitten him; it can even dissolve [[stitches]].<ref name="OOTP22">{{OOTP|B|22}}</ref> If bitten at a vital location, it can result in fatal blood loss within a short amount of time, as [[Severus Snape]] died at a bite to the neck.<ref name="DH36"/>
+*'''Bond with Voldemort''': Being one of [[Tom Riddle|Voldemort]]'s [[Horcrux|Horcruxes]], Nagini had a strong telepathic bond with her master and was capable of speaking to him over long distances. Voldemort could also possess Nagini at some circumstances. However, since [[Harry Potter]] himself was an unintentional Horcrux, Nagini's status as one allowed him to see her perspective in dreams, notably her attack on [[Arthur Weasley]].<ref name="OOTP21"/>
+
+==Relationships==
+===Skender===
+[[File:REB_SKENDER.jpg|thumb|[[Skender]], her former abusive employer]]
+As a member of [[Skender]]'s [[Circus Arcanus]], Nagini the Maledictus had been abused by him as a sideshow freak, with this mistreatment lasting so long, that it left the young woman insecure, and longing to escape to something better. Hence, as soon as the opportunity to escape from Skender presented itself, she readily took it - going into snake form to bite Skender in the shoulder, and fleeing, with Credence's help. When Skender was later questioned by Auror [[Porpentina Goldstein|Tina Goldstein]] about Nagini and Credence, he sneered at how all of his "freaks" desired to "go home", and didn't seen interested in pursuing them. Due to her prolonged abuse by Skender, Nagini was able to see through [[Gellert Grindelwald]]'s charming words, and wasn't at all tempted to join the Dark Wizard's forces.
+
+===Credence Barebone===
+[[File:Credence-Barebone-2.jpg|thumb|left|[[Credence Barebone]], a friend]]
+While at the [[Circus Arcanus]], Nagini met and befriended fellow outcast [[Credence Barebone]], with the two of them being drawn close together due to their similarly tragic pasts, and, wishing to stay together, they hatch a plan of escape. Nagini assisted Credence's quest to find out his true identity, and proceeded to hug and comfort the young [[Obscurial]] following the death of [[Irma Dugard]]. When Credence was being tempted by Grindelwald, Nagini desperately implored her friend to stay with her but was ultimately unable to stop Credence from joining the Dark Wizard. However, Nagini's devastation over losing Credence induced her to officially join the [[For the Greater Good Revolution|Global Wizarding War]] against Grindelwald.
+
+===Gellert Grindelwald===
+[[File:REB_GRINDELWALD_HR.jpg|thumb|[[Gellert Grindelwald]], a former foe]]
+Nagini seemed fearful of the infamous Dark Wizard upon suddenly meeting him on a rooftop, as she didn't say a word while [[Gellert Grindelwald|Grindelwald]] invited Credence to his rally at the [[Lestrange Mausoleum]]. During the rally, despite Grindelwald's extremely persuasive rhetoric, Nagini's own past experiences at the [[Circus Arcanus]] made her able to see Grindelwald for what he truly was, so she resisted joining his followers, and desperately pleaded with Credence to resist as well, though she was tragically unsuccessful. Nagini was nearly killed by Grindelwald's subsequent lethal [[Protego Diabolica|blue fire]], and only saved in time by [[Yusuf Kama]]. As such, Nagini greatly desired the downfall of Grindelwald, and officially joined the [[For the Greater Good Revolution|Global Wizarding War]] effort against him, with her even visiting Grindelwald's former friend [[Albus Dumbledore]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] shortly thereafter, together with [[Newton Scamander|Newt Scamander]].
+
+===Lord Voldemort===
+{{Quote|I think he is perhaps as fond of her as he can be of anything. He certainly likes to keep her close and has an unusual amount of control over her, even for a Parselmouth.|[[Albus Dumbledore]] on Voldemort's bond with Nagini.|Harry Potter and the Half-Blood Prince}}[[File:Voldemort_nagini.jpeg|thumb|left|Nagini coiled around her master Voldemort]]
+
+Voldemort had a special relationship with Nagini, as she was his pet and one of his Horcruxes. According to Dumbledore, Voldemort had strong feelings for Nagini that he had not for anyone else; she was the one living thing that he had ever cared about.<ref name="HBP23">{{HBP|B|23}}</ref> He was able to communicate with Nagini as a [[Parseltongue|Parselmouth]], and he turned her into a Horcrux in 1994, after he murdered [[Bertha Jorkins]], which accounted for the unusual amount of control that he had over her. By 1997, and likely before then, he was able to communicate with her silently and across great distances, as she was able to signal to him when Harry Potter arrived at Godric's Hollow. This may have been due to her nature as a Horcrux, which gave her a link to Voldemort like the one Harry possessed.<ref name="DH17"/>
+[[File:Deathly Hallows book Art (Chapter 01).jpg|left|thumb|Nagini and Voldemort]]
+Voldemort was also able to possess Nagini, which he did in December 1995, during the attack on Arthur Weasley. In 1994, Peter Pettigrew milked Nagini's venom to return Voldemort to a rudimentary body, and as a Horcrux, her very existence contributed to maintaining Voldemort's immortality. While Voldemort was known for his independence that makes him unable to feel any form of attachment or reliance to others, the affection he held for Nagini (and that she underlines his heritage to Salazar Slytherin) was the main reason he chose to make her into a container for his soul fragment in the first place; of course, holding a place in keeping her master alive made Nagini only increased her value to Voldemort's eyes. Voldemort usually sent her on missions, such as infiltrating the Ministry or holding Harry Potter in Godric's Hollow. He allowed her to consume the corpses of those he killed as a reward, like that of Charity Burbage, though this also served as a way for him to dispose of bodies. Voldemort apologised to Nagini when he could not feed Pettigrew to her, as Pettigrew's failure of keeping [[Bartemius Crouch Senior|Crouch Snr]] was rectified, and therefore, allowed him to escape the death penalty and not become Nagini's meal. Unlike many of his subordinates, Voldemort did not punish Nagini for failures, as when she failed to retrieve the prophecy or let Harry Potter escape from her grasp. In turn, Nagini did not fear Voldemort's wrathful moments, as when even high-ranking Death Eaters such as Lucius Malfoy and Bellatrix Lestrange fled the area when Voldemort was savagely murdering goblins for reporting his one of his Horcruxes being taken, Nagini remained next to her lord.
+[[File:Nagini-bubble.jpg|thumb|Nagini in Voldemort's [[Protection orb]]]]
+Voldemort stopped sending Nagini on missions after he realised that Harry knew about the existence of his Horcruxes and was tracking them down, and placed her within a [[Protection orb|barrier]] to keep both her and his soul fragment safe, so long as he believed she was under the threat of being killed by Harry. Voldemort was enraged when Nagini was beheaded by Neville Longbottom with Godric Gryffindor's Sword, and he attempted to kill him in retaliation. Nagini was the last Horcrux to be destroyed, and her death led to Voldemort's final defeat and death.<ref name="DH36"/>
+
+===Death Eaters===
+{{Quote|More, Rowle, or shall we end it and feed you to Nagini?|Voldemort offering his Death Eaters to suffer or become food.|Harry Potter and the Deathly Hallows}}
+Nagini was aloof and indifferent to the Death Eaters as a whole, but sometimes could be irritated by them, as she hissed angrily at their loud laughter at the Malfoy manor which none of them took notice until Voldemort ordered their silence for her sake.<ref name="DH1"/> She allowed Peter Pettigrew to milk the venom out of her fangs in order for it to be used for their master,<ref name="GOF1"/> but otherwise would have been glad to devour any Death Eater that her master permitted, as a form of punishment for their failure; Pettigrew, Dolohov and Rowle were threatened to become Nagini's meal in lieu of torture.<ref name="GOF29"/><ref name="DH9"/> Under Voldemort's order, Nagini ruthlessly bit Snape in a fatal location, dealing him a slow, painful demise.<ref name="DH32"/> Because of this, along with that she held more favour from their master than any of them did, many of the Death Eaters were terrified of Nagini for her deadly and ruthless behaviour.
+
+===Victims===
+{{Quote|There was a terrible scream. Harry saw Snape’s face losing the little colour it had left, it whitened as his black eyes widened, as the snake’s fangs pierced his neck, as he failed to push the enchanted cage off himself, as his knees gave way, and he fell to the floor.|Nagini killing Snape on Voldemort's orders|Harry Potter and the Deathly Hallows}}
+[[File:Nagini & Ron & Hermione.jpg|220x220px|thumb|Nagini trying to bite Ron and Hermione at Hogwarts]]
+Nagini was frequently used by Voldemort to kill others or to dispose of their dead bodies. In 1995, he promised Nagini that she could devour Harry Potter after he had killed him.<ref name="GOF29"/><ref name="GOF33"/> However, she was denied this when Harry escaped from the graveyard shortly after the promise was made.<ref name="GOF34"/> It was likely that [[Frank Bryce]] met that intended fate, in August 1994. Voldemort threatened [[Peter Pettigrew]] with being fed to Nagini if Bartemius Crouch Snr was able to contact Albus Dumbledore about the plot behind the [[Triwizard Tournament]]. Nagini also attacked [[Arthur Weasley]], but he survived the bites after Harry had a vision of it, and he was quickly aided.<ref name="OOTP21"/> During the meeting at Malfoy Manor, she consumed the body of [[Charity Burbage]] after Voldemort killed her.<ref name="DH1"/> Later, when [[Antonin Dolohov]] and [[Thorfinn Rowle]] did not capture Harry Potter and his friends after the [[Luchino Caffe Duel|skirmish]] at [[Luchino Caffe]], Voldemort offered them a choice in the form of punishment: being tortured by [[Draco Malfoy]]'s [[Cruciatus Curse|Cruciatus curse]] or being killed and eaten by Nagini.<ref name="DH9"/> After the skirmish at Malfoy Manor, Voldemort possibly ordered Nagini to consume the dead corpse of Pettigrew after he was strangled to death by his own enchanted hand. During the Battle of Hogwarts, she attacked and killed [[Severus Snape]] in the [[Shrieking Shack]].<ref name="DH32"/>
+
+==Etymology==
+*"Naga" is "[[snake]]" while "Nagini" is a "female snake" in {{w|Sanskrit}} and "Nagin" means "{{w|Nāga|female snake}}" in {{w|Hindi}} and {{w|Urdu}}. A reference to Rudyard Kipling's cobra characters Nag and Nagaina<ref>http://www.kipling.org.uk/rg_junglebook_names.htm. Under #37 "NAG"</ref> from the book, Rikki-Tikki-Tavi is referred to as Nagini in some translations.
+*A "Nagini" was also a half-woman, half-snake creature that is found in some Indian mythology (possibly a half-snake, half-woman creature called "Lamia").
+
+==Behind the scenes==
+[[File:Maledictus.jpg|thumb|Claudia Kim as Nagini]]
+[[File:Nagin.jpg|thumb|An illustration of Nagini]]
+[[File:Nagini_pop.png|thumb|Nagini as a [[POP! Vinyl]]]]
+[[File:NaginiHumanPOP.jpg|thumb|Nagini (in [[Human]] form) as a [[POP! Vinyl]]]]
+[[File:L-Nagini-Coiled-Plush-1274937.JPG|thumb|Nagini as a plush toy]]
+[[File:NaginiWU.png|thumb|Nagini, as she appears in {{WU}}]]
+[[File:Brilliant Nagini WU.png|thumb|Nagini, as she appears in {{WU}} "Brilliant Event: Circus Calamitous"]]
+[[File:Fb-circus.jpg|254x254px|thumb|Circus Arcanus' poster of Nagini]]
+<!-- DO NOT put that Nagini was the snake that Harry freed from the zoo in ''Philosopher's Stone''. This is a baseless and biased fan-rumour. -->
+*Nagini was based on Indonesian mythology.<ref>[https://twitter.com/jk_rowling/status/1044907311058358273 The Naga are snake-like mythical creatures of Indonesian mythology, hence the name ‘Nagini.’ They are sometimes depicted as winged, sometimes as half-human, half-snake. Indonesia comprises a few hundred ethnic groups, including Javanese, Chinese and Betawi. Have a lovely day 🐍] by [https://twitter.com/jk_rowling J.K. Rowling on Twitter]</ref>
+*Nagini's [[human]] form is portrayed by [[Claudia Kim]] and is one of the main cast of {{COG}}.<ref name="pmn" />
+**A common pre-release theory predicted that the [[Maledictus]] was the Snake Girl advertised on a poster for the Circus Arcanus,<ref>{{see image|file:Circus Arcanus.png}}</ref> with her Maledictus form being a snake. It was further hypothesised that the snake she would become was Nagini, which would solve the mystery of Nagini's origins. Her nature is such an important reveal would also explain why promotional material refused to give her name.<ref>[https://www.hp-lexicon.org/2018/01/09/episode-28-new-fan-theories/ Episode 28: New Fan Theories!] - The ''Harry Potter'' Lexicon</ref> This theory was confirmed when Claudia Kim stated that she was playing Nagini, along with the character being named in the final {{COG}} trailer.
+**According to [[J. K. Rowling]], she had been sitting on Nagini's secret for around twenty years.<ref>[https://twitter.com/jk_rowling/status/1044579634581401600 Only for around twenty years.] by [https://twitter.com/jk_rowling J.K. Rowling on Twitter]</ref>
+*Along with [[Albus Dumbledore]], Minerva McGonagall and [[Gellert Grindelwald]], Nagini is one of four characters who appear in both the [[Harry Potter (film series)|''Harry Potter'']] and [[Fantastic Beasts (film series)|''Fantastic Beasts'']] series to date (discounting the mentions of Newt Scamander and the Flamels in the ''Harry Potter'' series).  
+*In ''Goblet of Fire'' and ''Order of the Phoenix'', Nagini was likely portrayed as a Dumeril's Ground Boa, but in the last two films, she was portrayed as a Reticulated Python (the longest real-life snake species); both instances contradicted the book's description of her as a venomous snake. However, it was possible that she was a fictional species of venomous python within the film continuity. The filmmakers' intention was to model Nagini after a Burmese Python.<ref name="popup">{{HPPU}}, The [[Dark Arts]]</ref>
+*Nagini is the only Horcrux of Voldemort that was a living creature as Harry Potter was a pseudo horcrux that was created by accident.
+*Nagini seems highly intelligent as a snake during the Second Wizarding War. Whether she retained her human intelligence and sense of self, or was possessed by the portion of Voldemort's soul in the [[Horcrux]] (which would be a second example of a self-aware Horcrux after [[Tom Riddle's diary]]), is unknown, though it's worth noting that mundane [[Boa constrictor at the Zoo|boa]] whom [[Harry Potter]] encountered earlier in his life also demonstrated seemingly human-like intelligence, suggesting that snakes in the ''Harry Potter'' universe may simply be sentient as a matter of course, unbeknownst to Muggles. 
+*In {{HBP}}, Albus Dumbledore believed that Nagini may have been made into a Horcrux through the murder of an "old Muggle man", most likely referring to [[Frank Bryce]]. However, J. K. Rowling said in an interview that the murder that Voldemort used to make Nagini into a Horcrux was [[Bertha Jorkins]].
+*Nagini's history with Voldemort is difficult to piece together. It is unknown whether Voldemort owned Nagini before his fall in [[1981]], or if he had found her during his exile in [[Albania]]. However, it was stated that in the woods of Albania, the phantom-like form that was the remnants of Voldemort had possessed many animals, yet only snakes could bear having him inhabit them, thus leading to the notion that Voldemort and Nagini's relationship had originally commenced in Albania.
+**It is worth noting that she knew Voldemort when he killed [[Bertha Jorkins]] in Albania.
+**As she had the name of Nagini before she permanently became a snake, it is possible that Voldemort met or acquired her before her permanent transformation, or found out her name through [[Parseltongue]].
+*Nagini was killed by Neville using Gryffindor's Sword, which was an object that could destroy Horcruxes because it had been impregnated with [[Basilisk venom]] in [[1993]]. It was unknown if living Horcruxes could be destroyed by anything that cannot destroy an inanimate Horcrux; however, it was likely, because the Horcrux inside Harry was destroyed by Voldemort by using the Killing Curse. Nevertheless, it was still possible that living Horcruxes could not be destroyed by anything that would not destroy an inanimate Horcrux considering that the Killing Curse was a one-of-a-kind unblockable instant death spell. As a living container of a piece of Lord Voldemort's soul, it was unknown what would happen if she could have died naturally.
+*The killing of Nagini was very representative of the houses Gryffindor and Slytherin. The sword was originally Godric Gryffindor's, and Nagini was a snake, Salazar Slytherin's symbol, who was owned by a descendent of the Slytherin Family Line.
+*Nagini and the [[Salazar Slytherin's Basilisk|Basilisk]] were both giant snakes who served Voldemort, and both were killed with Gryffindor's Sword when someone pulled it out of the Sorting Hat. Also, both their deaths contributed to Voldemort becoming mortal (as the Basilisk fangs were used to destroy two Horcruxes and the venom absorbed by Godric Gryffindor's Sword allowed the destruction of three more). Also, the Basilisk was related to the first appearance of a Horcrux in the series, while Nagini was the last Horcrux.
+*Nagini was usually sent on missions on Voldemort's behalf, and made her rather vulnerable, which was against the general purpose of a Horcrux: to protect the portion of the soul. Nagini shared this trait with [[Tom Riddle's diary|The Diary Horcrux]]. However, it may be that Voldemort was sure that no one had discovered his Horcrux secrets and, as only a few things could destroy Horcruxes, he was fairly sure that both Nagini and the diary would be safe. However, it could have been that the primary purpose of creating these two items was not so much to provide for Voldemort's immortality, but rather to use the other properties of a Horcrux to create unique weapons. Dumbledore believed this to be the case for the diary.
+*There was a rumour that Nagini was the snake that Harry had released from the zoo in {{PS}}. This was proven false,<ref>[https://twitter.com/jk_rowling/status/1044578644604198913 Noooo... I thought I'd shot that one down! The escaped boa constrictor in Philosopher's Stone wasn't Nagini. It was never Nagini. That's an incorrect but very persistent fan theory!] by [https://twitter.com/jk_rowling J.K. Rowling on Twitter]</ref> as Nagini was some type of viper while the [[Boa constrictor at the Zoo|Snake at the Zoo]] was a boa constrictor. Furthermore, the snake was given a male voice in the film, while Nagini was female.
+[[File:Nagini_LEGO5-7.png|thumb|Nagini in {{LEGO|Y2}}]]
+*In {{LEGO|Y1}}, Nagini is a normal-sized snake. In {{LEGO|Y2}}, she is considerably larger. In real-life terms, this was so she could be more like a formidable boss battle, but in-universe, this could be due to her being a Horcrux.
+*Nagini's portrayed death was changed in the film just like her master's: in the novel, both of their corpses fell onto the floor when they received their respective deathblows; in the film, both of them disintegrated into nothingness instead. The film also adds the detail of the shard of Voldemort's soul inside Nagini escaping as smoke from the wound before dissolving. 
+*There is no known species of venomous snake matching Nagini's description; therefore, she was most likely a species of snake that was found only in the magical world. It is unknown if this was directly related to her [[Maledictus]] identity, or if this species also exists in the wild in the Wizarding World. 
+*When Nagini was first revealed to be in {{COG}}, the revelation received some backlash as it indicates Nagini, played by a woman of East Asian descent, will eventually become the ''pet'' of Voldemort — a likely unintentional, but not altogether-tasteful implication. 
+*According to MuggleNet, it is possible that Nagini's human and snake form will be separated in the sequel film of Fantastic Beasts.
+*The books have no history of Nagini being a human before.
+
+===Differences between book and film===
+[[File:Nagini_attacks_Snape.gif|thumb|Nagini killing Snape in {{DH|F2}}]]
+In the [[Harry Potter and the Deathly Hallows: Part 2|film adaptation]] of {{DH}}, Nagini was not protected by the magical orb, but instead by what appeared to be an invisible force field that deflected all spells cast at her. This allowed her to participate in the second stage of the battle, as opposed to dying before it began, where she attempted to strike Harry from the back while Voldemort duelled him from the front. Ultimately, she was fighting against Hermione and Ron, both of whom tried to stab her with a Basilisk fang, before Neville decapitated her. Upon her death, she vanished into black smoke, as opposed to simply dying and falling onto the ground in the novel. Why her body perished was not known, and she was the only Horcrux to disappear in such manner; all the others did not disappear, but instead left behind fragmented pieces, except the Diadem when Ron kicked the remnants into the oncoming [[Fiendfyre]]. Also, Nagini was killed while Harry Potter and Lord Voldemort were duelling, when in the book, Neville Longbottom killed Nagini while Voldemort and his Death Eaters were standing outside the [[Entrance Hall]]. Furthermore, Voldemort's and Snape's final meeting occurs in the [[Boathouse]] in the film, as opposed to the [[Shrieking Shack]] in the novel, and thus Nagini murders Snape there instead of on her master's orders.    
+
+==Appearances==
+{{Imagecat|Images of Nagini}}
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{OOTP}} {{Vision}}
+*{{OOTP|F}} {{Vision}}
+*{{OOTP|G}} {{Vision}}
+*{{HBP}} {{Mention}}
+*{{HBP|F}}
+*{{DH}}
+*{{DH|F1}}
+*{{DH|G1}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{COG|S}}
+*{{COG}}
+*{{FB3}}
+*{{HPPU}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{HPK}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CR}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+
+[[ca:Nagini]]
+[[da:Nagini]]
+[[de:Nagini]]
+[[de2:Nagini]]
+[[es:Nagini]]
+[[et:Nagini]]
+[[fi:Nagini]]
+[[fr:Nagini]]
+[[it:Nagini]]
+[[ja:ナギニ]]
+[[nl:Nagini]]
+[[no:Nagini]]
+[[pl:Nagini]]
+[[pt-br:Nagini]]
+[[ru:Нагайна]]
+[[sv:Nagini]]
+[[Category:Attack on Godric's Hollow (1997) participants]]
+[[Category:Battle in the Lestrange Family Mausoleum participants]]
+[[Category:Battle of Hogwarts fatalities]]
+[[Category:Circus performers]]
+[[Category:Death Eater allies]]
+[[Category:Deaths by decapitation]]
+[[Category:Deceased individuals]]
+[[Category:Females]]
+[[Category:Killed by Neville Longbottom]]
+[[Category:Maledictuses]]
+[[Category:Meeting at Malfoy Manor participants]]
+[[Category:Ministry of Magic allies]]
+[[Category:Murderers]]
+[[Category:Parselmouths]]
+[[Category:Plot to kill Harry Potter participants]]
+[[Category:Return of Lord Voldemort participants]]
+[[Category:Snakes]]
+[[Category:Tom Riddle's Horcruxes]]

@@ -1,0 +1,30 @@
+{{Pet individual infobox
+|image = 
+|name = Albus Potter's owl
+|born = 
+|died = 
+|alias = 
+|title = 
+|species = Owl
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Albus Potter]]
+}}
+[[Albus Potter]] owned an '''[[owl]]'''. He took it to [[Hogwarts School of Witchcraft and Wizardry]] in [[2017]].<ref>{{DH}} - Epilogue (''Nineteen Years Later'')</ref>
+
+==Appearances==
+*{{DH}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[pl:Sowa Albusa Pottera]]
+[[pt-br:Coruja de Alvo Potter]]
+[[Category:Albus Potter's possessions]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Owls]]
+[[Category:Potter family pets]]

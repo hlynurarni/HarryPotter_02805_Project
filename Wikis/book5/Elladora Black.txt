@@ -1,0 +1,85 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Elladora Black.jpg|250px]]
+|name = Elladora Black
+|born = [[1850]]<ref name="BFT">''[[House of Black#Family Tree|Black family tree]]''</ref>
+|died = [[1931]]<ref name="BFT" /> (aged 80 - 81)
+|blood = [[Pure-blood]]<ref name="BFT" />
+|marital = Single
+|nationality = 
+|alias = Aunt Elladora
+|title = 
+|signature = 
+|species = [[Human]]<ref name="BFT" />
+|gender = Female<ref name="BFT" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White
+|family = *[[Cygnus Black I]] (possible father)
+*[[Ella Max]] (possible mother)
+*[[Sirius Black I]] (brother)<ref name="BFT" />
+*[[Phineas Nigellus Black]] (brother)<ref name="BFT" />
+*[[Iola Black]] (sister)<ref name="BFT" />
+*[[Ursula Flint]] (sister-in-law)<ref name="BFT" />
+*[[Sirius Black II]] (nephew)<ref name="BFT" />
+*[[Phineas Black]] (nephew)<ref name="BFT" />
+*[[Cygnus Black II]] (nephew)<ref name="BFT" />
+*[[Belvina Black]] (niece)<ref name="BFT" />
+*[[Arcturus Black II]] (nephew)<ref name="BFT" />
+*[[Bob Hitchens]] (brother-in-law)
+*[[House of Black|Black family]]
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]] (possibly)
+|loyalty = [[House of Black]]<ref name="BFT" />
+}}
+{{Quote|... and dear Aunt Elladora... she started the family tradition of beheading house-elves when they got too old to carry tea trays...|[[Sirius Black]] tells [[Harry Potter]] of the [[House of Black]]|Harry Potter and the Order of the Phoenix}}
+'''Elladora Black''' ([[1850]] – [[1931]]) was a [[pure-blood]] [[Wizardkind|witch]], and a member of [[House of Black]].
+
+==Biography==
+Elladora was born in [[1850]].
+
+She was possibly the daughter of [[Cygnus Black I]] and his wife [[Ella Max]]. Her siblings were [[Sirius Black I]], [[Phineas Nigellus Black|Phineas Nigellus]], and [[Iola Black|Iola]]. She never married or had children.<ref name="BFT" />
+
+Elladora instituted the policy of cutting off the heads of the family [[House-elf|house-elves]] and mounting them on the wall once they became too old to carry a tea tray.<ref>{{OOTP|B|4}}</ref>
+
+==Behind the scenes==
+*Based on a statement by [[Horace Slughorn]], Elladora may have been a member of the [[Slytherin|Slytherin House]]. This is most likely true, since [[Sirius Black]] said all of his [[House of Black|family]] was in the Slytherin House. However, she attended Hogwarts c. [[1861]] - [[1868]], when Slughorn wasn't even born.
+*Elladora and her siblings may have been children of [[Cygnus Black I]] and [[Ella Max]]. In this case, their uncle would have been [[Arcturus Black I]], Cygnus' brother, and aunt [[Misapinoa Black|Misapinoa Blishwick née Black]].
+*If Elladora was the sister of Sirius, Phineas and Iola, and the daughter of Ella Max and the late Cygnus, this would mean that her father died when she was about one year old, and her brother died when she was three.
+*Elladora's and Callidora's pictures on the [[Black Family Tapestry|Black family tree tapestry]] are the same. Also, Callidora and Elladora have similar names.
+*Sirius once said to [[Harry Potter|Harry,]] "dear Aunt Elladora", but on the [[House of Black|Black family tree]], Elladora is Sirius' great-great-great aunt. Sirius may not have wanted to bore Harry with "great-great-great aunt", and just chosen to call her aunt, as it was easier.
+*Elladora was only three years old when her elder brother [[Sirius Black I|Sirius]] died.
+*Elladora could have possibly been a half-namesake for [[Callidora Black|Callidora]], as both have names ending with Dora (which is the nickname of Elladora's [[Nymphadora Tonks|four-greats-niece]], given to her by her father, though Tonks came from her [[Andromeda Tonks|disowned mother]]).
+
+==Etymology==
+*The name ''Ella'' is a Norman form of the Germanic ''Alia'', meaning "other".<ref>[http://www.behindthename.com/php/search.php?terms=Ella&nmd=n&gender=both&operator=or Behind the Name: Ella]</ref> It is also possibly related to ''[[Wikipedia:Aelle|Aella]]'', a Greek name meaning "whirlwind". Aella of mythology was an Amazon killed by Hercules. The name ''Dora'', often considered a diminutive of ''Theodora'', is derived from the Greek word ''doron'', meaning "gift".<ref>[http://www.behindthename.com/name/theodora Behind the Name: Theodora]</ref>
+*Elladora was probably named after her mother Ella.
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|F}} {{Comment|Seen on Black family tree tapestry}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Black, Elladora}}
+
+[[de:Elladora Black]]
+[[es:Elladora Black]]
+[[fr:Elladora Black]]
+[[ru:Элладора Блэк]] 
+[[pl:Elladora Black]]
+[[Category:1850 births]]
+[[Category:1931 deaths]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:House of Black|Elladora]]
+[[Category:House-elf rights]]
+[[Category:Pure-bloods]]
+[[Category:Unmarried individuals]]
+[[Category:Wizards]]

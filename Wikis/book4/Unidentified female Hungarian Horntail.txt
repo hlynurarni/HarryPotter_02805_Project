@@ -1,0 +1,58 @@
+{{Conjecture}}
+{{Pet individual infobox
+|image = Hungarianhorntail.jpg
+|name = Unidentified female Hungarian Horntail
+|born = Pre [[1994]]
+|died = 
+|alias = 
+|title = 
+|species = [[Hungarian Horntail]]<ref name="GOF20"/>
+|gender = Female<ref name="GOF20"/>
+|height = 
+|hair = 
+|feathers = 
+|eyes = Yellow<ref name="GOF20"/>
+|skin = Black<ref name="GOF20"/>
+|family = 
+|loyalty = 
+}}
+{{Quote|And there was the [[Hungarian Horntail|Horntail]], at the other end of the enclosure, crouched low over her clutch of [[Dragon egg|eggs]], her wings half-furled, her evil, yellow eyes upon him, a monstrous brown dragon, thrashing her spiked tail, heaving yard-long gouge marks in the hard ground.|[[Harry Potter]] meets the [[Hungarian Horntail]]|Harry Potter and the Goblet of Fire}}
+This '''unidentified [[Hungarian Horntail]]''' was the female [[dragon]] that [[Harry Potter]] had to get by in the [[Triwizard Tournament#First Task|First Task]] of the [[1994]] [[Triwizard Tournament]].<ref name="GOF20"/>
+
+==Biography==
+{{Quote|Harry put his hand into the silk bag and pulled out the Hungarian Horntail, and the number four.|The miniature [[dragon]]|Harry Potter and the Goblet of Fire}} Due to his earlier espionage, [[Harry Potter]] was, in fact, aware of the sole remaining choice before he drew it from the bag of selection. According to [[Charles Weasley]], she could shoot [[fire]] forty feet. He felt sorry for whomever got the Horntail, as its "back end's as dangerous as its front", and felt unable to tell his mother of the terrors awaiting Harry.<ref name="GOF19">{{GOF|B|19}}</ref> He proceeded the inevitable and drew the tiny Horntail [[model dragon]] depicting the from the bag, revealing his opponent to the rest of the occupants in the [[Waiting Tent]].
+[[File:Accio Firebolt.gif|220x220px|thumb|left|Harry during the First Task]]
+When it was Harry's turn, he [[Summoning Charm|Summoned]] [[Harry Potter's Firebolt|his Firebolt]] [[broomstick]] to him and used it to manoeuvre around the dragon to retrieve the [[Golden egg]]. Charlie helped transport the dragon from [[Romania]].<ref name="GOF20">{{GOF|B|20}}</ref>
+
+After the task, Harry kept the [[Model dragon|miniature version]] of the Horntail he received when he drew the Horntail for the Task.<ref name="GOF21">{{GOF|B|21}}</ref>
+
+When faced with the agony of trying to ask someone to the [[Yule Ball]], Harry said that he would have preferred facing the Horntail again.<ref name="GOF22">{{GOF|B|22}}</ref>
+
+==Behind the scenes==
+[[File:Horntail.jpg|215px|thumb|The Horntail in [[LEGO Harry Potter|LEGO]] form]]
+*The neck part of [[Serpent of Slytherin|the Basilisk]] prop from {{COS|FA}} was reused to create the neck of this Hungarian Horntail.<ref>[https://twitter.com/wbtourlondon/status/591194828978847744 The neck of the model Basilisk was reused to create the neck of the Hungarian Horntail! #StGeorgesDay] by [https://twitter.com/wbtourlondon Warner Bros. Studio Tour London on Twitter]</ref>
+*In {{GOF|FA}}, the Horntail broke free of its chain and attacked Harry. The two of them fought in an exciting chase that spanned all around the castle grounds, almost causing Harry to fall to his death at one point when he was trying to reach his [[Firebolt]], but when the chase continued, Harry flew through the [[Viaduct]], which the Horntail crashed into, breaking its wing and causing it to fall into the chasm below, presumably to its [[death]].<ref name="GOFF">{{GOF|F}}</ref>
+*In {{HBP|FA}}, the [[Model dragon|Hungarian Horntail model]] that was given to Harry from Barty Crouch Snr is seen in the [[Weasleys' Dragon Roasted Nuts|Roast chestnuts sale]], located in [[Diagon Alley]]. It is possible that Harry gave his dragon to Fred and George who put it there.
+*In {{LEGO|Y1}}, Hermione falls into the arena with Harry and they both have to battle it. It not only breaks free like in the film, but it also chases them into the castle.<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+*In the film, Harry is shown to have a sling around his arm after he gets slashed by the tail.
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{GOF|G}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO}}
+*{{HPV|CH}} {{Mention}}
+*{{HPV|CR}}
+*{{PM}}
+*{{WW}}
+
+==Notes and references==
+{{Reflist}}
+[[fr:Magyar à pointes du Tournoi des Trois Sorciers]]
+[[Category:Articles with conjectural titles]]
+[[Category:Females]]
+[[Category:Triwizard Tournament dragons|Hungarian]]
+[[Category:Yellow-eyed individuals]]

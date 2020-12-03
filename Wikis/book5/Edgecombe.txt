@@ -1,0 +1,49 @@
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Edgecombe
+|born = 
+|died = 
+|blood = 
+|marital = Married
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Madam]]
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Marietta Edgecombe's father|Mr Edgecombe]] (husband)
+*[[Marietta Edgecombe]] (daughter)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Floo Network Regulator]]
+|house = 
+|loyalty = *[[British Ministry of Magic]]
+**[[Department of Magical Transportation]]
+*[[Edgecombe family]]
+}}
+'''[[Madam]] Edgecombe''' was a [[Great Britain|British]] [[Wizardkind|witch]] and the wife of [[Marietta Edgecombe's father|Mr Edgecombe]] and the mother of [[Marietta Edgecombe|Marietta]]. She worked in the [[British Ministry of Magic]] as a [[Floo Network Regulator]] and assisted [[Dolores Umbridge]] in monitoring the incoming and outgoing communications of the [[Hogwarts Castle]] fireplaces in [[1995]]. She was a supporter of the then-Minister [[Cornelius Fudge]]'s claim that [[Tom Riddle|Lord Voldemort]] was dead. Due to her career, she forbade her daughter from doing anything that may get on Umbridge's bad side.<ref name="OOTP18">{{OOTP|B|18}}</ref>
+
+==Appearances==
+*{{OOTP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 6 employees}}
+[[de:Madam Edgecombe]]
+[[es:Madam Edgecombe]]
+[[fr:Mère de Marietta Edgecombe]] [[pl:Pani Edgecombe]]
+[[Category:British individuals|Edgecombe, Madam]]
+[[Category:Department of Magical Transportation personnel]]
+[[Category:Edgecombe family|Edgecombe, Madam]]
+[[Category:Females|Edgecombe, Madam]]
+[[Category:Parents]]
+[[Category:Wizards|Edgecombe, Madam]]

@@ -1,0 +1,44 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Scarpin
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Spell creation|Spell inventor]]
+|house = 
+|loyalty = 
+}}
+'''Scarpin''' was the [[Wizardkind|wizard or witch]] who presumably [[Spell creation|developed]] [[Scarpin's Revelaspell]], a technique for analysing the ingredients of a [[potion]]. Alternatively, it may have been named after them by someone else.<ref name="HBPF">{{HBP|F}}</ref>
+
+==Appearances==
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Charms}}
+
+[[es:Scarpin]]
+[[pl:Skarpin]]
+[[ru:Эскарпин]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Spell inventors]]
+[[Category:Wizards]]

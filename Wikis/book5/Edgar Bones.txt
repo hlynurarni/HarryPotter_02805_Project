@@ -1,0 +1,81 @@
+{{Individual infobox
+|theme = phoenix
+|image = [[File:Edgar Bones.jpg|250px]]
+|name = Edgar Bones
+|born = 
+|died = [[1981]]<ref>Edgar appeared in a photograph with [[Marlene McKinnon]] that was  taken two weeks before Marlene's death in 1981 (possibly in July). This indicates Edgar was alive in 1981 and must been killed sometime between then and Voldemort's fall (31 October, 1981).</ref>
+|blood = [[Half-blood]] or [[Pure-blood]]<ref name="blood">Both his parents were wizards, so he was not [[Muggle-born]]</ref>
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="OOTP9"/>
+|gender = Male<ref name="OOTP9"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Amelia Bones' father|Mr Bones]] (father) †
+*[[Amelia Bones' mother|Mrs Bones]] (mother) †
+*[[Amelia Bones]] (sister) †
+*[[Edgar Bones's wife|Wife]] †
+*[[Edgar Bones's children|Children]] †
+*[[Susan Bones]] (niece)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = Unknown length, wood and core
+|patronus = 
+|job = 
+|house = [[Hufflepuff]]<ref>In Ch. 4 of ''Harry Potter and the Half-blood Prince'', [[Horace Slughorn]] states that family members are often Sorted into the same House. This may indicate that Edgar was Sorted into Hufflepuff, as his niece Susan was. However, there are exceptions.</ref> {{c|possibly}}
+|loyalty = *[[Bones family]]
+*[[Order of the Phoenix]]<ref name="OOTP9"/>
+}}
+{{Quote|That’s Edgar Bones... brother of Amelia Bones, they got him and his family too, he was a great wizard...|[[Alastor Moody]]'s opinion of Edgar|Harry Potter and the Order of the Phoenix}}
+'''Edgar Bones''' (d. [[1981]]) was a [[Wizardkind|wizard]], son of [[Amelia Bones' father|Mr]] and [[Amelia Bones' mother|Mrs Bones]], brother of [[Amelia Bones|Amelia]] and at least one other person. He attended [[Hogwarts School of Witchcraft and Wizardry]] and was possibly sorted into [[Hufflepuff|Hufflepuff House]].
+
+Edgar became a member of the original [[Order of the Phoenix]] and fought in the [[First Wizarding War]]. At some point he married a [[Edgar Bones's wife|woman]] and had several [[Edgar Bones's children|children]]. According to [[Alastor Moody]] Edgar was a "great wizard". He and his family were murdered by [[Death Eaters]] before the war's end.<ref name="OOTP9">{{OOTP|B|9}}</ref>
+
+==Biography==
+Edgar was born into a [[Bones family|wizarding family]] and had a sister, [[Amelia Bones|Amelia]]. He attended [[Hogwarts School of Witchcraft and Wizardry]], where he was possibly sorted into [[Hufflepuff]] house. Edgar and Amelia also had at least one other sibling, the parent of their niece [[Susan Bones|Susan]].
+
+During the [[First Wizarding War]], Edgar Bones became member of the [[Order of the Phoenix]], an organisation led and founded by [[Albus Dumbledore]], in order to oppose the [[Tom Riddle|Dark Lord Voldemort]] and his [[Death Eaters]]. Edgar also married a [[Edgar Bones's wife|woman]] and had [[Edgar Bones's children|more than one child]] with her. Edgar was also described as being a great wizard by [[Alastor Moody]]. [[Rubeus Hagrid]] also told [[Harry Potter]] that the [[Bones family]] was considered among the greatest wizards of all time.<ref name="OOTP9"/>
+
+Edgar was murdered, along with his [[Edgar Bones's wife|wife]] and [[Edgar Bones's children|children]], by [[Death Eaters]] sometime in the later half of 1981.<ref name="OOTP25">{{OOTP|B|25}}</ref> His [[Amelia Bones' mother|mother]] and [[Amelia Bones' father|father]] were also murdered by [[Tom Riddle|Voldemort]].<ref>[http://www.accio-quote.org/articles/2000/1000-livechat-barnesnoble.html 20 October, 2000 chat with J.K. Rowling] at [http://www.accio-quote.org Accio Quote!]</ref>
+
+==Magical abilities and skills==
+*'''[[Magic]]al mastery''': Considered to be an exceptionally talented wizard by both [[Alastor Moody]] and [[Rubeus Hagrid]], it is highly likely that Edgar was one of the most powerful wizards in the [[Order of the Phoenix|Order]].<ref name="PS4">{{PS|B|4}}</ref><ref name="OOTP9">{{OOTP|B|9}}</ref>
+
+==Etymology==
+The name "Edgar" is derived from the Old English elements ''ead'' "rich, blessed" and ''gar'' "spear". This was the name of a 10th-century English king who is regarded as a saint. The name did not survive long after the Norman conquest, but it was revived in the 18th century, in part due to a character by this name in Sir Walter Scott's novel 'The Bride of Lammermoor' (1819).
+
+==Behind the scenes==
+*Edgar Bones was portrayed by First Assistant Director [[Cliff Lanning]] in {{OOTP|FA}}. He only appeared in the photograph of the Order of the Phoenix.
+
+==Appearances==
+{{Imagecat|Images of Edgar Bones}}
+*{{PS}} {{Comment|Indirect mention}}
+*{{OOTP}} {{1st Mention}}
+*{{OOTP|F}} {{Portrait}}
+*{{PM}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{Order of the Phoenix}}
+{{DEFAULTSORT:Bones, Edgar}}
+[[de:Edgar Bones]]
+[[fr:Edgar Bones]]
+[[fi:Edgar Bones]]
+[[pl:Edgar Bones]]
+[[Category:1981 deaths]]
+[[Category:Bones family]]
+[[Category:British individuals]]
+[[Category:First Order of the Phoenix]]
+[[Category:First Wizarding War casualties]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Murder victims]]
+[[Category:Parents]]
+[[Category:Wizards]]

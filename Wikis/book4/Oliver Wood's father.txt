@@ -1,0 +1,50 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Mr Wood
+|born = before [[1975]]
+|died = 
+|blood = 
+|marital = Married
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF7"/>
+|gender = Male<ref name="GOF7"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Oliver Wood's mother|Mrs Wood]] (wife)<ref name="GOF7"/>
+*[[Oliver Wood]] (son)<ref name="GOF7"/>
+*[[Robert Wood]] {{Comment|Possibly}}
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Wood family]]<ref name="GOF7"/>
+}}
+'''Mr Wood''' was the father of [[Oliver Wood]]. He went to the [[1994 Quidditch World Cup]] with his [[Oliver Wood's mother|wife]] and son. While there, Oliver, who had recently left [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], introduced him to a former schoolmate, [[Harry Potter]].<ref name="GOF7">{{GOF|B|7}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Wood, Mr}}
+[[fr:Parents d'Olivier Dubois]]
+[[ru:Мистер Вуд]]
+[[pl:Pan Wood]]
+[[Category:1994 Quidditch World Cup attendees]]
+[[Category:British individuals|Wood]]
+[[Category:Males|Wood]]
+[[Category:Married individuals]]
+[[Category:Parents]]
+[[Category:Unnamed family members]]
+[[Category:Wizards]]
+[[Category:Wood family]]

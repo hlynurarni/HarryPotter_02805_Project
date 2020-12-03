@@ -1,0 +1,91 @@
+{{Individual infobox
+|theme = gryffindor
+|image = Richie in Quidditch.jpg
+|name = Ritchie Coote
+|born = Before [[31 August]] [[1984]] (most likely)<ref name="age">[[Minerva McGonagall]] stated that first years usually don´t participate in Quidditch matches.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = [[Beater]]<ref name="HBP11" />
+|signature = 
+|species = [[Human]]<ref name="HBP11" />
+|gender = Male<ref name="HBP11" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Gryffindor]]<ref name="HBP11" />
+|loyalty = *[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP11" />
+**[[Gryffindor]]<ref name="HBP11" />
+**[[Gryffindor Quidditch team]]<ref name="HBP11" />
+}}
+{{Quote|Neither of his chosen Beaters had the old brilliance of Fred and George, but he was still reasonably pleased with them: [[Jimmy Peakes]], a short but broad-chested third-year boy who had managed to raise a lump the size of an egg on the back of Harry's head with a ferociously hit Bludger, and Ritchie Coote, who looked weedy but aimed well.|Harry Potter's assessment of the new Gryffindor Beaters|Harry Potter and the Half-Blood Prince}}
+'''Ritchie Coote''' (fl. [[1985]]-[[1997]]) was a student at [[Hogwarts School of Witchcraft and Wizardry]] during the 1990s. He was chosen by [[Harry Potter]] to be one of the new [[Beater]]s for the [[1996–1997 school year|1996-1997]] [[Gryffindor Quidditch team]]. Together with [[Jimmy Peakes]], he replaced [[Jack Sloper]] and [[Andrew Kirke]].<ref name="HBP11">{{HBP|B|11}}</ref>
+
+==Biography==
+===Hogwarts years===
+====Early years====
+Ritchie was educated at [[Hogwarts School of Witchcraft and Wizardry]] and apon his arrival was sorted into the [[Gryffindor|Gryffindor House]]. Ritchie was a fair player at [[Quidditch]] and played best in the position of Beater.<ref name="HBP11" /> Ritchie had not tried out for the [[Quidditch team]] as there was few open positions.
+====1996-1997 school year====
+{{Quote|The Beaters, Peakes and Coote, were getting better all the time.|Harry Potter regarding the Gryffindor team's improving skill|Harry Potter and the Half-Blood Prince}}[[File:Harry-potter-half-blood-tryouts.jpg|250px|thumb|left|Ritchie during Quidditch tryouts]]
+
+In 1996, after the departure of Fred and George Weasley, Ritchie Coote along with [[Jimmy Peakes]] replaced them as the new beaters for the [[Gryffindor Quidditch team]]. According to [[Harry Potter]], neither of the two lived up to the shadow that the Weasley twins had left them, but they played well enough and managed to stay on the team throughout the 1996-1997 [[Quidditch]] season.<ref name="HBP11" />
+
+It was mentioned by [[Hermione Granger]] that he and [[Jimmy Peakes|Peakes]] apparently caught Harry after he was knocked out by a Bludger to the head that [[Cormac McLaggen]] accidently hit him with.<ref name="HBP11" /> At the end of this year, Headmaster [[Albus Dumbledore]] was murdered by [[Severus Snape]].
+
+====1997-1998 school year====
+Not being in [[Harry Potter]]'s year and the 1997–1998 school year being Harry's final year of education meant that Ritchie would also be returning to continue his education at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in 1997 after the death of former Headmaster [[Albus Dumbledore]]. With Dumbledore dead the school was to be taken over by [[Minerva McGonagall]] but with [[Tom Riddle|Lord Voldemort]]'s rise to power [[Severus Snape]] took to the position.
+
+=====Battle of Hogwarts=====
+In last few months of the school year, the [[Second Wizarding War]] came to a close with the [[Battle of Hogwarts]]. Lord Voldemort and his [[Death Eaters|Death Eater]] army invaded the castle and a battle broke out to defend it and protect [[Harry Potter]]. The castle was almost completely destroyed and there were many casualties. It is unknown if Ritchie was present for the battle or if he was too young to stay in combat.
+
+==Physical appearance==
+It was said that Coote did not have the "old brilliance" of Fred and George (whom he and fellow new Beater Jimmy Peakes replaced) and he "looked weedy", but he did aim well.<ref name="HBP11" />
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Coote was shown to be a skilled [[Quidditch]] player, as he was chosen to play as [[Beater]] on the [[Gryffindor Quidditch team]] in [[1996]]. He was said to aim well whilst playing.<ref name="HBP11" />
+
+==Etymology==
+Taken from pety coote, "a small coat," from petty + coat. Originally a padded coat worn by men under armour. May reference to the character's place originally being filled by Fred/George Weasley and now filled by a new man in armour (Quidditch Uniform).
+
+==Behind the scenes==
+*Ritchie Coote was portrayed in {{HBP|FA}} by [[Ashley Virgil]].
+*In {{HBP|FA}}, Ritchie Coote is shown wearing jersey number 3 during a Quidditch match, but wears a tunic with number 1 for the try-outs.
+
+==Appearances==
+{{Imagecat|Images of Ritchie Coote}}
+*{{HBP}} {{1st}}
+*{{HBP|F}}
+*{{HBP|G}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts quidditch positions}}
+
+{{DEFAULTSORT:Coote, Ritchie}}
+[[de:Ritchie Coote]]
+[[de2:Ritchie Coote]]
+[[es:Ritchie Coote]]
+[[fr:Ritchie Coote]]
+[[he:ריצ'י קוט]]
+[[nl:Rick Cools]]
+[[pl:Ritchie Coote]]
+[[ru:Ричи Кут]]
+[[sv:Ritchie Coote]]
+[[Category:20th century births]]
+[[Category:Beaters]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Males]]
+[[Category:Sorted in the 1990s]]
+[[Category:Wizards]]

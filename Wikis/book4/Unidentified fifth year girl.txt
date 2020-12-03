@@ -1,0 +1,48 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Fifth year girl
+|born = c. [[1978]]-[[1979]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF22"/>
+|gender = Female<ref name="GOF22"/>
+|height = A foot taller than [[Harry Potter]]<ref name="GOF22"/>
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="GOF22"/>
+}}
+{{Dialogue a-b|[[Ronald Weasley|Ron Weasley]]|She was quite good looking.|[[Harry Potter]]|She was a foot taller than me. Imagine what I'd look like trying to dance with her.|[[Harry Potter]] and [[Ronald Weasley|Ron Weasley]] after the girl asked Harry to the Yule Ball|Harry Potter and the Goblet of Fire}}
+This '''unidentified [[fifth year]]''' asked [[Harry Potter]] to go with her to the [[Yule Ball]] with her in [[1994]]. Harry, however, turned her down.<ref name="GOF22">{{GOF|B|22}}</ref>
+
+==Physical appearance==
+She was described as ''"quite good looking"'' by [[Ronald Weasley|Ron Weasley]]. She was a foot taller than Harry Potter, which Harry thought would look awkward if he tried to dance with her at the ball. Harry also described her as looking as though she might knock him out if he refused her invitation.<ref name="GOF22"/>
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:1970s births|Fifth year girl]]
+[[Category:British or Irish individuals]]
+[[Category:Females|Fifth year girl]]
+[[Category:Sorted in 1990|Fifth year girl]]
+[[Category:Unidentified Hogwarts Students|Fifth year girl]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

@@ -1,0 +1,37 @@
+{{Organisation infobox
+|bgcolor1 = 
+|bgcolor2 = 
+|image = 
+|name = Salem Witches' Institute
+|founder = 
+|founded = 
+|dissolved = 
+|leader = 
+|members = 
+|headquarters = [[Salem]], {{wplink|Massachusetts}}, [[United States of America]] {{comment|presumably}}
+|intentions = Organisation for witches<ref name="Twitter">[https://twitter.com/jk_rowling/status/607275327111458816 .@jgrahamhutch The Salem Witches' Institute isn't a school, but a joke on the Women's Institute in the UK.] by [https://twitter.com/jk_rowling J.K. Rowling on Twitter]</ref>
+|affiliation = 
+|enemies = 
+}}
+The '''Salem Witches' Institute''' was a women's organisation for [[Wizardkind|witches]],<ref name="Twitter" /> presumably based in [[Salem]], {{wplink|Massachusetts}}. 
+
+==History==
+Some of the institute's members attended the [[1994]] [[Quidditch World Cup]], and were seen gossiping happily in between two tents bearing the institute's name.<ref name="gof7">{{GOF|B|7}}</ref>
+
+==Behind the scenes==
+*[[J. K. Rowling]] has stated that the Salem Witches' Institute is a play on the [[Wikipedia:Women's Institutes|Women's Institutes]] of the [[Great Britain|United Kingdom]].<ref name="Twitter"/> These organisations seek to provide women with educational opportunities and to campaign on issues of importance to women and their communities.<ref>"[https://en.wikipedia.org/wiki/Women's_Institutes Women's Institutes]" on Wikipedia</ref>
+*In an interview shortly before the release of {{GOF}} in 2000, J. K. Rowling responded  to a question about whether American children could attend [[Hogwarts School of Witchcraft and Wizardry]] by stating, "No, they have their own school. You'll find out in Book 4."<ref>[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm "World Exclusive Interview with J K Rowling," South West News Service, 8 July 2000]</ref> This lead to speculation among fans that the Salem Witches' Institute was an [[United States of America|American]] wizarding school, which persisted until 2015, when the author revealed on Twitter that it was actually a women's organisation.<ref name="Twitter" />
+*In {{GOF}}, the banner which displays the institute's name is described as a "spangled banner". This is more than likely a reference to the American Flag, which is referred to as the [https://en.wikipedia.org/wiki/The_Star-Spangled_Banner Star-Spangled Banner].
+
+==Appearances==
+*{{GOF}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Hexeninstitut von Salem]]
+[[es:Instituto de las Brujas de Salem]]
+[[fr:Institut des sorcières de Salem]]
+[[it:Istituto delle Streghe di Salem]]
+[[pl:Instytut Czarownic z Salem]]
+[[ru:Салемский институт ведьм]]
+[[Category:Organisations]]

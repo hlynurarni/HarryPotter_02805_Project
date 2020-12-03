@@ -1,0 +1,54 @@
+{{Individual infobox
+|theme=mom
+|image=
+|name=Bletchley
+|hideb=hide
+|born=
+|died=
+|blood=[[Pure-blood]] or [[Half-blood]]<ref name="Blood">Given how he/she worked for the Death Eater controlled [[British Ministry of Magic]], they would have not been [[Muggle-born]].</ref>
+|marital=
+|alias=
+|title=
+|hidep=
+|species=[[Human]]<ref name="DH13"/>
+|gender=
+|height=
+|hair=
+|eyes=
+|skin=
+|hidef=
+|family=
+*[[Kevin Bletchley]] (possibly)
+*[[Bletchley (musician)|Madame Bletchley]] (possibly)
+*[[Miles Bletchley]] (possibly)
+|hidem=hide
+|animagus=
+|boggart=
+|wand=
+|patronus=
+|hidea=
+|job=[[British Ministry of Magic]] employee<ref name="DH13"/>
+|house=
+|loyalty=*[[British Ministry of Magic]]<ref name="DH13"/>
+*[[Bletchley family]]
+}}
+{{Dialogue a-b-a|Arthur Weasley|Oh, hello, Reg. Isn't your wife in for questioning today? Er - what's happened to you? Why are you so wet?|Ron Weasley (as Reginald Cattermole)|Yaxley's office is raining. I couldn't stop it, so they've sent me to get Bernie - Pillsworth, I think they said - |Yes, a lot of offices have been raining lately. Did you try ''Meteolojinx Recanto''? It worked for Bletchley.|[[Arthur Weasley]] speaking to "[[Reginald Cattermole]]" (actually [[Ronald Weasley]] in [[Polyjuice Potion|disguise]]|Harry Potter and the Deathly Hallows}}
+'''Bletchley''' was a [[British Ministry of Magic|Ministry of Magic]] [[Wizardkind|employee]] whose office was hit by the indoor [[Water|rain]] phenomenon that swept through the Ministry headquarters in [[September]] of [[1997]]. The rain was successfully stopped in Bletchley's office with the [[spell]] ''[[Meteolojinx Recanto]]''.<ref name="DH13">{{DH|B|13}}</ref>
+
+==Appearances==
+*{{DH}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Ministry employees of unknown Department}}
+
+[[de:Bletchley sr.]]
+[[es:Bletchley]]
+[[fr:Bletchley]]
+[[pl:Bletchley]]
+[[Category:Bletchley family]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Ministry of Magic employees]]
+[[Category:Wizards]]

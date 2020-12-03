@@ -1,0 +1,51 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Emma Dobbs
+|born = c. [[1982]]-[[1983]]
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Emma Dobbs''' was a [[Wizardkind|witch]] that began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1994]].<ref>{{GOF|B|12}}</ref>
+
+==Etymology==
+The name "Emma" was originally a short form of Germanic names that began with the element ''ermen'' meaning "whole" or "universal". It was introduced to England by Emma of Normandy, who was the wife both of king Ethelred II (and by him the mother of Edward the Confessor) and later of king Canute. It was also borne by an 11th-century Austrian saint, who is sometimes called Hemma. After the Norman conquest this name became common in England. It was revived in the 18th century, perhaps in part due to Matthew Prior's poem ''Henry and Emma'' (1709). It was also used by Jane Austen for the central character, the matchmaker Emma Woodhouse, in her novel ''Emma'' (1816).
+
+==Appearances==
+*{{GOF}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dobbs, Emma}}
+
+[[de:Emma Dobbs]]
+[[fr:Emma Dobbs]]
+[[pl:Emma Dobbs]]
+[[ru:Эмма Ноббс]]
+[[Category:1980s births]]
+[[Category:British individuals]]
+[[Category:Females]]
+
+[[Category:Sorted in 1994]]
+[[Category:Wizards]]

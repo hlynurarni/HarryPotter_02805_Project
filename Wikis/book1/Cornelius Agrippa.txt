@@ -1,0 +1,77 @@
+{{Real world subject}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Cornelius Agrippa.JPG|250px]]
+|name = Cornelius Agrippa
+|born = [[1486]]<br/>[[Germany]]
+|died = [[1535]] (aged 48 - 49)
+|blood = 
+|marital = 
+|nationality = [[German]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PSG"/>
+|gender = Male<ref name="PSG"/>
+|height = 
+|weight = 
+|hair = Brown<ref name="PSG">{{PS|G}}</ref>
+|eyes = Green<ref name="PSG"/>
+|skin = White<ref name="PSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Author<ref name="PSG"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Cornelius Agrippa (1486—1535): Celebrated wizard imprisoned by Muggles for his writings.|[[Chocolate Frog Card]]|Harry Potter and the Philosopher's Stone (video game)}}
+'''Cornelius Agrippa''' ([[1486]]—[[1535]]) was a celebrated [[Germany|German]] [[Wizardkind|wizard]] who authored [[Cornelius Agrippa's books|many works]] on [[wizardkind|wizards]] and [[magic]].<ref name="PSG"/>
+
+==Biography==
+===Early life===
+Cornelius Agrippa was born in [[1486]], in [[Germany]].<ref name="PSG"/>
+
+===Adulthood===
+{{Quote|Cornelius Agrippa lived from 1486 to 1535. He wrote books about magic and wizards. Some important people thought his books were evil, so they put him in gaol for writing them.|[[Chocolate Frog Card]].|Chocolate Frog Cards}}[[File:Cornelius Agrippa.jpg|200px|thumb|left|Agrippa whilst imprisoned]]
+A celebrated author, Agrippa authored numerous [[Cornelius Agrippa's books|works]] about [[wizardkind]] and [[magic]]. However, the persecution of witches and wizards gathered pace all over [[Europe]] in the [[15th century|fifteenth century]], and Agrippa was imprisoned by [[Non-magic people|Muggles]] who claimed his works were [[Dark Arts|evil]].<ref name="FWC">[[Chocolate Frog Card]]s</ref>
+
+For undisclosed reasons, Cornelius Agrippa was the namesake of [[Agrippa|a substance with magical properties]], used in [[Potion|Potion-making]].
+
+===Death and post-mortem===
+Cornelius Agrippa died in [[1535]], aged 49. By the [[1990s]], he was featured on a [[Chocolate Frog Card]]. This card was one of only two that were missing from [[Ronald Weasley|Ron Weasley]]'s collection when he met [[Harry Potter]] in [[1991]] (the other being [[Ptolemy]]).<ref name="PS6">{{PS|B|6}}</ref>
+
+==Behind the scenes==
+*{{w|Heinrich Cornelius Agrippa|Heinrich Cornelius Agrippa von Nettesheim}} ([[1486]] – [[1535]]) was a German soldier, physician and author whose major works include ''Declamatio de nobilitate et praecellentia foeminei sexus'' (''Declamation on the Nobility and Preeminence of the Female Sex''), a book first published in [[1529]] that asserts that women are morally and theologically superior to men, and ''[[Wikipedia:De occulta philosophia libri tres|De occulta philosophia libri tres]]'' (''Three Books on Occult Philosophy''), a trilogy of books covering a wide variety of occult topics first published between [[1531]] and [[1533]]. He was an adept in alchemy, astrology, and magic. His interest in the occult lead to criticism, and caused him to lose several jobs, but he is not known to have been imprisoned for it.<ref>"{{wikilink|Heinrich_Cornelius_Agrippa}}" on Wikipedia</ref>
+==Appearances==
+{{Imagecat|Images of Cornelius Agrippa}}[[File:Cornelius Agrippa Chocolate Frog Card.png|thumb|Cornelius Agrippa's bronze wizard card]]
+*{{PS}} {{1st Mention}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Agrippa, Cornelius}}
+
+{{Chocolate Frog Cards}}
+
+[[es:Cornelius Agripa]]
+[[fr:Cornelius Agrippa]]
+[[it:Cornelius Agrippa]]
+[[ru:Корнелиус Агриппа]]
+[[pl:Korneliusz Agryppa]]
+[[fi:Cornelius Agrippa]]
+[[Category:1486 births]]
+[[Category:1535 deaths]]
+[[Category:Authors]]
+[[Category:Bronze Chocolate Frog Cards]]
+[[Category:Convicts]]
+[[Category:German individuals]]
+[[Category:Green-eyed individuals]]
+[[Category:Historical figures]]
+[[Category:Males]]
+[[Category:Wizards]]

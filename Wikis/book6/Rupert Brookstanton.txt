@@ -1,0 +1,44 @@
+{{Youmay|the wizard Hermione considered might have been R.A.B.|[[Rupert Grint]] the actor who portrayed [[Ronald Weasley]] in the [[Harry Potter (film series)|Harry Potter films]]}}
+{{Individual infobox
+|theme=wizard
+|image=
+|name=Rupert Brookstanton
+|hideb=
+|blood=
+|alias=Axebanger
+|title=
+|hidep=hide
+|height=
+|hair=
+|eyes=
+|skin=
+|species=[[Human]]
+|gender=Male
+|hidef=hide
+|family=
+|hidem=hide
+|animagus=
+|patronus=
+|wand=
+|boggart=
+|hidea=hide
+|job=
+|house=
+|loyalty=
+}}
+'''Rupert "Axebanger" Brookstanton''' was a [[Wizardkind|wizard]]. He was one of the individuals that [[Hermione Granger]] considered could be the mysterious [[Regulus Black|R.A.B]].<ref>{{HBP|B|30}}</ref>
+
+==Etymology==
+"Rupert" is a low German form of ''Robert''. The name was introduced to England in the 17th century by the military commander Prince Rupert of the Rhine, a nephew of Charles I.
+
+==Appearances==
+*{{HBP}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Brookstanton, Ruper}}
+[[es:Rupert Brookstanton]]
+[[fr:Rupert Brookstanton]]
+[[pl:Rupert Brookstanton]]
+[[Category:Males]]
+[[Category:Wizards]]

@@ -1,0 +1,52 @@
+{{Individual infobox
+|theme = wizard
+|image = [[File:Sleeping Wizard.jpg|250px]]
+|name = Dishevelled Wizard
+|born = Prior to [[1993]]<ref name="POA3"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="POA3"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="POA3"/>
+|gender = Male<ref name="POA3"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Knight Bus]]<ref name="POA3"/>
+}}
+{{Quote|Not now thanks, I'm pickling some slugs.|Dishevelled Wizard mumbling in his sleep|Harry Potter and the Prisoner of Azkaban}}
+The '''Dishevelled Wizard'''<ref name="SCRIPT">See the script [http://e-card.51.net/movie.scripts/Harry.Potter/Harry-Potter-and-the-Prisoner-of-Azkaban.htm here]</ref> was a [[Wizardkind|wizard]] who rode the [[Knight Bus]] on at least one occasion, the [[6 August]] of [[1993]]. He sleep-talked, that night about [[Pickled Slugs|pickling slugs]].<ref name="POA3"/>
+
+==Biography==
+The wizard was born sometime prior to [[1993]]; due to his grey hair and wrinkled skin, it is likely that he was rather old. He seemed to be a good sleeper, or else rode the [[Knight Bus]] rather frequently, as he managed to stay asleep throughout his whole ride. On the 6th of August in 1993, this wizard rode the Knight Bus, falling asleep at the rear of the vehicle. He rode at the same time as the famous [[Harry Potter]], but due to his unconscious state was not aware of the fact. He sleep-talked, and spoke on that night of [[Pickled Slugs|pickling]] [[slug]]s.<ref name="POA3">{{POA|B|3}}</ref>
+
+==Physical appearance==
+The wizard had tanned, wrinkled skin and a somewhat long, pointy nose. He had holes in the toes of his black socks, and shoulder-length grey hair. He donned a greying wizard's hat and a black (though somewhat grwy) bath-robe, on the 6th of August.<ref name="POAF">{{POA|F}}</ref>
+
+==Behind the scenes==
+*The script identifies him as "Dishevelled Wizard".<ref name="SCRIPT"/>
+
+==Appearances==
+*{{POA}} {{1st}}
+*{{POA|F}} {{1st ID}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

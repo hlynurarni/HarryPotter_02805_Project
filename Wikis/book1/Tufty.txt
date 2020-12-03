@@ -1,0 +1,31 @@
+{{Pet individual infobox
+|image = 
+|name = Tufty
+|born = before [[1991]]
+|died = 
+|alias = 
+|title = 
+|species = Part-[[Kneazle]]
+|gender = 
+|height = 
+|hair = 
+|feathers = 
+|eyes = 
+|skin = 
+|family = 
+|loyalty = [[Arabella Figg]]
+}}
+'''Tufty''' was one of [[Arabella Figg|Mrs Figg's]] part-[[Kneazle]] cats. The other three were [[Mr Tibbles]], [[Snowy]] and [[Mr Paws]]. [[Harry Potter]] saw it (or possibly its picture) when he went to stay with Mrs Figg when [[Dudley Dursley|Dudley]] got to go to places on his birthday. Harry found a hard time being remorseful when Mrs Figg broke her leg after reminding himself that it would be a while before he had to see Mr Tibbles, Snowy, Tufty and Mr Paws again.<ref>{{PS|B|2}}</ref>
+
+==Appearances==
+*{{PS}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Tufty]]
+[[fr:Mignonnette]] 
+[[ru:Хохолок]]
+[[pl:Czubatek]]
+[[Category:Arabella Figg's cats]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Kneazles]]

@@ -1,0 +1,83 @@
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Tobias Snape
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="blood">{{HBP|B|30}} - "Tobias Snape was a Muggle from what it said in the Prophet.”"</ref>
+|marital = Married<ref name="HP30">{{HBP|B|30}}</ref>
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = Human<ref name="DH33">{{DH|B|33}}</ref>
+|gender = Male<ref name="DH33"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = White<ref name="OP26">{{OOTP|B|26}}</ref>
+|family = *[[Eileen Prince]] (wife)
+*[[Severus Snape]] (son) †
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Snape family]]
+*[[Prince family]]
+}}
+{{Dialogue a-b|Lily Evans|Doesn’t your dad like magic?|Severus Snape|He doesn’t like anything, much.|[[Severus Snape|Severus]] discusses his father with [[Lily J. Potter|Lily Evans]].|Harry Potter and the Deathly Hallows}}
+
+'''Tobias Snape''' was a [[Great Britain|British]] [[Non-magic people|Muggle]]<ref name="blood"/> and the patriarch of the [[Snape family]] in the late twentieth century.<ref name="DH33" /> He was the husband of the [[Wizardkind|witch]] [[Eileen Prince|Eileen Snape]] (nèe [[Prince family|Prince]]) and the father of [[Severus Snape]]<ref name="DH33" />.
+
+==Biography==
+===Early life===
+Tobias was born sometime in the early [[20th century|twentieth century]], into the [[Non-magic people|Muggle]] [[Snape family]].<ref name="HP30" />
+
+===Marriage===
+He married the [[pure-blood]] [[Wizardkind|witch]] [[Eileen Prince]]<ref name="HP30" />. He abused her mentally and emotionally, as [[Harry Potter]] saw in Severus Snape's memories during an Occlumency lesson.<ref name="OP26" /> It could be surmised that he was physically abusive as well. Why they began a relationship and got married is currently unknown. Eileen may not have told him about the wizard world before their wedding.
+
+It is possible that the marriage caused Eileen to be disowned by the Prince family, similar to [[Andromeda Tonks|Andromeda Tonks née Black]], who was disowned by her parents and sisters after she married [[Ted Tonks|a Muggle-born man]], and [[Merope Riddle|Merope Riddle née Gaunt]], who was disowned by her [[Marvolo Gaunt|father]] and [[ Morfin Gaunt|brother]] after she mentally enslaved [[Tom Riddle Senior|a Muggle squire]] into marrying her.
+
+The couple lived at [[Spinner's End]], a working-class neighbourhood in [[Cokeworth]], [[England]].<ref name="DH33" />
+
+[[File:Young_Snape_DH2.jpg|thumb|left|Tobias' son, Severus]]
+
+On [[9 January]], [[1960]], Eileen gave birth to their son.<ref name="DH33" /> [[Severus Snape|Severus]] noted during a conversation with his friend, [[Lily J. Potter|Lily Evans]], that his parents fought often.<ref name="DH33" /> They apparently neglected him during his childhood, or were poor, or both. His clothes were mismatched and did not fit properly. When he began his first year of school at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], he changed into his uniform quickly after getting onto the [[Hogwarts Express]], apparently glad to be rid of his Muggle clothes.
+
+By [[September]] [[1981]], when Severus became the [[Potions (class)|Potions master]] and a [[Head of House]] at the school, Tobias and Eileen no longer resided in the house. As Severus was only twenty-one years old, it is likely that they were still alive but moved away, either together or separately.
+
+==Personality and traits==
+According to young Severus, Tobias was not fond of very much of anything, including magic.<ref name="DH33" /> Even so, his son was a talented young wizard before even receiving [[Hogwarts acceptance letter|the Hogwarts letter]]. In 1995, [[Sirius Black]] mentioned that Severus knew more [[curses]] when he arrived at school than many of the seventh-year students did. Tobias might not have tried to ban magic from the home, or Eileen and Severus might have used it whenever he was not around.
+
+==Relationships==
+===Family===
+Tobias had a very poor relationship with both his wife and his son. When Severus was younger, Tobias frequently shouted at Eileen, and possibly hit her, whilst their son crouched in a corner, crying.<ref name="OP26" /> The unhappy memories of the Snape home would haunt Severus into adulthood.
+
+==Etymology==
+''[[Wikipedia:Tobias|Tobias]]'' is the Greek form of the Hebrew name ''Tobiah'' from the biblical books of ''Ezra'' and ''Nehemiah'', meaning "God is good" - which is a big irony, given Tobias's nasty demeanour towards everything in life. In the apocryphal Book of Tobit in the Old Testament, Tobias is assisted by the archangel in driving a demon away from Sarah, who subsequently became his wife.<ref>[http://www.behindthename.com/name/tobias Behind the Name: Tobias]</ref>
+
+[[J. K. Rowling]] has stated that "Snape" is the name of a place in [[England]]<ref>[http://www.accio-quote.org/articles/2000/fall00-etoys.html 2000 eToys Interview - AccioQuote!]</ref>. It also is an English verb meaning "''to be hard upon, rebuke or snub''", derived from the Old Norse "''sneypa''", meaning "''to outrage, dishonour, disgrace''".<ref>[http://dictionary.reference.com/browse/snape "Snape" at Dictionary.com]</ref>
+
+==Behind the scenes==
+*His treatment towards his son and wife caused the former to despise Muggles in general, given his contempt towards Petunia. He also may not have had stable employment.
+
+==Appearances==
+*{{OOTP}} {{1st}} {{Flashback}}
+*{{HBP}} {{1st ID}} {{Mention}}
+*{{DH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[pt:Tobias Snape]]
+[[fr:Tobias Rogue]]{{DEFAULTSORT:Snape, Tobias}}
+[[ru:Тобиас Снегг]]
+[[de:Tobias Snape]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Married individuals]]
+[[Category:Muggles]]
+[[Category:Parents]]
+[[Category:Snape family]]

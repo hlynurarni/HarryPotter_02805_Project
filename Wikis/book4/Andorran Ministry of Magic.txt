@@ -1,0 +1,28 @@
+{{Organisation infobox
+|bgcolor1 = 2D1EBC
+|bgcolor2 = FFFB09
+|image = 
+|name = Andorran Ministry of Magic
+|founder = 
+|founded = Before [[1994]]
+|dissolved = 
+|leader = Andorran [[Minister for Magic]]
+|members = 
+|headquarters = [[Andorra]], [[Europe]]
+|intentions = Governing the [[wizarding world|magical community]] of Andorra
+|affiliation = *[[International Confederation of Wizards]]
+|enemies = 
+}}
+{{Quote|Now, if you could bring me that memo from the Andorran Minister of Magic, I think I will have time to draft a response...|[[Bartemius Crouch Senior]] in his delirium|Harry Potter and the Goblet of Fire}}The '''Andorran Ministry of Magic''' governed the [[Wizarding world|Wizarding community]] in [[Andorra]]. It was presumed that it functioned in much the same manner as the [[British Ministry of Magic]], being responsible for enforcing Andorran wizarding laws and upholding the [[International Statute of Wizarding Secrecy]].<ref>{{GOF|B|28}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st mention}}
+
+==Notes and references==
+{{Reflist}}
+
+[[es:Ministerio Andorrano de Magia]]
+[[fr:Ministre de la Magie d'Andorre]]
+[[pl:Ministerstwo Magii z Andory]]
+[[pt-br:Ministério da Magia de Andorra]]
+[[Category:Magical governments]]

@@ -1,0 +1,88 @@
+{{Individual infobox
+|theme = gryffindor
+|image = [[File:ErniePrang.jpg|250px]]
+|name = Ernest Prang
+|born = before [[1976]] (most likely)<ref>He had already left Hogwarts by 1993, meaning he was most likely of age.</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = *Ernie<ref name="PA3"/>
+*Ern<ref name="PA3"/>
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PA3"/>
+|gender = Male<ref name="PA3"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref name="boggart">{{LEGO|Y1}} {{see image|File:Ernest Prang's boggart - LEGO-Y1.png}}</ref>
+|wand = 
+|patronus = None<ref name="LEGOY1">{{LEGO|Y1}}</ref><ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = Driver of the [[Knight Bus]]<ref name="PA3"/>
+|house = [[Gryffindor]]<ref name="House"/>
+|loyalty = *[[Knight Bus]]<ref name="PA3"/>
+*[[Albus Dumbledore]]<ref name="HP30"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Gryffindor]]<ref name="House"/>
+}}
+{{Quote|Ernie didn’t seem to have mastered the use of a steering wheel. The Knight Bus kept mounting the pavement, but it didn’t hit anything; lines of lampposts, mailboxes, and trash cans jumped out of its way as it approached and back into position once it had passed. |Ernie's questionable driving skills|Harry Potter and the Prisoner of Azkaban}} 
+'''Ernest "Ernie" Prang''',<ref name="Pottermore">{{PM}}</ref> {{Fl|1993-1997}} also called '''Ern''' by [[Stanley Shunpike]], was a [[Great Britain|British]] [[Wizardkind|wizard]] who was the driver of the [[Knight Bus]].<ref name="PA3"/>
+
+==Biography==
+===Early life===
+Ernest Prang's origin is unknown. He attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth and was a member of [[Gryffindor]] house.<ref name="House">{{LEGO|Y1}} ([https://www.youtube.com/watch?v=N-AxllULlEE see video])</ref> Eventually, he began driving the [[Knight Bus]]. He worked with [[Stanley Shunpike|Stan Shunpike]], the conductor of the Knight Bus, who sometimes called Ernie by his nickname, Ern.<ref name="PA3"/> 
+
+===[[1990s]]===
+{{Quote|Best go wake up [[Madam]] [[Marsh]], Stan, We’ll be in [[Abergavenny]] in a minute|Ernie whilst driving the Knight Bus|Harry Potter and the Prisoner of Azkaban}}
+[[Harry Potter]] first encountered Prang in [[1993]], when he was picked up by the [[Knight Bus]] after leaving his [[Petunia Dursley|Aunt]] and [[Vernon Dursley|Uncle]]'s [[4 Privet Drive|house]]. When Harry was taken to the [[Leaky Cauldron]] Ernie followed him in and was forced to leave by [[Cornelius Fudge]], the then-Minister of Magic.<ref name="PA3">{{POA|B|3}}</ref>
+
+Ernie was also present at [[Albus Dumbledore]]'s [[Funeral of Albus Dumbledore|funeral]] in [[1997]].<ref name="HP30">{{HBP|B|30}}</ref>
+
+==Physical appearance==
+Prang was described as an elderly grey-haired wizard with very thick glasses, giving him an "[[owl]]ish" appearance.<ref name="PA3"/>
+
+==Personality and traits==
+Prang was very clearly committed to his driving, and seldom talked much to passengers on the Knight Bus. (leaving that to Stan Shunpike, preferring to concentrate on his driving).<ref name="PA3"/> He also was clearly a supporter of [[Albus Dumbledore]], following his decision to attend his funeral, implying he also supported the [[Order of the Phoenix]] and its goals as well.<ref name="HP30"/>
+
+Prang's driving skills left much to be desired and were in dire need of improvement, as he frequently drove off the road and into objects, such as post boxes, lamp posts and trees. This may have been at least partly due to the bus' extreme speed. Fortunately, due to the bus' magical nature, the objects got out of the way.<ref name="PA3"/>
+
+==Etymology==
+Ernie Prang and [[Stanley Shunpike|Stan Shunpike]], the driver and conductor of the [[Knight Bus]], were named after [[J. K. Rowling]]'s grandfathers, Ernest Arthur Rowling and Stanley George Volant, respectively.<ref name="Pottermore" /> Ernie's last name is a play on words, as "prang" is English slang meaning "to wreck an automobile".
+
+==Behind the scenes==
+[[File:LEGOernie.png|190x190px|thumb|Ernie as a LEGO minifigure (2019 edition)]]
+*In {{POA|FA}}, Ernie is played by the late [[Jimmy Gardner]].
+*In the 2004 {{LEGO}} set 4755 [[Knight Bus]], Prang was replaced by [[Stanley Shunpike]] as the driver of the [[Knight Bus]]. Despite this, Prang was included later in the 2011 remake set 4866 [[Knight Bus]].
+
+==Appearances==
+{{Imagecat|Images of Ernie Prang}}
+[[File:Legoernieprang.png|thumb|Ernie Prang in {{LEGO|Y1}}]]
+*{{POA}} {{1st}}
+*{{POA|F}}
+*{{OOTP}} {{Mention}}
+*{{HBP}}
+*{{PM}} {{Mention}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}} {{C|Consoles and Windows versions}}
+*{{LEGO}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Prang, Ernest}}
+[[de:Ernie Prang]][[es:Ernie Prang]]
+[[fr:Ernie Danlmur]]
+[[pl:Ernie Prang]] 
+[[it:Ernie Botto]]
+[[Category:British or Irish individuals]]
+[[Category:Gryffindors]]
+[[Category:Knight Bus crew]]
+[[Category:Males]]
+[[Category:Wizards]]

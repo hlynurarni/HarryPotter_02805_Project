@@ -1,0 +1,65 @@
+{{Individual infobox
+|theme = st-mungo-employee
+|image = [[File:Miriam Strout.png|250px]]
+|name = Miriam Strout
+|born = Before [[1977]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="OOTP23"/>
+|alias = 
+|title = [[Healer]]<ref name="OOTP23"/>
+|signature = 
+|species = [[Human]]<ref name="OOTP23"/>
+|gender = Female<ref name="OOTP23"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Healer]]<ref name="OOTP23"/>
+|house = 
+|loyalty = *[[St Mungo's Hospital for Magical Maladies and Injuries]]<ref name="OOTP23"/>
+**[[Janus Thickey Ward]]<ref name="OOTP23"/>
+}}
+{{Quote|A motherly-looking Healer wearing a tinsel wreath in her hair came bustling up the corridor, smiling warmly at [[Harry Potter|Harry]] and the others.|Description|Harry Potter and the Order of the Phoenix}}
+'''Miriam Strout''' was a [[Great Britain|British]] [[Wizardkind|witch]] and [[Healer]] on the [[Janus Thickey Ward]] at [[St Mungo's Hospital for Magical Maladies and Injuries]]. She was described to be a motherly-looking healer.<ref name="OOTP23"/>
+
+==Biography==
+===1995===
+{{Quote|Look, [[Broderick Bode|Broderick]], you've been sent a [[Devil's Snare|potted plant]] and a [[Fancy hippogriff calendar|lovely calendar]] with a different fancy [[Hippogriff]] for each month.|Miriam Strout's mistake|Harry Potter and the Order of the Phoenix}}Strout was responsible for looking after long-term patients such as [[Agnes]], [[Gilderoy Lockhart]], and [[Alice Longbottom|Alice]] and [[Frank Longbottom]]. When [[Harry Potter]], [[Hermione Granger]], [[Ronald Weasley|Ron]] and [[Ginevra Weasley|Ginny Weasley]] came up to the [[Janus Thickey Ward]] by accident, she led them in, mistaking them wanting to visit Lockhart, who had managed to sneak out of his room for a while.<ref name="OOTP23">{{OOTP|B|23}}</ref>
+
+She was also looking after [[Broderick Bode]] when he was killed by a [[Devil's Snare]] plant sent to him by the [[Death Eaters|Death Eater]] [[Walden Macnair]], disguised at the time as an elderly wizard. Although [[St Mungo's Hospital for Magical Maladies and Injuries|St Mungo's]] has very strict regulations of the gifts allowed into the hospital, Strout mistook the Devil Snare to be a harmless [[Flitterbloom]] and thought the improving Bode could take care of it, a dreadful mistake which cost him his life. She was suspended on full pay whilst the matter was investigated and was unavailable for comments for the ''[[Daily Prophet]]''. It is unknown if Strout was eventually fired or reinstated in her position.<ref name="OOTP25">{{OOTP|B|25}}</ref>
+
+==Personality and traits==
+Strout was evidently a very caring and kind-hearted witch, given her job as a [[Healer]], meaning she specialised in tending to the both the physically and mentally unwell, in the [[Janus Thickey Ward]]. She was very mothering and protective of her vulnerable patients, such as [[Gilderoy Lockhart]], who she even seemed to feel much compassion for, since he received no visitors.<ref name="OOTP23"/> However, she was somewhat naive and inattentive in her professional duties, as she foolishly failed to identify a lethal [[Devil's Snare]] plant that had been brought into her hospital ward (mistaking it for a harmless [[Flitterbloom]]), a thoughtless mistake which resulted in her patient [[Broderick Bode]] being killed by the plant, and her being suspended from her position.<ref name="OOTP25"/>
+
+==Magical abilities and skills==
+*'''[[Healing magic]]''': As a professional [[Healer]] working at [[St Mungo's Hospital for Magical Maladies and Injuries]], Strout was highly proficient in the art of medical [[magic]]. She worked in the [[Janus Thickey Ward]], meaning she was very able in looking after people who had suffered permanent [[spell]] damage.<ref name="OOTP23"/> For her healing duties, she would have been highly accomplished with [[healing spell]]s, healing [[potion]]s, and other magical remedies to help cure or medicate her patients. In addition, in order to have trained as a Healer, she would have needed [[Nastily Exhausting Wizarding Test|N.E.W.T.s]] in [[Charms (class)|Charms]], [[Potions (class)|Potions]], [[Herbology]], [[Transfiguration (class)|Transfiguration]] and [[Defence Against the Dark Arts]], all at least "[[Exceeds Expectations]]" or "[[Outstanding]]" level.<ref name="OOTP29">{{OOTP|B|29}}</ref> Despite Herbology being a requirement, she failed to identify a cutting of Devil's Snare, mistaking it for a harmless Flitterbloom, costing Bode his life.<ref name="OOTP25"/>
+*'''[[Charm]]s''': Strout was highly capable in charm-work, given how a N.E.W.T. is required in [[Charms (class)|Charms]] for all Healers;<ref name="OOTP29"/> furthermore, she was capable of unlocking the locked door to the [[Janus Thickey Ward]] with the [[Unlocking Charm]], as well as fixing a [[Fancy hippogriff calendar]] to the wall with her [[wand]] for [[Broderick Bode]], most likely using the [[Sticking Charm]].<ref name="OOTP23"/>
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Strout, Miriam}}
+
+{{St Mungo's}}
+[[de:Miriam Strout]]
+[[es:Miriam Strout]]
+[[fr:Miriam Strout]]
+[[ru:Мириам Страут]]
+[[pl:Miriam Strout]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Healers]]
+[[Category:St Mungo's employees]]
+[[Category:Wizards]]

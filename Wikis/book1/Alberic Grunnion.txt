@@ -1,0 +1,75 @@
+{{Spoiler|WU|HM}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Alberic Grunnion.JPG|250px]]
+|name = Alberic Grunnion
+|born = [[1803]]<ref name="COSG">{{COS|G}}</ref>
+|died = [[1882]] (aged 78-79)<ref name="COSG"/>
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="COSG"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="COSG"/>
+|gender = Male<ref name="COSG"/>
+|height = 
+|weight = 
+|hair = White<ref name="COSG"/>
+|eyes = 
+|skin = White<ref name="COSG"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Inventor<ref name="COSG"/>
+|house = 
+|loyalty = 
+}}
+{{Quote|Ah, Alberic Grunnion — where would we be without his outstanding contribution to explosive dung?|[[George Weasley]]|Harry Potter and the Chamber of Secrets (video game)}}
+'''Alberic Grunnion''' ([[1803]]–[[1882]]) was a [[19th century|nineteenth century]] [[wizardkind|wizard]] inventor, who developed the [[Dungbomb]], a [[magic]]al stink bomb that gives off a putrid odour.<ref name="COSG"/>
+
+==Biography==
+===Early life===
+Alberic Grunnion was born in [[1803]],<ref name="COSG"/> somewhere in the [[Great Britain|British Isles]]. If he enrolled at [[Hogwarts School of Witchcraft and Wizardry]], he attended the school from around [[1814]] to [[1821]].
+
+===Adulthood===
+At some point in the [[19th century|nineteenth century]], Alberic Grunnion invented the [[Dungbomb]], a prank item that was still very popular among young British [[wizardkind|wizards]] by the [[1990s]].<ref name="COSG"/>
+
+===Death and post-mortem===
+He died in [[1882]], at the age of 79. By the early [[1990s]], he was featured on a [[Chocolate Frog Card]]. His card was one of the first in [[Harry Potter]]'s collection, being among the ones he obtained on his [[Hogwarts Express|trip]] to [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]].<ref name="PS6">{{PS|B|6}}</ref>
+
+==Etymology==
+Grunnion's name could possibly be in recognition of ''Alberich,'' a powerful wizard from "Song of the Nibelungen." The poem is mythical, but was the basis for Wagner's Ring Cycle. In Wagner's version, Alberich makes a ring from gold that he has found and places a curse on it against its thief. Interestingly, one of the prizes given to a 'hero' of the Ring Cycle is an [[Invisibility cloak]].
+
+==Appearances==
+[[File:Alberic_Grunnion-97-chocFrogCard.png|thumb|Alberic Grunnion's silver wizard card]]
+*{{PS}} {{1st Mention}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{PM}} {{FWC}}
+*{{HM}} {{Mention}}
+*{{WU}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Chocolate Frog Cards}}
+{{DEFAULTSORT:Grunnion, Alberich}}
+[[de:Alberich Grunnion]]
+[[es:Alberic Grunnion]]
+[[fi:Alberic Grunnion]]
+[[fr:Alberic Grunnion]]
+[[it:Alberic Grunnion]]
+[[pl:Alberyk Grunnion]]
+[[ru:Алберик Груннион]]
+[[de2:Alberich Grunnion]]
+[[Category:1803 births]]
+[[Category:1882 deaths]]
+[[Category:British individuals]]
+[[Category:Historical figures]]
+[[Category:Inventors]]
+[[Category:Males]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

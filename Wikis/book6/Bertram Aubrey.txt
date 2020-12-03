@@ -1,0 +1,55 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Bertram Aubrey
+|born = c. [[1950s]] - [[1960s]]
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP24"/>
+|gender = Male<ref name="HBP24"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP24"/>
+}}
+'''Bertram Aubrey''' was a [[Wizardkind|student]] at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in the [[1970s]]. Once, he had an [[Illegal growth hex|illegal hex]] (perhaps ''[[Engorgio Skullus]]'') used on him by [[James Potter I|James Potter]] and [[Sirius Black]] which caused his head to grow twice its original size. It is unknown what motivated the duo to hex him, though it rewarded them a double detention.<ref name="HBP24">{{HBP|B|24}}</ref>
+
+==Etymology==
+The name Bertram means "bright raven", from Germanic roots. The name meaning has quite a connection with the Ravenclaw house (bright as in witty, and raven as in Ravenclaw), which could lead to speculation that Bertram Aubrey was a Ravenclaw.
+
+The name Aubrey has multiple meanings. It can mean "noble and bright", "blond ruler" and "rules with elf wisdom". This could also connect him to Ravenclaw, being "bright".
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Aubrey, Bertram}}
+
+[[de:Bertram Aubrey]]
+[[es:Bertram Aubrey]]
+[[fr:Bertram Aubrey]] 
+[[pl:Bertram Aubrey]]
+[[ru:Бертрам Обри]]
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Hogwarts students during the Marauders' era]]
+[[Category:Males]]
+[[Category:Sorted in the 20th century]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

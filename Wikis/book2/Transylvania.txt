@@ -1,0 +1,32 @@
+{{Real world subject}}
+{{Location infobox
+|name = Transylvania
+|location = Central [[Romania]]
+|affiliation = [[Wizarding world]]
+}}
+'''Transylvania''' is a historical region in Eastern [[Europe]]. Today, it is part of [[Romania]]. It would seem in the [[wizarding world]], Transylvania is an independent country from the country of Romania.
+
+==History==
+Not much is known about Transylvania's association with the [[Non-magic people|Muggle]] world, but it does have its own [[Quidditch]] [[Quidditch team|team]]. The [[Transylvanian National Quidditch team]] is known for having been one of the finalists in the [[1473 Quidditch World Cup|first-ever Quidditch World Cup]] and more recently, in the [[1994 Quidditch World Cup|1994 World Cup]], has beat the [[English National Quidditch team]] 390 to 10. However, they did not make it to the finals that year.<ref name="GOF5">{{GOF|B|5}}</ref>
+
+While attempting to [[Break-in of Gringotts Wizarding Bank (1998)|break-in]] to [[Gringotts Wizarding Bank]] in [[1998]], [[Ronald Weasley]] went under the assumed identity of a Transylvanian [[Wizardkind|wizard]] named "Dragomir Despard".<ref name=“DH26”>{{DH|B|26}} </ref>
+
+==Behind the scenes==
+*[[Wikipedia:Transylvania|Transylvania]] seems to be presented as an independent country in the [[Harry Potter series|''Harry Potter'' series]], even though this is not the case in the real world; In [[1473]] (when a seemingly-independent Transylvania got to the [[Quidditch World Cup]] final), it was part of the [[Wikipedia:Kingdom of Hungary|Kingdom of Hungary]]. After [[First World War|World War I]], Transylvania became part of [[Wikipedia:Romania|Romania]] (in 1940, Northern Transylvania reverted to [[Hungary]], but it was reclaimed by Romania after the end of [[Second World War|World War II]]).
+
+==Appearances==
+*{{GOF}} {{1st Mention}}
+*{{OOTP|F}} {{Mention}}
+*{{OOTP|G}} {{Mention}}
+*{{DH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}[[de:Transsilvanien]]
+[[es:Transilvania]]
+[[fr:Transylvanie]]
+[[pl:Transylwania]]
+[[ru:Трансильвания]]
+[[zh:特兰西瓦尼亚]]
+[[pt-br:Transilvânia]]
+[[Category:Countries]]
+[[Category:Romania]]

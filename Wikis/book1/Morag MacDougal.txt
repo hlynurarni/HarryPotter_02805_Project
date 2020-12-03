@@ -1,0 +1,59 @@
+{{Merge|Isobel MacDougal}}
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Morag MacDougal
+|born = c. [[1979]]-[[1980]],<br/>[[Great Britain]] or [[Ireland]]<ref>[http://www.accio-quote.org/articles/2000/0700-swns-alfie.htm World Exclusive Interview with J K Rowling]</ref>
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[Isobel MacDougal]] {{c|possibly}}
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[MacDougal family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+}}
+'''Morag MacDougal''' was a [[Wizardkind|witch]] who began attending [[Hogwarts School of Witchcraft and Wizardry]] in [[1991]]. She was in the same year as [[Harry Potter]]. She was the witch who [[Neville Longbottom]] had to give the [[Sorting Hat]] back to when he accidentally ran off with it after being sorted.<ref name="PS7">{{PS|B|7}}</ref>
+
+==Behind the scenes==
+*As [[Isobel MacDougal]] never appears in the [[Harry Potter books|''Harry Potter'' novels]], it is possible that she is the same character as Morag, having been renamed at some point without [[J. K. Rowling]] noting the change on her handwritten list of the forty original students in [[Harry Potter|Harry's]] year.
+*A student named [[Morag]] appearand in the PC version of Harry Potter and the Chamber of Secrets. She worked with matches in Professor McGonagall's transfiguration class. It is possible that this is Morag MacDougal, who may have repeated her first year. (Match to needle is a spell known to be covered in first year transfiguration classes.)
+
+==Etymology==
+Morag is from Gaelic mór, "tall." Dougall is from the Gaelic Dubhgall, or "dark stranger," and "Mac" is "son of."
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{HPM}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Morag McDougal]]
+[[es:Morag MacDougal]]
+[[fr:Morag MacDougal]]
+[[it:Morag MacDougal]]
+[[pl:Morag MacDougal]][[ru:Мораг МакДугал]]
+{{DEFAULTSORT:MacDougal, Morag}}
+[[Category:20th century births]]
+[[Category:British or Irish individuals]]
+[[Category:Females]]
+[[Category:MacDougal family|Morag]]
+[[Category:Sorted in 1991]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

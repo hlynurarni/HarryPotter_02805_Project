@@ -1,0 +1,89 @@
+{{Spoiler|WU|HM}}
+{{Creature infobox
+|image = [[File:SalamanderWU.png|thumb]]
+|name = Fire Dwelling Salamander
+|skin = Scarlet red<ref name="FBR"/>
+|eyes = Black
+|hair = 
+|feathers = 
+|related = *[[Amazonian Salamander]]s
+*[[Peruvian Salamander]]s
+*[[Frost Salamander]]s
+|native = Existing worldwide
+|alias = *Fire Salamander
+*Salamander
+|height = 
+|length = 
+|wingspan = 
+|mortality = Mortal<ref name="POAG"/>
+|distinction = *Typically on [[fire]]<ref name="FBR" />
+*Dwell in [[Salamander fire]]<ref name="FBR" />
+|affiliation = [[Fire]]<ref name="FBR" />
+|class = [[Beast]]<br/>[[XXX]]<ref name="FBR"/>
+|status = Extant
+}}
+{{Quote|Small lizard which can emit great heat. Good for reheating dishes.|''[[Folio Bruti]]''|Harry Potter and the Chamber of Secrets (GBC)}}
+'''Fire Dwelling Salamanders''',<ref name="PM">[https://my.pottermore.com/patronus Discover your Patronus - Pottermore]</ref> also called '''Fire Salamanders''',<ref name="COSG">{{COS|G}}</ref> or just simply '''Salamanders''', were small, [[magic]]al [[fire]] dwelling [[lizard]]s that fed on flames.<ref name="FBR" /><ref name="POA12"/>
+
+==Description==
+[[File:Salamander.png|thumb|A Fire Dwelling Salamander]]
+Salamanders were born out of [[salamander fire]]s, and lived as long as the flames they were birthed from continue to burn.<ref name="GOFG">{{GOF|G}}</ref> However, if they were fed on [[Black pepper|pepper]], they could survive outside out of its flames for up to six hours.<ref name="FBR">{{FB|R}}</ref> The colour of the Salamander depended on the heat of its birthing fire,<ref name="FBR" /> and produces hot flames itself.<ref name="COSG" /><ref name="GOFG" />
+[[File:SalamanderBlood.png|thumb|A bottle of [[Salamander blood]]]]
+
+[[Salamander blood]] had powerful regenerative and [[Healing magic|curative]] properties, and was used as an ingredient in the brewing of many [[potion]]s. The Fire Dwelling Salamander was a rare corporeal form of the [[Patronus Charm]].<ref name="PM" />[[File:Salamander.jpg|200px|thumb|left|The number six, in runic]]
+The maximum number of hours a salamander could survive out of fire as well as the number of legs most salamanders had was six, and as such, salamanders were used in the [[Study of Ancient Runes|runic alphabet]] to represent the number six.<ref name="JKRS">{{JKRS}}</ref>
+
+[[File:Salamander.jpeg|150px|right|A Salamander basking in its fire]]
+There were different types of salamanders, such as the blue and the scarlet variety.<ref name="POAG">{{POA|G}}</ref> [[Scale rot]] was an illness that can affect both salamanders and [[dragon]]s. If left untreated, it could cause a salamander's tail to detach.<ref name="OOTP25">{{OOTP|B|25}}</ref> Fire Salamanders were vulnerable to the [[Knockback Jinx]], [[Freezing Spell]]<ref name="POAG" /> and [[water]]-[[Conjuration|conjuring]] [[charm]]s (such as the [[Aqua Eructo]] Charm and the [[Ebublio Jinx]]), as well as [[transfiguration]] [[spell]]s,<ref name="GOFG">{{GOF|G}}</ref> but are resistant to [[Red sparks]] and the [[Fire-Making Spell]].<ref name="COSG" />
+
+There also existed a variant species called the [[Frost Salamander]] that instead of dwelling in fire was closely associated with [[Water|ice]].<ref name="COSG" /><ref name="POAG" />
+
+==History==
+[[File:FireDwellingSalamander-patronus.jpg|160px|thumb|Fire Dwelling Salamander as a [[Patronus Charm|Patronus]] form]]
+In [[October]] [[1992]], [[Fred Weasley|Fred]] and [[George Weasley]] once experimented with feeding fireworks to a salamander, which caused it to rocket around the [[Gryffindor Common Room|room]], emitting tangerine stars. The salamander ended up running back into the fireplace in the room, looking scared.<ref name="COS8">{{COS|B|8}}</ref>
+
+In January [[1994]], [[Professor]] [[Rubeus Hagrid]] taught his [[third year]] [[Care of Magical Creatures]] class about these beasts, providing his class with a "bonfire" full of them, with students very much enjoying his lesson, collecting dry wood and leaves to keep their fire blazing while the salamanders scampered up and down the burning logs.<ref name="POA12">{{POA|B|12}}</ref>
+
+In [[1996]], [[Rubeus Hagrid]] mentioned that he needed to rub more [[chilli]] powder on a couple of salamanders that had scale rot.<ref name="OOTP25">{{OOTP|B|25}}</ref>
+
+==Behind the scenes==
+*Despite being classified as [[lizard]]s in {{FB|R}} (meaning they are reptiles),<ref name="FBR"/> {{Wplink|Salamander}}s in the real world are in fact amphibians.<ref name="wiki">{{Wikilink|Salamander}}</ref>
+
+==Appearances==
+{{Imagecat|Images of Salamanders}}
+*{{COS}} {{1st}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|G}}
+*{{GOF|G}}
+*{{OOTP}} {{Mention}}
+*{{COG|S}} {{Mention}}
+*{{COG}} {{Mention}}
+*{{FB|R}}
+*{{PM}} {{C|Appears as [[Patronus Charm|Patronus]]}}
+*{{WW}} {{C|Appears as [[Patronus Charm|Patronus]]}}
+*{{JKRS}}
+*{{HM}} {{Mention}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Runes}}
+{{Care of Magical Creatures}}
+{{Creatures by classification}}
+
+[[de:Feuersalamander]]
+[[pl:Salamandra]]
+[[fr:Salamandre]]
+[[it:Salamandra]]
+[[es:Salamandra (animal)]]
+[[ru:Саламандра]][[pt-br:Salamandra]]
+[[Category:Care of Magical Creatures]]
+[[Category:Creatures affiliated with fire]]
+[[Category:Creatures found worldwide]]
+[[Category:Folio Bruti entries]]
+[[Category:Foundables]]
+[[Category:Muggle-known creatures]]
+[[Category:Patronus forms]]
+[[Category:Runic Number Symbols]]
+[[Category:Salamanders]]

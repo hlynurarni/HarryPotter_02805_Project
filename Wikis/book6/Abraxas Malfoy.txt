@@ -1,0 +1,84 @@
+{{Individual infobox
+|theme = slytherin
+|image = [[File:AbraxasMalfoy.png|250px]]
+|name = Abraxas Malfoy
+|born = before [[1936]] (most likely)<ref>He most likely had already left Hogwarts when his son was born.</ref>
+|died = Pre [[2 September]], [[1996]]
+|blood = [[Pure-blood]]
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Armand Malfoy]] (ancestor) †
+*[[Nicholas Malfoy]] (ancestor) †
+*[[Lucius Malfoy I]] (ancestor) †
+*[[Brutus Malfoy]] (ancestor) † 
+*[[Septimus Malfoy]] (ancestor) †
+*[[Lucius Malfoy]] (son)
+*[[Narcissa Malfoy]] (daughter-in-law)
+*[[Draco Malfoy]] (grandson)
+*[[Astoria Malfoy|Astoria Greengrass]] (grandaughter-in-law)†
+*[[Scorpius Malfoy]] (great-grandson)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = [[Slytherin]]<ref name="PS5">{{PS|B|5}} - "I know I’ll be in Slytherin, all our family have been -" Draco Malfoy in 1991. While it is unknown as to whether Draco was literally referring to every single Malfoy (see [[Talk:Malfoy_family#All_Malfoys_.3D_Slytherin.3F|Talk:Malfoy Family#All Malfoys=Slytherin?]]), it is likely that he would know the sorting for his immediate family including his grandfather.</ref><ref name="COS9">{{COS|B|9}} - "“Look at his family,” said Harry, closing his books, too. “The whole lot of them have been in Slytherin; he’s always boasting about it.”" Harry Potter speaking of Draco Malfoy in 1992.</ref>
+|loyalty = *[[Malfoy family]]
+*[[Hogwarts School of Witchcraft and Wizardry]]
+**[[Slytherin]]
+}}
+'''Abraxas Malfoy''' (fl. [[1954]]-[[1968]]) was a [[pure-blood]] [[Wizardkind|wizard]], a member of the [[Malfoy family]], father of [[Lucius Malfoy]], grandfather of [[Draco Malfoy]] and great-grandfather of [[Scorpius Malfoy]]. He was related by marriage to the [[House of Black|Blacks]], through his daughter-in-law [[Narcissa Malfoy|Narcissa]], and, more distantly, to the [[Lestrange family|Lestranges]].
+
+==Biography==
+{{dialogue a-b|Draco Malfoy |Sir, I think you knew my grandfather, Abraxas Malfoy?|Horace Slughorn|Yes. I was sorry to hear he had died, although of course it wasn't unexpected, dragon pox at his age...|[[Draco Malfoy]] seeking favour from Horace Slughorn|Harry Potter and the Half-Blood Prince}}In his youth, Abraxas attended [[Hogwarts School of Witchcraft and Wizardry]] and was [[Sorting ceremony|sorted]] into [[Slytherin]] house.<ref name="PS5" /><ref name="COS9" />
+
+Abraxas had at least one child, [[Lucius Malfoy]], who was born in late [[1953]] or [[1954]];<ref name="OP15">{{OOTP|B|15}}</ref> the fate of Lucius's mother, Abraxas's wife, is currently unknown. Abraxas apparently knew [[Horace Slughorn]], according to his grandson [[Draco Malfoy|Draco]] and Slughorn himself.<ref name="HBP9">{{HBP|B|9}}</ref>
+
+Abraxas Malfoy was widely believed to have been part of the shady plot that, in [[1968]], forced [[Minister for Magic]] [[Nobby Leach]] (the first [[Muggle-born]] ever to have held the office) to leave his post prematurely. Nothing was, however, conclusively proven against Malfoy.<ref name="pottermore">{{WW|the-malfoy-family}}</ref>
+
+Abraxas [[Death|died]] of a case of [[Dragon Pox]], a relatively common malady of the elderly, some time before September [[1996]]. [[Horace Slughorn]] knew him at one time and was sorry to hear that he had passed away, as he informed Abraxas's grandson [[Draco Malfoy|Draco]].<ref name="HBP9"/> Abraxas may also have been a well-respected wizard, as Draco attempted to use his name to charm Slughorn into letting Draco into the [[Slug Club]], because Slughorn was impressed with heritage. However, perhaps due to Lucius's renewed criminal records, the name was not good enough to earn Slughorn's favour.
+
+==Etymology==
+The word ''[[Wikipedia:Abraxas|Abraxas]]'' was engraved on stones that were considered amulets in the Ancient Roman-Greco world. They often had figures carved on them as well that resembled [[basilisk]]s or [[chimaera]]s. The name may be related to the word ''abracadabra'', which is notable as this may also be the root of the [[Killing Curse]] incantation ''"Avada Kedavra"''. The name Abraxas is also mentioned in Gnostic texts, and in Ancient Egyptian mythology as a god or [[demon]].
+
+==Behind the scenes==
+*It's possible that as since Draco used his name to get Slughorn's attention Abraxas was a member of the [[Slug Club]], though this is unconfirmed.
+*Interestingly his plot to remove Nobby Leach from the Ministry happened approximately two years before the [[First Wizarding War]] began. It's unknown if the two events are connected however, though the [[Death Eaters]] would have nonetheless benefited from Leach's removal.
+*It is unknown if he was a Death Eater, or if he ever met Lord Voldemort.
+
+==Appearances==
+*{{HBP}} {{Mention}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}{{DEFAULTSORT:Malfoy, Abraxas}}
+
+[[de:Abraxas Malfoy]]
+[[es:Abraxas Malfoy]]
+[[fr:Abraxas Malefoy]]
+[[ru:Абраксас Малфой]]
+[[pl:Abraxas Malfoy]]
+[[pt-br:Abraxas Malfoy]]
+[[de2:Abraxas Malfoy]]
+[[Category:20th century deaths]]
+[[Category:British or Irish individuals]]
+[[Category:Deaths from dragon pox]]
+[[Category:Males]]
+[[Category:Malfoy family]]
+[[Category:Parents]]
+[[Category:Pure-blood supremacists]]
+[[Category:Pure-bloods]]
+[[Category:Slytherins]]
+[[Category:Wizards]]

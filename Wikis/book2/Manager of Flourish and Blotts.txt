@@ -1,0 +1,66 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:Flourish and Blotts manager.jpg|250px]]
+|name = Manager of Flourish and Blotts
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Brown
+|eyes = 
+|skin = White
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Flourish and Blotts]] manager
+|house = 
+|loyalty = [[Flourish and Blotts]]
+}}
+{{Quote|I'm never stocking them again, never!|The manager regarding the aggressiveness of [[The Monster Book of Monsters]]|Harry Potter and the Prisoner of Azkaban}}
+
+The '''manager''' of [[Flourish and Blotts]] was a much-tired [[Great Britain|British]] [[Wizardkind|wizard]] who took the brunt of teachers' selection of required textbooks for their classes that turned out to be somewhat exotic.
+
+==Biography==
+===1992===
+[[File:ManagerOfFlourishAndBlotts.png|200px|thumb|left|The manager in 1992]]
+
+{{Quote|Gentleman, please-please!|The manager trying to stop [[Lucius Malfoy]] and [[Arthur Weasley]] fighting|Harry Potter and the Chamber of Secrets}}
+
+In [[1992]], he was first seen by [[Harry Potter]] on camera at [[Flourish and Blotts]] as he was trying to keep [[Gilderoy Lockhart]]'s book signing under control.<ref name="CS4">{{COS|B|4}}</ref>
+
+===1993===
+{{Quote|Stop it! Stop it!|The manager trying to stop copies of the [[The Monster Book of Monsters]] from attacking each other|Harry Potter and the Prisoner of Azkaban}}In [[1993]], he told [[Harry Potter|Harry]] that he had once lost a lot of money on ''[[The Invisible Book of Invisibility]],'' because they never found the books. When the ''[[The Monster Book of Monsters]]'' became one books required by students at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]], he had to cope with the new additions to his book list attacking both each other and him; the manager spent much of that summer vowing never to stock that book again. Whenever he had to grab a copy for a customer, he would become rather unhappy due to the books' viciousness; while he was relieved that Harry already got a copy beforehand, he was on the verge of tears when [[Ronald Weasley]] and [[Hermione Granger]] requested two copies total. He also recommend Harry to not buy ''[[Death Omens: What to Do When You Know the Worst is Coming]]'', as it was enough to frighten anyone to [[death]], and in general doesn't recommend reading books about death omens because one would start seeing them everywhere.<ref name="PA4">{{POA|B|4}}</ref>
+
+==Behind the scenes==
+*As the owner of [[Flourish and Blotts]], it is possible that his name is either Flourish or Blotts. However, knowing that his shop was established in [[15th century]], he might not be an indirect descendant of the founder.
+
+==Appearances==
+*{{PS|G}} {{Comment|GBC version}}
+*{{COS}}
+*{{COS|G}} {{Comment|PS2 version}}
+*{{POA}}
+
+==Notes and references==
+{{Reflist}}
+{{Diagon Alley}}
+
+[[es:Encargado de Flourish y Blotts]]
+[[pl:Sprzedawca w księgarni Esy i Floresy]]
+[[ru:Продавец магазина «Флориш и Блоттс»]]
+[[Category:British individuals]]
+[[Category:Males]]
+[[Category:Shop owners]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

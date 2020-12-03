@@ -1,0 +1,74 @@
+{{Individual infobox
+|theme = daily-prophet
+|image = [[File:BarnabusCuffe.jpg|250px]]
+|name = Barnabas Cuffe
+|born = between [[1914]] and [[1970]]<ref name="age">[[Horace Slughorn]] became [[Potions Master]] in [[1931]]. Slughorn resigned from his teaching position in [[1981]], meaning Cuffe would have been a member of the Slug Club by at least then.</ref>,
+|died = 
+|blood = 
+|marital = 
+|nationality = {{GBorIE}}
+|alias = 
+|title = 
+|signature = [[File:Barnabas Cuffe sig.png|150px]]
+|species = [[Human]]<ref name="HBP4"/>
+|gender = Male<ref name="HBP4"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Editor of the ''[[Daily Prophet]]''<ref name="HBP4"/>
+|house = 
+|loyalty = *''[[Daily Prophet]]''<ref name="HBP4"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="HBP4"/>
+**[[Slug Club]]<ref name="HBP4"/>
+}}
+'''Barnabas Cuffe''' was a [[Wizardkind|wizard]] who was the editor-in-chief of the ''[[Daily Prophet]]'', working in their [[Daily Prophet's main office|main offices]] in [[Diagon Alley]].<ref name="HBP4"/>
+
+==Biography==
+While studying at [[Hogwarts School of Witchcraft and Wizardry]], Cuffe must have either been a very good student, or possibly come from money, power, or has good stories to tell, as [[Horace Slughorn]] chose Barnabas to join his [[Slug Club]]. As a child, he was very interested in the news, and enjoyed Slughorn's exaggerated outakes on the ''Daily Prophet''. He maintained a good relationship with Slughorn as he stated that Cuffe was always ready to take his [[owl]] on the day's news. He also enjoyed receiving [[vibe]]s as a means of communication.<ref name="HBP4">{{HBP|B|4}}</ref>
+
+During Cuffe's leadership, the ''Daily Prophet'' was under a strong influence by the [[British Ministry of Magic|Ministry of Magic]], which highly relied on the newspaper to assure the support of the British wizarding community.<ref name="WW">{{WW|the-daily-prophet}}</ref>
+
+Aside from being the paper's editor, Cuffe occasionally wrote articles for the ''Prophet''. One such article, entitled "The Wizarding World in Mourning", covered the then-recent death of [[Albus Dumbledore]].<ref name="HPLE">{{HPLE}} (see [[:File:DumbledoreObituary.JPG|this image]])</ref>
+
+==Etymology==
+The name "Barnabas" is the Greek form of an Aramaic name. In Acts in the New Testament the byname Barnabas was given to a man named Joseph, a companion of Paul on his missionary journeys. The original Aramaic is unattested, but it may be from בּר נביא (bar naviya') meaning "son of the prophet", though in Acts 4:36 it is claimed that the name means "son of encouragement". As an English name, it came into occasional use after the 12th century.
+
+==Behind the scenes==
+*Barnabas Cuffe was portrayed by [[Roger C. Bailey]] in {{HBP|FA}}.<ref>[http://www.uk.castingcallpro.com/view.php?uid=108305 Casting Call Pro profile]</ref>
+*It is possible, as he was a former [[Slug Club]] member, that he attended the [[Slug Club Christmas party|Christmas party]].
+*In the original script from {{HBP|FA}} his first name is misspelled ''Barnubas''.<ref>[http://www.imsdb.com/Movie%20Scripts/Harry%20Potter%20and%20the%20Half-Blood%20Prince%20Script.html ''Half-Blood Prince'' script] on the Internet Movie Script Database (archived [http://web.archive.org/web/20110101193134/http://www.imsdb.com/scripts/Harry-Potter-and-the-Half-Blood-Prince.html here])</ref>
+
+==Appearances==
+*{{HBP}} {{1st}} {{Comment|Appears in photograph}}
+*{{HBP|F}} {{Comment|Appears in photograph}}
+*{{HPLE}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Daily Prophet}}
+
+{{DEFAULTSORT:Cuffe, Barnabas}}
+
+[[de:Barnabas Cuffe]]
+[[fr:Barnabas Cuffe]]
+[[es:Barnabas Cuffe]]
+[[nl:Barnabas Botterijk]]
+[[pl:Barnabasz Cuffe]]
+[[pt-br:Barnabás Cuffe]]
+[[ru:Варнава Кафф]]
+[[Category:British or Irish individuals]]
+[[Category:Daily Prophet staff]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Slug Club]]
+[[Category:Unknown House]]
+[[Category:Wizards]]

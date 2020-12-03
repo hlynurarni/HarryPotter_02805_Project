@@ -1,0 +1,273 @@
+{{FA}}
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Viktor Krum promo Yule Ball.png|250px]]
+|name = Viktor Krum
+|born = [[April]]-[[August]], [[1976]],<ref name=BD>In April 2014, during the Quidditch World Cup, Krum is described as being "38". 2014 minus 38 is 1976, so Krum must be born by around April 1976. {{GOF|B|7}}, describes Krum as "only just eighteen" during the final of the Quidditch World Cup. This episode is set on 18 August, 1994 (1994 minus 18 is 1976). Several chapters later, in Chapter 28 (''The Madness of Mr Crouch''), in an episode set on 27 May 1995, Krum is again described, in narration, as an eighteen-year-old. As such, one or the other source is estimating as he cannot have been 38 by April 2014 and still be 18 in late May 1995.</ref><br/>[[Bulgaria]]
+|died = 
+|blood = [[Pure-blood]] or [[Half-blood]]<ref name="blood">Based on the fact that Durmstrang does not admit [[Muggle-born]] students.</ref>
+|marital = 
+|nationality = [[Bulgaria]]n
+|alias = *Vicky (by [[Ronald Weasley|Ron Weasley]])
+*Dumb Krum (by [[Fred and George Weasley]])
+*Bulgarian Bonbon (by [[Rita Skeeter]])
+*Viktor Krazy Krum (by [[Ludovic Bagman|Ludo Bagman]] and Triwizard Tournament attendees)<ref name="CC27">{{CC|B|2|17}}</ref>
+|title = *World Class [[Seeker]]
+*[[Triwizard Tournament|Triwizard Champion]]
+|signature = [[File:Viktor Krum sig.svg|105px]]
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = Dark<ref>{{DH|B|8}} - "They were all laughing so much that none of them noticed the latecomer, a dark-haired young man with a large, curved nose and thick black eyebrows,[...]"</ref>
+|eyes = Dark<ref>{{GOF|B|8}} - "Harry, focusing still more closely upon Krum’s face, saw his dark eyes darting all over the ground a hundred feet below."</ref>
+|skin = Sallow<ref>{{GOF|B|8}} - "Viktor Krum was thin, dark, and sallow-skinned, with a large curved nose and thick black eyebrows."</ref>
+|family = *[[Viktor Krum's father|Mr Krum]] (father)
+*[[Viktor Krum's mother|Mrs Krum]] (mother)
+*[[Viktor Krum's grandfather|Grandfather]] †
+|romances = *[[Hermione Granger]] (formerly)
+*[[Bulgaria]]n partner<ref name="JKR">[https://web.archive.org/web/20100325162527/http://www.mugglenet.com:80/app/news/full_story/1156 JK Rowling web chat, 30th July 2007] (Archived)</ref>
+|animagus = 
+|boggart = [[Tom Riddle|Lord Voldemort]]<ref>{{LEGO|Y1}}</ref>
+|wand = [[Viktor Krum's wand|10¼", Hornbeam, dragon heartstring]]
+|patronus = 
+|job = [[Seeker]] for the [[Bulgarian National Quidditch team]]
+|house = 
+|loyalty = *[[Durmstrang Institute]]
+*[[Bulgarian National Quidditch team]]
+*[[Krum family]]
+*[[Death Eaters]] {{c|[[Imperius Curse|Imperiused]]}}
+}}
+{{Quote|He's unbelievable. He's really young too. Only just eighteen or something. He's a genius, you wait until tonight, you'll see.|[[Ronald Weasley|Ron Weasley]] on Krum's excellent flying|Harry Potter and the Goblet of Fire}}
+'''Viktor Krum''' ([[Wikipedia:Bulgarian language|Bulgarian]]: Виктор Крум; born [[April]]-[[August]], [[1976]]) was a [[Bulgaria]]n [[Wizardkind|wizard]]. He attended the [[Durmstrang Institute]], and was also the [[Seeker]] for the [[Bulgarian National Quidditch team]] at the age of eighteen while still at school.
+
+In [[1994]], he played in the final of the [[Quidditch World Cup]]. The [[Irish National Quidditch team|Irish]] won the match, but Viktor caught the [[Golden Snitch]] to end the match on his terms. Later in the year, he was part of the Durmstrang delegation sent to [[Hogwarts School of Witchcraft and Wizardry]] for the [[Triwizard Tournament]]. Subsequently, he was selected by the [[Goblet of Fire]] as the Durmstrang [[Triwizard Tournament|Champion]], and competed bravely. However, the Tournament ended in tragedy with the death of [[Cedric Diggory]], and Viktor returned home. In [[1997]], he attended the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[Fleur Delacour]] and [[William Weasley|Bill Weasley]].
+
+He retired from Quidditch after the Bulgarian defeat in the final of the [[2002 Quidditch World Cup|2002 World Cup]], but came out of retirement to compete in the [[2014 Quidditch World Cup|2014 World Cup]], out of a desire "''to win the World Cup before I die''". The Bulgarian side famously won the World Cup that year, after beating [[Brazilian National Quidditch team|Brazil]] in the finals.
+
+==Biography==
+===Early life===
+{{Quote|...this is [[Sign of the Deathly Hallows|his symbol]], I recognised it at vunce: [[Gellert Grindelwald|Grindelvald]] carved it into a vall at Durmstrang ven he vos a pupil there. Some idiots copied it onto their books and clothes thinking to shock, make themselves impressive — until those of us who had lost family members to Grindelvald taught them better.|Viktor on the wizard who murdered his grandfather|Harry Potter and the Deathly Hallows}}Viktor was born to [[Viktor Krum's father|Krum]] and [[Viktor Krum's mother|his wife]] between [[May]] and [[August]] [[1976]].<ref name="BD" /> He grew up in Bulgaria, and attended the [[Durmstrang Institute]].<ref name="GF">{{GOF}}</ref> He was one of the last people to purchase a [[Viktor Krum's wand|wand]] from [[Gregorovitch Zauberstäbe]] before [[Mykew Gregorovitch]]'s retirement.
+
+During his time at the school, Viktor was confronted by what he believed to be the [[Gellert Grindelwald's mark|symbol]] of [[Gellert Grindelwald]], which was indeed the symbol of the [[Deathly Hallows]], that had been carved into the walls by the wizard himself. Other students at the school began copying the symbol onto their books and clothing as a way of trying to shock and impress. Highly insulted, since his grandfather had been murdered by Grindelwald, Viktor and several other students who had also lost family at the hands of the [[Dark Wizard]] taught them the error of their ways.<ref name="DH">{{DH}}</ref>
+
+===The 1994 Quidditch World Cup===
+{{Quote|Harry had never seen anyone fly like that; Krum hardly looked as though he was using a broomstick at all; he moved so easily through the air that he looked unsupported and weightless.|Description of Viktor's flying skills|Harry Potter and the Goblet of Fire}}[[File:World cup3.gif|left|frame|Viktor playing as a Seeker during the 1994 Quidditch World Cup]]
+
+A skilled [[Quidditch]] [[Seeker]], Viktor was selected to play for the [[Bulgarian National Quidditch team]] despite still being at school, and was widely regarded as one of the best players in the world. In 1994, he played in the [[Quidditch World Cup]], and helped Bulgaria reach the final against the [[Irish National Quidditch team]]. He was considered a fantastically exciting player to watch, so much so that even some of those who were supporting Ireland couldn't help but cheer for him.
+
+During the final match, Viktor fooled the Irish Seeker, [[Aidan Lynch]], by performing a ''[[Wronski Feint]]'' that resulted in Lynch ploughing into the ground. Despite his skills, the Irish side were too good for the Bulgarians, and Viktor decided to end the match by catching the [[Golden Snitch]]. During his pursuit of the Snitch, he was hit in the face by a [[Bludger]] which broke his nose and gave him two black eyes. However, he caught the Snitch and ended the match on his own terms. He received a runners-up medal along with the rest of the Bulgarian team following the conclusion of the match.<ref name="GF" />
+
+===Triwizard Tournament===
+{{Quote|Vell, ve have a castle also, not as big as this, nor as comfortable, I am thinking. Ve have just four floors, and the fires are lit only for magical purposes. But ve have grounds larger even than these — though in vinter we have very little day-light, so ve are not enjoying them. But in summer ve are flying every day, over the lakes and the mountains —|Viktor comparing Hogwarts and Durmstrang|Harry Potter and the Goblet of Fire}}[[File:The_champions.png|240x240px|thumb|Three of the four champions; [[Cedric Diggory]], [[Fleur Delacour]], and Viktor]]
+
+Viktor was part of the Durmstrang delegation that travelled with [[Igor Karkaroff]] to [[Hogwarts School of Witchcraft and Wizardry]] to compete in the [[Triwizard Tournament]] on 30 October. His presence at the school caused a stir amongst the student body since he was famous, and he was constantly followed by groups of giggling girls. One of the few exceptions to this was Hermione Granger.
+
+Viktor entered his name into the [[Goblet of Fire]] to participate in the Tournament; he most likely did this in order to gain eternal glory and to make his school proud. He was selected as the Durmstrang [[Triwizard Tournament|Champion]] during the Hallowe'en Feast on 31 October. He expressed no opinion on the entry of a fourth Champion — [[Harry Potter]] — into the Tournament when he found out. It seemed as though he viewed Harry as just another champion of the tournament.
+
+[[File:Harry-potter-goblet-of-fire-movie-screencaps.com-4565.jpg|249x249px|thumb|left|Viktor and the other champions take part in the Wand Weighing ceremony]]
+
+Prior to the start of the Tournament, Viktor took part in the [[Wand weighing ceremony]] overseen by [[Garrick Ollivander]], and warranted only a small mention in [[Rita Skeeter]]'s article on the Tournament. Skeeter's article focused on Harry Potter's entrance into the Tournament, and Viktor was only mentioned in the last line of the article; even then, his name was misspelled.
+
+Viktor spent a lot of time at Hogwarts in the library, as he had become attracted to [[Hermione Granger]]. Each day, he went to the library with the intention of talking to her, but could not work up the courage. The groups of infatuated girls continued to follow him, lingering behind bookcases and watching him.<ref name="GF" />
+
+====First Task====
+[[File:Dragon Enclosure Pottermore.png|250px|thumb|[[Dragon]]s the First Task of the tournament]]
+
+On 24 November, Viktor took part in the [[Triwizard Tournament|First Task]] of the Triwizard Tournament. He had been forewarned of the [[dragon]]s by Karkaroff (who had sneaked into the [[Forbidden Forest]]), and showed no surprise when the [[dragon]] task was announced. He drew the [[Chinese Fireball]] and the number three slot.
+
+Entering the arena after [[Fleur Delacour]], Viktor didn't even think of flying. He used the [[Conjunctivitis Curse]] to blind the dragon and retrieve the [[Golden egg]]; but the dragon, confused and blinded, stumbled around and crushed half the real eggs it was guarding. Viktor lost points for that, and tied with Harry Potter for first place.<ref name="GF" />
+
+====Yule Ball and the Second Task====
+{{Quote|How did [[Rita Skeeter|she]] know Viktor asked me to visit him over the summer?|Viktor invites Hermione to spend the summer|Harry Potter and the Goblet of Fire}}[[File:Images (16).jpg|240x240px|thumb|left|Viktor and [[Hermione Granger]] dancing during the Yule Ball]]
+
+With the approach of the [[Yule Ball]], Viktor finally found the courage to ask Hermione to the ball as his date, even though he could barely pronounce her name. They, with the other Champions, opened the dancing at the Ball. Hermione spent the evening trying to teach Viktor how to pronounce her name correctly, but did not succeed. They also spend much of the evening dancing with one another, much to Ron's increasing displeasure. Ron even accused Hermione of cozening up to the enemy. An unexpected side-effect of their apparent relationship was that Hermione was chosen by the judges of the Tournament to be the hostage that Viktor would have to rescue from the Black Lake.
+
+[[File:GOF Viktor partial shark Transfiguration second task.gif|240px|thumb|Viktor rescuing [[Hermione Granger]] during the Second Task]]
+
+Having worked out the clue from the [[golden egg]], Viktor knew he had to breathe underwater for at least an hour during the [[Triwizard Tournament|Second Task]]. It is unknown if he worked the clue out on his own or if he had help from the [[Durmstrang Institute|Durmstrang]] headmaster. He chose to attempt to [[Human to shark spell|transfigure]] himself into a [[shark]], but managed only to transfigure his head. Still, it worked well enough for him to reach the [[Great Lake Merpeople colony|merpeople village]].
+
+However, the teeth on his shark head were not placed well enough to bite through the ropes holding Hermione. Harry, who had reached the village before Viktor, saw the trouble he was having, and feared for his friend. He grabbed a jagged rock, then thumped Viktor on the shoulder and gave it to him. Taking the rock, Viktor cut through the ropes holding Hermione and headed for the surface. He arrived outside the time-limit in second place, but was awarded third after the judges took into account Harry's determination to rescue all the hostages.
+
+Back on dry land, Viktor confessed to Hermione that he had never felt about a girl the way he felt about her; and invited her to stay with him in Bulgaria over the summer.<ref name="GF" />
+
+====Third Task====
+Prior to the [[Triwizard Tournament|Third Task]], Viktor viewed the beginnings of the maze that they would have to navigate. On their way back to the castle, Viktor took Harry to one side to ask him about his relationship with Hermione. Following the Second Task, Rita Skeeter had written an article concerning Hermione toying with Harry and Viktor's affections. Viktor sought out Harry and questioned him about the article. Harry assured Viktor that he and Hermione were only friends, but their conversation was interrupted by the arrival of a confused [[Bartemius Crouch Senior|Barty Crouch Snr]]. While Harry rushed to get help, Viktor remained with Crouch. However, he was stunned by [[Bartemius Crouch Junior|Barty Crouch Jnr]]. [[Albus Dumbledore]] revived him, and Viktor believed that Crouch Snr had Stunned him when his back was turned and had vanished into the woods after.
+
+[[File:Viktor_Krum7.jpg|250px|thumb|left|Viktor under the [[Imperius Curse]], while in the hedge maze]]
+
+Viktor entered the maze behind Harry and Cedric, and began searching for the [[Triwizard Cup]]. During the task, Barty Crouch Jnr, posing as [[Alastor Moody]] by way of the [[Polyjuice Potion]], managed to place the Imperius Curse on Viktor as part of his plot to steer Harry Potter to victory in the Tournament. Under Moody's control, he caught up with Cedric and performed the [[Cruciatus Curse]] on him. However, he was Stunned by Harry and left unconscious. Cedric, against his better judgement, used his wand to shoot red sparks into the air, allowing him to be rescued from the maze.
+
+[[File:Krum.jpg|170px|thumb|right|Viktor Krum at [[Cedric Diggory]]'s [[Memorial feast to Cedric Diggory|Memorial Feast]]]]
+Following the Tournament and the murder of [[Cedric Diggory]], Viktor attended the Leaving Feast, which was also a memorial service for Cedric. Viktor left Hogwarts the next day, saying a private goodbye to Hermione, giving Ron his autograph, and expressing to Harry his regret over the death of Cedric.<ref name="GF" />
+
+===Second Wizarding War===
+====After the Triwizard Tournament====
+{{Quote|Vot is the point of being an international Quidditch player if all the good-looking girls are taken?|Viktor regarding his status as a famous Quidditch player|Harry Potter and the Deathly Hallows}}Despite his offer, Hermione never visited Viktor in Bulgaria, but the two continued to correspond through letters.<ref name="OP">{{OOTP}}</ref>
+
+By [[1996]], Viktor Krum appeared on a [[Chocolate Frog Card]]. During the [[1996–1997 school year]] at Hogwarts, his card could be won by beating [[Roderick Seaton]] at a [[Gobstones]] challenge.<ref name="HBPG">{{HBP|G}} {{c|NDS edition}}</ref>
+
+[[File:Wedding of William Weasley and Fleur Delacour.jpg|250px|thumb|Bill and Fleur's wedding day]]
+
+On [[1 August]], [[1997]], Viktor attended the [[Wedding of William Weasley and Fleur Delacour|wedding]] of [[Fleur Delacour]] and [[William Weasley|Bill Weasley]] at Fleur's invitation. During the reception, he noticed that [[Xenophilius Lovegood]] was wearing the [[Gellert Grindelwald's mark|symbol]] that had come to be associated with the Dark Wizard [[Gellert Grindelwald]]. While in conversation with [[Harry Potter]] (who was disguised by [[Polyjuice Potion]] and going under the name of [[Harry Potter|Barny Weasley]]), he expressed the desire to duel him for wearing the symbol, but held back because it was Fleur's wedding, "Barny" attempting to assure him that Xenophilius probably thought it meant something beyond what Krum associated it with. Later on in the reception, Viktor confronted Lovegood over the symbol and argued with him before storming off.<ref name="DH" />
+
+[[File:Viktor & Hermione 1997.jpg|235px|thumb|left|Viktor and Hermione at the Weasley-Delacour wedding]]
+
+While at the reception, Viktor greeted Hermione enthusiastically, commenting that she looked wonderful. [[Ronald Weasley|Ron Weasley]] quickly pulled her to the dance floor with him, and Viktor was disappointed to learn that the two were on the verge of a romantic relationship. He then commented to a disguised Harry that [[Ginevra Weasley|Ginny Weasley]] was very pretty. Harry immediately told him Ginny was seeing someone who was big and the jealous type, and that Viktor would not want to cross him. Viktor then bemoaned the fact that, despite being an international Quidditch star, all the good-looking girls were taken.<ref name="DH" />
+
+Being a young man of great strength of character, as well as his loyalty as a friend of Hermione, it is likely he aided the members of the Order of the Phoenix protect the attendees of the wedding from the attacking Death Eaters. However, as Remus Lupin confirmed that no one had been killed during the skirmish, it is unlikely Krum suffered any great injuries during if he did participate in it.
+
+===Later life===
+{{Quote|​''[I aim]'' to win the World Cup before I die.|Viktor Krum on why he joined the [[Bulgarian National Quidditch team|Bulgarian team]] in [[2014]]|Pottermore}}[[File:Krum 2014.gif|237x237px|thumb|right|Tears stream down Krum's face after securing the Bulgarian victory of the [[2014 Quidditch World Cup final|2014 World Cup Final]]]]
+
+Krum continued his Quidditch career, representing [[Bulgaria]] in international [[Quidditch]] matches, until [[2002]]. On the final of the [[2002 Quidditch World Cup|424th Quidditch World Cup]] (held that year), Bulgaria suffered a crushing disappointment when outstanding [[Egyptian National Quidditch team|Egyptian]] [[Seeker]] [[Rawya Zaghloul]] narrowly beat Krum to the Snitch, making them lose 450 to 300. After the match, a tearful Krum announced his retirement.<ref name="PM">{{PM}} - [[Quidditch World Cup 1990 - 2014]] (Archived)</ref>
+
+However, Krum's ambition to help Bulgaria win the [[Quidditch World Cup]] made him come out of retirement to compete in the 2014 Quidditch World Cup. At 38 years old, Krum was old for a Seeker, but his dramatic return caused Bulgaria to attract support from those whose own countries had not qualified.<ref name="PM" /> He ended up catching the Snitch and secured Bulgaria's victory over Brazil in the [[2014 Quidditch World Cup final|World Cup Final]]. Bulgaria's success was described by [[Ginevra Weasley|Ginny Potter]] as being mostly due to Viktor Krum's excellent performance.
+
+During the [[Calamity]], Viktor appeared as a [[Foundable]] alongside Hermione as the pair appeared at the Yule Ball, trapped in a giant Christmas ornament [[Confoundable]]. Volunteer members of the [[Statute of Secrecy Task Force]] had to cast the [[Exploding Charm]] in order to free them and return the two to their proper time.<ref>Harry Potter: Wizards Unite</ref>
+
+Viktor eventually "found [[love]]" with someone from his native [[Bulgaria]].<ref name="JKR" /> He also kept in contact with Hermione, although the relationship was strictly platonic, contrary to Rita Skeeter's commentary at the 2014 World Cup.
+
+==Physical appearance==
+{{Quote|Viktor Krum was thin, dark, and sallow-skinned, with a large curved nose and thick black eyebrows. He looked like an overgrown bird of prey. It was hard to believe he was only eighteen.|Description|Harry Potter and the Goblet of Fire}}[[File:GOF krum promo.jpg|234x234px|thumb|left|Viktor in his final year at [[Durmstrang Institute|Durmstrang]]]]
+
+Viktor was a tall, thin, sallow young man with dark hair and eyes. He had a large, curved nose that he inherited from his father, a sharp profile, thick, black eyebrows. Despite appearing graceful while flying on a [[broomstick]], he was round-shouldered and duck-footed while on the ground.
+
+[[Hermione Granger]] described him as "''grumpy-looking''" and not particularly handsome, though on the latter occasion, she was annoyed because his "fan club" would follow him into the library and make noise while she was trying to read.<ref name="GF" /> By the time of Fleur and Bill's [[Wedding of William Weasley and Fleur Delacour|wedding]], Viktor had grown a small beard, which [[Ronald Weasley|Ron Weasley]] criticised.<ref name="DH" />
+
+
+
+==Personality and traits==
+{{Quote|He's really nice, you know. He's not at all like you'd think, coming from Durmstrang.|Viktor's pleasant personality|Harry Potter and the Goblet of Fire}}Surly and moody, Viktor usually kept his own company and rarely spoke unless he needed to. Despite his fame, or perhaps because of it, Viktor was reserved and not fond of the attention he was paid because of his celebrity. However, he was known to be good company to those he allowed close to him, such as [[Hermione Granger]], to whom he spoke "''very enthusiastically''" once they became friendly.
+
+Hermione described Viktor as very kind and not at all what one would expect from a student of [[Durmstrang Institute|Durmstrang]]. Viktor also responded well to those that treated him fairly or impressed him. [[Cedric Diggory]] was always polite to him, and Viktor was saddened by Cedric's death. Viktor was also impressed by [[Harry Potter]]'s flying skills during the First Task. Harry also considered Viktor to be "''a lot tougher than he looked''" after seeing him dive into [[Great Lake|Black Lake]] in January.<ref name="GF" /> He also has very little patience with people who insulted the deaths of his beloved ones, as he felt highly insulted by Durmstrang students who copied the mark of Grindelwald, the dark wizard who killed Viktor's grandfather, and was furious when he saw Xenophilius Lovegood wearing the symbol.
+
+==Magical abilities and skills==
+*'''[[Flight|Flying]]''': Viktor was an incredibly skilled flyer and played [[Seeker]] for the [[Bulgarian National Quidditch team]] by the age of seventeen. He was said to be one of the best seekers in the world, despite his young age.
+*'''[[Transfiguration]]''': Viktor was shown to be skilled in the field of transfiguration. He partially [[Human to shark spell|transfigured himself into a shark]] during the Second Task of the [[Triwizard Tournament]], which is [[human Transfiguration]] — a very difficult form of transfiguration.
+*'''[[Dark Arts]]''': At Durmstrang, he learned how to use dark magic (as it was an [[Dark Arts (class)|academic class]] there), although he was not a [[Dark Wizard]]. He was forced to use the [[Cruciatus Curse]] on Cedric Diggory under the influence of the [[Imperius Curse]], though it is unknown if he was able to use the curse under normal circumstances. He was also able to cast an effective [[Conjunctivitis Curse]] against a dragon during the First Task of the Triwizard Tournament.
+*'''[[Duelling]]''': As the practical application of [[martial magic]] is a mandatory field of study at Durmstrang, it is reasonable to assume that Viktor Krum was an accomplished duellist. He claimed that, if it would not disturb [[William Weasley|Bill Weasley]] and [[Fleur Delacour]]'s [[Wedding of William Weasley and Fleur Delacour|wedding]], he would [[Duelling|duel]] [[Xenophilius Lovegood]] for wearing [[Gellert Grindelwald]]'s symbol, showing a certain confidence in his abilities despite the fact that Lovegood was much older and for all he knew, a superior duellist.
+*'''Bilingualism:''' Victor was able to speak fluent English alongside his native Bulgarian, although with a strong accent in the former.
+
+==Possessions==
+[[File:Viktor Krum wand.png|thumb|Krum's wand]]
+*'''[[Viktor Krum's wand|Wand]]''': Viktor was chosen by a Gregorovitch wand of [[hornbeam]] [[Wand wood|wood]] with a [[dragon heartstring]] [[Wand core|core]]. The wand was described as being thicker than normal and being "quite rigid" by [[Garrick Ollivander]].
+*'''[[Viktor Krum's dress robes|Dress robes]]''': Viktor wore dress robes to the [[Yule Ball]] and later to the wedding of William Weasley and Fleur Delacour.
+
+==Relationships==
+===Hermione Granger===
+{{Dialogue a-b-a-b|Viktor|I vant to know vot there is between you and Hermy-own-ninny.|Harry Potter|Nothing. We're just friends. She's not my girlfriend and she never has been. It's just that Skeeter woman making things up.|Hermy-own-ninny talks about you very often.|Yeah, because we’re ''friends''.|Viktor asks [[Harry Potter]] about his relationship with Hermione|Harry Potter and the Goblet of Fire}}[[File:Hermione-emma-watson-32234765-960-1260.png|217x217px|thumb|[[Hermione Granger]], his Yule Ball date]]
+
+Viktor became attracted to Hermione Granger shortly after his arrival at [[Hogwarts School of Witchcraft and Wizardry]], and spent a lot of time in the library, trying to find the courage to talk to her. Eventually, following the announcement of the [[Yule Ball]], he finally worked up the nerve and asked her to the Ball as his date. She accepted, but told no one except [[Ginevra Weasley|Ginny Weasley]]. Thus, their arrival at the Ball together caused a minor stir, as Viktor was famous and Hermione made herself look exceptionally pretty.
+
+Following the Ball, Hermione and Viktor continued to see each other. Viktor, who was usually taciturn, spoke enthusiastically to Hermione, who became so engrossed in their conversations that at one point, she seemed to forget she was eating. Hermione later became the hostage for Viktor to retrieve for the Second Task of the Tournament. Following the Task, Viktor told Hermione that he had never felt about a girl like the way he felt about her, and invited her to Bulgaria to visit him during the summer. However, [[Rita Skeeter]], an unregistered [[Animagus]], eavesdropped on their conversation and wrote an article that painted Hermione as toying with both Viktor's affections and [[Harry Potter]]'s. This, as well as Hermione's tendency to talk about her friend, led Viktor to seek out Harry, who confirmed that he and Hermione were just friends<ref name="GF" />. During a confrontation with Ron, Ginny claimed that Viktor and Hermione kissed at some point during this period, whether that is true or if Ginny was just trying to get under Ron's skin is unknown. She never did visit him in Bulgaria, although she did write to him often.<ref name="OP" />
+
+At [[Fleur Delacour]] and [[William Weasley|Bill Weasley]]'s [[Wedding of William Weasley and Fleur Delacour|wedding]] in [[1997]], Viktor complimented Hermione upon seeing her, but was disappointed to learn that she and [[Ronald Weasley|Ron Weasley]] were "sort of" a couple.<ref name="DH" />
+
+===Harry Potter===
+{{Quote|Viktor always said — He said Harry knew how to do stuff even he didn't, and he was in his final year at [[Durmstrang Institute|Durmstrang]].|Hermione Granger, Viktor regarding Harry's skills|Harry Potter and the Order of the Phoenix }}[[File:Harry_Potter_movies_hbp_promostills_6.jpg|228x228px|thumb|left|[[Harry Potter]], his fellow champion and friend]]
+
+Krum first met Harry Potter when the latter was mysteriously chosen to be a fourth [[Triwizard Tournament]] champion. While it is uncertain if Krum believed Harry put his name into the [[Goblet of Fire]], he seemed to view Harry as just one more competitor. Having gone before him in the first task, Krum watched from the sidelines as Harry performed the task. He was greatly impressed by Harry's flying skills. When Krum began seeing [[Hermione Granger]], he began to have some misplaced jealousy for Harry. He did not know what to believe with the rumours swirling around.
+
+In May, after the champions had been shown the maze, Krum took Harry aside to ask him personally about his relationship with Hermione, which caused Harry disbelief that the internationally famous seeker seemed to consider him "''...an equal -a real rival''". When Harry assured Krum that Hermione was not his girlfriend and that they were just friends, Krum complimented his flying. The two remained friendly afterwards, though for a brief period Harry thought Krum was mad for using the [[Cruciatus Curse]] on [[Cedric Diggory]] in the maze, but then he learned that Krum had been under the [[Imperius Curse]].
+
+The two saw each other again at the [[Wedding of William Weasley and Fleur Delacour|wedding of Bill Weasley and Fleur Delacour]], where a disguised Harry jealously told Krum that the pretty girl, [[Ginevra Weasley|Ginny Weasley]], had a big, jealous boyfriend. Before the final match of the 2014 Quidditch World Cup, Harry embraced Viktor and introduced his two sons, [[James Potter II|James]] and [[Albus Potter|Albus]], to him, indicating that the two are likely in contact after the war.
+
+===Cedric Diggory===
+{{Quote|I liked Diggory. He vos alvays polite to me. Alvays. Even though I vos from Durmstrang — with Karkaroff.|Viktor regarding Cedric after he was murdered|Harry Potter and the Goblet of Fire}}[[File:Cedric-Diggory-promo-pics-hufflepuff-28197938-365-520.jpg|150px|thumb|[[Cedric Diggory]], his once fellow champion]]
+Viktor met Cedric Diggory in the chamber off the [[Great Hall]] after the champions names had come out of the [[Goblet of Fire]]. He respected Diggory's character and sense of fair play. He stated that Cedric had always been nice to him, even though he was from [[Durmstrang Institute|Durmstrang]]. While under the [[Imperius Curse]], he used the [[Cruciatus Curse]] on Diggory in the maze during the third task. When Diggory was murdered, Viktor seemed to be affected, since he spoke of him to Harry Potter before leaving [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]].
+
+===Fleur Delacour===
+[[File:Clemence Poesy as Fleur DelaCour (HP4 promo).jpg|210x210px|thumb|left|[[Fleur Delacour]], fellow [[Triwizard Tournament|Triwizard Champion]]]]
+Viktor Krum and [[Fleur Delacour]] were both the Triwizard champions for their schools, [[Durmstrang Institute]] and [[Beauxbatons Academy of Magic|Beauxbatons]] respectively. Although they viewed each other as competition during the [[Triwizard Tournament]], they maintained their friendship and she invited him to her wedding to [[William Weasley|Bill Weasley]] in 1997.
+
+===Igor Karkaroff===
+[[File:Igor Karkaroff GoF.jpg|246x246px|thumb|[[Igor Karkaroff]], Viktor Krum's headmaster]]
+[[Igor Karkaroff]] was the headmaster of [[Durmstrang Institute]] while Viktor Krum was at school. He treated Krum with more respect then he did with other students as seen in their arrival, and assisting Krum throughout the Triwizard Tournament, even going as far as scoring the other champions unfairly. It is unknown how his relationship with him was, though when Karkaroff fled Hogwarts after the [[return of Lord Voldemort]], he spoke about him only with contempt.
+
+==Media==
+<gallery width="200" position="center" spacing="small" captionalign="center" hideaddbutton="true">
+File:Harry Potter- The Quidditch World Cup|1994 Quidditch World Cup
+File:Harry Potter and the Goblet of Fire - Foreign Visitors Arrive|Foreign Visitors Arrive
+</gallery>
+
+==Etymology==
+*Viktor means the "victorious one," appropriate for a forceful Quidditch player. The name may have been intended by J. K. Rowling to be ironic, as Viktor competes in two major tournaments in ''Goblet of Fire'' (the Quidditch World Cup and the Triwizard Tournament) and loses both.
+*[[Wikipedia:Krum|Krum]] is the name of one of the most famous Bulgarian rulers, who ruled in the Ninth century. Krum is, however, not a typical name in modern Bulgaria, being of pagan origin, and is in fact not a surname, but a given name.<ref>https://en.wikipedia.org/wiki/Bulgarian_name#Bulgarian_given_names</ref> At the time Bulgarian rulers were known by their first name, as they all rose from the same house/family (Dulu).
+*It could be possible that his real surname is Krumov (Крумов) which would follow the formation of surnames in Bulgarian language, and that Krum was just an Anglicization of it.
+*It could also be possible that Krum is a wizarding surname, as wizarding culture often favours very old names. This is plausible since medieval Bulgarian surnames were not necessarily possessive forms.
+
+==Behind the scenes==
+[[File:Krumvik.jpg|thumb|Viktor as a LEGO mini-figure (first edition)]]
+[[File:ViktorKrumLEGO.jpg|thumb|Viktor Krum as a LEGO mini-figure (second edition)]]
+[[File:ViktorKrumPOP.jpg|thumb|Viktor Krum as a [[POP! Vinyl]]]]
+*Viktor Krum was portrayed by [[Bulgaria]]n actor [[Stanislav Ianevski]] in {{GOF|FA}}. Ianevski returned as Krum for {{DH|F1}} and was suppose to have a scene in the [[Wedding of William Weasley and Fleur Delacour|Wedding of Fleur Delacour and Bill Weasley]] dancing with [[Hermione Granger|Hermione]] but his appearance was cut out of the final film.
+*Viktor is the Slavic version of the name ''Victor''; it is derived from the Latin ''victor'', meaning "victorious". Krum was the name of a Bulgarian monarch who ruled between 803 and 814, and established a dynasty that ruled the country until 997.
+*In the books, Viktor is described as being tall, thin, with a curved nose and thick black eyebrows. The actor who portrays him in the fourth film, Stanislav Ianevski, however, is stockier, with broad shoulders, a straight nose and thin sized eyebrows. He also has stubble and very short hair, neither of which are described in the novel. However, in the last book, Viktor is mentioned to have grown a beard, so the stubble may have grown into one.
+*In {{QWC}}, Krum's appearance is much closer to the book's description since the game had been made before the [[Harry Potter and the Goblet of Fire (film)|Harry Potter and the Goblet of Fire film]]. Krum has long, dark brown hair, a curved nose, and a fairly slim build. Since Cedric Diggory also appears in the game, the game probably takes place in the 1993 season, meaning Krum was 17 at the time.
+*In {{LEGO|Y1}}, Viktor Krum has a flat top hair style.
+**Additionally, Krum kisses Hermione in full view of Ron in the ''LEGO'' game, while in the books Ron does not find out that the two kissed until almost two years later.
+*In the book, Krum attacks Cedric Diggory in the maze with the [[Cruciatus Curse]]. In the film, he tries to [[Killing Curse|kill]] Diggory. Additionally, Harry recognises him in the film as having been bewitched by the [[Imperius Curse]], whereas in the book, he is completely puzzled by his actions.
+**On a similar note, in the film, shortly after Krum disabled Fleur, Krum has a brief run-in with Harry and briefly points his wand threateningly at Harry, only to lower it upon seeing him (presumably due to Barty Crouch Jnr after bewitching him leaving explicit orders not to kill or harm Harry). During this time, Harry witnessed his eyes being clouded, which was implied to be the reason why he deduced Krum's bewitched status in the film.
+*In the films Harry and Krum never talk to each other, so their relationships in the films remain unknown.
+
+==Appearances==
+{{Imagecat|Images of Viktor Krum}}
+[[File:Viktor_Krum_LEGO_Y1.png|thumb|Viktor Krum as he appears in {{LEGO|Y1}}]]
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{GOF|G}}
+*{{OOTP}} {{Mention}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{HBP|F}} {{Comment|Flashback in Disc 2}}
+*{{HBP|G}} {{FWC}}
+*{{DH}}
+*{{DH|F1}} {{C|Appears in edited scene}}
+*{{CC}}
+*{{CC|P}}
+*{{PM}}
+*{{WW}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO}}
+*{{QWC}}
+*{{HPK}} {{mentioned}}
+*{{HPV|CH}}
+*{{HPV|CR}}{{mentioned}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Triwizard}}
+{{Quidditch positions}}
+
+{{DEFAULTSORT:Krum, Viktor}}
+[[de:Viktor Krum]]
+[[de2:Viktor Krum]]
+[[es:Viktor Krum]]
+[[fi:Viktor Krum]]
+[[fr:Viktor Krum]]
+[[it:Viktor Krum]]
+[[ja:ビクトール・クラム]]
+[[nl:Viktor Kruml]]
+[[pl:Wiktor Krum]]
+[[pt-br:Vítor Krum]]
+[[ru:Виктор Крам]]
+[[uk:Віктор Крум]]
+[[vi:Viktor Krum]]
+..
+[[Category:1976 births]]
+[[Category:Bulgarian individuals]]
+[[Category:Chocolate Frog Cards]]
+[[Category:Durmstrang students]]
+[[Category:Foundables]]
+[[Category:Hermione Granger's romantic relationships]]
+[[Category:Imperius Curse victims]]
+[[Category:Krum family|Viktor]]
+[[Category:Males]]
+[[Category:Seekers]]
+[[Category:Triwizard Champions]]
+[[Category:Wizards]]

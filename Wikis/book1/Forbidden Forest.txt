@@ -1,0 +1,274 @@
+{{Spoiler|HL|PAS|WU|HM}}
+{{Location infobox
+|imageBG = 
+|image = Forbidden Forest.png
+|name = Forbidden Forest
+|location = [[Hogwarts Castle|Hogwarts Grounds]], [[Highlands]], [[Scotland]], [[Great Britain]]<ref name="PS15"/>
+|owner = 
+|residents = *[[Acromantula]]s<ref name="COS15"/> 
+*[[Thestral]]s<ref name="OOTP17"/><ref name="OOTP21"/><ref name="OOTPF">{{OOTP|F}}</ref>
+*[[Unicorn]]s<ref name="PS15"/> 
+*[[Centaur]]s<ref name="PS15"/> 
+*[[Werewolf|Werewolves]]<ref name="PS15"/> 
+*[[Grawp]] (formerly)<ref name="OOTP30"/>
+*[[Flying Ford Anglia]]<ref name="COS15"/> 
+*[[Fluffy]] (formerly)<ref name="accio"/>
+*[[Hippogriff]]s<ref name="POA6">{{POA|B|6}}</ref>
+*[[Deer]]<ref name="OOTP30"/>
+*[[Fox]]es<ref name="COS11"/>
+|affiliation = 
+}}
+{{Quote|The forest hides many secrets.|[[Ronan]] on the nature of the Forbidden Forest|Harry Potter and the Philosopher's Stone}}
+
+The '''Forbidden Forest''', also known as the '''Dark Forest''',<ref name="PSF">{{PS|F}}</ref><ref name="COSF">{{COS|F}}</ref> borders the edges of the [[Hogwarts School of Witchcraft and Wizardry]] grounds.<ref name="PS15"/>
+
+The forest is a very old place that holds many secrets and houses many [[creature]]s, some dark and dangerous, others friendly. The trees in the forest are considered ancient, they are dense and rough looking from years of exposure to the elements.<ref name="PS15"/>
+
+As the forest's name suggests, it is strictly off limits to students — except in the case of detention, or [[Care of Magical Creatures]] lessons that occasionally take place there. Of course, with the various dangerous creatures living in the Forest, few students would even want to venture into it.
+
+==Description==
+Described by [[Professor]] [[Silvanus Kettleburn]] as 'massive',<ref name="HM">{{HM}}</ref> the forest is thick with trees — [[beech]],<ref name="PS13">{{PS|B|13}}</ref> [[English oak|oak]],<ref name="PS15">{{PS|B|15}}</ref><ref name="COS15">{{COS|B|15}}</ref><ref name="OOTP28">{{OOTP|B|28}}</ref> [[pine]],<ref name="OOTP30">{{OOTP|B|30}}</ref> [[sycamore]],<ref name="COS15"/> and [[yew]]<ref name="OOTP21">{{OOTP|B|21}}</ref> are mentioned, as well as undergrowth such as [[knotgrass]] and thorns<ref name="OOTP30"/> — but there are paths, brooks, and some clearings. Off the path the way is almost impassable, although people have moved through it and creatures as large as [[Acromantula]]s and a [[Flying Ford Anglia|Ford Anglia]] have managed to get around.<ref name="COS15"/>
+
+It is hard to navigate the Forest at night, as there are tree roots and stumps that are barely visible in near blackness. Also clothes were known to snag on low-slung branches and brambles. The forest is home to a wide and strange assortment of creatures. Anything wild and dangerous that needs a place to live is put there. There are areas around the edges of the forest that are part of the [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] grounds, but which are out of sight of the castle. [[Rubeus Hagrid|Hagrid]] set up a paddock for [[Hippogriff]]s in an area like this<ref name="POA6">{{POA|B|6}}</ref> and the [[dragon]]s which had been brought in for the first task were confined here.<ref name="GOF19">{{GOF|B|19}}</ref>
+
+The [[Hagrid’s house|hut]] of [[Keeper of Keys and Grounds|Gamekeeper]] [[Rubeus Hagrid]] is located at the edge of the Forbidden Forest.<ref name="PS8">{{PS|B|8}}</ref>
+
+Black flowers are known to grow in the forest, along with [[Bubotuber]]s.<ref name="GOFG">{{GOF|G}}</ref>
+
+==History==
+===Early history===
+The forest had existed since at least the [[19th century]].<ref>{{HL}}</ref>
+A long line of successive [[Keeper of Keys and Grounds|Keepers of Keys and Grounds]], including [[Ogg|Mr Ogg]] and [[Rubeus Hagrid]], have presumably been charged to attend to matters in the Forbidden Forest as part of their job.
+
+Over the centuries since the school's inception, more than a few students have disappeared in the forest.<ref name="HM" />
+
+Throughout his teaching career, former [[Care of Magical Creatures]] Professor [[Silvanus Kettleburn]] spent quite a bit of time exploring the Dark Forest, which might account for some of his injuries.<ref name="HM" />
+
+===The [[Cursed Vaults]]===
+At some point during her magical education, [[Patricia Rakepick]] asked then , the easiest way to enter the forest undetected in order to study the magical creatures dwelling there in the hopes of learning enough about them to become a [[Magizoologist]], which he against his better judgement explained to her. Upon learning how to enter the woods undetected, she allegedly spent as much time in there as she did in the school herself, though Professor Kettleburn later came to suspect she had ulterior motives to enter the forest.<ref name="HM" />
+
+At some point during the mid- to late [[1970s]] or quite possibly the dawn of the [[1980s]], a [[Sleepwalking curse]] was unleashed when someone unwisely disturbed the Forest Vault, one of the five fabled [[Cursed Vaults]] of Hogwarts. This caused a number of students to sleepwalk into the forest, where some were gravely injured and even killed by the creatures living in there. Around this time, a student by the name of [[Jacob (Hogwarts student)|Jacob]] entered the forest hoping to break this curse, soliciting the aid of the centaur [[Torvus]]. In order to open the vault so he could break the curse, the pupil's research indicated that a specific jewel encrusted arrowhead was required. Being a precious heirloom, the centaur refused to hand it over to a human, prompting Jacob to use magic to steal it from their camp. He was expelled from Hogwarts before it could be returned where it belonged.<ref name="HM" />
+
+During the fourth year of [[Jacob's sibling|his sibling's]] schooling, someone once again tampered with the Cursed Vault in the Dark Woods, prompting Jacob's younger sibling to locate and break the curse, just as their brother had tried to do. Distrusting of humans following Jacob's thievery, which lead to his own banishment from the herd for trying to help a human, challenged Jacob and his companions to battle, and ultimately refused to help them.<ref name="HM" />
+
+The Forest appeared to hold some great interest for [[Fred and George Weasley]], as both [[Rubeus Hagrid]],<ref name="PS8">{{PS|B|8}}</ref> and less overtly, [[Albus Dumbledore]], indicated that considerable efforts had been made in the past to keep the boys out.<ref name="PS7">{{PS|B|7}}</ref>
+
+===The [[unicorn]] case===
+{{main|Detention in the Forbidden Forest (1992)}}
+{{Quote|So Harry set off into the heart of the Forest with Malfoy and [[Fang]]. They walked for nearly half an hour, deeper and deeper into the Forest, until the path became almost impossible to follow because the trees were so thick.|Detention in the Forest|Harry Potter and the Philosopher's Stone}}
+After a Quidditch match against Hufflepuff, [[Harry Potter]] secretly followed [[Severus Snape]] to the outskirts of the forest, where he overheard a furtive conversation about the [[Philosopher's Stone]], in which Snape asked [[Quirinus Quirrell|Professor Quirrell]] if he had found a way past the [[Fluffy|three-headed dog]] and menacingly told Quirrell to decide where his loyalties laid.<ref name="PS13">{{PS|B|13}}</ref>
+
+[[File:Harry Potter and Firenze in the Forbidden Forest.jpg|thumb|Firenze speaking to Harry Potter]]
+[[File:Unicorns death.jpg|thumb|A dead Unicorn in the Forbidden Forest]]
+
+As part of their [[Discipline at Hogwarts|punishment]] for being caught out of bed at night by [[Minerva McGonagall]], [[Harry Potter]], [[Hermione Granger]], [[Draco Malfoy]] and [[Neville Longbottom]] were assigned to help the [[Keeper of Keys and Grounds|gamekeeper]] [[Rubeus Hagrid]] find and rescue a badly-injured [[unicorn]] in the Forbidden Forest. They split into two parties, and Harry and Draco found the unicorn dead, surrounded by its own [[Unicorn blood|blood]].<ref name="PS15" />
+
+A hooded figure crawled to the corpse and drank the blood, while Draco fled, screaming. The hooded figure moved towards Harry, who was knocked out by an agonising pain spreading from his [[Harry Potter's scars|scar]]. When Harry regained consciousness, the hooded figure had gone and a [[Centaur]], [[Firenze]], offered to give him a ride back to the school. Firenze told him that the hooded figure was [[Tom Riddle|Lord Voldemort]], who had been trying to regain strength by drinking the unicorn's blood while sharing [[Quirinus Quirrell]]'s body.<ref name="PS15" />
+
+===Visiting [[Aragog]]===
+{{Quote|So they followed the darting shadows of the spiders into the trees. They couldn’t move very quickly now; there were tree roots and stumps in their way, barely visible in the near blackness.|Harry Potter and Ron Weasley follow the spiders|Harry Potter and the Chamber of Secrets}}Following the re-opening of the [[Chamber of Secrets]], Harry and Ron went to visit [[Rubeus Hagrid|Hagrid]] and ask him about his possible involvement in the last opening, 50 years previous. Harry received the information regarding Hagrid from [[Tom Riddle's diary]]. However, before they could receive any information, Hagrid was taken away by [[Lucius Malfoy]] and [[Cornelius Fudge]]. Before leaving his hut, he said that if anyone wanted to know anything they just had to "follow the spiders."<ref name="COS14">{{COS|B|14}}</ref>
+[[File:Harry-potter2-movie-spider aragog.jpg|220x220px|thumb|Harry and Ron first encountered the [[Acromantula]]s]]
+Harry and Ron, who had been hiding under the [[invisibility cloak]], decided to follow the spiders, per Hagrid's advice, which were streaming en masse towards the Forest. The spiders eventually led them to the [[Forbidden Forest Acromantula colony|Forest's acromantula colony]], headed by [[Aragog]], the "monster" Hagrid had been accused of setting on other students 50 years ago. [[Aragog]] explained that Hagrid is innocent, but rather than letting Harry and Ron go, he decided to leave them [[Skirmish in Aragog's Hollow|as dinner for his children]]. Mr Weasley's Ford Anglia came blasting through the layers of spiders, however, and rescued the boys. Remembering that [[Aragog]] had said that [[Salazar Slytherin]]'s real [[Salazar Slytherin's basilisk|monster]] had killed its last victim in a bathroom, it occurred to Harry that [[Myrtle Warren|Moaning Myrtle]] might have been that victim.<ref name="COS15"/>
+
+===[[Peter Pettigrew]]'s escape===
+{{Quote|There was a howl and a rumbling growl; Harry turned to see the werewolf taking flight; it was galloping into the forest —|A transformed Lupin retreating to the forest|Harry Potter and the Prisoner of Azkaban}}
+[[File:POA HQ still Hermione Buckbeak Harry.png|250px|thumb|left|Hermione and Harry hiding Buckbeak in the Forbidden Forest]]
+
+After being in the [[Shrieking Shack]] for several hours, Harry, Ron, Hermione, [[Sirius Black]], [[Remus Lupin]], Snape and Ron's [[rat]] Scabbers, who had recently been discovered to be [[Peter Pettigrew]], left the secret passage in the [[Whomping Willow]]. Unfortunately, Lupin had forgotten to take his [[Wolfsbane Potion]], and the full moon caused him to turn into an uncontrollable [[Werewolf]]; when Sirius Black changed to his [[Animagus]] dog form to protect the others, Pettigrew took the opportunity to turn back into Scabbers and escape. After injuring Black, Lupin fled to the Forbidden Forest.<ref name="POA20">{{POA|B|20}}</ref>
+
+Later, when Harry and Hermione [[Rescue of Sirius Black and Buckbeak|rescued]] Buckbeak and Sirius Black by going back in [[time]] with the [[Time-Turner]], they hid with the [[Hippogriff]] in the Forest, while their counterparts were in the [[Shrieking Shack]].<ref name="POA21">{{POA|B|21}}</ref>
+
+===[[Triwizard Tournament]]===
+{{Quote|As ever, I would like to remind you all that the Forest in the grounds is out-of-bounds to students.|A warning to students new and old|Harry Potter and the Goblet of Fire}}[[File:Forbidden Forest GOF 1.jpg|250px|thumb|The forest in 1994]]
+The [[Triwizard Tournament]] was held at Hogwarts during the [[1994–1995 school year]]. For the first task, the Tournaments imported four [[Dragon]]s for the Champions to overcome, which were kept in the Forbidden Forest and maintained by [[Dragonologist]]s, including [[Charles Weasley]].<ref name="GOF19">{{GOF|B|19}}</ref>
+
+Near the end of the Triwizard Tournament, Harry and the other champions were informed that the third task would be a [[Triwizard Maze|maze]], filled with [[magic]]al obstacles. [[Viktor Krum]] asked to speak to Harry alone (about his relationship with [[Hermione Granger]]), but as they moved away from the [[Quidditch pitch]], a barely coherent [[Bartemius Crouch Senior|Barty Crouch Snr]] emerged from the forest. Crouch then asked for [[Albus Dumbledore|Dumbledore]].<ref name="GOF28">{{GOF|B|28}}</ref>
+
+Harry left to retrieve Dumbledore, but was breifly held up by [[Severus Snape]]. Upon Harry and Dumbledore's return, they found that Krum had been [[Stunning Spell|stunned]] at the edge of the forest and Crouch was nowhere to be seen.<ref name="GOF28">{{GOF|B|28}}</ref> [[Bartemius Crouch Junior|Bartemius Crouch Jnr]], [[Polyjuice Potion|disguised]] as [[Alastor Moody]], had [[Killing Curse|murdered]] his father and hid his body using Alastor Moody's [[invisibility cloak]], having stunned Krum in the process. He later returned, [[Human to bone spell|transfigured the body into a bone]] and buried it in the forest near [[Rubeus Hagrid's pumpkin patch|Hagrid's pumpkin patch]].<ref name="GF35">{{GOF|B|35}}</ref>
+
+===[[1995–1996 school year]]===
+{{Quote|They crept forward and Harry saw that they were facing a large, smooth mound of earth nearly as tall as Hagrid that he thought, with a jolt of dread, was sure to be the lair of some enormous animal. Trees had been ripped up at the roots all around the mound, so that it stood on a bare patch of ground surrounded by heaps of trunks and boughs that formed a kind of fence or barricade, behind which Harry, Hermione, and Hagrid now stood.|Hagrid and the trio visiting Grawp's home in the forest|Harry Potter and the Order of the Phoenix}}
+[[File:Grawp Sleeping.jpg|250px|thumb|left|Grawp sleeping in the Forest]]
+
+Hagrid's first [[Care of Magical Creatures]] lesson inspected by Professor [[Dolores Umbridge]] involved mysterious creatures called [[Thestral]]s. For this lesson, he lead his class into the forest in order to experience the Thestrals (which most of the students could not see, due to the fact the only way to see Thestrals is by seeing someone die) in their natural habitat.<ref name="OOTP21">{{OOTP|B|21}}</ref>
+
+[[Rubeus Hagrid]], along with [[Olympe Maxime]], paid a visit to a tribe of giants in [[1995]], on the orders of [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] [[Professor]] and [[Headmaster]] [[Albus Dumbledore]], to try and bring the giants over as their allies in the [[Second Wizarding War]] against [[Tom Riddle|Lord Voldemort]] and his [[Death Eaters]]. Along the way, Hagrid found his [[Grawp|half-brother]], brought him back to [[Hogwarts Castle|Hogwarts]], and kept him hidden deep within the Forest.<ref name="OOTP20">{{OOTP|B|20}}</ref> Throughout the year, Hagrid regularly visited his half-brother, whom he had named "Grawp," emerging from the Forest with suspicious injuries he refused to explain to Harry, Ron or Hermione. During the final game of the Hogwarts Quidditch Cup, Hagrid brought Harry and Hermione into the forest and revealed Grawp to them, asking them to keep him company in the inevitable event that [[Dolores Umbridge]] should force Hagrid off school grounds.<ref name="OOTP30">{{OOTP|B|30}}</ref>
+
+===[[Skirmish in the Forbidden Forest|Skirmish]]===
+{{Dialogue a-b-c-b|[[Unidentified hard-faced grey centaur|Grey Centaur]]|What are you doing in our forest? Why are you here?|Dolores Umbridge|Your forest? I would remind you that you live here only because the Ministry of Magic permits you certain areas of land —|Bane|Whose forest is it now, [[human]]?|Filthy half-breeds! [[Beast]]s! Uncontrolled animals!|Umbridge foolishly provoking Centaurs in the forest|Harry Potter and the Order of the Phoenix}}
+In 1996, Harry received a false vision that [[Sirius Black]] was being held and [[Cruciatus Curse|tortured]] by [[Tom Riddle|Lord Voldemort]] in the [[Department of Mysteries]]. When Harry desperately attempted to contact Sirius at [[12 Grimmauld Place]] via the [[Floo Network]] in Umbridge's office fireplace, he was caught. As she was about to use the [[Cruciatus Curse]] to force Harry to reveal exactly what he'd been trying to do, Hermione claimed that Dumbledore had hidden a powerful weapon in the Forbidden Forest.<ref name="OOTP32">{{OOTP|B|32}}</ref>
+
+[[File:HP5-03045.jpg|250px|thumb|Centaurs in the Forbidden Forest in [[1996]]]]
+
+Hermione lead Harry and Umbridge into the forest where they encountered a heard of [[Centaur]]s. Umbridge foolishly [[Half-breed|insulted]] them, and an angry Centaur picked Umbridge up and carried her off screaming into the woods. Hermione and Harry were able to escape the Centaur's anger, which had turned to them for bringing Umbridge into the forest in the first place, amidst the chaos caused by Hagrid's giant half-brother, [[Grawp]], crashing onto the scene. This event is known as the [[Skirmish in the Forbidden Forest]].<ref name="OOTP33">{{OOTP|B|33}}</ref>
+
+===Private enclosure===
+{{Quote|I dunno, Harry, I shouldn’ta heard it at all! I — well, I was comin’ outta the forest the other evenin’ an’ I overheard ‘em talking — well, arguin’. Didn’t like ter draw attention to meself, so I sorta skulked an’ tried not ter listen, but it was a — well, a heated discussion an’ it wasn’ easy ter block it out.|Hagrid telling Harry about when he heard Snape and Dumbledore arguing in the forest|Harry Potter and the Half-Blood Prince}}
+[[File:Screen_shot_2012-06-21_at_11.21.19_PM.png|250px|thumb|left|Professors Dumbledore and Snape arguing, late in February]]
+In [[February]] [[1997]], as Hagrid was coming out of the forest one day, he overheard Professors Snape and Dumbledore arguing over something that involved Snape not wanting to do something any more. However, Dumbledore argued that he had promised to do whatever it was, and that was that.<ref name="HBP19">{{HBP|B|19}}</ref> Harry later found out the task Snape did not want to do anymore involved a promise he made to Dumbledore to fulfil the task assigned by Lord Voldemort for Draco Malfoy to [[Plot to assassinate Albus Dumbledore|kill]] Dumbledore.<ref name="DH33">{{DH|B|33}}</ref>
+
+===[[Battle of Hogwarts]]===
+{{Quote|I shall wait for one hour in the Forbidden Forest. If, at the end of that hour, you have not come to me, have not given yourself up, then battle recommences.|Voldemort issues an ultimatum to Harry|Harry Potter and the Deathly Hallows}}Towards the end of [[1997]], while Harry, Hermione and Ron were camping out during their search for [[Tom Riddle|Voldemort]]'s [[Horcrux]]es, they overheard [[Edward Tonks|Ted Tonks]], [[Dirk Cresswell]], [[Dean Thomas]], the [[goblin]]s [[Griphook]] and [[Gornuk]] discussing [[Ginevra Weasley|Ginny Weasley]], [[Neville Longbottom]] and [[Luna Lovegood]] getting caught trying to steal [[Godric Gryffindor's Sword]] from then-Headmaster [[Severus Snape]]'s office, and being forced to serve detention with [[Rubeus Hagrid|Hagrid]] in the Forbidden Forest; while [[Griphook]] was under the impression that this was a "cruel" punishment, it was undoubtedly Snape's way of sparing the students a far worse fate at the hands of [[Alecto and Amycus Carrow]].<ref name="DH15">{{DH|B|15}}</ref>
+
+[[File:Pottermore Death Eaters Forbidden Forest.png|250px|thumb|Voldemort stands in front of his followers in the Forest as Harry Potter arrives]]
+
+On [[2 May]], [[1998]], a great [[Battle of Hogwarts|battle]] occurred within the [[Hogwarts Castle|Castle]] and on the grounds of [[Hogwarts School of Witchcraft and Wizardry]]. The Forbidden Forest served as the temporary headquarters of [[Tom Riddle|Voldemort]] and his [[Death Eaters|followers]]. A horde of [[Forbidden Forest Acromantula colony|Acromantulas]] emerged from the Forbidden Forest and climbed into the walls of the Hogwarts Castle, attacking both [[Hogwartian]]s and [[Death Eaters]] alike, as they had been driven out of their own habitat by the Death Eaters.<ref name="DH31">{{DH|B|31}}</ref>
+
+When Harry later learned he had to die for Voldemort to regain mortality, he headed in to the Forbidden Forest and, using the [[Resurrection Stone]], called his parents, [[James and Lily Potter|James and Lily]], his godfather, [[Sirius Black]], and his close friend, [[Remus Lupin]], to give him the strength to face Voldemort for what he believed would be the last time.<ref name="DH34">{{DH|B|34}}</ref>
+
+[[File:Harry Potter being "killed".gif|250px|thumb|left|Voldemort hitting Harry with the [[Killing Curse]]]]
+
+Harry dropped the Resurrection Stone near the [[Forbidden Forest Acromantula colony|Acromantulas' hollow]] in the Forest, and he had no desire to ever go looking for it. Harry approached Voldemort with every intention to die, not defending himself when Voldemort struck him with the [[Killing Curse]], he was temperately in [[Limbo]] but, woke up on the forest floor. The stone was pressed into the ground by the hoof of one of the centaurs who joined the battle against the Death Eaters, and thereafter became buried, likely never to be found again.<ref name="DH34">{{DH|B|34}}</ref><ref>[http://www.accio-quote.org/articles/2007/0730-bloomsbury-chat.html J.K. Rowling and the Live Chat, Bloomsbury.com, July 30, 2007]</ref>
+
+===The Calamity===
+In the [[2010s]], the Forest was affected by the Calamity, and several beasts and plants were whisked away from their proper place and transported to elsewhere in the world. These included [[Buckbeak]], [[Unicorn]]s, [[Acromantula]]s, [[Fire Dwelling Salamander|Salamanders]], [[Snargaluff]]s and tree stumps, Rubeus Hagrid asked members of the [[Statute of Secrecy Task Force]] for help returning them.<ref name="WU">{{WU}} - Brilliant Event: Fantastic Flora and Fauna</ref>
+
+==Inhabitants==
+;Magical creatures
+The Forbidden Forest houses or has housed any number of [[magic]]al [[creature]]s. A few known examples include:
+{| class="wikitable" border="1" width="100%"
+|-
+! scope="col" |Creatures
+! scope="col" |Individuals
+! scope="col" |Notes
+|-
+| colspan="1" rowspan="2" |[[Forbidden Forest Acromantula colony|Acromantula colony]]
+|[[Aragog]]
+| colspan="1" rowspan="2" |Once led by Aragog. Acromantulas named Aragog and Mosag, together with their large family, lived in a dome-shaped nest in the very heart of the forest until Aragog’s death during Harry’s sixth year. Hundreds of the giant spiders now dwell there, all decended from the original pair. Aragog was a pet of Hagrid’s fifty years ago.<ref name="COS15"/> The Acromantulas are among the most dangerous [[beast]]s in the forest.<ref name="FBR">{{FB|R}}</ref> The Death Eaters forced the remaining colony out of their nest during the [[Battle of Hogwarts]] assumedly hoping they would assist them however, the Acromantula started attacking both defenders of Hogwarts and the Death Eaters alike.<ref name="DH31">{{DH|B|31}}</ref>
+|-
+|[[Mosag]]<ref name="COS15"/>
+|-
+| colspan="1" rowspan="4" |[[Forbidden Forest Centaur colony|Centaur colony]]
+|[[Bane]]
+| colspan="1" rowspan="4" |At least fifty centaurs of fighting age live in the forest. In typical centaur fashion, most of them avoid humans and do not involve themselves in human activities, simply watching portents in the stars and uttering cryptic responses to questions. Firenze is an exception, and was cast out from the herd and nearly killed because of it in Harry’s fifth year. Hagrid knows many of them by name and had a civil (though sometimes frustrating) working relationship with them until partway through Harry’s fifth year. When Hagrid brought Grawp home with him late in 1995, the centaurs objected.<ref name="OOTP30"/>
+|-
+|[[Magorian]]<ref name="PS15"/>
+|-
+|[[Ronan]]<ref name="PS15"/>
+|-
+|[[Firenze]]<ref name="PS15"/>
+|-
+|[[Unicorn]]s
+| colspan="1" rowspan="2" |
+|The unicorns are among the most powerful magical creatures living in the forest. They are extremely fast and are seldom hurt. Hagrid found one dead in the spring of 1992 and signs that another had been horribly wounded, and spent a night searching the forest for both the injured unicorn and whatever, or [[Tom Riddle|whoever]] could have done such a terrible thing. In the ordinary way, the unicorns shed hair that becomes tangled in the undergrowth of the forest; Hagrid collects it to use as bindings on bandages for various injured animals because of its strength.<ref name="PS15"/>
+|-
+|[[Thestral]]s
+|A herd of about 100 thestrals lives in the forest; [[Rubeus Hagrid|Hagrid]] said proudly that he is probably the only person in Britain to have domesticated them. [[Wilhelmina Grubbly-Plank]] positively commented on the training Hagrid had given them.<ref name="OOTP17">{{OOTP|B|17}}</ref> Hagrid waited until Harry’s fifth year to cover them in Care of Magical Creatures, considering them a special treat.<ref name="OOTP21"/>
+|-
+|[[Hippogriff]]s
+|[[Buckbeak]]
+|Hagrid has a herd of hippogriffs, that he showed is third year [[Care of Magical Creatures]] class. It can be assumed that this herd lives in the Forest.<ref name="POA6">{{POA|B|6}}</ref>
+|-
+|[[Wolf]] pack
+|[[Borf]]
+|Descended from two [[Werewolf|werewolves]] mating at the full [[moon]].<ref name="PM">{{WW|werewolves}}</ref>
+|-
+| colspan="1" rowspan="2" |[[Giant]]
+|[[Grawp]]
+|An undersized [[Giant]] and [[Rubeus Hagrid]]'s half-brother, who was moved by [[Albus Dumbledore]] to a cave in the mountains surrounding [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]. When Hagrid and [[Olympe Maxime|Madame Maxime]] acted as envoys to the giants in the summer and autumn of 1995, Hagrid learned of his mother’s death and of the existence of a half-brother he had never known: Grawp, a full-blooded giant. Since Hagrid had no other family, and Grawp (being a runt for a giant at only 16 feet) was being bullied, Hagrid managed to smuggle Grawp all the way back to the forest. This was the last straw for some of the forest’s inhabitants, specifically the centaurs.<ref name="OOTP30">{{OOTP|B|30}}</ref>
+|-
+|
+|It is rumoured that a few other giants, besides Grawp dwell in the Forest, there is no known examples of these other giants.<ref name="OOTP30"/>
+|-
+|[[Three-headed dog]]
+|[[Fluffy]]
+|A massive dog that was released into the forest after serving as one of the guards to the [[Philosopher's Stone]] during the [[1991–1992 school year]].<ref name="accio">http://www.accio-quote.org/articles/2001/0301-bluepeter.htm</ref>
+|-
+|[[Blood-Sucking Bugbear]]s
+| colspan="1" rowspan="3" |
+|In [[1992]], following the killing of two of his roosters, [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] gamekeeper [[Rubeus Hagrid]] suspected that either a Blood-Sucking Bugbear or foxes were responsible, implying that these creatures live in the Forest.<ref name="COS11">{{COS|B|11}}</ref>
+|-
+|[[Bowtruckle]]s
+|Flat-faced stick beasts made of bark and twigs who guard [[Wiggentree]]s, which serves well as camouflage in its natural habitat.<ref name="OOTP14">{{OOTP|B|14}}</ref>
+|-
+|[[Blast-Ended Skrewt]]
+|Survived the [[Triwizard Maze|third task]] of the [[Triwizard Tournament]] was also released into the forest.<ref name="GOF31">{{GOF|B|31}}</ref>
+|-
+|[[Troll]]s
+|
+|It is also rumoured that many other types of creatures reside there including [[troll]]s. (However, [[Forest Troll]]s have also been seen in the Forest).<ref name="COSG">{{COS|G}}</ref>
+|}
+;Others
+*Non-magical creatures: Alongside the numerous magical creatures that resided in the Forest, non-magical ones dwell there as well.
+**[[Deer]]s<ref name="OOTP30"/>
+**[[Fox]]es<ref name="COS11"/>
+*[[Flying Ford Anglia]]<ref name="COS15"/>
+**The Ford Anglia was an automobile owned and enchanted by [[Arthur Weasley]]. After a bad fright and an exhausting trip across the length of Britain, the Ford Anglia escaped into the forest. There it became wild and took to trundling around among the trees.<ref name="COS15"/>
+
+==Behind the scenes==
+[[File:Screenshot 819.png|220px|thumb|The Forbidden Forest as seen in {{PS|G}} {{C|GBA version}}]]
+*In the first two [[Harry Potter (film series)|''Harry Potter'' films]] the forest is referred to as the Dark Forest.
+*[[J. K. Rowling]] stated in ''[[J.K. Rowling: A Year in the Life]]'' that the forest is her favourite part of the grounds, and that could be the reason that Harry and his friends find themselves entering the forest in every book but [[Harry Potter and the Half-Blood Prince|''Half-Blood Prince'']].
+*In the [[Harry Potter (film series)|film adaptations]] of ''[[Harry Potter and the Philosopher's Stone (film)|Philosopher's Stone]]'' and ''[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]]'', the Forbidden Forest is located mainly to the North of the [[Hogwarts Castle|castle]]. However, in ''[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]]'' and subsequent films, the forest is located mainly to the west. This is probably because of the relocation of [[Hagrid's Hut]], the [[Whomping Willow]] and the additional areas of Hogwarts such as the [[Wooden Bridge]].
+*On W.O.M.B.A.T. it is rumoured that the forest started out as a small wood tended by a centaur herd. Whether it's true or not is unknown, however, this could explain why the centaurs in ''[[Harry Potter and the Order of the Phoenix|Order of the Phoenix]]'' say that the forest belongs to them.
+
+==Appearances==
+{{Imagecat|Images of the Forbidden Forest}}
+[[File:PAS Forbidden Forest.jpg|thumb|right|Forbidden Forest as seen in {{PAS}}]]
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}}
+*{{GOF|G}}
+*{{OOTP}}
+*{{OOTP|F}}
+*{{OOTP|G}}
+*{{HBP}} {{Mention}}
+*{{HBP|F}}
+*{{HBP|G}}
+*{{DH}}
+*{{DH|F2}}
+*{{DH|G2}}
+*{{CC}}
+*{{CC|P}}
+*{{HPPU}}
+*{{LEGO|B}}
+*{{LEGO|C}} {{Mention}}
+*{{LEGO|C1}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{HPK}}
+*{{TCG}}
+*{{PM}}
+*{{WW}}
+*{{HPV|CH}}
+*{{HPV|CR}}
+*{{HM}}
+*{{WU}}
+*{{PAS}}
+*{{HL}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts grounds}}
+{{Care of Magical Creatures}}
+{{Death Eaters}}
+
+[[de:Verbotener Wald]]
+[[de2:Verbotener Wald]]
+[[es:Bosque Prohibido]]
+[[fi:Kielletty metsä]]
+[[fr:Forêt interdite]]
+[[he:היער האסור]]
+[[it:Foresta Proibita]]
+[[nl:Verboden Bos]]
+[[no:Den forbudte skogen]]
+[[pl:Zakazany Las]]
+[[pt-br:Floresta Proibida]]
+[[ru:Запретный лес]]
+[[sv:Förbjudna skogen]]
+[[uk:Заборонений ліс]]
+[[zh:禁林]]
+[[Category:Care of Magical Creatures]]
+[[Category:Forbidden Forest]]
+[[Category:Horcrux destruction locations]]
+[[Category:Locations used by the Death Eaters]]
+[[Category:Wildlife reserves]]

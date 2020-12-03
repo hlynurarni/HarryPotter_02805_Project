@@ -1,0 +1,74 @@
+{{WizardsUniteSpoiler}}
+{{Pet individual infobox
+|image = [[File:Pigwidgeon.jpg|250px]]
+|name = Pigwidgeon
+|born = Pre [[1994]]
+|died = 
+|alias = Pig
+|title = 
+|species = [[Scops owl]]
+|gender = Male
+|height = 
+|hair = 
+|feathers = Grey
+|eyes = 
+|skin = 
+|family = [[Ronald Weasley|Ron Weasley]] (owner)
+|loyalty = [[Ronald Weasley]] (owner)
+}}
+{{Quote|I've got to keep him up here because he annoys Errol and Hermes. He annoys me too, come to that.|Ron Weasley regarding Pig's hyper personality|Harry Potter and the Goblet of Fire}}
+'''Pigwidgeon '''(fl. [[1994]] - [[1997]]),''' '''also known as '''Pig''', was [[Ronald Weasley|Ron Weasley]]'s first pet [[owl]]. He was a miniature [[scops owl]]. Pig was responsible for the handling of Ron's mail starting in 1994, he was a gift from [[Sirius Black]] after the loss of Ron's pet rat.<ref name="POA22">{{POA|B|22}}</ref>
+
+==Biography==
+{{Quote|Harry stared at the word "Pig," and looked up at the tiny owl now fluttering around the light fixture on the ceiling. He had never seen anything that looked less like a pig.|Description of 'Pig'|Harry Potter and the Goblet of Fire}} After [[Peter Pettigrew|Scabbers]], Ron's old pet rat, disappeared (having been found out to be [[Peter Pettigrew]]), [[Sirius Black]], who felt partly responsible for Ron's loss of a pet, sent him Pigwidgeon (nicknamed "Pig"). Upon receiving the owl, Ron (to the surprise of [[Harry Potter|Harry]] and [[Hermione Granger|Hermione]]) actually let [[Crookshanks]] sniff him to check if he really was an owl.<ref name="POA22" />
+
+Pigwidgeon was named by [[Ginevra Weasley|Ginny Weasley]], because she thought the name was cute. Though Ron tried to change it, the owl would not answer to another name. Pigwidgeon was exceedingly hyper, loud, bothersome, very small, and had been known to be a show off for other people (this, however, annoyed other owls, forcing Ron to keep him in his room).<ref>{{GOF|B|5}}</ref>
+
+[[File:Ron-and-his-owl.jpg|225x225px|thumb|left|[[Ronald Weasley|Ron Weasley]]'s new pet Pigwidgeon]]
+Pigwidgeon was described by Harry as resembling a "fluffy [[Golden Snitch|snitch]]". He was usually excited for a job to deliver letters, even though most of the time they were usually heavy for him. Harry borrowed Pigwidgeon during the [[Triwizard Tournament]] to communicate with Sirius who was in hiding at the time.<ref>{{GOF|B|15}}</ref> [[Fred Weasley|Fred]] and [[George Weasley]] also asked to borrow him in order to support their secretive business venture.<ref>{{GOF|B|22}}</ref>
+
+Pigwidgeon was occasionally known to hang around the stairways performing for students. This prompted Ron to call him a "stupid little feathery git" for his attempts to show off rather than promptly bringing Ron the letters.<ref>{{GOF|B|23}}</ref> He also delivered food to Sirius when he was hiding in a cave in [[Hogsmeade]], though not without the help of Hogwarts owls, as the food was quite heavy.<ref>{{GOF|B|28}}</ref>
+
+Pigwidgeon travelled with Ron to and from Hogwarts during his years in school, although he stayed at The Burrow when Ron skipped his final year at Hogwarts to accompany Harry and Hermione on the hunt for [[horcrux]]es.<ref>{{DH|B|7}}</ref>
+
+During the [[2020]]s, Pigwidgeon appeared as a [[Foundable]] during the [[Calamity]]. Volunteer members of the [[Statute of Secrecy Task Force]] were able to return him to his original time.<ref name="WU">{{WU}}</ref>
+
+==Etymology==
+Pigwidgeon means "small" or "petty" and also can be spelled ''pigwidgin'' or ''pigwiggin''. It combines "pig" with "widgeon," two species of duck found in North America and Europe, or "pidgeon", another name for the rock dove. English author and poet Michael Drayton (1563-1631) had a male fairy named Pigwiggen in his comical poem "Nimphidia."
+
+==Behind the scenes==
+*J.K. Rowling has said on her website that Pigwidgeon is a [[scops owl]]. These owls are tiny grey owls with little tufts of feathers on their heads. This makes sense as Pigwidgeon is said to fit in a person's fist. Scops owls live in open country with isolated trees and lightly wooded areas containing clusters of trees. They may also be found in run-down buildings, caves, bush-lands, and park-like habitat.
+*Pigwidgeon isn't actually featured in the films, but appears with Ron in a promotional still photo for ''[[Harry Potter and the Goblet of Fire (film)|Harry Potter and the Goblet of Fire]]'' and appears briefly in the background while Harry, Ron, and Hermione are talking at the Burrow in ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half-Blood Prince]]''.
+*A small African white-faced owl called Mars plays Pigwidgeon in the promotional still for ''[[Harry Potter and the Goblet of Fire (film)|Harry Potter and the Goblet of Fire]]'' and in the film ''[[Harry Potter and the Half-Blood Prince (film)|Harry Potter and the Half Blood Prince]]''.
+*{{HPV|CR}} says that Pigwidgeon was a present from Ron's family, while he was actually a present from Sirius Black.
+
+==Appearances==
+{{Imagecat|Images of Pigwidgeon}}
+[[File:Brilliant_Pigwidgeon_WU.png|thumb|Pigwidgeon as seen in {{WU}}]]
+*{{POA}} {{1st}}
+*{{GOF}} {{1st ID}}
+*{{GOF|F}} {{Comment|Promotional still}}
+*{{OOTP}}
+*{{HBP}}
+*{{HBP|F}} {{Comment|Briefly}}
+*{{DH}}
+*{{LEGO|Y2}}
+*{{PM}}
+*{{HPV|CR}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}[[de:Pigwidgeon]]
+[[es:Pigwidgeon]]
+[[ru:Сычик]]
+[[pl:Świstoświnka]]
+[[fr:Coquecigrue]]
+[[it:Leotordo]]
+[[fi:Posityyhtynen]]
+[[nl:Koekeroekus]]
+[[no:Tullerusk]]
+[[sv:Piggy]]
+[[Category:Males]]
+[[Category:Owls]]
+[[Category:Ronald Weasley's possessions]]
+[[Category:Weasley family pets]]

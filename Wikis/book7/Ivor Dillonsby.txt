@@ -1,0 +1,45 @@
+{{Individual infobox
+|theme = wizard
+|image = 
+|name = Ivor Dillonsby
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+'''Ivor Dillonsby''' was a [[Wizardkind|wizard]] interviewed by [[Rita Skeeter]] for her book ''[[The Life and Lies of Albus Dumbledore]]''. In his interview, Dillonbsy claimed to have discovered eight of the twelve uses of [[dragon]]'s [[Dragon blood|blood]] before [[Albus Dumbledore|Dumbledore]], and accused Dumbledore of stealing his papers.<ref>{{DH|B|2}}</ref> He also expressed the opinion that [[Bathilda Bagshot]] had gone senile, remarking of her, "''The fire's lit, but the [[cauldron]]'s empty.''"<ref>{{DH|B|18}}</ref>
+
+==Etymology==
+The name "Ivor" is from the Old Norse name ''Ívarr'', which was derived from the elements ''yr'' "yew, bow" and ''arr'' "warrior". During the Middle Ages it was brought to Britain by Scandinavian settlers and invaders, and it was adopted in Ireland, Scotland and Wales.
+
+==Appearances==
+*{{DH}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Dillonsby, Ivor}}
+[[de:Ivor Dillonsby]]
+[[fr:Ivor Dillonsby]]
+[[pl:Ivor Dillonsby]]
+[[Category:Males]]
+[[Category:Wizards]]

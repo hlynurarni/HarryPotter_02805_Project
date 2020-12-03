@@ -1,0 +1,66 @@
+{{Individual infobox
+|theme = quidditch-player
+|image = [[File:Lev Zograf.png]]
+|name = Lev Zograf
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Bulgaria]]n<ref name="GOF8"/><ref name="QWC">{{QWC}}</ref>
+|alias = 
+|title = [[Keeper]]<ref name="GOF8"/><ref name="QWC"/>
+|signature = 
+|species = [[Human]]<ref name="GOF8"/><ref name="QWC"/>
+|gender = Male<ref name="GOF8"/><ref name="QWC"/>
+|height = 
+|weight = 
+|hair = Silver<ref name="QWC"/>
+|eyes = 
+|skin = White<ref name="QWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Keeper]] for the [[Bulgarian National Quidditch team]]<ref name="GOF8"/><ref name="QWC"/>
+|house = 
+|loyalty = [[Bulgarian National Quidditch team]]<ref name="GOF8"/><ref name="QWC"/>
+}}
+'''Lev Zograf''' was a [[Bulgaria]]n [[wizardkind|wizard]] and the [[Keeper]] for the [[Bulgarian National Quidditch team]].<ref name="GOF8"/>
+
+==Biography==
+He played during the [[1994 Quidditch World Cup]]. He played in the final, in which he gave away a penalty for [[cobbing]] [[Irish National Quidditch team|Ireland]]'s [[Chaser]], [[Mullet]] and ended up conceding a total of seventeen goals.<ref name="GOF8">{{GOF|B|8}}</ref>
+
+==Behind the scenes==
+*This character is known only by his surname in the [[Harry Potter (book series)|books]]. His first name is given as "Lev" on a [[Chocolate Frog Card|Famous Wizard Card]] in the [[Harry Potter and the Half-Blood Prince (video game)|video game adaptation]] of {{HBP}}.
+
+==Etymology==
+The name "Lev" is an antiquated word for "lion" in Bulgarian, now only retained as the name of Bulgaria's main currency unit. It also means "lion" in Russian, functioning as a vernacular form of Leo. This was the real Russian name of both author Leo Tolstoy (1828-1910) and revolutionary Leon Trotsky (1879-1940). In Hebrew the name means "heart".
+
+Lev Yashin (1929 - 1990) is a Russian goalkeeper widely believed to have been the best goalkeeper in the history of football. The Lev Yashin Award is awarded to the best goalkeeper in each World Cup.
+
+A zograf is a person who paints churches (from Greek "zografos"). Several Bulgarians in this walk of life were given this nickname-turned-surname in recognition to their work.
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|F}}
+*{{QWC}}
+*{{HBP|G}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch positions}}
+{{Character-stub}}
+{{DEFAULTSORT:Zograf, Lev}}
+
+[[de:Zograf]]
+[[es:Lev Zograf]]
+[[fr:Lev Zograf]]
+[[pl:Lev Zograf]]
+[[ru:Лев Зогров]]
+[[zh:列弗·佐格拉夫]]
+[[Category:Bulgarian individuals]]
+[[Category:Keepers]]
+[[Category:Males]]
+[[Category:Wizards]]

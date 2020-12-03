@@ -1,0 +1,70 @@
+{{Youmay|the criminal|[[Willy (disambiguation)|a different Willy]]}}
+{{Individual infobox
+|theme = wizard
+|image = [[File:WillyWiddershins.png|250px]]
+|name = Willy Widdershins
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]
+|gender = Male
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = [[British Ministry of Magic]]
+}}
+{{Dialogue a-b-c|Dolores Umbridge|I have testimony from Willy Widdershins, Minerva, who happened to be in the bar at the time. He was heavily bandaged, it is true, but his hearing was quite unimpaired. He heard every word Potter said and hastened straight to the school to report to me —|Minerva McGonagall|Oh, so that's why he wasn't prosecuted for setting up all those regurgitating toilets! What an interesting insight into our justice system!|Dexter Fortescue|Blatant corruption! The Ministry did not cut deals with petty criminals in my day, no sir, they did not!|[[Dolores Umbridge]], [[Minerva McGonagall]], and the portrait of [[Dexter Fortescue]] discussing the Ministry's actions about Willy Widdershins|Harry Potter and the Order of the Phoenix}}
+
+'''Willy Widdershins''' was a [[Great Britain|British]] [[Wizardkind|wizard]] who repeatedly engaged in [[Muggle-baiting]] pranks. He was arrested by the [[British Ministry of Magic|Ministry of Magic]] for enchanting a series of [[Regurgitating Toilet|regurgitating toilets]] in [[Non-magic people|Muggle]] areas, but he made a deal with the Ministry, that if he spied on [[Harry Potter]] and his friends, they would let him go. He carried out his assignment, and the Ministry kept their end of the bargain and released him. He was later caught selling [[biting doorknob]]s and was subsequently given a prison sentence that he could not avoid.
+
+==Biography==
+Willy Widdershins eventually discovered he was a [[Wizardkind|wizard]] and procured a [[wand]].
+
+In adulthood, he repeatedly engaged in [[Muggle-baiting]] pranks. He was arrested by the [[British Ministry of Magic]] for enchanting a series of [[Regurgitating Toilet|regurgitating toilets]] in [[Non-magic people|Muggle]] areas such as [[Bethnal Green]], one of which backfired against him during its creation. He was badly injured in his capture and was wrapped heavily in bandages.<ref name="OOTP22">{{OOTP|B|22}}</ref> He made a deal with the Ministry, that if he spied on [[Harry Potter]] and his friends, they would let him go. He did so, and reported to [[Hogwarts High Inquisitor]] [[Dolores Umbridge]] and [[Cornelius Fudge]] that they were planning on making a [[Dumbledore's Army|secret Defence Against the Dark Arts group]] while they were in a meeting at the [[Hog's Head]].<ref name="OOTP16">{{OOTP|B|16}}</ref> By doing so he was able to avoid prosecution.<ref name="OOTP27">{{OOTP|B|27}}</ref>
+
+Widdershins was later caught selling [[biting doorknob]]s, which bit off the fingers of two [[Non-magic people|Muggles]], and was subsequently given a prison sentence that he could not avoid.<ref name="OOTP22">{{OOTP|B|22}}</ref>
+
+==Etymology==
+''Widdershins'' (sometimes ''withershins'', ''widershins'' or ''widderschynnes'') means to take a course opposite the apparent motion of the sun (in the Northern hemisphere), going anti-clockwise, lefthandwise, or to circle an object, by always keeping it on the left.<ref>http://en.wikipedia.org/wiki/Widdershins</ref>
+
+==Behind the scenes==
+*It is possible that Willy may be the same [[Will]] mentioned by [[Mundungus Fletcher]] earlier in the [[Harry Potter and the Order of the Phoenix|same book]].
+
+==Appearances==
+*{{OOTP}} {{1st}}
+*{{PM}}
+
+==Notes and references==
+{{Reflist}}
+{{DEFAULTSORT:Widdershins, Willy}}
+
+
+[[de:Willy Widdershins]]
+[[fr:Willy Larebrouss]]
+[[pl:Willy Widdershins]]
+[[es:Willy Widdershins]]
+[[ru:Уилли Уиддершинс]]
+
+[[Category:Amputations]]
+[[Category:British individuals]]
+[[Category:Convicts]]
+[[Category:Males]]
+[[Category:Ministry of Magic allies]]
+[[Category:Muggle-baiting]]
+[[Category:Spies]]
+[[Category:Wizards]]

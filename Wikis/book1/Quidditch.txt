@@ -1,0 +1,427 @@
+{{Spoiler|PAS|WU|HM}}
+{{FA}}
+[[File:Quidditch pitch.gif|114x114px|frame|The [[Hogwarts Quidditch pitch]] during a [[Gryffindor]]-[[Slytherin]] match]]
+{{Quote|Quidditch, the most popular sport in the [[Wizarding world|magical world]] – highly dangerous, very exciting and played on [[broomstick]]s.|Description|Harry Potter and the Prisoner of Azkaban}}
+'''Quidditch''' (formerly known as '''Kwidditch''' and '''Cuaditch''') was a [[Wizarding world|wizarding]] sport played on [[broomstick]]s.<ref name="QTA"/> It was the most popular game and most well-known game among [[Wizardkind|wizards and witches]], and, according to [[Rubeus Hagrid]], the equivalent to [[Non-magic people|Muggles']] passion for [[football]] (Soccer).
+
+The object of the game was to score more points than your opponents. Each goal was worth ten points and catching the [[Golden Snitch]] was worth one-hundred and fifty points. The game ended when the Snitch was caught or an agreement was reached between the captains of both teams. Some games could go on for many days if the Snitch was not caught (the record, according to {{QTA}}, was six months, although no one caught the Snitch.)<ref name="PS11"/>
+
+==History==
+While Quidditch was the first (and so far, only) [[broomstick]]-based game to attain near-worldwide popularity amongst the wizarding people, it was certainly not the first broomstick game. In truth, Quidditch probably owed a debt to a number of its forerunners in making it as successful as it became. All of these archaic broom games were popular in localised areas, but none had the vast appeal that Quidditch did. The beauty of Quidditch was that it took the best aspects of all its predecessors, added its own unique twists, and ended up as a game that would remain popular with the masses for centuries.<ref name="QTA"/> 
+
+===Ancient predecessors===
+The main ancient games that provided some inspiration for Quidditch were:
+
+[[File:Index22_clip_image012-1-.gif|thumb|A goal post in an early version of Quidditch]]
+
+A game by the name of [[Stichstock]] originated in [[Germany]] and consisted of a single wizard acting as a guardian or goalkeeper, trying to protect an inflated dragon bladder. A number of other players mounted on broomsticks would attempt to pierce the bladder, with the first who successfully did so being declared the winner.<ref name="HPL">[http://www.hp-lexicon.org/wizworld/games.html Harry Potter Lexicon] - Games & Sports</ref> This game may have been the inspiration for the Quidditch position of [[Keeper]].
+
+An [[Ireland|Irish]] game by the name of [[Aingingein]] required [[broomstick]]-mounted players to fly through a number of burning barrels set in the air, whilst all the time clutching a ball with one hand. At the end of this fiery course was a goal which the ball had to be hurled into. The wizard who completed the course and scored a goal in the shortest time was the winner.<ref name="HPL" />
+
+[[Creaothceann]] was an exceptionally violent and often fatal game that originated in [[Scotland]]. A large number of boulders were charmed to hover in the air and each player had a cauldron strapped to his/her head. A horn was sounded, the rocks were released, and the players would fly around on their broomsticks trying to catch as many rocks in their cauldron as possible. The winner was the player who caught the most rocks (this game has been outlawed for many years).<ref name="HPL" /> This game, as noted in {{QTA}}, was thought to be the inspiration of the Beater position.
+
+[[Shuntbumps]] was a very simple form of broomstick-jousting where one flyer attempts to knock the others off of their broom.<ref name="HPL" />
+
+A game rather like {{Wplink|Tennis}} on a broomstick, [[Swivenhodge]] involved hitting an inflated pig's bladder backwards and forwards across a hedge.<ref name="HPL" /> This game could have been the inspiration of the Quidditch position of [[Chaser]], simply because it was the first and only mentioned broom game involving a ball being passed, barring Quidditch itself.
+
+===Evolution of the game===
+The sport of Quidditch got its name from [[Queerditch Marsh]], the location of the first ever recorded game. A witch by the name of [[Gertie Keddle]] lived on the edge of the marsh around the year [[1050]] and recorded what she saw in a diary that survives to this day. Successive entries in her journal show the evolution of the game and how each element was introduced.<ref name="QTA">{{QTA}}</ref>
+
+[[File:Koldovstoretz Quidditch.png|250px|thumb|Quidditch players flying on old fashion tree-like broomsticks]]
+
+Her first note simply recorded her annoyance at a number of people playing a game with a ball whilst flying their [[broomstick]]s above the marsh. When the ball landed in her cabbage patch, she confiscated it and then hexed the man who asked for it.<ref name="QTA"/>
+
+A second entry showed that the players did not give up, but had made themselves a new ball and were then trying to score goals by throwing it through trees at the end of the marsh. This was the earliest incarnation of the [[Quaffle]] and the scoring hoops.<ref name="QTA"/>
+
+The third entry noted the introduction of flying rocks that had been bewitched to knock the players off their broomsticks, which were the forerunners of the [[Bludger]]s. She also mentioned the presence of a "''big Scottish warlock''" who may have been a [[Creaothceann]] player, which would show a clear link between the two sports.<ref name="QTA"/>
+
+With historical records of the time being rather limited, there was no further mention of Quidditch until a hundred years later, around [[1150]]. A letter sent from a wizard called [[Goodwin Kneen]] to his [[Norway|Norwegian]] cousin [[Olaf]] survived from this time and gave a clear indication of how far the game had come. It had gained a name (although it was spelt "''Kwidditch''" at this time) and a number of organised teams, as well as titles for players and equipment. From the letter it can be seen that early [[Chaser]]s were known as "''Catchers''", and the Bludger began its life as the "''Blooder''".<ref name="QTA"/>
+
+Kneen's letter also revealed a new innovation: using three barrels mounted on stilts to use as the goals. This was undoubtedly a massive improvement from using trees as the goals and is a clear precursor to the hoops used in the modern game. Therefore it can be seen that the sport of "''Kwidditch''" played by [[Gunhilda Kneen|Kneen]] was already very similar to what Quidditch came to be.<ref name="QTA"/>
+
+The one missing element was the [[Golden Snitch]].<ref name="QTA"/>
+
+===Golden Snitch===
+{{Main|Golden Snitch}}
+
+{{Quote|This... is the Golden Snitch, and it's the most important ball of the lot.  It's very hard to catch because it's so fast and difficult to see.  It's the Seeker's job to catch it.  You've got to weave in and out of the Chasers, Beaters, Bludgers, and Quaffle to get it before the other team's Seeker, because whichever Seeker catches the Snitch wins his team an extra hundred and fifty points, so they nearly always win.  That's why Seekers get fouled so much.  A game of Quidditch only ends when the Snitch is caught, so it can go on for ages —|Description of the Snitch and a Seeker's job|Harry Potter and the Philosopher's Stone}}
+
+[[File:GoldenSnitch PM.gif|250px|thumb|left|Modern Golden Snitch]]
+
+The history of the Snitch was perhaps the most interesting of all the Quidditch balls, and its introduction came as the direct result of a game played in [[1269]] in [[Kent]]. This was over a century on from [[Goodwin Kneen]]'s letter to his cousin, and it seems that during this time, the game had acquired a great deal of popularity and organisation, and had altered in its format very little. It was, however, now routinely attended by large crowds of people who wanted to watch the game.<ref name="QTA"/>
+
+The [[1269]] game mentioned above was attended by [[Barberus Bragge]], the Chief of the [[Wizards' Council]]. As a nod to the sport of [[Golden Snidget|Snidget]]-hunting, which was also popular at the time, Bragge brought such a [[bird]] to the game and released it from its cage. He told the players that one-hundred and fifty [[Galleon]]s — a large sum of money, particularly in those times — would be awarded to the player who caught the bird.<ref name="QTA"/>
+
+This was easier said than done: the Snidget was very fast, very small, and could make sudden changes of direction at high speeds. The considerable challenge posed by the flight patterns of the bird was what made Snidget-hunting so popular in the first place.<ref name="QTA"/>
+
+What happened at the Quidditch game in question was rather predictable: the players totally ignored the game, and each and every one simply went off in pursuit of the Snidget, which was kept within the arena by the crowd using [[Repelling Spell|Repelling Charms]].<ref name="QTA"/>
+
+[[File:Wimbourne Wasps versus Appleby Arrows.png|250px|thumb|An early age game of Quidditch, featuring the use of the Golden Snitch]]
+
+A witch named [[Modesty Rabnott]], who was also watching the game, took pity on the Snidget and rescued it with a [[Summoning Charm]] before rushing away with it hidden inside her robes. She was caught by a furious Bragge and fined ten Galleons for disrupting the game, but not before she had released the Snidget. This saved the life of this bird, but the connection with Quidditch had been made, and soon a Snidget was being released at every game. From then, each team had an extra player — originally called the Hunter, later the [[Seeker]] — whose sole job was to catch and kill the Snidget, for which one-hundred and fifty points were awarded in memory of the one-hundred and fifty Galleons offered by Bragge in the original game.<ref name="QTA"/>
+
+The vast popularity of the sport led to quickly declining Snidget numbers, and in the middle of the 14th century it was made a protected species by the Wizards Council, now headed by [[Elfrida Clagg]]. This meant that the bird could no longer be used for Quidditch purposes, and indeed the [[Modesty Rabnott Snidget Reservation]] was created in [[Somerset]] to safeguard the Snidget's future survival.<ref name="QTA"/>
+
+The game of Quidditch, however, could not continue without a substitute.<ref name="QTA"/>
+
+[[File:BowmanWright.png|250px|thumb|left|Bowman Wright, inventor of the Golden Snitch]]
+
+Whilst most people looked for a suitable alternative bird to chase, a metal-charmer called [[Bowman Wright]] from [[Godric's Hollow]] had a different idea: he invented a fake Snidget which he called the [[Golden Snitch]]. His invention was pretty much what was seen on the modern [[Quidditch pitch]]: a golden ball with silver wings, the same size and weight as a real Snidget, bewitched to accurately follow its flight patterns. An additional benefit was that the ball was also charmed to stay within the playing area, removing the need for the continual use of Repelling Charms by the crowd.<ref name="QTA"/>
+
+The Snitch was approved as a Snidget substitute, the game of Quidditch could continue, and the modern sport as we know it was complete. All of the balls used in the modern game were now present, organised teams played against each other, and vast numbers of people came to watch. Whilst this may sound exactly like the sport as it came to be, there were still a few modifications to be made in terms of the playing pitch, and this continued to evolve until [[1883]] when the format of modern Quidditch pitches was finalised.<ref name="QTA"/>
+
+==Committees==
+The [[International Confederation of Wizards' Quidditch Committee]] was the international body that oversaw the game of Quidditch. There was also the [[International Association of Quidditch]] and the [[Federation Internationale de Quidditch Association]] (FIQA), that organised the [[Quidditch World Cup]] every four years. Quidditch was governed in Britain by the [[Department of Magical Games and Sports]], where the [[British and Irish Quidditch League Headquarters]] was situated.<ref name="QTA"/>
+
+==Quidditch pitches==
+{{main|Quidditch pitch}}
+{{Quote|[[Zacharias Mumps]] describes the fourteenth-century pitch as oval-shaped, five hundred feet long and a hundred and eighty feet wide with a small central circle (approximately two feet in diameter) in the middle.|The fourteenth-century pitch|Quidditch Through the Ages (real)}}
+
+[[File:Quidditch Pitch.JPG|250px|thumb|The Hogwarts Quidditch pitch, a modern pitch]]
+
+Quidditch pitches were typically in the shape of an oval, five-hundred feet long and one-hundred and eighty feet wide, with a small central circle of approximately two feet in diameter, from which all the balls were released at the start of the game. At each end there were three hooped goal posts of different heights, surrounded by a scoring area. As Quidditch is an aerial sport, Quidditch pitches usually feature spectator seating at high vantage points, whether in towers (such as at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]]) or in a fully-encircling platform style (such as the British stadium that held the [[1994]] [[Quidditch World Cup]]).<ref name="QTA"/>
+
+The three hooped goal posts were originally barrel-goals in the Sport of Kneen's time. At the time of the introduction of the scoring area, they were replaced by baskets on stilts, but whilst these were practical, they did carry an inherent problem: there was no size restriction on the baskets, which differed dramatically from pitch to pitch.<ref name="QTA"/>
+
+[[File:Quidditch_Pitch_Diagram.jpg|250px|thumb|left|A diagram of a 17th-century pitch, included in the book ''[[The Noble Sport of Warlocks]]'', by [[Quintius Umfraville]]]]
+
+By [[1620]], scoring areas had been added at each end of the pitch, and an additional rule in the game, a 'stooging penalty', meant that only one [[Chaser]] was allowed in these areas at any given time, as noted in [[Quintius Umfraville]]'s book ''[[The Noble Sport of Warlocks]]''. In addition, the size of the baskets themselves had reduced considerably, although there was still a certain amount of variation between pitches. Regulations were finally introduced in [[1883]] which replaced the baskets with hoops of a fixed size, and the modern Quidditch pitch was complete. Both these changes caused a considerable amount of controversy, which resulted in riots and threats against [[Faris Spavin|the Minister]].<ref name="QTA"/>
+
+Quidditch pitches were built in places where they would not attract Muggle attention. This began in [[1398]] when the wizard [[Zacharias Mumps]] emphasised the need for anti-Muggle security while playing the game: "''Choose areas of deserted moorland far from Muggle habitations and make sure that you cannot be seen once you take off on your brooms. Muggle-repelling [[charm]]s are useful if you are setting up a permanent pitch. It is advisable, too, to play at night.''" The advice of Mumps must not have always been followed, as in [[1362]], the [[Wizards' Council]] outlawed playing Quidditch within fifty miles of a known Muggle town. This was amended in [[1368]], possibly due to growing popularity of the game. This amendment made the playing of the sport within one-hundred miles of a Muggle town illegal, famously worded as not to play "anywhere near any place where there is the slightest chance a Muggle is watching, or we'll see how well you can play while chained to a dungeon wall."<ref name="QTA"/>
+
+The [[International Statute of Wizarding Secrecy]] of [[1692]] made all [[Ministry of Magic|Ministries of Magic]] responsible for the consequences of magical sports in their territories. The [[Department of Magical Games and Sports]] was created for this purpose. Quidditch teams that flouted Ministry guidelines were disbanded. One such instance was the [[Banchory Bangers]].<ref name="QTA"/>
+
+==Match overview==
+{{Quote| ''Mount your brooms, please''." Harry clambered onto his Nimbus Two Thousand. Madam Hooch gave a loud blast on her silver whistle. Fifteen brooms rose up, high, high into the air. They were off.|The start of a 1991 [[Gryffindor]] vs. [[Slytherin]] match|Harry Potter and the Philosophers Stone}}
+
+[[File:Quidditch in Philosopher's Stone film.gif|250px|thumb|The start of a 1991 Hogwarts Quidditch match of Gryffindor vs Slytherin]]
+
+The game started with the referee releasing all four balls from the central circle. The Bludgers and Snitch were bewitched to fly off of their own accord, but the [[Quaffle]] was thrown into the air by the referee to signal the start of play (This is similar to how the games of basketball and Gaelic football, popular Muggle sports, begin by the referee throwing the ball in the air).<ref name="PS11">{{PS|B|11}}</ref>
+
+Since the lengths of Quidditch games were variable (some games could go on for days if the Golden Snitch was not caught) the game was not played in periods, although captains could call for a time out. Teams continued using the same goal posts to score throughout the game.<ref name="QTA"/>
+
+[[File:Tumblr n1ctu4CbKZ1sg49umo9 250.gif|250px|thumb|left|A Chaser scoring a goal during a 1996 Hogwarts Quidditch match, [[Gryffindor]] vs [[Slytherin]]]]
+
+Chasers scored by sending the Quaffle through any of the three goal hoops. Each goal scored was worth ten points. After a goal was scored, the opposing team's Keeper would throw the Quaffle back into play.<ref name="PS11"/>
+
+The game only ended when the Golden Snitch was caught, or at the agreement of both team Captains. Catching the Golden Snitch was worth 150 points to the team whose Seeker made the catch. The Snitch was bewitched to respond to the first witch or wizard to make contact with it, in case there was any dispute regarding which Seeker touched it first. Despite this, there have been several instances in which the Snitch had been fumbled. The winner of the game was the team with the most points, regardless of who caught the Golden Snitch.<ref name="PS11"/> As a result, it was possible, although difficult, to win the game even though the opposing team caught the Snitch, if your team was one hundred and sixty or more points ahead, as was the case of the final match between [[Irish National Quidditch team|Ireland]] and [[Bulgarian National Quidditch team|Bulgaria]] of the [[1994 Quidditch World Cup]].<ref name="GOF8">{{GOF|B|8}}</ref> It was never explained what happened in the event of a tie.
+
+===Positions===
+The game was played by two teams of seven people (three ''[[Chaser]]s'', two ''[[Beater]]s'', one ''[[Keeper]]'', and one ''[[Seeker]]'') and involved four balls (a ''[[Quaffle]]'', two ''[[Bludger]]s'', and a ''[[Golden Snitch]]'').<ref name="PS11"/>
+
+The Keeper guarded the [[goalpost]]s, while the three Chasers scored goals with the Quaffle by tossing it into one of the opposing team's three goal posts. The two Beaters kept the Bludgers away from their team and hit the Bludgers towards the opposing team, and the Seeker would catch the Golden Snitch to end the game. The team whose Seeker caught the Snitch was awarded 150 points, but this did not necessarily mean they would win, as the other team could still have more points after the Snitch was caught.<ref name="PS11"/>
+
+==Equipment==
+<gallery orientation="none" widths="150" spacing="large">
+Quidditch Bludger Bay (Concept Artwork).jpg|[[Quidditch gloves]]
+Quidditch Bludger Bat (Concept Artwork).jpg|[[Beater's bat]]
+Quidditch Quaffle Ball (Concept Artwork).jpg|[[Quaffle]]
+Quidditch Bludger Ball (Concept Artwork) 1.jpg|[[Bludger]]
+Broomstick (Concept Artwork) 1.JPG|[[Broomstick]]
+Golden Snitch (Concept Artwork) 1.JPG|[[Golden Snitch]]
+</gallery>
+
+Before the game could start, every player had to have a few standard things. Each player had to have a [[Broomstick]] between his or her legs. As protection, they had to wear a [[Quidditch helmet]], [[Goggles]], shin, knee and arm guards, and [[Quidditch gloves|gloves]]. The different Quidditch positions required different equipment. For example, [[Beater]]s carried [[Beater's bat|bats]] and [[Keeper]]s wore protective head and chest gear. Each player had to wear the [[Quidditch uniform|uniform]] of their team in an official match, so they could see who is with who. An uniform consisted of a cape and jersey. Each team's robes had their own colours and either logos or insignia. They had a special meaning to the team and their fans.<ref name="PS11"/>
+
+Most of the players in [[Great Britain]] bought their equipment at [[Quality Quidditch Supplies]], in [[Diagon Alley]], [[London]].<ref name="PS5">{{PS|B|5}}</ref>
+
+The game was played with three types of balls: the [[Golden Snitch]], [[Quaffle]] and [[Bludger]].<ref name="PS11"/>
+
+==Rules==
+[[File:Quidditch_Through_the_Ages.jpg|250px|thumb|[[Kennilworthy Whisp]]'s book {{QTA}}, which depicted the history of Quidditch with letters and visuals]]
+
+The worldwide popularity and playing of the game of Quidditch was closely monitored and analysed by the [[International Confederation of Wizards' Quidditch Committee]].<ref name="QTA"/>
+
+In [[1750]], the [[British Ministry of Magic]] set down official rules for the game of Quidditch.
+#Players must not stray over the boundary lines of the pitch, although they may fly as high as desired. The Quaffle must be surrendered to the opposition if any player leaves the boundary (it is unknown what the penalty is if a player on defence leaves the pitch).<ref name="QTA"/>
+#"Time out" may be called at any time by the Captain of a team. Time out may be extended to two hours if a game has already lasted for more than twelve hours. Failure to return to the pitch after this time will lead to the team being disqualified.<ref name="QTA"/>
+#Penalties can be awarded to teams by the referee. A single Chaser may take the penalty by flying from the central circle towards the scoring area. The opposing team's Keeper may attempt to stop the shot being scored, but all other players must not interfere (it is unknown if the Seeker may still attempt to catch the Snitch while a penalty is being attempted).<ref name="QTA"/>
+#Contact is allowed, but a player may not seize hold of another player's broomstick or any part of their anatomy.<ref name="QTA"/>
+#No substitution of players is allowed throughout the game, even if a player is too injured or tired to continue to play. (Note: According to ''Goblet of Fire'', during the [[Quidditch World Cup]], at some point it lasted for days, and the players had to be switched out so that they could get some sleep).<ref name="QTA"/>
+#Players may take their wands onto the pitch, but they must not be used on or against any players, any players' broomsticks, the referee, any of the four balls, or the spectators.<ref name="QTA"/>
+#A game of Quidditch will only end once the Golden Snitch has been caught, or at the mutual consent of both team Captains.<ref name="QTA"/>
+#Only the Keeper can block quaffle shots thrown by the opposing team.<ref name="QTA"/>
+
+An amendment to the rules of Quidditch in [[1849]] determined that if a member of the crowd cast any spell on a player, their team would automatically forfeit the match, whether or not the team ordered or approved of the magic performed.<ref name="USAvJAM">{{PM}} - [[USA VERSUS JAMAICA (I)]] (Archived)</ref> (It is not clear how this was enforced, though, as taken literally, this rule would make it even easier to sabotage an opposing team with a false-flag attack).
+
+===Fouls===
+There were seven hundred Quidditch fouls listed in the Department of Magical Games and Sports records, though the entire list was never made public (it was the department's view that some wizards and witches "might get ideas"). 90% of these were banned anyway, by the rule concerning wand use against the opposing team (or rather, lack thereof) and the remaining 10% would not occur even to the dirtiest player<ref name="QTA"/>. There were, however, 11 common fouls, named below (names of those to whom the fouls applied in brackets):
+
+<gallery widths="145" position="center" orientation="none" spacing="small">
+Basic foul.jpg|''Basic foul'': A player violently blocks the Seeker from capturing the Golden Snitch
+Blagging.jpg|''[[Blagging]]'': Seizing the opponent's broom tail to slow or hinder. (All players)
+Blocked!.png|''[[Block]]ing'': Deliberately putting oneself in the way of the opposing team's Seeker, with the intention of obstructing their way towards the Snitch
+Cobbing.jpg|''[[Cobbing]]'': Excessive use of elbows towards opponents. (All players)
+Flacking.jpg|''[[Flacking]]'': Pushing any portion of anatomy through the goal hoop in an attempt to push the Quaffle out – the Keeper should defend from the front, not the rear. (Keepers only)
+BeaterGrabsSnitch.png|''[[Snitchnip]]'': Any player other than Seeker touching or catching the Golden Snitch. (All players but Seeker)
+</gallery>
+
+#'''''[[Blatching]]''''': Flying with the intent to collide. ''(All players)''
+#'''''[[Blurting]]''''': Locking broom handles with the intent to steer an opponent off course. ''(All players)''
+#'''''[[Bumphing]]''''': Hitting Bludgers towards spectators. ''(Beaters only)''
+#'''''[[Haversacking]]''''': Hand still on the Quaffle as it goes through the goal hoop – the Quaffle must be thrown through the goal. ''(Chasers only)''
+#'''''[[Quaffle-pocking]]''''': Tampering with the Quaffle – e.g. puncturing it so that it falls more quickly or zig-zags. ''(Chasers only)''
+#'''''[[Stooging]]''''': More than one Chaser entering the scoring area. ''(Chasers only)''
+
+During the final of the [[1473 Quidditch World Cup]], all seven hundred fouls were committed. These naturally included all 11 aforementioned as well as:
+[[File:Copa Mundial de Quadribol 1473 (1ª Copa Mundial).jpg|292x292px|thumb|1473 Quidditch World Cup final between Transylvania and Flanders]]
+*Transfiguring of a Chaser into a polecat.
+*Attempted decapitation of a keeper with a broadsword.
+*The release of one hundred blood-sucking vampire bats from under the Transylvanian Captain's robes during the game.
+*Setting fire to an opponent's broom tail.
+*Attacking an opponent's broom with a club.
+*Attacking an opponent with an axe.
+==Tactics and moves==
+Over the centuries, many difficult and entertaining moves were invented by players who constantly pushed themselves and the game as far as they could go. Among them were:
+<gallery orientation="none" widths="145" spacing="small" position="center">
+BodyBlow.png|''[[Body Blow]]'': Two Chasers close in on an opposing Chaser carrying the Quaffle, and press against him from either side physically forcing him to let go of the Quaffle
+Checked!.png|''[[Check]]ing'': It consists of intercepting the ball just when the opposing Chasers are about to make a pass.
+Double-Beater Defence.jpg|''[[Dopplebeater Defence]]'': Both Beaters strike a Bludger at the same time, to double the force behind a swing.
+Hawkshead Formation.jpg|''[[Hawkshead Attacking Formation]]'': Three Chasers fly in triangle shape to force other Chasers aside.
+No Hands.jpg|''[[No Hands]]'': The Seeker takes both hands off the broom in order to catch the Golden Snitch
+PowerPlay.png|''[[Power Play]]'': A large concentration of players is applied in a certain area of the pitch, in order to clear a path for the Chaser who is carrying the Quaffle.
+Sloth Grip.JPG|''[[Sloth Grip Roll]]'': A player hangs upside down on their broomstick to avoid a Bludger.
+Spiral Dive.png|''[[Spiral Dive]]'': Descend sharply, in a spiral fashion. Seekers can use this tactic to quickly intercept the Snitch.
+ChudleyStarfish.png|''[[Starfish and Stick]]'': A Keeper holds one hand and one foot onto the broomstick, while stretching his body out, to ensure maximum shielding against oncoming Quaffles.
+Twirl.png|''[[Twirl]]'': Whirling about of the broomstick, in attempt to dodge something, usually either a player or a Bludger.
+2001-Harry-Potter-Trading-Card-Game-Quidditch.jpg|''[[Wronski Feint]]'': A Seeker from high above dives down, sharply, as if to collect the Snitch, causing the opposing Seeker to chase after him, only to pull up at the last second, causing the opposing Seeker to crash into the ground below.
+Zig zag.jpg|''[[Zig-Zag]]'': A player moves in a back and forth motion to avoid bludgers and other players
+</gallery>
+{| width="100%"
+| valign="top" width="50%" |
+*'''''[[Bludger Backbeat]]''''': A Beater hitting a Bludger with a back-hand swing to confuse the opposition.
+*'''''[[Chelmondiston Charge]]''''': A Chaser stands on their broomstick and leaps, thrusting the Quaffle towards a goalpost.
+*'''''[[Dionysus Dive]]''''': A Chaser stands on their broomstick and leaps, punching the Quaffle towards a goalpost.
+*'''''[[Double Eight Loop]]''''': A Keeper flies in front of the three goals at high speed to block the Quaffle.
+*'''''[[Finbourgh Flick]]''''': A Chaser uses their broomstick to hit a Quaffle in midair into a goalpost.
+*'''''[[Parkin's Pincer]]''''': Two Chasers trap an opposing Chaser, while the third Chaser commits [[blatching]].
+| valign="top" width="50%" |
+*'''''[[Plumpton Pass]]''''': Hiding the Snitch in the Seeker's sleeve to confuse the opponents.
+*'''''[[Porskoff Ploy]]''''': One Chaser flies upward, and then throws the Quaffle down to another Chaser directly below.
+*'''''[[Reverse Pass]]''''': A Chaser throws the Quaffle over his or her shoulder.
+*'''''[[Transylvanian Tackle]]''''': A fake punch to the nose to confuse the opponent (as long as contact is not made, it is not illegal).
+*'''''[[Wollongong Shimmy]]''''': Chasers fly in a zig-zag motion to confuse opposing Chasers.
+|}
+
+===Quaffle throws===
+*[[Straight Ball]]: a straight shot
+*[[Fast Ball]]: a fast, straight shot
+*[[Curve Ball]]: a ball that curved unpredictably
+*[[Knuckle Ball]]: a ball that spiralled towards the goal post
+
+==Quidditch titles==
+*[[All-Africa Cup]]
+*[[Australian Quidditch League]]
+*[[British and Irish Quidditch League]]
+*[[Eastern European Championship]]
+*[[European Cup]]
+*[[French Quidditch League]]
+*[[Inter-House Quidditch Cup|Hogwarts Quidditch Cup]]
+*[[United States League|United States Quidditch League]]
+*[[Quidditch World Cup|World Cup]]
+
+==Known Quidditch teams==
+{{Main|Quidditch team}}
+<tabber>
+|-|Hogwarts teams=
+[[File:Gryffindor™ Quidditch™ Badge.png|90px|thumb]]
+*[[Gryffindor Quidditch team|Gryffindor]]
+*[[Hufflepuff Quidditch team|Hufflepuff]]
+*[[Ravenclaw Quidditch team|Ravenclaw]]
+*[[Slytherin Quidditch team|Slytherin]]
+|-|International Quidditch teams=
+[[File:Adverts from The New York Ghost2.jpg|165px|thumb]]
+{|
+|
+*[[Argentinian National Quidditch team|Argentina]]<ref name="QTA">{{QTA|E}}</ref>
+*[[Armenian Junior Nationals Quidditch team|Armenia]]<ref>''[[The Daily Prophet (real-world)|Daily Prophet Newsletters]]''</ref>
+*[[Australian National Quidditch team|Australia]]<ref name="QWC">{{QWC}}</ref>
+*[[Brazilian National Quidditch team|Brazil]]<ref name="QTA" /> 
+*[[Bulgarian National Quidditch team|Bulgaria]]<ref name="GOF8">{{GOF|B|8}}</ref>
+*[[Burkinabé National Quidditch team|Burkina Faso]]<ref name="PM">{{PM}}</ref>
+*[[Canadian National Quidditch team|Canada]]<ref name="PM" />
+*[[Chinese National Quidditch team|China]]<ref name="PM" />
+*[[Haitian National Quidditch team|Haiti]]<ref name="PM" />
+*[[Ivorian National Quidditch team|Cote D'Ivoire]]<ref name="PM" />
+*[[Egyptian National Quidditch team|Egypt]]<ref name="PM" />
+*[[English National Quidditch team|England]]<ref name="GOF5">{{GOF|B|5}}</ref>
+*[[Fijian National Quidditch team|Fiji]]<ref name="PM" />
+*[[Flemish National Quidditch team|Flanders]]<ref name="QTA" />
+*[[French National Quidditch team|France]]<ref name="QWC"/>
+*[[German National Quidditch team|Germany]]<ref name="QWC"/>
+*[[Indian National Quidditch team|India]]<ref name="WCP">{{See image|file:World Cup Participants.jpg}}</ref>
+*[[Irish National Quidditch team|Ireland]]<ref name="GOF8" />
+*[[Italian National Quidditch team|Italy]]<ref name="PM" />
+*[[Jamaican National Quidditch team|Jamaica]]<ref name="PM" />
+*[[Japanese National Quidditch team|Japan]]<ref name="QWC"/>
+*[[Liechtenstein National Quidditch team|Liechtenstein]]<ref name="PM" />
+*[[Luxembourgian National Quidditch team|Luxembourg]]<ref name="GOF5" />
+|
+*[[Malagasy National Quidditch team|Madagascar]]<ref name="PM" />
+*[[Malawian National Quidditch team|Malawi]]<ref name="PM" />
+*[[Mexican National Quidditch team|Mexico]]<ref name="PM" />
+*[[Moldovan National Quidditch team|Moldova]]<ref name="PM" />
+*[[Moroccan National Quidditch team|Morocco]]<ref>{{QWC}} (concept art)</ref>
+*[[New Zealand National Quidditch team|New Zealand]]<ref name="PM" />
+*[[Nigerian National Quidditch team|Nigeria]]<ref name="PM" />
+*[[Nordic National Quidditch team|The Nordic Team]]<ref name="QWC"/>
+*[[Norwegian National Quidditch team|Norway]]<ref name="PM" />
+*[[Peruvian National Quidditch team|Peru]]<ref name="GOF5" />
+*[[Polish National Quidditch team|Poland]]<ref name="QTA" />
+*[[Portuguese National Quidditch team|Portugal]]<ref name="WCP"/>
+*[[Romanian National Quidditch team|Romania]]<ref name="PM" />
+*[[Scottish National Quidditch team|Scotland]]<ref name="GOF5" />
+*[[Senegalese National Quidditch team|Senegal]]<ref name="PM" />
+*[[Spanish National Quidditch team|Spain]]<ref name="QWC"/>
+*[[Syrian National Quidditch team|Syria]]<ref name="PM" />
+*[[Transylvanian National Quidditch team|Transylvania]]<ref name="QTA" />
+*[[Turkish National Quidditch team|Turkey]]<ref name="GOF30">{{GOF|B|30}}</ref>
+*[[Ugandan National Quidditch team|Uganda]]<ref name="GOF5" />
+*[[American National Quidditch team|United States of America]]<ref name="QWC"/>
+*[[Welsh National Quidditch team|Wales]]<ref name="GOF5" />
+*[[International Quidditch Team|International]]<ref>[http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&friendID=121953994&albumID=2545417&imageID=40847151 A portrait of Selina Sapworthy], on exhibit as part of the ''Train Harry Potter et le Prince de Sang-Mêlé'' tour in France in 2009.</ref>
+|}
+|-|Regional teams=
+[[File:ChudleyCannons.png|120px|thumb|[[Chudley Cannons]]]]
+[[File:Montrose-magpie-quidditch-badge-lrg.png|120px|thumb|[[Montrose Magpies]]]]
+{|
+|
+*[[Gimbi Giant-Slayers]] (Ethiopia)
+*[[Patonga Proudsticks]] (Uganda)
+*[[Sumbawanga Sunrays]] (Tanzania)
+*[[Tchamba Charmers]] (Togo)
+*[[Toyohashi Tengu]] (Japan)
+*[[Moutohora Macaws]] (New Zealand)
+*[[Thundelarra Thunderers]] (Australia)
+*[[Wollongong Warriors]] (Australia)
+*[[Bigonville Bombers]] (Luxembourg)
+*[[Braga Broomfleet]] (Portugal)
+*[[Gorodok Gargoyles]] (Lithuania)
+*[[Grodzisk Goblins]] (Poland)
+*[[Heidelberg Harriers]] (Germany)
+*[[Karasjok Kites]] (Norway)
+*[[Quiberon Quafflepunchers]] (France)
+*[[Vratsa Vultures]] (Bulgaria)
+*[[Fitchburg Finches]] (United States)
+*[[Haileybury Hammers]] (Canada)
+*[[Moose Jaw Meteorites]] (Canada)
+*[[Stonewall Stormers]] (Canada)
+|
+*[[Sweetwater All-Stars]] (United States)
+*[[Tarapoto Tree-Skimmers]] (Peru)
+*[[Appleby Arrows]] (England)
+*[[Ballycastle Bats]] (Northern Ireland)
+*[[Banchory Bangers]] (Scotland)
+*[[Barnton amateur Quidditch team|Barnton]] (England)
+*[[Caerphilly Catapults]] (Wales)
+*[[Chudley Cannons]] (England)
+*[[Cork Quidditch team|Cork]] (Ireland)
+*[[Falmouth Falcons]] (England)
+*[[Holyhead Harpies]] (Wales)
+*[[Ilkley Quidditch team|Ilkley]] (England)
+*[[Kenmare Kestrels]] (Ireland)
+*[[Lancashire Quidditch team|Lancashire]] (England)
+*[[Montrose Magpies]] (Scotland)
+*[[Pride of Portree]] (Scotland)
+*[[Puddlemere United]] (England)
+*[[Puddlemere United reserve team]] (England)
+*[[Tutshill Tornados]] (England)
+*[[Wigtown Wanderers]] (Scotland)
+*[[Wimbourne Wasps]] (England)
+*[[Yorkshire Quidditch team]] (England)
+|}
+</tabber>
+
+==Fans==
+Quidditch was a hugely popular spectator sport. One hundred thousand fans attended the 1994 [[Quidditch World Cup]] final. [[Binoculars]] and [[Omnioculars]] were sometimes used by fans to view matches from the stands.<ref name="GOF8"/>
+
+===Publications===
+British Quidditch fans kept up to date with the latest Quidditch news in the [[Daily Prophet]] and [[Seeker Weekly]].<ref name="GOFF">{{GOF|F}}</ref>
+
+===Merchandise===
+Fans could buy a wide range of team merchandise including hats, scarves, flags, [[Chudley Cannons Jersey|jerseys]], [[Tornados badge|badges]] and figurines.<ref name="GOF8"/>
+
+==Behind the scenes==
+*There is a game based on Quidditch called [[Muggle Quidditch]] in the real world.
+*There are some differences between how Quidditch is represented in Kennilworthy Whisp's {{QTA}} (and the books) and how it appears to be played in the films and video games.
+*Most notably in the films, the rule that players must not stray outside the pitch boundary is not evident, as players can be seen flying around the spectator towers at the Hogwarts Quidditch pitch, as well as the scene where the rogue bludger chases [[Harry Potter|Harry]] and [[Draco Malfoy|Malfoy]] around the outside of the pitch boundaries in {{COS|FA}}.
+*The balls also show notable differences. {{QTA}} shows us that the Quaffle is a perfect sphere, but the movie and games' versions have four large indentations around its surface. In addition, the Bludgers in ''Quidditch Through the Ages'' are ten inches in diameter, two inches smaller than the Quaffle. In the movies and games, however, they appear much smaller than the Quaffle.
+*There also seems to be more allowance for malicious acts in the films, as we see several instances where [[Slytherin]] players physically attack the opposition with no penalty.
+*In the video game {{QWC}}, the rule of only having a single Chaser in the scoring area is not used. Additionally, the game allows for players to make special moves where by several goals are scored in succession as multiple Chasers pass the Quaffle back and forwards through the hoops.
+*{{QTA}} states that the Keeper cannot block goals from behind the goal post, so it would be impossible for the Keeper to block without a foul towards his/her team. This would most likely represent a foul towards the offensive team.[[File:Image_4.jpg|200px|thumb|Harry Potter and the Half-Blood Prince Quidditch - Bluescreen]]
+*Also in the films, there have been funny moments in Quidditch, for example [[Harry Potter and the Philosopher's Stone (film)|film adaption]] of {{PS}} [[Oliver Wood]] kicks the Quaffle into the air and grabs it on the backside of the hoop when defending it, and in {{HBP|FA}}, when [[Ginevra Weasley|Ginny Weasley]] scores 10 point, a Slytherin Chaser and the Slytherin Keeper collide and then collapses into the hoop.
+*Quidditch was eliminated from {{OOTP|FA}}, and [[Ronald Weasley]] became the Gryffindor keeper in {{HBP|FA}} instead. In the ''Order of the Phoenix'' film, [[Dolores Umbridge]], in her capacity as [[Hogwarts High Inquisitor]], created [[Educational Decree Number Forty-Nine]], which stated that "All Quidditch matches are hereby cancelled. Broomsticks will be turned in to the High Inquisitor for safe keeping."
+*J. K. Rowling wrote five pages of words starting with "Q" before deciding upon "Quidditch".<ref>[http://www.accio-quote.org/articles/1999/1299-wamu-rehm.htm J.K. Rowling on The Diane Rehm Show, WAMU Radio Washington, D.C., October 20, 1999]</ref>
+*J. K. Rowling first developed Quidditch after a fight with her boyfriend at the time in a small hotel in Manchester. Some of the game's elements, such as the Golden Snitch being worth a disproportionate amount of points, were due to her state of mind at the time, as she felt these elements would be frustrating to men.<ref>[http://www.guardian.co.uk/books/interactive/2013/may/18/jk-rowling-harry-potter-philosophers-stone-annotations J.K. Rowling, Harry Potter and the Philosopher's Stone - with annotations], ''The Guardian''</ref>
+*[[Matthew Lewis]] has said that he would like to be a professional Quidditch player.<ref>https://www.pottermore.com/news/what-wizarding-world-jobs-would-the-harry-potter-cast-members-have</ref>
+
+==Appearances==
+{{Imagecat|Images of Quidditch}}
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{PS|G}}
+*{{COS}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}}
+*{{POA|F}}
+*{{POA|G}}
+*{{GOF}}
+*{{GOF|F}} 
+*{{OOTP}}
+*{{OOTP|G}} {{Mention}} 
+*{{HBP}}
+*{{HBP|F}}
+*{{HBP|G}}
+*{{DH}} {{Mention}}
+*{{DH|F1}} {{C|[[Daily Prophet]]}}
+*{{CC}} {{Mention}}
+*{{CC|P}} {{Mention}}
+*{{QTA}}
+*{{HPPU}}
+*{{QWC}}
+*{{LEGO|B}}
+*{{LEGO|C}}
+*{{LEGO|D}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}}
+*{{LEGO}}
+*{{HPFJ}}
+*{{HPFW}}
+*{{TCG}}
+*{{PM}}
+*{{WW}}
+*{{HPK}}
+*{{HPV|CH}}
+*{{HPV|CR}} {{Mention}}
+*{{HM}}
+*{{WU}} {{Mention}}
+*{{PAS}}
+
+==Notes and references==
+{{Reflist}}
+{{Quidditch}}
+[[ca:Quidditch]]
+[[cs:Famfrpál]]
+[[da:Quidditch]]
+[[de:Quidditch]]
+[[de2:Quidditch]]
+[[el:Κουίντιτς]]
+[[es:Quidditch]]
+[[et:Lendluudpall]]
+[[fi:Huispaus]]
+[[fr:Quidditch]]
+[[gl:Quidditch]]
+[[it:Quidditch]]
+[[ja:クィディッチ]]
+[[nl:Zwerkbal]]
+[[no:Rumpeldunk]]
+[[pl:Quidditch]]
+[[pt-br:Quadribol]]
+[[ru:Квиддич]]
+[[sv:Quidditch]]
+[[tr:Quidditch]]
+[[uk:Квідич]]
+[[zh:魁地奇]]
+<!-- Insert comment here -->
+[[Category:Quidditch|Quidditch]]

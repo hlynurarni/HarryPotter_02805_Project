@@ -1,0 +1,185 @@
+{{FA}}
+{{Individual infobox
+|theme = mom
+|image = [[File:Pius Thicknesse.png|250px]]
+|name = Pius Thicknesse
+|born = Before [[1980]]<ref name="age">As he was made head of Magical Law Enforcement in 1996, he must have been at least of age at that time</ref>
+|died = <!-- DO NOT put that Thicknesse died in the Battle of Hogwarts. That event, as depicted in the film, contradicts the novel. -->
+|blood = [[Pure-blood]] or [[half-blood]]<ref name="blood">While it is never stated what Thicknesse's blood status is, it is unlikely Thicknesse would be appointed Minister for Magic by the Death Eater regime instead of other powerful and prominent pure-blood Death Eaters with Ministry connections like Yaxley, Travers or Selwyn, if he were Muggle-born.</ref> {{c|most likely}}
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = [[Minister for Magic|Minister]]<ref name="DH11">{{DH|B|11}}</ref>
+|signature = 
+|species = [[Human]]<ref name="DH1">{{DH|B|1}}</ref>
+|gender = Male<ref name="DH1"/>
+|height = 
+|weight = 
+|hair = Black and silver<ref name="DH13">{{DH|B|13}}</ref>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = [[Pius Thicknesse's wand|Unknown length, wood and core]]<ref name="DHpt1">{{DH|F1}}</ref>
+|patronus = Non-corporeal<ref name="LEGOY2">{{LEGO|Y2}}</ref>
+|job = *Head of the [[Department of Magical Law Enforcement]]<ref name="DH1"/> {{c|formerly}}
+*[[Minister for Magic]]<ref name="DH11"/> {{c|formerly}}
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="DH1"/>
+**[[Department of Magical Law Enforcement]]<ref name="DH1"/>
+*[[Death Eaters]]<ref name="DH1"/> {{c|[[Imperius Curse|Imperiused]]}}
+}}
+{{Quote|Effectively [[Tom Riddle|he]] is the Minister, but why should he sit behind a desk at the Ministry? His puppet, Thicknesse, is taking care of everyday business, leaving Voldemort free to extend his power beyond the Ministry.|Voldemort's manipulation and control of Thicknesse in the Ministry of Magic|Harry Potter and the Deathly Hallows}}
+'''Minister Pius Thicknesse''' was a [[Great Britain|British]] [[Wizardkind|wizard]] and a [[British Ministry of Magic|Ministry of Magic]] official in the mid to late [[1990s]]. During the [[Second Wizarding War]], he became Head of the [[Department of Magical Law Enforcement]] as well as, later in the War, [[Minister for Magic]] under [[Tom Riddle|Lord Voldemort's]] puppet [[Fall of the Ministry of Magic|regime]] while under the [[Imperius Curse]] and thus essentially Voldemort's puppet himself. He replaced [[Rufus Scrimgeour]] as Minister of Magic, who had been murdered by Voldemort. Thicknesse took part in the [[Battle of Hogwarts|final conflict of the War]], where he fought alongside the [[Death Eaters]], still under the [[curse]].
+
+He was ousted from power after [[Tom Riddle|Voldemort]]'s defeat and was succeeded by [[Kingsley Shacklebolt]] in his post of Minister for Magic.
+
+==Biography==
+===Early life===
+Thicknesse was born to the likely [[Pure-blood]] or [[Half-blood]] Thicknesse family.<ref name="blood" /> He most likely attended [[Hogwarts School of Witchcraft and Wizardry]] in his youth, where he would have received his [[magic]]al education. He ultimately joined the [[British Ministry of Magic|Ministry of Magic]], at some point in his adult life.<ref name="DH1" />
+
+===Head of the Department of Magical Law Enforcement {{C|1996-1997}}===
+{{Quote|&#8203;''[…]'' as Head of the Department of Magical Law Enforcement, Thicknesse has regular contact not only with the Minister himself, but also with the Heads of all the other Ministry departments.|[[Corban Yaxley|Yaxley]], concerning Thicknesse's post as Head of the [[Department of Magical Law Enforcement]]|Harry Potter and the Deathly Hallows}} 
+When [[Amelia Bones]], Head of the Department of Magical Law Enforcement, was murdered by [[Tom Riddle|Voldemort]] in the summer of [[1996]],<ref name="HBP1">{{HBP|B|1}}</ref> Thicknesse was appointed her successor, presumably by then-[[Minister for Magic]] [[Rufus Scrimgeour]].<ref name="DH1" />
+
+When one takes into consideration that the Department of Magical Law Enforcement is the largest Ministry department (to which the remaining six departments are all, in some respect, answerable with the possible exception of the [[Department of Mysteries]]),<ref name="FB">{{FB|R}} - ''Magical Beasts in Hiding''</ref> it seems to be safe to presume Thicknesse was high up at the Ministry at the time of his appointment in [[1996]].
+
+===Under the Imperius Curse {{C|1997-1998}}===
+[[File:ThicknesseMalfoyManor.jpg|thumb|left|Thicknesse while Head of the [[Department of Magical Law Enforcement]]]]
+{{Dialogue a-b-a|Lord Voldemort|Well, Yaxley? ''Will'' the Ministry have fallen by next Saturday?|Yaxley|My Lord, I have good news on that score. I have — with difficulty, and after great effort — succeeded in placing an Imperius Curse upon Pius Thicknesse.|It is a start. But Thicknesse is only one man. Scrimgeour must be surrounded by our people before I act. One failed attempt on the Minister's life will set me back a long way.|[[Tom Riddle|Lord Voldemort]] and [[Corban Yaxley|Yaxley]] during the [[Meeting at Malfoy Manor]]|Harry Potter and the Deathly Hallows}}
+In the summer of [[1997]], as part of Voldemort's plan to take over the Ministry, [[Death Eaters|Death Eater]] [[Corban Yaxley|Yaxley]] placed the Imperius Curse on Thicknesse. He mentioned that this was more difficult than he had expected and made him very nearly late for an important Death Eater meeting at [[Malfoy Manor]] (as Thicknesse's nature allowed him to resist). Many of the other Death Eaters were impressed with Yaxley's work, [[Antonin Dolohov]] clapping him on the back in congratulations, but Voldemort pointed out that Thicknesse was only one man, as well as that he needed Minister [[Rufus Scrimgeour]] surrounded by his agents before he acted.<ref name="DH1" />
+
+Thicknesse proved useful, however. As head of the Department of Magical Law Enforcement, Thicknesse had regular contact not only with the Minister himself, but also with the Heads of all the other Ministry departments, making it easier to subjugate the others. Thicknesse proceeded to do just that, remaining undiscovered and using his position to infiltrate the senior ranks of the Ministry, slowly working together to bring Scrimgeour down.<ref name="DH1" />
+
+Thicknesse also aided Voldemort in trapping [[Harry Potter]] at [[4 Privet Drive]], mainly by making it an imprisonable offence to connect the house to the [[Floo Network]], to place a [[Portkey]] there, or to [[Apparition|Apparate]] in or out. Officially, all of this was done for Harry's protection, but in reality, it was pointless, as Harry was protected by a [[charm]] from [[Lily J. Potter|his mother]]'s blood while living with his [[Dursley family|relatives]]. [[Trace|The Trace]] was also in effect, so if Harry or anyone around him cast a [[spell]] to get him out of there, Thicknesse would know about it and so would the Death Eaters.<ref name="DH4">{{DH|B|4}}</ref>
+
+The [[Order of the Phoenix]], as a result, believed Thicknesse had "gone over", which made it a big problem with the plan to move Harry. They abandoned the original plan, as they were unable to wait for the Trace to break: the moment Harry turned seventeen, all the protection he received from his mother would be lost. In short, Thicknesse thought he had Harry cornered good and proper, to which Harry could not help but agree.<ref name="DH4" /> As such, the Order was reduced to using the only means of magical transport left to them: [[broomstick]]s, [[Thestral]]s and [[Sirius Black's motorbike]], setting the stage for the [[Battle of the Seven Potters|flight from Little Whinging]],<ref name="DH4" /> and the murder of [[Alastor Moody]] by Voldemort.<ref name="DH5">{{DH|B|5}}</ref>
+
+====As Minister for Magic====
+{{Quote|As your new Minister for Magic I promise to restore this temple of tolerance to its former glory. Therefore, beginning today, each employee﻿ will submit themselves... for evaluation. But know this: you have nothing to fear if you have nothing to hide.|Pius Thicknesse addresses Ministry employees in the [[Atrium]] following the implementation of the [[Fall of the Ministry of Magic|Death Eater regime]]|Harry Potter and the Deathly Hallows: Part 1}}[[File:Thicknesse regime.png|235x235px|thumb|right|Pius Thicknesse, alongside [[Dolores Umbridge]], [[Albert Runcorn]] and [[Corban Yaxley]], introduces the new regime to [[British Ministry of Magic|Ministry of Magic]] employees]]
+
+Eventually, Thicknesse and the other subverted high-ranking Ministry officials, launched a [[Fall of the Ministry of Magic|"smooth and virtually silent" coup]] alongside the [[Death Eaters]],<ref name="DH11" /> and on [[1 August]], [[1997]], the Ministry fell.<ref name="DH8">{{DH|B|8}}</ref> The ''[[Daily Prophet]]'' was also taken over, the official version of Scrimgeour's murder was that he resigned, as well as Thicknesse replaced him. Only the Order seemed to be aware that he was under the Imperius Curse. As a result, Thicknesse was nothing but a puppet, taking care of everyday business while Voldemort, effectively the true Minister, was free to extend his power beyond the Ministry.<ref name="DH11" />
+
+Thicknesse, at Voldemort's direction, installed a new regime at the Ministry that was more in line with [[Death Eaters|Death Eater]] ideology.<ref name="DH11" /> His actions included having a [[Magic is Might statue|statue]] depicting a witch and wizard on top of a throne made from the bodies of crude-looking [[Non-magic people|Muggle]]s, inscribed with the motto "''[[Magic is Might]]''" set up in the [[Atrium|Ministry Atrium]], replacing the [[Fountain of Magical Brethren]].<ref name="DH12">{{DH|B|12}}</ref> [[Corban Yaxley|Yaxley]] succeeded Thicknesse as head of the [[Department of Magical Law Enforcement]],<ref name="DH12" /> and several other Death Eaters, such as [[Travers]]<ref name="DH13" /> and [[Selwyn]],<ref name="DH21">{{DH|B|21}}</ref> were appointed to other powerful positions within the Ministry.
+
+Meanwhile at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts School]], the [[Dark Arts]] and [[Muggle Studies#1997|prejudiced depictions of Muggles]] were taught by professors [[Amycus Carrow|Amycus]] and [[Alecto Carrow]] respectively under the new [[Headmaster]], [[Severus Snape]].<ref name="DH12" /> Hogwarts attendance became mandatory, as well as students must prove their blood-status, with Muggle-borns removed.<ref name="DH11" /> [[Harry Potter]] was declared "Undesirable No. 1", wanted for questioning about the death of [[Albus Dumbledore]]<ref name="DH13" /> with a ten-thousand-[[Galleon]] reward on his head<ref name="DH12" /> (which was by [[March]], [[1998]] increased to two-hundred-thousand when attempts to find him all over the country continued to fail).<ref name="DH23">{{DH|B|23}}</ref>
+
+Using falsified research done in the [[Department of Mysteries]], the Ministry claimed that [[Muggle-born]]s "stole" their magic from "real" witches and wizards. As a result, the [[Muggle-Born Registration Commission]] was set up to persecute and imprison Muggle-borns,<ref name="DH11" /> with [[Dolores Umbridge]] as its head.<ref name="DH13" /> To round up any Muggle-borns or [[blood traitor]]s on the run, the [[Snatchers]] organisation was formed.<ref name="DH19">{{DH|B|19}}</ref> Also people with known connections to the [[Order of the Phoenix]] or sympathies for Muggles, such as [[Arthur Weasley]], were put under surveillance.<ref name="DH13" />
+
+====Encountering Harry Potter====
+{{Dialogue a-b-a-b-a-b|Thicknesse|What brings you here, Runcorn?|Harry Potter {{c|as Runcorn}}|Needed a quick word with Arthur Weasley. Someone said he was up on level one.|Ah. Has he been caught having contact with an Undesirable?|No. No, nothing like that.|Ah, well. It's only a matter of time. If you ask me, the blood traitors are as bad as the Mudbloods. Good day, Runcorn.|Good day, Minister.|Thicknesse encounters whom he believes to be Albert Runcorn|Harry Potter and the Deathly Hallows}}
+
+[[File:Thicknesse Runcorn.jpg|239x239px|thumb|left|Thicknesse and [[Albert Runcorn]] (actually [[Harry Potter]] in [[Polyjuice Potion|disguise]])]]
+When [[Harry Potter]], [[Hermione Granger]] and [[Ronald Weasley|Ron Weasley]] [[Infiltration of the Ministry of Magic|infiltrated the Ministry]] in search of one of Voldemort's [[Horcrux]]es, Harry encountered Thicknesse while in the form of [[Albert Runcorn]], with whom Thicknesse seemed familiar. Thicknesse, at the time, was wearing magnificent robes of black and gold.<ref name="DH13" />
+
+Harry witnessed Thicknesse's altered nature while under the Imperius Curse, which showed him having a strong hatred for Muggle-borns, referring to them as "[[Mudblood]]s", as well as [[blood traitor]]s, whom he claimed to despise just as much. While Harry was searching for the Horcrux in Umbridge's office, Thicknesse arrived momentarily to jot down a note, as well as almost discovered Harry while he was under the [[Cloak of Invisibility|Invisibility Cloak]], though he ultimately failed to notice him.<ref name="DH13" />
+
+In late [[1997]], [[Xenophilius Lovegood]]'s [[Luna Lovegood|daughter]] was kidnapped in order to stop his telling the truth to the public and encouraging support of Harry Potter in his magazine, ''[[The Quibbler]]''. Hoping to get her back, he sent an owl to the Ministry when Harry, Hermione and Ron came to see him. Thicknesse promptly dispatched Travers and Selwyn to investigate. They arrested Lovegood, but failed to capture the trio.<ref name="DH21" />
+
+====[[Battle of Hogwarts]]====
+{{Quote|Hello, Minister! Did I mention I'm resigning?|[[Percy Weasley]] while [[duelling]] his former boss|Harry Potter and the Deathly Hallows}}
+[[File:Thik.jpg|245px|thumb|Thicknesse wearing [[Death Eaters|Death Eater]] robes during the battle]]
+
+<!-- DO NOT put that Thicknesse died in the Battle of Hogwarts. That event, as depicted in the film, contradicts the novel. -->
+During the Battle of Hogwarts, Thicknesse was stationed within the ranks of the [[Death Eaters]] and fought with them against the castle's defenders. He was amongst a group of masked and hooded Death Eaters who successfully penetrated Hogwarts and duelled with [[Percy Weasley]]. His hood slipped off as he tried to avoid being cursed and Percy mocked his former boss before using a [[sea urchin jinx]], causing Thicknesse to sprout sea urchin-like spikes all over his body. The corridor they were in was then damaged in an explosion that killed [[Fred Weasley]].<ref name="DH31">{{DH|B|31}}</ref> Thicknesse and his comrades later retreated at Voldemort's command.<ref name="DH33">{{DH|B|33}}</ref>
+
+When the battle later recommenced, moments prior to the [[Voldemort's Last Stand|duel that ended the War]], Thicknesse was "floored" by [[Arthur Weasley|Arthur]] and [[Percy Weasley]].<ref name="DH36">{{DH|B|36}}</ref>
+
+===Later life {{C|Post 1998}}===
+{{Quote|&#8203;''[…]'' the Imperiused up and down the country had come back to themselves, that Death Eaters were fleeing or else being captured, that the innocent of Azkaban were being released at that very moment, and that Kingsley Shacklebolt had been named temporary Minister for Magic.|Description of the events immediately after the end of the [[Battle of Hogwarts]]|Harry Potter and the Deathly Hallows}}
+
+It is uncertain if Thicknesse was killed during the battle, or just [[Stunning Spell|stunned]]. The latter seems more likely, as [[Arthur Weasley]], like the rest of the [[Order of the Phoenix]], knew Thicknesse was under the influence of the [[Imperius Curse]].<ref name="DH4" /> After [[Tom Riddle|Voldemort]]'s death, all the people across the country who had been under the [[Imperius Curse]] came back to themselves. If he survived the battle, this would include Thicknesse. Right after the battle, [[Kingsley Shacklebolt]] was named temporary [[Minister for Magic]], which later became a permanent appointment.<ref name="DH36" /> If Thicknesse did survive the battle, it is unclear if he rejoined the Ministry or was incarcerated. The latter possibility is unlikely, as he was acting under the Imperius Curse and had no control over his actions. 
+
+In spite of effectively having served as the 34th British [[Minister for Magic]] from [[1997]] to [[1998]], Thicknesse was omitted from most official records about the [[Fall of the Ministry of Magic|Death Eater regime]],<ref name="WW">{{WW|ministers-for-magic}}</ref> as his unconsciousness eschews any responsibility for his actions at the time. 
+
+==Physical appearance==
+Thicknesse was described as having long black hair and a beard streaked with silver, as well as "a great overhanging forehead" that shadowed his glinting eyes.<ref name="DH13" /> [[Harry Potter]] thought he resembled a [[crab]] looking out from beneath a rock.<ref name="DH13" />
+
+==Personality and traits==
+[[File:Pius Thicknesse's sycophants.jpg|220x220px|thumb|left|As Minister for Magic, Pius was excessively adulated by numerous sycophants and "yes men" who followed him around the Ministry]]
+
+It is unknown what Thicknesse was like before the Imperius Curse was placed upon him, or after it was removed when Voldemort was defeated. While under the curse however, his air of lofty authority mixed with his appearance made him generally intimidating and a little too happy with the way things were being run at the Ministry under him and the [[Death Eaters]] (most prominently [[Corban Yaxley|Yaxley]]), casually espousing the view that [[blood traitor]]s were as bad as [[Mudblood]]s to [[Harry Potter]], who was [[Polyjuice Potion|disguised]] as [[Albert Runcorn]] at the time.<ref name="DH13" />
+
+It would be unfair to judge Thicknesse solely on his activities during his [[1997–1998 school year|tenure as Minister for Magic]] however, as he was being controlled by the Death Eater [[Corban Yaxley|Yaxley]] at the time and was not responsible for his actions. However, since the Death Eaters had to resort to the Imperius Curse to get Thicknesse on their side, it is safe to say that he was not a sympathiser of their ideals. As Head of the [[Department of Magical Law Enforcement]], the largest department in the Ministry, one can presume he was a fairly capable [[Wizardkind|wizard]] and as a law enforcement official. It is implied that he was a strong-willed individual, as he tried very hard to resist the effects of the [[Imperius Curse]].<ref name="DH1" />
+
+==Magical abilities and skills==
+*'''Leadership skills''': Thicknesse obviously had the necessary skills of leadership when then-Minister for Magic [[Rufus Scrimgeour]] appointed Thicknesse to replace [[Amelia Bones]] as [[Department of Magical Law Enforcement|Head of the Department of Magical Law Enforcement]] during the [[Second Wizarding War]].<ref name="DH1"/>
+*'''[[Charm]]s''': Thicknesse was capable of conjuring a non-corporeal [[Patronus Charm|Patronus]],<ref name="LEGOY2"/> a highly advanced and powerful piece of [[magic]], as well as a mark of superior magical skill.
+
+==Possessions==
+[[File:Pius_Thicknesse's_wand.jpg|162x162px|thumb|Pius Thicknesse's wand]]
+*'''[[Pius Thicknesse's wand|Wand]]''': Thicknesse owned a [[wand]], which was of an unknown length, [[Wand wood|wood]] and [[Wand core|core]] material. Like most wizards in [[Great Britain]], he likely purchased his [[wand]] from [[Ollivanders]] in [[Diagon Alley]]. He would have wielded his wand throughout his career in the [[British Ministry of Magic]] and as Head of the [[Department of Magical Law Enforcement]].<ref name="DHpt1"/>
+
+==Media==
+<gallery widths="300" position="center" spacing="small" captionalign="center" hideaddbutton="true">
+File:Harry Potter and the Deathly Hallows part 1 - the Death Eaters at Malfoy Manor part 1 (HD)|Meeting at Malfoy Manor
+</gallery>
+
+==Etymology==
+*The name [[Wikipedia:Pius|Pius]] is derived from the Latin word ''pius'', which despite being similar to the English word "pious", has a different shade of meaning: ''that is, it refers to one who has reverence for law, government, as well as order.'' Thus it is particularly appropriate for a head of the Department of Magical Law Enforcement and Minister of Magic. It has also been the regal name of twelve popes. Thus, the name of the man who created an organisation to oppress Muggle-borns may allude to the [[Wikipedia:Inquisition|Inquisition]], which persecuted heretics as well as, ironically, witches.
+*Thicknesse, meanwhile, may mean "thick" and the Proto-Germanic word ''nessye'' (or ''nessieh''), meaning "tongue", probably alluding to the anti-Muggle-born propaganda passed during his tenure as Minister.
+*In Swedish, Thicknesse was renamed "Pius Korpulens", the word "''korpulens''" meaning "''girth''". In Serbian, Thicknesse was renamed "Pije Glupsije", the word "''glupsije''" being derived from the word "''glup''" which means "''dumb''". In Italian, Thicknesse was renamed "Pius O'tusoe", that sound like the word "''ottuso''", an Italian word for "''dumb''". These translations may have been inspired by the fact that "thick" is also British slang for "not too bright".
+
+==Behind the scenes==
+[[File:ThicknesseNagini.jpg|250px|thumb|right|Pius in the [[Meeting at Malfoy Manor]] in [[1997]], with [[Nagini]] on the floor in {{DH|F1}}]]
+*Thicknesse was portrayed by [[Great Britain|British]] actor [[Guy Henry]] in the [[Harry Potter and the Deathly Hallows (film)|film adaptations]] of {{DH}}.<ref>[http://www.the-leaky-cauldron.org/2009/7/3/guy-henry-to-play-pius-thicknesse-in-harry-potter-and-the-deathly-hallows Guy Henry to Play Pius Thicknesse in Harry Potter and the Deathly Hallows]</ref>
+*In {{DH|F1}}, Thicknesse is present at the [[Meeting at Malfoy Manor|Death Eater meeting]] at [[Malfoy Manor]], implying that either he has already been Imperiused (though it isn't mentioned), or that he is an actual Death Eater or accomplice (note that he wears a three-piece pinstripe suit and tie instead of Death Eater robes in this scene). He appeared, however, quite uncomfortable at this meeting presenting the alternative that he might have been coerced by the Death Eaters to do their bidding (Thicknesse seems upset when [[Nagini]] curls up intimidatingly right beside him on the floor, and when addressing Ministry officials his hand can been seen trembling). In the actual novel {{DH}}, he is not present at the meeting.
+**In {{DH|F2}}, he is often seen standing quite close to Voldemort, suggesting that he is indeed a Death Eater of high rank. It is possible that he was given this status as a result of his role as a puppet-Minister.
+[[File:Screen Shot 2019-02-08 at 12.00.15 pm.png|220x220px|thumb|Pius's death]]
+*In {{DH|F2}}, Pius is ruthlessly [[Killing Curse|killed]] by [[Tom Riddle|Voldemort]] in frustration after he interrupts his concentration with an unwanted interjection during the Battle of Hogwarts.
+[[File:ThicknesseLEGO.png|194px|thumb|Pius Thicknesse as seen in {{LEGO|Y2}}]]
+*In the Harry Potter Pronunciation Guide at the Scholastic official website, Thicknesse's name is spelt phonetically as "PY-us THIK-nuss" (as in "''thick'''ness'''''").<ref>[http://harrypotter.scholastic.com/deathly_hallows/ Pronunciation Guide] on Scholastic.com</ref> However, Rowling pronounces it as "PY-us thik-NESS" (as in "''Loch '''Ness'''''").
+*Pius Thicknesse has the distinction of being the Minister for Magic with the shortest term in office, out of the Ministers featured in the books: 274 days (9 months and 1 day). {{PM}}, however, established that [[Basil Flack]] was in office for only two months in [[1752]] before resigning due to a mismanaged [[18th century goblin rebellion|goblin rebellion]].
+*In {{LEGO|Y2}}, Thicknesse does not appear in the main storyline at any point, but is an unlockable character. Somewhat inaccurately, Thicknesse is depicted as a [[Dark Wizard]], with the ability to cast the [[Unforgivable Curses]] and manipulate [[curse]]d objects. His character can be found wandering around [[Knockturn Alley]].<ref name="LEGOY2"/>
+
+==Appearances==
+{{Imagecat|Images of Pius Thicknesse}}
+*{{DH}} {{1st}}
+*{{DH|F1}}
+*{{DH|G1}} {{Mention}}
+*{{DH|F2}}
+*{{LEGO|Y2}}
+*{{PM}} {{Mention}}
+*{{WW}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=[[Amelia Bones]]
+|position=Head of the [[Department of Magical Law Enforcement]]
+|years=Summer, [[1996]]—[[1 August]], [[1997]]
+|successor=[[Corban Yaxley]]
+}}
+{{Succession box
+|predecessor=[[Rufus Scrimgeour]]
+|position=[[Minister for Magic]] (''de jure'')
+[[Tom Riddle]] (''de facto'')
+|years=[[1 August]], [[1997]]—[[2 May]], [[1998]]
+|successor=[[Kingsley Shacklebolt]]
+}}
+{{End box}}
+
+{{Minister for Magic}}
+{{Ministry Level 2 employees}}
+{{Death Eaters}}
+
+{{DEFAULTSORT:Thickness, Pius}}
+
+[[de:Pius Thicnesse]]
+[[es:Pius Thicknesse]]
+[[fr:Pius Thicknesse]]
+[[fi:Pius Sakia]]
+[[pl:Pius Thicknesse]]
+[[pt-br:Pio Thicknesse]]
+[[ru:Пий Толстоватый]]
+[[Category:Battle of Hogwarts participants|Thicknesse, Pius]]
+[[Category:British Ministers for Magic|Thicknesse, Pius]]
+[[Category:Death Eater allies]]
+[[Category:Heads of the Department of Magical Law Enforcement]]
+[[Category:Imperius Curse victims|Thicknesse, Pius]]
+[[Category:Males|Thicknesse, Pius]]
+[[Category:Wizards]]

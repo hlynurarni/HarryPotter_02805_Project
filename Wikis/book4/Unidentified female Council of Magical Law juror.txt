@@ -1,0 +1,50 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Female Council of Magical Law juror
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="GOF30"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="GOF30"/>
+|gender = Female<ref name="GOF30"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Member of the [[Council of Magical Law]]<ref name="GOF30"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="GOF30"/>
+**[[Council of Magical Law]]<ref name="GOF30"/>
+}}
+{{Quote|We'd just like to congratulate Mr Bagman on his splendid performance for England in the Quidditch match against Turkey last Saturday.|This witch's intervention after [[Ludovic Bagman|Ludo Bagman]]'s trial in [[1981]]|Harry Potter and the Goblet of Fire}}
+This '''individual''' was a [[Great Britain|British]] [[wizardkind|witch]] and a juror for the [[Council of Magical Law]] in the [[1980s]].<ref name="GOF30"/>
+
+==Biography==
+She was present at [[Ludovic Bagman]]'s hearing when he was caught passing information to [[Augustus Rookwood]], who he believed was on the Ministry's side. The witch voted against conviction, as did the rest of the jury, and stood up to congratulate Bagman on his performance playing [[Quidditch]] for [[English National Quidditch team|England]].<ref name="GOF30">{{GOF|B|30}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}} {{Flashback}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 10 employees}}
+
+[[pt-br:Jurada do Conselho das Leis da Magia não identificada]]
+[[Category:British individuals]]
+[[Category:Council of Magical Law members]]
+[[Category:Females]]
+[[Category:Unidentified individuals]]
+[[Category:Wizards]]

@@ -1,0 +1,68 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = gringotts
+|image = Gringotts Head Goblin.jpg
+|name = 
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS5"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Goblin]]<ref name="PS5"/>
+|gender = Male<ref name="PS5"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Head Goblin of [[Gringotts Wizarding Bank]]<ref name="PS5"/>
+|house = 
+|loyalty = [[Gringotts Wizarding Bank]]<ref name="PS5"/>
+}}
+{{Dialogue a-b-a-b-a-b|Hagrid|Morning. We’ve come ter take some money outta Mr Harry Potter’s safe.|Head Goblin|You have his [[Gringotts vault key|key]], sir?|Got it here somewhere... Got it.|That seems to be in order.|An’ I’ve also got a letter here from [[Albus Dumbledore|Professor Dumbledore]]. It’s about the [[Philosopher's Stone|You-Know-What]] in [[Vault 713|vault seven hundred and thirteen]].|Very well, I will have someone take you down to both vaults. [[Griphook]]!|[[Rubeus Hagrid]] talking with the goblin in Gringotts|Harry Potter and the Philosopher's Stone}}
+This '''unidentified goblin''' worked in the capacity of Head [[Goblin]] of [[Gringotts Wizarding Bank]] in the early [[1990s]].<ref name="PS5"/>
+
+==Biography==
+[[File:HeadGoblin Gringotts.jpg|140px|thumb|right|The Head Goblin at Gringotts]]
+On [[31 July]], [[1991]], this goblin summoned [[Griphook]] to aid [[Harry Potter]] and [[Rubeus Hagrid]] in performing their withdrawals in Gringotts.<ref name="PS5">{{PS|B|5}}</ref>
+
+==Behind the scenes==
+*It is unknown if he was still employed at Gringotts, because he was not seen among the other Goblins when Harry and his friends broke into the bank on [[1 May]], [[1998]].<ref name="DH26">{{DH|B|26}}</ref>
+*The Head Goblin was portrayed by [[Warwick Davis]], who also portrayed [[Professor]] [[Filius Flitwick]]. Davis went on to play [[Griphook]] in the [[Harry Potter and the Deathly Hallows (film)|film adaptation]] of {{DH}}.
+*This goblin's role in the story is replaced by [[Griphook]] in most [[Harry Potter and the Philosopher's Stone (video game)|video game adaptations]].
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{PS|F}}
+*{{HPV|CR}} {{Mention}}
+
+==Notes and references==
+{{Reflist}}
+
+{{Start box}}
+{{Succession box
+|predecessor=Unknown, eventually [[Gringott]]
+|position=Head Goblin of [[Gringotts Wizarding Bank]]
+|years=c. [[1991]]
+|successor=Unknown
+}}
+{{End box}}
+{{Gringotts}}
+
+[[es:Jefe duende de Gringotts]]
+[[fr:Guichetier de Gringotts (1991)]]
+[[ru:Управляющий банком Гринготтс]]
+[[Category:Bankers]]
+[[Category:British individuals]]
+[[Category:Gringotts employees]]
+[[Category:Males]]
+[[Category:Unidentified Goblins]]

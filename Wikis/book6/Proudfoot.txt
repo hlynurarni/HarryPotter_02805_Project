@@ -1,0 +1,57 @@
+{{Youmay|the Auror|Madam [[Puddifoot]], or [[Harry Potter]]'s godfather, nicknamed [[Sirius Black|Padfoot]]}}
+{{Individual infobox
+|theme = mom
+|image = 
+|name = Proudfoot
+|born = before [[1976]]
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP8"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP8"/>
+|gender = 
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = *[[Paloma Proudfoot]] (possibly)
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = [[Auror]]<ref name="HBP8"/>
+|house = 
+|loyalty = *[[British Ministry of Magic]]<ref name="HBP8"/>
+**[[Department of Magical Law Enforcement]]<ref name="HBP8"/>
+***[[Auror Office]]<ref name="HBP8"/>
+}}
+{{Dialogue a-b-a|Nymphadora Tonks|I'm stationed in Hogsmeade now, to give the school extra protection.|Harry Potter|Is it just you who's stationed up here, or —?|No, Proudfoot, Savage, and Dawlish are here too.|[[Nymphadora Tonks]] and [[Harry Potter]] on [[1 September]], [[1996]].|Harry Potter and the Half-Blood Prince}}
+'''Proudfoot''' was a [[Great Britain|British]] [[wizardkind|witch or wizard]] who worked for the [[Auror Office]] who was stationed in [[Hogsmeade]] along with [[Nymphadora Tonks]], [[John Dawlish]], and [[Savage]] to help heighten security at [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] during the [[1996–1997 school year]].<ref name="HBP8">{{HBP|B|8}}</ref>
+
+==Etymology==
+The name Proudfoot could possibly come from the Hobbit family of the same name in J.R.R. Tolkien's ''The Lord of the Rings''. It is also very close to [[Sirius Black]]'s nickname "Padfoot".
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+{{Ministry Level 2 employees}}
+
+[[de:Proudfoot]]
+[[es:Proudfoot]]
+[[fr:Fiertalon]]
+[[pl:Proudfoot]]
+[[pt-br:Proudfoot]]
+[[ru:Праудфут]]
+[[zh:普劳特]]
+[[Category:Auror Office personnel]]
+[[Category:Aurors]]
+[[Category:British individuals]]
+[[Category:Individuals of unknown or undetermined gender]]
+[[Category:Wizards]]

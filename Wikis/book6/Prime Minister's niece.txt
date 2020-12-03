@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Prime Minister's niece
+|born = Pre-[[1990]]
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="HBP1"/>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="HBP1"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="HBP1"/>
+|gender = Female<ref name="HBP1"/>
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = [[British Prime Minister in 1996|Prime Minister]] (uncle)<ref name="HBP1"/>
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}
+The '''niece''' of [[Great Britain]]'s [[British Prime Minister in 1996|Muggle Prime Minister]] was delighted when he gave her a pet [[gerbil]] as a gift. What her uncle hadn't told her, however, was that the gerbil had originally been a teacup, which then-[[Minister for Magic]] [[Cornelius Fudge]] had [[Teacup to gerbil spell|transformed]] to prove that he was a [[Wizardkind|wizard]] during their first meeting.<ref name="HBP1">{{HBP|B|1}}</ref>
+
+==Appearances==
+*{{HBP}} {{1st Mention}}
+
+==Notes and references==
+{{Reflist}}
+[[es:Sobrina del Primer Ministro]]
+[[fr:Nièce du Premier Ministre]]
+[[pl:Siostrzenica Premiera]]
+[[ru:Племянница премьер-министра маглов]]
+[[Category:20th century births]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Unidentified Muggles‎]]
+[[Category:Unnamed family members]]

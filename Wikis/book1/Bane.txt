@@ -1,0 +1,90 @@
+{{Individual infobox
+|theme = centaur
+|image = [[File:08.jpg|250px]]
+|name = Bane
+|born = 
+|died = 
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Centaur]]<ref name="PS15"/>
+|gender = Male<ref name="PS15"/>
+|height = 
+|weight = 
+|hair = Black<ref name="desc">{{PS|B|15}} - "A movement in the trees behind Ronan made Hagrid raise his bow again, but it was only a second centaur, black-haired and -bodied and wilder-looking than Ronan."</ref>
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Forbidden Forest Centaur colony]]<ref name="PS15"/>
+*[[Hogwarts School of Witchcraft and Wizardry]]<ref name="DH36"/>
+}}
+{{Quote|Firenze! What are you doing? You have a human on your back! Have you no shame? Are you a common mule?|Bane's hostility towards [[human]]s|Harry Potter and the Philosopher's Stone}}
+'''Bane''' was a [[centaur]] living as part of the [[Forbidden Forest Centaur colony]].<ref name="PS15"/>
+
+==Biography==
+===1992===
+{{Quote|For the best! What is that to do with us? Centaurs are concerned with what has been foretold! It is not our business to run around like donkeys after stray humans in our forest!|Bane's anger at Firenze for helping Harry Potter|Harry Potter and the Philosopher's Stone}}
+Late in May of [[1992]], Bane and [[Firenze]] foretold [[Harry Potter]]'s future by reading the stars; “Remember, Firenze, we are sworn not to set ourselves against the heavens. Have you not read what is to come in the movement of the planets?”. He also chastised [[Firenze]], questioning if he was a common mule as he carried Harry Potter on his back.<ref name="PS15">{{PS|B|15}}</ref>
+
+===1995-1996 School Year===
+{{Dialogue a-b|Dolores Umbridge|By the laws laid down by the [[Department for the Regulation and Control of Magical Creatures]], any attack by half-breeds such as yourselves on a human —|Bane|What did you call us?|Bane to [[Dolores Umbridge]]|Harry Potter and the Order of the Phoenix}}
+[[File:Centaurs Take Dolores OotP.png|200px|thumb|left]]
+Bane was included in the centaur mobs that forced Harry, [[Hermione Granger]] and [[Rubeus Hagrid]] out of the [[Forbidden Forest]] after they visited [[Grawp]].<ref name="OOTP30">{{OOTP|B|30}}</ref> he was also present when the [[Skirmish in the Forbidden Forest|centaurs attacked Dolores Umbridge]], after [[Dolores Umbridge|Umbridge]] called them "filthy [[half-breed]]s". He shouted at Umbridge's insults at them and shot an arrow above her head as a mocking threat, then lifted her from behind and helped drag her off into the midst of the forest.<ref name="OOTP33">{{OOTP|B|33}}</ref>
+
+===Battle of Hogwarts===
+{{Quote|The centaurs Bane, Ronan and Magorian burst into the Hall with a great clatter of hooves, as behind Harry the door that led to the kitchens was blasted off its hinges.|Bane and the other Centaurs finally joining the battle in the [[Great Hall]]|Harry Potter and the Deathly Hallows}}
+[[image:Bane2.jpg|thumb|right|Bane]]
+During the [[Battle of Hogwarts]], Bane and the other centaurs did not join the battle. When it looked like Harry had sacrificed himself, Hagrid called him a coward. This shamed him and the other centaurs so much that they decided to join the battle, breaking through the Death Eater ranks into the Hall.<ref name="DH36">{{DH|B|36}}</ref>
+
+In [[2020]], Bane spoke with Harry Potter in the Forbidden Forest while Harry and others are searching for his lost son [[Albus Potter|Albus]]. According to Bane, after the Battle of Hogwarts, the land they were currently trespassing on was deemed centaur land. Bane warned Harry that he has seen a black cloud over his son, foreboding a threat that could endanger them all.<ref name="CC">{{CC|B|2|5}}</ref>
+
+==Physical description==
+Bane was physically described as being ''black haired and black bodied'' and ''wild looking'', with a black beard.<ref name="desc"/>
+
+==Magical abilities and skills==
+{{Quote|Remember, Firenze, we are sworn not to set ourselves against the heavens. Have we not read what is to come in the movements of the planets?|Bane's attitude towards Divination|Harry Potter and the Philosopher's Stone}}
+*'''[[Divination]]''': Like many centaurs, Bane possessed the ability to read the stars, planets, and other celestial bodies in order to predict the future.<ref name="PS15"/>
+*'''Archery''': Bane was seen to be very skilled at aiming his arrow at Dolores Umbridge so that it simply "grazed her mousy brown hair" to frighten her after she claimed that the Forest belonged to the [[British Ministry of Magic|Ministry of Magic]].<ref name="OOTP33"/>
+
+==Etymology==
+*A "bane" is something that (1) is a constant source of unhappiness or worry; (2) can cause injury or death or (3) a poison. The word comes from the old English bana.
+
+==Behind the scenes==
+*The centaur Bane is voiced and portrayed by the British actor [[Jason Piper]] in {{OOTP|FA}}.
+*In {{OOTP|FA}}, Bane was never addressed by name, but there was only one of the Centaurs who had a black coat.
+*In the book, Bane solely carried Umbridge off into the forest during the [[Skirmish in the Forbidden Forest]], but in the film she was carried off by two Centaurs, neither of which seemed to be Bane.
+*The book {{HPV|CR}} incorrectly claims that Bane was the one who told Harry Potter about the properties of unicorn blood, although it was Firenze in both the book and film.
+
+==Appearances==
+*{{PS}} {{1st}}
+*{{OOTP}}
+*{{OOTP|F}} {{C|Not by name}}
+*{{DH}}
+*{{CC}}
+*{{CC|P}}
+*{{LEGO|Y2}} {{C|Appears as a generic [[Centaur]]}}
+*{{HPV|CR}} {{Comment|Appears in concept artwork}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Bane]]
+[[fr:Bane]]
+[[it:Bane]]
+[[ru:Бэйн]]
+[[pl:Zakała]]
+[[pt-br:Bane]]
+[[Category:Battle of Hogwarts participants]]
+[[Category:British individuals]]
+[[Category:Centaurs]]
+[[Category:Forbidden Forest]]
+[[Category:Males]]

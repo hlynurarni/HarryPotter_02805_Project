@@ -1,0 +1,46 @@
+{{Conjecture}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Riddles' maid
+|born = Before [[1943]]<ref>She worked for the Riddles before their [[death]]s, which occurred in [[1943]], and hence she was born before then.</ref>
+|died = 
+|blood = [[Non-magic people|Muggle]]
+|marital = 
+|nationality = [[Great Britain|British]]
+|alias = 
+|title = Maid
+|signature = 
+|species = [[Human]]
+|gender = Female
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Maid for the [[Riddle family]] (formerly)
+|house = 
+|loyalty = [[Riddle family]]
+}}
+{{Quote|Lying there with their eyes wide open! Cold as ice! Still in their dinner things!|The maid, rousing the [[Little Hangleton]] villagers after she found the three [[Riddle family|Riddles]] dead|Harry Potter and the Goblet of Fire}}
+The '''Riddles' maid''' (fl. [[1943]]) was a [[Non-magic people|Muggle]] woman who worked in the [[Riddle House]].<ref name="GOF1">{{GOF|B|1}}</ref>
+
+==Biography==
+This woman was born sometime before [[1943]], presumably in [[Great Britain]]. She likely lived in the village of [[Little Hangleton]] in the north of [[England]], and at some point in her later years found work cleaning the [[Riddle House]].At daybreak on a fine day in the summer of [[1943]], she arrived at the Riddle House expecting to begin work as usual. Instead, she found her masters dead in the drawing-room, with a look of terror on their faces and still wearing their dinner clothes from the night before. The maid fled the place screaming in terror all the way down to the village, rousing all the villagers she saw in her way.<ref name="GOF1">{{GOF|B|1}}</ref> [[Albus Dumbledore]] later explained the Riddles' deaths to [[Harry Potter]] in [[1997]].<ref name="HBP17">{{HBP|B|17}}</ref>
+
+==Appearances==
+*{{GOF}} {{1st}}
+*{{GOF|G}} {{Mention}}
+*{{HBP}} {{Mention}}
+==Notes and references==
+{{Reflist}}[[fr:Servante des Jedusor]]
+[[Category:British individuals]]
+[[Category:Females]]
+[[Category:Riddle House employees|Maid]]
+[[Category:Unidentified Muggles‎]]

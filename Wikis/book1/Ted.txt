@@ -1,0 +1,49 @@
+{{Youmay|the Muggle newsreader|[[Ted (disambiguation)|another person with the same name]]}}
+{{Individual infobox
+|theme = muggle
+|image = 
+|name = Ted
+|born = 
+|died = 
+|blood = [[Non-magic people|Muggle]]<ref name="PS1">{{PS|B|1}}</ref>
+|marital = 
+|nationality = [[Great Britain|British]]<ref name="PS1" />
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="PS1" />
+|gender = Male<ref name="PS1" />
+|height = 
+|weight = 
+|hair = 
+|eyes = 
+|skin = 
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = Newsreader<ref name="PS1" />
+|house = 
+|loyalty = 
+}}
+{{Quote|Most mysterious. And now, over to Jim McGuffin with the weather. Going to be any more showers of owls tonight, Jim?''"<br />"''Well, Ted, I don’t know about that, but it’s not only the owls that have been acting oddly today. Viewers as far apart as [[Kent]], [[Yorkshire]], and [[Dundee]] have been phoning in to tell me that instead of the rain I promised yesterday, they’ve had a downpour of shooting stars! Perhaps people have been celebrating [[Bonfire Night]] early — it’s not until next week, folks! But I can promise a wet night tonight.|Ted and [[Jim McGuffin]]|Harry Potter and the Philosopher's Stone}}
+'''Ted''' was a [[Non-magic people|Muggle]] television newsreader in [[1981]], working alongside [[Jim McGuffin]]. Following the downfall of [[Tom Riddle|Lord Voldemort]], he reported on the unusual amount of [[owl]] activity during the day as messages were passed throughout the [[Wizarding world]], while being unaware that the activity was a result of the [[Fall of Lord Voldemort celebrations|celebrations of Lord Voldemort's apparent demise]].<ref name="PS1" />
+
+==Appearances==
+*{{PS}} {{1st}}
+
+==Notes and references==
+{{Reflist}}
+[[de:Ted (Nachrichtensprecher)]]
+[[es:Ted]]
+[[fr:Ted]]
+[[pl:Ted]]
+[[pt-br:Eduardo]]
+[[ru:Тед]]
+[[Category:British individuals]]
+[[Category:Journalists]]
+[[Category:Males]]
+[[Category:Muggles]]
+[[Category:Television]]

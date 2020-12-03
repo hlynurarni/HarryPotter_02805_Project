@@ -1,0 +1,68 @@
+{{Individual infobox
+|theme = portrait
+|image = [[File:Circe.jpg|250px]]
+|name = Circe
+|born = Ancient [[Greece]]<ref name="FWC"/>
+|died = 
+|blood = 
+|marital = 
+|nationality = [[Greece|Greek]]<ref name="FWC"/>
+|alias = 
+|title = 
+|signature = 
+|species = [[Human]]<ref name="FWC"/>
+|gender = Female<ref name="FWC"/>
+|height = 
+|weight = 
+|hair = Black<ref name="FWC"/>
+|eyes = Brown<ref name="FWC"/>
+|skin = Tanned<ref name="FWC"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = 
+}}'''Circe''' was a [[Wizardkind|witch]] who lived in ancient [[Greece]], on the island of [[Aeaea]]. She enjoyed [[Cross-Species Transfiguration|transfiguring]] lost sailors into [[Human to pig spell|animals]].<ref name="FWC">[http://www.hplex.info/wizards/card_wizards.html "Famous Wizard Cards"] on The Harry Potter Lexicon</ref>
+
+==Biography==
+Circe was featured on a [[Chocolate Frog Card]]. [[Harry Potter]] obtained this card from a [[Chocolate Frog]] on his first [[Hogwarts Express|trip]] to [[Hogwarts School of Witchcraft and Wizardry|Hogwarts]] in [[1991]].<ref name="PS6">{{PS|B|6}}</ref> There was a portrait of Circe at [[Hogwarts Castle]]. It guarded a secret shortcut between the fourth-floor landing of the [[Grand Staircase]] and the [[Entrance Hall]] side room. The password required to gain access to said shortcut was ''Piggywiggy''.<ref name="POAG PC">{{POA|G}} - PC version</ref>
+
+==Magical abilities and skills==
+*'''[[Transfiguration]]''': Circe was proficient in the [[human to pig spell|human to pig]] [[spell]], as she turned lost sailors into said animals. [[Human transfiguration]] is stated as the most complex one, showing she was highly talented in this very difficult branch of [[magic]].<ref name="FWC"/>
+
+==Behind the scenes==
+*Circe was a minor goddess in Greek mythology, said to transform sailors lost around her island of [[Aeaea]] into animals via the use of enchanted food. She is perhaps most well known as a figure in Homer's ''Odyssey'', where the hero Odysseus spent a year on her island after freeing his shipmates from her spells.
+*Because of her appearance in said Greek texts, Circe is considered by scholars to be the first traditional witch to appear in literature.
+
+==Appearances==
+*{{PS}} {{1st Mention}}
+*{{PS|G}} {{FWC}}
+*{{COS|G}} {{FWC}}
+*{{POA|G}} {{Portrait}}
+*{{PM}} {{FWC}}
+
+==Notes and references==
+{{Reflist}}
+{{Hogwarts ground floor}}
+{{Transfiguration}}
+{{Chocolate Frog Cards}}
+[[es:Circe]]
+[[fi:Kirke]]
+[[fr:Circé]]
+[[it:Circe]]
+[[pl:Kirke]]
+[[ru:Цирцея]]
+[[de:Circe]]
+[[de2:Circe]]
+[[Category:B.C. era births]]
+[[Category:Brown-eyed individuals]]
+[[Category:Females]]
+[[Category:Greek individuals]]
+[[Category:Historical figures]]
+[[Category:Portraits]]
+[[Category:Silver Chocolate Frog Cards]]
+[[Category:Wizards]]

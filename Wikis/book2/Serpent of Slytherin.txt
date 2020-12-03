@@ -1,0 +1,208 @@
+{{WizardsUniteSpoiler}}
+{{Individual infobox
+|theme = pet
+|image = [[File:Basilisk2.PNG|250px]]
+|name = Serpent of Slytherin
+|born = c. [[First millennium A.D.|993]]<br />
+[[Chamber of Secrets]]
+|died = [[29 May]], [[1993]] (aged around 1000)<br />
+[[Chamber of Secrets]]<ref name="CS17"/>
+|blood = 
+|marital = 
+|nationality = 
+|alias = 
+|title = 
+|signature = 
+|species = [[Basilisk]]<ref name="CS17"/>
+|gender = Female<ref name="FBR">{{FB|R}} -- male basilisks have a scarlet plume upon their head.</ref>
+|height = 
+|weight = 
+|hair = 
+|eyes = Yellow<ref name="CS17"/>
+|skin = Poisonous green<ref name="CS17"/>
+|family = 
+|romances = 
+|animagus = 
+|boggart = 
+|wand = 
+|patronus = 
+|job = 
+|house = 
+|loyalty = *[[Salazar Slytherin]]<ref name="COS9"/>
+*[[Tom Riddle]]<ref name="CS17"/>
+*[[House of Gaunt]]<ref name="Gaunt">{{WW|chamber-of-secrets}}</ref>
+}}
+{{Dialogue a-b|Hermione Granger|Sir — what exactly do you mean by the ‘horror within’ the Chamber?|Professor Binns|That is believed to be some sort of monster, which the Heir of Slytherin alone can control.|[[Professor]] [[Cuthbert Binns]] describing the "horror" within the [[Chamber of Secrets]]|Harry Potter and the Chamber of Secrets}}
+The '''Serpent of Slytherin'''<ref name="CS17"/> was a female<ref name="FBR"/> [[Basilisk]] that was placed by [[Salazar Slytherin]] as the only resident of the [[Chamber of Secrets]] at [[Hogwarts School of Witchcraft and Wizardry]]. The Basilisk could only be controlled by the Heir of Slytherin, [[Tom Riddle]]. That meant that despite her being a giant [[snake]], other [[Parseltongue|Parselmouths]] (such as Harry Potter) had no control over her, though they still could understand her.<ref name="CS17"/> [[Aragog]] (a rare [[Acromantula]]) was accused of being the monster of the chamber by Tom Riddle which sent Hagrid to [[Azkaban]];<ref name="COS15"/> his name was later cleared and he was allowed back in Hogwarts.<ref name="COS18"/>
+
+==Biography==
+===Birth and early years===
+{{Quote|The thing that lives in the castle, is an ancient creature we spiders fear above all others.|[[Aragog]] about the Basilisk|Harry Potter and the Chamber of Secrets}}Salazar Slytherin's Basilisk was born in the Chamber of Secrets, as revealed by [[Aragog]].<ref name="COS15">{{COS|B|15}}</ref> Slytherin, in his spite of his fellow [[Hogwarts founders]]' acceptance of [[Muggle-born]]s into the school, left a Basilisk deep in the Chamber, in the hope that one day, his true heir would unleash her to purge all those he deemed were unworthy to study [[magic]] at Hogwarts.<ref name="COS9"/>
+
+===First opening of the Chamber of Secrets===
+{{Quote|But I know one thing — last time the Chamber of Secrets was opened, a Mudblood died.|Draco Malfoy regarding the first opening|Harry Potter and the Chamber of Secrets}}
+[[File:Basilisk trying to eat Harry Potter.gif|220x220px|thumb|left|Slytherin's Basilisk slithering through the Chamber of Secrets]]
+In [[1943]], the Chamber of Secrets was opened by a [[Slytherin]] [[Fifth year]], named Tom Riddle, who was able to control the Basilisk through his status as the [[Tom Riddle|Heir of Slytherin]]. Riddle unleashed the Basilisk on the school, with his goal of ridding the school of all of its Muggle-borns. All the victims were merely [[Petrification|Petrified]], except for a student named [[Myrtle Warren|Myrtle]], who was killed in the [[Moaning Myrtle's Bathroom|Girls' Bathroom]] on the [[Hogwarts Castle#Second Floor|Second Floor]]. A sink in that bathroom concealed the Entrance to the Chamber of Secrets. Those events were nearly the cause for the permanent closing of Hogwarts.<ref name="COS13"/>
+
+To avoid that undesirable consequence for Hogwarts, which was the closest thing that he had to a home, Riddle framed [[Gryffindor]] [[Third year]], [[Rubeus Hagrid]] for all the events, and claimed that Hagrid's pet [[Acromantula]], Aragog, was responsible for the attacks. Hagrid was expelled, and the attacks stopped. However, [[Transfiguration (class)|Transfiguration]] [[Professor]], [[Albus Dumbledore]] became suspicious of Riddle, kept a very close watch over him during his remaining years at Hogwarts, and thus prevented him from any further terror at the school, since Riddle feared discovery. Dumbledore also convinced [[Armando Dippet]], who was the [[Headmaster]] at that time, to allow Hagrid to stay at Hogwarts as [[Keeper of Keys and Grounds|Gamekeeper]].<ref name="COS13">{{COS|B|13}}</ref>
+
+However, Riddle, who did not want his five years of hard work in finding out about the Chamber to go waste, left behind a [[T. M. Riddle's Diary|Diary]], which he had purchased that same year, and contained a portion of his own [[Soul]], in the hope that one day, it would allow him to, through possession of an unwitting host, reopen the Chamber and reawaken the Basilisk.<ref name="CS17"/>
+
+===Second opening of the Chamber of Secrets===
+{{Quote|The Chamber of Secrets has been opened. Enemies of the heir... beware|The Writing on the Wall|Harry Potter and the Chamber of Secrets }}[[File:CHAMBERsterces.PNG|241x241px|thumb|left|The Writing on the Wall, an indication that the Chamber of Secrets had been opened once again]]
+
+Fifty years after Riddle's original attack on Hogwarts, the Basilisk was re-awakened by a shade of Riddle that was generated by a [[Horcrux]] that he had housed in his old diary. That shade possessed [[Ginevra Weasley|Ginny Weasley]] after [[Lucius Malfoy]] had slipped the diary into her cauldron during a confrontation at [[Flourish and Blotts]], as part of his plan to discredit her father, [[Arthur Weasley]].<ref name="COS4">{{COS|B|4}}</ref><ref name="COS18">{{COS|B|18}}</ref>
+
+However, although Riddle/Ginny had killed all of the Hogwarts [[Wild rooster|roosters]] to prevent them from being used against the Basilisk,<ref name="COS11">{{COS|B|11}}</ref> no [[death]]s occurred (Riddle implied that this was because of his obsession with exacting revenge on Harry Potter overrode even his desire to carry out his role in purging all of the [[Muggle-born]]s). The Basilisk managed only to petrify a few [[Muggle-born]] students and [[Argus Filch]]'s cat, [[Mrs Norris]],<ref name="COS9">{{COS|B|9}}</ref> since all of the victims only saw the snake's gaze indirectly, either through a reflection or through something, such as a camera (with [[Colin Creevey]])<ref name="COS10">{{COS|B|10}}</ref>. [[Nicholas de Mimsy-Porpington|Nearly Headless Nick]], a [[Ghost]], received the full force of the Basilisk's gaze, but as he was already dead, he was merely put into a Petrified-like state.<ref name="COS11">{{COS|B|11}}</ref> Using his own ability as a Parselmouth, Harry was able to hear the Basilisk,<ref name="COS7">{{COS|B|7}}</ref> and attempted to find her.
+
+[[File:Petrified.jpg|250x250px|thumb|Hermione and the other Petrified victims in the Hospital Wing]]
+
+Later in their search, [[Hermione Granger]] discovered the truth about the monster when reading a [[Magizoology]] book titled ''[[Most Macabre Monstrosities]] ''in the [[Hogwarts Library]]. She took to using  [[Penelope Clearwater's mirror |a mirror]] to peer around corners, so she wouldn't accidentally come face to face with it. This precaution saved her life when she did indeed became one of the Basilisk's victims.<ref name="COS14">{{COS|B|14}}</ref><ref name="COS16"/>
+
+When visiting her in the [[Hospital Wing]], [[Harry Potter|Harry]] and [[Ronald Weasley|Ron]] read a piece of torn page from the book, and learned that the monster was indeed a Basilisk. Hermione had written "pipes" on the fragment, leading the boys to the conclusion that it can been using the plumbing to navigate around the [[Hogwarts castle|castle]].<ref name="COS16">{{COS|B|16}}</ref> Harry and Ron (accompanied by a reluctant [[Gilderoy Lockhart]]), entered the Chamber of Secrets, where Ginny was held by Riddle.<ref name="COS16">{{COS|B|16}}</ref> After he was separated from Ron and the self-[[Memory Charm|Obliviated]] Lockhart, Harry entered the Chamber, where he encountered the soul of Riddle, who explained to him he was really Voldemort. When Riddle then commanded his Basilisk to kill Harry, a battle commenced between Harry and the Basilisk.<ref name="CS17">{{COS|B|17}}</ref>
+
+====Battle with Harry Potter and death====
+{{Main|Skirmish in the Chamber of Secrets}}
+{{Quote|Speak to me, Slytherin, greatest of the Hogwarts four!|Riddle's fragmented soul summoning the serpent|Harry Potter and the Chamber of Secrets}}
+[[File:Fawkes blinding Basilisk.gif|220x220px|thumb|left|Fawkes blinding Slytherin's Basilisk]]
+After the conversation between Harry and Riddle, the latter sent a basilisk onto him. During the escape from the Slytherin's Serpent, Dumbledore's [[Phoenix]], [[Fawkes]], came to the rescue. He was able to blind the Basilisk, which allowed Harry to fight her without the fear of being killed instantly by her gaze.<ref name="CS17"/>
+
+[[File:COS piercing through Serpent of Slytherin.gif|245x245px|thumb|Harry killing Slytherin's Basilisk with Godric Gyffindor's Sword in the Chamber of Secrets]]
+
+After a period of hiding, Harry obtained [[Sword of Gryffindor|Godric Gryffindor's Sword]] from the [[Sorting Hat]], which had been brought to him by Fawkes. Harry lured her to the top of the [[Statue of Slytherin]], where he slashed at the evil beast fiercely. The Basilisk lunged at him, and knocked Harry over, but just as she lunged again to kill him, Harry grabbed the [[Sword]] and stabbed the Basilisk through the roof of her mouth, and mortally wounded her. Unfortunately, one of her fangs pierced Harry in his sword arm as a result of the struggle, and splintered off as the Basilisk pulled away and flailed around in agony before she ultimately lost her ability to live and her massive weight finally brought her crashing down to the floor. Harry yanked the fang out, but knew it was too late: he had been wounded with her [[Basilisk venom|venom]], and he felt the [[poison]] spreading. Harry was only saved by Fawkes' [[Phoenix tears|Tears]], and subsequently used the fang (on which his arm had been impaled) to destroy Riddle's Diary, which he later discovered was one of Voldemort's Seven [[Horcrux]]es.<ref name="CS17"/>
+
+===Post-mortem===
+[[File:Basilisk_skeleton.jpg|251x251px|thumb|left|The Basilisk's Skeleton]]
+
+By [[1998]], the Basilisk's corpse was fully decomposed, which left just a skeleton. Another one of the Basilisk's Fangs was used once again by Hermione to destroy another Horcrux, [[Hufflepuff's Cup|Helga Hufflepuff's Cup]]. The first fang's venom, which was absorbed by the Sword that slew it due to its taking in only that which made it stronger, allowed it to destroy [[Salazar Slytherin's Locket]]. While the Sword slew [[Nagini]], due to her being a living creature, it is unknown whether or not any Sword would have done the job.<ref name="DH31">{{DH|B|31}}</ref>
+
+==Personality and traits==
+{{Quote|KILL THE BOY! LEAVE THE BIRD! THE BOY IS BEHIND YOU. SNIFF — SMELL HIM.|Riddle's fragmented soul on the serpent's bloodlust|Harry Potter and the Chamber of Secrets}}[[File:Slytherin's_basilisk.jpg|249x249px|thumb|The Basilisk lunging at Harry in the Chamber of Secrets]]
+
+The Basilisk was an extremely powerful and dangerous [[beast]]. A horrifying monster with dark green scales, that creature was a violent and bloodthirsty beast of titanic size, and had deep yellow eyes. She possessed incredible strength and durability (she survived smashing her head against thick stone) and was resistant to a majority of [[spell]]s.<ref name="CS17"/>
+
+Direct contact with her gaze resulted in death, while an indirect look (or, in [[Nicholas de Mimsy-Porpington|Nearly-Headless Nick]]'s case, getting a direct look and being a [[ghost]]) only resulted in Petrification, similar to the [[Gorgon]]'s stare.<ref name="COS16"/> In addition, her fangs were so [[Basilisk venom|venomous]] that she could kill any living creatures that she pierced within minutes, and were capable of destroying Horcruxes; the venom's potency remained even after five years of her death. Even when blinded (which took away her deadly gaze) she could still sense her prey through smell and sound, and proved to be extremely dangerous, if not more so, despite her disadvantage.<ref name="CS17"/>
+
+The Basilisk could breathe while submerged underwater, squeeze through the piping network of the school to go about undetected, and, by entering a deep sleep, ceased to age as long as she remained asleep.<ref name="COS16"/>
+[[File:Basilisk and Tom Riddle.jpg|220x220px|thumb|left|Basilisk listening to Tom Riddle in the Chamber of Secrets]]
+The Basilisk only listened to the Heir of Slytherin, Tom Riddle (Voldemort) regardless of Harry being able to understand and speak Parseltongue to her in the Chamber of Secrets. It was possible that the Basilisk was trained, [[Charm|enchanted]] or persuaded to obey only the Heir of Slytherin and not all Parselmouths.<ref name="CS17"/>
+
+The Basilisk's personality was not particularly complicated. She was extremely bloodthirsty and sadistic, judging by the things she said while Harry listened to her attacking her victims. She was blindly and unshakably devoted to the Heir of Slytherin, for aforementioned reasons. She had nerves of steel, and ferociously continued her goals no matter how many obstacles that she encountered - including being blinded by a phoenix, at which point it resorted to using smell rather than sight.<ref name="CS17"/>
+
+==Known victims of the Basilisk==
+{{Quote|Come... Come to me... let me rip you... let me tear you...|The Basilisk calling to its victims (Parseltongue, only heard by Harry)|Harry Potter and the Chamber of Secrets}}The following list shows all known Basilisk victims both Killed, Petrified, and otherwise harmed by the monster:
+
+===Killed===
+The only known direct victim of the Serpent is [[Myrtle Warren]], a Ravenclaw Muggle-born student killed by Basilisk's look on June 13th, 1943, when Tom Riddle opened the Chamber of Secrets and summoned the monster. Warren was crying in one of the bathroom's cealings when Riddle summoned the Basilisk, and when she showed up in order to tell him to go away, as they were in the girls' bathroom, the Basilisk stared at her and killed her. She eventually came back as a ghost and ended up haunting the bathroom where she died.<ref name="COS13"/><ref name="COS16"/> Due to her habit of frequently crying, students nicknamed her Moaning Myrtle.<ref name="COS8">{{COS|B|8}}</ref>
+<gallery widths="90" orientation="portrait" spacing="small" position="left">
+Myrtle Warren profile.png
+</gallery>
+
+====Postmortem====
+Fangs and venom destroyed two pieces of Tom Riddle's Soul: Tom Riddle's Diary in [[1993]],<ref name="CS17"/> and Helga Hufflepuff's Cup in 1998.<ref name="DH31"/>
+
+====Indirectly====
+Godric Gryffindor's Sword, which was imbibed with the Basilisk's venom,<ref name="CS17"/> destroyed Salazar Slytherin's Locket and [[Marvolo Gaunt's Ring]], both of which also contained a piece of Riddle's Soul.<ref name="HBP23">{{HBP|B|23}}</ref> The Sword also slew the snake [[Nagini]],<ref name="DH36">{{DH|B|36}}</ref> though the venom may not have been necessary to release the soul, due to the instability of Living Horcruxes.
+
+===Petrified===
+<gallery widths="90" orientation="portrait" spacing="small" position="left">
+MrsNorrisOotP.JPG|[[Mrs Norris]]<ref name="COS9"/>
+46074-25820.gif|[[Colin Creevey]]<ref name="COS10"/>
+Justin Finch-Fletchley (McGonagall's Class) (1).png|[[Justin Finch-Fletchley]]<ref name="COS11"/>
+Nicholas de Mimsy-Porpington.png|[[Nicholas de Mimsy-Porpington|Nearly Headless Nick]]<ref name="COS11"/>
+COS promo Hermione cropped.jpg|[[Hermione Granger]]<ref name="COS14"/>
+Pepe4.jpg|[[Penelope Clearwater]]<ref name="COS14">{{COS|B|14}}</ref>
+</gallery>
+
+====1943====
+The Basilisk attacked several students in [[1943]] and petrified them.
+
+====1992-1994====
+After the 1992 opening of the Chamber of Secrets, the Basilisk attacked five students and Argus Filch's cat, Mrs Norris, but all of them indirectly saw its eyes and were petrified.<ref name="COS16"/> They eventually survived with no permanent injuries.<ref name="COS18"/>
+*[[Mrs Norris]] (saw her reflection in a puddle of [[water]] on the floor).<ref name="COS16"/>
+*[[Colin Creevey]] (saw her through the lens of his camera).<ref name="COS16"/>
+*[[Justin Finch-Fletchley]] (saw her through Nearly Headless Nick).<ref name="COS16"/>
+*[[Nicholas de Mimsy-Porpington|Nearly Headless Nick]] (made direct eye contact, but was a Ghost, and could not die again).<ref name="COS16"/>
+*[[Hermione Granger]] (saw it in Penelope's mirror).<ref name="COS16"/>
+*[[Penelope Clearwater]] (saw it in her mirror).<ref name="COS16"/>
+
+===Injuries===
+<gallery widths="90" orientation="portrait" spacing="small" position="left">
+COS promo Harry Potter Hogwarts uniform cropped.jpg|[[Harry Potter]]
+</gallery>
+*Harry Potter (her fang went into Harry's arm, who would have died if not healed by Fawkes' [[Phoenix tears|tears]]).<ref name="CS17"/>
+
+==Behind the scenes==
+[[File:Basilisk LEGO.jpg|215px|thumb|The Basilisk in {{LEGO}} form]]
+*At no point in the series was it explained how the Basilisk sustained herself. While Acromantulas feared her, they never described the serpent preying on them, and despite her bloodthirsty nature, the Basilisk never fed on any of her victims. That was especially noteworthy, because on the night she attacked Mrs Norris, she said "''So hungry for so long''".
+[[File:Male_Basilisk.png|thumb|The Basilisk as shown in {{LEGO|Y1}}]]
+*In {{LEGO|Y1}}, Harry did not get pierced by the Basilisk's Fang and instead pulled it out of the dead Basilisk's mouth. Also, the Basilisk noticed Harry when Ginny screamed at one of his disembodied eyes. A third difference was that the Basilisk had a scarlet plume on its head, and thus its gender was male. Additionally, Ginny helped Harry during the battle as opposed to unconscious the whole time.<ref name="LEGOY1">{{LEGO|Y1}}</ref>
+*Ironically, the Basilisk that Voldemort had plotted to use to purge Hogwarts of Muggle-borns and Harry was used against him by having her venom destroy most of his Horcruxes, which led to his [[Voldemort's Last Stand|Final Downfall and Death]]. Even more ironic, Voldemort's Horcruxes that were not destroyed by the Basilisk's venom were each destroyed by [[Vincent Crabbe]] and by Voldemort himself.
+[[File:Basilisk_PM_B2C17M2_BasiliskBeingFoughtByFawkesAndHarry_Moment.jpg|thumb|The Serpent as depicted on {{PM}}]]
+*Penelope Clearwater was the only victim of the 1992–1993 school year incident who was not a victim of Slytherin's Basilisk in {{COS|FA}}. Still, there was a mirror next to Hermione's bed, but it was never mentioned that Penelope was with Hermione. Furthermore, in the film, [[Cornelius Fudge]] claimed that three Muggle-borns were attacked instead of four like in the book.
+**The Production Crew created lifelike mannequins of the cast members whose characters were petrified on set.
+[[File:Mouth.png|400px|thumb|The mouth of the basilisk (left, year 7; right, year 2)]]
+*In {{DH|F2}}, when Ron and Hermione entered the Chamber of Secrets, the skeleton of the Basilisk was still there, but appeared to be in a different spot than where Harry had killed her five years ago. However, it's common for decaying bodies to experience changes as they decompose, such as their bones parting or closing together because of the forces breaking down the body. A contributing factor may have been the rats in the Chamber of Secrets, which may have fed on the defeated serpent some time after her death. Also, in the film, the fang was used to destroy an additional Horcrux, [[Rowena Ravenclaw's Diadem]].
+*There is a discrepancy in the description of the size of the Basilisk between the novel and film versions, with the snake being implicitly described as being much larger in the latter. At the end of chapter 16 of the novel, when Harry, Ron and Lockhart find the snakeskin in the novel, the narration states that ''“the creature that had shed it must have been twenty feet long at least.”'' In the corresponding scene in the film, Ron states ''“whatever shed this must be 60 feet long. Or more”''.
+[[File:Screenshot 1175.png|151x151px|thumb|Boss portrait in {{COS|G}} (PS2 version)]]
+[[File:Basilisk_Pop.jpg|thumb|The Serpent of Slytherin as a [[POP! Vinyl]]]]
+*In recalling his father reading the first two [[Harry Potter (book series)|''Harry Potter'' Books]] to him, [[Daniel Radcliffe]] stated that his father had a great voice for the Basilisk. He suggested his father to Director [[Chris Columbus]], and his father was mortified.<ref name="conversation">{{DH|F2}}, Blu-ray bonus - ''A Conversation with J.K. Rowling and Daniel Radcliffe''</ref>
+*Various medias have shown both the male and female depictions of the species for Slytherin's Basilisk. In the books, it seemed to be female: when Harry first saw it, he described it as "vivid, poisonous green" but made no mention of a red crown, which implied that either it had one and he simply didn't see it, or that the Basilisk was female. That was further supported by {{PM}}, which depicted the snake with a distinct lack of a crown, red or otherwise. Though the voice Harry "hears" in the film sounds male, the basilisk in the film likewise seems to lack a distinctive crown on its head.
+[[File:Screenshot_438.png|thumb|[[Harry Potter and the Chamber of Secrets (GBC)]]]]
+*In the video game adaptations of ''Chamber of Secrets'', the Basilisk tended to be depicted in colours. In the [[Harry Potter and the Chamber of Secrets (PC, Mac)|PC version]] (as well as the Game Boy Color one), she was not green, but purple, and attacked by spraying a purple stream of venom which Harry dodged. After failing to kill Harry from the mouth of Slytherin's Statue, the Basilisk popped up from the grating in the floor to try and bite or spray Harry. When she was killed, the Basilisk simply fell on Riddle's Diary, and presumably buried her fangs into the book and destroyed it. In the GBC version however, Harry instead used the Sword of Gryffindor itself to destroy the diary.
+**Also, in the console versions, the Basilisk was grey. To defeat her, Harry must fire a beam of light at the Basilisk's mouth/head when her weak-point was exposed in order to zap her (in the PS2 version, it was a black diamond-shape on her neck, while in the [[Harry Potter and the Chamber of Secrets (PlayStation 2, Xbox, GameCube)|Xbox and Gamecube versions]], it was her throat). Damaging it properly just once caused Harry to drop the Sword as it flung away to certain parts of the arena, and Harry rushed back up to it, picked it up again, and rinsed and repeated.
+**In the [[Harry Potter and the Chamber of Secrets (GBA)|Game Boy Advance version]], Harry only cast Spells at the Basilisk and the Sword was not mentioned at all.
+**In the [[Harry Potter and the Chamber of Secrets (PlayStation)|PlayStation version]], the Basilisk was coloured blue, while she must be defeated in two phases akin to the PC version; Harry first cast Spells into her mouth, then in the second phase, used the Sword to direct venomous-laser beams that were fired from her fangs back at the said fangs.
+*A giant snake that was used as a boss battle in ''{{wplink|LEGO Indiana Jones: The Original Adventures}}'' used the same model as the Serpent of Slytherin from the {{LEGO}} sets (though not the more detailed model used in {{LEGO|Y1}}).
+*The Basilisk's Death was the only known death in the series that occurred in 1993 (unless one counted the destruction of the Diary Horcrux as a death, in which case there were two deaths).
+*As [[Salazar Slytherin's wand]] was made of [[Basilisk horn]], it was possible that said horn came from that Basilisk.
+*It was possible that the fact that Salazar Slytherin's Monster was a Basilisk was not made public even after its death, given [[Newton Scamander|Newt Scamander]]'s 2017 Edition of {{FB}} still mentioned that there were no Basilisk sightings in [[Great Britain]] for centuries. It is also possible that [[Magizoologist]]s disregarded this Basilisk's existence for having been artificially created by [[Salazar Slytherin]], rather than a wild specimen who intentionally migrated to Britain.
+*Jason Isaacs, who portrayed Lucius Malfoy in the film, supplied the "voice" of the Basilisk during its off-screen appearances, although he was uncredited.
+
+==Appearances==
+*{{COS}} {{1st}}
+*{{COS|F}}
+*{{COS|G}}
+*{{POA}} {{Mention}}
+*{{GOF}} {{Mention}}
+*{{OOTP}} {{Mention}}
+*{{OOTP|F}} {{Mention}}
+*{{OOTP|G}} {{Mention}}
+*{{HBP}} {{Mention}}
+*{{DH}} {{Mention}}
+*{{DH|F1}} {{Mention}}
+*{{DH|G1}} {{Mention}}
+*{{DH|F2}} {{C|Appears as a corpse}}
+*{{LEGO|C}}
+*{{LEGO|Y1}}
+*{{LEGO|Y2}} {{C|Appears as a corpse}}
+*{{LEGO|C2}}
+*{{LEGO}}
+*{{TCG}}
+*{{PM}}
+*{{WW}}
+*{{HPK}}
+*{{HPV|CR}}
+*{{WU}}
+
+==Notes and references==
+{{Reflist}}
+{{Death Eaters}}
+
+[[pl:Bazyliszek Salazara Slytherina]]
+
+[[it:Basilisco di Salazar Serpeverde]]
+[[ru:Василиск Салазара Слизерина]]
+[[pt-br:Serpente de Salazar Sonserina]]
+[[Category:1993 deaths]]
+[[Category:Articles related to Horcruxes]]
+[[Category:Basilisks]]
+[[Category:Death Eater allies]]
+[[Category:Deaths by stabbing]]
+[[Category:Females]]
+[[Category:Killed by Harry Potter]]
+[[Category:Parselmouths]]
+[[Category:Plot to open the Chamber of Secrets participants]]
+[[Category:Salazar Slytherin's possessions]]
+[[Category:Tom Riddle's possessions]]
+[[Category:Yellow-eyed individuals]]
