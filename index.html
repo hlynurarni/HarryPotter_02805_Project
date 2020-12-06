@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Harry Potter &mdash;</title>
+    <title>Harry Potter &mdash; Social Graphs and Interactions</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     
@@ -54,7 +54,7 @@
         <div class="row align-items-center">
           
           <div class="col-6 col-md-3 col-xl-4  d-block">
-            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">imagine<span class="text-primary">.</span> </a></h1>
+            <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">Harry Potter<span class="text-primary">.</span> </a></h1>
           </div>
 
           <div class="col-12 col-md-9 col-xl-8 main-menu">
@@ -62,24 +62,32 @@
 
               <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block ml-0 pl-0">
                 <li><a href="#home-section" class="nav-link">Home</a></li>
-                <li><a href="#features-section" class="nav-link">Features</a></li>
+                <li><a href="#project-section" class="nav-link">The Project</a></li>
+                <li><a href="#datasets-section" class="nav-link">Datasets</a></li>
                 <li class="has-children">
-                  <a href="#about-section" class="nav-link">About Us</a>
+                  <a href="#about-section" class="nav-link">Analysis</a>
                   <ul class="dropdown arrow-top">
-                    <li><a href="#" target="_blank" class="nav-link"><span class="text-primary">More Free Templates</span></a></li>
-                    <li><a href="#our-team-section" class="nav-link">Our Team</a></li>
+                    
+                      
                     <li class="has-children">
-                      <a href="#">More Links</a>
+                      <a href="#book-analysis">Book analysis</a>
                       <ul class="dropdown">
-                        <li><a href="#">Menu One</a></li>
-                        <li><a href="#">Menu Two</a></li>
-                        <li><a href="#">Menu Three</a></li>
+                        <li><a href="#book-analysis">Basic analysis</a></li>
+                        <li><a href="#book-analysis-lexical">Lexical dispersion analysis</a></li>
+                        <li><a href="#book-analysis-tf">Term frequency (TF) analysis</a></li>
+                        <li><a href="#book-analysis-tfidf">Term frequency - Inverse document frequency (TF-IDF) analysis</a></li>
+                        <li><a href="#book-analysis-word-categories">Word category analysis</a></li>  
+                        <li><a href="#book-analysis-sentiment">Sentiment analysis</a></li>  
+                          
+                          
+                          
                       </ul>
                     </li>
+                      
                   </ul>
                 </li>
-                <li><a href="#testimonials-section" class="nav-link">Testimonials</a></li>
-                <li><a href="#blog-section" class="nav-link">Blog</a></li>
+                <li><a href="#our-team-section" class="nav-link">Our Team</a></li>
+
               </ul>
             </nav>
           </div>
@@ -119,77 +127,68 @@
     </div>  
 
 
-    <div class="site-section" id="features-section">
+    <div class="site-section" id="project-section">
       <div class="container">
         <div class="row mb-5 justify-content-center text-center"  data-aos="fade-up">
           <div class="col-7 text-center  mb-5">
             <h2 class="section-title">Project Parts</h2>
-            <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga quos quaerat sapiente nam, id vero.</p>
+            <p class="lead">The project is split up into a few different parts.</p>
           </div>
         </div>
         <div class="row align-items-stretch">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
             
+              <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up"  data-aos-delay="200">
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-autorenew"></span></span>
+                <span class="icon-wrap"><span class="text-primary icon-database"></span></span>
               </div>
               <div>
-                <h3>Marketing Consulting</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
+                <h3>Datasets</h3>
+                <p>In order to do these analysis we needed access to relevant data. The books, movie scripts, wiki pages and sentiment scores where downloaded from the web.</p>
+                <p><a href="#datasets-section">Learn More</a></p>
               </div>
             </div>
-
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
-
-            <div class="unit-4 d-block">
-              <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-store_mall_directory"></span></span>
-              </div>
-              <div>
-                <h3>Market Analysis</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up"  data-aos-delay="200">
-            <div class="unit-4 d-block">
-              <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-shopping_basket"></span></span>
-              </div>
-              <div>
-                <h3>Easy Purchase</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                <p><a href="#">Learn More</a></p>
-              </div>
-            </div>
-          </div>
-
-
+          </div>        
+            
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up">
+         
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-settings_backup_restore"></span></span>
+                <span class="icon-wrap"><span class="text-primary icon-book"></span></span>
               </div>
               <div>
-                <h3>Free Updates</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <h3>Books</h3>
+                <p>Analysis of original seven Harry Potter books. What are the differences in word usage between the books? How is the sentiment evolving over time?</p>
+                <p><a href="#book-analysis">Learn More</a></p>
+              </div>
+            </div>
+
+          </div>
+            
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="unit-4 d-block">
+              <div class="unit-4-icon mb-3">
+                <span class="icon-wrap"><span class="text-primary icon-movie_creation"></span></span>
+              </div>
+              <div>
+                <h3>Movie Scripts</h3>
+                <p>Analysis of the eight Harry Potter movie scripts will shed light on the differences between the films. Which characters are most sentimental?</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
           </div>
 
+
+
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="100">
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-sentiment_satisfied"></span></span>
+                <span class="icon-wrap"><span class="text-primary icon-wikipedia-w"></span></span>
               </div>
               <div>
-                <h3>100% Satistified</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <h3>Wiki fandom</h3>
+                <p>The fandom contains a lot of information about the characters and how they connect with each other. How can this information be used to build a network?</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
@@ -200,15 +199,29 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="200">
             <div class="unit-4 d-block">
               <div class="unit-4-icon mb-3">
-                <span class="icon-wrap"><span class="text-primary icon-power"></span></span>
+                <span class="icon-wrap"><span class="text-primary icon-connectdevelop"></span></span>
               </div>
               <div>
-                <h3>Easy Plugin</h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
+                <h3>Networks</h3>
+                <p>How do the different generated networks look? Are there differences between the fandom and script networks?.</p>
                 <p><a href="#">Learn More</a></p>
               </div>
             </div>
           </div>
+            
+          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4" data-aos="fade-up" data-aos-delay="200">
+            <div class="unit-4 d-block">
+              <div class="unit-4-icon mb-3">
+                <span class="icon-wrap"><span class="text-primary icon-magic"></span></span>
+              </div>
+              <div>
+                <h3>More magic</h3>
+                <p>Interested in seeing even more magic?<br><br><br><br></p>
+                <p><a href="#">Learn More</a></p>
+              </div>
+            </div>
+          </div>            
+            
 
         </div>
       </div>
@@ -216,8 +229,8 @@
 
       
       
-<!-- TESTIMONIALS BEGIN -->
-    <div class="site-section testimonial-wrap bg-light" id="testimonials-section">
+<!-- DATASETS BEGIN -->
+    <div class="site-section testimonial-wrap bg-light" id="datasets-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
@@ -226,69 +239,55 @@
         </div>
       </div>
       <div class="slide-one-item home-slider owl-carousel">
+         
+          <!-- books -->
           <div>
             <div class="testimonial">
-              <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_3.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
-              </figure>
-              <blockquote class="mb-3">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-              </blockquote>
-              <p class="text-black"><strong>John Smith</strong></p>
+              <div class="mb-4 d-block align-items-center justify-content-center">
+                <div><h3>Harry Potter Books</h3></div>
+              </div>
+                
+                <p>The dataset consits of text files for the Harry Potter books. Some of the files from Glozman were corrupted, so another source for some of the files was found on Github. </p>
+                <br>
+                <p class="text-black"><strong>Collected from Glozman and Github</strong></p>
+                <p><a href="http://www.glozman.com/textpages.html" target="_blank" class="btn btn-primary">Glozman Source</a>
+                <a href="https://github.com/formcept/whiteboard/tree/master/nbviewer/notebooks/data/harrypotter" target="_blank" class="btn btn-primary">Github Source</a></p>
 
-              
             </div>
           </div>
+          
+    <!-- Scripts -->
           <div>
             <div class="testimonial">
-              
-              <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_2.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
-              </figure>
-
-              <blockquote class="mb-3">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-              </blockquote>
-              
-              <p class="text-black"><strong>Robert Aguilar</strong></p>
-              
-              
+              <div class="mb-4 d-block align-items-center justify-content-center">
+                <div><h3>Harry Potter Scripts</h3></div>
+              </div>
+                <p>The dataset consits of movie scripts for the Harry Potter movies. </p>
+                <br>
+                <p class="text-black"><strong>Collected from ************</strong></p>
+                <p><a href="http://www.glozman.com/textpages.html" target="_blank" class="btn btn-primary">****** Source</a>
+                </p>
             </div>
           </div>
 
+          <!-- WIKI -->
           <div>
             <div class="testimonial">
-              <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_1.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
-              </figure>
-              <blockquote class="mb-3">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-              </blockquote>
-              <p class="text-black"><strong>Roger Spears</strong></p>
-
-              
+              <div class="mb-4 d-block align-items-center justify-content-center">
+                <div><h3>Harry Potter wikipages</h3></div>
+              </div>
+                <p>The dataset consits of the wikipages for the Harry Potter characters as generated from the fandom. The character page for each character was generated and saved. The original information can be found on the Harry Potter fandom.</p>
+                <br>
+                <p class="text-black"><strong>Collected from Harry Potter fandom</strong></p>
+                <p><a href="https://harrypotter.fandom.com/wiki/Main_Page" target="_blank" class="btn btn-primary">Wiki Source</a>
+                </p>
             </div>
-           
           </div>
-
-          <div>
-            <div class="testimonial">
-              <figure class="mb-4 d-block align-items-center justify-content-center">
-                <div><img src="images/person_1.jpg" alt="Image" class="w-100 img-fluid mb-3 shadow"></div>
-              </figure>
-              <blockquote class="mb-3">
-                <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
-              </blockquote>
-              <p class="text-black"><strong>Kyle McDonald</strong></p>
-
-              
-            </div>
-
-          </div>
+          <!-- Add more here -->
 
         </div>
     </div>
-<!-- TESTIMONIALS END -->      
+<!-- Dataset END -->      
       
       
       
@@ -298,15 +297,15 @@
       <div class="container">
 
 <!-- BOOK - BASIC -->
-        <div class="mt-5 row mb-0 site-section ">
+        <div class="mt-5 row mb-0 site-section " id="book-analysis">
           <div class="col-lg-8 order-1 order-lg-2 mx-auto" data-aos="fade-left" >
             <img src="images/books/books_basic_stats.png" alt="Image" class="img-fluid">
 
           </div>
-          <div class="col-lg-4 pr-lg-5 mr-auto mt-5 order-2 order-lg-1">
+          <div class="col-lg-4 pr-lg-5 mr-auto mt-0 order-2 order-lg-1">
             <h2 class="text-black">Book analysis</h2>
             <p class="mb-1">From the books dataset, each textfile was cleaned by using tokenization, lemmitization and all stopwords were removed. After that the text is referred to as <b>clean</b>. The main information about each book was then extracted, namely:</p>
-            <ul class="ul-check mb-5 list-unstyled success">
+            <ul class="ul-check mb-0 list-unstyled success">
               <li>Number of chapters</li>
               <li>Average chapter length</li>
               <li>Total length</li>
@@ -317,12 +316,12 @@
           </div>
         </div>
 <!-- BOOK - BASIC text-->
-          <div class="mt-0 row mb-5 site-section ">
+          <div class="mt-0 row mb-0 site-section ">
             <div class="col-lg-12 pr-lg-12 mr-auto mt-12 order-1 order-lg-1">
                 <p class="mb-0">
                 
                 From the above bar plot some interesting things can be seen:</p>
-                <ol class="mb-5">
+                <ol class="mb-0">
                     <li>
                         <b>Order of the Phoenix</b> is the book with the highest number of chapters and the longest chapters on average. Therefore it is not surprising that it also has the longest total text and the highest word count after the text cleanup. It is also the book with the highest number of unique word. However, when the unique word ratio count is examined, the <b>Order of the Phoenix</b> is actually the book with the lowest number. This means that the vocabulary of the book is actually the least diverse of all the books. So the extra length is a result of words that are used in other places of the book.
                     </li>
@@ -341,7 +340,7 @@
           
 <!-- BOOK - Continued-->
         <div class="row mb-12 site-section">
-          <h2 class="text-black">Lexical dispersion analysis</h2>
+          <h2 class="text-black" id="book-analysis-lexical">Lexical dispersion analysis</h2>
             <p>One interesting analysis that can be performed on text is a <b>Lexical dispersion</b> analysis. This analysis will visually display where in the list of all words a specified term is used. Since our dataset includes seven books it would be interesting to see where in the series certain terms appear and if some information can be extracted from the visualization. The analysis will be done on the cleaned text, so that the similar terms of the same word, all group under a single version of the term.</p>
           <div class="col-lg-12" data-aos="fade-right">
             <img src="images/books/books_lexical_disp.png" alt="Image" class="img-fluid">
@@ -359,7 +358,7 @@
             </ul>
             
             
-            <h2 class="text-black">Term frequency (TF) analysis</h2>
+            <h2 class="text-black" id="book-analysis-tf">Term frequency (TF) analysis</h2>
             <p>The next analysis that will be interesting to perform on the books dataset is a term frequency analysis. Here the idea is to extract which terms are most common in each book and in the books overall.</p>
             <div class="col-lg-12" data-aos="fade-left">
                 <img src="images/books/books_tf.png" alt="Image" class="img-fluid">
@@ -382,10 +381,9 @@
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/books/books_wordcloud_all2.png" alt="Image" class="img-fluid">
             </div>            
+                        
             
-            
-            
-            <h2 class="text-black">Term frequency - Inverse document frequency (TF-IDF) analysis</h2>
+            <h2 class="text-black" id="book-analysis-tfidf">Term frequency - Inverse document frequency (TF-IDF) analysis</h2>
             <p>.....</p>
             <div class="col-lg-12" data-aos="fade-left">
                 <img src="images/books/books_wordclouds_each.png" alt="Image" class="img-fluid">
@@ -410,7 +408,95 @@
             </ul>
             
 
-            <h2 class="text-black">Sentiment analysis</h2>
+            <h2 class="text-black" id="book-analysis-word-categories">Word category analysis</h2>
+            <p>The words of a text can be categorised into different types or categories, such as nouns and adjectives. Each author has a different style and the writing style might even change over time. Therefore it might be interesting to see the distribution between the usage of different word categories for each book, and explore if these change over time.
+            </p>
+            <p>
+            In order to do so the pos_tag function from the NLTK package can be used. It categorizes the words and marks them with a word category code:</p>
+   
+
+                 <table class="table table-striped text-center">
+                  <thead>
+                    <tr>
+                      <th scope="col">Code</th>
+                      <th scope="col">Word Category</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">NN</th>
+                      <td>Noun singular</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">JJ</th>
+                      <td>Adjective</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">VBD</th>
+                      <td>Verb past tense</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">RB</th>
+                      <td>Adverb</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">VBG</th>
+                      <td>verb present participle</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">IN</th>
+                      <td>preposition</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">VBN</th>
+                      <td>verb past participle</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">VB</th>
+                      <td>verb base</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">VBP</th>
+                      <td>verb present tense</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">MD</th>
+                      <td>modal</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">NNS</th>
+                      <td>noun plural</td>
+                    </tr>
+                    
+                    <tr>
+                      <th scope="row">CD</th>
+                      <td>cardinal numbers</td>
+                    </tr>
+                    
+                  </tbody>
+                </table>
+
+            <p>The analysis will be done on the previously cleaned text, just to simply the comparison a bit. The first analysis done will be a comparison between the word type usage of the different books. That way it should become clear if one book uses more of any one type of word category, or if the usage is uniform between all the books.
+            </p>
+            <div class="col-lg-12 text-center mb-4" data-aos="fade-left">
+                <img src="images/books/books_wordtypes1.png" alt="Image" class="img-fluid">
+            </div>
+            <p>From the above figure we can see that all of the books follow a similar pattern. The most common word category is a singular noun (NN) followed by adjectives (JJ) and verbs in past tense (VBD). Then there are adverbs (RB), verbs in present participle (VBG) followed by the rest of the word categories in smaller frequencies.</p>
+            <p>Another thing that could perhaps shine a light on the differences between the books is how unique in usage each of the word types are for the books. By plotting the distinct count of word for each word category and dividing by the total number of words in the category, the ratios can be compared between the books.</p>
+              <div class="col-lg-12 text-center mb-4" data-aos="fade-left">
+                <img src="images/books/books_wordtypes2.png" alt="Image" class="img-fluid">
+            </div>          
+            <p>From the above figure it can be seen that again the books follow a pretty similar pattern, but here there are more distinctions from the previous figure.</p>
+            <p>
+            <b>The Order of the Phoenix</b> clearly has the lowest ratio for verbs in present participle (VBG). This could be since this is the longest books, so it can be expected that each unique word is used relatively more frequently. Another interesting thing is that the <b> Half Blood Prince </b> Has by far the highest ratio of plural nouns (NNS). So it seems that the plural form is used more in that book compared to the others. However, it is important to note that the words have already been through a lemmitization process, where the inflected forms of a word are groupped together so that they can be analysed as a single item. Therefore these results might not correlate directly with the original word usage in the books.
+            </p>
+            
+            
+            
+            
+            <h2 class="text-black" id="book-analysis-sentiment">Sentiment analysis</h2>
             <p>In this section a sentiment analysis will be performed the Harry Potter books. First the average sentiment over each book will explored and later on the average sentiment of each chapter will be explored. </p>
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/books/books_sentiment1.png" alt="Image" class="img-fluid">
@@ -432,71 +518,91 @@
             <p>An interesting thing to do would be to investigate what is happening in the chapter whenever there is a dramatic drop:</p>
             <ol>
                 <li>
-                    <b>Prisoner of Azkaban - chapter 17 - Cat, Rat and Dog</b><br>
-    This chapter is a slight showdown between some of the characters in the book. Here accusations are flying over who killed whom and therefore that chapter contains words that have a lower sentimental score. This quote is a small sample of a dialog in the chapter which contains words with low sentimental value:
-            <div class="author-box col-lg-6" data-aos="fade-right">
-              <blockquote><b>Sirius Black: </b>&ldquo;Going to kill me, Harry?&rdquo;</blockquote>
-                <blockquote><b>Harry Potter: </b>&ldquo;You killed my parents.&rdquo;</blockquote>
-                <blockquote><b>Sirius Black: </b>&ldquo;I don't deny it... But if you knew the whole story.&rdquo;</blockquote>
-            </div>
-                    
+                    <b>Prisoner of Azkaban - chapter 17 - Cat, Rat and Dog</b><br>This chapter is a slight showdown between some of the characters in the book. Here accusations are flying over who killed whom and therefore that chapter contains words that have a lower sentimental score. This quote is a small sample of a dialog in the chapter which contains words with low sentimental value:
+                    <div class="author-box col-lg-6" data-aos="fade-right">
+                      <blockquote><b>Sirius Black: </b>&ldquo;Going to kill me, Harry?&rdquo;</blockquote>
+                        <blockquote><b>Harry Potter: </b>&ldquo;You killed my parents.&rdquo;</blockquote>
+                        <blockquote><b>Sirius Black: </b>&ldquo;I don't deny it... But if you knew the whole story.&rdquo;</blockquote>
+                    </div><br>
+                </li>
+                <li>
+                    <b>Goblet of Fire - chapter 32 - Flesh, Blood and Bone</b><br>This chapter includes the murder of Cedric Diggory, which Harry witnesses. So it's not surprising that the sentiment value of the chapter is the lowest of those in this book.
+                    <div class="author-box col-lg-6" data-aos="fade-left">
+                      <blockquote><b>Voldemoret to Wormtail: </b>&ldquo;Kill the spare.&rdquo;</blockquote>
+
+                    </div><br>
+                </li>
+                <li>
+                    <b>Order of the Phoenix - chapter 35 - Beyond the Veil</b><br>This chapter has the lowest sentiment value of the chapters up to this point in the series. In this chapter the group is fighting a great battle and are nearly defeated. In the battle Sirius Black is blasted with a spell and dies.<br><br>
+                </li>
+                <li>
+                    <b>Half Blood Prince - chapter 28 - Flight of the Prince</b><br>This chapter has the lowest sentiment value of all the chapters in the series. This his however not surprising as in this chapter immediatly following the death of Albus Dumbledore, one of the series most beloved characters. He was killed by Severus Snape, which enraged Harry to pursue Snape through battle in the halls of the school and out onto the grounds, where he attempts to curse Snape.<br>
                 </li>
             </ol>
             
-        </div>
-          
-          
-          
-          
-
-        <div class="mt-5 row mb-5 site-section ">
-          <div class="col-lg-7 order-1 order-lg-2" data-aos="fade-left">
-            <img src="images/undraw_metrics_gtu7.svg" alt="Image" class="img-fluid">
-          </div>
-          <div class="col-lg-5 pr-lg-5 mr-auto mt-5 order-2 order-lg-1">
-            <h2 class="text-black">Communicate and gather feedback</h2>
-            <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem neque nisi architecto autem molestias corrupti officia veniam</p>
             
-            
-
-            <div class="author-box" data-aos="fade-right">
-              <div class="d-flex mb-4">
-                <div class="mr-3">
-                  <img src="images/person_1.jpg" alt="Image" class="img-fluid rounded-circle">
-                </div>
-                <div class="mr-auto text-black">
-                  <strong class="font-weight-bold mb-0">Kimberly Gush</strong> <br>
-                  Co-Founder, XYZ Inc.
-                </div>
-              </div>
-              <blockquote>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus vitae ipsa asperiores inventore aperiam iure?&rdquo;</blockquote>
+            <p>Lastly it can be interesting to compute the moving average of the sentiment using a 5 chapter window. That way the path should become slightly smoother and the trends become more visible. </p>
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/books/books_sentiment3.png" alt="Image" class="img-fluid">
             </div>
-          </div>
-        </div>
+            <p>The figure above highlights clearly that there is a downwards trend in sentiment at the end of each book. Generally the books begin with a higher sentiment, fluctuate a little over the chapters and then drop towards the end. The last book clearly has the most general downwards trend of all the books, and also has the lowest average sentiment score.</p>
+            
+            
+            
+        </div> <!-- books end-->
+          
+          
+       
+        
+
+<!--SCRIPTS -->
+<!-- BOOK - Continued-->
+        <div class="row mb-12 site-section">
+          <h2 class="text-black">Scripts - Analysis 1</h2>
+           
+     
+        </div> <!-- scripts end-->
+          
+          
+       
+            
+<!--Scripts end-->
+
+ 
+          
+
+
+
+
+          
+          
+          
+          
+
+<!-- END OF ALL ANALYSIS-->
       </div>
     </div>
 
 <!-- ABOUT US -->
-    <div class="site-section bg-light" id="about-section">
+    <div class="site-section bg-light" id="more-section">
       <div class="container">
         <div class="row mb-5">
           <div class="col-12 text-center">
-            <h2 class="section-title mb-3">About Us</h2>
+            <h2 class="section-title mb-3">What to learn more?</h2>
           </div>
         </div>
         <div class="row mb-5">
-          <div class="col-lg-6" data-aos="fade-right">
-            <img src="images/undraw_bookmarks_r6up.svg" alt="Image" class="img-fluid">
+          <div class="col-lg-6" data-aos="fade-right" style="transform: rotatey(180deg);">
+            <img src="images/hiclipart.com2.png" alt="Image" class="img-fluid">
           </div>
           <div class="col-lg-5 ml-auto pl-lg-5">
-            <h2 class="text-black mb-4 h3 font-weight-bold">Our Mission</h2>
-            <p class="mb-4">Eos cumque optio dolores excepturi rerum temporibus magni recusandae eveniet, totam omnis consectetur maxime quibusdam expedita dolorem dolor nobis dicta labore quaerat esse magnam unde, aperiam delectus! At maiores, itaque.</p>
-            <ul class="ul-check mb-5 list-unstyled success">
-              <li>Laborum enim quasi at modi</li>
-              <li>Ad at tempore</li>
-              <li>Labore quaerat esse</li>
-            </ul>
-            <p><a href="#" class="btn btn-primary">Learn More</a></p>
+            <h2 class="text-black mb-4 h3 font-weight-bold">Project B</h2>
+            <p class="mb-4">This webpage is the final deliverable in the class Social Graphs and Interactions offered by the Technical University of Denmark. The point of the final project is for the students to try out the new skills they've learned on their own dataset.</p>
+            <p class="mb-4">More detailed information can be found in the explainer notebook the team created!</p>
+            <p><a href="https://nbviewer.jupyter.org/github/hlynurarni/Social-Data-Analysis-Final/blob/master/Explainer%20Notebook.ipynb" target="_blank" class="btn btn-primary">Explainer Notebook</a></p>              
+              
+              
+              
           </div>
         </div>
 
@@ -507,7 +613,7 @@
 <!-- OUR TEAM -->
     <div class="site-section" id="our-team-section">
       <div class="container">
-        <div class="row mb-5 justify-content-center text-center"  data-aos="fade-up">
+        <div class="row mb-1 justify-content-center text-center"  data-aos="fade-up">
           <div class="col-7 text-center  mb-5">
             <h2 class="section-title">The Team</h2>
             <p class="lead">The team consists of three enthusiastic master students at DTU.</p>
@@ -525,7 +631,7 @@
               </div>
               <h2 class="text-black h1">Hlynur</h2>
               <span class="sub-title d-block mb-3">MSc Business Analytics</span>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi accusantium repellat.</p>
+
             </div>
           </div>
 
@@ -538,7 +644,7 @@
               </div>
               <h2 class="text-black h1">Kristín</h2>
               <span class="sub-title d-block mb-3">MSc Business Analytics</span>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi accusantium repellat.</p>
+
             </div>
           </div>
           
@@ -552,7 +658,7 @@
               </div>
               <h2 class="text-black h1">Theodór</h2>
               <span class="sub-title d-block mb-3">MSc Computer Science and Engineering</span>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum excepturi corporis qui doloribus perspiciatis ipsa modi accusantium repellat.</p>
+
             </div>
           </div>
 
@@ -564,46 +670,6 @@
       </div>
     </div>
 
-    <div class="site-section" id="blog-section">
-      <div class="container">
-        <div class="row mb-5">
-          <div class="col-12 text-center">
-            <h2 class="section-title mb-3">Blog Posts</h2>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="h-entry">
-              <img src="images/img_1.jpg" alt="Image" class="img-fluid">
-              <h2><a href="#">Make Your Business More Profitable</a></h2>
-              <div class="meta mb-4">Ham Brook <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-              <p><a href="#">Continue Reading...</a></p>
-            </div> 
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="h-entry">
-              <img src="images/img_2.jpg" alt="Image" class="img-fluid">
-              <h2><a href="#">Make Your Business More Profitable</a></h2>
-              <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-              <p><a href="#">Continue Reading...</a></p>
-            </div>
-          </div>
-          <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
-            <div class="h-entry">
-              <img src="images/img_3.jpg" alt="Image" class="img-fluid">
-              <h2><a href="#">Make Your Business More Profitable</a></h2>
-              <div class="meta mb-4">James Phelps <span class="mx-2">&bullet;</span> Jan 18, 2019<span class="mx-2">&bullet;</span> <a href="#">News</a></div>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus eligendi nobis ea maiores sapiente veritatis reprehenderit suscipit quaerat rerum voluptatibus a eius.</p>
-              <p><a href="#">Continue Reading...</a></p>
-            </div> 
-          </div>
-          
-        </div>
-      </div>
-    </div>
 
     <div class="footer py-5 text-center">
       <div class="container">
