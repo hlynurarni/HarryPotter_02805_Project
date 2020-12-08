@@ -108,11 +108,39 @@
                         <li><a href="#book-analysis-tfidf">Term frequency - Inverse document frequency (TF-IDF) analysis</a></li>
                         <li><a href="#book-analysis-word-categories">Word category analysis</a></li>  
                         <li><a href="#book-analysis-sentiment">Sentiment analysis</a></li>  
-                          
-                          
-                          
                       </ul>
                     </li>
+                      
+                    <li class="has-children">
+                      <a href="#script-analysis-1">Script analysis</a>
+                      <ul class="dropdown">
+                        <li><a href="#script-analysis-1">Character analysis</a></li>
+                        <li><a href="#script-analysis-2">Sentiment analysis</a></li>
+                        <li><a href="#script-analysis-3">Term frequency analysis</a></li>
+                          <li><a href="#script-analysis-4">Networks</a></li>
+                          
+                        <li><a href="#script-analysis-sankey">Sankey circle graph</a></li>  
+                      </ul>
+                    </li>
+                      
+                      
+                      <li class="has-children">
+                      <a href="#wiki-analysis-1">Wiki analysis</a>
+                      <ul class="dropdown">
+                        <li><a href="#wiki-analysis-1">Wiki analysis 1</a></li>
+                        <li><a href="#wiki-analysis-2">Wiki analysis 2</a></li>
+                        <li><a href="#wiki-analysis-3">Wiki analysis 3</a></li>  
+                      </ul>
+                    </li>                    
+
+                      <li class="has-children">
+                      <a href="#wiki-analysis-1">Comparison analysis</a>
+                      <ul class="dropdown">
+                        <li><a href="#comparison-analysis-1">Comparison analysis 1</a></li>
+                        <li><a href="#comparison-analysis-2">Comparison analysis 2</a></li>
+                        <li><a href="#comparison-analysis-3">Comparison analysis 3</a></li>  
+                      </ul>
+                    </li>                       
                       
                   </ul>
                 </li>
@@ -204,7 +232,7 @@
               <div>
                 <h3>Movie Scripts</h3>
                 <p>Analysis of the eight Harry Potter movie scripts will shed light on the differences between the films. Which characters are most sentimental?</p>
-                <p><a href="#">Learn More</a></p>
+                <p><a href="#script-analysis-1">Learn More</a></p>
               </div>
             </div>
           </div>
@@ -219,7 +247,7 @@
               <div>
                 <h3>Wiki fandom</h3>
                 <p>The fandom contains a lot of information about the characters and how they connect with each other. How can this information be used to build a network?</p>
-                <p><a href="#">Learn More</a></p>
+                <p><a href="#wiki-analysis-1">Learn More</a></p>
               </div>
             </div>
 
@@ -232,9 +260,9 @@
                 <span class="icon-wrap"><span class="text-primary icon-connectdevelop"></span></span>
               </div>
               <div>
-                <h3>Networks</h3>
-                <p>How do the different generated networks look? Are there differences between the fandom and script networks?.</p>
-                <p><a href="#">Learn More</a></p>
+                <h3>Comparisons</h3>
+                <p>Are there differences between the books, movies and wikis? Do they generate different networks?. Are there differences in sentiment?</p>
+                <p><a href="#comparison-analysis-1">Learn More</a></p>
               </div>
             </div>
           </div>
@@ -278,7 +306,6 @@
               </div>
                 
                 <p>The dataset consits of text files for the Harry Potter books. Some of the files from Glozman were corrupted, so another source for some of the files was found on Github. </p>
-                <br>
                 <p class="text-black"><strong>Collected from Glozman and Github</strong></p>
                 <p><a href="http://www.glozman.com/textpages.html" target="_blank" class="btn btn-primary">Glozman Source</a>
                 <a href="https://github.com/formcept/whiteboard/tree/master/nbviewer/notebooks/data/harrypotter" target="_blank" class="btn btn-primary">Github Source</a></p>
@@ -292,11 +319,12 @@
               <div class="mb-4 d-block align-items-center justify-content-center">
                 <div><h3>Harry Potter Scripts</h3></div>
               </div>
-                <p>The dataset consits of movie scripts for the Harry Potter movies. </p>
-                <br>
-                <p class="text-black"><strong>Collected from ************</strong></p>
-                <p><a href="http://www.glozman.com/textpages.html" target="_blank" class="btn btn-primary">****** Source</a>
-                </p>
+                <p>The dataset consits of movie scripts for the Harry Potter movies downloaded from Github. Two sources were used as there were formatting issues with some of the files. </p>
+
+                <p class="text-black"><strong>Collected from Github</strong></p>
+                <p><a href="https://github.com/asmitakulkarni/QuoteGenerator/tree/master/harrypotterscripts" target="_blank" class="btn btn-primary">Github Source 1</a>
+                    <a href="https://github.com/formcept/whiteboard/tree/master/nbviewer/notebooks/data/harrypotter" target="_blank" class="btn btn-primary">Github Source 2</a></p>
+
             </div>
           </div>
 
@@ -306,10 +334,23 @@
               <div class="mb-4 d-block align-items-center justify-content-center">
                 <div><h3>Harry Potter wikipages</h3></div>
               </div>
-                <p>The dataset consits of the wikipages for the Harry Potter characters as generated from the fandom. The character page for each character was generated and saved. The original information can be found on the Harry Potter fandom.</p>
-                <br>
+                <p>The dataset consits of the wikipages for the Harry Potter characters as generated from an API call to the fandom. The character page for each character was generated and saved.</p>
+
                 <p class="text-black"><strong>Collected from Harry Potter fandom</strong></p>
-                <p><a href="https://harrypotter.fandom.com/wiki/Main_Page" target="_blank" class="btn btn-primary">Wiki Source</a>
+                <p><a href="https://harrypotter.fandom.com/wiki/Main_Page" target="_blank" class="btn btn-primary">Journal article</a>
+                </p>
+            </div>
+          </div>
+          <!-- sentiment -->
+          <div>
+            <div class="testimonial">
+              <div class="mb-4 d-block align-items-center justify-content-center">
+                <div><h3>Sentiment scores</h3></div>
+              </div>
+                <p>In order to be able to analyze the sentiment of different aspects of the Harry Potter universe, a dataset consisting of words along with their sentiment score, was downloaded and used.</p>
+
+                <p class="text-black"><strong>Collected from a Journal article</strong></p>
+                <p><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0026752#pone.0026752.s001" target="_blank" class="btn btn-primary">Wiki Source</a>
                 </p>
             </div>
           </div>
@@ -395,26 +436,29 @@
             </div>
             
             <p><br>
-            From the above figure it can be seen that the proportionally most frequent terms in all books are, <b>harry</b> followed by <br>said and then <b>ron</b> and <b>hermione</b>. In the clean word list for each book, close to 3 out of 100 words are <b>harry</b>. The ratio remains pretty consistent between the books, although it is highest in books 2 and 3, Chamber of Secrets and Prisoner of Azkaban.
-            This is not surprising. However the graph above highlights some interesting aspects of the books. 
+            From the above figure it can be seen that the proportionally most frequent terms in all books are, <b>harry</b> followed by <b>said</b> and then <b>ron</b> and <b>hermione</b>. In the clean word list for each book, close to 3 out of 100 words are <b>harry</b>. The ratio remains pretty consistent between the books, although it is highest in books 2 and 3, Chamber of Secrets and Prisoner of Azkaban.
+            This is not surprising.</p>
+            <p>However the graph above highlights some interesting aspects of the books. 
             It shows that <b>dumbledore</b> is most prominent in book 6, Half Blood Prince. It also shows how <b>hagrid</b> is much more prominent in the first book, than in the rest of the series. 
-            <b>wand</b> becomes much more prominent in the last book, Deathly Hallows and similarly the <b>malfoy</b> family seems to be most prominent in book 2, Chamber of Secrets. Additionally the appearence of some prominent characters are clear, with <b>black</b> and <b>lupin</b> appearing in book 3, Prisoner of Azkaban. <b>sirius</b> becomes more prominent in the Order of the Pheonix, <b>lockhart</b> in the Chamber of Secrets and <b>slughorn</b> in the Half Blood Prince.
+            <b>wand</b> becomes much more prominent in the last book, Deathly Hallows and similarly the <b>malfoy</b> family seems to be most prominent in book 2, Chamber of Secrets. Additionally the appearence of some prominent characters are clear, with <b>black</b> and <b>lupin</b> appearing in book 3, Prisoner of Azkaban. <b>sirius</b> becomes more prominent in the Order of the Pheonix, <b>lockhart</b> in the Chamber of Secrets and <b>slughorn</b> in the Half Blood Prince.</p>
 
-            It's interesting to see how much information relating to main secondary characters and themes of each books can be seen from such a relatively simple plot.
+            <p>It's interesting to see how much information relating to main secondary characters and themes of each books can be seen from such a relatively simple plot.</p>
 
-            Another interesting way to visualize and explore term frequencies are word clouds. To see what the overall words used in the Harry Potter book series are, a frequency distribution was generated using the whole cleaned text. Then a wordcloud was generated using the WordCloud plotting function.
+            <p>Another interesting way to visualize and explore term frequencies are word clouds. To see what the overall words used in the Harry Potter book series are, a frequency distribution was generated using the whole cleaned text. Then a wordcloud was generated using the WordCloud plotting function.
             </p>
             
-            <div class="col-lg-12" data-aos="fade-left">
-                <img src="images/books/books_wordcloud_all1.png" alt="Image" class="img-fluid">
-            </div>
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/books/books_wordcloud_all2.png" alt="Image" class="img-fluid">
+            </div>
+            <!--
+            <p>The wordcloud above was then modified to fit the theme of this webpage slightly better.</p>
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/books/books_wordcloud_all1.png" alt="Image" class="img-fluid">
             </div>            
-                        
+            -->            
             
             <h2 class="text-black" id="book-analysis-tfidf">Term frequency - Inverse document frequency (TF-IDF) analysis</h2>
-            <p>.....</p>
+            <p>The next analysis that will be interesting to perform on the books dataset is a term frequency - inverse document frequency analysis. Here the idea is to extract which terms are most common in each book with respect to how common they are overall. This analysis is meant to extract the terms that are most specific to each groups, such as characters or topics.</p>
             <div class="col-lg-12" data-aos="fade-left">
                 <img src="images/books/books_wordclouds_each.png" alt="Image" class="img-fluid">
             </div>
@@ -543,7 +587,7 @@
             </div>
             
             <p>
-            In the graph below the sentiment of each chapter is plotted for each chapter in the book series. Therefore it is possible to see how the sentiment develops as the series progresses. It can be seen that the sentiment fluctuates between the chapters, sometimes dropping and picking backup in the next chapter. The sentiment for the first two books, Sorcerer's Stone and Chamber of Secrets, stays rougly betwen the values of 5,35 and 5,6. Books 3 and 4, Prisoner of Azkaban and Goblet of Fire, have a greater range in sentiment value than the first two books. Book 5, Order of the Pheonix, seems to have much lower peaks of sentiment than the previous book. The range for book 6, Half Blood Prince, is very drastic and the third to last chapter has the lowest sentiment score of all the chapters in the series, almost close to 5,1. For the last book, the sentiment score fluctuates a lot between consecutive chapters, with a clear downwards slope. However there is not a single chapter there, that clearly has a much lower score, but rather there are six chapters with pretty low sentiment analysis scores.</p>
+            In the graph above the sentiment of each chapter is plotted for each chapter in the book series. Therefore it is possible to see how the sentiment develops as the series progresses. It can be seen that the sentiment fluctuates between the chapters, sometimes dropping and picking backup in the next chapter. The sentiment for the first two books, Sorcerer's Stone and Chamber of Secrets, stays rougly betwen the values of 5,35 and 5,6. Books 3 and 4, Prisoner of Azkaban and Goblet of Fire, have a greater range in sentiment value than the first two books. Book 5, Order of the Pheonix, seems to have much lower peaks of sentiment than the previous book. The range for book 6, Half Blood Prince, is very drastic and the third to last chapter has the lowest sentiment score of all the chapters in the series, almost close to 5,1. For the last book, the sentiment score fluctuates a lot between consecutive chapters, with a clear downwards slope. However there is not a single chapter there, that clearly has a much lower score, but rather there are six chapters with pretty low sentiment analysis scores.</p>
 
             <p>An interesting thing to do would be to investigate what is happening in the chapter whenever there is a dramatic drop:</p>
             <ol>
@@ -558,7 +602,7 @@
                 <li>
                     <b>Goblet of Fire - chapter 32 - Flesh, Blood and Bone</b><br>This chapter includes the murder of Cedric Diggory, which Harry witnesses. So it's not surprising that the sentiment value of the chapter is the lowest of those in this book.
                     <div class="author-box col-lg-6" data-aos="fade-left">
-                      <blockquote><b>Voldemoret to Wormtail: </b>&ldquo;Kill the spare.&rdquo;</blockquote>
+                      <blockquote><b>Voldemort to Wormtail: </b>&ldquo;Kill the spare.&rdquo;</blockquote>
 
                     </div><br>
                 </li>
@@ -586,17 +630,137 @@
         
 
 <!--SCRIPTS -->
-<!-- BOOK - Continued-->
-        <div class="row mb-12 site-section">
-          <h2 class="text-black">Scripts - Analysis 1</h2>
-           
-     
+          
+        <div class="row mb-12 site-section" id="script-analysis-1">
+          <h2 class="text-black">Character analysis</h2>
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/scripts_char1.png" alt="Image" class="img-fluid">
+            </div>
+            
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <img src="images/scripts/scripts_char2.png" alt="Image" class="img-fluid">
+            </div>            
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/scripts_char3.png" alt="Image" class="img-fluid">
+            </div>     
         </div> <!-- scripts end-->
           
           
+          
+          
+          
+          
+         <div class="row mb-12 site-section" id="script-analysis-2">
+          <h2 class="text-black">Sentiment analysis</h2>
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <img src="images/scripts/scripts_sent1.png" alt="Image" class="img-fluid">
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/scripts_sent2.png" alt="Image" class="img-fluid">
+            </div>
+             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <img src="images/scripts/scripts_sent3.png" alt="Image" class="img-fluid">
+            </div>
+             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/scripts_sent4.png" alt="Image" class="img-fluid">
+            </div>
+             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <img src="images/scripts/scripts_sent5.png" alt="Image" class="img-fluid">
+            </div>
+             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/scripts_sent6.png" alt="Image" class="img-fluid">
+            </div>
+     
+     
+     
+     
+      
+     
+        </div> <!-- scripts end-->         
        
+          
+          
+          
+          
+          
+          
+          
+          
             
-<!--Scripts end-->
+         <div class="row mb-12 site-section" id="script-analysis-3">
+          <h2 class="text-black">Term frequency analysis</h2>
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <img src="images/scripts/scripts_tf.png" alt="Image" class="img-fluid">
+            </div>
+     
+        </div> <!-- scripts end-->   
+          
+          <div class="row mb-12 site-section" id="script-analysis-4">
+          <h2 class="text-black">Networks</h2>
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/scripts_network1.png" alt="Image" class="img-fluid">
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <img src="images/scripts/scripts_network2.png" alt="Image" class="img-fluid">
+            </div>  
+              
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/scripts_network3.png" alt="Image" class="img-fluid">
+            </div>
+              
+             <h2 class="text-black">Trying different method of weighted network</h2>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <img src="images/scripts/scripts_network4.png" alt="Image" class="img-fluid">
+            </div>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/scripts_network5.png" alt="Image" class="img-fluid">
+            </div>
+              
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <img src="images/scripts/scripts_network6.png" alt="Image" class="img-fluid">
+            </div>
+              
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/scripts_network7.png" alt="Image" class="img-fluid">
+            </div>
+              
+              
+        </div> <!-- scripts end-->          
+            
 
 <!-- FANCY VIZ BEGIN-->
 
@@ -605,397 +769,397 @@
           
           
           
-          <div class="row mb-12 site-section">
-            <h2 class="text-black">Fancy visualization</h2>
+          <div class="row mb-12 site-section" id="script-analysis-sankey">
+            <h2 class="text-black">Sankey diagram of characters in same scenes</h2>
             <p>One interesting analysis that can be performed on text is a <b>Lexical dispersion</b> analysis. This analysis will visually display where in the list of all words a specified term is used. Since our dataset includes seven books it would be interesting to see where in the series certain terms appear and if some information can be extracted from the visualization. The analysis will be done on the cleaned text, so that the similar terms of the same word, all group under a single version of the term.</p>
           <p>One interesting analysis that can be performed on text is a <b>Lexical dispersion</b> analysis. This analysis will visually display where in the list of all words a specified term is used. Since our dataset includes seven books it would be interesting to see where in the series certain terms appear and if some information can be extracted from the visualization. The analysis will be done on the cleaned text, so that the similar terms of the same word, all group under a single version of the term.</p>
               
  
-<div id="chart-e2a02073" class="chord col-lg-12 text-center" data-aos="fade-left">
-    </div>
-    <script src="https://unpkg.com/@popperjs/core@2"></script>
-    <script src="https://unpkg.com/tippy.js@6"></script>
-    <script>
-      var script = document.createElement("script");
-      script.type = "text/javascript";
-      script.src = "https://d3js.org/d3.v5.min.js";
+        <div id="chart-e2a02073" class="chord col-lg-12 text-center" data-aos="fade-left">
+            </div>
+            <script src="https://unpkg.com/@popperjs/core@2"></script>
+            <script src="https://unpkg.com/tippy.js@6"></script>
+            <script>
+              var script = document.createElement("script");
+              script.type = "text/javascript";
+              script.src = "https://d3js.org/d3.v5.min.js";
 
-      script.onload = function () {
+              script.onload = function () {
 
-        var script2 = document.createElement("script");
-        script2.type = "text/javascript";
-        script2.src = "https://datacrayon.com/assets/chord/script.js";
-        script2.onload = function () {
-          margin = {
-          left: 80,
-          top: 80,
-          right: 80,
-          bottom: 80
-        };
-        width = Math.min(window.innerWidth, 800) - margin.left - margin.right;
-        height = Math.min(window.innerWidth, 800) - margin.top - margin.bottom;
-        innerRadius = Math.min(width, height) * 0.39;
-        outerRadius = innerRadius * 1.1;
+                var script2 = document.createElement("script");
+                script2.type = "text/javascript";
+                script2.src = "https://datacrayon.com/assets/chord/script.js";
+                script2.onload = function () {
+                  margin = {
+                  left: 80,
+                  top: 80,
+                  right: 80,
+                  bottom: 80
+                };
+                width = Math.min(window.innerWidth, 800) - margin.left - margin.right;
+                height = Math.min(window.innerWidth, 800) - margin.top - margin.bottom;
+                innerRadius = Math.min(width, height) * 0.39;
+                outerRadius = innerRadius * 1.1;
 
-      tag_id = "chart-e2a02073";
-      padding = 0.02;
-      Names = ['George', 'Lavender Brown', 'Vernon', 'Snape', 'Harry Potter', 'Mrs. Weasley', 'Dean Thomas', 'Ron', 'Fred', 'Aunt Petunia', 'Bellatrix', 'Igor', 'Griphook', 'Arthur Weasley', 'Luna', 'Dissolve', 'Mr. Weasley', 'Mr Weasley', 'Hermione', 'Mcgonagall', 'Lupin', 'Percy', 'Xenophilius Lovegood', 'Quirrell', 'Fleur', 'Dobby', 'Moaning Myrtle', 'Uncle Vernon', 'Slughorn', 'Lucius Malfoy', 'Boy', 'Arthur', 'Cedric', 'Bill', 'Girl', 'Albert Runcorn', 'Tonks', 'Neville', 'Ginny', 'Fudge', 'Hagrid', 'Voldemort', 'Dudley', 'Cho', 'Kreacher', 'Draco Malfoy', 'Albus Dumbledore', 'Narcissa', 'All', 'Barty', 'Man', 'Umbridge', 'Reg Cattermole', 'Professor Lupin', 'Voice', 'Angelina', 'Gilderoy Lockhart', 'Petunia', 'Sirius', 'Filch', 'Mrs Weasley', 'Rita', 'Seamus', 'Mad-Eye'];
-      colors = d3.schemeSet1;
-      opacityDefault = 0.8;
-      matrix = [[0, 0, 0, 0, 23, 0, 0, 19, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 28, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 8, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0], [23, 5, 7, 28, 0, 13, 0, 234, 25, 4, 11, 4, 8, 5, 19, 4, 9, 4, 214, 19, 10, 6, 4, 5, 5, 12, 0, 11, 14, 9, 5, 4, 5, 5, 5, 6, 5, 35, 29, 7, 47, 14, 9, 8, 5, 28, 51, 0, 4, 5, 7, 10, 5, 9, 7, 5, 10, 5, 8, 9, 4, 4, 15, 13], [0, 0, 0, 0, 13, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 9, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0], [19, 6, 0, 10, 234, 9, 5, 0, 22, 0, 5, 0, 8, 6, 12, 0, 0, 0, 181, 10, 0, 7, 0, 0, 5, 4, 4, 0, 7, 7, 0, 0, 0, 0, 4, 5, 0, 29, 23, 0, 23, 0, 0, 0, 0, 24, 16, 0, 0, 0, 0, 0, 8, 4, 0, 0, 9, 0, 4, 4, 0, 0, 16, 8], [27, 0, 0, 0, 25, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 11, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 4, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 8, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 19, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [15, 5, 0, 10, 214, 6, 0, 181, 16, 0, 6, 0, 4, 0, 11, 0, 0, 0, 0, 6, 0, 0, 4, 0, 5, 4, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 27, 16, 0, 25, 0, 0, 5, 4, 23, 16, 0, 0, 4, 0, 5, 4, 4, 4, 0, 5, 0, 0, 6, 0, 0, 13, 7], [0, 0, 0, 0, 19, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 6, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 12, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 14, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 9, 0, 0, 7, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 6, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 35, 0, 5, 29, 0, 0, 5, 0, 0, 0, 6, 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 7, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0], [7, 0, 0, 0, 29, 9, 0, 23, 7, 0, 0, 0, 0, 0, 5, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [4, 0, 0, 0, 47, 4, 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 4, 14, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 6, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 8, 28, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 8, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4, 0, 0, 6, 0], [0, 0, 0, 11, 51, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 6, 8, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4], [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 9, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 10, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 7, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 8, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 5, 9, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 15, 0, 5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 13, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]];
-      wrap_labels = false;
-      credit = true
-      
-      ////////////////////////////////////////////////////////////
-      /////////// Create scale and layout functions //////////////
-      ////////////////////////////////////////////////////////////
+              tag_id = "chart-e2a02073";
+              padding = 0.02;
+              Names = ['George', 'Lavender Brown', 'Vernon', 'Snape', 'Harry Potter', 'Mrs. Weasley', 'Dean Thomas', 'Ron', 'Fred', 'Aunt Petunia', 'Bellatrix', 'Igor', 'Griphook', 'Arthur Weasley', 'Luna', 'Dissolve', 'Mr. Weasley', 'Mr Weasley', 'Hermione', 'Mcgonagall', 'Lupin', 'Percy', 'Xenophilius Lovegood', 'Quirrell', 'Fleur', 'Dobby', 'Moaning Myrtle', 'Uncle Vernon', 'Slughorn', 'Lucius Malfoy', 'Boy', 'Arthur', 'Cedric', 'Bill', 'Girl', 'Albert Runcorn', 'Tonks', 'Neville', 'Ginny', 'Fudge', 'Hagrid', 'Voldemort', 'Dudley', 'Cho', 'Kreacher', 'Draco Malfoy', 'Albus Dumbledore', 'Narcissa', 'All', 'Barty', 'Man', 'Umbridge', 'Reg Cattermole', 'Professor Lupin', 'Voice', 'Angelina', 'Gilderoy Lockhart', 'Petunia', 'Sirius', 'Filch', 'Mrs Weasley', 'Rita', 'Seamus', 'Mad-Eye'];
+              colors = d3.schemeSet1;
+              opacityDefault = 0.8;
+              matrix = [[0, 0, 0, 0, 23, 0, 0, 19, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 28, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 8, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0], [23, 5, 7, 28, 0, 13, 0, 234, 25, 4, 11, 4, 8, 5, 19, 4, 9, 4, 214, 19, 10, 6, 4, 5, 5, 12, 0, 11, 14, 9, 5, 4, 5, 5, 5, 6, 5, 35, 29, 7, 47, 14, 9, 8, 5, 28, 51, 0, 4, 5, 7, 10, 5, 9, 7, 5, 10, 5, 8, 9, 4, 4, 15, 13], [0, 0, 0, 0, 13, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 9, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0], [19, 6, 0, 10, 234, 9, 5, 0, 22, 0, 5, 0, 8, 6, 12, 0, 0, 0, 181, 10, 0, 7, 0, 0, 5, 4, 4, 0, 7, 7, 0, 0, 0, 0, 4, 5, 0, 29, 23, 0, 23, 0, 0, 0, 0, 24, 16, 0, 0, 0, 0, 0, 8, 4, 0, 0, 9, 0, 4, 4, 0, 0, 16, 8], [27, 0, 0, 0, 25, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 11, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 4, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 8, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 19, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 9, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [15, 5, 0, 10, 214, 6, 0, 181, 16, 0, 6, 0, 4, 0, 11, 0, 0, 0, 0, 6, 0, 0, 4, 0, 5, 4, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 27, 16, 0, 25, 0, 0, 5, 4, 23, 16, 0, 0, 4, 0, 5, 4, 4, 4, 0, 5, 0, 0, 6, 0, 0, 13, 7], [0, 0, 0, 0, 19, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 6, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 12, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 14, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 9, 0, 0, 7, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 6, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 35, 0, 5, 29, 0, 0, 5, 0, 0, 0, 6, 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 7, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0], [7, 0, 0, 0, 29, 9, 0, 23, 7, 0, 0, 0, 0, 0, 5, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [4, 0, 0, 0, 47, 4, 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 25, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 4, 14, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 6, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 8, 28, 0, 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 23, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 8, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4, 0, 0, 6, 0], [0, 0, 0, 11, 51, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 6, 6, 8, 0, 0, 0, 0, 5, 0, 0, 0, 5, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9], [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4], [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 9, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 10, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 7, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 8, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 5, 9, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 15, 0, 5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 20, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], [0, 0, 0, 0, 13, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]];
+              wrap_labels = false;
+              credit = true
 
-      var colors = d3
-        .scaleOrdinal()
-        .domain(d3.range(Names.length))
-        .range(colors);
+              ////////////////////////////////////////////////////////////
+              /////////// Create scale and layout functions //////////////
+              ////////////////////////////////////////////////////////////
 
-      //A "custom" d3 chord function that automatically sorts the order of the chords in such a manner to reduce overlap
-      var chord = customChordLayout()
-        .padding(padding)
-        .sortChords(d3.descending) //which chord should be shown on top when chords cross. Now the biggest chord is at the bottom
-        .matrix(matrix);
+              var colors = d3
+                .scaleOrdinal()
+                .domain(d3.range(Names.length))
+                .range(colors);
 
-      var arc = d3
-        .arc()
-        .innerRadius(innerRadius * 1.01)
-        .outerRadius(outerRadius);
+              //A "custom" d3 chord function that automatically sorts the order of the chords in such a manner to reduce overlap
+              var chord = customChordLayout()
+                .padding(padding)
+                .sortChords(d3.descending) //which chord should be shown on top when chords cross. Now the biggest chord is at the bottom
+                .matrix(matrix);
 
-      var path = d3.ribbon().radius(innerRadius);
+              var arc = d3
+                .arc()
+                .innerRadius(innerRadius * 1.01)
+                .outerRadius(outerRadius);
 
-      ////////////////////////////////////////////////////////////
-      ////////////////////// Create SVG //////////////////////////
-      ///////////////////////////////////////////////////////////
+              var path = d3.ribbon().radius(innerRadius);
 
-      var svg = d3
-        .select("#" + tag_id)
-        .append("svg")
-        .attr(
-          "viewBox",
-          "0 0 " +
-            (width + margin.left + margin.right) +
-          " " +
-          (height + margin.top + margin.bottom)
-        )
-        .attr("preserveAspectRatio", "xMinYMin meet")
-        .append("g")
-        .attr(
-          "transform",
-          "translate(" +
-            (width / 2 + margin.left) +
-            "," +
-            (height / 2 + margin.top) +
-            ")"
-        );
+              ////////////////////////////////////////////////////////////
+              ////////////////////// Create SVG //////////////////////////
+              ///////////////////////////////////////////////////////////
 
-        d3
-          .select("#" + tag_id)
-          .append("span")
-          .style("display", "block")
-          .style("font-size", "12px")
-          .style("text-align", "right")
-          .style("font-family", '"Arial", sans-serif')
-          .html('get <a href="https://m8.fyi/chord">chord pro</a> [<a href="https://twitter.com/shahinrostami">@ShahinRostami</a>]');
-
-        d3
-          .select("#" + tag_id)
-          .select("span")
-          .append("span")
-          .style("font-size", "12px")
-          .style("font-family", '"Arial", sans-serif')
-          .html('<br>see more at <a href="https://stamilabs.com">StamiLabs.com</a>');
-        
-      ////////////////////////////////////////////////////////////
-      /////////////// Create the gradient fills //////////////////
-      ////////////////////////////////////////////////////////////
-
-      //Function to create the id for each chord gradient
-      function getGradID(d) {
-        return (
-          "linkGrad-" + tag_id + "-" + d.source.index + "-" + d.target.index
-        );
-      }
-
-
-
-
-      //Create the gradients definitions for each chord
-      var grads = svg
-        .append("defs")
-        .selectAll("linearGradient")
-        .data(chord.chords())
-        .enter()
-        .append("linearGradient")
-        .attr("id", getGradID)
-        .attr("gradientUnits", "userSpaceOnUse")
-        .attr("x1", function (d, i) {
-          return (
-            innerRadius *
-            Math.cos(
-              (d.source.endAngle - d.source.startAngle) / 2 +
-                d.source.startAngle -
-                Math.PI / 2
-            )
-          );
-        })
-        .attr("y1", function (d, i) {
-          return (
-            innerRadius *
-            Math.sin(
-              (d.source.endAngle - d.source.startAngle) / 2 +
-                d.source.startAngle -
-                Math.PI / 2
-            )
-          );
-        })
-        .attr("x2", function (d, i) {
-          return (
-            innerRadius *
-            Math.cos(
-              (d.target.endAngle - d.target.startAngle) / 2 +
-                d.target.startAngle -
-                Math.PI / 2
-            )
-          );
-        })
-        .attr("y2", function (d, i) {
-          return (
-            innerRadius *
-            Math.sin(
-              (d.target.endAngle - d.target.startAngle) / 2 +
-                d.target.startAngle -
-                Math.PI / 2
-            )
-          );
-        });
-
-      //Set the starting color (at 0%)
-      grads
-        .append("stop")
-        .attr("offset", "0%")
-        .attr("stop-color", function (d) {
-          return colors(d.source.index);
-        });
-
-      //Set the ending color (at 100%)
-      grads
-        .append("stop")
-        .attr("offset", "100%")
-        .attr("stop-color", function (d) {
-          return colors(d.target.index);
-        });
-
-      ////////////////////////////////////////////////////////////
-      ////////////////// Draw outer Arcs /////////////////////////
-      ////////////////////////////////////////////////////////////
-
-      var outerArcs = svg
-        .selectAll("g.group")
-        .data(chord.groups)
-        .enter()
-        .append("g")
-        .attr("class", "group")
-        .on("mouseover", fade(0.1, 1))
-        .on("mouseout", fade(opacityDefault, opacityDefault));
-
-      outerArcs
-        .append("path")
-        .style("fill", function (d) {
-          return colors(d.index);
-        })
-        .attr("d", arc)
-        .each(function (d, i) {
-          //Search pattern for everything between the start and the first capital L
-          var firstArcSection = /(^.+?)L/;
-
-          //Grab everything up to the first Line statement
-          var newArc = firstArcSection.exec(d3.select(this).attr("d"))[1];
-          //Replace all the comma's so that IE can handle it
-          newArc = newArc.replace(/,/g, " ");
-
-          //If the end angle lies beyond a quarter of a circle (90 degrees or pi/2)
-          //flip the end and start position
-          if (
-            (d.endAngle > (90 * Math.PI) / 180) &
-            (d.startAngle < (270 * Math.PI) / 180)
-          ) {
-            var startLoc = /M(.*?)A/, //Everything between the first capital M and first capital A
-              middleLoc = /A(.*?)0 0 1/, //Everything between the first capital A and 0 0 1
-              endLoc = /0 0 1 (.*?)$/; //Everything between the first 0 0 1 and the end of the string (denoted by $)
-            //Flip the direction of the arc by switching the start en end point (and sweep flag)
-            //of those elements that are below the horizontal line
-            var newStart = endLoc.exec(newArc)[1];
-            var newEnd = startLoc.exec(newArc)[1];
-            var middleSec = middleLoc.exec(newArc)[1];
-
-            //Build up the new arc notation, set the sweep-flag to 0
-            newArc = "M" + newStart + "A" + middleSec + "0 0 0 " + newEnd;
-          } //if
-
-          //Create a new invisible arc that the text can flow along
-          svg
-            .append("path")
-            .attr("class", "hiddenArcs")
-            .attr("id", "arc-" + tag_id + "-" + i)
-            .attr("d", newArc)
-            .style("fill", "none");
-     });
-          ////////////////////////////////////////////////////////////
-          ////////////////// Append Names ////////////////////////////
-          ////////////////////////////////////////////////////////////
-
-          //Append the label names on the outside
-
-          if (wrap_labels) {
-            outerArcs
-              .append("text")
-              .attr("class", "titles")
-              .attr("dy", function (d, i) {
-                return (d.endAngle > (90 * Math.PI) / 180) &
-                  (d.startAngle < (270 * Math.PI) / 180)
-                  ? 25
-                  : -16;
-              })
-              .append("textPath")
-              .attr("startOffset", "50%")
-              .style("text-anchor", "middle")
-              .attr("xlink:href", function (d, i) {
-                return "#arc-" + tag_id + "-" + i;
-              })
-              .text(function (d, i) {
-                return Names[i];
-              });
-          } else {
-            //Append the label names on the outside
-            outerArcs
-              .append("text")
-              .each(function (d) {
-                d.angle = (d.startAngle + d.endAngle) / 2;
-              })
-              .attr("dy", ".35em")
-              .attr("class", "titles")
-              .attr("text-anchor", function (d) {
-                return d.angle > Math.PI ? "end" : null;
-              })
-              .attr("transform", function (d) {
-                return (
-                  "rotate(" +
-                  ((d.angle * 180) / Math.PI - 90) +
-                  ")" +
+              var svg = d3
+                .select("#" + tag_id)
+                .append("svg")
+                .attr(
+                  "viewBox",
+                  "0 0 " +
+                    (width + margin.left + margin.right) +
+                  " " +
+                  (height + margin.top + margin.bottom)
+                )
+                .attr("preserveAspectRatio", "xMinYMin meet")
+                .append("g")
+                .attr(
+                  "transform",
                   "translate(" +
-                  (outerRadius + 10) +
-                  ")" +
-                  (d.angle > Math.PI ? "rotate(180)" : "")
+                    (width / 2 + margin.left) +
+                    "," +
+                    (height / 2 + margin.top) +
+                    ")"
                 );
-              })
-              .text(function (d, i) {
-                return Names[i];
-              });
-          }
 
-          ////////////////////////////////////////////////////////////
-          ////////////////// Draw inner chords ///////////////////////
-          ////////////////////////////////////////////////////////////
+                d3
+                  .select("#" + tag_id)
+                  .append("span")
+                  .style("display", "block")
+                  .style("font-size", "12px")
+                  .style("text-align", "right")
+                  .style("font-family", '"Arial", sans-serif')
+                  .html('get <a href="https://m8.fyi/chord">chord pro</a> [<a href="https://twitter.com/shahinrostami">@ShahinRostami</a>]');
 
-          svg
-            .selectAll("path.chord")
-            .data(chord.chords)
-            .enter()
-            .append("path")
-            .attr("class", "chord")
-            .style("fill", function (d) {
-              return "url(#" + getGradID(d) + ")";
-            })
-            .style("opacity", opacityDefault)
-            .attr("d", path)
-            .on("mouseover", mouseoverChord())
-            .on("mouseout", mouseoutChord(opacityDefault, opacityDefault));
-   
-      ////////////////////////////////////////////////////////////
-      ////////////////// Extra Functions /////////////////////////
-      ////////////////////////////////////////////////////////////
+                d3
+                  .select("#" + tag_id)
+                  .select("span")
+                  .append("span")
+                  .style("font-size", "12px")
+                  .style("font-family", '"Arial", sans-serif')
+                  .html('<br>see more at <a href="https://stamilabs.com">StamiLabs.com</a>');
 
-      //Returns an event handler for fading a given chord group.
-      function fade(opacityIn, opacityOut) {
-        return function (d, i) {
-          d3.select(this.ownerSVGElement)
-            .selectAll("path.chord")
-            .filter(function (d) {
-              return d.source.index !== i && d.target.index !== i;
-            })
-            .transition()
-            .style("opacity", opacityIn);
+              ////////////////////////////////////////////////////////////
+              /////////////// Create the gradient fills //////////////////
+              ////////////////////////////////////////////////////////////
 
-          d3.select(this.ownerSVGElement)
-            .selectAll("path.chord")
-            .filter(function (d) {
-              return d.source.index == i || d.target.index == i;
-            })
-            .transition()
-            .style("opacity", opacityOut);
-
-            
-        };
-      } //fade
-
-      //Highlight hovered over chord
-      function mouseoverChord() {
-        return function (d, i) {
-
-        d3.select(this.ownerSVGElement)
-          .selectAll("path.chord")
-          .transition()
-          .style("opacity", 0.1);
-        //Show hovered over chord with full opacity
-        d3.select(this).transition().style("opacity", 1);
-
-        tippy_content = "<span style='font-weight:900'>" +
-            Names[d.source.index] +
-            "</span> and <span style='font-weight:900'>" +
-            Names[d.target.index] +
-            "</span><br>occur together in <span style='font-weight:900'>" +
-            d.source.value +
-            "</span> instances";
-   
-        if(this._tippy == null)
-        {
-          tippy(this, {
-            allowHTML: true,
-            followCursor: true,
-            content: tippy_content,
-            size: "large",
-            arrow: true,
-          });
-        }
-
-        };
-        
-      } //fade
-
-      //Bring all chords back to default opacity
-      function mouseoutChord(opacityIn, opacityOut) {
-        return function (d, i) {
-        d3.select(this.ownerSVGElement)
-          .selectAll("path.chord")
-          .transition()
-          .style("opacity", opacityOut);
-        };
-        //Set opacity back to default for all
-      } //function mouseoutChord
+              //Function to create the id for each chord gradient
+              function getGradID(d) {
+                return (
+                  "linkGrad-" + tag_id + "-" + d.source.index + "-" + d.target.index
+                );
+              }
 
 
-        };
-        document.body.appendChild(script2);
-      };
 
-      document.body.appendChild(script);
-    </script>
-              
+
+              //Create the gradients definitions for each chord
+              var grads = svg
+                .append("defs")
+                .selectAll("linearGradient")
+                .data(chord.chords())
+                .enter()
+                .append("linearGradient")
+                .attr("id", getGradID)
+                .attr("gradientUnits", "userSpaceOnUse")
+                .attr("x1", function (d, i) {
+                  return (
+                    innerRadius *
+                    Math.cos(
+                      (d.source.endAngle - d.source.startAngle) / 2 +
+                        d.source.startAngle -
+                        Math.PI / 2
+                    )
+                  );
+                })
+                .attr("y1", function (d, i) {
+                  return (
+                    innerRadius *
+                    Math.sin(
+                      (d.source.endAngle - d.source.startAngle) / 2 +
+                        d.source.startAngle -
+                        Math.PI / 2
+                    )
+                  );
+                })
+                .attr("x2", function (d, i) {
+                  return (
+                    innerRadius *
+                    Math.cos(
+                      (d.target.endAngle - d.target.startAngle) / 2 +
+                        d.target.startAngle -
+                        Math.PI / 2
+                    )
+                  );
+                })
+                .attr("y2", function (d, i) {
+                  return (
+                    innerRadius *
+                    Math.sin(
+                      (d.target.endAngle - d.target.startAngle) / 2 +
+                        d.target.startAngle -
+                        Math.PI / 2
+                    )
+                  );
+                });
+
+              //Set the starting color (at 0%)
+              grads
+                .append("stop")
+                .attr("offset", "0%")
+                .attr("stop-color", function (d) {
+                  return colors(d.source.index);
+                });
+
+              //Set the ending color (at 100%)
+              grads
+                .append("stop")
+                .attr("offset", "100%")
+                .attr("stop-color", function (d) {
+                  return colors(d.target.index);
+                });
+
+              ////////////////////////////////////////////////////////////
+              ////////////////// Draw outer Arcs /////////////////////////
+              ////////////////////////////////////////////////////////////
+
+              var outerArcs = svg
+                .selectAll("g.group")
+                .data(chord.groups)
+                .enter()
+                .append("g")
+                .attr("class", "group")
+                .on("mouseover", fade(0.1, 1))
+                .on("mouseout", fade(opacityDefault, opacityDefault));
+
+              outerArcs
+                .append("path")
+                .style("fill", function (d) {
+                  return colors(d.index);
+                })
+                .attr("d", arc)
+                .each(function (d, i) {
+                  //Search pattern for everything between the start and the first capital L
+                  var firstArcSection = /(^.+?)L/;
+
+                  //Grab everything up to the first Line statement
+                  var newArc = firstArcSection.exec(d3.select(this).attr("d"))[1];
+                  //Replace all the comma's so that IE can handle it
+                  newArc = newArc.replace(/,/g, " ");
+
+                  //If the end angle lies beyond a quarter of a circle (90 degrees or pi/2)
+                  //flip the end and start position
+                  if (
+                    (d.endAngle > (90 * Math.PI) / 180) &
+                    (d.startAngle < (270 * Math.PI) / 180)
+                  ) {
+                    var startLoc = /M(.*?)A/, //Everything between the first capital M and first capital A
+                      middleLoc = /A(.*?)0 0 1/, //Everything between the first capital A and 0 0 1
+                      endLoc = /0 0 1 (.*?)$/; //Everything between the first 0 0 1 and the end of the string (denoted by $)
+                    //Flip the direction of the arc by switching the start en end point (and sweep flag)
+                    //of those elements that are below the horizontal line
+                    var newStart = endLoc.exec(newArc)[1];
+                    var newEnd = startLoc.exec(newArc)[1];
+                    var middleSec = middleLoc.exec(newArc)[1];
+
+                    //Build up the new arc notation, set the sweep-flag to 0
+                    newArc = "M" + newStart + "A" + middleSec + "0 0 0 " + newEnd;
+                  } //if
+
+                  //Create a new invisible arc that the text can flow along
+                  svg
+                    .append("path")
+                    .attr("class", "hiddenArcs")
+                    .attr("id", "arc-" + tag_id + "-" + i)
+                    .attr("d", newArc)
+                    .style("fill", "none");
+             });
+                  ////////////////////////////////////////////////////////////
+                  ////////////////// Append Names ////////////////////////////
+                  ////////////////////////////////////////////////////////////
+
+                  //Append the label names on the outside
+
+                  if (wrap_labels) {
+                    outerArcs
+                      .append("text")
+                      .attr("class", "titles")
+                      .attr("dy", function (d, i) {
+                        return (d.endAngle > (90 * Math.PI) / 180) &
+                          (d.startAngle < (270 * Math.PI) / 180)
+                          ? 25
+                          : -16;
+                      })
+                      .append("textPath")
+                      .attr("startOffset", "50%")
+                      .style("text-anchor", "middle")
+                      .attr("xlink:href", function (d, i) {
+                        return "#arc-" + tag_id + "-" + i;
+                      })
+                      .text(function (d, i) {
+                        return Names[i];
+                      });
+                  } else {
+                    //Append the label names on the outside
+                    outerArcs
+                      .append("text")
+                      .each(function (d) {
+                        d.angle = (d.startAngle + d.endAngle) / 2;
+                      })
+                      .attr("dy", ".35em")
+                      .attr("class", "titles")
+                      .attr("text-anchor", function (d) {
+                        return d.angle > Math.PI ? "end" : null;
+                      })
+                      .attr("transform", function (d) {
+                        return (
+                          "rotate(" +
+                          ((d.angle * 180) / Math.PI - 90) +
+                          ")" +
+                          "translate(" +
+                          (outerRadius + 10) +
+                          ")" +
+                          (d.angle > Math.PI ? "rotate(180)" : "")
+                        );
+                      })
+                      .text(function (d, i) {
+                        return Names[i];
+                      });
+                  }
+
+                  ////////////////////////////////////////////////////////////
+                  ////////////////// Draw inner chords ///////////////////////
+                  ////////////////////////////////////////////////////////////
+
+                  svg
+                    .selectAll("path.chord")
+                    .data(chord.chords)
+                    .enter()
+                    .append("path")
+                    .attr("class", "chord")
+                    .style("fill", function (d) {
+                      return "url(#" + getGradID(d) + ")";
+                    })
+                    .style("opacity", opacityDefault)
+                    .attr("d", path)
+                    .on("mouseover", mouseoverChord())
+                    .on("mouseout", mouseoutChord(opacityDefault, opacityDefault));
+
+              ////////////////////////////////////////////////////////////
+              ////////////////// Extra Functions /////////////////////////
+              ////////////////////////////////////////////////////////////
+
+              //Returns an event handler for fading a given chord group.
+              function fade(opacityIn, opacityOut) {
+                return function (d, i) {
+                  d3.select(this.ownerSVGElement)
+                    .selectAll("path.chord")
+                    .filter(function (d) {
+                      return d.source.index !== i && d.target.index !== i;
+                    })
+                    .transition()
+                    .style("opacity", opacityIn);
+
+                  d3.select(this.ownerSVGElement)
+                    .selectAll("path.chord")
+                    .filter(function (d) {
+                      return d.source.index == i || d.target.index == i;
+                    })
+                    .transition()
+                    .style("opacity", opacityOut);
+
+
+                };
+              } //fade
+
+              //Highlight hovered over chord
+              function mouseoverChord() {
+                return function (d, i) {
+
+                d3.select(this.ownerSVGElement)
+                  .selectAll("path.chord")
+                  .transition()
+                  .style("opacity", 0.1);
+                //Show hovered over chord with full opacity
+                d3.select(this).transition().style("opacity", 1);
+
+                tippy_content = "<span style='font-weight:900'>" +
+                    Names[d.source.index] +
+                    "</span> and <span style='font-weight:900'>" +
+                    Names[d.target.index] +
+                    "</span><br>occur together in <span style='font-weight:900'>" +
+                    d.source.value +
+                    "</span> instances";
+
+                if(this._tippy == null)
+                {
+                  tippy(this, {
+                    allowHTML: true,
+                    followCursor: true,
+                    content: tippy_content,
+                    size: "large",
+                    arrow: true,
+                  });
+                }
+
+                };
+
+              } //fade
+
+              //Bring all chords back to default opacity
+              function mouseoutChord(opacityIn, opacityOut) {
+                return function (d, i) {
+                d3.select(this.ownerSVGElement)
+                  .selectAll("path.chord")
+                  .transition()
+                  .style("opacity", opacityOut);
+                };
+                //Set opacity back to default for all
+              } //function mouseoutChord
+
+
+                };
+                document.body.appendChild(script2);
+              };
+
+              document.body.appendChild(script);
+            </script>
+
               
               
               
@@ -1004,13 +1168,114 @@
           </div>
           
 <!--FANCY VIZ END-->
- 
+ <!--Scripts end-->
           
+<!-- wikis begin -->          
+  <div class="row mb-12 site-section" id="wiki-analysis-1">
+          <h2 class="text-black">Wikis - Analysis 1</h2>
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
 
-
-
-
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/" alt="Image" class="img-fluid">
+            </div>
+     
+        </div>
           
+         <div class="row mb-12 site-section" id="wiki-analysis-2">
+          <h2 class="text-black">Wikis - Analysis 2</h2>
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/" alt="Image" class="img-fluid">
+            </div>
+     
+        </div>          
+
+         <div class="row mb-12 site-section" id="wiki-analysis-3">
+          <h2 class="text-black">Wikis - Analysis 3</h2>
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/" alt="Image" class="img-fluid">
+            </div>
+     
+        </div>  
+<!-- wikis end -->
+
+<!-- Comparisons begin -->
+         <div class="row mb-12 site-section" id="comparison-analysis-1">
+             <h2 class="text-black">Comparison - Term Frequency - Books vs. Movies</h2>
+           <p>For the comparison, we gather the set of 10 most common words for the books and the top 10 most common words for the movies into a single set. In order to do so it is necessary to combine all the frequency distributions for the books into a single frequency distribution. This is simple, since frequency distribution objects can be summed together. The same will be done to combine all the movies into a single frequency distribution.</p> 
+             <p>Now the frequency of each of those words is extracted from the two frequency distributions. In order for the values to be comparible, it is necessary to normalize each value by so that the frequency of movie + book sums up to 100. That way all the values in the chart will sum up to the same value.</p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/comparisons/comp_tf1.png" alt="Image" class="img-fluid">
+            </div>
+             <p>From the chart below some interesting this can be seen:</p>
+         <ul>
+             <li>
+             <b>Harry</b> is mentioned relatively more frequently in the books than in the films. 
+                 <ul>
+                 <li>This could have something to do with the fact, that whenever Harry says something in the books, it is usually noted that it was in fact Harry that said it. This is not necessary in the movies as they can visually show and audible distinquish what Harry is saying, and when Harry is being referenced.</li>
+                 </ul>
+             </li>
+             <li>The distinction is even clearer for <b>Ron</b> and <b>Hermione</b>. Both characters are referenced much more frequently in the books.
+             </li>
+             <ul>
+             <li>Again this could have something to do with the fact, that in the movies there might not be the need to mention the names, if the characters are looking at each other when speaking.</li>
+             </ul>
+             <li>When looking at the verbs <b>could</b>, <b>know</b>, <b>see</b>, <b>said</b>, <b>think</b>, <b>go</b>, <b>would</b> and <b>come</b>, the verbs in present tense are much more frequent in the movies, while the verbs in past tense are more frequent in the books. This is an interesting distinction between the two.</li>
+             <li>Harry's last name <b>Potter</b> is mentioned much more in the films than it is in the books.</li>
+        </ul>
+
+             
+             <p>Since the above figure included a lot of relatively meaningless verbs, it's intersting to see the same graph, but now with the character names. That way it's possible to highlight the differences in how frequently the characters are mentioned.</p>
+             <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/comparisons/comp_tf2.png" alt="Image" class="img-fluid">
+            </div>
+             
+             <ul>
+             <li>It's interesting to see that <b>Draco</b>, <b>Dobby</b> and <b>Nagini</b>, are mentioned much more frequently in the movies than the books, all with ratios over 70%.</li>
+                 <li>The characters mentioned more frequently in the books than the movies are <b>Dursley</b>, <b>Lupin</b>, <b>McGonagall</b>, <b>Fred</b>, <b>George</b>, <b>Snape</b>, <b>Ron</b> and <b>Hermione</b>, all with ratios over 60%.</li>
+             </ul>
+             
+        </div>  
+          
+          
+          
+          <div class="row mb-12 site-section" id="comparison-analysis-2">
+              <h2 class="text-black">Comparison - Sentiment - Books vs. Movies</h2>
+           <p>It's also interesting to compare the sentiment values between the books and the movies.
+In order to do so, it is necessary to collect the sentiment from the books and the movies, and create a Moving Average window for both. The moving average for the books was decided to be 5 chapters. However the moving average for the scenes, was decided to be 30 scenes, as there are much more scenes in each movie, than chapters in each book.</p> 
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/comparisons/comp_sentiment1.png" alt="Image" class="img-fluid">
+            </div>
+              <p>
+              From the figure above it is clear that the movies always have a higher average sentiment than the books, apart from the third book/movie <b>Prisoner of Azkaban</b>. </p>
+
+<p>The highest sentiment for the books occurs in the first one, while the last book has the lowest sentiment. This is not the case for the movies. The movie with the highest sentiment is <b>Half-Blood Prince</b> and the lowest one is <b>Prisoner of Azkaban.</b></p>
+
+<p>The movies fluctuate much more in their sentiment value than the books. However the sentiment value range is still relatively small.</p>
+
+ <p>To get a slightly better overview of the evolution of the sentiment, the sentiment analysis is broken down into a lower level. Now the books are broken up into chapters, and the movies are broken up into scenes.comp
+              </p>
+
+            <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/comparisons/comp_sentiment2.png" alt="Image" class="img-fluid">
+            </div>
+              
+              <p>
+              From the above graph it can be seen that the sentiment value of each book/movie changes over the course of the book/movie. So an average sentiment as shown previously misses out on a lot of information about how the sentiment evolves.</p>
+
+<p>The red lines show where a book/movie ends and a new one begins. Most of the books have a similar trend. Where the sentiment begins pretty high and then fluctuates a bit and drops to the end of each book. Since the value displayed is a moving average, the drop at the end of one book can cause the beginning of the next book to be slightly lower than it would have been, if the books would have been examined individually.</p>
+
+<p>The movies display a different trend. They fluctuate a lot more and have a higher range in difference in sentiment. So within the second movie the sentiment ranges from 5.35 to 5.65, while the same book has a range of 5.4-5.51. Most of the movies have a big range, the only expception being the fifth movie. </p>
+
+<p>The last Harry Potter book was split into two films, and it's interesting to see that the sentiment trend for those two movies are very different.
+              </p>
+          </div>
+<!-- Comparisons end -->
           
           
           
