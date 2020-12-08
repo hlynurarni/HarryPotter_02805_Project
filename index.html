@@ -32,6 +32,9 @@
       type="text/css"
     />
 
+    <!-- script for term freq. analysis -->
+    <script src="js/script-tf-analysis.js"></script>
+    
     <style>
       .tippy-content {
         font-family: "Lato", sans-serif;
@@ -641,7 +644,7 @@
     <h2 class="text-black">Script analysis</h2>
     <p class="mb-1">From the scripts dataset, each textfile was cleaned by using tokenization, lemmitization and all stopwords were removed. The main information about each script was then extracted, namely:</p>
     <ul class="ul-check mb-0 list-unstyled success">
-      <li>Number of characters/li>
+      <li>Number of characters</li>
       <li>Number of scenes</li>
       <li>Total length of script</li>
       <li>Number of sentences</li>
@@ -664,16 +667,20 @@
                 <img src="images/scripts/scripts_char1.png" alt="Image" class="img-fluid">
             </div>
             
-           <p>We now look at the total amount of spoken words by the top 50 largerst ones. Here again similar to the amount of sentences, the three top characters stay the same. It can be seen that the difference between the trio, and Albus Dumbledore is much less, this indicates that albus has a higher average sentence length compared to the top 3. To further investigate the nature of the sentences and what characters are usually speaking longer than other in each line they have we look at the top 50 average length sentences of all characters.</p>
+           <p>We now look at the total amount of spoken words by the top 50 largest ones. Here again similar to the amount of sentences, the three top characters stay the same. It can be seen that the difference between the trio, and Albus Dumbledore is much less, this indicates that albus has a higher average sentence length compared to the top 3.</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/scripts/scripts_char2.png" alt="Image" class="img-fluid">
-            </div>            
-           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
-
+            </div>     
+            <p> To further investigate the nature of the sentences and what characters are usually speaking longer than other in each line, we take a look at the top 50 average length sentences of all characters.</p>       
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/scripts/scripts_char3.png" alt="Image" class="img-fluid">
-            </div>     
+            </div>    
+            <p>Here we can clearly see that the average count of words per sentence is for characters that are less dominant in the movies and usually have few but long lines. If we take close look to those characters to understand what they really are:</p>
+            <div class="author-box col-lg-6" data-aos="fade-right">
+              <blockquote><b>Letter (Lily): </b>&ldquo;Dear Sirius. Thank you for Harry’s birthday present. James says he’s got the look of a Seeker, but then James would. We had a very guiet birthday tea, just us and old Bathilda, who dotes on Harry. Wormy dropped by late in the day, but seemed down and didn’t stay long. James is frustrated being shut up here, but Dumbledore’s still got his Invisibility Cloak, so he doesn’t have much choice. By the way, Bathilda tells the most amazing stories about our old Headmaster. I don’t know how much to believe. Can it really be true that Dumbledore - Harry turns the letter over, but there is no more.&rdquo;</blockquote>
+            </div>
+            <p>Here we can see that we are looking at the text spoken by the magical letter written by Harry's mother Lily. Since a letter is usually longer then a chracter line there is no surpsie why this has the longest average sentece out of all characters.</p>
         </div> <!-- scripts end-->
           
           
@@ -683,36 +690,50 @@
           
          <div class="row mb-12 site-section" id="script-analysis-2">
           <h2 class="text-black">Sentiment analysis</h2>
-           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+           <p>Here the sentiment of the characters and the movies as a whole will be done. A moving average of the changes of happiness and saddness throughout the films will be done. The sentiment for each characters will be gathered and used as an attribute into the network creation later on.</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/scripts/scripts_sent1.png" alt="Image" class="img-fluid">
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
-
+            <p>Here the sentiment score for all characters is plotted and the mean included as a red line. The mean is 5.55 which would be consider pretty neutral and more on the positive side. We can see that the sentimental score is somewhat neutral but compared to the wikipages it has more dispersion. Now it will be interesting to look at what are the saddest and happiest characters based on the lines in the script.</p>
+            <br>
+            <p>Now it will be interesting to look at what the saddest and happiest characters based on the lines in the scripts are.</p>
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/scripts/scripts_sent2.png" alt="Image" class="img-fluid">
             </div>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
-
+             <p>Here the saddest 10 and happiest 10 characeters are plotted. If we take a closer look those characters we can see that some of them have few lines that happen to be graded with high sentiment score. For instance Snake has the line Thanksssss, which is his only word in the film. To make this more meaningful a minimum limit of words containing a sentiment score will be applied for the filterin of the 10 happiest and saddest characters. Here for fun the below it can be seen where Harry uses his magic by accident to set the snake free and he thanks him in return. </p>
+             <div class="author-box col-lg-7" data-aos="fade-right">
+              <blockquote><b>Dudley: </b>&ldquo;Mummy, dad, come here! You won't believe what this snake is doing!!&rdquo;</blockquote>
+              <blockquote><b>Dudley: </b>&ldquo;Whoa! Ahh! Ahh!!&rdquo;</blockquote>
+              <blockquote><b>Snake: </b>&ldquo;Thankssssssss&rdquo;</blockquote>
+              <blockquote><b>Harry Potter: </b>&ldquo;Anytime.&rdquo;</blockquote>
+            </div><br>
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/scripts/scripts_sent3.png" alt="Image" class="img-fluid">
             </div>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
-
+             <p>In the figure above the filetering has been applied by the minimum of 5 sentimental words. It can be seen how the dispersion of the sentiment score has changed and the extremes on both ends has gone. This somewhat indicates that when characters have more words they tend to go closer to the average and when fewer words are used the likelyhood of going to either extreme is higher. Now lets look again at the top 10 saddast and happiest characters.</p>
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/scripts/scripts_sent4.png" alt="Image" class="img-fluid">
             </div>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
-
+            <p>Here we have more interesting characters, if we look at some of the supposed happiest and saddest ones: </p>
+            <ul>
+              <li><b>Pettigrew:</b> He is a very submissive character and is very polite and careful in the words he choses.</li>
+              <li><b>Viktor:</b> He is was a Quidditch player but if we look at his sentence in the movie, then it is not a nice one.</li> 
+              <div class="author-box col-lg-7" data-aos="fade-right">
+                <blockquote><b>Viktor: </b>&ldquo;(To Rita) You have no business here. This tent is for champions and friends.&rdquo;</blockquote>
+              </div><br>
+            </ul>
+            <p>There is a negetive in front of an invitation, where he is banning Rita to be in the tent. This shows how the context of a sentence can be crucial for determening if it is in fact good or bad and it offen happens that the word can be misinterperated.</p>
+            <p>Now we look at the time aspect of the movies and see how the sentiment changes with time. The moving average of the last 150 sentences is used to compute the sentiment score for each time point.</p>
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/scripts/scripts_sent5.png" alt="Image" class="img-fluid">
             </div>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+             <p>Wow this is really interesting, we can clearly see many dips in the sentiment score during the movies. Movies clearly tend to be more happy in the beginning and then become more sad in the end. This is in line with what we saw from the books aswell, so we can see that the movies represent the sentiment of the books quite well in the movies.</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/scripts/scripts_sent6.png" alt="Image" class="img-fluid">
             </div>
+            <p>Here we can clearly see that just looking at the average doesn't give us much information, it is only when we examine the time period that we see how the sentiment changes throughout the movies.</p>
      
      
      
@@ -723,23 +744,39 @@
        
           
           
-          
-          
-          
-          
-          
-          
             
          <div class="row mb-12 site-section" id="script-analysis-3">
           <h2 class="text-black">Term frequency analysis</h2>
-           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
 
-            <div class="col-lg-12 text-center" data-aos="fade-right">
-                <img src="images/scripts/scripts_tf.png" alt="Image" class="img-fluid">
-            </div>
-     
-        </div> <!-- scripts end-->   
-          
+            <p>The word term frequency of the scripts was created and a wordcloud generated. It can be seen that Harry is the most dominant word with over with over 800 mentions, this is similar to the books.</p>
+           
+
+           <div class="col-lg-12 text-center" data-aos="fade-right">
+               <img src="images/scripts/all_line_wordcloud.png" alt="Image" class="img-fluid">
+           </div>
+
+           <p>For fun visualization the term frequency of some of the characters are plotted based on their figure. <b>Explore the different characters by clicking their names on the left!</b></p>
+           
+           <div class="row mb-5">
+              <div class="col-lg-3 ml-auto pl-lg-3" data-aos="fade-right">
+                <div class="btn-group-vertical">
+                  <button type="button" class="btn btn-light active wordcloud" id="wordcloud-dobby" onclick="set_wordcloud(this)">Dobby</button>
+                  <button type="button" class="btn btn-light wordcloud" id="wordcloud-harry" onclick="set_wordcloud(this)">Harry Potter</button>
+                  <button type="button" class="btn btn-light wordcloud" id="wordcloud-ron" onclick="set_wordcloud(this)">Ron Weasly</button>
+                  <button type="button" class="btn btn-light wordcloud" id="wordcloud-hermione" onclick="set_wordcloud(this)">Hermione Granger</button>
+                  <button type="button" class="btn btn-light wordcloud" id="wordcloud-bellatrix" onclick="set_wordcloud(this)">Bellatrix</button>
+                  <button type="button" class="btn btn-light wordcloud" id="wordcloud-snape" onclick="set_wordcloud(this)">Snape</button>
+                  <button type="button" class="btn btn-light wordcloud" id="wordcloud-voldemort" onclick="set_wordcloud(this)">Voldemort</button>
+                  <button type="button" class="btn btn-light wordcloud" id="wordcloud-mcgonagall" onclick="set_wordcloud(this)">Mcgonagall</button>
+                </div>
+              </div>
+              <div class="col-lg-7" data-aos="fade-left">
+                <img src="movie_scripts/data/char_images/char_wordclouds/Dobby_wordcloud.png" alt="Image" class="img-fluid" id="wordcloud-img">
+              </div>
+          </div>
+        </div>
+         <!-- scripts end-->   
+
           <div class="row mb-12 site-section" id="script-analysis-4">
           <h2 class="text-black">Networks</h2>
            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
