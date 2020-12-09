@@ -189,8 +189,9 @@
                     </li>
                       
                     <li class="has-children">
-                      <a href="#script-analysis-1">Script analysis</a>
+                      <a href="#script-analysis">Script analysis</a>
                       <ul class="dropdown">
+                        <li><a href="#script-analysis">Basic analysis</a></li>
                         <li><a href="#script-analysis-1">Character analysis</a></li>
                         <li><a href="#script-analysis-2">Sentiment analysis</a></li>
                         <li><a href="#script-analysis-3">Term frequency analysis</a></li>
@@ -202,22 +203,24 @@
                       
                       
                       <li class="has-children">
-                      <a href="#wiki-analysis-1">Wiki analysis</a>
+                      <a href="#wiki-analysis">Wiki analysis</a>
                       <ul class="dropdown">
-                        <li><a href="#wiki-analysis-1">Wiki analysis 1</a></li>
-                        <li><a href="#wiki-analysis-2">Wiki analysis 2</a></li>
-                        <li><a href="#wiki-analysis-3">Wiki analysis 3</a></li>  
+                        <li><a href="#wiki-analysis">Overview</a></li>
+                        <li><a href="#wiki-analysis-1">Network creation</a></li>
+                        <li><a href="#wiki-analysis-2">Network statistics and analysis</a></li>  
+                        <li><a href="#wiki-analysis-3">Community detection</a></li>  
+                        <li><a href="#wiki-analysis-4">Sentiment analysis</a></li>  
                       </ul>
                     </li>                    
 
                       <li class="has-children">
-                      <a href="#wiki-analysis-1">Comparison analysis</a>
+                      <a href="#comparison-analysis">Comparison analysis</a>
                       <ul class="dropdown">
-                        <li><a href="#comparison-analysis-1">Comparison analysis 1</a></li>
-                        <li><a href="#comparison-analysis-2">Comparison analysis 2</a></li>
-                        <li><a href="#comparison-analysis-3">Comparison analysis 3</a></li>  
+                        <li><a href="#comparison-analysis">Term frequency comparison</a></li>
+                        <li><a href="#comparison-analysis-1">Sentiment comparison</a></li>
                       </ul>
-                    </li>                       
+                    </li>
+                    <li><a href="#network-viz" class="nav-link">Interactive wiki network</a></li>                       
                       
                   </ul>
                 </li>
@@ -309,7 +312,7 @@
               <div>
                 <h3>Movie Scripts</h3>
                 <p>Analysis of the eight Harry Potter movie scripts will shed light on the differences between the films. Which characters are most sentimental?</p>
-                <p><a href="#script-analysis-1">Learn More</a></p>
+                <p><a href="#script-analysis">Learn More</a></p>
               </div>
             </div>
           </div>
@@ -324,7 +327,7 @@
               <div>
                 <h3>Wiki fandom</h3>
                 <p>The fandom contains a lot of information about the characters and how they connect with each other. How can this information be used to build a network?</p>
-                <p><a href="#wiki-analysis-1">Learn More</a></p>
+                <p><a href="#wiki-analysis">Learn More</a></p>
               </div>
             </div>
 
@@ -351,8 +354,8 @@
               </div>
               <div>
                 <h3>More magic</h3>
-                <p>Interested in seeing even more magic?<br><br><br><br></p>
-                <p><a href="#">Learn More</a></p>
+                <p>Interested in seeing even more magic? Explore the universe through a more interactive experience!<br><br></p>
+                <p><a href="#network-viz">Learn More</a></p>
               </div>
             </div>
           </div>            
@@ -516,7 +519,7 @@
             From the above figure it can be seen that the proportionally most frequent terms in all books are, <b>harry</b> followed by <b>said</b> and then <b>ron</b> and <b>hermione</b>. In the clean word list for each book, close to 3 out of 100 words are <b>harry</b>. The ratio remains pretty consistent between the books, although it is highest in books 2 and 3, Chamber of Secrets and Prisoner of Azkaban.
             This is not surprising.</p>
             <p>However the graph above highlights some interesting aspects of the books. 
-            It shows that <b>dumbledore</b> is most prominent in book 6, Half Blood Prince. It also shows how <b>hagrid</b> is much more prominent in the first book, than in the rest of the series. 
+            It shows that <b>Dumbledore</b> is most prominent in book 6, Half Blood Prince. It also shows how <b>hagrid</b> is much more prominent in the first book, than in the rest of the series. 
             <b>wand</b> becomes much more prominent in the last book, Deathly Hallows and similarly the <b>malfoy</b> family seems to be most prominent in book 2, Chamber of Secrets. Additionally the appearence of some prominent characters are clear, with <b>black</b> and <b>lupin</b> appearing in book 3, Prisoner of Azkaban. <b>sirius</b> becomes more prominent in the Order of the Pheonix, <b>lockhart</b> in the Chamber of Secrets and <b>slughorn</b> in the Half Blood Prince.</p>
 
             <p>It's interesting to see how much information relating to main secondary characters and themes of each book can be seen from such a relatively simple plot.</p>
@@ -877,10 +880,25 @@
 
 
             <ul class="ul-check mb-0 list-unstyled success">
-                <li>It can be seen by the network graph above that the dynamic trio are all in the same community along with Hagrid.</li>
-                <li>It seems that blue node are representing the teachers, such as Snape and Dumbledore.</li>
+                <li>It can be seen in the network graph above that the dynamic trio are all in the same community along with Hagrid.</li>
+                <li>It seems that blue nodes are representing the teachers, such as Snape and Dumbledore. Additionally, Filch is a Hogwarts employee.</li>
                 <li>The community colored in purple looks to be a community of Weasley family members.</li>
-                <li>The green community</li>
+                <li>The green community seems to be a Hogwarts subcommunity. The prime indicators of this is the network's size, and the fact that it consists of Hogwarts students and a teacher (Professor McGonagall).</li>
+            <li>
+                The brown community is quite isolated, and that makes sense as it is clearly a community of Harry's muggle family.
+            </li>
+            <li>
+                The orange community seems to consist of dark wizards or death-eaters. The primary villains of the story, Voldemort, Lucious Malfoy and Bellatrix are all in this same community.
+            </li>
+            <li>
+                The yellow community consists of Hogwarts student who are secondary characters.
+            </li>
+            <li>
+                The grey community consists only of Mr. Granger, Mrs. Granger and their Television. This is probably because of a particular scene in the films. 
+            </li>
+            <li>
+                The pink community seems to be a Nightbus community. The Disheveled Wizard rode the Nightbus on at least one occasion. Shunpike was a conductor of the nightbus. The Shrunken Head hangs off the rear mirror of the bus.  
+            </li>
             </ul>
 
             <!-- FANCY VIZ BEGIN-->
@@ -1303,14 +1321,21 @@
                     <img src="images/scripts/network_ref.png" alt="Image" class="img-fluid">
                 </div>
             </div>
-            These communities may be less intuitive then based on the previous network, but that is somewhat expected. This is due to the fact the characters usually talk about their enemies and not about them selves. Below are some key takeaways about the network.
+            These communities may be less intuitive then based on the previous network, but that is somewhat expected. This is due to the fact the characters usually talk about their enemies and not about them selves. As such, the analysis here only covers the largest communities, as thorough analysis would be somewhat redundant. Below are some key takeaways about the network.
 
             <ul class="ul-check mb-0 list-unstyled success">
-                <li>Red community </li>
-                <li>Blue community </li>
-                <li>The purple community is </li>
-                <li></li>
+
+                <li>The blue community seems to include a mixture of teachers, headmasters and Lord Voldemort. </li>
+                <li>The red community includes our dynamic trio. Additionally, this community includes the professors and staff of Hogwarts that these students interact with. For good reasons and for bad.</li>
+                
             </ul>
+
+
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <iframe style="display:block;" src="https://gifer.com/embed/ZW1k" width=480 height=316.301 frameBorder="0" allowFullScreen></iframe>
+            </div>
+
+            
               
               
         </div> <!-- scripts end-->          
@@ -1323,7 +1348,7 @@
 
 <!-- wikis begin -->          
 <!-- WIKIS - BASIC -->
-<div class="mt-5 row mb-0 site-section " id="book-analysis">
+<div class="mt-5 row mb-0 site-section " id="wiki-analysis">
     <div class="col-lg-8 order-1 order-lg-2 mx-auto" data-aos="fade-left" >
       <img src="images/wikis/fandom_page.png" alt="Image" class="img-fluid">
   
@@ -1762,6 +1787,11 @@ In order to do so, it is necessary to collect the sentiment from the books and t
 
 <div class="mt-5 row mb-0 site-section" id="network-viz">
     <h2 class="text-black">Interactive wiki network</h2>
+    <p>Step in to the Harry Potter universe and take a look around! Here in the Wiki network we have firstly a GCC of the characters that have houses. Secondly, we have a network of all the characters included in the community detection section. </p>
+
+    <p>You can switch networks on the top left side (note that one is much bigger, so it could be heavy). You can scale the node sizes by various metrics, and colour the nodes by different attributes. Note that the legend could be a bit off (as it is limited here), but this is still interesting to see the difference in these attributes!</p>
+
+    <p>Try colouring the network by different attributes, can you find the lone Werewolf in the House network? Can you find the happiest WikiPages in the House network? What is the gender distribution in the communities network? You can also play around with the network settings in the top right corner!</p>
     <!-- NEtwork will be inserted here with JS -->
 </div>
           
