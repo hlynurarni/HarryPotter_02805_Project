@@ -1395,12 +1395,12 @@
                 
                 <p>In this network we see our beloved Harry, Ron, Hermione, and others (top nodes are labelled). 
                     Notice how the houses tend to cluster together. As you probably know, the house colours are:
-                    The colours are as follows:</p>
+                    </p>
     
                     <ul>
                         <li>Red: <b>Gryffindor</b></li>
                         <li>Green: <b>Slytherin</b></li>
-                        <li>Yellow: <b>Huffelpuff</b></li>
+                        <li>Yellow: <b>Hufflepuff</b></li>
                         <li>Blue: <b>Ravenclaw</b></li>
                     </ul>
                     
@@ -1433,7 +1433,7 @@
 
                 <p>Now we have equalised the Y-axis, and added lines for the high-percentiles.
                     It feels a bit more even now, but notice how the <b>in-degree distribution</b> 
-                    stretches way higher than the out-degree distribution. This further supports the 
+                    stretches way higher than the <b>out-degree distribution</b>. This further supports the 
                     finding that the network has <b>hubs</b>. </p>
                     
                     <p>There is one node with such a high in-degree
@@ -1445,7 +1445,7 @@
                     <img src="images/wikis/wikis_2_out_degrees_zoomed.png" alt="Image" class="img-fluid">
                 </div>
 
-                <div class="author-box col-lg-6" data-aos="fade-right">
+                <div class="author-box col-lg-8" data-aos="fade-right">
                     <blockquote><b>Hagrid (in The Philosopher's Stone): </b>&ldquo;See, Harry, you're famous!&rdquo;</blockquote>
                   </div><br>
                   
@@ -1512,10 +1512,10 @@
                     <img src="images/wikis/wikis_2_nationalities.png" alt="Image" class="img-fluid">
                 </div>
                 <p>Here, we see the distribution of nationalities in the universe. Unsurprisingly, it's very British.
-                   Mostly the characters are from the unspecific <b>Great Britain</b>, with its different parts (<b>Wales</b>, <b>England</b>, <b>Scotland</b> all being common as well.</p>
+                   Mostly the characters are from the unspecific <b>Great Britain</b>, with its different parts (<b>Wales</b>, <b>England</b>, <b>Scotland</b>) all being common as well.</p>
 
                    <p><b>Bulgaria</b> is the most common after the British Isles, with <b>France</b> coming 
-                    third. Can you figure why?</p>
+                    third. Can you figure <a href="https://harrypotter.fandom.com/wiki/Triwizard_Tournament" target="_blank">why</a>?</p>
                     
 
                 </p>
@@ -1537,7 +1537,7 @@
                     This makes sense, as most of the main characters are in Gryffindor and Slytherin, and indeed a large theme of the book is the paralellism between the two houses. This means that many characters (including Harry) are narrowly chosen to one of the houses over the other, based on some character attributes. 
                 </p>
 
-                <p>One these attributes could be blood type. Let's look at this:</p>
+                <p>One these attributes could be <b>blood type</b>. Let's look at this:</p>
 
                 <div class="col-lg-12 text-center" data-aos="fade-right">
                     <img src="images/wikis/wikis_2_blood.png" alt="Image" class="img-fluid">
@@ -1551,7 +1551,7 @@
                 <p>
                     Half-bloods are more common than we expected, but this still makes sense as this attribute could include those that have just a somewhat diluted blood type in their family tree. Pure-blood families are very proud, and it is the opinion of some of them that witches and wizards should not mix with muggles. </p>
                     
-                    <p>The founder of the Slytherin house shared that sentiment, and wanted to forbid the teaching of half-bloods and muggles in the Hogwarts school. So much so, that he sealed the Chamber of Secrets and left in it a terrible monster, waiting to one day purge the school of those who are not <b>pure</b>. This is why we anticipate that Slytherin will have a disproportionate number of pure-bloods, as a trace of this characteristic of the house. The following quote is Slytherin's own <b>Draco Malfoy</b>'s take on non-pure bloods.
+                    <p>The founder of the Slytherin house shared that sentiment, and wanted to forbid the teaching of half-bloods and muggles in the Hogwarts school. So much so, that he sealed the Chamber of Secrets and left in it a terrible monster, waiting to one day purge the school of those who are not <b>pure</b>. This is why we anticipate that Slytherin will have a disproportionate number of pure-bloods, as a trace of this characteristic of the house. The following quote is Slytherin's own <b>Draco Malfoy</b>'s take on non-pure bloods:
                 </p>
 
                 <div class="author-box col-lg-6" data-aos="fade-right">
@@ -1586,7 +1586,7 @@
             <p>To see whether these communities make sense, let's first explore <b>TF-IDF</b> word clouds generated from their WikiPage texts. This in theory should highlight the unique words 
             used within each community. </p>
 
-            <div class="col-lg-12 text-center" data-aos="fade-left">
+            <div class="col-lg-12 text-center  mb-4" data-aos="fade-left">
                 <img src="images/wikis/wikis_3_wordclouds.png" alt="Image" class="img-fluid">
             </div>
 
@@ -1607,7 +1607,7 @@
 
 
                 
-            <p>We will revisit these communities shortly. For now, let's see how they when we visualise them!</p>
+            <p>We will revisit these communities shortly. For now, let's see how they are split when we visualise them!</p>
             
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/wikis/wikis_3_community_graph.png" alt="Image" class="img-fluid">
@@ -1636,14 +1636,14 @@
                  How were the results?
              </p>
   
-              <div class="col-lg-12 text-center" data-aos="fade-left">
+              <div class="col-lg-12 text-center  mb-4" data-aos="fade-left">
                   <img src="images/wikis/wikis_4_sentiments.png" alt="Image" class="img-fluid">
               </div>
               <p>Here we see the frequencies of different sentimental scores for WikiPages (in histogram bins). It's apparent that the sentiment of the WikiPages is not too spread out. This this being said, there are notable outliers around the bottom, below <b>4.7</b>. Similarly there are a fair few with sentiment over <b>6</b>.</p>
               <p>Now that we have a sentimental score for the characters, let's explore which main characters are the happiest: </p>
               <p>We'll look at the characters with a <b>degree</b> of at least <b>100</b> (to avoid bias from small pages).</p>
 
-              <div class="col-lg-12 text-center" data-aos="fade-right">
+              <div class="col-lg-12 text-center mb-4" data-aos="fade-right">
                 <img src="images/wikis/wikis_4_happiest.png" alt="Image" class="img-fluid">
             </div>
 
@@ -1651,18 +1651,21 @@
                 disregarding all nodes that do not have a degree of at least 100. The idea is 
                 that these are supposed to be widely known / main characters. Note that <b>Tom Riddle</b> 
                 sits in the 3rd unhappiest place, with <b>Weasleys</b> populating 3 out of the top 5 happiest 
-                pages. <b>Bellatrix Lestrange</b>, <b>Alastor Moody</b> are villains, and <b>Fleur Delacour</b> is a student 
+                pages. <b>Bellatrix Lestrange</b> is a villain, and <b>Alastor Moody</b> is impersonated to be one too. <b>Fleur Delacour</b> is a student 
                 that visits Hogwarts. These results do certainly make sense.</p>
 
             <p>But what if we look at the different sentimental values between communities? The idea is simple: Use the same scoring as previously, but average the scores over the whole communities that they reside in. Note that for this part, we've named the communities by the top 3 largest nodes in terms of degree.</p>
 
                 
-            <div class="col-lg-12 text-center" data-aos="fade-left">
+            <div class="col-lg-12 text-center  mb-4" data-aos="fade-left">
                 <img src="images/wikis/wikis_4_communities_sentiments.png" alt="Image" class="img-fluid">
             </div>
 
             <p>The table above shows the names of the communities along with their sentimental average, 
-                ordered by the value. The <b>Weasley community</b> sits happily in second place, 
+                ordered by the value. In first place is a rather peculiar 
+                community of <b>Horace Slughorn</b>, <b>Rufus Scrimgeor</b> and <b>Corban Yaxley</b>. This is surprising given that Corban is a death-eater, and Rufus a Ministry of Magic beaurocrat. This is probably on account of Slughorn being scored very highly (2nd place of the top characters) in terms of sentiment.
+                
+                The <b>Weasley community</b> sits happily in second place, 
                 with <b>Harry and his family</b> third. <b>Voldemort, along with all the legends in his 
                 community</b> sit in 6th place, and surprisingly <b>Ron, Hermione and Hagrid</b> are in 7th. 
                 This could have to do with the creatures that they meet on their travels. 
@@ -1680,13 +1683,12 @@
 <!-- Comparisons begin -->
          <div class="row mb-12 site-section" id="comparison-analysis-1">
              <h2 class="text-black">Comparison - Term Frequency - Books vs. Movies</h2>
-           <p>For the comparison, we gather the set of 10 most common words for the books and the top 10 most common words for the movies into a single set. In order to do so it is necessary to combine all the frequency distributions for the books into a single frequency distribution. This is simple, since frequency distribution objects can be summed together. The same will be done to combine all the movies into a single frequency distribution.</p> 
-             <p>Now the frequency of each of those words is extracted from the two frequency distributions. In order for the values to be comparible, it is necessary to normalize each value by so that the frequency of movie + book sums up to 100. That way all the values in the chart will sum up to the same value.</p>
+           <p>For the comparison, we gather the set of 10 most common words for the books and the top 10 most common words for the movies into a single set. Now the frequency of each of those words is extracted from the two frequency distributions. In order for the values to be comparible, it is necessary to normalize each value by so that the frequency of movie + book sums up to 100. That way all the values in the chart will sum up to the same value.</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/comparisons/comp_tf1.png" alt="Image" class="img-fluid">
             </div>
-             <p>From the chart below some interesting this can be seen:</p>
+             <p>From the chart below some interesting things can be seen:</p>
          <ul>
              <li>
              <b>Harry</b> is mentioned relatively more frequently in the books than in the films. 
@@ -1700,7 +1702,7 @@
              <li>Again this could have something to do with the fact, that in the movies there might not be the need to mention the names, if the characters are looking at each other when speaking.</li>
              </ul>
              <li>When looking at the verbs <b>could</b>, <b>know</b>, <b>see</b>, <b>said</b>, <b>think</b>, <b>go</b>, <b>would</b> and <b>come</b>, the verbs in present tense are much more frequent in the movies, while the verbs in past tense are more frequent in the books. This is an interesting distinction between the two.</li>
-             <li>Harry's last name <b>Potter</b> is mentioned much more in the films than it is in the books.</li>
+             <li>Harry's last name <b>Potter</b> is mentioned much more in the films than it is in the books. <a href="https://www.youtube.com/watch?v=5NK8AUydNrA" target="_blank">This seems reasonable.</a></li>
         </ul>
 
              
@@ -1712,6 +1714,7 @@
              <ul>
              <li>It's interesting to see that <b>Draco</b>, <b>Dobby</b> and <b>Nagini</b>, are mentioned much more frequently in the movies than the books, all with ratios over 70%.</li>
                  <li>The characters mentioned more frequently in the books than the movies are <b>Dursley</b>, <b>Lupin</b>, <b>McGonagall</b>, <b>Fred</b>, <b>George</b>, <b>Snape</b>, <b>Ron</b> and <b>Hermione</b>, all with ratios over 60%.</li>
+                 <li>The biggest difference is <b>Draco</b> having a much higher frequency in the movies than in the books. This could be attributed to the structure of cinema, where characters tend to be exaggerated and villainised more than in books.</li>
              </ul>
              
         </div>  
@@ -1721,7 +1724,7 @@
           <div class="row mb-12 site-section" id="comparison-analysis-2">
               <h2 class="text-black">Comparison - Sentiment - Books vs. Movies</h2>
            <p>It's also interesting to compare the sentiment values between the books and the movies.
-In order to do so, it is necessary to collect the sentiment from the books and the movies, and create a Moving Average window for both. The moving average for the books was decided to be 5 chapters. However the moving average for the scenes, was decided to be 30 scenes, as there are much more scenes in each movie, than chapters in each book.</p> 
+In order to do so, it is necessary to collect the sentiment from the books and the movies, and create a Moving Average window for both. The moving average for the books was decided to be 5 chapters. However, the moving average for the scenes was decided to be 30 scenes, as there are much more scenes in each movie, than chapters in each book.</p> 
 
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/comparisons/comp_sentiment1.png" alt="Image" class="img-fluid">
@@ -1733,7 +1736,7 @@ In order to do so, it is necessary to collect the sentiment from the books and t
 
 <p>The movies fluctuate much more in their sentiment value than the books. However the sentiment value range is still relatively small.</p>
 
- <p>To get a slightly better overview of the evolution of the sentiment, the sentiment analysis is broken down into a lower level. Now the books are broken up into chapters, and the movies are broken up into scenes.comp
+ <p>To get a slightly better overview of the evolution of the sentiment, the sentiment analysis is broken down into a lower level. Now the books are broken up into chapters, and the movies are broken up into scenes.
               </p>
 
             <div class="col-lg-12 text-center" data-aos="fade-left">
@@ -1758,7 +1761,7 @@ In order to do so, it is necessary to collect the sentiment from the books and t
   <!-- TEST FOR NETWORK VIZ -->        
 
 <div class="mt-5 row mb-0 site-section" id="network-viz">
-    <h2 class="text-black">Interactive network</h2>
+    <h2 class="text-black">Interactive wiki network</h2>
     <!-- NEtwork will be inserted here with JS -->
 </div>
           
