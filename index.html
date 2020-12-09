@@ -1297,6 +1297,8 @@
 <!--FANCY VIZ END-->
  <!--Scripts end-->
           
+
+
 <!-- wikis begin -->          
 <!-- WIKIS - BASIC -->
 <div class="mt-5 row mb-0 site-section " id="book-analysis">
@@ -1315,7 +1317,7 @@
       </ul>
     </div>
   </div>
-  <!-- SCRIPTS - BASIC text-->
+  <!-- WIKIS - BASIC text-->
     <div class="mt-0 row mb-0 site-section ">
       <div class="col-lg-12 pr-lg-12 mr-auto mt-12 order-1 order-lg-1">
           <p class="mb-0">
@@ -1329,34 +1331,31 @@
           <div class="col-lg-12 text-center" data-aos="fade-right">
             <img src="images/wikis/wikis_0_book_distributions.png" alt="Image" class="img-fluid">
           </div>
-           <p>The figure above represents the distribution of which book the Wikipages were corresponding to. Perhaps unsurprisingly, book 1 has the highest number of first appearances, but book 4 and 5 seem to shake things up considerably in the Harry Potter universe. Noticably low is book 3 (Prisoner of Azkaban) with less than 50 characters.</p>
+           <p>Above we see the distribution of which book the characters belong to (the first book they appeared in). Perhaps unsurprisingly, <b>book 1 (The Philosopher's Stone)</b> has the    
+            highest number of first appearances, but book <b>4 (The Goblet of Fire)</b> and <b>5 (The Order of the Phoenix)</b> seem to shake things up considerably in the Harry Potter universe. Noticably low is <b>book 3 (Prisoner of Azkaban)</b> with less than  50 characters.</p>
 
-            <div class="col-lg-12 text-center" data-aos="fade-left">
-                <img src="images/wikis/wikis_1_entire_network.png" alt="Image" class="img-fluid">
-            </div>
-            <p>
-                The entire WikiNetwork is clearly very sparse (has many nodes that have few degrees) 
-                and the visualization is not very meaningful. The network clearly needs work before 
-                anything concrete can be interpreted visually. We will fix this later on. 
-                In the meantime, let's visualize only the nodes with at least 4 in-degree 
-                (other nodes pointing to the node) and 4 out-degree (pointing to other nodes):
-            </p>
+            <p>Now let's see how the WikiPage universe might look, with each page connected to its links:</p>
+
+           
 
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/wikis/wikis_1_highly_connected_subgraph.png" alt="Image" class="img-fluid">
             </div>
             <p>
-                That looks more appropriate. The network seems to include a giant component, 
-                but we'll get to that later. Now let's explore what kind of nodes the 
-                network holds:
-            </p>
+                Above you can see an early depiction of the WikiPage network. The <b>nodes</b> of the network are WikiPages, and the <b>links</b> are actual (internet) links to other WikiPages in the network. The size of the nodes are determined by their <b>degree centrality</b>. </p>
 
+                <p>This is not the entire WikiPage network depicted here. These are nodes containing at least 4 references to other pages <b>(out-degree)</b> as well as being referenced at least 4 times by other pages <b>(in-degree)</b>. This is why we have such a dense middle, and no lonely nodes. This visualisation in particular contains <b>377 nodes</b>, out of the <b>788 nodes</b> in the network.</p>
+
+                <p>The network does seem to contain a giant component, and some really large nodes, but we'll explore that more later. Now, let's see what the network actually contains:</p>
+        
+        
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/wikis/wikis_1_type_distribution.png" alt="Image" class="img-fluid">
             </div>
             <p>
-                It would appear that thankfully, mostly our network consists of Individuals, with Pets following after that. This is good, because we're only interested in individuals for the remaining network analyses. 
-                But before we clean out the non-individual nodes, let's check the degree distributions on the whole network:
+                The network mostly consists of <b>Individuals</b>. This is good, because our further analyses will be done on a subgraph of the network containing only individuals. <b>Pets</b> are the second most common, but we have little interest in keeping <b>Locations</b>, <b>Spells</b>, or <b>Quidditch teams</b> for our network analysis.</p>
+                <p>As such we are going to clean these nodes out. But before we do that, let's see how the degrees are distributed in the whole network:</p>
+            
             </p>
             
             <div class="col-lg-12 text-center" data-aos="fade-right">
@@ -1364,218 +1363,239 @@
                 <img src="images/wikis/wikis_1_whole_out_distributions.png" alt="Image" class="img-fluid">
             </div>
             
-            <p>The above figures show the in-degree and out-degree distributions of the whole Wiki network. Note the substantial amount of nodes around 0 on the in-degree graph, and how far to the right it stretches. This could indicate that the network has hubs (nodes with disproportionally high in-degree).
+
+            <p>Here we see the <b>in-degree</b> and <b>out-degree</b> distributions in the whole network. Note the substantial amount of nodes around 0 on the in-degree graph, and how far to the right it stretches. This could indicate that the network has <b>hubs</b> (nodes with disproportionally high degree). </p>
+
                 
-            </p>
-
-            <p>At this point, we decided to only include individuals in our network, as that made more sense for analysis. What does that look like?</p>
-            
-            
-            <div class="col-lg-12 text-center" data-aos="fade-left">
-                <img src="images/wikis/wikis_1_individuals_houses.png" alt="Image" class="img-fluid">
-            </div>
-            <p>
-                The figure above shows the highly connected individuals in the network. The grey nodes indicate that the character has no Hogwarts house, while the coloured nodes indicate the house colour of the character. Notice that the highly connected characters are labeled.
-                The colours are as follows:</p>
-
-                <ol>
-                    <li>Red: Gryffindor</li>
-                    <li>Green: Slytherin</li>
-                    <li>Yellow: Huffelpuff</li>
-                    <li>Blue: Ravenclaw</li>
-                </ol>
-                
-                <p>Let's only visualize the highly connected characters that have houses:</p>
-
+            <p>Now we can clean out the non-individuals from the network. Let's make a visualisation that makes intuitive sense: Only highly-connected (>3 <b>in-degree</b> and <b>out-degree</b>) individuals with a known Hogwarts house! We should recognise some of these nodes:</p>
+                        
                 <img src="images/wikis/wikis_1_individuals_houses_only.png" alt="Image" class="img-fluid">
-                <p>
-                    In this network we see our beloved Harry, Ron, Hermione, and others. 
-                    There are other attributes to explore, namely blood type, book number 
-                    among others. We will explore these later on!
-                </p>
+                
+                <p>In this network we see our beloved Harry, Ron, Hermione, and others (top nodes are labelled). 
+                    Notice how the houses tend to cluster together. As you probably know, the house colours are:
+                    The colours are as follows:</p>
+    
+                    <ul>
+                        <li>Red: <b>Gryffindor</b></li>
+                        <li>Green: <b>Slytherin</b></li>
+                        <li>Yellow: <b>Huffelpuff</b></li>
+                        <li>Blue: <b>Ravenclaw</b></li>
+                    </ul>
+                    
+                    <p>The network above only consists of <b>124 nodes</b>, but you see how it can get more intuitive to look at subgraphs of the real network. This is just one attribute to look at, and the possibilities are many in the WikiPage network!</p>
 
+                    <p>Now, let's analyse the individuals network.</p>
+                
         </div>
           
          <div class="row mb-12 site-section" id="wiki-analysis-2">
           <h2 class="text-black">Wikis - Network statistics and analyses</h2>
-           <p>Here, we're interested in further analysing the degree distributions of the network, with the new subnetwork we've created containing only individuals. Furthermore, we want to analyse the different attributes in the network (node type, Hogwarts house etc.) and display their distributions.</p>
+
+          <p>Here, we want to further analyse the degree distributions of the network (only individuals this time). We will also analyse the different attributes in the network (<b>node type</b>, <b>Hogwarts house</b> etc.) and see their distributions.</p>
+        
 
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/wikis/wikis_2_scatter.png" alt="Image" class="img-fluid">
             </div>
      
-            <p>It can clearly be seen from the figures above that the in-degree distribution 
-                tends to hover more around the bottom than in the out-degree distribution. 
-                That is, it is denser towards 0. Furthermore it looks like the out-degrees 
-                reach the same heights as the in-degrees, but that is because the scales are 
-                not equalized, let's account for this:</p>
-                
+            <p>Above we can see that the <b>in-degree distribution</b> seems to hover around the bottom 
+                a little more than the <b>out-degree distribution</b>. That means that there could be more
+                nodes with very few references elsewhere than there are nodes with few references to other nodes (hope that makes sense).
+            </p>
+
+            <p>However, the scales are not equalised here, let's account for this:</p>
+
                 <div class="col-lg-12 text-center" data-aos="fade-right">
                     <img src="images/wikis/wikis_2_scatter_with_percentiles.png" alt="Image" class="img-fluid">
                 </div>
 
-                <p>The figure above shows the in-, and out-degree distributions of the 
-                    individuals network, with the scales equalized and high percentiles added. 
-                    It's clear that as we have noted before, the in-degrees stretch higher 
-                    than the out-degrees. Notice how the high percentile (99.7th) 
-                    is much higher on the left graph.
-
-                    Finally, let's explore which nodes are the highly connected ones in 
-                    terms of in-, and out-degrees, in this new individual network:</p>
-
+                <p>Now we have equalised the Y-axis, and added lines for the high-percentiles.
+                    It feels a bit more even now, but notice how the <b>in-degree distribution</b> 
+                    stretches way higher than the out-degree distribution. This further supports the 
+                    finding that the network has <b>hubs</b>. </p>
+                    
+                    <p>There is one node with such a high in-degree
+                    that it's almost out of frame - <b>can you guess who that is</b>? (spoiler - it's right below). 
+                    </p>
                 
                 <div class="col-lg-12 text-center" data-aos="fade-left">
                     <img src="images/wikis/wikis_2_in_degrees_zoomed.png" alt="Image" class="img-fluid">
                     <img src="images/wikis/wikis_2_out_degrees_zoomed.png" alt="Image" class="img-fluid">
                 </div>
 
-                <p>The figures above show the high percentiles of in-degree distribution 
-                    (the highest amount of references by other characters), and out-degree 
-                    distribution (highest amount of references to other characters). 
-                    All these characters are very well known and as such this should come 
-                    as no surprise. Note that Tom Riddle here is also known as Lord Voldemort 
-                    in the universe.</p>
+                <p>If you guessed <b>Harry Potter</b> then you are of course correct. Above we can see the highest nodes (over <b>98.5th percentile</b>
+                for both the <b>in-degree</b> and the <b>out-degree</b> distributions. You probably know most of these characters from the books and 
+                films, and it is no surprise that <b>Ron</b>, <b>Hermione</b> and <b>Dumbledore</b> are among the top nodes. Note that <b>Tom Riddle</b>
+                also goes by another name, which definitely should not be uttered, in writing or otherwise...</p>
 
                 <p>
                     As makes sense from a WikiPage network, 
                     the high-percentile out-degree nodes are very similar to the in-degree nodes. 
                     This means that these nodes had the most amount of links to other nodes 
                     in the network.
-
-                    This indicates that even though the network has hubs on the in-degree 
-                    spectrum, those same nodes have the most out-degrees too (albeit far lower)! 
-                    This could mean that these high-degree WikiPages have an unfair advantage 
-                    of being disproportionally updated - the pages themselves grow larger 
-                    (because they're already large), and are referenced from other pages 
-                    (because they're so large, and hence important).
                 </p>
 
-                <p>But now for the fun part, let's analyse the different attributes in the network!</p>
+                <p>
+                    This indicates that even though the network has hubs on the in-degree 
+                    spectrum, those same nodes have the most out-degrees too (albeit lower). 
+                    This could mean that these high-degree WikiPages have an unfair advantage 
+                    of being disproportionally updated <b>and</b> referenced - the pages themselves grow larger 
+                    (because they're already large), and are referenced from other pages 
+                    (because they're so large, and hence so important)!
+                </p>
+
+                <p>But now for some fun exploration, let's analyse the different attributes in the network!</p>
                     
                 <div class="col-lg-12 text-center" data-aos="fade-right">
                     <img src="images/wikis/wikis_2_genders.png" alt="Image" class="img-fluid">
                 </div>
                 <p>The figure above shows the distribution of the two main genders (Male and Female) 
                     in the Individual network. Note that the amount of males is almost double 
-                    that of the amount of females. This distribution is sadly unsurprising when 
+                    that of the amount of females. This distribution is not particularly surprising when 
                     it comes to popular culture and fiction, but perhaps a little bit surprising 
-                    given that the author of the stories is female. </p>
+                    given that the author of the stories, <b>J.K. Rowling</b>, is female. </p>
 
                 <div class="col-lg-12 text-center" data-aos="fade-left">
                     <img src="images/wikis/wikis_2_hair.png" alt="Image" class="img-fluid">
                 </div>
-                <p>The figure above shows the distribution of hair colour (or other description 
+                <p>Here we see the distribution of hair colour (or other description 
                     of hair) for those that are known in the network. In the wizarding world, 
-                    it might not be too surprising that grey hair is the most common. Indeed, 
+                    it might not be too surprising that <b>grey hair</b> is the most common. Indeed, 
                     the Dumbledore look seems to be forever in fashion in the universe, and some 
                     great wizards live up to hundreds of years old.</p>
                 
                 <div class="col-lg-12 text-center" data-aos="fade-right">
                     <img src="images/wikis/wikis_2_eyes.png" alt="Image" class="img-fluid">
                 </div>
-                <p>The figure above shows the distribution of the known eye colours in the network. 
-                    Blue eyes are the most common, perhaps unsurprisingly, with Green, 
-                    Brown and Dark all being equal for second. 'Dark' and 'Black' are perhaps the 
-                    most striking results, indicating perhaps villanous features.</p>
+                <p> ron blue, harry emerald green, hermione brown
+                    Here we see the distribution of known eye colours in the network. 
+                    
+                    Blue eyes (like <b>Ron</b>) are the most common, with Green (like <b>Harry</b>) and Brown (like <b>Hermione</b>) coming thereafter. 
+                    <b>'Dark'</b> and <b>'Black'</b> are perhaps the most striking results, sounds like villains, doesn't it?</p>
+        
                 
                 
                 <div class="col-lg-12 text-center" data-aos="fade-left">
                     <img src="images/wikis/wikis_2_species.png" alt="Image" class="img-fluid">
                 </div>
-                <p>The figure above shows the distribution of the different species in the universe. 
-                    Unsurprisingly, Human is by far the most common. Goblins, house-elfs and centaurs 
-                    are all part of the Harry Potter storyline, as well as Ghosts.</p>
+                <p>Here we see the distribution of different species in the universe. Of course, <b>humans</b> are the most common. 
+                    <b>Goblins</b>, <b>house-elfs</b>, <b>centaurs</b> and <b>ghosts</b> should not be unfamiliar to the avid Harry Potter fan, however.
+                    </p>
 
                 <div class="col-lg-12 text-center" data-aos="fade-right">
                     <img src="images/wikis/wikis_2_nationalities.png" alt="Image" class="img-fluid">
                 </div>
-                <p>The figure above shows the distribution of nationalities in the universe. 
-                    These results are not surprising, as the books (and films) featured a 
-                    very British narrative. It was decided to leave "England", "Wales" and 
-                    "Scotland" out of "Great Britain", though they are of course technically 
-                    the same region.
+                <p>Here, we see the distribution of nationalities in the universe. Unsurprisingly, it's very British.
+                   Mostly the characters are from the unspecific <b>Great Britain</b>, with its different parts (<b>Wales</b>, <b>England</b>, <b>Scotland</b> all being common as well.</p>
+
+                   <p><b>Bulgaria</b> is the most common after the British Isles, with <b>France</b> coming 
+                    third. Can you figure why?</p>
+                    
+
                 </p>
                 <p>
-                    Bulgaria is the most common after the British Isles, with France coming 
-                    third. Can you guess why?
+                    
                 </p>    
 
                 <div class="col-lg-12 text-center" data-aos="fade-left">
                     <img src="images/wikis/wikis_2_houses.png" alt="Image" class="img-fluid">
                 </div>
-                <p>The figure above shows the distributions of Hogwarts houses of the nodes with a known Hogwarts house. 
+                <p>The figure above shows the distributions of <b>Hogwarts houses</b> of the nodes with a known house. 
                     The barchart on the left shows the same information as the pieplot on the right.
                 </p>
                 <p>
-                    Perhaps unsurprisingly, Gryffindor and Slytherin are neck and neck with the highest frequencies, with 33% each. 
-                    Ravenclaw comes third with 17.5% and Hufflepuff sits at the bottom with 15.4%. 
+                    Perhaps unsurprisingly, <b>Gryffindor</b> and <b>Slytherin</b> are neck and neck with the highest frequencies, with 33% each. 
+                <b>Ravenclaw</b> comes third with 17.5% and <b>Hufflepuff</b> sits at the bottom with 15.4%. 
                 </p>
                 <p>
                     This makes sense, as most of the main characters are in Gryffindor and Slytherin, and indeed a large theme of the book is the paralellism between the two houses. This means that many characters (including Harry) are narrowly chosen to one of the houses over the other, based on some character attributes. 
                 </p>
 
+                <p>One these attributes could be blood type. Let's look at this:</p>
+
                 <div class="col-lg-12 text-center" data-aos="fade-right">
                     <img src="images/wikis/wikis_2_blood.png" alt="Image" class="img-fluid">
                 </div>
-                <p>The Harry Potter universe seems to be mostly populated by half-blood witches and wizards. Pure-bloods and Muggles are also common, with muggle-born witches and wizards being least common.
+
+                <p>Here we see the same figure as before, but looking at <b>blood type</b> disributions. Blood type refers to the magical heritage in a character's family. It is a hot topic 
+                in the stories, as some characters believe that magical powers should stay within magical families.</p>
+
+                <p>The Harry Potter universe seems to be mostly populated by <b>half-blood</b> witches and wizards. <b>Pure-bloods</b> and <b>Muggles</b> are also common, with <b>Muggle-born</b> witches and wizards being least common.
                 </p>
                 <p>
-                    Half-bloods are more common than expected, but this still makes sense as this column could include those that have somewhat diluted blood in their family tree. Pure-blood families are indeed very proud, and it was the opinion of some of them that witches and wizards should not mix with muggles. The founder of the Slytherin house shared that sentiment, and wanted to forbid the teaching of half-bloods and muggles in the Hogwarts school. So much so, that he sealed the Chamber of Secrets and left in it a terrible monster, waiting to one day purge the school of those who are not pureblood. This is why we anticipate that Slytherin will have a disproportionate number of pure-bloods, as a trace of this characteristic of the house. 
+                    Half-bloods are more common than we expected, but this still makes sense as this attribute could include those that have just a somewhat diluted blood type in their family tree. Pure-blood families are very proud, and it is the opinion of some of them that witches and wizards should not mix with muggles. </p>
+                    
+                    <p>The founder of the Slytherin house shared that sentiment, and wanted to forbid the teaching of half-bloods and muggles in the Hogwarts school. So much so, that he sealed the Chamber of Secrets and left in it a terrible monster, waiting to one day purge the school of those who are not <b>pure</b>. This is why we anticipate that Slytherin will have a disproportionate number of pure-bloods, as a trace of this characteristic of the house. The following quote is Slytherin's own <b>Draco Malfoy</b>'s take on non-pure bloods.
                 </p>
-                <p>
-                    To explore this, let's look at <b>Blood types</b> by <b>houses</b> and confirm whether our hypothesis that a relationship exists between the two is true. In addition to the previously stated hypothesis, it is expected that Slytherin also has disproportionately few muggle-born members.
-                </p>
+
+                <div class="author-box col-lg-6" data-aos="fade-right">
+                    <blockquote><b>Draco Malfoy (<a href="https://harrypotter.fandom.com/wiki/Pure-blood">on muggle-born</a>): </b>&ldquo;I really don't think they should let the other sort in, do you? They’re just not the same, they've never been brought up to know our ways. Some of them have never even heard of Hogwarts until they get the letter, imagine. I think they should keep it in the old wizarding families.&rdquo;</blockquote>
+                  </div><br>
 
                 <div class="col-lg-12 text-center" data-aos="fade-left">
                     <img src="images/wikis/wikis_2_blood_houses.png" alt="Image" class="img-fluid">
                 </div>
-                <p>The figure above shows the percentages of the different blood types between the different Hogwarts houses (disregarding a few mislabeled Muggles). Our hypothesis would seem to be true, with Slytherin having over half pure-bloods. Gryffindor also has a sizeable amount, with Ravenclaw and Hufflepuff having very few. 
+
+                <p>
+                    To explore this, here we have the percentages of the different <b>Blood types</b> by <b>houses</b>. This relationship seems to be true, there are proportionally more pure-bloods in Slytherin than the other houses. Gryffindor also has a sizeable amount of pure-bloods, with Ravenclaw and Hufflepuff having very few. 
                 </p>
+
                 <p>
                     Furthermore, all the houses except Slytherin have at least some muggle-born individuals. This confirms our second hypothesis that Slytherin would not be a likely home to muggle-born students.
                 </p>
                     
-
         </div>          
 
          <div class="row mb-12 site-section" id="wiki-analysis-3">
           <h2 class="text-black">Wikis - Community Detection</h2>
-           <p>This analysis aims to discover communities within the Wiki network. This means that we hope to find patterns within link distribution of the network using specialized algorithms to break the network down into modules. Let's see how it worked!</p>
+           <p> Now that we've explored the network and its attributes, let's try something a bit more advanced. Here, we try <b>community detection</b> in the network, hoping to find patterns 
+            in the link distribution using specialised algorithms to break down the network into modules. Let's see how it worked!</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/wikis/wikis_3_community_distribution.png" alt="Image" class="img-fluid">
             </div>
 
-            <p>Using the Louvain method, the figure above shows the split of the network in to communities. As can be seen, community 1 has more than 120 nodes, and there are 7 communities in total.</p>
+            <p>Using the <b>Louvain method</b>, the figure above shows the split of the network in to communities. As can be seen, community 1 has more than 120 nodes, and there are 7 communities in total. This means that the network has been split in to these 7 communities, due to the distribution of the links.</p>
+
+            <p>To see whether these communities make sense, let's first explore <b>TF-IDF</b> word clouds generated from their WikiPage texts. This in theory should highlight the unique words 
+            used within each community. </p>
 
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/wikis/wikis_3_wordclouds.png" alt="Image" class="img-fluid">
             </div>
 
-            <p>The wordclouds above represent the highest scoring words that are unique for each community in the network. It's clear that these words could be more revealing, but here are a few findings from them: </p>
+            <p>
+                These <b>wordclouds</b> represent the most unique or defining words for each community in the network. Some patterns are noticable, although this could be more revealing. 
+                Using our expert domain knowledge of having at least seen all the movies once, these are our thoughts on the different clouds:
+                </p>
             <ul>
-                <li>0. A community that seems to revolve around Harry's family. Albus is the name of Harry's son, and James is the name of his father. Lily is his mother, and Dudley, Vernon and Dursley represent his Muggle family.</li>
-                <li>1. This community seems to be a subcommunity at Hogwarts. It has to do with school, and perhaps a particular year at school.</li>
-                <li>2. Hagrid, Ron and Hermione's community. Beyond this, not much is notable.</li>
-                <li>3. A community that seems to revolve around Albus Dumbledore, Grindelwald, and perhaps some events that occur beyond the Harry Potter books.</li>
-                <li>4. A community that seems to revolve around death eaters. Lord Voldemort is a common phrase here, along with the Malfoys. Interestingly, Sirius Black seems to be involved with this community.</li>
-                <li>5. Most probably a Weasly family community. Charlie, Percy, Arthur are notable here.</li>
-                <li>6. A Voldemort community. Tom and Riddle are very notable, with "Marvolo" being Voldemort's middle-name. 'Gaunt', 'dark' and 'death' are common here.</li>
-                <li>7. Most probably a Ministry of Magic community.</li>
+                <li><b>Community 0</b>. A community that seems to revolve around Harry's family. <b>Albus</b> is the name of Harry's son, and <b>James</b> is the name of his father. <b>Lily</b> is his mother, and <b>Dudley</b>, <b>Vernon</b> and <b>Dursley</b> represent his Muggle family.</li>
+                <li><b>Community 1</b>. This community seems to be a subcommunity at Hogwarts. It has to do with school, and perhaps a particular year at school.</li>
+                <li><b>Community 2</b>. <b>Hagrid</b>, <b>Ron</b> and <b>Hermione's</b> community.</li>
+                <li><b>Community 3</b>. A community around <b>Albus Dumbledore</b>, <b>Grindelwald</b>, and perhaps some events that occur before or beyond the Harry Potter books.</li>
+                <li><b>Community 4</b>. A community that seems to revolve around <b>death eaters</b>. <b>Lord Voldemort</b> is a common phrase here, along with the <b>Malfoys</b>. Interestingly, <b>Sirius Black</b> seems to be involved with this community.</li>
+                <li><b>Community 5</b>. Most probably a <b>Weasly family</b> community. <b>Charlie</b>, <b>Percy</b>, <b>Arthur</b> are notable here.</li>
+                <li><b>Community 6</b>. A <b>Voldemort</b> community. <b>Tom</b> and <b>Riddle</b> are very notable, with <b>"Marvolo"</b> being Voldemort's middle-name. <b>'Gaunt'</b>, <b>'dark'</b> and <b>'death'</b> are also appropriately common here.</li>
+                <li><b>Community 7</b>. Most probably a <b>Ministry of Magic</b> community.</li>
             </ul>
 
 
                 
-            <p>We will revisit these communities shortly. For now, let's see how they look!</p>
+            <p>We will revisit these communities shortly. For now, let's see how they when we visualise them!</p>
             
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/wikis/wikis_3_community_graph.png" alt="Image" class="img-fluid">
             </div>
 
-            <p>The figure above shows the Giant Connected Component of individuals, coloured by their communities. 
-                Harry, Hermione and Ron are close to each other as excpected, with Ginny and 
-                Draco being closer to Voldemort.
+            <p>
+                The figure above shows the <b>Giant Connected Component</b> (most highly connected subgraph) of individuals, coloured by their communities. 
+                Harry, Hermione and Ron are close to each other as excpected, with <b>Ginny</b> and 
+                <b>Draco</b> being closer to <b>Voldemort</b> and other main characters.
                 Note that the colours tend to cluster together, with red being a big community at the bottom (Hogwarts subcommunity).
+                 </p>
+
+                 <p>
+                     Although the communities seem to cluster somewhat, there's a good amount of mixing, too.
                  </p>
             
 
@@ -1583,6 +1603,9 @@
 
         <div class="row mb-12 site-section" id="wiki-analysis-4">
             <h2 class="text-black">Wikis - Sentiment analysis</h2>
+             <p>Now we want to analyse the text stored within the WikiPages. Namely - we want to answer how <b>happy</b> or <b>sad</b> it is (known as <b>sentiment</b>).
+             </p>                 
+                
              <p>Using a word list for scoring, we analysed the sentimental value of the different WikiPages.
                  How were the results?
              </p>
@@ -1590,22 +1613,22 @@
               <div class="col-lg-12 text-center" data-aos="fade-left">
                   <img src="images/wikis/wikis_4_sentiments.png" alt="Image" class="img-fluid">
               </div>
-              <p>The histogram above shows the frequencies of sentimental scores for WikiPages. It's apparent that the sentiment of the WikiPages is not too spread out. This this being said, there are notable outliers around the bottom, below 4.7. Similarly there are a fair few with sentiment over 6.</p>
-              <p>Let's explore which main characters are the happiest: </p>
-              <p>We'll look at the characters with a degree of at least 100.</p>
+              <p>Here we see the frequencies of different sentimental scores for WikiPages (in histogram bins). It's apparent that the sentiment of the WikiPages is not too spread out. This this being said, there are notable outliers around the bottom, below <b>4.7</b>. Similarly there are a fair few with sentiment over <b>6</b>.</p>
+              <p>Now that we have a sentimental score for the characters, let's explore which main characters are the happiest: </p>
+              <p>We'll look at the characters with a <b>degree</b> of at least <b>100</b> (to avoid bias from small pages).</p>
 
               <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/wikis/wikis_4_happiest.png" alt="Image" class="img-fluid">
             </div>
 
-            <p>The tables above show the happiest 5 and unhappiest 5 WikiPages in the network, 
+            <p>The tables above show the <b>happiest 5</b> and <b>unhappiest 5</b> WikiPages in the network, 
                 disregarding all nodes that do not have a degree of at least 100. The idea is 
-                that these are supposed to be widely known / main characters. Note that Tom Riddle 
-                sits in the 3rd unhappiest place, with Weasleys populating 3 out of the top 5 happiest 
-                pages. Bellatrix Lestrange, Alastor Moody are villains, and Fleur Delacour is a student 
+                that these are supposed to be widely known / main characters. Note that <b>Tom Riddle</b> 
+                sits in the 3rd unhappiest place, with <b>Weasleys</b> populating 3 out of the top 5 happiest 
+                pages. <b>Bellatrix Lestrange</b>, <b>Alastor Moody</b> are villains, and <b>Fleur Delacour</b> is a student 
                 that visits Hogwarts. These results do certainly make sense.</p>
 
-            <p>But what if we look at the different sentimental values between communities? The idea is simple: Use the same scoring as previously, but average the scores over the whole communities that they reside in.</p>
+            <p>But what if we look at the different sentimental values between communities? The idea is simple: Use the same scoring as previously, but average the scores over the whole communities that they reside in. Note that for this part, we've named the communities by the top 3 largest nodes in terms of degree.</p>
 
                 
             <div class="col-lg-12 text-center" data-aos="fade-left">
@@ -1613,17 +1636,20 @@
             </div>
 
             <p>The table above shows the names of the communities along with their sentimental average, 
-                ordered by the value. The Weasley community sits happily in second place, 
-                with Harry and his family third. Voldemort, along with all the legends in his 
-                community sit in 6th place, and surprisingly Ron, Hermione and Hagrid are in 7th. 
+                ordered by the value. The <b>Weasley community</b> sits happily in second place, 
+                with <b>Harry and his family</b> third. <b>Voldemort, along with all the legends in his 
+                community</b> sit in 6th place, and surprisingly <b>Ron, Hermione and Hagrid</b> are in 7th. 
                 This could have to do with the creatures that they meet on their travels. 
-                In last place is the community with Draco Malfoy, Bellatrix Lestrange, and, 
-                perhaps unfittingly, Sirius Black.</p>
+                In last place is the community with <b>Draco Malfoy, Bellatrix Lestrange, and, 
+                perhaps unfittingly, Sirius Black</b>.</p>
 
-            <p>The sentiment analysis made intuitive sense. The highest rated versus the lowest rated characters clearly shows a trend of the 'good' guys being happier than the 'bad' guys. Furthermore, the Weasly family seems to be doing quite well when it comes to sentiment.</p>
+            <p>Although the communities could be a bit clearer, the sentiment analysis made intuitive sense. The highest rated versus the lowest rated characters clearly shows a trend of the <b>'good'</b> guys being happier than the <b>'bad'</b> guys. Furthermore, the Weasley family seems to be doing quite well when it comes to sentiment. It seems like it is indeed good to be a Weasley.</p>
 
           </div>  
 <!-- wikis end -->
+
+
+
 
 <!-- Comparisons begin -->
          <div class="row mb-12 site-section" id="comparison-analysis-1">
