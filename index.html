@@ -819,7 +819,7 @@
           
             
          <div class="row mb-12 site-section" id="script-analysis-3">
-          <h2 class="text-black">Term frequency analysis</h2>
+          <h2 class="text-black">Term frequency</h2>
 
             <p>Rrequency distribution of the words was created after taken out stop words and lemmatising the text. It can be seen that Harry and his second name Potter are the most frequent words with over 800 occurances. The other top words such as, know, one, want and  this is similar to the books.</p>
             <div class="col-lg-12 text-center" data-aos="fade-right">
@@ -832,7 +832,7 @@
 
            <p>For fun visualization the term frequency of some of the characters are plotted based on their figure. <b>Explore the different characters by clicking their names on the left!</b></p>
            
-           <div class="row mb-5">
+           <div class="row mb-12">
               <div class="col-lg-3 ml-auto pl-lg-3" data-aos="fade-right">
                 <div class="btn-group-vertical">
                   <button type="button" class="btn btn-light active wordcloud" id="wordcloud-dobby" onclick="set_wordcloud(this)">Dobby</button>
@@ -854,8 +854,7 @@
 
           <div class="row mb-12 site-section" id="script-analysis-4">
           <h2 class="text-black">Networks</h2>
-           <p>In this section the creation of networks will be done, 2 types of networks are made from the gathered information of the scripts. To be able to do those networks the scene id becomes crucial to create the links we wanted.
-            The scene id is used to create a variable representing how many times characters are in the same seen. This will give information about how many times they interact directly or indirectly during the movies. The second network will be based on how many times the characters mention each other, here we can create a directed graph based on those mentions. Further on, community detection algorithm is used and the found communities are then plotted on a graph with their colors. The communities will be analysed and reasoning for those communities will be discussed.</p>
+           <p>In this section the creation of networks will be done, 2 types of networks are made from the gathered information of the scripts. The first network is based on characters that act in the same scene are counted together as a pair and this will show their interactions directly or indirectly during the movies. The second network will be based on how many times the characters mention each other, here we can create a directed graph based on those mentions. Further on, community detection algorithm is used and the found communities are then plotted on a graph with their colors. The communities will be analysed and reasoning for those communities will be discussed.</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/scripts/scripts_network1.png" alt="Image" class="img-fluid">
@@ -863,26 +862,42 @@
             <p>In the figure above the highest interaction pair of characters is plotted. The trio Harry, Ron and Hermione have the most scenes together, after them Harry has most interaction with Albus Dumbledore and Hagrid. Now based on those character pairs a weighted network is created and from that network the Louvine algorithm is used to find communities.</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-right">
-                <img src="images/scripts/scripts_network2.png" alt="Image" class="img-fluid">
+                <img src="images/scripts/network_scene_com.png" alt="Image" class="img-fluid">
             </div> 
               
-              <p>Here we can see some strong communities and the total communities of the network is 7. Now we go into further anlysis and look at the communities indvidually and plot the network based on those communities. The communities will further be named after their 3 highest connected characters(nodes).</p>
-
-            <div class="col-lg-12 text-center" data-aos="fade-left">
-                <img src="images/scripts/scripts_network3.png" alt="Image" class="img-fluid">
+              <p>Here we can see some strong communities and the total communities of the network is 7. Now we go into further anlysis and look at the communities indvidually and plot the network based on those communities. The communities are named after their 3 highest connected characters(nodes).</p>
+            <div class="row mb-12">
+                <div class="col-lg-2" data-aos="fade-right">
+                    <img src="images/scripts/scripts_network3_com.png" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-lg-10" data-aos="fade-left">
+                    <img src="images/scripts/scripts_network3.png" alt="Image" class="img-fluid">
+                </div>
             </div>
-              
+                
              <h2 class="text-black">Trying different method of weighted network</h2>
               <p>Now instead of looking at the connection between scenes, we turn to the sentences. The sentences are used to link characters together with a directed weighted network, where the weight is determined by how often a character mentions another character. The link is created if a mention exists otherwise there is no link. Here it will be interesting to see what characters talk frequently too or about each other, and how they will be linked.</p>
 
+              <p>Below the distribution of the highest mentioned characters can be seen.</p>
+              <div class="col-lg-12 text-center" data-aos="fade-left">
+                <img src="images/scripts/top_reference.png" alt="Image" class="img-fluid">
+            </div>
+
+            <p>Not surprisingly, we have Harry Potter as the most referenced character, as could be seen in the term frequency analysis. Thereafter come Ron and Hermione and we can, yet again see the relevance of those 3 characters based on mentions.</p>
+
             <div class="col-lg-12 text-center" data-aos="fade-right">
-                <img src="images/scripts/scripts_network6.png" alt="Image" class="img-fluid">
+                <img src="images/scripts/network_ref_complot.png" alt="Image" class="img-fluid">
             </div>
               
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+              <p>Here the community partitioning is interesting, there are two really big communities followed by 5 smaller ones. The network is drawn based on those communities and colors assigned to the nodes. The communities are named after their 3 highest connected characters(nodes).</p>
 
-            <div class="col-lg-12 text-center" data-aos="fade-left">
-                <img src="images/scripts/scripts_network7.png" alt="Image" class="img-fluid">
+              <div class="row mb-12">
+                <div class="col-lg-2" data-aos="fade-right">
+                    <img src="images/scripts/network_ref_com.png" alt="Image" class="img-fluid">
+                </div>
+                <div class="col-lg-10" data-aos="fade-left">
+                    <img src="images/scripts/network_ref.png" alt="Image" class="img-fluid">
+                </div>
             </div>
               
               
@@ -890,17 +905,11 @@
             
 
 <!-- FANCY VIZ BEGIN-->
-
-          
-          
-          
           
           
           <div class="row mb-12 site-section" id="script-analysis-sankey">
             <h2 class="text-black">Sankey diagram of characters in same scenes</h2>
-            <p>One interesting analysis that can be performed on text is a <b>Lexical dispersion</b> analysis. This analysis will visually display where in the list of all words a specified term is used. Since our dataset includes seven books it would be interesting to see where in the series certain terms appear and if some information can be extracted from the visualization. The analysis will be done on the cleaned text, so that the similar terms of the same word, all group under a single version of the term.</p>
-          <p>One interesting analysis that can be performed on text is a <b>Lexical dispersion</b> analysis. This analysis will visually display where in the list of all words a specified term is used. Since our dataset includes seven books it would be interesting to see where in the series certain terms appear and if some information can be extracted from the visualization. The analysis will be done on the cleaned text, so that the similar terms of the same word, all group under a single version of the term.</p>
-              
+            <p>Based on the connection between characters that act in the same scena a fancy Snake digram was created. The diagram creates links between characetrs based on the total count of shared scenes. Try it out and hover over the characters to their respective weight and connection!</p>
  
         <div id="chart-e2a02073" class="chord col-lg-12 text-center" data-aos="fade-left">
             </div>
