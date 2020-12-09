@@ -769,13 +769,12 @@
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/scripts/scripts_sent1.png" alt="Image" class="img-fluid">
             </div>
-            <p>Here the sentiment score for all characters is plotted and the mean included as a red line. The mean is 5.55 which would be consider pretty neutral and more on the positive side. We can see that the sentimental score is somewhat neutral but compared to the wikipages it has more dispersion. Now it will be interesting to look at what are the saddest and happiest characters based on the lines in the script.</p>
-            <br>
+            <p>Here the sentiment score for all characters is plotted and the mean included as a red line. The mean is 5.55 which would be consider pretty neutral and more on the positive side. When compared to the wiki-pages, the movies have more dispersion.</p><br>
             <p>Now it will be interesting to look at what the saddest and happiest characters based on the lines in the scripts are.</p>
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/scripts/scripts_sent2.png" alt="Image" class="img-fluid">
             </div>
-             <p>Here the saddest 10 and happiest 10 characeters are plotted. If we take a closer look those characters we can see that some of them have few lines that happen to be graded with high sentiment score. For instance Snake has the line Thanksssss, which is his only word in the film. To make this more meaningful a minimum limit of words containing a sentiment score will be applied for the filterin of the 10 happiest and saddest characters. Here for fun the below it can be seen where Harry uses his magic by accident to set the snake free and he thanks him in return. </p>
+             <p>Here the saddest 10 and happiest 10 characeters are plotted. If we take a closer look those characters, we can see that some of them have few lines that happen to be graded with high sentiment score. For instance Snake has the line Thanksssss, which is his only word in the film. To make this more meaningful a minimum limit of words containing a sentiment score will be applied for the filterin of the 10 happiest and saddest characters. Here below a small snippet from the script can be seen where where Harry uses his magic by accident to set the snake free, the snake thanks him then in return. </p>
              <div class="author-box col-lg-7" data-aos="fade-right">
               <blockquote><b>Dudley: </b>&ldquo;Mummy, dad, come here! You won't believe what this snake is doing!!&rdquo;</blockquote>
               <blockquote><b>Dudley: </b>&ldquo;Whoa! Ahh! Ahh!!&rdquo;</blockquote>
@@ -822,9 +821,11 @@
          <div class="row mb-12 site-section" id="script-analysis-3">
           <h2 class="text-black">Term frequency analysis</h2>
 
-            <p>The word term frequency of the scripts was created and a wordcloud generated. It can be seen that Harry is the most dominant word with over with over 800 mentions, this is similar to the books.</p>
-           
-
+            <p>Rrequency distribution of the words was created after taken out stop words and lemmatising the text. It can be seen that Harry and his second name Potter are the most frequent words with over 800 occurances. The other top words such as, know, one, want and  this is similar to the books.</p>
+            <div class="col-lg-12 text-center" data-aos="fade-right">
+                <img src="images/scripts/script_tf_all.png" alt="Image" class="img-fluid">
+            </div>
+            <p>Beolow is a wordlcoud represenation from all the sentences.</p>
            <div class="col-lg-12 text-center" data-aos="fade-right">
                <img src="images/scripts/all_line_wordcloud.png" alt="Image" class="img-fluid">
            </div>
@@ -853,18 +854,19 @@
 
           <div class="row mb-12 site-section" id="script-analysis-4">
           <h2 class="text-black">Networks</h2>
-           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+           <p>In this section the creation of networks will be done, 2 types of networks are made from the gathered information of the scripts. To be able to do those networks the scene id becomes crucial to create the links we wanted.
+            The scene id is used to create a variable representing how many times characters are in the same seen. This will give information about how many times they interact directly or indirectly during the movies. The second network will be based on how many times the characters mention each other, here we can create a directed graph based on those mentions. Further on, community detection algorithm is used and the found communities are then plotted on a graph with their colors. The communities will be analysed and reasoning for those communities will be discussed.</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/scripts/scripts_network1.png" alt="Image" class="img-fluid">
             </div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+            <p>In the figure above the highest interaction pair of characters is plotted. The trio Harry, Ron and Hermione have the most scenes together, after them Harry has most interaction with Albus Dumbledore and Hagrid. Now based on those character pairs a weighted network is created and from that network the Louvine algorithm is used to find communities.</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-right">
                 <img src="images/scripts/scripts_network2.png" alt="Image" class="img-fluid">
-            </div>  
+            </div> 
               
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel tortor eu nisl consequat facilisis sit amet sed ex. Donec ipsum urna, mollis ut nulla eu, varius sodales erat. Curabitur dictum nulla nec elit convallis interdum. Mauris non feugiat urna, at euismod tellus. Praesent facilisis est nec lobortis interdum. Morbi eu dictum turpis, quis porttitor lacus. Donec laoreet, dolor quis bibendum fringilla, odio nulla dapibus justo, at posuere felis sapien vel nisi. Curabitur molestie massa in tellus condimentum tempus.</p>
+              <p>Here we can see some strong communities and the total communities of the network is 7. Now we go into further anlysis and look at the communities indvidually and plot the network based on those communities. The communities will further be named after their 3 highest connected characters(nodes).</p>
 
             <div class="col-lg-12 text-center" data-aos="fade-left">
                 <img src="images/scripts/scripts_network3.png" alt="Image" class="img-fluid">
